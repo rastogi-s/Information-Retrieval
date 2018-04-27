@@ -10,14 +10,14 @@
 
 		> A. Use the previously crawled data using BFS algorithms to construct a graph G1 in the 
 		     below format
-		     D1	D2	D3	D4
-		     D2	D5	D6
-             D3	D7	D8
-             where D1 is webpage docID and each line in the graph indicates the in-link relationship.
-             which means D1 has three incoming links from D2, D3, D4.
-        > B. Use the same steps as in A to construct a graph G2 from the previously crawled data 
+		     D1	D2 D3 D4
+		     D2	D5 D6 
+		     D3 D7 D8
+		     where D1 is webpage docID and each line in the graph indicates the in-link relationship.
+		     which means D1 has three incoming links from D2, D3, D4.
+		> B. Use the same steps as in A to construct a graph G2 from the previously crawled data 
              using DFS algorithm.
-        > 	 Generate a brief report on simple statistics over graphs G1 and G2, the number of 
+        > C. Generate a brief report on simple statistics over graphs G1 and G2, the number of 
              pages with no in-links, the number of pages with no out-links(sinks). 
 		  
  Task 2: Link Analysis: Implementations
@@ -33,9 +33,10 @@
 			    Discuss the results.
 			 2. Re-run the PageRank	algorithm in Task2-B for exactly 4 iterations. Discuss 
 			    the results obtained with respect to the baseline.
-			 3. Sort the documents based on their raw in-link count. Compare the top 10 documents
-			    in this run to those obtained in Task2-B. Discuss the pros and cons of using the 
-			    in-link count as an alternative to PageRank (address at	least 2	pros and 2 cons).
+			 3. Sort the documents based on their raw in-link count. Compare the top 10 
+			    documents in this run to those obtained in Task2-B. Discuss the pros and 
+			    cons of using the in-link count as an alternative to PageRank 
+			    (address at least 2	pros and 2 cons).
 
 ####################################################################################################
 
