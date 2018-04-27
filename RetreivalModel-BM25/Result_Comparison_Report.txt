@@ -1,0 +1,579 @@
+############################################################################################################
+######################################       BM25 VS  LUCENE      ##########################################
+############################################################################################################
+
+Note: Overall result of all comparisons of individual queries and the reason for quality of result obtained is 
+	  discussed at the end of this text file.
+
+Query Q1: dark eclipse moon
+
+-------- BM25 ----------
+
+1 Q0 Corona 1 3.81798556862 BM25
+1 Q0 Daguerreotype 2 3.72903199655 BM25
+1 Q0 Black_Sea 3 3.72428980856 BM25
+1 Q0 General_relativity 4 3.58684324996 BM25
+1 Q0 Sparta 5 3.54312253283 BM25
+
+------- Lucene ---------
+
+
+1 Q0 Dark_moon 1 0.40743363 Lucene
+1 Q0 Magnitude_of_an_eclipse 2 0.32304546 Lucene
+1 Q0 Magnitude_of_eclipse 3 0.32304546 Lucene
+1 Q0 Lunar_eclipse 4 0.27747765 Lucene
+1 Q0 Penumbra 5 0.2676747 Lucene
+
+
+Comparison: There was no overlap among the top 5 document result obtained for the first query.
+			In the first query a varied result was observed in terms of 
+			rank and score.
+			Some of the documents that overlapped in top 100:
+			 -> 1 Q0 Naked_eye 9 3.3967745816 BM25 / 1 Q0 Naked_eye 33 0.14380796 Lucene
+			 -> 1 Q0 Dark_moon 10 3.37504865153 BM25 / 1 Q0 Dark_moon 1 0.40743363 Lucene
+			 -> 1 Q0 Far_side_of_the_Moon 13 3.22970497541 BM25 / 1 Q0 Far_side_of_the_Moon 25 0.16138594 Lucene
+			 -> 1 Q0 Lunar_terminator 19 2.75628916374 BM25 / 1 Q0 Lunar_terminator 9 0.24242878 Lucene
+			 
+			The drop of scores based on ranks is minimal for both Lucene and BM25 results.
+			To discuss the quality of the result we checked the first ranked document(Corona for BM25 and Dark_Moon for Lucene) 
+			for each term in the query 
+			
+			Corona(BM25):
+			dark - 7 matches
+			eclipse - 1 match
+			moon - 0 match
+			
+			Dark_Moon(Lucene):
+			dark - 14 matches
+			eclipse - 0 match
+			moon - 29 match
+			
+			 
+			Just by observing the count of matches of rank 1 document from both the implementations it can be 
+			observed that Lucene implementation gave better quality than BM25 implementation.
+			The basis of above quality is based only on the number of occurrence of query terms, the quality check can be 
+			done on various other factors (eg. relevance etc.)
+
+------------------------------------------------------------------------------------------
+
+Query Q2: forecast models
+
+-------- BM25 ----------
+
+2 Q0 Skylab 1 7.12588269704 BM25
+2 Q0 Digital8 2 5.19273485918 BM25
+2 Q0 Space_weather 3 5.10511582763 BM25
+2 Q0 General_relativity 4 5.02293027336 BM25
+2 Q0 Astronomy 5 4.97091396916 BM25
+
+
+------- Lucene ---------
+
+
+2 Q0 Solar_eclipse_of_September_4_2100 1 0.12718563 Lucene
+2 Q0 Skylab 2 0.10953229 Lucene
+2 Q0 Digital8 3 0.09916142 Lucene
+2 Q0 Solar_eclipse_of_August_18_1868 4 0.09538922 Lucene
+2 Q0 Solar_minimum 5 0.07949102 Lucene
+
+
+Comparison: There was an overlap of two documents in top 5 document result obtained for the second query. 
+            The overlapped documents were:
+            -> 2 Q0 Skylab 1 7.12588269704 BM25 / 2 Q0 Skylab 2 0.10953229 Lucene
+            -> 2 Q0 Digital8 2 5.19273485918 BM25 / 2 Q0 Digital8 3 0.09916142 Lucene
+			
+			The other documents in BM25 top 5 result that overlap with Lucene result but just not in top 5 
+			result are:
+			-> 2 Q0 Space_weather 3 5.10511582763 BM25 / 2 Q0 Space_weather 11 0.05214002 Lucene
+			-> 2 Q0 General_relativity 4 5.02293027336 BM25 / 2 Q0 General_relativity 28 0.03425846 Lucene
+			-> 2 Q0 Astronomy 5 4.97091396916 BM25 / 2 Q0 Astronomy 21 0.03919699 Lucene
+			
+			So, this query showed a better overlap result than query 1 but the score of the documents were still
+			quite different in both implementations.
+			
+			The drop of scores based on ranks was minimal for Lucene but rank1 and rank2 documents in 
+			BM25 result showed a big drop in score.
+			
+			To discuss the quality of the result we checked the first ranked document(Skylab for BM25 
+			and Solar_eclipse_of_September_4_2100 for Lucene) for each term in the query 
+			
+			Skylab(BM25):
+			forecast - 5 matches
+			models - 1 match
+
+			
+			Solar_eclipse_of_September_4_2100(Lucene):
+			forecast - 1 match
+			models - 0 match
+			
+			Just by observing the count of matches of rank 1 document from both the implementations it can be 
+			observed that BM25 implementation gave better quality than Lucene implementation.
+			The basis of above quality is based only on the number of occurrence of query terms, the quality check can be 
+			done on various other factors (eg. relevance etc.)
+			
+			
+			 
+------------------------------------------------------------------------------------------
+
+Query Q3: total eclipse solar
+
+-------- BM25 ----------
+
+
+3 Q0 YouTube 1 -0.0846749428748 BM25
+3 Q0 Tetrad_astronomy 2 -0.0846749428748 BM25
+3 Q0 Temperature 3 -0.0846749428748 BM25
+3 Q0 Supernatural 4 -0.0846749428748 BM25
+3 Q0 State_equation 5 -0.0846749428748 BM25
+
+
+------- Lucene ---------
+
+3 Q0 List_of_solar_eclipses_visible_from_Russia 1 0.5642805 Lucene
+3 Q0 Solar_eclipse_of_August_12_1654 2 0.53169084 Lucene
+3 Q0 Solar_eclipse_of_April_16_1874 3 0.51333505 Lucene
+3 Q0 Solar_eclipse_of_August_9_1896 4 0.51333505 Lucene
+3 Q0 Solar_eclipse_of_February_9_1766 5 0.51333505 Lucene
+
+
+Comparison: There was no overlap in top 5 document result obtained for the third query. 
+			We even observed that there was not even a single overlap of document in the 
+			top 100 results retrieved for both implementations.
+			So, for this query we observed a very different result from expectation in terms of 
+			document overlap, ranking and score.
+			This was scenario was observed because BM25 give more importance to documents that 
+			contain uncommon query words rather than common words.Here BM25 gave more score to the document that contain total
+			which is uncommon in the corpus rather than solar or eclipse which very common in the corpus.	
+			
+			The drop of scores based on ranks was minimal for Lucene and BM25 results.
+			But BM25 showed negative scores for documents.
+			
+			To discuss the quality of the result we checked the first ranked document(YouTube for BM25 
+			and List_of_solar_eclipses_visible_from_Russia for Lucene) for each term in the query 
+			
+			  
+			YouTube(BM25):
+			total - 1 match
+			eclipse - 0 match
+			solar - 0 match
+
+			
+			List_of_solar_eclipses_visible_from_Russia(Lucene):
+			total - 3 matches
+			eclipse - 40 matches
+			solar - 44 matches
+			
+			Just by observing the count of matches of rank 1 document from both the implementations it can be 
+			observed that Lucene implementation gave better quality than BM25 implementation.
+			The basis of above quality is based only on the number of occurrence of query terms, the quality check can be 
+			done on various other factors (eg. relevance etc.)
+			
+
+------------------------------------------------------------------------------------------
+
+Query Q4: japan continental airline
+
+-------- BM25 ----------
+
+4 Q0 France 1 14.7755738865 BM25
+4 Q0 Concorde 2 14.0389622428 BM25
+4 Q0 Slovenia 3 12.034784046 BM25
+4 Q0 Heathrow_Airport 4 11.2723470477 BM25
+4 Q0 Turkey 5 10.5862918166 BM25
+
+------- Lucene ---------
+
+4 Q0 Aeroflot 1 0.17687622 Lucene
+4 Q0 Concorde 2 0.100662574 Lucene
+4 Q0 France 3 0.09615815 Lucene
+4 Q0 Solar_eclipse_of_July_22_2009 4 0.09502551 Lucene
+4 Q0 Synchronous_grid_of_Continental_Europe 5 0.0842361 Lucene
+
+
+Comparison: There was an overlap of two documents in top 5 document result obtained for the fourth query. 
+            The overlapped documents were:
+            -> 4 Q0 France 1 14.7755738865 BM25/ 4 Q0 France 3 0.09615815 Lucene
+            -> 4 Q0 Concorde 2 14.0389622428 BM25 / 4 Q0 Concorde 2 0.100662574 Lucene
+            
+            For this query we observed a document that shared the same rank in both implementation (i.e. Concorde)
+			
+			Some of the other documents in BM25 top 5 result that overlap with Lucene result but just not in top 5 
+			result are:
+			-> 4 Q0 Slovenia 3 12.034784046 BM25 / 4 Q0 Slovenia 6 0.07458432 Lucene
+			-> 4 Q0 Heathrow_Airport 4 11.2723470477 BM25 / 4 Q0 Heathrow_Airport 7 0.06867431 Lucene
+			-> 4 Q0 Turkey 5 10.5862918166 BM25 / 4 Q0 Turkey 23 0.03524452 Lucene
+			
+			In conclusion, this query showed high overlap in terms of documents and not much difference
+			of ranks were observed among the overlapped documents.
+			
+			The drop of scores based on ranks was minimal for both Lucene and BM25 results.
+			
+			To discuss the quality of the result we checked the first ranked document(France for BM25 
+			and Aeroflot for Lucene) for each term in the query 
+			
+			    
+			France(BM25):
+			japan - 4 matches
+			continental - 7 matches
+			airline - 2 matches
+
+			
+			Aeroflot(Lucene):
+			japan - 1 match
+			continental - 0 match
+			airline - 29 matches
+			
+			Just by observing the count of matches of rank 1 document from both the implementations and the
+			overlap observed in the result it can be predicted that Lucene and BM25 gave an equally good quality result.
+			The basis of above quality is based only on the number of occurrence of query terms, the quality check can be 
+			done on various other factors (eg. relevance etc.)
+
+
+------------------------------------------------------------------------------------------
+
+Query Q5: japan continental airlines
+
+-------- BM25 ----------
+
+5 Q0 Concorde 1 14.6278139053 BM25
+5 Q0 Heathrow_Airport 2 11.926036641 BM25
+5 Q0 Slovenia 3 11.6782457712 BM25
+5 Q0 Turkey 4 11.4045238841 BM25
+5 Q0 Novosibirsk 5 10.8481071357 BM25
+
+------- Lucene ---------
+
+5 Q0 Solar_eclipse_of_July_22_2009 1 0.24598461 Lucene
+5 Q0 Heathrow_Airport 2 0.1952173 Lucene
+5 Q0 Concorde 3 0.18929836 Lucene
+5 Q0 Aeroflot 4 0.17746606 Lucene
+5 Q0 Novosibirsk 5 0.17356114 Lucene
+
+
+Comparison: There was an overlap of three documents in top 5 document result obtained for the fifth query. 
+            The overlapped documents were:
+            -> 5 Q0 Concorde 1 14.6278139053 BM25 / 5 Q0 Concorde 3 0.18929836 Lucene
+            -> 5 Q0 Heathrow_Airport 2 11.926036641 BM25 / 5 Q0 Heathrow_Airport 2 0.1952173 Lucene
+            -> 5 Q0 Novosibirsk 5 10.8481071357 BM25 / 5 Q0 Novosibirsk 5 0.17356114 Lucene
+            
+            For this query we observed a document that shared the same rank in both implementation(i.e. Novosibirsk)
+			
+			Some of the other documents in BM25 top 5 result that overlap with Lucene result but just not in top 5 
+			result are:
+			-> 5 Q0 Slovenia 3 11.6782457712 BM25 / 5 Q0 Slovenia 10 0.07368204 Lucene
+			-> 5 Q0 Turkey 4 11.4045238841 BM25 / 5 Q0 Turkey 16 0.042248785 Lucene
+			
+			In conclusion, this query showed high overlap in terms of documents and not much difference
+			of ranks were observed among the overlapped documents.
+			
+			The drop of scores based on ranks was minimal for both Lucene and BM25 results, except for 
+			the drop in rank 1 and rank2 for BM25.
+			
+			To discuss the quality of the result we checked the first ranked document(Concorde for BM25 
+			and Solar_eclipse_of_July_22_2009 for Lucene) for each term in the query 
+			
+			    
+			Concorde(BM25):
+			japan - 1 match
+			continental - 5 matches
+			airlines - 24 matches
+
+			
+			Solar_eclipse_of_July_22_2009(Lucene):
+			japan - 4 matches
+			continental - 1 match
+			airlines - 1 matches
+			
+			Just by observing the count of matches of rank 1 document from both the implementations it can be 
+			observed that Lucene and BM25 gave an equally good quality result.
+			The basis of above quality is based only on the number of occurrence of query terms, the quality check can be 
+			done on various other factors (eg. relevance etc.)
+			
+
+-------------------------------------------------------------------------------------------------------
+
+Query Q6: solar eclipse fiction
+
+-------- BM25 ----------
+
+6 Q0 Patrick_Moore 1 6.59738681456 BM25
+6 Q0 Russia 2 6.56352297335 BM25
+6 Q0 Syria 3 5.94086154068 BM25
+6 Q0 Xerxes_I 4 4.99343718767 BM25
+6 Q0 Vice_magazine 5 4.99343718767 BM25
+
+------- Lucene ---------
+
+6 Q0 Solar_eclipses_in_fiction 1 0.28839788 Lucene
+6 Q0 List_of_solar_eclipses_visible_from_Ukraine 2 0.2602948 Lucene
+6 Q0 List_of_solar_eclipses_visible_from_the_Philippines 3 0.25337428 Lucene
+6 Q0 Moon_in_fiction 4 0.18758287 Lucene
+6 Q0 List_of_solar_eclipses_visible_from_Russia 5 0.17930107 Lucene
+
+
+Comparison: There was no overlap in top 5 document result obtained for the sixth query. 
+			But some overlaps were observed in the top 100 results from both implementations
+			Some of the overlaps are:
+			-> 6 Q0 Solar_eclipses_in_fiction 23 3.28406541566 BM25 / 6 Q0 Solar_eclipses_in_fiction 1 0.28839788 Lucene
+			-> 6 Q0 Moon_in_fiction 17 4.42882182895 BM25 / 6 Q0 Moon_in_fiction 4 0.18758287 Lucene
+			-> 6 Q0 Halys_River 16 4.84699288771 BM25 / 6 Q0 Halys_River 7 0.15878792 Lucene
+			
+			We observed no overlap in top 5 but a moderate overlap over top 100 results but the 
+			ranking and score of the documents were skewed.
+			
+			The drop of scores based on ranks was minimal for both Lucene and BM25 results.
+			
+			To discuss the quality of the result we checked the first ranked document(Patrick_Moore for BM25 
+			and Solar_eclipses_in_fiction for Lucene) for each term in the query 
+			  
+			Patrick_Moore(BM25):
+			solar - 0 match
+			eclipse - 2 matches
+			fiction - 6 matches
+
+			Solar_eclipses_in_fiction(Lucene):
+			solar - 48 matches
+			eclipse - 76 match
+			fiction - 4 matches
+			
+			Just by observing the count of matches of rank 1 document from both the implementations it can be 
+			observed that Lucene displays better quality result than BM25.
+			The basis of above quality is based only on the number of occurrence of query terms, the quality check can be 
+			done on various other factors (eg. relevance etc.)
+			
+------------------------------------------------------------------------------------------
+
+Query Q7: 2017 solar eclipse
+
+-------- BM25 ----------
+
+7 Q0 YouTube 1 4.64260107241 BM25
+7 Q0 Turkey 2 4.62446768151 BM25
+7 Q0 BBC 3 4.40755452461 BM25
+7 Q0 Serbia 4 4.28551020516 BM25
+7 Q0 Russia 5 4.28551020516 BM25
+
+------- Lucene ---------
+
+7 Q0 List_of_solar_eclipses_visible_from_Ukraine 1 0.89559203 Lucene
+7 Q0 List_of_solar_eclipses_visible_from_the_Philippines 2 0.87178075 Lucene
+7 Q0 List_of_solar_eclipses_visible_from_Russia 3 0.6169182 Lucene
+7 Q0 Solar_eclipse_of_August_12_1942 4 0.5199789 Lucene
+7 Q0 Solar_eclipse_of_August_12_1654 5 0.5069176 Lucene
+
+
+Comparison: There was no overlap in top 5 document result obtained for the seventh query. 
+			We even observed that there was not even a single overlap of document in the 
+			top 100 results retrieved for both implementations.
+			So, for this query we observed a very different result from expectation in terms of 
+			document overlap, ranking and score.
+			
+			The drop of scores based on ranks was minimal for both Lucene and BM25 results.
+			
+			To discuss the quality of the result we checked the first ranked document(YouTube for BM25 
+			and List_of_solar_eclipses_visible_from_Ukraine for Lucene) for each term in the query 
+			  
+			YouTube(BM25):
+			2017 - 19 matches
+			solar - 0 match
+			eclipse - 0 match
+
+			List_of_solar_eclipses_visible_from_Ukraine(Lucene):
+			2017 - 0 match
+			solar - 34 match
+			eclipse - 30 matches
+			
+			Just by observing the count of matches of rank 1 document from both the implementations it can be 
+			observed that Lucene displays better quality result than BM25. 
+			The basis of above quality is based only on the number of occurrence of query terms, the quality check can be 
+			done on various other factors (eg. relevance etc.)
+
+
+------------------------------------------------------------------------------------------
+
+Query Q8: total eclipse lyrics
+
+-------- BM25 ----------
+
+8 Q0 Latin_language 1 7.13217735656 BM25
+8 Q0 Compact_Disc 2 7.13217735656 BM25
+8 Q0 Russia 3 6.95154687892 BM25
+8 Q0 United_Kingdom 4 6.95091091864 BM25
+8 Q0 RC3A2mnicu_VC3A2lcea 5 6.81954873751 BM25
+
+------- Lucene ---------
+
+8 Q0 Solar_eclipse_of_July_10_1972 1 0.36884212 Lucene
+8 Q0 Solar_eclipses_in_fiction 2 0.19851558 Lucene
+8 Q0 RC3A2mnicu_VC3A2lcea 3 0.19248173 Lucene
+8 Q0 Blue_moon 4 0.12637837 Lucene
+8 Q0 Solar_eclipse_of_August_12_1654 5 0.109177314 Lucene
+
+
+Comparison: There was an overlap of one documents in top 5 document result obtained for the eight query. 
+            The overlapped documents were:
+            -> 8 Q0 RC3A2mnicu_VC3A2lcea 5 6.81954873751 BM25 / 8 Q0 RC3A2mnicu_VC3A2lcea 3 0.19248173 Lucene
+    
+			Some of the other documents in BM25 top 5 result that overlap with Lucene result but just not in top 5 
+			result are:
+			-> 8 Q0 Blue_moon 6 6.75798795934 BM25 / 8 Q0 Blue_moon 4 0.12637837 Lucene
+			-> 8 Q0 Solar_eclipse_of_July_10_1972 7 6.6543528556 BM25 / 8 Q0 Solar_eclipse_of_July_10_1972 1 0.36884212 Lucene
+			-> 8 Q0 Solar_eclipses_in_fiction 8 6.63601395362 BM25 / 8 Q0 Solar_eclipses_in_fiction 2 0.19851558 Lucene
+			
+			Though this query has only one overlap in documents in top 5 results of the implementations, 
+			it has overall high overlap in top 100 results.
+			
+			In conclusion, this query showed high overlap in terms of documents and not much difference
+			of ranks were observed among the overlapped documents.
+			
+			The drop of scores based on ranks was minimal for both Lucene and BM25 results.
+			
+			To discuss the quality of the result we checked the first ranked document(Latin_language for BM25 
+			and Solar_eclipse_of_July_10_1972 for Lucene) for each term in the query 
+			    
+			Latin_language(BM25):
+			total - 0 match
+			eclipse - 0 match
+			lyrics - 1 match
+
+			Solar_eclipse_of_July_10_1972(Lucene):
+			total - 5 match
+			eclipse - 14 match
+			lyrics - 1 match
+			
+			Just by observing the count of matches of rank 1 document from both the implementations it can be 
+			observed that Lucene displays better quality result than BM25. 
+			The basis of above quality is based only on the number of occurrence of query terms, the quality check can be 
+			done on various other factors (eg. relevance etc.)
+
+
+------------------------------------------------------------------------------------------
+
+Query Q9: nordic marine animals
+
+-------- BM25 ----------
+
+9 Q0 Bay_of_Bengal 1 9.91806989991 BM25
+9 Q0 Black_Sea 2 9.45692994703 BM25
+9 Q0 Quebec 3 8.46713792832 BM25
+9 Q0 Germany 4 8.34971523613 BM25
+9 Q0 Atlantic_Ocean 5 8.12172073246 BM25
+
+------- Lucene ---------
+
+9 Q0 Bay_of_Bengal 1 0.12674695 Lucene
+9 Q0 Quebec 2 0.08778067 Lucene
+9 Q0 Germany 3 0.086010285 Lucene
+9 Q0 Black_Sea 4 0.085970245 Lucene
+9 Q0 Synchronous_grid_of_Continental_Europe 5 0.0719131 Lucene
+
+
+Comparison: There was an overlap of four documents in top 5 document result obtained for the ninth query. 
+            The overlapped documents were:
+            -> 9 Q0 Bay_of_Bengal 1 9.91806989991 BM25 / 9 Q0 Bay_of_Bengal 1 0.12674695 Lucene
+            -> 9 Q0 Black_Sea 2 9.45692994703 BM25 / 9 Q0 Black_Sea 4 0.085970245 Lucene
+            -> 9 Q0 Quebec 3 8.46713792832 BM25 / 9 Q0 Quebec 2 0.08778067 Lucene
+            -> 9 Q0 Germany 4 8.34971523613 BM25 / 9 Q0 Germany 3 0.086010285 Lucene
+            
+            For this query we observed a document that shared the same rank in both implementation(i.e. Bay_of_Bengal)
+			
+			In conclusion, this query showed high overlap in terms of documents and not much difference
+			of ranks were observed among the overlapped documents.
+			
+			The drop of scores based on ranks was minimal for both Lucene and BM25 results.
+			Though a jump of -1 was observed from rank 2 to 3 in BM25 result of this query.
+			
+			To discuss the quality of the result we checked the first ranked document(Bay_of_Bengal for BM25 
+			and Bay_of_Bengal for Lucene) for each term in the query.
+			
+			Since both implementation had almost same result we can conclude that both implementation displays
+			same quality of result. 
+			The basis of above quality is based only on the number of occurrence of query terms, the quality check can be 
+			done on various other factors (eg. relevance etc.) 
+
+------------------------------------------------------------------------------------------
+
+Query Q10: volcanic eruptions tornadoes eruption tornado
+
+-------- BM25 ----------
+
+
+10 Q0 Natural_phenomenon 1 23.7283032226 BM25
+10 Q0 Caldera 2 19.3567911724 BM25
+10 Q0 Earth 3 16.592385945 BM25
+10 Q0 Lunar_mare 4 12.6300136825 BM25
+10 Q0 Blue_moon 5 10.5441367681 BM25
+
+
+------- Lucene ---------
+
+10 Q0 Natural_phenomenon 1 0.8135832 Lucene
+10 Q0 Caldera 2 0.2005205 Lucene
+10 Q0 Lunar_mare 3 0.13789715 Lucene
+10 Q0 Blue_moon 4 0.072676934 Lucene
+10 Q0 Earth 5 0.05700531 Lucene
+
+
+Comparison: There was a perfect overlap of documents in top 5 document result obtained for the tenth query. 
+                   
+			In conclusion, this query showed a very high overlap in terms of documents and a very small difference
+			in ranks were observed among the overlapped documents.
+			
+			The drop of scores based on ranks is high in both Lucene and BM25 results.
+			Score for BM25 result dropped approximately by 4  from rank 1 to rank 2
+			Similarly, the score for Lucene results dropped by approximately 0.6 (scaled between 0 to 1) 
+			
+			Since both implementation had almost same result we can conclude that both implementation displays
+			same quality of result.
+			The basis of above quality is based only on the number of occurrence of query terms, the quality check can be 
+			done on various other factors (eg. relevance etc.)
+
+---------------------------------------------------------------------------------------------------------------
+
+OverAll Conclusion: 
+
+Lucene:
+	Note(citation): The below text is used directly from "http://lucene.apache.org/core/3_6_0/scoring.html"
+	Lucene scoring uses a combination of the Vector Space Model (VSM) of Information Retrieval and 
+	the Boolean model to determine how relevant a given Document is to a User's query. 
+	In general, the idea behind the VSM is the more times a query term appears in a document relative to 
+	the number of times the term appears in all the documents in the collection, the more relevant that document is 
+	to the query.
+
+BM25: 
+	Note(citation): https://en.wikipedia.org/wiki/Okapi_BM25
+	BM25 is a bag-of-words retrieval function that ranks a set of documents based on the query terms appearing in 
+	each document, regardless of the inter-relationship between the query terms within a document (e.g., their relative proximity).
+	
+Huge difference in results were observed in the following queries:
+	-> Query Q1: dark eclipse moon
+	-> Query Q3: total eclipse solar
+
+Moderate difference in results were observed in the following queries:
+	-> Query Q6: solar eclipse fiction
+	-> Query Q1: dark eclipse moon
+		
+ 
+The above results for some of the queries varies for Lucene and BM25 implementation because the Lucene also uses the relevance information 
+to score the documents whereas in our implementation of BM25 we are ignoring the relevance information.
+
+The difference between the results of both scoring implementation(Lucene and BM25 is also a result of score boosting by 
+Lucene on certain levels such as (Document level boosting, Document's field level boosting, Query level boosting).
+
+Based on observation:
+BM25 give more importance to documents that contain uncommon query words rather than common words.
+for example:
+	Query Q7: 2017 solar eclipse 
+	(below is the rank 1 documents from the results of both implementation)
+		YouTube(BM25):
+			2017 - 19 matches
+			solar - 0 match
+			eclipse - 0 match
+
+		List_of_solar_eclipses_visible_from_Ukraine(Lucene):
+			2017 - 0 match
+			solar - 34 match
+			eclipse - 30 matches
+	
+	Here BM25 gave more score to the document that contain 2017 which is uncommon in the corpus
+	rather than solar or eclipse which very common in the corpus.	

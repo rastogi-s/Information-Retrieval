@@ -1,0 +1,3361 @@
+https://en.wikipedia.org/wiki/Magnetic_flux
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Magnetic flux - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Magnetic_flux","wgTitle":"Magnetic flux","wgCurRevisionId":829709815,"wgRevisionId":829709815,"wgArticleId":65890,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles lacking in-text citations from July 2016","All articles lacking in-text citations","All articles with unsourced statements","Articles with unsourced statements from December 2016","Physical quantities","Magnetism"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Magnetic_flux","wgRelevantArticleId":65890,"wgRequestId":"WsSSSwpAIDAAAICkhhUAAAAA","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q177831","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.cite.a11y","ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.31.0-wmf.27" name="generator"/>
+  <meta content="origin" name="referrer"/>
+  <meta content="origin-when-crossorigin" name="referrer"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/VFPt_Solenoid_correct2.svg/1200px-VFPt_Solenoid_correct2.svg.png" property="og:image"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Magnetic_flux" rel="alternate"/>
+  <link href="/w/index.php?title=Magnetic_flux&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Magnetic_flux&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/Magnetic_flux" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Magnetic_flux rootpage-Magnetic_flux skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Magnetic flux
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <div class="hatnote navigation-not-searchable" role="note">
+       This article is about magnetic flux. For the magnetic fields "B" (magnetic flux density) and "H", see
+       <a href="/wiki/Magnetic_field" title="Magnetic field">
+        Magnetic field
+       </a>
+       .
+      </div>
+      <table class="plainlinks metadata ambox ambox-style ambox-No_footnotes" role="presentation">
+       <tr>
+        <td class="mbox-image">
+         <div style="width:52px">
+          <img alt="" data-file-height="48" data-file-width="48" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/40px-Text_document_with_red_question_mark.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/60px-Text_document_with_red_question_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/80px-Text_document_with_red_question_mark.svg.png 2x" width="40"/>
+         </div>
+        </td>
+        <td class="mbox-text">
+         <div class="mbox-text-span">
+          This article includes a
+          <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">
+           list of references
+          </a>
+          , related reading or
+          <a href="/wiki/Wikipedia:External_links" title="Wikipedia:External links">
+           external links
+          </a>
+          ,
+          <b>
+           but its sources remain unclear because it lacks
+           <a href="/wiki/Wikipedia:Citing_sources#Inline_citations" title="Wikipedia:Citing sources">
+            inline citations
+           </a>
+          </b>
+          .
+          <span class="hide-when-compact">
+           Please help to
+           <a href="/wiki/Wikipedia:WikiProject_Fact_and_Reference_Check" title="Wikipedia:WikiProject Fact and Reference Check">
+            improve
+           </a>
+           this article by
+           <a href="/wiki/Wikipedia:When_to_cite" title="Wikipedia:When to cite">
+            introducing
+           </a>
+           more precise citations.
+          </span>
+          <small>
+           <i>
+            (July 2016)
+           </i>
+          </small>
+          <small class="hide-when-compact">
+           <i>
+            (
+            <a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">
+             Learn how and when to remove this template message
+            </a>
+            )
+           </i>
+          </small>
+         </div>
+        </td>
+       </tr>
+      </table>
+      <table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+       <tr>
+        <td style="padding-top:0.4em;line-height:1.2em">
+         Part of a series of articles about
+        </td>
+       </tr>
+       <tr>
+        <th style="padding:0.2em 0.4em 0.2em;padding-top:0;font-size:145%;line-height:1.2em">
+         <a href="/wiki/Electromagnetism" title="Electromagnetism">
+          Electromagnetism
+         </a>
+        </th>
+       </tr>
+       <tr>
+        <td style="padding:0.2em 0 0.4em">
+         <a class="image" href="/wiki/File:VFPt_Solenoid_correct2.svg" title="Solenoid">
+          <img alt="Solenoid" data-file-height="200" data-file-width="490" height="78" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/VFPt_Solenoid_correct2.svg/190px-VFPt_Solenoid_correct2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/VFPt_Solenoid_correct2.svg/285px-VFPt_Solenoid_correct2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0d/VFPt_Solenoid_correct2.svg/380px-VFPt_Solenoid_correct2.svg.png 2x" width="190"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td class="hlist" style="padding:0 0.1em 0.4em">
+         <ul>
+          <li>
+           <a href="/wiki/Electricity" title="Electricity">
+            Electricity
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Magnetism" title="Magnetism">
+            Magnetism
+           </a>
+          </li>
+         </ul>
+        </td>
+       </tr>
+       <tr>
+        <td class="hlist" style="padding:0 0.1em 0.4em">
+         <div class="NavFrame collapsed" style="border:none;padding:0">
+          <div class="NavHead" style="font-size:105%;background:transparent;text-align:left">
+           <a href="/wiki/Electrostatics" title="Electrostatics">
+            Electrostatics
+           </a>
+          </div>
+          <div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+           <ul>
+            <li>
+             <a href="/wiki/Electric_charge" title="Electric charge">
+              Electric charge
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Static_electricity" title="Static electricity">
+              Static electricity
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Electric_field" title="Electric field">
+              Electric field
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Electrical_conductor" title="Electrical conductor">
+              Conductor
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Insulator_(electricity)" title="Insulator (electricity)">
+              Insulator
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Triboelectric_effect" title="Triboelectric effect">
+              Triboelectricity
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Electrostatic_discharge" title="Electrostatic discharge">
+              Electrostatic discharge
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Electrostatic_induction" title="Electrostatic induction">
+              Induction
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Coulomb%27s_law" title="Coulomb's law">
+              Coulomb's law
+             </a>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/Gauss%27_law" title="Gauss' law">
+              Gauss's law
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Electric_flux" title="Electric flux">
+              Electric flux
+             </a>
+             /
+             <a href="/wiki/Electric_potential_energy" title="Electric potential energy">
+              potential energy
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Electric_dipole_moment" title="Electric dipole moment">
+              Electric dipole moment
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Polarization_density" title="Polarization density">
+              Polarization density
+             </a>
+            </li>
+           </ul>
+          </div>
+         </div>
+        </td>
+       </tr>
+       <tr>
+        <td class="hlist" style="padding:0 0.1em 0.4em">
+         <div class="NavFrame" style="border:none;padding:0">
+          <div class="NavHead" style="font-size:105%;background:transparent;text-align:left">
+           <a href="/wiki/Magnetostatics" title="Magnetostatics">
+            Magnetostatics
+           </a>
+          </div>
+          <div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+           <ul>
+            <li>
+             <a href="/wiki/Amp%C3%A8re%27s_circuital_law" title="Ampère's circuital law">
+              Ampère's law
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Magnetic_field" title="Magnetic field">
+              Magnetic field
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Magnetization" title="Magnetization">
+              Magnetization
+             </a>
+            </li>
+            <li>
+             <a class="mw-selflink selflink">
+              Magnetic flux
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Biot%E2%80%93Savart_law" title="Biot–Savart law">
+              Biot–Savart law
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Magnetic_moment" title="Magnetic moment">
+              Magnetic dipole moment
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Gauss%27s_law_for_magnetism" title="Gauss's law for magnetism">
+              Gauss's law for magnetism
+             </a>
+            </li>
+           </ul>
+          </div>
+         </div>
+        </td>
+       </tr>
+       <tr>
+        <td class="hlist" style="padding:0 0.1em 0.4em">
+         <div class="NavFrame collapsed" style="border:none;padding:0">
+          <div class="NavHead" style="font-size:105%;background:transparent;text-align:left">
+           <a href="/wiki/Classical_electromagnetism" title="Classical electromagnetism">
+            Electrodynamics
+           </a>
+          </div>
+          <div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+           <ul>
+            <li>
+             <a href="/wiki/Lorentz_force" title="Lorentz force">
+              Lorentz force law
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Electromagnetic_induction" title="Electromagnetic induction">
+              Electromagnetic induction
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Faraday%27s_law_of_induction" title="Faraday's law of induction">
+              Faraday's law
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Lenz%27s_law" title="Lenz's law">
+              Lenz's law
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Displacement_current" title="Displacement current">
+              Displacement current
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Magnetic_potential" title="Magnetic potential">
+              Magnetic potential
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Maxwell%27s_equations" title="Maxwell's equations">
+              Maxwell's equations
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Electromagnetic_field" title="Electromagnetic field">
+              Electromagnetic field
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Electromagnetic_pulse" title="Electromagnetic pulse">
+              Electromagnetic pulse
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Electromagnetic_radiation" title="Electromagnetic radiation">
+              Electromagnetic radiation
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Maxwell_stress_tensor" title="Maxwell stress tensor">
+              Maxwell tensor
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Poynting_vector" title="Poynting vector">
+              Poynting vector
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Li%C3%A9nard%E2%80%93Wiechert_potential" title="Liénard–Wiechert potential">
+              Liénard–Wiechert potential
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Jefimenko%27s_equations" title="Jefimenko's equations">
+              Jefimenko's equations
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Eddy_current" title="Eddy current">
+              Eddy current
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/London_equations" title="London equations">
+              London equations
+             </a>
+            </li>
+           </ul>
+           <ul>
+            <li>
+             <div style="padding:0.2em 0.4em; line-height:1.2em;">
+              <a href="/wiki/Mathematical_descriptions_of_the_electromagnetic_field" title="Mathematical descriptions of the electromagnetic field">
+               Mathematical descriptions of the electromagnetic field
+              </a>
+             </div>
+            </li>
+           </ul>
+          </div>
+         </div>
+        </td>
+       </tr>
+       <tr>
+        <td class="hlist" style="padding:0 0.1em 0.4em">
+         <div class="NavFrame collapsed" style="border:none;padding:0">
+          <div class="NavHead" style="font-size:105%;background:transparent;text-align:left">
+           <a href="/wiki/Electrical_network" title="Electrical network">
+            Electrical network
+           </a>
+          </div>
+          <div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+           <ul>
+            <li>
+             <a href="/wiki/Electric_current" title="Electric current">
+              Electric current
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Electric_potential" title="Electric potential">
+              Electric potential
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Voltage" title="Voltage">
+              Voltage
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Electrical_resistance_and_conductance" title="Electrical resistance and conductance">
+              Resistance
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Ohm%27s_law" title="Ohm's law">
+              Ohm's law
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Series_and_parallel_circuits#Series_circuits" title="Series and parallel circuits">
+              Series circuit
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Series_and_parallel_circuits#Parallel_circuits" title="Series and parallel circuits">
+              Parallel circuit
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Direct_current" title="Direct current">
+              Direct current
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Alternating_current" title="Alternating current">
+              Alternating current
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Electromotive_force" title="Electromotive force">
+              Electromotive force
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Capacitance" title="Capacitance">
+              Capacitance
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Inductance" title="Inductance">
+              Inductance
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Electrical_impedance" title="Electrical impedance">
+              Impedance
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Resonator#Electromagnetic" title="Resonator">
+              Resonant cavities
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Waveguide_(electromagnetism)" title="Waveguide (electromagnetism)">
+              Waveguides
+             </a>
+            </li>
+           </ul>
+          </div>
+         </div>
+        </td>
+       </tr>
+       <tr>
+        <td class="hlist" style="padding:0 0.1em 0.4em">
+         <div class="NavFrame collapsed" style="border:none;padding:0">
+          <div class="NavHead" style="font-size:105%;background:transparent;text-align:left">
+           <a href="/wiki/Covariant_formulation_of_classical_electromagnetism" title="Covariant formulation of classical electromagnetism">
+            Covariant formulation
+           </a>
+          </div>
+          <div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+           <ul>
+            <li>
+             <div style="padding:0.2em 0.4em; line-height:1.2em;">
+              <a href="/wiki/Electromagnetic_tensor" title="Electromagnetic tensor">
+               Electromagnetic tensor
+              </a>
+              <br/>
+              (
+              <a href="/wiki/Electromagnetic_stress%E2%80%93energy_tensor" title="Electromagnetic stress–energy tensor">
+               stress–energy tensor
+              </a>
+              )
+             </div>
+            </li>
+           </ul>
+           <ul>
+            <li>
+             <a href="/wiki/Four-current" title="Four-current">
+              Four-current
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Electromagnetic_four-potential" title="Electromagnetic four-potential">
+              Electromagnetic four-potential
+             </a>
+            </li>
+           </ul>
+          </div>
+         </div>
+        </td>
+       </tr>
+       <tr>
+        <td class="hlist" style="padding:0 0.1em 0.4em">
+         <div class="NavFrame collapsed" style="border:none;padding:0">
+          <div class="NavHead" style="font-size:105%;background:transparent;text-align:left">
+           Scientists
+          </div>
+          <div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+           <ul>
+            <li>
+             <a href="/wiki/Andr%C3%A9-Marie_Amp%C3%A8re" title="André-Marie Ampère">
+              Ampère
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Charles-Augustin_de_Coulomb" title="Charles-Augustin de Coulomb">
+              Coulomb
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Michael_Faraday" title="Michael Faraday">
+              Faraday
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Carl_Friedrich_Gauss" title="Carl Friedrich Gauss">
+              Gauss
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Oliver_Heaviside" title="Oliver Heaviside">
+              Heaviside
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Joseph_Henry" title="Joseph Henry">
+              Henry
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Heinrich_Hertz" title="Heinrich Hertz">
+              Hertz
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Hendrik_Lorentz" title="Hendrik Lorentz">
+              Lorentz
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/James_Clerk_Maxwell" title="James Clerk Maxwell">
+              Maxwell
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Nikola_Tesla" title="Nikola Tesla">
+              Tesla
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Alessandro_Volta" title="Alessandro Volta">
+              Volta
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Wilhelm_Eduard_Weber" title="Wilhelm Eduard Weber">
+              Weber
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Hans_Christian_%C3%98rsted" title="Hans Christian Ørsted">
+              Ørsted
+             </a>
+            </li>
+           </ul>
+          </div>
+         </div>
+        </td>
+       </tr>
+       <tr>
+        <td style="text-align:right;font-size:115%;padding-top: 0.6em;">
+         <div class="plainlinks hlist navbar mini">
+          <ul>
+           <li class="nv-view">
+            <a href="/wiki/Template:Electromagnetism" title="Template:Electromagnetism">
+             <abbr title="View this template">
+              v
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-talk">
+            <a href="/wiki/Template_talk:Electromagnetism" title="Template talk:Electromagnetism">
+             <abbr title="Discuss this template">
+              t
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-edit">
+            <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Electromagnetism&amp;action=edit">
+             <abbr title="Edit this template">
+              e
+             </abbr>
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+      </table>
+      <p>
+       In
+       <a href="/wiki/Physics" title="Physics">
+        physics
+       </a>
+       , specifically
+       <a href="/wiki/Electromagnetism" title="Electromagnetism">
+        electromagnetism
+       </a>
+       , the
+       <b>
+        magnetic flux
+       </b>
+       (often denoted
+       <span class="texhtml">
+        Φ
+       </span>
+       or
+       <span class="texhtml">
+        Φ
+        <sub>
+         <i>
+          <b>
+           B
+          </b>
+         </i>
+        </sub>
+       </span>
+       ) through a surface is the surface
+       <a href="/wiki/Integral" title="Integral">
+        integral
+       </a>
+       of the normal component of the
+       <a href="/wiki/Magnetic_field" title="Magnetic field">
+        magnetic field
+       </a>
+       <b>
+        B
+       </b>
+       passing through that surface. The
+       <a class="mw-redirect" href="/wiki/SI" title="SI">
+        SI
+       </a>
+       <a class="mw-redirect" href="/wiki/Unit_of_measurement" title="Unit of measurement">
+        unit
+       </a>
+       of magnetic flux is the
+       <a href="/wiki/Weber_(unit)" title="Weber (unit)">
+        weber
+       </a>
+       (Wb) (in derived units: volt-seconds), and the
+       <a class="mw-redirect" href="/wiki/Centimetre_gram_second_system_of_units" title="Centimetre gram second system of units">
+        CGS
+       </a>
+       unit is the
+       <a href="/wiki/Maxwell_(unit)" title="Maxwell (unit)">
+        maxwell
+       </a>
+       . Magnetic flux is usually measured with a fluxmeter, which contains measuring coils and
+       <a href="/wiki/Electronics" title="Electronics">
+        electronics
+       </a>
+       , that evaluates the change of
+       <a href="/wiki/Voltage" title="Voltage">
+        voltage
+       </a>
+       in the measuring coils to calculate the magnetic flux.
+      </p>
+      <p>
+      </p>
+      <div class="toc" id="toc">
+       <div class="toctitle" dir="ltr" lang="en" xml:lang="en">
+        <h2>
+         Contents
+        </h2>
+       </div>
+       <ul>
+        <li class="toclevel-1 tocsection-1">
+         <a href="#Description">
+          <span class="tocnumber">
+           1
+          </span>
+          <span class="toctext">
+           Description
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-2">
+         <a href="#Magnetic_flux_through_a_closed_surface">
+          <span class="tocnumber">
+           2
+          </span>
+          <span class="toctext">
+           Magnetic flux through a closed surface
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-3">
+         <a href="#Magnetic_flux_through_an_open_surface">
+          <span class="tocnumber">
+           3
+          </span>
+          <span class="toctext">
+           Magnetic flux through an open surface
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-4">
+         <a href="#Changing_magnetic_flux">
+          <span class="tocnumber">
+           4
+          </span>
+          <span class="toctext">
+           Changing magnetic flux
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-5">
+         <a href="#Comparison_with_electric_flux">
+          <span class="tocnumber">
+           5
+          </span>
+          <span class="toctext">
+           Comparison with electric flux
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-6">
+         <a href="#See_also">
+          <span class="tocnumber">
+           6
+          </span>
+          <span class="toctext">
+           See also
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-7">
+         <a href="#References">
+          <span class="tocnumber">
+           7
+          </span>
+          <span class="toctext">
+           References
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-8">
+         <a href="#External_articles">
+          <span class="tocnumber">
+           8
+          </span>
+          <span class="toctext">
+           External articles
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <p>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Description">
+        Description
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Magnetic_flux&amp;action=edit&amp;section=1" title="Edit section: Description">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="thumb tmulti tright">
+       <div class="thumbinner" style="width:254px;max-width:254px">
+        <div class="tsingle" style="margin:1px;width:252px;max-width:252px">
+         <div class="thumbimage">
+          <a class="image" href="/wiki/File:Surface_integral_illustration.svg">
+           <img alt="" data-file-height="348" data-file-width="512" height="170" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Surface_integral_illustration.svg/250px-Surface_integral_illustration.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Surface_integral_illustration.svg/375px-Surface_integral_illustration.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/72/Surface_integral_illustration.svg/500px-Surface_integral_illustration.svg.png 2x" width="250"/>
+          </a>
+         </div>
+         <div class="thumbcaption" style="clear:left">
+          The magnetic flux through a surface—when the magnetic field is variable—relies on splitting the surface into small surface elements, over which the magnetic field can be considered to be locally constant. The total flux is then a formal summation of these surface elements (see
+          <a href="/wiki/Surface_integral" title="Surface integral">
+           surface integration
+          </a>
+          ).
+         </div>
+        </div>
+        <div class="tsingle" style="margin:1px;width:252px;max-width:252px">
+         <div class="thumbimage">
+          <a class="image" href="/wiki/File:Surface_normal.png">
+           <img alt="" data-file-height="241" data-file-width="499" height="121" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Surface_normal.png/250px-Surface_normal.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Surface_normal.png/375px-Surface_normal.png 1.5x, //upload.wikimedia.org/wikipedia/commons/f/f6/Surface_normal.png 2x" width="250"/>
+          </a>
+         </div>
+         <div class="thumbcaption" style="clear:left">
+          Each point on a surface is associated with a direction, called the
+          <a class="mw-redirect" href="/wiki/Surface_normal" title="Surface normal">
+           surface normal
+          </a>
+          ; the magnetic flux through a point is then the component of the magnetic field along this direction.
+         </div>
+        </div>
+       </div>
+      </div>
+      <p>
+       The magnetic interaction is described in terms of a
+       <a href="/wiki/Vector_field" title="Vector field">
+        vector field
+       </a>
+       , where each point in space (and time) is associated with a vector that determines what force a moving charge would experience at that point (see
+       <a href="/wiki/Lorentz_force" title="Lorentz force">
+        Lorentz force
+       </a>
+       ).
+       <sup class="reference" id="cite_ref-1">
+        <a href="#cite_note-1">
+         [1]
+        </a>
+       </sup>
+       Since a vector field is quite difficult to visualize at first, in elementary physics one may instead visualize this field with
+       <a href="/wiki/Field_line" title="Field line">
+        field lines
+       </a>
+       . The magnetic flux through some surface, in this simplified picture, is proportional to the number of field lines passing through that surface (in some contexts, the flux may be defined to be precisely the number of field lines passing through that surface; although technically misleading, this distinction is not important). Note that the magnetic flux is the
+       <i>
+        net
+       </i>
+       number of field lines passing through that surface; that is, the number passing through in one direction minus the number passing through in the other direction (see below for deciding in which direction the field lines carry a positive sign and in which they carry a negative sign).
+       <sup class="reference" id="cite_ref-2">
+        <a href="#cite_note-2">
+         [2]
+        </a>
+       </sup>
+       In more advanced physics, the field line analogy is dropped and the magnetic flux is properly defined as the surface integral of the normal component of the magnetic field passing through a surface. If the magnetic field is constant, the magnetic flux passing through a surface of
+       <a href="/wiki/Vector_area" title="Vector area">
+        vector area
+       </a>
+       <b>
+        S
+       </b>
+       is
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle \Phi _{B}=\mathbf {B} \cdot \mathbf {S} =BS\cos \theta ,}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <msub>
+               <mi mathvariant="normal">
+                Φ
+                <!-- Φ -->
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 B
+                </mi>
+               </mrow>
+              </msub>
+              <mo>
+               =
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi mathvariant="bold">
+                B
+               </mi>
+              </mrow>
+              <mo>
+               ⋅
+               <!-- ⋅ -->
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi mathvariant="bold">
+                S
+               </mi>
+              </mrow>
+              <mo>
+               =
+              </mo>
+              <mi>
+               B
+              </mi>
+              <mi>
+               S
+              </mi>
+              <mi>
+               cos
+              </mi>
+              <mo>
+               ⁡
+               <!-- ⁡ -->
+              </mo>
+              <mi>
+               θ
+               <!-- θ -->
+              </mi>
+              <mo>
+               ,
+              </mo>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle \Phi _{B}=\mathbf {B} \cdot \mathbf {S} =BS\cos \theta ,}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="\Phi _{B}={\mathbf  {B}}\cdot {\mathbf  {S}}=BS\cos \theta ," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1e7df289fc253b79d9268b92e9ec13a5574a0b89" style="vertical-align: -0.671ex; width:23.306ex; height:2.509ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       where
+       <i>
+        B
+       </i>
+       is the magnitude of the magnetic field (the magnetic flux density) having the unit of Wb/m
+       <sup>
+        2
+       </sup>
+       (
+       <a href="/wiki/Tesla_(unit)" title="Tesla (unit)">
+        tesla
+       </a>
+       ),
+       <i>
+        S
+       </i>
+       is the area of the surface, and
+       <i>
+        θ
+       </i>
+       is the angle between the magnetic
+       <a href="/wiki/Field_line" title="Field line">
+        field lines
+       </a>
+       and the
+       <a class="mw-redirect" href="/wiki/Surface_normal" title="Surface normal">
+        normal (perpendicular)
+       </a>
+       to
+       <b>
+        S
+       </b>
+       . For a varying magnetic field, we first consider the magnetic flux through an infinitesimal area element d
+       <b>
+        S
+       </b>
+       , where we may consider the field to be constant:
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle d\Phi _{B}=\mathbf {B} \cdot d\mathbf {S} .}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mi>
+               d
+              </mi>
+              <msub>
+               <mi mathvariant="normal">
+                Φ
+                <!-- Φ -->
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 B
+                </mi>
+               </mrow>
+              </msub>
+              <mo>
+               =
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi mathvariant="bold">
+                B
+               </mi>
+              </mrow>
+              <mo>
+               ⋅
+               <!-- ⋅ -->
+              </mo>
+              <mi>
+               d
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi mathvariant="bold">
+                S
+               </mi>
+              </mrow>
+              <mo>
+               .
+              </mo>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle d\Phi _{B}=\mathbf {B} \cdot d\mathbf {S} .}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="d\Phi _{B}={\mathbf  {B}}\cdot d{\mathbf  {S}}." aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e821101ad92deac38a09409b673ee4c37b2b0ed6" style="vertical-align: -0.671ex; width:14.4ex; height:2.509ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       A generic surface,
+       <b>
+        S
+       </b>
+       , can then be broken into infinitesimal elements and the total magnetic flux through the surface is then the
+       <a href="/wiki/Surface_integral" title="Surface integral">
+        surface integral
+       </a>
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle \Phi _{B}=\iint \limits _{S}\mathbf {B} \cdot d\mathbf {S} .}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <msub>
+               <mi mathvariant="normal">
+                Φ
+                <!-- Φ -->
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 B
+                </mi>
+               </mrow>
+              </msub>
+              <mo>
+               =
+              </mo>
+              <munder>
+               <mo>
+                ∬
+                <!-- ∬ -->
+               </mo>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 S
+                </mi>
+               </mrow>
+              </munder>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi mathvariant="bold">
+                B
+               </mi>
+              </mrow>
+              <mo>
+               ⋅
+               <!-- ⋅ -->
+              </mo>
+              <mi>
+               d
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi mathvariant="bold">
+                S
+               </mi>
+              </mrow>
+              <mo>
+               .
+              </mo>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle \Phi _{B}=\iint \limits _{S}\mathbf {B} \cdot d\mathbf {S} .}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="\Phi _{B}=\iint \limits _{S}{\mathbf  {B}}\cdot d{\mathbf  S}." aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8429f4b286489e919b3b43f294a2a4493e91f52f" style="vertical-align: -4.005ex; width:16.991ex; height:7.343ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       From the definition of the
+       <a class="mw-redirect" href="/wiki/Magnetic_vector_potential" title="Magnetic vector potential">
+        magnetic vector potential
+       </a>
+       <b>
+        A
+       </b>
+       and the
+       <a href="/wiki/Stokes%27_theorem" title="Stokes' theorem">
+        fundamental theorem of the curl
+       </a>
+       the magnetic flux may also be defined as:
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle \Phi _{B}=\oint \limits _{\partial S}\mathbf {A} \cdot d{\boldsymbol {\ell }},}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <msub>
+               <mi mathvariant="normal">
+                Φ
+                <!-- Φ -->
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 B
+                </mi>
+               </mrow>
+              </msub>
+              <mo>
+               =
+              </mo>
+              <munder>
+               <mrow class="MJX-TeXAtom-OP MJX-fixedlimits">
+                <mrow class="MJX-TeXAtom-VCENTER">
+                 <mstyle mathsize="2.07em">
+                  <mtext>
+                   ∮
+                   <!-- ∮ -->
+                  </mtext>
+                  <mspace width="thinmathspace">
+                  </mspace>
+                 </mstyle>
+                </mrow>
+                <mspace width="thinmathspace">
+                </mspace>
+               </mrow>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi mathvariant="normal">
+                 ∂
+                 <!-- ∂ -->
+                </mi>
+                <mi>
+                 S
+                </mi>
+               </mrow>
+              </munder>
+              <mo>
+               ⁡
+               <!-- ⁡ -->
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi mathvariant="bold">
+                A
+               </mi>
+              </mrow>
+              <mo>
+               ⋅
+               <!-- ⋅ -->
+              </mo>
+              <mi>
+               d
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi mathvariant="bold-italic">
+                ℓ
+                <!-- ℓ -->
+               </mi>
+              </mrow>
+              <mo>
+               ,
+              </mo>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle \Phi _{B}=\oint \limits _{\partial S}\mathbf {A} \cdot d{\boldsymbol {\ell }},}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="\Phi _{B}=\oint \limits _{{\partial S}}{\mathbf  {A}}\cdot d{\boldsymbol  {\ell }}," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1df4436a9d19d517f4f502961c92fbb77fae1b5c" style="vertical-align: -4.171ex; width:17.016ex; height:7.676ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       where the
+       <a href="/wiki/Line_integral" title="Line integral">
+        line integral
+       </a>
+       is taken over the boundary of the surface
+       <i>
+        S
+       </i>
+       , which is denoted ∂
+       <i>
+        S
+       </i>
+       .
+      </p>
+      <div style="clear:both;">
+      </div>
+      <h2>
+       <span class="mw-headline" id="Magnetic_flux_through_a_closed_surface">
+        Magnetic flux through a closed surface
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Magnetic_flux&amp;action=edit&amp;section=2" title="Edit section: Magnetic flux through a closed surface">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:202px;">
+        <a class="image" href="/wiki/File:SurfacesWithAndWithoutBoundary.svg">
+         <img alt="" class="thumbimage" data-file-height="696" data-file-width="634" height="220" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1e/SurfacesWithAndWithoutBoundary.svg/200px-SurfacesWithAndWithoutBoundary.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1e/SurfacesWithAndWithoutBoundary.svg/300px-SurfacesWithAndWithoutBoundary.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1e/SurfacesWithAndWithoutBoundary.svg/400px-SurfacesWithAndWithoutBoundary.svg.png 2x" width="200"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:SurfacesWithAndWithoutBoundary.svg" title="Enlarge">
+          </a>
+         </div>
+         Some examples of
+         <a class="mw-redirect" href="/wiki/Closed_surface" title="Closed surface">
+          closed surfaces
+         </a>
+         (left) and
+         <a class="mw-redirect" href="/wiki/Open_surface" title="Open surface">
+          open surfaces
+         </a>
+         (right). Left: Surface of a sphere, surface of a
+         <a href="/wiki/Torus" title="Torus">
+          torus
+         </a>
+         , surface of a cube. Right:
+         <a href="/wiki/Disk_(mathematics)" title="Disk (mathematics)">
+          Disk surface
+         </a>
+         , square surface, surface of a hemisphere. (The surface is blue, the boundary is red.)
+        </div>
+       </div>
+      </div>
+      <div class="hatnote navigation-not-searchable" role="note">
+       Main article:
+       <a href="/wiki/Gauss%27s_law_for_magnetism" title="Gauss's law for magnetism">
+        Gauss's law for magnetism
+       </a>
+      </div>
+      <p>
+       <a href="/wiki/Gauss%27s_law_for_magnetism" title="Gauss's law for magnetism">
+        Gauss's law for magnetism
+       </a>
+       , which is one of the four
+       <a href="/wiki/Maxwell%27s_equations" title="Maxwell's equations">
+        Maxwell's equations
+       </a>
+       , states that the total magnetic flux through a
+       <a class="mw-redirect" href="/wiki/Closed_surface" title="Closed surface">
+        closed surface
+       </a>
+       is equal to zero. (A "closed surface" is a surface that completely encloses a volume(s) with no holes.) This law is a consequence of the empirical observation that
+       <a href="/wiki/Magnetic_monopole" title="Magnetic monopole">
+        magnetic monopoles
+       </a>
+       have never been found.
+      </p>
+      <p>
+       In other words, Gauss's law for magnetism is the statement:
+      </p>
+      <dl>
+       <dd>
+        <span class="nowrap">
+         <span class="mwe-math-element">
+          <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+           <math alttext="{\displaystyle \Phi _{B}=\,\!}" xmlns="http://www.w3.org/1998/Math/MathML">
+            <semantics>
+             <mrow class="MJX-TeXAtom-ORD">
+              <mstyle displaystyle="true" scriptlevel="0">
+               <msub>
+                <mi mathvariant="normal">
+                 Φ
+                 <!-- Φ -->
+                </mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                 <mi>
+                  B
+                 </mi>
+                </mrow>
+               </msub>
+               <mo>
+                =
+               </mo>
+               <mspace width="thinmathspace">
+               </mspace>
+               <mspace width="negativethinmathspace">
+               </mspace>
+              </mstyle>
+             </mrow>
+             <annotation encoding="application/x-tex">
+              {\displaystyle \Phi _{B}=\,\!}
+             </annotation>
+            </semantics>
+           </math>
+          </span>
+          <img alt="\Phi _{B}=\,\!" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b72c0a34002ddba58a584b8752a4067d83380e03" style="vertical-align: -0.671ex; margin-right: -0.387ex; width:5.998ex; height:2.509ex;"/>
+         </span>
+         <img alt="\oiint" data-file-height="354" data-file-width="204" height="44" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/OiintLaTeX.svg/25px-OiintLaTeX.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/OiintLaTeX.svg/38px-OiintLaTeX.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/86/OiintLaTeX.svg/50px-OiintLaTeX.svg.png 2x" width="25"/>
+         <span style="position:relative; right:8px; top:18px; margin-right:-8px;">
+          <span class="mwe-math-element">
+           <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+            <math alttext="{\displaystyle \scriptstyle S}" xmlns="http://www.w3.org/1998/Math/MathML">
+             <semantics>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mstyle displaystyle="true" scriptlevel="0">
+                <mstyle displaystyle="false" scriptlevel="1">
+                 <mi>
+                  S
+                 </mi>
+                </mstyle>
+               </mstyle>
+              </mrow>
+              <annotation encoding="application/x-tex">
+               {\displaystyle \scriptstyle S}
+              </annotation>
+             </semantics>
+            </math>
+           </span>
+           <img alt="\scriptstyle S" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/62e91bf22a258bad807b5a9ae8068ef38202ca30" style="vertical-align: -0.338ex; width:1.06ex; height:1.676ex;"/>
+          </span>
+         </span>
+         <span class="mwe-math-element">
+          <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+           <math alttext="{\displaystyle \mathbf {B} \cdot d\mathbf {S} =0}" xmlns="http://www.w3.org/1998/Math/MathML">
+            <semantics>
+             <mrow class="MJX-TeXAtom-ORD">
+              <mstyle displaystyle="true" scriptlevel="0">
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi mathvariant="bold">
+                 B
+                </mi>
+               </mrow>
+               <mo>
+                ⋅
+                <!-- ⋅ -->
+               </mo>
+               <mi>
+                d
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi mathvariant="bold">
+                 S
+                </mi>
+               </mrow>
+               <mo>
+                =
+               </mo>
+               <mn>
+                0
+               </mn>
+              </mstyle>
+             </mrow>
+             <annotation encoding="application/x-tex">
+              {\displaystyle \mathbf {B} \cdot d\mathbf {S} =0}
+             </annotation>
+            </semantics>
+           </math>
+          </span>
+          <img alt="{\mathbf  {B}}\cdot d{\mathbf  S}=0" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2ea37f819f355b3ce3ba09b9795cfbf0110863c8" style="vertical-align: -0.338ex; width:10.542ex; height:2.176ex;"/>
+         </span>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       for any
+       <a class="mw-redirect" href="/wiki/Closed_surface" title="Closed surface">
+        closed surface
+       </a>
+       <i>
+        S
+       </i>
+       .
+      </p>
+      <div style="clear:both;">
+      </div>
+      <h2>
+       <span class="mw-headline" id="Magnetic_flux_through_an_open_surface">
+        Magnetic flux through an open surface
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Magnetic_flux&amp;action=edit&amp;section=3" title="Edit section: Magnetic flux through an open surface">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:252px;">
+        <a class="image" href="/wiki/File:Vector_field_on_a_surface.svg">
+         <img alt="" class="thumbimage" data-file-height="370" data-file-width="587" height="158" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Vector_field_on_a_surface.svg/250px-Vector_field_on_a_surface.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Vector_field_on_a_surface.svg/375px-Vector_field_on_a_surface.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/88/Vector_field_on_a_surface.svg/500px-Vector_field_on_a_surface.svg.png 2x" width="250"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Vector_field_on_a_surface.svg" title="Enlarge">
+          </a>
+         </div>
+         For an open surface Σ, the
+         <a href="/wiki/Electromotive_force" title="Electromotive force">
+          electromotive force
+         </a>
+         along the surface boundary, ∂Σ, is a combination of the boundary's motion, with velocity
+         <b>
+          v
+         </b>
+         , through a magnetic field
+         <b>
+          B
+         </b>
+         (illustrated by the generic
+         <b>
+          F
+         </b>
+         field in the diagram) and the induced electric field caused by the changing magnetic field.
+        </div>
+       </div>
+      </div>
+      <p>
+       While the magnetic flux through a
+       <a class="mw-redirect" href="/wiki/Closed_surface" title="Closed surface">
+        closed surface
+       </a>
+       is always zero, the magnetic flux through an
+       <a class="mw-redirect" href="/wiki/Open_surface" title="Open surface">
+        open surface
+       </a>
+       need not be zero and is an important quantity in electromagnetism.
+       <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+        [
+        <i>
+         <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+          <span title="yeah, but we need a reference (December 2016)">
+           citation needed
+          </span>
+         </a>
+        </i>
+        ]
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Changing_magnetic_flux">
+        Changing magnetic flux
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Magnetic_flux&amp;action=edit&amp;section=4" title="Edit section: Changing magnetic flux">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="hatnote navigation-not-searchable" role="note">
+       Main article:
+       <a href="/wiki/Faraday%27s_law_of_induction" title="Faraday's law of induction">
+        Faraday's law of induction
+       </a>
+      </div>
+      <p>
+       For example, a change in the magnetic flux passing through a loop of conductive wire will cause an
+       <a href="/wiki/Electromotive_force" title="Electromotive force">
+        electromotive force
+       </a>
+       , and therefore an electric current, in the loop. The relationship is given by
+       <a href="/wiki/Faraday%27s_law_of_induction" title="Faraday's law of induction">
+        Faraday's law
+       </a>
+       :
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle {\mathcal {E}}=\oint _{\partial \Sigma }\left(\mathbf {E} +\mathbf {v\times B} \right)\cdot d{\boldsymbol {\ell }}=-{d\Phi _{B} \over dt},}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mrow class="MJX-TeXAtom-ORD">
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi class="MJX-tex-caligraphic" mathvariant="script">
+                 E
+                </mi>
+               </mrow>
+              </mrow>
+              <mo>
+               =
+              </mo>
+              <msub>
+               <mrow class="MJX-TeXAtom-OP MJX-fixedlimits">
+                <mrow class="MJX-TeXAtom-VCENTER">
+                 <mstyle mathsize="2.07em">
+                  <mtext>
+                   ∮
+                   <!-- ∮ -->
+                  </mtext>
+                  <mspace width="thinmathspace">
+                  </mspace>
+                 </mstyle>
+                </mrow>
+                <mspace width="thinmathspace">
+                </mspace>
+               </mrow>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi mathvariant="normal">
+                 ∂
+                 <!-- ∂ -->
+                </mi>
+                <mi mathvariant="normal">
+                 Σ
+                 <!-- Σ -->
+                </mi>
+               </mrow>
+              </msub>
+              <mo>
+               ⁡
+               <!-- ⁡ -->
+              </mo>
+              <mrow>
+               <mo>
+                (
+               </mo>
+               <mrow>
+                <mrow class="MJX-TeXAtom-ORD">
+                 <mi mathvariant="bold">
+                  E
+                 </mi>
+                </mrow>
+                <mo>
+                 +
+                </mo>
+                <mrow class="MJX-TeXAtom-ORD">
+                 <mi mathvariant="bold">
+                  v
+                 </mi>
+                 <mo>
+                  ×
+                  <!-- × -->
+                 </mo>
+                 <mi mathvariant="bold">
+                  B
+                 </mi>
+                </mrow>
+               </mrow>
+               <mo>
+                )
+               </mo>
+              </mrow>
+              <mo>
+               ⋅
+               <!-- ⋅ -->
+              </mo>
+              <mi>
+               d
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi mathvariant="bold-italic">
+                ℓ
+                <!-- ℓ -->
+               </mi>
+              </mrow>
+              <mo>
+               =
+              </mo>
+              <mo>
+               −
+               <!-- − -->
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mfrac>
+                <mrow>
+                 <mi>
+                  d
+                 </mi>
+                 <msub>
+                  <mi mathvariant="normal">
+                   Φ
+                   <!-- Φ -->
+                  </mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mi>
+                    B
+                   </mi>
+                  </mrow>
+                 </msub>
+                </mrow>
+                <mrow>
+                 <mi>
+                  d
+                 </mi>
+                 <mi>
+                  t
+                 </mi>
+                </mrow>
+               </mfrac>
+              </mrow>
+              <mo>
+               ,
+              </mo>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle {\mathcal {E}}=\oint _{\partial \Sigma }\left(\mathbf {E} +\mathbf {v\times B} \right)\cdot d{\boldsymbol {\ell }}=-{d\Phi _{B} \over dt},}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="{\mathcal  {E}}=\oint _{{\partial \Sigma }}\left({\mathbf  {E}}+{\mathbf  {v\times B}}\right)\cdot d{\boldsymbol  {\ell }}=-{d\Phi _{B} \over dt}," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f5c71b6e1bf74443036cf37e9fe05d6d842b2eac" style="vertical-align: -2.505ex; width:37.789ex; height:6.009ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       where
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle {\mathcal {E}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mrow class="MJX-TeXAtom-ORD">
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi class="MJX-tex-caligraphic" mathvariant="script">
+                 E
+                </mi>
+               </mrow>
+              </mrow>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle {\mathcal {E}}}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="{\mathcal {E}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9c298ed828ff778065aeb5f0f305097f55bb9ae0" style="vertical-align: -0.338ex; width:1.311ex; height:2.176ex;"/>
+        </span>
+        is the electromotive force (
+        <a href="/wiki/Electromotive_force" title="Electromotive force">
+         EMF
+        </a>
+        ),
+       </dd>
+       <dd>
+        Φ
+        <sub>
+         <i>
+          B
+         </i>
+        </sub>
+        is the magnetic flux through the open surface Σ,
+       </dd>
+       <dd>
+        ∂Σ is the boundary of the open surface Σ; note that the surface, in general, may be in motion and deforming, and so is generally a function of time. The electromotive force is induced along this boundary.
+       </dd>
+       <dd>
+        d
+        <b>
+         ℓ
+        </b>
+        is an
+        <a href="/wiki/Infinitesimal" title="Infinitesimal">
+         infinitesimal
+        </a>
+        vector element of the contour ∂Σ,
+       </dd>
+       <dd>
+        <b>
+         v
+        </b>
+        is the velocity of the boundary ∂Σ,
+       </dd>
+       <dd>
+        <b>
+         E
+        </b>
+        is the
+        <a href="/wiki/Electric_field" title="Electric field">
+         electric field
+        </a>
+        ,
+       </dd>
+       <dd>
+        <b>
+         B
+        </b>
+        is the
+        <a href="/wiki/Magnetic_field" title="Magnetic field">
+         magnetic field
+        </a>
+        .
+       </dd>
+      </dl>
+      <p>
+       The two equations for the EMF are, firstly, the work per unit charge done against the
+       <a href="/wiki/Lorentz_force" title="Lorentz force">
+        Lorentz force
+       </a>
+       in moving a test charge around the (possibly moving) surface boundary ∂Σ and, secondly, as the change of magnetic flux through the open surface Σ. This equation is the principle behind an
+       <a class="mw-redirect" href="/wiki/Electrical_generator" title="Electrical generator">
+        electrical generator
+       </a>
+       .
+      </p>
+      <div style="clear:both;">
+      </div>
+      <div class="center">
+       <div class="thumb tnone">
+        <div class="thumbinner" style="width:302px;">
+         <a class="image" href="/wiki/File:Spulenflaeche.jpg">
+          <img alt="" class="thumbimage" data-file-height="2707" data-file-width="2834" height="287" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/35/Spulenflaeche.jpg/300px-Spulenflaeche.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/35/Spulenflaeche.jpg/450px-Spulenflaeche.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/35/Spulenflaeche.jpg/600px-Spulenflaeche.jpg 2x" width="300"/>
+         </a>
+         <div class="thumbcaption">
+          <div class="magnify">
+           <a class="internal" href="/wiki/File:Spulenflaeche.jpg" title="Enlarge">
+           </a>
+          </div>
+          Area defined by an electric coil with three turns.
+         </div>
+        </div>
+       </div>
+      </div>
+      <div style="clear:both;">
+      </div>
+      <h2>
+       <span class="mw-headline" id="Comparison_with_electric_flux">
+        Comparison with electric flux
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Magnetic_flux&amp;action=edit&amp;section=5" title="Edit section: Comparison with electric flux">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="hatnote navigation-not-searchable" role="note">
+       Main articles:
+       <a href="/wiki/Electric_flux" title="Electric flux">
+        Electric flux
+       </a>
+       and
+       <a href="/wiki/Gauss%27s_law" title="Gauss's law">
+        Gauss's law
+       </a>
+      </div>
+      <p>
+       By way of contrast,
+       <a href="/wiki/Gauss%27s_law" title="Gauss's law">
+        Gauss's law for electric fields
+       </a>
+       , another of
+       <a href="/wiki/Maxwell%27s_equations" title="Maxwell's equations">
+        Maxwell's equations
+       </a>
+       , is
+      </p>
+      <dl>
+       <dd>
+        <span class="nowrap">
+         <span class="mwe-math-element">
+          <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+           <math alttext="{\displaystyle \Phi _{E}=\,\!}" xmlns="http://www.w3.org/1998/Math/MathML">
+            <semantics>
+             <mrow class="MJX-TeXAtom-ORD">
+              <mstyle displaystyle="true" scriptlevel="0">
+               <msub>
+                <mi mathvariant="normal">
+                 Φ
+                 <!-- Φ -->
+                </mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                 <mi>
+                  E
+                 </mi>
+                </mrow>
+               </msub>
+               <mo>
+                =
+               </mo>
+               <mspace width="thinmathspace">
+               </mspace>
+               <mspace width="negativethinmathspace">
+               </mspace>
+              </mstyle>
+             </mrow>
+             <annotation encoding="application/x-tex">
+              {\displaystyle \Phi _{E}=\,\!}
+             </annotation>
+            </semantics>
+           </math>
+          </span>
+          <img alt="\Phi _{E}=\,\!" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c7fff4dabe80069e1fd3788dcb756b7ce144d021" style="vertical-align: -0.671ex; margin-right: -0.387ex; width:6.006ex; height:2.509ex;"/>
+         </span>
+         <img alt="\oiint" data-file-height="354" data-file-width="204" height="44" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/OiintLaTeX.svg/25px-OiintLaTeX.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/OiintLaTeX.svg/38px-OiintLaTeX.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/86/OiintLaTeX.svg/50px-OiintLaTeX.svg.png 2x" width="25"/>
+         <span style="position:relative; right:8px; top:18px; margin-right:-8px;">
+          <span class="mwe-math-element">
+           <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+            <math alttext="{\displaystyle \scriptstyle S}" xmlns="http://www.w3.org/1998/Math/MathML">
+             <semantics>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mstyle displaystyle="true" scriptlevel="0">
+                <mstyle displaystyle="false" scriptlevel="1">
+                 <mi>
+                  S
+                 </mi>
+                </mstyle>
+               </mstyle>
+              </mrow>
+              <annotation encoding="application/x-tex">
+               {\displaystyle \scriptstyle S}
+              </annotation>
+             </semantics>
+            </math>
+           </span>
+           <img alt="\scriptstyle S" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/62e91bf22a258bad807b5a9ae8068ef38202ca30" style="vertical-align: -0.338ex; width:1.06ex; height:1.676ex;"/>
+          </span>
+         </span>
+         <span class="mwe-math-element">
+          <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+           <math alttext="{\displaystyle \mathbf {E} \cdot d\mathbf {S} ={\frac {Q}{\epsilon _{0}}}\,\!}" xmlns="http://www.w3.org/1998/Math/MathML">
+            <semantics>
+             <mrow class="MJX-TeXAtom-ORD">
+              <mstyle displaystyle="true" scriptlevel="0">
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi mathvariant="bold">
+                 E
+                </mi>
+               </mrow>
+               <mo>
+                ⋅
+                <!-- ⋅ -->
+               </mo>
+               <mi>
+                d
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi mathvariant="bold">
+                 S
+                </mi>
+               </mrow>
+               <mo>
+                =
+               </mo>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mfrac>
+                 <mi>
+                  Q
+                 </mi>
+                 <msub>
+                  <mi>
+                   ϵ
+                   <!-- ϵ -->
+                  </mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mn>
+                    0
+                   </mn>
+                  </mrow>
+                 </msub>
+                </mfrac>
+               </mrow>
+               <mspace width="thinmathspace">
+               </mspace>
+               <mspace width="negativethinmathspace">
+               </mspace>
+              </mstyle>
+             </mrow>
+             <annotation encoding="application/x-tex">
+              {\displaystyle \mathbf {E} \cdot d\mathbf {S} ={\frac {Q}{\epsilon _{0}}}\,\!}
+             </annotation>
+            </semantics>
+           </math>
+          </span>
+          <img alt="{\mathbf  {E}}\cdot d{\mathbf  {S}}={\frac  {Q}{\epsilon _{0}}}\,\!" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/36c57bbd33bd6643b1a6857f21d0128ae661ba2b" style="vertical-align: -2.171ex; margin-right: -0.387ex; width:12.457ex; height:5.676ex;"/>
+         </span>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       where
+      </p>
+      <dl>
+       <dd>
+        <b>
+         E
+        </b>
+        is the
+        <a href="/wiki/Electric_field" title="Electric field">
+         electric field
+        </a>
+        ,
+       </dd>
+       <dd>
+        <i>
+         S
+        </i>
+        is any
+        <a class="mw-redirect" href="/wiki/Closed_surface" title="Closed surface">
+         closed surface
+        </a>
+        ,
+       </dd>
+       <dd>
+        <i>
+         Q
+        </i>
+        is the total
+        <a href="/wiki/Electric_charge" title="Electric charge">
+         electric charge
+        </a>
+        inside the surface
+        <i>
+         S
+        </i>
+        ,
+       </dd>
+       <dd>
+        <i>
+         ε
+        </i>
+        <sub>
+         0
+        </sub>
+        is the
+        <a class="mw-redirect" href="/wiki/Electric_constant" title="Electric constant">
+         electric constant
+        </a>
+        (a universal constant, also called the "
+        <a href="/wiki/Permittivity" title="Permittivity">
+         permittivity
+        </a>
+        of free space").
+       </dd>
+      </dl>
+      <p>
+       Note that the
+       <a href="/wiki/Electric_flux" title="Electric flux">
+        flux of
+        <b>
+         E
+        </b>
+       </a>
+       through a closed surface is
+       <i>
+        not
+       </i>
+       always zero; this indicates the presence of "electric monopoles", that is, free positive or negative
+       <a href="/wiki/Electric_charge" title="Electric charge">
+        charges
+       </a>
+       .
+      </p>
+      <table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;width:18em;">
+       <tr>
+        <td style="padding-top:0.4em;line-height:1.2em;padding-bottom: 0.45em;">
+         Part of a series on
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-abovebelow" style="padding:0.2em 0.4em 0.2em;padding-top:0;font-size:145%;line-height:1.2em">
+         <a href="/wiki/Magnetic_circuit" title="Magnetic circuit">
+          Magnetic circuits
+         </a>
+        </th>
+       </tr>
+       <tr>
+        <th style="padding:0.1em;background: #efefef;">
+         Conventional magnetic circuits
+        </th>
+       </tr>
+       <tr>
+        <td style="padding:0 0.1em 0.4em;text-align:left;">
+         <ul>
+          <li>
+           <a href="/wiki/Magnetomotive_force" title="Magnetomotive force">
+            Magnetomotive force
+           </a>
+           <span class="mwe-math-element">
+            <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+             <math alttext="{\displaystyle {\mathcal {F}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+              <semantics>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mstyle displaystyle="true" scriptlevel="0">
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mi class="MJX-tex-caligraphic" mathvariant="script">
+                    F
+                   </mi>
+                  </mrow>
+                 </mrow>
+                </mstyle>
+               </mrow>
+               <annotation encoding="application/x-tex">
+                {\displaystyle {\mathcal {F}}}
+               </annotation>
+              </semantics>
+             </math>
+            </span>
+            <img alt="{\mathcal {F}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/205d4b91000d9dcf1a5bbabdfa6a8395fa60b676" style="vertical-align: -0.338ex; width:1.927ex; height:2.176ex;"/>
+           </span>
+          </li>
+          <li>
+           <a class="mw-selflink selflink">
+            Magnetic flux
+           </a>
+           <span class="mwe-math-element">
+            <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+             <math alttext="{\displaystyle \Phi }" xmlns="http://www.w3.org/1998/Math/MathML">
+              <semantics>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mstyle displaystyle="true" scriptlevel="0">
+                 <mi mathvariant="normal">
+                  Φ
+                  <!-- Φ -->
+                 </mi>
+                </mstyle>
+               </mrow>
+               <annotation encoding="application/x-tex">
+                {\displaystyle \Phi }
+               </annotation>
+              </semantics>
+             </math>
+            </span>
+            <img alt="\Phi " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/aed80a2011a3912b028ba32a52dfa57165455f24" style="vertical-align: -0.338ex; width:1.678ex; height:2.176ex;"/>
+           </span>
+          </li>
+          <li>
+           <a href="/wiki/Magnetic_reluctance" title="Magnetic reluctance">
+            Magnetic reluctance
+           </a>
+           <span class="mwe-math-element">
+            <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+             <math alttext="{\displaystyle {\mathcal {R}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+              <semantics>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mstyle displaystyle="true" scriptlevel="0">
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mi class="MJX-tex-caligraphic" mathvariant="script">
+                    R
+                   </mi>
+                  </mrow>
+                 </mrow>
+                </mstyle>
+               </mrow>
+               <annotation encoding="application/x-tex">
+                {\displaystyle {\mathcal {R}}}
+               </annotation>
+              </semantics>
+             </math>
+            </span>
+            <img alt="\mathcal R" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/74532dc308c806964b832df0d0d73352195c2f2f" style="vertical-align: -0.338ex; width:1.971ex; height:2.176ex;"/>
+           </span>
+          </li>
+         </ul>
+        </td>
+       </tr>
+       <tr>
+        <th style="padding:0.1em;background: #efefef;">
+         Phasor magnetic circuits
+        </th>
+       </tr>
+       <tr>
+        <td style="padding:0 0.1em 0.4em;text-align:left;">
+         <ul>
+          <li>
+           <a href="/wiki/Magnetic_complex_reluctance" title="Magnetic complex reluctance">
+            Complex reluctance
+           </a>
+           <span class="mwe-math-element">
+            <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+             <math alttext="{\displaystyle Z_{\mu }}" xmlns="http://www.w3.org/1998/Math/MathML">
+              <semantics>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mstyle displaystyle="true" scriptlevel="0">
+                 <msub>
+                  <mi>
+                   Z
+                  </mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mi>
+                    μ
+                    <!-- μ -->
+                   </mi>
+                  </mrow>
+                 </msub>
+                </mstyle>
+               </mrow>
+               <annotation encoding="application/x-tex">
+                {\displaystyle Z_{\mu }}
+               </annotation>
+              </semantics>
+             </math>
+            </span>
+            <img alt="Z_\mu " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d767f086f2662e890e203c2bc7f0b621e3eefdf7" style="vertical-align: -1.005ex; width:2.811ex; height:2.843ex;"/>
+           </span>
+          </li>
+         </ul>
+        </td>
+       </tr>
+       <tr>
+        <th style="padding:0.1em;background: #efefef;">
+         Related concepts
+        </th>
+       </tr>
+       <tr>
+        <td style="padding:0 0.1em 0.4em;text-align:left;">
+         <ul>
+          <li>
+           <a href="/wiki/Permeability_(electromagnetism)" title="Permeability (electromagnetism)">
+            Magnetic permeability
+           </a>
+           <span class="mwe-math-element">
+            <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+             <math alttext="{\displaystyle \mu }" xmlns="http://www.w3.org/1998/Math/MathML">
+              <semantics>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mstyle displaystyle="true" scriptlevel="0">
+                 <mi>
+                  μ
+                  <!-- μ -->
+                 </mi>
+                </mstyle>
+               </mrow>
+               <annotation encoding="application/x-tex">
+                {\displaystyle \mu }
+               </annotation>
+              </semantics>
+             </math>
+            </span>
+            <img alt="\mu " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9fd47b2a39f7a7856952afec1f1db72c67af6161" style="vertical-align: -0.838ex; width:1.402ex; height:2.176ex;"/>
+           </span>
+          </li>
+         </ul>
+        </td>
+       </tr>
+       <tr>
+        <th style="padding:0.1em;background: #efefef;">
+         <a href="/wiki/Gyrator-capacitor_model" title="Gyrator-capacitor model">
+          Gyrator-capacitor model
+         </a>
+         variables
+        </th>
+       </tr>
+       <tr>
+        <td style="padding:0 0.1em 0.4em;text-align:left;">
+         <ul>
+          <li>
+           <a href="/wiki/Magnetic_impedance" title="Magnetic impedance">
+            Magnetic impedance
+           </a>
+           <span class="mwe-math-element">
+            <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+             <math alttext="{\displaystyle z_{\mathrm {M} }}" xmlns="http://www.w3.org/1998/Math/MathML">
+              <semantics>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mstyle displaystyle="true" scriptlevel="0">
+                 <msub>
+                  <mi>
+                   z
+                  </mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mi mathvariant="normal">
+                     M
+                    </mi>
+                   </mrow>
+                  </mrow>
+                 </msub>
+                </mstyle>
+               </mrow>
+               <annotation encoding="application/x-tex">
+                {\displaystyle z_{\mathrm {M} }}
+               </annotation>
+              </semantics>
+             </math>
+            </span>
+            <img alt="z_\mathrm{M}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/44a89c8caaec4a8f6dd9050d0cb1c5109f879ec0" style="vertical-align: -0.671ex; width:2.82ex; height:2.009ex;"/>
+           </span>
+          </li>
+          <li>
+           <a href="/wiki/Magnetic_effective_resistance" title="Magnetic effective resistance">
+            Effective resistance
+           </a>
+           <span class="mwe-math-element">
+            <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+             <math alttext="{\displaystyle r_{\mathrm {M} }}" xmlns="http://www.w3.org/1998/Math/MathML">
+              <semantics>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mstyle displaystyle="true" scriptlevel="0">
+                 <msub>
+                  <mi>
+                   r
+                  </mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mi mathvariant="normal">
+                     M
+                    </mi>
+                   </mrow>
+                  </mrow>
+                 </msub>
+                </mstyle>
+               </mrow>
+               <annotation encoding="application/x-tex">
+                {\displaystyle r_{\mathrm {M} }}
+               </annotation>
+              </semantics>
+             </math>
+            </span>
+            <img alt="r_\mathrm{M}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/dab9070000e25d7e098d94cb284a8888af704447" style="vertical-align: -0.671ex; width:2.788ex; height:2.009ex;"/>
+           </span>
+          </li>
+          <li>
+           <a href="/wiki/Magnetic_inductance" title="Magnetic inductance">
+            Magnetic inductivity
+           </a>
+           <span class="mwe-math-element">
+            <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+             <math alttext="{\displaystyle L_{\mathrm {M} }}" xmlns="http://www.w3.org/1998/Math/MathML">
+              <semantics>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mstyle displaystyle="true" scriptlevel="0">
+                 <msub>
+                  <mi>
+                   L
+                  </mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mi mathvariant="normal">
+                     M
+                    </mi>
+                   </mrow>
+                  </mrow>
+                 </msub>
+                </mstyle>
+               </mrow>
+               <annotation encoding="application/x-tex">
+                {\displaystyle L_{\mathrm {M} }}
+               </annotation>
+              </semantics>
+             </math>
+            </span>
+            <img alt="L_\mathrm{M}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1b6fa203c8846ba711f0c81fe162789853f42c35" style="vertical-align: -0.671ex; width:3.322ex; height:2.509ex;"/>
+           </span>
+          </li>
+          <li>
+           <a href="/wiki/Magnetic_capacitivity" title="Magnetic capacitivity">
+            Magnetic capacitivity
+           </a>
+           <span class="mwe-math-element">
+            <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+             <math alttext="{\displaystyle C_{\mathrm {M} }}" xmlns="http://www.w3.org/1998/Math/MathML">
+              <semantics>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mstyle displaystyle="true" scriptlevel="0">
+                 <msub>
+                  <mi>
+                   C
+                  </mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mi mathvariant="normal">
+                     M
+                    </mi>
+                   </mrow>
+                  </mrow>
+                 </msub>
+                </mstyle>
+               </mrow>
+               <annotation encoding="application/x-tex">
+                {\displaystyle C_{\mathrm {M} }}
+               </annotation>
+              </semantics>
+             </math>
+            </span>
+            <img alt="C_\mathrm{M}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/05edb806fdb6ed21a51764a20bd34eb64a67bc39" style="vertical-align: -0.671ex; width:3.401ex; height:2.509ex;"/>
+           </span>
+          </li>
+         </ul>
+        </td>
+       </tr>
+       <tr>
+        <td style="padding:0.3em 0.4em 0.3em;font-weight:bold;border-top:#aaa 1px solid; border-bottom:#aaa 1px solid; padding-bottom:0.4em;">
+         <a class="image" href="/wiki/File:Stylised_atom_with_three_Bohr_model_orbits_and_stylised_nucleus.svg">
+          <img alt="Stylised atom with three Bohr model orbits and stylised nucleus.svg" class="noviewer" data-file-height="303" data-file-width="266" height="16" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Stylised_atom_with_three_Bohr_model_orbits_and_stylised_nucleus.svg/14px-Stylised_atom_with_three_Bohr_model_orbits_and_stylised_nucleus.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Stylised_atom_with_three_Bohr_model_orbits_and_stylised_nucleus.svg/21px-Stylised_atom_with_three_Bohr_model_orbits_and_stylised_nucleus.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Stylised_atom_with_three_Bohr_model_orbits_and_stylised_nucleus.svg/28px-Stylised_atom_with_three_Bohr_model_orbits_and_stylised_nucleus.svg.png 2x" width="14"/>
+         </a>
+         <a href="/wiki/Portal:Physics" title="Portal:Physics">
+          Physics portal
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td style="text-align:right;font-size:115%">
+         <div class="plainlinks hlist navbar mini">
+          <ul>
+           <li class="nv-view">
+            <a href="/wiki/Template:MagneticCircuitSegments" title="Template:MagneticCircuitSegments">
+             <abbr title="View this template">
+              v
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-talk">
+            <a href="/wiki/Template_talk:MagneticCircuitSegments" title="Template talk:MagneticCircuitSegments">
+             <abbr title="Discuss this template">
+              t
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-edit">
+            <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:MagneticCircuitSegments&amp;action=edit">
+             <abbr title="Edit this template">
+              e
+             </abbr>
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+      </table>
+      <p>
+       <br/>
+      </p>
+      <h2>
+       <span class="mw-headline" id="See_also">
+        See also
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Magnetic_flux&amp;action=edit&amp;section=6" title="Edit section: See also">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+       <ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+        <li style="display:table-row">
+         <span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center">
+          <a class="image" href="/wiki/File:Nuvola_apps_ksim.png">
+           <img alt="icon" class="noviewer" data-file-height="128" data-file-width="128" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Nuvola_apps_ksim.png/28px-Nuvola_apps_ksim.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Nuvola_apps_ksim.png/42px-Nuvola_apps_ksim.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Nuvola_apps_ksim.png/56px-Nuvola_apps_ksim.png 2x" width="28"/>
+          </a>
+         </span>
+         <span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle">
+          <a href="/wiki/Portal:Electronics" title="Portal:Electronics">
+           Electronics portal
+          </a>
+         </span>
+        </li>
+       </ul>
+      </div>
+      <ul>
+       <li>
+        <a href="/wiki/Magnetic_circuit" title="Magnetic circuit">
+         Magnetic circuit
+        </a>
+        is a closed path in which magnetic flux flows
+       </li>
+       <li>
+        <a href="/wiki/Magnetic_flux_quantum" title="Magnetic flux quantum">
+         Magnetic flux quantum
+        </a>
+        is the quantum of magnetic flux passing through a superconductor.
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="References">
+        References
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Magnetic_flux&amp;action=edit&amp;section=7" title="Edit section: References">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       Purcell, Edward and Morin, David;
+       <i>
+        Electricity and Magnetism 3rd Edition
+       </i>
+       ; Cambridge University Press, New York, 2013. isbn 978-1-107-01402-2.
+      </p>
+      <p>
+       Browne, Michael;
+       <i>
+        Physics for Engineering and Science 2nd Edition
+       </i>
+       , McGraw-Hill/Schaum; 2008; isbn 978-0-07-161399-6.
+      </p>
+      <h2>
+       <span class="mw-headline" id="External_articles">
+        External articles
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Magnetic_flux&amp;action=edit&amp;section=8" title="Edit section: External articles">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <dl>
+       <dt>
+        Patents
+       </dt>
+      </dl>
+      <ul>
+       <li>
+        Vicci,
+        <span>
+         <a class="external text" href="//www.google.com/patents/US6720855" rel="nofollow">
+          U.S. Patent 6,720,855
+         </a>
+        </span>
+        ,
+        <i>
+         Magnetic-flux conduits
+        </i>
+       </li>
+       <li>
+        <a class="external text" href="http://demonstrations.wolfram.com/MagneticFluxThroughALoopOfWire/" rel="nofollow">
+         Magnetic Flux through a Loop of Wire
+        </a>
+        by Ernest Lee,
+        <a href="/wiki/Wolfram_Demonstrations_Project" title="Wolfram Demonstrations Project">
+         Wolfram Demonstrations Project
+        </a>
+        .
+       </li>
+       <li>
+        <a class="external text" href="http://www.sengpielaudio.com/calculator-magneticflux.htm" rel="nofollow">
+         Conversion Magnetic flux Φ in nWb per meter track width to flux level in dB - Tape Operating Levels and Tape Alignment Levels
+        </a>
+       </li>
+      </ul>
+      <div class="reflist" style="list-style-type: decimal;">
+       <div class="mw-references-wrap">
+        <ol class="references">
+         <li id="cite_note-1">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-1">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           Purcell, p278,
+          </span>
+         </li>
+         <li id="cite_note-2">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-2">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           Browne,p235
+          </span>
+         </li>
+        </ol>
+       </div>
+      </div>
+      <!-- 
+NewPP limit report
+Parsed by mw1266
+Cached time: 20180403052017
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.188 seconds
+Real time usage: 0.321 seconds
+Preprocessor visited node count: 869/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 36441/2097152 bytes
+Template argument size: 1110/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 1288/5000000 bytes
+Lua time usage: 0.058/10.000 seconds
+Lua memory usage: 2.17 MB/50 MB
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  202.114      1 -total
+ 24.26%   49.023      1 Template:About
+ 21.29%   43.034      1 Template:No_footnotes
+ 15.63%   31.596      1 Template:Ambox
+ 13.07%   26.422      1 Template:Cn
+ 11.03%   22.291      1 Template:Electromagnetism
+ 10.56%   21.348      1 Template:Fix
+  9.74%   19.678      1 Template:Sidebar_with_collapsible_lists
+  7.92%   16.008      1 Template:MagneticCircuitSegments
+  6.82%   13.794      1 Template:Sidebar
+-->
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:65890-0!canonical!math=5 and timestamp 20180403052016 and revision id 829709815
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Magnetic_flux&amp;oldid=829709815">
+      https://en.wikipedia.org/w/index.php?title=Magnetic_flux&amp;oldid=829709815
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Physical_quantities" title="Category:Physical quantities">
+         Physical quantities
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Magnetism" title="Category:Magnetism">
+         Magnetism
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:Articles_lacking_in-text_citations_from_July_2016" title="Category:Articles lacking in-text citations from July 2016">
+         Articles lacking in-text citations from July 2016
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:All_articles_lacking_in-text_citations" title="Category:All articles lacking in-text citations">
+         All articles lacking in-text citations
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">
+         All articles with unsourced statements
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_with_unsourced_statements_from_December_2016" title="Category:Articles with unsourced statements from December 2016">
+         Articles with unsourced statements from December 2016
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Magnetic+flux" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Magnetic+flux" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Magnetic_flux" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Magnetic_flux" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="collapsible selected" id="ca-view">
+        <span>
+         <a href="/wiki/Magnetic_flux">
+          Read
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Magnetic_flux&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Magnetic_flux&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Magnetic_flux" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Magnetic_flux" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Magnetic_flux&amp;oldid=829709815" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Magnetic_flux&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q177831" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Magnetic_flux&amp;id=829709815" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Magnetic+flux">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Magnetic+flux&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Magnetic_flux&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+     <h3 id="p-wikibase-otherprojects-label">
+      In other projects
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="wb-otherproject-link wb-otherproject-commons">
+        <a href="https://commons.wikimedia.org/wiki/Category:Magnetic_flux" hreflang="en">
+         Wikimedia Commons
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-ar">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%AA%D8%AF%D9%81%D9%82_%D9%85%D8%BA%D9%86%D8%A7%D8%B7%D9%8A%D8%B3%D9%8A" hreflang="ar" lang="ar" title="تدفق مغناطيسي – Arabic">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ast">
+        <a class="interlanguage-link-target" href="https://ast.wikipedia.org/wiki/Fluxu_magn%C3%A9tico" hreflang="ast" lang="ast" title="Fluxu magnético – Asturian">
+         Asturianu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-az">
+        <a class="interlanguage-link-target" href="https://az.wikipedia.org/wiki/Maqnit_seli" hreflang="az" lang="az" title="Maqnit seli – Azerbaijani">
+         Azərbaycanca
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-be">
+        <a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%9C%D0%B0%D0%B3%D0%BD%D1%96%D1%82%D0%BD%D1%8B_%D0%BF%D0%B0%D1%82%D0%BE%D0%BA" hreflang="be" lang="be" title="Магнітны паток – Belarusian">
+         Беларуская
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-be-x-old">
+        <a class="interlanguage-link-target" href="https://be-x-old.wikipedia.org/wiki/%D0%9C%D0%B0%D0%B3%D0%BD%D1%96%D1%82%D0%BD%D1%8B_%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%8C" hreflang="be-x-old" lang="be-x-old" title="Магнітны струмень – Belarusian (Taraškievica orthography)">
+         Беларуская (тарашкевіца)‎
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bg">
+        <a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%9C%D0%B0%D0%B3%D0%BD%D0%B8%D1%82%D0%B5%D0%BD_%D0%BF%D0%BE%D1%82%D0%BE%D0%BA" hreflang="bg" lang="bg" title="Магнитен поток – Bulgarian">
+         Български
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bar">
+        <a class="interlanguage-link-target" href="https://bar.wikipedia.org/wiki/Magnetischa_Fluss" hreflang="bar" lang="bar" title="Magnetischa Fluss – Bavarian">
+         Boarisch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bs">
+        <a class="interlanguage-link-target" href="https://bs.wikipedia.org/wiki/Magnetni_fluks" hreflang="bs" lang="bs" title="Magnetni fluks – Bosnian">
+         Bosanski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Flux_magn%C3%A8tic" hreflang="ca" lang="ca" title="Flux magnètic – Catalan">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cs">
+        <a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Magnetick%C3%BD_tok" hreflang="cs" lang="cs" title="Magnetický tok – Czech">
+         Čeština
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Magnetischer_Fluss" hreflang="de" lang="de" title="Magnetischer Fluss – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-et">
+        <a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Magnetvoog" hreflang="et" lang="et" title="Magnetvoog – Estonian">
+         Eesti
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-el">
+        <a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%9C%CE%B1%CE%B3%CE%BD%CE%B7%CF%84%CE%B9%CE%BA%CE%AE_%CF%81%CE%BF%CE%AE" hreflang="el" lang="el" title="Μαγνητική ροή – Greek">
+         Ελληνικά
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Flujo_magn%C3%A9tico" hreflang="es" lang="es" title="Flujo magnético – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eo">
+        <a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Magneta_flukso" hreflang="eo" lang="eo" title="Magneta flukso – Esperanto">
+         Esperanto
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eu">
+        <a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Fluxu_magnetiko" hreflang="eu" lang="eu" title="Fluxu magnetiko – Basque">
+         Euskara
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fa">
+        <a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%B4%D8%A7%D8%B1_%D9%85%D8%BA%D9%86%D8%A7%D8%B7%DB%8C%D8%B3%DB%8C" hreflang="fa" lang="fa" title="شار مغناطیسی – Persian">
+         فارسی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Flux_magn%C3%A9tique" hreflang="fr" lang="fr" title="Flux magnétique – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ga">
+        <a class="interlanguage-link-target" href="https://ga.wikipedia.org/wiki/Flosc_maighn%C3%A9adach" hreflang="ga" lang="ga" title="Flosc maighnéadach – Irish">
+         Gaeilge
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-gl">
+        <a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Fluxo_magn%C3%A9tico" hreflang="gl" lang="gl" title="Fluxo magnético – Galician">
+         Galego
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ko">
+        <a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%9E%90%EA%B8%B0_%EC%84%A0%EC%86%8D" hreflang="ko" lang="ko" title="자기 선속 – Korean">
+         한국어
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hy">
+        <a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D5%84%D5%A1%D5%A3%D5%B6%D5%AB%D5%BD%D5%A1%D5%AF%D5%A1%D5%B6_%D5%B0%D5%B8%D5%BD%D6%84" hreflang="hy" lang="hy" title="Մագնիսական հոսք – Armenian">
+         Հայերեն
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hi">
+        <a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%9A%E0%A5%81%E0%A4%AE%E0%A5%8D%E0%A4%AC%E0%A4%95%E0%A5%80%E0%A4%AF_%E0%A4%AB%E0%A5%8D%E0%A4%B2%E0%A4%95%E0%A5%8D%E0%A4%B8" hreflang="hi" lang="hi" title="चुम्बकीय फ्लक्स – Hindi">
+         हिन्दी
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hr">
+        <a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Magnetski_tok" hreflang="hr" lang="hr" title="Magnetski tok – Croatian">
+         Hrvatski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-id">
+        <a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Fluks_magnetik" hreflang="id" lang="id" title="Fluks magnetik – Indonesian">
+         Bahasa Indonesia
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-is">
+        <a class="interlanguage-link-target" href="https://is.wikipedia.org/wiki/Segulfl%C3%A6%C3%B0i" hreflang="is" lang="is" title="Segulflæði – Icelandic">
+         Íslenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Flusso_magnetico" hreflang="it" lang="it" title="Flusso magnetico – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-kn">
+        <a class="interlanguage-link-target" href="https://kn.wikipedia.org/wiki/%E0%B2%95%E0%B2%BE%E0%B2%82%E0%B2%A4_%E0%B2%AE%E0%B2%82%E0%B2%A1%E0%B2%B2" hreflang="kn" lang="kn" title="ಕಾಂತ ಮಂಡಲ – Kannada">
+         ಕನ್ನಡ
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ka">
+        <a class="interlanguage-link-target" href="https://ka.wikipedia.org/wiki/%E1%83%9B%E1%83%90%E1%83%92%E1%83%9C%E1%83%98%E1%83%A2%E1%83%A3%E1%83%A0%E1%83%98_%E1%83%9C%E1%83%90%E1%83%99%E1%83%90%E1%83%93%E1%83%98" hreflang="ka" lang="ka" title="მაგნიტური ნაკადი – Georgian">
+         ქართული
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-kk">
+        <a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/%D0%A4%D0%BB%D1%8E%D0%BA%D1%81%D0%BC%D0%B5%D1%82%D1%80" hreflang="kk" lang="kk" title="Флюксметр – Kazakh">
+         Қазақша
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lv">
+        <a class="interlanguage-link-target" href="https://lv.wikipedia.org/wiki/Magn%C4%93tisk%C4%81s_indukcijas_pl%C5%ABsma" hreflang="lv" lang="lv" title="Magnētiskās indukcijas plūsma – Latvian">
+         Latviešu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-mk">
+        <a class="interlanguage-link-target" href="https://mk.wikipedia.org/wiki/%D0%9C%D0%B0%D0%B3%D0%BD%D0%B5%D1%82%D0%B5%D0%BD_%D1%82%D0%B5%D0%BA" hreflang="mk" lang="mk" title="Магнетен тек – Macedonian">
+         Македонски
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-mr">
+        <a class="interlanguage-link-target" href="https://mr.wikipedia.org/wiki/%E0%A4%9A%E0%A5%81%E0%A4%82%E0%A4%AC%E0%A4%95%E0%A5%80_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B5%E0%A4%BE%E0%A4%B9" hreflang="mr" lang="mr" title="चुंबकी प्रवाह – Marathi">
+         मराठी
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ms">
+        <a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Fluks_magnet" hreflang="ms" lang="ms" title="Fluks magnet – Malay">
+         Bahasa Melayu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-mn">
+        <a class="interlanguage-link-target" href="https://mn.wikipedia.org/wiki/%D0%A1%D0%BE%D1%80%D0%BE%D0%BD%D0%B7%D0%BE%D0%BD_%D1%83%D1%80%D1%81%D0%B3%D0%B0%D0%BB" hreflang="mn" lang="mn" title="Соронзон урсгал – Mongolian">
+         Монгол
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nl">
+        <a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Magnetische_flux" hreflang="nl" lang="nl" title="Magnetische flux – Dutch">
+         Nederlands
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E7%A3%81%E6%9D%9F" hreflang="ja" lang="ja" title="磁束 – Japanese">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-no">
+        <a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Magnetisk_fluks" hreflang="no" lang="no" title="Magnetisk fluks – Norwegian">
+         Norsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uz">
+        <a class="interlanguage-link-target" href="https://uz.wikipedia.org/wiki/Magnit_oqim" hreflang="uz" lang="uz" title="Magnit oqim – Uzbek">
+         Oʻzbekcha/ўзбекча
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pl">
+        <a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Strumie%C5%84_indukcji_magnetycznej" hreflang="pl" lang="pl" title="Strumień indukcji magnetycznej – Polish">
+         Polski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Fluxo_magn%C3%A9tico" hreflang="pt" lang="pt" title="Fluxo magnético – Portuguese">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ro">
+        <a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Flux_magnetic" hreflang="ro" lang="ro" title="Flux magnetic – Romanian">
+         Română
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%B3%D0%BD%D0%B8%D1%82%D0%BD%D1%8B%D0%B9_%D0%BF%D0%BE%D1%82%D0%BE%D0%BA" hreflang="ru" lang="ru" title="Магнитный поток – Russian">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sco">
+        <a class="interlanguage-link-target" href="https://sco.wikipedia.org/wiki/Magnetic_flux" hreflang="sco" lang="sco" title="Magnetic flux – Scots">
+         Scots
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sq">
+        <a class="interlanguage-link-target" href="https://sq.wikipedia.org/wiki/Fluksi_magnetik" hreflang="sq" lang="sq" title="Fluksi magnetik – Albanian">
+         Shqip
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-simple">
+        <a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Magnetic_flux" hreflang="simple" lang="simple" title="Magnetic flux – Simple English">
+         Simple English
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sk">
+        <a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Magnetick%C3%BD_induk%C4%8Dn%C3%BD_tok" hreflang="sk" lang="sk" title="Magnetický indukčný tok – Slovak">
+         Slovenčina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sl">
+        <a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Magnetni_pretok" hreflang="sl" lang="sl" title="Magnetni pretok – Slovenian">
+         Slovenščina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sr">
+        <a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%93%D1%83%D1%81%D1%82%D0%B8%D0%BD%D0%B0_%D0%BC%D0%B0%D0%B3%D0%BD%D0%B5%D1%82%D1%81%D0%BA%D0%BE%D0%B3_%D1%84%D0%BB%D1%83%D0%BA%D1%81%D0%B0" hreflang="sr" lang="sr" title="Густина магнетског флукса – Serbian">
+         Српски / srpski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sh">
+        <a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Magnetni_tok" hreflang="sh" lang="sh" title="Magnetni tok – Serbo-Croatian">
+         Srpskohrvatski / српскохрватски
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fi">
+        <a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Magneettivuo" hreflang="fi" lang="fi" title="Magneettivuo – Finnish">
+         Suomi
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sv">
+        <a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Magnetiskt_fl%C3%B6de" hreflang="sv" lang="sv" title="Magnetiskt flöde – Swedish">
+         Svenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ta">
+        <a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%95%E0%AE%BE%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%BE%E0%AE%AF%E0%AE%AE%E0%AF%8D" hreflang="ta" lang="ta" title="காந்தப்பாயம் – Tamil">
+         தமிழ்
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tt">
+        <a class="interlanguage-link-target" href="https://tt.wikipedia.org/wiki/%D0%9C%D0%B0%D0%B3%D0%BD%D0%B8%D1%82_%D0%B0%D0%B3%D1%8B%D0%BC%D1%8B" hreflang="tt" lang="tt" title="Магнит агымы – Tatar">
+         Татарча/tatarça
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-te">
+        <a class="interlanguage-link-target" href="https://te.wikipedia.org/wiki/%E0%B0%85%E0%B0%AF%E0%B0%B8%E0%B1%8D%E0%B0%95%E0%B0%BE%E0%B0%82%E0%B0%A4_%E0%B0%85%E0%B0%AD%E0%B0%BF%E0%B0%B5%E0%B0%BE%E0%B0%B9%E0%B0%82" hreflang="te" lang="te" title="అయస్కాంత అభివాహం – Telugu">
+         తెలుగు
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-th">
+        <a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%AB%E0%B8%99%E0%B8%B2%E0%B9%81%E0%B8%99%E0%B9%88%E0%B8%99%E0%B8%9F%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%8B%E0%B9%8C%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B9%87%E0%B8%81" hreflang="th" lang="th" title="ความหนาแน่นฟลักซ์แม่เหล็ก – Thai">
+         ไทย
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tr">
+        <a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Manyetik_ak%C4%B1" hreflang="tr" lang="tr" title="Manyetik akı – Turkish">
+         Türkçe
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uk">
+        <a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%9C%D0%B0%D0%B3%D0%BD%D1%96%D1%82%D0%BD%D0%B8%D0%B9_%D0%BF%D0%BE%D1%82%D1%96%D0%BA" hreflang="uk" lang="uk" title="Магнітний потік – Ukrainian">
+         Українська
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ur">
+        <a class="interlanguage-link-target" href="https://ur.wikipedia.org/wiki/%D9%85%D9%82%D9%86%D8%A7%D8%B7%DB%8C%D8%B3%DB%8C_%D8%B3%DB%8C%D9%84%D8%A7%D9%86" hreflang="ur" lang="ur" title="مقناطیسی سیلان – Urdu">
+         اردو
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-vi">
+        <a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/T%E1%BB%AB_th%C3%B4ng" hreflang="vi" lang="vi" title="Từ thông – Vietnamese">
+         Tiếng Việt
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E7%A3%81%E9%80%9A%E9%87%8F" hreflang="zh" lang="zh" title="磁通量 – Chinese">
+         中文
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q177831#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 10 March 2018, at 09:04.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Magnetic_flux&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.188","walltime":"0.321","ppvisitednodes":{"value":869,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":36441,"limit":2097152},"templateargumentsize":{"value":1110,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":1288,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  202.114      1 -total"," 24.26%   49.023      1 Template:About"," 21.29%   43.034      1 Template:No_footnotes"," 15.63%   31.596      1 Template:Ambox"," 13.07%   26.422      1 Template:Cn"," 11.03%   22.291      1 Template:Electromagnetism"," 10.56%   21.348      1 Template:Fix","  9.74%   19.678      1 Template:Sidebar_with_collapsible_lists","  7.92%   16.008      1 Template:MagneticCircuitSegments","  6.82%   13.794      1 Template:Sidebar"]},"scribunto":{"limitreport-timeusage":{"value":"0.058","limit":"10.000"},"limitreport-memusage":{"value":2279339,"limit":52428800}},"cachereport":{"origin":"mw1266","timestamp":"20180403052017","ttl":1900800,"transientcontent":false}}});});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":75,"wgHostname":"mw1327"});});
+  </script>
+ </body>
+</html>

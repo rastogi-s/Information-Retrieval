@@ -1,0 +1,4243 @@
+https://en.wikipedia.org/wiki/Spectral_line
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Spectral line - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Spectral_line","wgTitle":"Spectral line","wgCurRevisionId":819514814,"wgRevisionId":819514814,"wgArticleId":177320,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles lacking in-text citations from May 2013","All articles lacking in-text citations","Articles to be expanded from October 2008","All articles to be expanded","Articles using small message boxes","Wikipedia articles needing clarification from October 2015","Wikipedia articles needing clarification from October 2016","Spectroscopy","Emission spectroscopy"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Spectral_line","wgRelevantArticleId":177320,"wgRequestId":"WsMSUQpAICoAAEPFevUAAAAG","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q212111","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.cite.a11y","ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","jquery.tablesorter","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.31.0-wmf.27" name="generator"/>
+  <meta content="origin" name="referrer"/>
+  <meta content="origin-when-crossorigin" name="referrer"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Spectrum_of_blue_sky.svg/1200px-Spectrum_of_blue_sky.svg.png" property="og:image"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Spectral_line" rel="alternate"/>
+  <link href="/w/index.php?title=Spectral_line&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Spectral_line&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/Spectral_line" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Spectral_line rootpage-Spectral_line skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Spectral line
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <table class="plainlinks metadata ambox ambox-style ambox-More_footnotes" role="presentation">
+       <tr>
+        <td class="mbox-image">
+         <div style="width:52px">
+          <img alt="" data-file-height="48" data-file-width="48" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/40px-Text_document_with_red_question_mark.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/60px-Text_document_with_red_question_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/80px-Text_document_with_red_question_mark.svg.png 2x" width="40"/>
+         </div>
+        </td>
+        <td class="mbox-text">
+         <div class="mbox-text-span">
+          This article includes a
+          <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">
+           list of references
+          </a>
+          , but
+          <b>
+           its sources remain unclear
+          </b>
+          because it has
+          <b>
+           insufficient
+           <a href="/wiki/Wikipedia:Citing_sources#Inline_citations" title="Wikipedia:Citing sources">
+            inline citations
+           </a>
+          </b>
+          .
+          <span class="hide-when-compact">
+           Please help to
+           <a href="/wiki/Wikipedia:WikiProject_Fact_and_Reference_Check" title="Wikipedia:WikiProject Fact and Reference Check">
+            improve
+           </a>
+           this article by
+           <a href="/wiki/Wikipedia:When_to_cite" title="Wikipedia:When to cite">
+            introducing
+           </a>
+           more precise citations.
+          </span>
+          <small>
+           <i>
+            (May 2013)
+           </i>
+          </small>
+          <small class="hide-when-compact">
+           <i>
+            (
+            <a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">
+             Learn how and when to remove this template message
+            </a>
+            )
+           </i>
+          </small>
+         </div>
+        </td>
+       </tr>
+      </table>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:Spectral-lines-continuous.svg">
+         <img alt="" class="thumbimage" data-file-height="40" data-file-width="335" height="26" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spectral-lines-continuous.svg/220px-Spectral-lines-continuous.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spectral-lines-continuous.svg/330px-Spectral-lines-continuous.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spectral-lines-continuous.svg/440px-Spectral-lines-continuous.svg.png 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Spectral-lines-continuous.svg" title="Enlarge">
+          </a>
+         </div>
+         Continuous spectrum
+        </div>
+       </div>
+      </div>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:Spectral-lines-emission.svg">
+         <img alt="" class="thumbimage" data-file-height="40" data-file-width="335" height="26" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/de/Spectral-lines-emission.svg/220px-Spectral-lines-emission.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/de/Spectral-lines-emission.svg/330px-Spectral-lines-emission.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/de/Spectral-lines-emission.svg/440px-Spectral-lines-emission.svg.png 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Spectral-lines-emission.svg" title="Enlarge">
+          </a>
+         </div>
+         <a href="/wiki/Emission_spectrum" title="Emission spectrum">
+          Emission lines
+         </a>
+        </div>
+       </div>
+      </div>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:Spectral-lines-absorption.svg">
+         <img alt="" class="thumbimage" data-file-height="40" data-file-width="335" height="26" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Spectral-lines-absorption.svg/220px-Spectral-lines-absorption.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Spectral-lines-absorption.svg/330px-Spectral-lines-absorption.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Spectral-lines-absorption.svg/440px-Spectral-lines-absorption.svg.png 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Spectral-lines-absorption.svg" title="Enlarge">
+          </a>
+         </div>
+         <a href="/wiki/Absorption_spectroscopy" title="Absorption spectroscopy">
+          Absorption lines
+         </a>
+        </div>
+       </div>
+      </div>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:322px;">
+        <a class="image" href="/wiki/File:Spectrum_of_blue_sky.svg">
+         <img alt="" class="thumbimage" data-file-height="1600" data-file-width="2531" height="202" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Spectrum_of_blue_sky.svg/320px-Spectrum_of_blue_sky.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Spectrum_of_blue_sky.svg/480px-Spectrum_of_blue_sky.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Spectrum_of_blue_sky.svg/640px-Spectrum_of_blue_sky.svg.png 2x" width="320"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Spectrum_of_blue_sky.svg" title="Enlarge">
+          </a>
+         </div>
+         Absorption lines for air, under indirect illumination, with the direct light source not visible, so that the gas is not directly between source and detector. Here,
+         <a href="/wiki/Fraunhofer_lines" title="Fraunhofer lines">
+          Fraunhofer lines
+         </a>
+         in sunlight and
+         <a href="/wiki/Rayleigh_scattering" title="Rayleigh scattering">
+          Rayleigh scattering
+         </a>
+         of this sunlight is the "source." This is the spectrum of a blue sky somewhat close to the horizon, pointing east at around 3 or 4 pm (i.e., Sun in the West) on a clear day.
+        </div>
+       </div>
+      </div>
+      <p>
+       A
+       <b>
+        spectral line
+       </b>
+       is a dark or bright line in an otherwise uniform and
+       <a href="/wiki/Continuous_spectrum" title="Continuous spectrum">
+        continuous spectrum
+       </a>
+       , resulting from emission or absorption of light in a narrow frequency range, compared with the nearby frequencies. Spectral lines are often used to identify
+       <a href="/wiki/Atom" title="Atom">
+        atoms
+       </a>
+       and
+       <a href="/wiki/Molecule" title="Molecule">
+        molecules
+       </a>
+       . These "fingerprints" can be compared to the previously collected "fingerprints" of atoms and molecules,
+       <sup class="reference" id="cite_ref-RothmanGordon2013_1-0">
+        <a href="#cite_note-RothmanGordon2013-1">
+         [1]
+        </a>
+       </sup>
+       and are thus used to identify the atomic and molecular components of stars and planets which would otherwise be impossible.
+      </p>
+      <p>
+      </p>
+      <div class="toc" id="toc">
+       <div class="toctitle" dir="ltr" lang="en" xml:lang="en">
+        <h2>
+         Contents
+        </h2>
+       </div>
+       <ul>
+        <li class="toclevel-1 tocsection-1">
+         <a href="#Types_of_line_spectra">
+          <span class="tocnumber">
+           1
+          </span>
+          <span class="toctext">
+           Types of line spectra
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-2">
+         <a href="#Nomenclature">
+          <span class="tocnumber">
+           2
+          </span>
+          <span class="toctext">
+           Nomenclature
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-3">
+         <a href="#Line_broadening_and_shift">
+          <span class="tocnumber">
+           3
+          </span>
+          <span class="toctext">
+           Line broadening and shift
+          </span>
+         </a>
+         <ul>
+          <li class="toclevel-2 tocsection-4">
+           <a href="#Broadening_due_to_local_effects">
+            <span class="tocnumber">
+             3.1
+            </span>
+            <span class="toctext">
+             Broadening due to local effects
+            </span>
+           </a>
+           <ul>
+            <li class="toclevel-3 tocsection-5">
+             <a href="#Natural_broadening">
+              <span class="tocnumber">
+               3.1.1
+              </span>
+              <span class="toctext">
+               Natural broadening
+              </span>
+             </a>
+            </li>
+            <li class="toclevel-3 tocsection-6">
+             <a href="#Thermal_Doppler_broadening">
+              <span class="tocnumber">
+               3.1.2
+              </span>
+              <span class="toctext">
+               Thermal Doppler broadening
+              </span>
+             </a>
+            </li>
+            <li class="toclevel-3 tocsection-7">
+             <a href="#Pressure_broadening">
+              <span class="tocnumber">
+               3.1.3
+              </span>
+              <span class="toctext">
+               Pressure broadening
+              </span>
+             </a>
+            </li>
+            <li class="toclevel-3 tocsection-8">
+             <a href="#Inhomogeneous_broadening">
+              <span class="tocnumber">
+               3.1.4
+              </span>
+              <span class="toctext">
+               Inhomogeneous broadening
+              </span>
+             </a>
+            </li>
+           </ul>
+          </li>
+          <li class="toclevel-2 tocsection-9">
+           <a href="#Broadening_due_to_non-local_effects">
+            <span class="tocnumber">
+             3.2
+            </span>
+            <span class="toctext">
+             Broadening due to non-local effects
+            </span>
+           </a>
+           <ul>
+            <li class="toclevel-3 tocsection-10">
+             <a href="#Opacity_broadening">
+              <span class="tocnumber">
+               3.2.1
+              </span>
+              <span class="toctext">
+               Opacity broadening
+              </span>
+             </a>
+            </li>
+            <li class="toclevel-3 tocsection-11">
+             <a href="#Macroscopic_Doppler_broadening">
+              <span class="tocnumber">
+               3.2.2
+              </span>
+              <span class="toctext">
+               Macroscopic Doppler broadening
+              </span>
+             </a>
+            </li>
+            <li class="toclevel-3 tocsection-12">
+             <a href="#Radiative_broadening">
+              <span class="tocnumber">
+               3.2.3
+              </span>
+              <span class="toctext">
+               Radiative broadening
+              </span>
+             </a>
+            </li>
+           </ul>
+          </li>
+          <li class="toclevel-2 tocsection-13">
+           <a href="#Combined_effects">
+            <span class="tocnumber">
+             3.3
+            </span>
+            <span class="toctext">
+             Combined effects
+            </span>
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="toclevel-1 tocsection-14">
+         <a href="#Spectral_lines_of_chemical_elements">
+          <span class="tocnumber">
+           4
+          </span>
+          <span class="toctext">
+           Spectral lines of chemical elements
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-15">
+         <a href="#See_also">
+          <span class="tocnumber">
+           5
+          </span>
+          <span class="toctext">
+           See also
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-16">
+         <a href="#Notes">
+          <span class="tocnumber">
+           6
+          </span>
+          <span class="toctext">
+           Notes
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-17">
+         <a href="#References">
+          <span class="tocnumber">
+           7
+          </span>
+          <span class="toctext">
+           References
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-18">
+         <a href="#Further_reading">
+          <span class="tocnumber">
+           8
+          </span>
+          <span class="toctext">
+           Further reading
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <p>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Types_of_line_spectra">
+        Types of line spectra
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Spectral_line&amp;action=edit&amp;section=1" title="Edit section: Types of line spectra">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:302px;">
+        <a class="image" href="/wiki/File:Simple_spectroscope.jpg">
+         <img alt="" class="thumbimage" data-file-height="3185" data-file-width="2000" height="478" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Simple_spectroscope.jpg/300px-Simple_spectroscope.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Simple_spectroscope.jpg/450px-Simple_spectroscope.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Simple_spectroscope.jpg/600px-Simple_spectroscope.jpg 2x" width="300"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Simple_spectroscope.jpg" title="Enlarge">
+          </a>
+         </div>
+         Continuous spectrum of an
+         <a href="/wiki/Incandescent_light_bulb" title="Incandescent light bulb">
+          incandescent lamp
+         </a>
+         (mid) and discrete spectrum lines of a
+         <a href="/wiki/Compact_fluorescent_lamp" title="Compact fluorescent lamp">
+          fluorescent lamp
+         </a>
+         (bottom)
+        </div>
+       </div>
+      </div>
+      <p>
+       Spectral lines are the result of interaction between a
+       <a href="/wiki/Quantum_mechanics" title="Quantum mechanics">
+        quantum system
+       </a>
+       (usually
+       <a href="/wiki/Atom" title="Atom">
+        atoms
+       </a>
+       , but sometimes
+       <a href="/wiki/Molecule" title="Molecule">
+        molecules
+       </a>
+       or
+       <a href="/wiki/Atomic_nucleus" title="Atomic nucleus">
+        atomic nuclei
+       </a>
+       ) and a single
+       <a href="/wiki/Photon" title="Photon">
+        photon
+       </a>
+       . When a photon has about the right amount of energy to allow a change in the energy state of the system (in the case of an atom this is usually an
+       <a href="/wiki/Electron" title="Electron">
+        electron
+       </a>
+       changing
+       <a href="/wiki/Electron_configuration" title="Electron configuration">
+        orbitals
+       </a>
+       ), the photon is absorbed. Then it will be spontaneously re-emitted, either in the same frequency as the original or in a cascade, where the sum of the energies of the photons emitted will be equal to the energy of the one absorbed (assuming the system returns to its original state).
+      </p>
+      <p>
+       A spectral line may be observed either as an
+       <b>
+        emission line
+       </b>
+       or an
+       <b>
+        absorption line
+       </b>
+       . Which type of line is observed depends on the type of material and its temperature relative to another emission source. An absorption line is produced when photons from a hot, broad spectrum source pass through a cold material. The intensity of light, over a narrow frequency range, is reduced due to absorption by the material and re-emission in random directions. By contrast, a bright, emission line is produced when photons from a hot material are detected in the presence of a broad spectrum from a cold source. The intensity of light, over a narrow frequency range, is increased due to emission by the material.
+      </p>
+      <p>
+       Spectral lines are highly atom-specific, and can be used to identify the chemical composition of any medium capable of letting light pass through it (typically
+       <a href="/wiki/Gas" title="Gas">
+        gas
+       </a>
+       is used). Several elements were discovered by spectroscopic means, such as
+       <a href="/wiki/Helium" title="Helium">
+        helium
+       </a>
+       ,
+       <a href="/wiki/Thallium" title="Thallium">
+        thallium
+       </a>
+       , and
+       <a href="/wiki/Cerium" title="Cerium">
+        cerium
+       </a>
+       . Spectral lines also depend on the physical conditions of the gas, so they are widely used to determine the chemical composition of
+       <a href="/wiki/Star" title="Star">
+        stars
+       </a>
+       and other celestial bodies that cannot be analyzed by other means, as well as their physical conditions.
+      </p>
+      <p>
+       Mechanisms other than atom-photon interaction can produce spectral lines. Depending on the exact physical interaction (with molecules, single particles, etc.), the frequency of the involved photons will vary widely, and lines can be observed across the
+       <a href="/wiki/Electromagnetic_spectrum" title="Electromagnetic spectrum">
+        electromagnetic spectrum
+       </a>
+       , from
+       <a href="/wiki/Radio_wave" title="Radio wave">
+        radio waves
+       </a>
+       to
+       <a href="/wiki/Gamma_ray" title="Gamma ray">
+        gamma rays
+       </a>
+       .
+      </p>
+      <h2>
+       <span class="mw-headline" id="Nomenclature">
+        Nomenclature
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Spectral_line&amp;action=edit&amp;section=2" title="Edit section: Nomenclature">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <table class="plainlinks metadata ambox mbox-small-left ambox-content" role="presentation">
+       <tr>
+        <td class="mbox-image">
+         <a class="image" href="/wiki/File:Wiki_letter_w_cropped.svg">
+          <img alt="[icon]" data-file-height="31" data-file-width="44" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/20px-Wiki_letter_w_cropped.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/30px-Wiki_letter_w_cropped.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/40px-Wiki_letter_w_cropped.svg.png 2x" width="20"/>
+         </a>
+        </td>
+        <td class="mbox-text">
+         <div class="mbox-text-span">
+          <b>
+           This section needs expansion
+          </b>
+          .
+          <small>
+           You can help by
+           <a class="external text" href="//en.wikipedia.org/w/index.php?title=Spectral_line&amp;action=edit&amp;section=">
+            adding to it
+           </a>
+           .
+          </small>
+          <small>
+           <i>
+            (October 2008)
+           </i>
+          </small>
+         </div>
+        </td>
+       </tr>
+      </table>
+      <p>
+       Strong spectral lines in the
+       <a href="/wiki/Visible_spectrum" title="Visible spectrum">
+        visible
+       </a>
+       part of the spectrum often have a unique
+       <a class="mw-redirect" href="/wiki/Fraunhofer_line" title="Fraunhofer line">
+        Fraunhofer line
+       </a>
+       designation, such as
+       <b>
+        K
+       </b>
+       for a line at 393.366 nm emerging from singly ionized
+       <a href="/wiki/Calcium" title="Calcium">
+        Ca
+       </a>
+       <sup>
+        +
+       </sup>
+       , though some of the Fraunhofer "lines" are blends of multiple lines from several different
+       <a href="/wiki/Chemical_species" title="Chemical species">
+        species
+       </a>
+       . In other cases the lines are designated according to the level of
+       <a href="/wiki/Ion" title="Ion">
+        ionization
+       </a>
+       by adding a
+       <a class="mw-redirect" href="/wiki/Roman_numeral" title="Roman numeral">
+        Roman numeral
+       </a>
+       to the designation of the
+       <a href="/wiki/Chemical_element" title="Chemical element">
+        chemical element
+       </a>
+       , so that Ca
+       <sup>
+        +
+       </sup>
+       also has the designation
+       <b>
+        Ca II
+       </b>
+       . Neutral atoms are denoted with the roman number I, singly ionized atoms with II, and so on, so that for example Fe IX (IX, roman 9) represents eight times ionized
+       <a href="/wiki/Iron" title="Iron">
+        iron
+       </a>
+       . More detailed designations usually include the line
+       <a href="/wiki/Wavelength" title="Wavelength">
+        wavelength
+       </a>
+       and may include a
+       <a href="/wiki/Multiplet" title="Multiplet">
+        multiplet
+       </a>
+       number (for atomic lines) or
+       <a class="mw-redirect" href="/wiki/Molecular_spectra_or_band_spectra" title="Molecular spectra or band spectra">
+        band designation
+       </a>
+       (for molecular lines). Many spectral lines of atomic
+       <a href="/wiki/Hydrogen" title="Hydrogen">
+        hydrogen
+       </a>
+       also have designations within their respective
+       <a href="/wiki/Hydrogen_spectral_series" title="Hydrogen spectral series">
+        series
+       </a>
+       , such as the
+       <a href="/wiki/Lyman_series" title="Lyman series">
+        Lyman series
+       </a>
+       or
+       <a href="/wiki/Balmer_series" title="Balmer series">
+        Balmer series
+       </a>
+       . Originally all spectral lines were classified into series of Principle series,
+       <a href="/wiki/Sharp_series" title="Sharp series">
+        Sharp series
+       </a>
+       , and
+       <a href="/wiki/Diffuse_series" title="Diffuse series">
+        Diffuse series
+       </a>
+       . These series exist across atoms of all elements and the
+       <a class="mw-redirect" href="/wiki/Rydberg-Ritz_combination_principle" title="Rydberg-Ritz combination principle">
+        Rydberg-Ritz combination principle
+       </a>
+       is a formula that predicts the pattern of lines to be found in all atoms of the elements. For this reason, the NIST spectral line database contains a column for Ritz calculated lines. These series were later associated with suborbitals.
+      </p>
+      <h2>
+       <span class="mw-headline" id="Line_broadening_and_shift">
+        Line broadening and shift
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Spectral_line&amp;action=edit&amp;section=3" title="Edit section: Line broadening and shift">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       A spectral line extends over a range of frequencies, not a single frequency (i.e., it has a nonzero linewidth). In addition, its center may be shifted from its nominal central wavelength. There are several reasons for this broadening and shift. These reasons may be divided into two general categories – broadening due to local conditions and broadening due to extended conditions. Broadening due to local conditions is due to effects which hold in a small region around the emitting element, usually small enough to assure
+       <a class="mw-redirect" href="/wiki/Local_thermodynamic_equilibrium" title="Local thermodynamic equilibrium">
+        local thermodynamic equilibrium
+       </a>
+       . Broadening due to extended conditions may result from changes to the spectral distribution of the radiation as it traverses its path to the observer. It also may result from the combining of radiation from a number of regions which are far from each other.
+      </p>
+      <h3>
+       <span class="mw-headline" id="Broadening_due_to_local_effects">
+        Broadening due to local effects
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Spectral_line&amp;action=edit&amp;section=4" title="Edit section: Broadening due to local effects">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <h4>
+       <span class="mw-headline" id="Natural_broadening">
+        Natural broadening
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Spectral_line&amp;action=edit&amp;section=5" title="Edit section: Natural broadening">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h4>
+      <p>
+       The
+       <a href="/wiki/Uncertainty_principle" title="Uncertainty principle">
+        uncertainty principle
+       </a>
+       relates the lifetime of an excited state (due to
+       <a href="/wiki/Spontaneous_emission" title="Spontaneous emission">
+        spontaneous radiative decay
+       </a>
+       or the
+       <a href="/wiki/Auger_effect" title="Auger effect">
+        Auger process
+       </a>
+       ) with the uncertainty of its energy. A short lifetime will have a large energy uncertainty and a broad emission. This broadening effect results in an unshifted
+       <a class="mw-redirect" href="/wiki/Lorentzian_function" title="Lorentzian function">
+        Lorentzian profile
+       </a>
+       . The natural broadening can be experimentally altered only to the extent that decay rates can be artificially suppressed or enhanced.
+       <sup class="reference" id="cite_ref-2">
+        <a href="#cite_note-2">
+         [2]
+        </a>
+       </sup>
+      </p>
+      <h4>
+       <span class="mw-headline" id="Thermal_Doppler_broadening">
+        Thermal Doppler broadening
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Spectral_line&amp;action=edit&amp;section=6" title="Edit section: Thermal Doppler broadening">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h4>
+      <div class="hatnote navigation-not-searchable" role="note">
+       Main article:
+       <a href="/wiki/Doppler_broadening" title="Doppler broadening">
+        Doppler broadening
+       </a>
+      </div>
+      <p>
+       The atoms in a gas which are emitting radiation will have a distribution of velocities. Each photon emitted will be "red"- or "blue"-shifted by the
+       <a href="/wiki/Doppler_effect" title="Doppler effect">
+        Doppler effect
+       </a>
+       depending on the velocity of the atom relative to the observer. The higher the temperature of the gas, the wider the distribution of velocities in the gas. Since the spectral line is a combination of all of the emitted radiation, the higher the temperature of the gas, the broader the spectral line emitted from that gas. This broadening effect is described by a
+       <a href="/wiki/Gaussian_function" title="Gaussian function">
+        Gaussian profile
+       </a>
+       and there is no associated shift.
+      </p>
+      <h4>
+       <span class="mw-headline" id="Pressure_broadening">
+        Pressure broadening
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Spectral_line&amp;action=edit&amp;section=7" title="Edit section: Pressure broadening">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h4>
+      <p>
+       The presence of nearby particles will affect the radiation emitted by an individual particle. There are two limiting cases by which this occurs:
+      </p>
+      <ul>
+       <li>
+        <i>
+         Impact pressure broadening
+        </i>
+        or
+        <i>
+         collisional broadening
+        </i>
+        : The collision of other particles with the emitting particle interrupts the emission process, and by shortening the characteristic time for the process, increases the uncertainty in the energy emitted (as occurs in natural broadening).
+        <sup class="reference" id="cite_ref-3">
+         <a href="#cite_note-3">
+          [3]
+         </a>
+        </sup>
+        The duration of the collision is much shorter than the lifetime of the emission process. This effect depends on both the
+        <a href="/wiki/Density" title="Density">
+         density
+        </a>
+        and the
+        <a href="/wiki/Temperature" title="Temperature">
+         temperature
+        </a>
+        of the gas. The broadening effect is described by a
+        <a class="mw-redirect" href="/wiki/Lorentzian_function" title="Lorentzian function">
+         Lorentzian profile
+        </a>
+        and there may be an associated shift.
+       </li>
+       <li>
+        <i>
+         Quasistatic pressure broadening
+        </i>
+        : The presence of other particles shifts the energy levels in the emitting particle,
+        <sup class="noprint Inline-Template" style="margin-left:0.1em; white-space:nowrap;">
+         [
+         <i>
+          <a href="/wiki/Wikipedia:Please_clarify" title="Wikipedia:Please clarify">
+           <span title="The text near this tag may need clarification or removal of jargon. (October 2015)">
+            clarification needed
+           </span>
+          </a>
+         </i>
+         ]
+        </sup>
+        thereby altering the frequency of the emitted radiation. The duration of the influence is much longer than the lifetime of the emission process. This effect depends on the
+        <a href="/wiki/Density" title="Density">
+         density
+        </a>
+        of the gas, but is rather insensitive to
+        <a href="/wiki/Temperature" title="Temperature">
+         temperature
+        </a>
+        . The form of the line profile is determined by the functional form of the perturbing force with respect to distance from the perturbing particle. There may also be a shift in the line center. The general expression for the lineshape resulting from quasistatic pressure broadening is a 4-parameter generalization of the Gaussian distribution known as a
+        <a href="/wiki/Stable_distribution" title="Stable distribution">
+         stable distribution
+        </a>
+        .
+        <sup class="reference" id="cite_ref-4">
+         <a href="#cite_note-4">
+          [4]
+         </a>
+        </sup>
+       </li>
+      </ul>
+      <p>
+       Pressure broadening may also be classified by the nature of the perturbing force as follows:
+      </p>
+      <ul>
+       <li>
+        <i>
+         Linear Stark broadening
+        </i>
+        occurs via the
+        <a class="mw-redirect" href="/wiki/Linear_Stark_effect" title="Linear Stark effect">
+         linear Stark effect
+        </a>
+        , which results from the interaction of an emitter with an electric field of a charged particle at a distance
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle r}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mi>
+               r
+              </mi>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle r}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="r" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0d1ecb613aa2984f0576f70f86650b7c2a132538" style="vertical-align: -0.338ex; width:1.049ex; height:1.676ex;"/>
+        </span>
+        , causing a shift in energy that is linear in the field strength.
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle (\Delta E\sim 1/r^{2})}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mo stretchy="false">
+               (
+              </mo>
+              <mi mathvariant="normal">
+               Δ
+               <!-- Δ -->
+              </mi>
+              <mi>
+               E
+              </mi>
+              <mo>
+               ∼
+               <!-- ∼ -->
+              </mo>
+              <mn>
+               1
+              </mn>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mo>
+                /
+               </mo>
+              </mrow>
+              <msup>
+               <mi>
+                r
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mn>
+                 2
+                </mn>
+               </mrow>
+              </msup>
+              <mo stretchy="false">
+               )
+              </mo>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle (\Delta E\sim 1/r^{2})}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="(\Delta E\sim 1/r^{2})" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ef939ac7df5ccfe469e87fe47c68cb98e18d51de" style="vertical-align: -0.838ex; width:13.047ex; height:3.176ex;"/>
+        </span>
+       </li>
+       <li>
+        <i>
+         Resonance broadening
+        </i>
+        occurs when the perturbing particle is of the same type as the emitting particle, which introduces the possibility of an energy exchange process.
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle (\Delta E\sim 1/r^{3})}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mo stretchy="false">
+               (
+              </mo>
+              <mi mathvariant="normal">
+               Δ
+               <!-- Δ -->
+              </mi>
+              <mi>
+               E
+              </mi>
+              <mo>
+               ∼
+               <!-- ∼ -->
+              </mo>
+              <mn>
+               1
+              </mn>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mo>
+                /
+               </mo>
+              </mrow>
+              <msup>
+               <mi>
+                r
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mn>
+                 3
+                </mn>
+               </mrow>
+              </msup>
+              <mo stretchy="false">
+               )
+              </mo>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle (\Delta E\sim 1/r^{3})}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="(\Delta E\sim 1/r^{3})" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e252982b95eec417263e92ff14d459310e9e829e" style="vertical-align: -0.838ex; width:13.047ex; height:3.176ex;"/>
+        </span>
+       </li>
+       <li>
+        <i>
+         Quadratic Stark broadening
+        </i>
+        occurs via the
+        <a class="mw-redirect" href="/wiki/Quadratic_Stark_effect" title="Quadratic Stark effect">
+         quadratic Stark effect
+        </a>
+        , which results from the interaction of an emitter with an electric field, causing a shift in energy that is quadratic in the field strength.
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle (\Delta E\sim 1/r^{4})}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mo stretchy="false">
+               (
+              </mo>
+              <mi mathvariant="normal">
+               Δ
+               <!-- Δ -->
+              </mi>
+              <mi>
+               E
+              </mi>
+              <mo>
+               ∼
+               <!-- ∼ -->
+              </mo>
+              <mn>
+               1
+              </mn>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mo>
+                /
+               </mo>
+              </mrow>
+              <msup>
+               <mi>
+                r
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mn>
+                 4
+                </mn>
+               </mrow>
+              </msup>
+              <mo stretchy="false">
+               )
+              </mo>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle (\Delta E\sim 1/r^{4})}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="(\Delta E\sim 1/r^{4})" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/cc28752155d2d3c081eec9b5d8fdba838f2bd41c" style="vertical-align: -0.838ex; width:13.047ex; height:3.176ex;"/>
+        </span>
+       </li>
+       <li>
+        <i>
+         Van der Waals broadening
+        </i>
+        occurs when the emitting particle is being perturbed by
+        <a href="/wiki/Van_der_Waals_force" title="Van der Waals force">
+         van der Waals forces
+        </a>
+        . For the quasistatic case, a
+        <a href="/wiki/L%C3%A9vy_distribution" title="Lévy distribution">
+         van der Waals profile
+        </a>
+        <sup class="reference" id="cite_ref-5">
+         <a href="#cite_note-5">
+          [note 1]
+         </a>
+        </sup>
+        is often useful in describing the profile. The energy shift as a function of distance
+        <sup class="noprint Inline-Template" style="white-space:nowrap;">
+         [
+         <i>
+          <a href="/wiki/Wikipedia:Please_clarify" title="Wikipedia:Please clarify">
+           <span title="You can help -- (October 2016)">
+            definition needed
+           </span>
+          </a>
+         </i>
+         ]
+        </sup>
+        is given in the wings by e.g. the
+        <a href="/wiki/Lennard-Jones_potential" title="Lennard-Jones potential">
+         Lennard-Jones potential
+        </a>
+        .
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle (\Delta E\sim 1/r^{6})}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mo stretchy="false">
+               (
+              </mo>
+              <mi mathvariant="normal">
+               Δ
+               <!-- Δ -->
+              </mi>
+              <mi>
+               E
+              </mi>
+              <mo>
+               ∼
+               <!-- ∼ -->
+              </mo>
+              <mn>
+               1
+              </mn>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mo>
+                /
+               </mo>
+              </mrow>
+              <msup>
+               <mi>
+                r
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mn>
+                 6
+                </mn>
+               </mrow>
+              </msup>
+              <mo stretchy="false">
+               )
+              </mo>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle (\Delta E\sim 1/r^{6})}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="(\Delta E\sim 1/r^{6})" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3feb9a2e0f47a0f2dea1ce8dcbd1f6ed829b5759" style="vertical-align: -0.838ex; width:13.047ex; height:3.176ex;"/>
+        </span>
+       </li>
+      </ul>
+      <h4>
+       <span class="mw-headline" id="Inhomogeneous_broadening">
+        Inhomogeneous broadening
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Spectral_line&amp;action=edit&amp;section=8" title="Edit section: Inhomogeneous broadening">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h4>
+      <p>
+       <i>
+        <a class="mw-redirect" href="/wiki/Inhomogeneous_broadening" title="Inhomogeneous broadening">
+         Inhomogeneous broadening
+        </a>
+       </i>
+       is a general term for broadening because some emitting particles are in a different local environment from others, and therefore emit at a different frequency. This term is used especially for solids, where surfaces, grain boundaries, and stoichiometry variations can create a variety of local environments for a given atom to occupy. In liquids, the effects of inhomogeneous broadening is sometimes reduced by a process called
+       <i>
+        <a href="/wiki/Motional_narrowing" title="Motional narrowing">
+         motional narrowing
+        </a>
+       </i>
+       .
+      </p>
+      <h3>
+       <span class="mw-headline" id="Broadening_due_to_non-local_effects">
+        Broadening due to non-local effects
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Spectral_line&amp;action=edit&amp;section=9" title="Edit section: Broadening due to non-local effects">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       Certain types of broadening are the result of conditions over a large region of space rather than simply upon conditions that are local to the emitting particle.
+      </p>
+      <h4>
+       <span class="mw-headline" id="Opacity_broadening">
+        Opacity broadening
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Spectral_line&amp;action=edit&amp;section=10" title="Edit section: Opacity broadening">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h4>
+      <p>
+       Electromagnetic radiation emitted at a particular point in space can be reabsorbed as it travels through space. This absorption depends on wavelength. The line is broadened because the photons at the line center have a greater reabsorption probability than the photons at the line wings. Indeed, the reabsorption near the line center may be so great as to cause a
+       <b>
+        self reversal
+       </b>
+       in which the intensity at the center of the line is less than in the wings. This process is also sometimes called
+       <b>
+        self-absorption
+       </b>
+       .
+      </p>
+      <h4>
+       <span class="mw-headline" id="Macroscopic_Doppler_broadening">
+        Macroscopic Doppler broadening
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Spectral_line&amp;action=edit&amp;section=11" title="Edit section: Macroscopic Doppler broadening">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h4>
+      <p>
+       Radiation emitted by a moving source is subject to
+       <a class="mw-redirect" href="/wiki/Doppler_shift" title="Doppler shift">
+        Doppler shift
+       </a>
+       due to a finite line-of-sight velocity projection. If different parts of the emitting body have different velocities (along the line of sight), the resulting line will be broadened, with the line width proportional to the width of the velocity distribution. For example, radiation emitted from a distant rotating body, such as a
+       <a href="/wiki/Star" title="Star">
+        star
+       </a>
+       , will be broadened due to the line-of-sight variations in velocity on opposite sides of the star. The greater the rate of rotation, the broader the line. Another example is an imploding
+       <a href="/wiki/Plasma_(physics)" title="Plasma (physics)">
+        plasma
+       </a>
+       shell in a
+       <a href="/wiki/Z-pinch" title="Z-pinch">
+        Z-pinch
+       </a>
+       .
+      </p>
+      <h4>
+       <span class="mw-headline" id="Radiative_broadening">
+        Radiative broadening
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Spectral_line&amp;action=edit&amp;section=12" title="Edit section: Radiative broadening">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h4>
+      <p>
+       Radiative broadening of the spectral absorption profile occurs because the on-resonance absorption in the center of the profile is saturated at much lower intensities than the off-resonant wings.Therefore, as intensity rises, absorption in the wings rises faster than absorption in the center, leading to a broadening of the profile. Radiative broadening occurs even at very low light intensities.
+      </p>
+      <h3>
+       <span class="mw-headline" id="Combined_effects">
+        Combined effects
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Spectral_line&amp;action=edit&amp;section=13" title="Edit section: Combined effects">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       Each of these mechanisms can act in isolation or in combination with others. Assuming each effect is independent, the observed line profile is a convolution of the line profiles of each mechanism. For example, a combination of the thermal Doppler broadening and the impact pressure broadening yields a
+       <a href="/wiki/Voigt_profile" title="Voigt profile">
+        Voigt profile
+       </a>
+       .
+      </p>
+      <p>
+       However, the different line broadening mechanisms are not always independent. For example, the collisional effects and the motional Doppler shifts can act in a coherent manner, resulting under some conditions even in a collisional
+       <i>
+        narrowing
+       </i>
+       , known as the
+       <a href="/wiki/Dicke_effect" title="Dicke effect">
+        Dicke effect
+       </a>
+       .
+      </p>
+      <h2>
+       <span class="mw-headline" id="Spectral_lines_of_chemical_elements">
+        Spectral lines of chemical elements
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Spectral_line&amp;action=edit&amp;section=14" title="Edit section: Spectral lines of chemical elements">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <table class="wikitable sortable collapsible uncollapsed">
+       <tr>
+        <th colspan="5">
+         <div class="plainlinks hlist navbar mini" style="float:left; text-align:left">
+          <ul>
+           <li class="nv-view">
+            <a href="/wiki/Template:Spectral_lines_of_the_elements" title="Template:Spectral lines of the elements">
+             <abbr title="View this template">
+              v
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-talk">
+            <a class="new" href="/w/index.php?title=Template_talk:Spectral_lines_of_the_elements&amp;action=edit&amp;redlink=1" title="Template talk:Spectral lines of the elements (page does not exist)">
+             <abbr title="Discuss this template">
+              t
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-edit">
+            <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Spectral_lines_of_the_elements&amp;action=edit">
+             <abbr title="Edit this template">
+              e
+             </abbr>
+            </a>
+           </li>
+          </ul>
+         </div>
+         <div style="font-size:114%;margin:0 4em">
+          <a class="mw-selflink selflink">
+           Spectral lines
+          </a>
+          of the
+          <a class="mw-redirect" href="/wiki/Chemical_elements" title="Chemical elements">
+           chemical elements
+          </a>
+         </div>
+        </th>
+       </tr>
+       <tr>
+        <th>
+         Element
+        </th>
+        <th>
+         Z
+        </th>
+        <th>
+         Symbol
+        </th>
+        <th class="unsortable">
+         Spectral lines
+        </th>
+       </tr>
+       <tr>
+        <td>
+         hydrogen
+        </td>
+        <td>
+         1
+        </td>
+        <td>
+         <a href="/wiki/Hydrogen" title="Hydrogen">
+          H
+         </a>
+        </td>
+        <td>
+         <a class="image" href="/wiki/File:Hydrogen_spectrum_visible.png">
+          <img alt="Hydrogen spectrum visible.png" data-file-height="1280" data-file-width="7430" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Hydrogen_spectrum_visible.png/250px-Hydrogen_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Hydrogen_spectrum_visible.png/375px-Hydrogen_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/87/Hydrogen_spectrum_visible.png/500px-Hydrogen_spectrum_visible.png 2x" width="250"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         helium
+        </td>
+        <td>
+         2
+        </td>
+        <td>
+         <a href="/wiki/Helium" title="Helium">
+          He
+         </a>
+        </td>
+        <td>
+         <a class="image" href="/wiki/File:Helium_spectrum_visible.png">
+          <img alt="Helium spectrum visible.png" data-file-height="1280" data-file-width="7430" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Helium_spectrum_visible.png/250px-Helium_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Helium_spectrum_visible.png/375px-Helium_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Helium_spectrum_visible.png/500px-Helium_spectrum_visible.png 2x" width="250"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         lithium
+        </td>
+        <td>
+         3
+        </td>
+        <td>
+         <a href="/wiki/Lithium" title="Lithium">
+          Li
+         </a>
+        </td>
+        <td>
+         <a class="image" href="/wiki/File:Lithium_spectrum_visible.png">
+          <img alt="Lithium spectrum visible.png" data-file-height="1280" data-file-width="7430" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Lithium_spectrum_visible.png/250px-Lithium_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Lithium_spectrum_visible.png/375px-Lithium_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Lithium_spectrum_visible.png/500px-Lithium_spectrum_visible.png 2x" width="250"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         beryllium
+        </td>
+        <td>
+         4
+        </td>
+        <td>
+         <a href="/wiki/Beryllium" title="Beryllium">
+          Be
+         </a>
+        </td>
+        <td>
+         <a class="image" href="/wiki/File:Beryllium_spectrum_visible.png">
+          <img alt="Beryllium spectrum visible.png" data-file-height="1280" data-file-width="7430" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Beryllium_spectrum_visible.png/250px-Beryllium_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Beryllium_spectrum_visible.png/375px-Beryllium_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Beryllium_spectrum_visible.png/500px-Beryllium_spectrum_visible.png 2x" width="250"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         boron
+        </td>
+        <td>
+         5
+        </td>
+        <td>
+         <a href="/wiki/Boron" title="Boron">
+          B
+         </a>
+        </td>
+        <td>
+         <a class="image" href="/wiki/File:Boron_spectrum_visible.png">
+          <img alt="Boron spectrum visible.png" data-file-height="1280" data-file-width="7430" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Boron_spectrum_visible.png/250px-Boron_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Boron_spectrum_visible.png/375px-Boron_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Boron_spectrum_visible.png/500px-Boron_spectrum_visible.png 2x" width="250"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         carbon
+        </td>
+        <td>
+         6
+        </td>
+        <td>
+         <a href="/wiki/Carbon" title="Carbon">
+          C
+         </a>
+        </td>
+        <td>
+         <a class="image" href="/wiki/File:Carbon_spectrum_visible.png">
+          <img alt="Carbon spectrum visible.png" data-file-height="1280" data-file-width="7430" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Carbon_spectrum_visible.png/250px-Carbon_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Carbon_spectrum_visible.png/375px-Carbon_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Carbon_spectrum_visible.png/500px-Carbon_spectrum_visible.png 2x" width="250"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         nitrogen
+        </td>
+        <td>
+         7
+        </td>
+        <td>
+         <a href="/wiki/Nitrogen" title="Nitrogen">
+          N
+         </a>
+        </td>
+        <td>
+         <a class="image" href="/wiki/File:Nitrogen_spectrum_visible.png">
+          <img alt="Nitrogen spectrum visible.png" data-file-height="1280" data-file-width="7430" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Nitrogen_spectrum_visible.png/250px-Nitrogen_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Nitrogen_spectrum_visible.png/375px-Nitrogen_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Nitrogen_spectrum_visible.png/500px-Nitrogen_spectrum_visible.png 2x" width="250"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         oxygen
+        </td>
+        <td>
+         8
+        </td>
+        <td>
+         <a href="/wiki/Oxygen" title="Oxygen">
+          O
+         </a>
+        </td>
+        <td>
+         <a class="image" href="/wiki/File:Oxygen_spectrum_visible.png">
+          <img alt="Oxygen spectrum visible.png" data-file-height="1280" data-file-width="7430" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Oxygen_spectrum_visible.png/250px-Oxygen_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Oxygen_spectrum_visible.png/375px-Oxygen_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Oxygen_spectrum_visible.png/500px-Oxygen_spectrum_visible.png 2x" width="250"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         fluorine
+        </td>
+        <td>
+         9
+        </td>
+        <td>
+         <a href="/wiki/Fluorine" title="Fluorine">
+          F
+         </a>
+        </td>
+        <td>
+         <a class="image" href="/wiki/File:Fluorine_spectrum_visible.png">
+          <img alt="Fluorine spectrum visible.png" data-file-height="1280" data-file-width="7430" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Fluorine_spectrum_visible.png/250px-Fluorine_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Fluorine_spectrum_visible.png/375px-Fluorine_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Fluorine_spectrum_visible.png/500px-Fluorine_spectrum_visible.png 2x" width="250"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         neon
+        </td>
+        <td>
+         10
+        </td>
+        <td>
+         <a href="/wiki/Neon" title="Neon">
+          Ne
+         </a>
+        </td>
+        <td>
+         <a class="image" href="/wiki/File:Neon_spectrum_visible.png">
+          <img alt="Neon spectrum visible.png" data-file-height="1280" data-file-width="7430" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Neon_spectrum_visible.png/250px-Neon_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Neon_spectrum_visible.png/375px-Neon_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Neon_spectrum_visible.png/500px-Neon_spectrum_visible.png 2x" width="250"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         sodium
+        </td>
+        <td>
+         11
+        </td>
+        <td>
+         <a href="/wiki/Sodium" title="Sodium">
+          Na
+         </a>
+        </td>
+        <td>
+         <a class="image" href="/wiki/File:Sodium_spectrum_visible.png">
+          <img alt="Sodium spectrum visible.png" data-file-height="1280" data-file-width="7430" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Sodium_spectrum_visible.png/250px-Sodium_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Sodium_spectrum_visible.png/375px-Sodium_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Sodium_spectrum_visible.png/500px-Sodium_spectrum_visible.png 2x" width="250"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         magnesium
+        </td>
+        <td>
+         12
+        </td>
+        <td>
+         <a href="/wiki/Magnesium" title="Magnesium">
+          Mg
+         </a>
+        </td>
+        <td>
+         <a class="image" href="/wiki/File:Magnesium_spectrum_visible.png">
+          <img alt="Magnesium spectrum visible.png" data-file-height="1280" data-file-width="7430" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Magnesium_spectrum_visible.png/250px-Magnesium_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Magnesium_spectrum_visible.png/375px-Magnesium_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Magnesium_spectrum_visible.png/500px-Magnesium_spectrum_visible.png 2x" width="250"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         aluminium
+        </td>
+        <td>
+         13
+        </td>
+        <td>
+         <a href="/wiki/Aluminium" title="Aluminium">
+          Al
+         </a>
+        </td>
+        <td>
+         <a class="image" href="/wiki/File:Aluminium_spectrum_visible.png">
+          <img alt="Aluminium spectrum visible.png" data-file-height="1280" data-file-width="7430" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Aluminium_spectrum_visible.png/250px-Aluminium_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Aluminium_spectrum_visible.png/375px-Aluminium_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Aluminium_spectrum_visible.png/500px-Aluminium_spectrum_visible.png 2x" width="250"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         silicon
+        </td>
+        <td>
+         14
+        </td>
+        <td>
+         <a href="/wiki/Silicon" title="Silicon">
+          Si
+         </a>
+        </td>
+        <td>
+         <a class="image" href="/wiki/File:Silicon_spectrum_visible.png">
+          <img alt="Silicon spectrum visible.png" data-file-height="1280" data-file-width="7430" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Silicon_spectrum_visible.png/250px-Silicon_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Silicon_spectrum_visible.png/375px-Silicon_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Silicon_spectrum_visible.png/500px-Silicon_spectrum_visible.png 2x" width="250"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         phosphorus
+        </td>
+        <td>
+         15
+        </td>
+        <td>
+         <a href="/wiki/Phosphorus" title="Phosphorus">
+          P
+         </a>
+        </td>
+        <td>
+         <a class="image" href="/wiki/File:Phosphorus_spectrum_visible.png">
+          <img alt="Phosphorus spectrum visible.png" data-file-height="1280" data-file-width="7430" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Phosphorus_spectrum_visible.png/250px-Phosphorus_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Phosphorus_spectrum_visible.png/375px-Phosphorus_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Phosphorus_spectrum_visible.png/500px-Phosphorus_spectrum_visible.png 2x" width="250"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         sulfur
+        </td>
+        <td>
+         16
+        </td>
+        <td>
+         <a href="/wiki/Sulfur" title="Sulfur">
+          S
+         </a>
+        </td>
+        <td>
+         <a class="image" href="/wiki/File:Sulfur_spectrum_visible.png">
+          <img alt="Sulfur spectrum visible.png" data-file-height="1280" data-file-width="7430" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Sulfur_spectrum_visible.png/250px-Sulfur_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Sulfur_spectrum_visible.png/375px-Sulfur_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Sulfur_spectrum_visible.png/500px-Sulfur_spectrum_visible.png 2x" width="250"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         chlorine
+        </td>
+        <td>
+         17
+        </td>
+        <td>
+         <a href="/wiki/Chlorine" title="Chlorine">
+          Cl
+         </a>
+        </td>
+        <td>
+         <a class="image" href="/wiki/File:Chlorine_spectrum_visible.png">
+          <img alt="Chlorine spectrum visible.png" data-file-height="1280" data-file-width="7430" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/61/Chlorine_spectrum_visible.png/250px-Chlorine_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/61/Chlorine_spectrum_visible.png/375px-Chlorine_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/61/Chlorine_spectrum_visible.png/500px-Chlorine_spectrum_visible.png 2x" width="250"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         argon
+        </td>
+        <td>
+         18
+        </td>
+        <td>
+         <a href="/wiki/Argon" title="Argon">
+          Ar
+         </a>
+        </td>
+        <td>
+         <a class="image" href="/wiki/File:Argon_spectrum_visible.png">
+          <img alt="Argon spectrum visible.png" data-file-height="1280" data-file-width="7430" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Argon_spectrum_visible.png/250px-Argon_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Argon_spectrum_visible.png/375px-Argon_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/11/Argon_spectrum_visible.png/500px-Argon_spectrum_visible.png 2x" width="250"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         potassium
+        </td>
+        <td>
+         19
+        </td>
+        <td>
+         <a href="/wiki/Potassium" title="Potassium">
+          K
+         </a>
+        </td>
+        <td>
+         <a class="image" href="/wiki/File:Potassium_spectrum_visible.png">
+          <img alt="Potassium spectrum visible.png" data-file-height="1280" data-file-width="7430" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/52/Potassium_spectrum_visible.png/250px-Potassium_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/52/Potassium_spectrum_visible.png/375px-Potassium_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/52/Potassium_spectrum_visible.png/500px-Potassium_spectrum_visible.png 2x" width="250"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         calcium
+        </td>
+        <td>
+         20
+        </td>
+        <td>
+         <a href="/wiki/Calcium" title="Calcium">
+          Ca
+         </a>
+        </td>
+        <td>
+         <a class="image" href="/wiki/File:Calcium_spectrum_visible.png">
+          <img alt="Calcium spectrum visible.png" data-file-height="1280" data-file-width="7430" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Calcium_spectrum_visible.png/250px-Calcium_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Calcium_spectrum_visible.png/375px-Calcium_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Calcium_spectrum_visible.png/500px-Calcium_spectrum_visible.png 2x" width="250"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         scandium
+        </td>
+        <td>
+         21
+        </td>
+        <td>
+         <a href="/wiki/Scandium" title="Scandium">
+          Sc
+         </a>
+        </td>
+        <td>
+         <a class="image" href="/wiki/File:Scandium_spectrum_visible.png">
+          <img alt="Scandium spectrum visible.png" data-file-height="1280" data-file-width="7430" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/Scandium_spectrum_visible.png/250px-Scandium_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/Scandium_spectrum_visible.png/375px-Scandium_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/43/Scandium_spectrum_visible.png/500px-Scandium_spectrum_visible.png 2x" width="250"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         titanium
+        </td>
+        <td>
+         22
+        </td>
+        <td>
+         <a href="/wiki/Titanium" title="Titanium">
+          Ti
+         </a>
+        </td>
+        <td>
+         <a class="image" href="/wiki/File:Titanium_spectrum_visible.png">
+          <img alt="Titanium spectrum visible.png" data-file-height="1280" data-file-width="7430" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Titanium_spectrum_visible.png/250px-Titanium_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Titanium_spectrum_visible.png/375px-Titanium_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Titanium_spectrum_visible.png/500px-Titanium_spectrum_visible.png 2x" width="250"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         vanadium
+        </td>
+        <td>
+         23
+        </td>
+        <td>
+         <a href="/wiki/Vanadium" title="Vanadium">
+          V
+         </a>
+        </td>
+        <td>
+         <a class="image" href="/wiki/File:Vanadium_spectrum_visible.png">
+          <img alt="Vanadium spectrum visible.png" data-file-height="1280" data-file-width="7430" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Vanadium_spectrum_visible.png/250px-Vanadium_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Vanadium_spectrum_visible.png/375px-Vanadium_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Vanadium_spectrum_visible.png/500px-Vanadium_spectrum_visible.png 2x" width="250"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         chromium
+        </td>
+        <td>
+         24
+        </td>
+        <td>
+         <a href="/wiki/Chromium" title="Chromium">
+          Cr
+         </a>
+        </td>
+        <td>
+         <a class="image" href="/wiki/File:Chromium_spectrum_visible.png">
+          <img alt="Chromium spectrum visible.png" data-file-height="1280" data-file-width="7430" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Chromium_spectrum_visible.png/250px-Chromium_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Chromium_spectrum_visible.png/375px-Chromium_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Chromium_spectrum_visible.png/500px-Chromium_spectrum_visible.png 2x" width="250"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         manganese
+        </td>
+        <td>
+         25
+        </td>
+        <td>
+         <a href="/wiki/Manganese" title="Manganese">
+          Mn
+         </a>
+        </td>
+        <td>
+         <a class="image" href="/wiki/File:Manganese_spectrum_visible.png">
+          <img alt="Manganese spectrum visible.png" data-file-height="1280" data-file-width="7430" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/95/Manganese_spectrum_visible.png/250px-Manganese_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/95/Manganese_spectrum_visible.png/375px-Manganese_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/95/Manganese_spectrum_visible.png/500px-Manganese_spectrum_visible.png 2x" width="250"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         iron
+        </td>
+        <td>
+         26
+        </td>
+        <td>
+         <a href="/wiki/Iron" title="Iron">
+          Fe
+         </a>
+        </td>
+        <td>
+         <a class="image" href="/wiki/File:Iron_spectrum_visible.png">
+          <img alt="Iron spectrum visible.png" data-file-height="1280" data-file-width="7430" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Iron_spectrum_visible.png/250px-Iron_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Iron_spectrum_visible.png/375px-Iron_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Iron_spectrum_visible.png/500px-Iron_spectrum_visible.png 2x" width="250"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         cobalt
+        </td>
+        <td>
+         27
+        </td>
+        <td>
+         <a href="/wiki/Cobalt" title="Cobalt">
+          Co
+         </a>
+        </td>
+        <td>
+         <a class="image" href="/wiki/File:Cobalt_spectrum_visible.png">
+          <img alt="Cobalt spectrum visible.png" data-file-height="1280" data-file-width="7430" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Cobalt_spectrum_visible.png/250px-Cobalt_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Cobalt_spectrum_visible.png/375px-Cobalt_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Cobalt_spectrum_visible.png/500px-Cobalt_spectrum_visible.png 2x" width="250"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         nickel
+        </td>
+        <td>
+         28
+        </td>
+        <td>
+         <a href="/wiki/Nickel" title="Nickel">
+          Ni
+         </a>
+        </td>
+        <td>
+         <a class="image" href="/wiki/File:Nickel_spectrum_visible.png">
+          <img alt="Nickel spectrum visible.png" data-file-height="1280" data-file-width="7430" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/30/Nickel_spectrum_visible.png/250px-Nickel_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/30/Nickel_spectrum_visible.png/375px-Nickel_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/30/Nickel_spectrum_visible.png/500px-Nickel_spectrum_visible.png 2x" width="250"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         copper
+        </td>
+        <td>
+         29
+        </td>
+        <td>
+         <a href="/wiki/Copper" title="Copper">
+          Cu
+         </a>
+        </td>
+        <td>
+         <a class="image" href="/wiki/File:Copper_spectrum_visible.png">
+          <img alt="Copper spectrum visible.png" data-file-height="1280" data-file-width="7430" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/13/Copper_spectrum_visible.png/250px-Copper_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/13/Copper_spectrum_visible.png/375px-Copper_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/13/Copper_spectrum_visible.png/500px-Copper_spectrum_visible.png 2x" width="250"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         zinc
+        </td>
+        <td>
+         30
+        </td>
+        <td>
+         <a href="/wiki/Zinc" title="Zinc">
+          Zn
+         </a>
+        </td>
+        <td>
+         <a class="image" href="/wiki/File:Zinc_spectrum_visible.png">
+          <img alt="Zinc spectrum visible.png" data-file-height="1280" data-file-width="7430" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/40/Zinc_spectrum_visible.png/250px-Zinc_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/40/Zinc_spectrum_visible.png/375px-Zinc_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/40/Zinc_spectrum_visible.png/500px-Zinc_spectrum_visible.png 2x" width="250"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         gallium
+        </td>
+        <td>
+         31
+        </td>
+        <td>
+         <a href="/wiki/Gallium" title="Gallium">
+          Ga
+         </a>
+        </td>
+        <td>
+         <a class="image" href="/wiki/File:Gallium_spectrum_visible.png">
+          <img alt="Gallium spectrum visible.png" data-file-height="1280" data-file-width="7430" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Gallium_spectrum_visible.png/250px-Gallium_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Gallium_spectrum_visible.png/375px-Gallium_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/10/Gallium_spectrum_visible.png/500px-Gallium_spectrum_visible.png 2x" width="250"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         germanium
+        </td>
+        <td>
+         32
+        </td>
+        <td>
+         <a href="/wiki/Germanium" title="Germanium">
+          Ge
+         </a>
+        </td>
+        <td>
+         <a class="image" href="/wiki/File:Germanium_spectrum_visible.png">
+          <img alt="Germanium spectrum visible.png" data-file-height="1280" data-file-width="7430" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Germanium_spectrum_visible.png/250px-Germanium_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Germanium_spectrum_visible.png/375px-Germanium_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Germanium_spectrum_visible.png/500px-Germanium_spectrum_visible.png 2x" width="250"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         arsenic
+        </td>
+        <td>
+         33
+        </td>
+        <td>
+         <a href="/wiki/Arsenic" title="Arsenic">
+          As
+         </a>
+        </td>
+        <td>
+         <a class="image" href="/wiki/File:Arsenic_spectrum_visible.png">
+          <img alt="Arsenic spectrum visible.png" data-file-height="1280" data-file-width="7430" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Arsenic_spectrum_visible.png/250px-Arsenic_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Arsenic_spectrum_visible.png/375px-Arsenic_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/60/Arsenic_spectrum_visible.png/500px-Arsenic_spectrum_visible.png 2x" width="250"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         selenium
+        </td>
+        <td>
+         34
+        </td>
+        <td>
+         <a href="/wiki/Selenium" title="Selenium">
+          Se
+         </a>
+        </td>
+        <td>
+         <a class="image" href="/wiki/File:Selenium_spectrum_visible.png">
+          <img alt="Selenium spectrum visible.png" data-file-height="1280" data-file-width="7430" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Selenium_spectrum_visible.png/250px-Selenium_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Selenium_spectrum_visible.png/375px-Selenium_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/67/Selenium_spectrum_visible.png/500px-Selenium_spectrum_visible.png 2x" width="250"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         bromine
+        </td>
+        <td>
+         35
+        </td>
+        <td>
+         <a href="/wiki/Bromine" title="Bromine">
+          Br
+         </a>
+        </td>
+        <td>
+         <a class="image" href="/wiki/File:Bromine_spectrum_visible.png">
+          <img alt="Bromine spectrum visible.png" data-file-height="1280" data-file-width="7430" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Bromine_spectrum_visible.png/250px-Bromine_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Bromine_spectrum_visible.png/375px-Bromine_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Bromine_spectrum_visible.png/500px-Bromine_spectrum_visible.png 2x" width="250"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         krypton
+        </td>
+        <td>
+         36
+        </td>
+        <td>
+         <a href="/wiki/Krypton" title="Krypton">
+          Kr
+         </a>
+        </td>
+        <td>
+         <a class="image" href="/wiki/File:Krypton_spectrum_visible.png">
+          <img alt="Krypton spectrum visible.png" data-file-height="1280" data-file-width="7430" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Krypton_spectrum_visible.png/250px-Krypton_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Krypton_spectrum_visible.png/375px-Krypton_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Krypton_spectrum_visible.png/500px-Krypton_spectrum_visible.png 2x" width="250"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         rubidium
+        </td>
+        <td>
+         37
+        </td>
+        <td>
+         <a href="/wiki/Rubidium" title="Rubidium">
+          Rb
+         </a>
+        </td>
+        <td>
+         <a class="image" href="/wiki/File:Rubidium_spectrum_visible.png">
+          <img alt="Rubidium spectrum visible.png" data-file-height="1280" data-file-width="7430" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Rubidium_spectrum_visible.png/250px-Rubidium_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Rubidium_spectrum_visible.png/375px-Rubidium_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Rubidium_spectrum_visible.png/500px-Rubidium_spectrum_visible.png 2x" width="250"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         strontium
+        </td>
+        <td>
+         38
+        </td>
+        <td>
+         <a href="/wiki/Strontium" title="Strontium">
+          Sr
+         </a>
+        </td>
+        <td>
+         <a class="image" href="/wiki/File:Strontium_spectrum_visible.png">
+          <img alt="Strontium spectrum visible.png" data-file-height="1280" data-file-width="7430" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/Strontium_spectrum_visible.png/250px-Strontium_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/Strontium_spectrum_visible.png/375px-Strontium_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/86/Strontium_spectrum_visible.png/500px-Strontium_spectrum_visible.png 2x" width="250"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         yttrium
+        </td>
+        <td>
+         39
+        </td>
+        <td>
+         <a href="/wiki/Yttrium" title="Yttrium">
+          Y
+         </a>
+        </td>
+        <td>
+         <a class="image" href="/wiki/File:Yttrium_spectrum_visible.png">
+          <img alt="Yttrium spectrum visible.png" data-file-height="1280" data-file-width="7430" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Yttrium_spectrum_visible.png/250px-Yttrium_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Yttrium_spectrum_visible.png/375px-Yttrium_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/11/Yttrium_spectrum_visible.png/500px-Yttrium_spectrum_visible.png 2x" width="250"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         zirconium
+        </td>
+        <td>
+         40
+        </td>
+        <td>
+         <a href="/wiki/Zirconium" title="Zirconium">
+          Zr
+         </a>
+        </td>
+        <td>
+         <a class="image" href="/wiki/File:Zirconium_spectrum_visible.png">
+          <img alt="Zirconium spectrum visible.png" data-file-height="1280" data-file-width="7430" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Zirconium_spectrum_visible.png/250px-Zirconium_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Zirconium_spectrum_visible.png/375px-Zirconium_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Zirconium_spectrum_visible.png/500px-Zirconium_spectrum_visible.png 2x" width="250"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         niobium
+        </td>
+        <td>
+         41
+        </td>
+        <td>
+         <a href="/wiki/Niobium" title="Niobium">
+          Nb
+         </a>
+        </td>
+        <td>
+         <a class="image" href="/wiki/File:Niobium_spectrum_visible.png">
+          <img alt="Niobium spectrum visible.png" data-file-height="1280" data-file-width="7430" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Niobium_spectrum_visible.png/250px-Niobium_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Niobium_spectrum_visible.png/375px-Niobium_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Niobium_spectrum_visible.png/500px-Niobium_spectrum_visible.png 2x" width="250"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         molybdenum
+        </td>
+        <td>
+         42
+        </td>
+        <td>
+         <a href="/wiki/Molybdenum" title="Molybdenum">
+          Mo
+         </a>
+        </td>
+        <td>
+         <a class="image" href="/wiki/File:Molybdenum_spectrum_visible.png">
+          <img alt="Molybdenum spectrum visible.png" data-file-height="1280" data-file-width="7430" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Molybdenum_spectrum_visible.png/250px-Molybdenum_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Molybdenum_spectrum_visible.png/375px-Molybdenum_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Molybdenum_spectrum_visible.png/500px-Molybdenum_spectrum_visible.png 2x" width="250"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         technetium
+        </td>
+        <td>
+         43
+        </td>
+        <td>
+         <a href="/wiki/Technetium" title="Technetium">
+          Tc
+         </a>
+        </td>
+        <td>
+         <a class="image" href="/wiki/File:Technetium_spectrum_visible.png">
+          <img alt="Technetium spectrum visible.png" data-file-height="1280" data-file-width="7430" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Technetium_spectrum_visible.png/250px-Technetium_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Technetium_spectrum_visible.png/375px-Technetium_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Technetium_spectrum_visible.png/500px-Technetium_spectrum_visible.png 2x" width="250"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         ruthenium
+        </td>
+        <td>
+         44
+        </td>
+        <td>
+         <a href="/wiki/Ruthenium" title="Ruthenium">
+          Ru
+         </a>
+        </td>
+        <td>
+         <a class="image" href="/wiki/File:Ruthenium_spectrum_visible.png">
+          <img alt="Ruthenium spectrum visible.png" data-file-height="1280" data-file-width="7430" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Ruthenium_spectrum_visible.png/250px-Ruthenium_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Ruthenium_spectrum_visible.png/375px-Ruthenium_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Ruthenium_spectrum_visible.png/500px-Ruthenium_spectrum_visible.png 2x" width="250"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         rhodium
+        </td>
+        <td>
+         45
+        </td>
+        <td>
+         <a href="/wiki/Rhodium" title="Rhodium">
+          Rh
+         </a>
+        </td>
+        <td>
+         <a class="image" href="/wiki/File:Rhodium_spectrum_visible.png">
+          <img alt="Rhodium spectrum visible.png" data-file-height="1280" data-file-width="7430" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/04/Rhodium_spectrum_visible.png/250px-Rhodium_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/04/Rhodium_spectrum_visible.png/375px-Rhodium_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/04/Rhodium_spectrum_visible.png/500px-Rhodium_spectrum_visible.png 2x" width="250"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         palladium
+        </td>
+        <td>
+         46
+        </td>
+        <td>
+         <a href="/wiki/Palladium" title="Palladium">
+          Pd
+         </a>
+        </td>
+        <td>
+         <a class="image" href="/wiki/File:Palladium_spectrum_visible.png">
+          <img alt="Palladium spectrum visible.png" data-file-height="1280" data-file-width="7430" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Palladium_spectrum_visible.png/250px-Palladium_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Palladium_spectrum_visible.png/375px-Palladium_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Palladium_spectrum_visible.png/500px-Palladium_spectrum_visible.png 2x" width="250"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         silver
+        </td>
+        <td>
+         47
+        </td>
+        <td>
+         <a href="/wiki/Silver" title="Silver">
+          Ag
+         </a>
+        </td>
+        <td>
+         <a class="image" href="/wiki/File:Silver_spectrum_visible.png">
+          <img alt="Silver spectrum visible.png" data-file-height="1280" data-file-width="7430" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Silver_spectrum_visible.png/250px-Silver_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Silver_spectrum_visible.png/375px-Silver_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Silver_spectrum_visible.png/500px-Silver_spectrum_visible.png 2x" width="250"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         cadmium
+        </td>
+        <td>
+         48
+        </td>
+        <td>
+         <a href="/wiki/Cadmium" title="Cadmium">
+          Cd
+         </a>
+        </td>
+        <td>
+         <a class="image" href="/wiki/File:Cadmium_spectrum_visible.png">
+          <img alt="Cadmium spectrum visible.png" data-file-height="1280" data-file-width="7430" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Cadmium_spectrum_visible.png/250px-Cadmium_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Cadmium_spectrum_visible.png/375px-Cadmium_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Cadmium_spectrum_visible.png/500px-Cadmium_spectrum_visible.png 2x" width="250"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         indium
+        </td>
+        <td>
+         49
+        </td>
+        <td>
+         <a href="/wiki/Indium" title="Indium">
+          In
+         </a>
+        </td>
+        <td>
+         <a class="image" href="/wiki/File:Indium_spectrum_visible.png">
+          <img alt="Indium spectrum visible.png" data-file-height="1280" data-file-width="7430" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/82/Indium_spectrum_visible.png/250px-Indium_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/82/Indium_spectrum_visible.png/375px-Indium_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/82/Indium_spectrum_visible.png/500px-Indium_spectrum_visible.png 2x" width="250"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         tin
+        </td>
+        <td>
+         50
+        </td>
+        <td>
+         <a href="/wiki/Tin" title="Tin">
+          Sn
+         </a>
+        </td>
+        <td>
+         <a class="image" href="/wiki/File:Tin_spectrum_visible.png">
+          <img alt="Tin spectrum visible.png" data-file-height="1280" data-file-width="7430" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Tin_spectrum_visible.png/250px-Tin_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Tin_spectrum_visible.png/375px-Tin_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Tin_spectrum_visible.png/500px-Tin_spectrum_visible.png 2x" width="250"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         antimony
+        </td>
+        <td>
+         51
+        </td>
+        <td>
+         <a href="/wiki/Antimony" title="Antimony">
+          Sb
+         </a>
+        </td>
+        <td>
+         <a class="image" href="/wiki/File:Antimony_spectrum_visible.png">
+          <img alt="Antimony spectrum visible.png" data-file-height="1280" data-file-width="7430" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Antimony_spectrum_visible.png/250px-Antimony_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Antimony_spectrum_visible.png/375px-Antimony_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/42/Antimony_spectrum_visible.png/500px-Antimony_spectrum_visible.png 2x" width="250"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         tellurium
+        </td>
+        <td>
+         52
+        </td>
+        <td>
+         <a href="/wiki/Tellurium" title="Tellurium">
+          Te
+         </a>
+        </td>
+        <td>
+         <a class="image" href="/wiki/File:Tellurium_spectrum_visible.png">
+          <img alt="Tellurium spectrum visible.png" data-file-height="1280" data-file-width="7430" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tellurium_spectrum_visible.png/250px-Tellurium_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tellurium_spectrum_visible.png/375px-Tellurium_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tellurium_spectrum_visible.png/500px-Tellurium_spectrum_visible.png 2x" width="250"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         iodine
+        </td>
+        <td>
+         53
+        </td>
+        <td>
+         <a href="/wiki/Iodine" title="Iodine">
+          I
+         </a>
+        </td>
+        <td>
+         <a class="image" href="/wiki/File:Iodine_spectrum_visible.png">
+          <img alt="Iodine spectrum visible.png" data-file-height="1280" data-file-width="7430" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Iodine_spectrum_visible.png/250px-Iodine_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Iodine_spectrum_visible.png/375px-Iodine_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/83/Iodine_spectrum_visible.png/500px-Iodine_spectrum_visible.png 2x" width="250"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         xenon
+        </td>
+        <td>
+         54
+        </td>
+        <td>
+         <a href="/wiki/Xenon" title="Xenon">
+          Xe
+         </a>
+        </td>
+        <td>
+         <a class="image" href="/wiki/File:Xenon_spectrum_visible.png">
+          <img alt="Xenon spectrum visible.png" data-file-height="1280" data-file-width="7430" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Xenon_spectrum_visible.png/250px-Xenon_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Xenon_spectrum_visible.png/375px-Xenon_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Xenon_spectrum_visible.png/500px-Xenon_spectrum_visible.png 2x" width="250"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         caesium
+        </td>
+        <td>
+         55
+        </td>
+        <td>
+         <a href="/wiki/Caesium" title="Caesium">
+          Cs
+         </a>
+        </td>
+        <td>
+         <a class="image" href="/wiki/File:Caesium_spectrum_visible.png">
+          <img alt="Caesium spectrum visible.png" data-file-height="1280" data-file-width="7430" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Caesium_spectrum_visible.png/250px-Caesium_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Caesium_spectrum_visible.png/375px-Caesium_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Caesium_spectrum_visible.png/500px-Caesium_spectrum_visible.png 2x" width="250"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         barium
+        </td>
+        <td>
+         56
+        </td>
+        <td>
+         <a href="/wiki/Barium" title="Barium">
+          Ba
+         </a>
+        </td>
+        <td>
+         <a class="image" href="/wiki/File:Barium_spectrum_visible.png">
+          <img alt="Barium spectrum visible.png" data-file-height="1280" data-file-width="7430" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Barium_spectrum_visible.png/250px-Barium_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Barium_spectrum_visible.png/375px-Barium_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Barium_spectrum_visible.png/500px-Barium_spectrum_visible.png 2x" width="250"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         lanthanum
+        </td>
+        <td>
+         57
+        </td>
+        <td>
+         <a href="/wiki/Lanthanum" title="Lanthanum">
+          La
+         </a>
+        </td>
+        <td>
+         <a class="image" href="/wiki/File:Lanthanum_spectrum_visible.png">
+          <img alt="Lanthanum spectrum visible.png" data-file-height="1280" data-file-width="7430" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Lanthanum_spectrum_visible.png/250px-Lanthanum_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Lanthanum_spectrum_visible.png/375px-Lanthanum_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Lanthanum_spectrum_visible.png/500px-Lanthanum_spectrum_visible.png 2x" width="250"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         cerium
+        </td>
+        <td>
+         58
+        </td>
+        <td>
+         <a href="/wiki/Cerium" title="Cerium">
+          Ce
+         </a>
+        </td>
+        <td>
+         <a class="image" href="/wiki/File:Cerium_spectrum_visible.png">
+          <img alt="Cerium spectrum visible.png" data-file-height="1280" data-file-width="7430" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Cerium_spectrum_visible.png/250px-Cerium_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Cerium_spectrum_visible.png/375px-Cerium_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/06/Cerium_spectrum_visible.png/500px-Cerium_spectrum_visible.png 2x" width="250"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         praseodymium
+        </td>
+        <td>
+         59
+        </td>
+        <td>
+         <a href="/wiki/Praseodymium" title="Praseodymium">
+          Pr
+         </a>
+        </td>
+        <td>
+         <a class="image" href="/wiki/File:Praseodymium_spectrum_visible.png">
+          <img alt="Praseodymium spectrum visible.png" data-file-height="1280" data-file-width="7430" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Praseodymium_spectrum_visible.png/250px-Praseodymium_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Praseodymium_spectrum_visible.png/375px-Praseodymium_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Praseodymium_spectrum_visible.png/500px-Praseodymium_spectrum_visible.png 2x" width="250"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         neodymium
+        </td>
+        <td>
+         60
+        </td>
+        <td>
+         <a href="/wiki/Neodymium" title="Neodymium">
+          Nd
+         </a>
+        </td>
+        <td>
+         <a class="image" href="/wiki/File:Neodymium_spectrum_visible.png">
+          <img alt="Neodymium spectrum visible.png" data-file-height="1280" data-file-width="7430" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Neodymium_spectrum_visible.png/250px-Neodymium_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Neodymium_spectrum_visible.png/375px-Neodymium_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Neodymium_spectrum_visible.png/500px-Neodymium_spectrum_visible.png 2x" width="250"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         promethium
+        </td>
+        <td>
+         61
+        </td>
+        <td>
+         <a href="/wiki/Promethium" title="Promethium">
+          Pm
+         </a>
+        </td>
+        <td>
+         <a class="image" href="/wiki/File:Promethium_spectrum_visible.png">
+          <img alt="Promethium spectrum visible.png" data-file-height="1280" data-file-width="7430" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Promethium_spectrum_visible.png/250px-Promethium_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Promethium_spectrum_visible.png/375px-Promethium_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Promethium_spectrum_visible.png/500px-Promethium_spectrum_visible.png 2x" width="250"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         samarium
+        </td>
+        <td>
+         62
+        </td>
+        <td>
+         <a href="/wiki/Samarium" title="Samarium">
+          Sm
+         </a>
+        </td>
+        <td>
+         <a class="image" href="/wiki/File:Samarium_spectrum_visible.png">
+          <img alt="Samarium spectrum visible.png" data-file-height="1280" data-file-width="7430" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/Samarium_spectrum_visible.png/250px-Samarium_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/Samarium_spectrum_visible.png/375px-Samarium_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/08/Samarium_spectrum_visible.png/500px-Samarium_spectrum_visible.png 2x" width="250"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         europium
+        </td>
+        <td>
+         63
+        </td>
+        <td>
+         <a href="/wiki/Europium" title="Europium">
+          Eu
+         </a>
+        </td>
+        <td>
+         <a class="image" href="/wiki/File:Europium_spectrum_visible.png">
+          <img alt="Europium spectrum visible.png" data-file-height="1280" data-file-width="7430" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Europium_spectrum_visible.png/250px-Europium_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Europium_spectrum_visible.png/375px-Europium_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Europium_spectrum_visible.png/500px-Europium_spectrum_visible.png 2x" width="250"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         gadolinium
+        </td>
+        <td>
+         64
+        </td>
+        <td>
+         <a href="/wiki/Gadolinium" title="Gadolinium">
+          Gd
+         </a>
+        </td>
+        <td>
+         <a class="image" href="/wiki/File:Gadolinium_spectrum_visible.png">
+          <img alt="Gadolinium spectrum visible.png" data-file-height="1280" data-file-width="7430" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/95/Gadolinium_spectrum_visible.png/250px-Gadolinium_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/95/Gadolinium_spectrum_visible.png/375px-Gadolinium_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/95/Gadolinium_spectrum_visible.png/500px-Gadolinium_spectrum_visible.png 2x" width="250"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         terbium
+        </td>
+        <td>
+         65
+        </td>
+        <td>
+         <a href="/wiki/Terbium" title="Terbium">
+          Tb
+         </a>
+        </td>
+        <td>
+         <a class="image" href="/wiki/File:Terbium_spectrum_visible.png">
+          <img alt="Terbium spectrum visible.png" data-file-height="1280" data-file-width="7430" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Terbium_spectrum_visible.png/250px-Terbium_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Terbium_spectrum_visible.png/375px-Terbium_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Terbium_spectrum_visible.png/500px-Terbium_spectrum_visible.png 2x" width="250"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         dysprosium
+        </td>
+        <td>
+         66
+        </td>
+        <td>
+         <a href="/wiki/Dysprosium" title="Dysprosium">
+          Dy
+         </a>
+        </td>
+        <td>
+         <a class="image" href="/wiki/File:Dysprosium_spectrum_visible.png">
+          <img alt="Dysprosium spectrum visible.png" data-file-height="1280" data-file-width="7430" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Dysprosium_spectrum_visible.png/250px-Dysprosium_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Dysprosium_spectrum_visible.png/375px-Dysprosium_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Dysprosium_spectrum_visible.png/500px-Dysprosium_spectrum_visible.png 2x" width="250"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         holmium
+        </td>
+        <td>
+         67
+        </td>
+        <td>
+         <a href="/wiki/Holmium" title="Holmium">
+          Ho
+         </a>
+        </td>
+        <td>
+         <a class="image" href="/wiki/File:Holmium_spectrum_visible.png">
+          <img alt="Holmium spectrum visible.png" data-file-height="1280" data-file-width="7430" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Holmium_spectrum_visible.png/250px-Holmium_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Holmium_spectrum_visible.png/375px-Holmium_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/Holmium_spectrum_visible.png/500px-Holmium_spectrum_visible.png 2x" width="250"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         erbium
+        </td>
+        <td>
+         68
+        </td>
+        <td>
+         <a href="/wiki/Erbium" title="Erbium">
+          Er
+         </a>
+        </td>
+        <td>
+         <a class="image" href="/wiki/File:Erbium_spectrum_visible.png">
+          <img alt="Erbium spectrum visible.png" data-file-height="1280" data-file-width="7430" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/57/Erbium_spectrum_visible.png/250px-Erbium_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/57/Erbium_spectrum_visible.png/375px-Erbium_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/57/Erbium_spectrum_visible.png/500px-Erbium_spectrum_visible.png 2x" width="250"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         thulium
+        </td>
+        <td>
+         69
+        </td>
+        <td>
+         <a href="/wiki/Thulium" title="Thulium">
+          Tm
+         </a>
+        </td>
+        <td>
+         <a class="image" href="/wiki/File:Thulium_spectrum_visible.png">
+          <img alt="Thulium spectrum visible.png" data-file-height="1280" data-file-width="7430" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Thulium_spectrum_visible.png/250px-Thulium_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Thulium_spectrum_visible.png/375px-Thulium_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Thulium_spectrum_visible.png/500px-Thulium_spectrum_visible.png 2x" width="250"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         ytterbium
+        </td>
+        <td>
+         70
+        </td>
+        <td>
+         <a href="/wiki/Ytterbium" title="Ytterbium">
+          Yb
+         </a>
+        </td>
+        <td>
+         <a class="image" href="/wiki/File:Ytterbium_spectrum_visible.png">
+          <img alt="Ytterbium spectrum visible.png" data-file-height="1280" data-file-width="7430" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Ytterbium_spectrum_visible.png/250px-Ytterbium_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Ytterbium_spectrum_visible.png/375px-Ytterbium_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/93/Ytterbium_spectrum_visible.png/500px-Ytterbium_spectrum_visible.png 2x" width="250"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         lutetium
+        </td>
+        <td>
+         71
+        </td>
+        <td>
+         <a href="/wiki/Lutetium" title="Lutetium">
+          Lu
+         </a>
+        </td>
+        <td>
+         <a class="image" href="/wiki/File:Lutetium_spectrum_visible.png">
+          <img alt="Lutetium spectrum visible.png" data-file-height="1280" data-file-width="7430" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/Lutetium_spectrum_visible.png/250px-Lutetium_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/Lutetium_spectrum_visible.png/375px-Lutetium_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/97/Lutetium_spectrum_visible.png/500px-Lutetium_spectrum_visible.png 2x" width="250"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         hafnium
+        </td>
+        <td>
+         72
+        </td>
+        <td>
+         <a href="/wiki/Hafnium" title="Hafnium">
+          Hf
+         </a>
+        </td>
+        <td>
+         <a class="image" href="/wiki/File:Hafnium_spectrum_visible.png">
+          <img alt="Hafnium spectrum visible.png" data-file-height="1280" data-file-width="7430" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Hafnium_spectrum_visible.png/250px-Hafnium_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Hafnium_spectrum_visible.png/375px-Hafnium_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Hafnium_spectrum_visible.png/500px-Hafnium_spectrum_visible.png 2x" width="250"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         tantalum
+        </td>
+        <td>
+         73
+        </td>
+        <td>
+         <a href="/wiki/Tantalum" title="Tantalum">
+          Ta
+         </a>
+        </td>
+        <td>
+         <a class="image" href="/wiki/File:Tantalum_spectrum_visible.png">
+          <img alt="Tantalum spectrum visible.png" data-file-height="1280" data-file-width="7430" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Tantalum_spectrum_visible.png/250px-Tantalum_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Tantalum_spectrum_visible.png/375px-Tantalum_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Tantalum_spectrum_visible.png/500px-Tantalum_spectrum_visible.png 2x" width="250"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         tungsten
+        </td>
+        <td>
+         74
+        </td>
+        <td>
+         <a href="/wiki/Tungsten" title="Tungsten">
+          W
+         </a>
+        </td>
+        <td>
+         <a class="image" href="/wiki/File:Tungsten_spectrum_visible.png">
+          <img alt="Tungsten spectrum visible.png" data-file-height="1280" data-file-width="7430" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Tungsten_spectrum_visible.png/250px-Tungsten_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Tungsten_spectrum_visible.png/375px-Tungsten_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Tungsten_spectrum_visible.png/500px-Tungsten_spectrum_visible.png 2x" width="250"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         rhenium
+        </td>
+        <td>
+         75
+        </td>
+        <td>
+         <a href="/wiki/Rhenium" title="Rhenium">
+          Re
+         </a>
+        </td>
+        <td>
+         <a class="image" href="/wiki/File:Rhenium_spectrum_visible.png">
+          <img alt="Rhenium spectrum visible.png" data-file-height="1280" data-file-width="7430" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Rhenium_spectrum_visible.png/250px-Rhenium_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Rhenium_spectrum_visible.png/375px-Rhenium_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/da/Rhenium_spectrum_visible.png/500px-Rhenium_spectrum_visible.png 2x" width="250"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         osmium
+        </td>
+        <td>
+         76
+        </td>
+        <td>
+         <a href="/wiki/Osmium" title="Osmium">
+          Os
+         </a>
+        </td>
+        <td>
+         <a class="image" href="/wiki/File:Osmium_spectrum_visible.png">
+          <img alt="Osmium spectrum visible.png" data-file-height="1280" data-file-width="7430" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Osmium_spectrum_visible.png/250px-Osmium_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Osmium_spectrum_visible.png/375px-Osmium_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Osmium_spectrum_visible.png/500px-Osmium_spectrum_visible.png 2x" width="250"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         iridium
+        </td>
+        <td>
+         77
+        </td>
+        <td>
+         <a href="/wiki/Iridium" title="Iridium">
+          Ir
+         </a>
+        </td>
+        <td>
+         <a class="image" href="/wiki/File:Iridium_spectrum_visible.png">
+          <img alt="Iridium spectrum visible.png" data-file-height="1280" data-file-width="7430" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Iridium_spectrum_visible.png/250px-Iridium_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Iridium_spectrum_visible.png/375px-Iridium_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Iridium_spectrum_visible.png/500px-Iridium_spectrum_visible.png 2x" width="250"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         platinum
+        </td>
+        <td>
+         78
+        </td>
+        <td>
+         <a href="/wiki/Platinum" title="Platinum">
+          Pt
+         </a>
+        </td>
+        <td>
+         <a class="image" href="/wiki/File:Platinum_spectrum_visible.png">
+          <img alt="Platinum spectrum visible.png" data-file-height="1280" data-file-width="7430" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Platinum_spectrum_visible.png/250px-Platinum_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Platinum_spectrum_visible.png/375px-Platinum_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Platinum_spectrum_visible.png/500px-Platinum_spectrum_visible.png 2x" width="250"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         gold
+        </td>
+        <td>
+         79
+        </td>
+        <td>
+         <a href="/wiki/Gold" title="Gold">
+          Au
+         </a>
+        </td>
+        <td>
+         <a class="image" href="/wiki/File:Gold_spectrum_visible.png">
+          <img alt="Gold spectrum visible.png" data-file-height="1280" data-file-width="7430" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/18/Gold_spectrum_visible.png/250px-Gold_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/18/Gold_spectrum_visible.png/375px-Gold_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/18/Gold_spectrum_visible.png/500px-Gold_spectrum_visible.png 2x" width="250"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         mercury
+        </td>
+        <td>
+         80
+        </td>
+        <td>
+         <a href="/wiki/Mercury_(element)" title="Mercury (element)">
+          Hg
+         </a>
+        </td>
+        <td>
+         <a class="image" href="/wiki/File:Mercury_spectrum_visible.png">
+          <img alt="Mercury spectrum visible.png" data-file-height="1280" data-file-width="7430" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Mercury_spectrum_visible.png/250px-Mercury_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Mercury_spectrum_visible.png/375px-Mercury_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/98/Mercury_spectrum_visible.png/500px-Mercury_spectrum_visible.png 2x" width="250"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         thallium
+        </td>
+        <td>
+         81
+        </td>
+        <td>
+         <a href="/wiki/Thallium" title="Thallium">
+          Tl
+         </a>
+        </td>
+        <td>
+         <a class="image" href="/wiki/File:Thallium_spectrum_visible.png">
+          <img alt="Thallium spectrum visible.png" data-file-height="1280" data-file-width="7430" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Thallium_spectrum_visible.png/250px-Thallium_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Thallium_spectrum_visible.png/375px-Thallium_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Thallium_spectrum_visible.png/500px-Thallium_spectrum_visible.png 2x" width="250"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         lead
+        </td>
+        <td>
+         82
+        </td>
+        <td>
+         <a href="/wiki/Lead" title="Lead">
+          Pb
+         </a>
+        </td>
+        <td>
+         <a class="image" href="/wiki/File:Lead_spectrum_visible.png">
+          <img alt="Lead spectrum visible.png" data-file-height="1280" data-file-width="7430" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Lead_spectrum_visible.png/250px-Lead_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Lead_spectrum_visible.png/375px-Lead_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Lead_spectrum_visible.png/500px-Lead_spectrum_visible.png 2x" width="250"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         bismuth
+        </td>
+        <td>
+         83
+        </td>
+        <td>
+         <a href="/wiki/Bismuth" title="Bismuth">
+          Bi
+         </a>
+        </td>
+        <td>
+         <a class="image" href="/wiki/File:Bismuth_spectrum_visible.png">
+          <img alt="Bismuth spectrum visible.png" data-file-height="1280" data-file-width="7430" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Bismuth_spectrum_visible.png/250px-Bismuth_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Bismuth_spectrum_visible.png/375px-Bismuth_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/11/Bismuth_spectrum_visible.png/500px-Bismuth_spectrum_visible.png 2x" width="250"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         polonium
+        </td>
+        <td>
+         84
+        </td>
+        <td>
+         <a href="/wiki/Polonium" title="Polonium">
+          Po
+         </a>
+        </td>
+        <td>
+         <a class="image" href="/wiki/File:Polonium_spectrum_visible.png">
+          <img alt="Polonium spectrum visible.png" data-file-height="1280" data-file-width="7430" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Polonium_spectrum_visible.png/250px-Polonium_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Polonium_spectrum_visible.png/375px-Polonium_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Polonium_spectrum_visible.png/500px-Polonium_spectrum_visible.png 2x" width="250"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         radon
+        </td>
+        <td>
+         86
+        </td>
+        <td>
+         <a href="/wiki/Radon" title="Radon">
+          Rn
+         </a>
+        </td>
+        <td>
+         <a class="image" href="/wiki/File:Radon_spectrum_visible.png">
+          <img alt="Radon spectrum visible.png" data-file-height="1280" data-file-width="7430" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/Radon_spectrum_visible.png/250px-Radon_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/Radon_spectrum_visible.png/375px-Radon_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/69/Radon_spectrum_visible.png/500px-Radon_spectrum_visible.png 2x" width="250"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         radium
+        </td>
+        <td>
+         88
+        </td>
+        <td>
+         <a href="/wiki/Radium" title="Radium">
+          Ra
+         </a>
+        </td>
+        <td>
+         <a class="image" href="/wiki/File:Radium_spectrum_visible.png">
+          <img alt="Radium spectrum visible.png" data-file-height="1280" data-file-width="7430" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/12/Radium_spectrum_visible.png/250px-Radium_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/12/Radium_spectrum_visible.png/375px-Radium_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/12/Radium_spectrum_visible.png/500px-Radium_spectrum_visible.png 2x" width="250"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         actinium
+        </td>
+        <td>
+         89
+        </td>
+        <td>
+         <a href="/wiki/Actinium" title="Actinium">
+          Ac
+         </a>
+        </td>
+        <td>
+         <a class="image" href="/wiki/File:Actinium_spectrum_visible.png">
+          <img alt="Actinium spectrum visible.png" data-file-height="1280" data-file-width="7430" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/50/Actinium_spectrum_visible.png/250px-Actinium_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/50/Actinium_spectrum_visible.png/375px-Actinium_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/50/Actinium_spectrum_visible.png/500px-Actinium_spectrum_visible.png 2x" width="250"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         thorium
+        </td>
+        <td>
+         90
+        </td>
+        <td>
+         <a href="/wiki/Thorium" title="Thorium">
+          Th
+         </a>
+        </td>
+        <td>
+         <a class="image" href="/wiki/File:Thorium_spectrum_visible.png">
+          <img alt="Thorium spectrum visible.png" data-file-height="1280" data-file-width="7430" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Thorium_spectrum_visible.png/250px-Thorium_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Thorium_spectrum_visible.png/375px-Thorium_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/00/Thorium_spectrum_visible.png/500px-Thorium_spectrum_visible.png 2x" width="250"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         protactinium
+        </td>
+        <td>
+         91
+        </td>
+        <td>
+         <a href="/wiki/Protactinium" title="Protactinium">
+          Pa
+         </a>
+        </td>
+        <td>
+         <a class="image" href="/wiki/File:Protactinium_spectrum_visible.png">
+          <img alt="Protactinium spectrum visible.png" data-file-height="1280" data-file-width="7430" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Protactinium_spectrum_visible.png/250px-Protactinium_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Protactinium_spectrum_visible.png/375px-Protactinium_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Protactinium_spectrum_visible.png/500px-Protactinium_spectrum_visible.png 2x" width="250"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         uranium
+        </td>
+        <td>
+         92
+        </td>
+        <td>
+         <a href="/wiki/Uranium" title="Uranium">
+          U
+         </a>
+        </td>
+        <td>
+         <a class="image" href="/wiki/File:Uranium_spectrum_visible.png">
+          <img alt="Uranium spectrum visible.png" data-file-height="1280" data-file-width="7430" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Uranium_spectrum_visible.png/250px-Uranium_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Uranium_spectrum_visible.png/375px-Uranium_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/67/Uranium_spectrum_visible.png/500px-Uranium_spectrum_visible.png 2x" width="250"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         neptunium
+        </td>
+        <td>
+         93
+        </td>
+        <td>
+         <a href="/wiki/Neptunium" title="Neptunium">
+          Np
+         </a>
+        </td>
+        <td>
+         <a class="image" href="/wiki/File:Neptunium_spectrum_visible.png">
+          <img alt="Neptunium spectrum visible.png" data-file-height="1280" data-file-width="7430" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/55/Neptunium_spectrum_visible.png/250px-Neptunium_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/55/Neptunium_spectrum_visible.png/375px-Neptunium_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/55/Neptunium_spectrum_visible.png/500px-Neptunium_spectrum_visible.png 2x" width="250"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         plutonium
+        </td>
+        <td>
+         94
+        </td>
+        <td>
+         <a href="/wiki/Plutonium" title="Plutonium">
+          Pu
+         </a>
+        </td>
+        <td>
+         <a class="image" href="/wiki/File:Plutonium_spectrum_visible.png">
+          <img alt="Plutonium spectrum visible.png" data-file-height="1280" data-file-width="7430" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Plutonium_spectrum_visible.png/250px-Plutonium_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Plutonium_spectrum_visible.png/375px-Plutonium_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/28/Plutonium_spectrum_visible.png/500px-Plutonium_spectrum_visible.png 2x" width="250"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         americium
+        </td>
+        <td>
+         95
+        </td>
+        <td>
+         <a href="/wiki/Americium" title="Americium">
+          Am
+         </a>
+        </td>
+        <td>
+         <a class="image" href="/wiki/File:Americium_spectrum_visible.png">
+          <img alt="Americium spectrum visible.png" data-file-height="1280" data-file-width="7430" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/Americium_spectrum_visible.png/250px-Americium_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/Americium_spectrum_visible.png/375px-Americium_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/37/Americium_spectrum_visible.png/500px-Americium_spectrum_visible.png 2x" width="250"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         curium
+        </td>
+        <td>
+         96
+        </td>
+        <td>
+         <a href="/wiki/Curium" title="Curium">
+          Cm
+         </a>
+        </td>
+        <td>
+         <a class="image" href="/wiki/File:Curium_spectrum_visible.png">
+          <img alt="Curium spectrum visible.png" data-file-height="1280" data-file-width="7430" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Curium_spectrum_visible.png/250px-Curium_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Curium_spectrum_visible.png/375px-Curium_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Curium_spectrum_visible.png/500px-Curium_spectrum_visible.png 2x" width="250"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         berkelium
+        </td>
+        <td>
+         97
+        </td>
+        <td>
+         <a href="/wiki/Berkelium" title="Berkelium">
+          Bk
+         </a>
+        </td>
+        <td>
+         <a class="image" href="/wiki/File:Berkelium_spectrum_visible.png">
+          <img alt="Berkelium spectrum visible.png" data-file-height="1280" data-file-width="7430" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/23/Berkelium_spectrum_visible.png/250px-Berkelium_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/23/Berkelium_spectrum_visible.png/375px-Berkelium_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/23/Berkelium_spectrum_visible.png/500px-Berkelium_spectrum_visible.png 2x" width="250"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         californium
+        </td>
+        <td>
+         98
+        </td>
+        <td>
+         <a href="/wiki/Californium" title="Californium">
+          Cf
+         </a>
+        </td>
+        <td>
+         <a class="image" href="/wiki/File:Californium_spectrum_visible.png">
+          <img alt="Californium spectrum visible.png" data-file-height="1280" data-file-width="7430" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Californium_spectrum_visible.png/250px-Californium_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Californium_spectrum_visible.png/375px-Californium_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Californium_spectrum_visible.png/500px-Californium_spectrum_visible.png 2x" width="250"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         einsteinium
+        </td>
+        <td>
+         99
+        </td>
+        <td>
+         <a href="/wiki/Einsteinium" title="Einsteinium">
+          Es
+         </a>
+        </td>
+        <td>
+         <a class="image" href="/wiki/File:Einsteinium_spectrum_visible.png">
+          <img alt="Einsteinium spectrum visible.png" data-file-height="1280" data-file-width="7430" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Einsteinium_spectrum_visible.png/250px-Einsteinium_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Einsteinium_spectrum_visible.png/375px-Einsteinium_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Einsteinium_spectrum_visible.png/500px-Einsteinium_spectrum_visible.png 2x" width="250"/>
+         </a>
+        </td>
+       </tr>
+      </table>
+      <h2>
+       <span class="mw-headline" id="See_also">
+        See also
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Spectral_line&amp;action=edit&amp;section=15" title="Edit section: See also">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a class="mw-redirect" href="/wiki/Absorption_spectrum" title="Absorption spectrum">
+         Absorption spectrum
+        </a>
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/Atomic_spectral_line" title="Atomic spectral line">
+         Atomic spectral line
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Bohr_model" title="Bohr model">
+         Bohr model
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Electron_configuration" title="Electron configuration">
+         Electron configuration
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Emission_spectrum" title="Emission spectrum">
+         Emission spectrum
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Spectroscopy" title="Spectroscopy">
+         Spectroscopy
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Spectral_line_ratios" title="Spectral line ratios">
+         Spectral line ratios
+        </a>
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/Fraunhofer_line" title="Fraunhofer line">
+         Fraunhofer line
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Hydrogen_line" title="Hydrogen line">
+         Hydrogen line
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Splatalogue" title="Splatalogue">
+         Splatalogue
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Gas-discharge_lamp#Color" title="Gas-discharge lamp">
+         Table of emission spectrum of gas discharge lamps
+        </a>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="Notes">
+        Notes
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Spectral_line&amp;action=edit&amp;section=16" title="Edit section: Notes">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="reflist" style="list-style-type: decimal;">
+       <div class="mw-references-wrap">
+        <ol class="references">
+         <li id="cite_note-5">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-5">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           "van der Waals profile" appears as lowercase in almost all sources, such as:
+           <a class="external text" href="https://books.google.com/books?id=Wve2AAAAIAAJ&amp;q=%22Van+der+Waals+profile%22&amp;dq=%22Van+der+Waals+profile%22&amp;hl=en" rel="nofollow">
+            Statistical mechanics of the liquid surface
+           </a>
+           by Clive Anthony Croxton, 1980, A Wiley-Interscience publication,
+           <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+            ISBN
+           </a>
+           <a href="/wiki/Special:BookSources/0-471-27663-4" title="Special:BookSources/0-471-27663-4">
+            0-471-27663-4
+           </a>
+           ,
+           <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+            ISBN
+           </a>
+           <a href="/wiki/Special:BookSources/978-0-471-27663-0" title="Special:BookSources/978-0-471-27663-0">
+            978-0-471-27663-0
+           </a>
+           ; and in
+           <a class="external text" href="https://books.google.com/books?id=2XpVAAAAMAAJ&amp;q=%22Van+der+Waals+profile%22&amp;dq=%22Van+der+Waals+profile%22&amp;hl=en" rel="nofollow">
+            Journal of technical physics
+           </a>
+           , Volume 36, by Instytut Podstawowych Problemów Techniki (Polska Akademia Nauk), publisher: Państwowe Wydawn. Naukowe., 1995,
+          </span>
+         </li>
+        </ol>
+       </div>
+      </div>
+      <h2>
+       <span class="mw-headline" id="References">
+        References
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Spectral_line&amp;action=edit&amp;section=17" title="Edit section: References">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="reflist" style="list-style-type: decimal;">
+       <div class="mw-references-wrap">
+        <ol class="references">
+         <li id="cite_note-RothmanGordon2013-1">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-RothmanGordon2013_1-0">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Rothman, L.S.; Gordon, I.E.; Babikov, Y.; Barbe, A.; Chris Benner, D.; Bernath, P.F.; Birk, M.; Bizzocchi, L.; Boudon, V.; Brown, L.R.; Campargue, A.; Chance, K.; Cohen, E.A.; Coudert, L.H.; Devi, V.M.; Drouin, B.J.; Fayt, A.; Flaud, J.-M.; Gamache, R.R.; Harrison, J.J.; Hartmann, J.-M.; Hill, C.; Hodges, J.T.; Jacquemart, D.; Jolly, A.; Lamouroux, J.; Le Roy, R.J.; Li, G.; Long, D.A.; et al. (2013). "The HITRAN2012 molecular spectroscopic database".
+            <i>
+             Journal of Quantitative Spectroscopy and Radiative Transfer
+            </i>
+            .
+            <b>
+             130
+            </b>
+            : 4–50.
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/2013JQSRT.130....4R" rel="nofollow">
+             2013JQSRT.130....4R
+            </a>
+            .
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1016%2Fj.jqsrt.2013.07.002" rel="nofollow">
+             10.1016/j.jqsrt.2013.07.002
+            </a>
+            .
+            <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">
+             ISSN
+            </a>
+            <a class="external text" href="//www.worldcat.org/issn/0022-4073" rel="nofollow">
+             0022-4073
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Quantitative+Spectroscopy+and+Radiative+Transfer&amp;rft.atitle=The+HITRAN2012+molecular+spectroscopic+database&amp;rft.volume=130&amp;rft.pages=4-50&amp;rft.date=2013&amp;rft.issn=0022-4073&amp;rft_id=info%3Adoi%2F10.1016%2Fj.jqsrt.2013.07.002&amp;rft_id=info%3Abibcode%2F2013JQSRT.130....4R&amp;rft.aulast=Rothman&amp;rft.aufirst=L.S.&amp;rft.au=Gordon%2C+I.E.&amp;rft.au=Babikov%2C+Y.&amp;rft.au=Barbe%2C+A.&amp;rft.au=Chris+Benner%2C+D.&amp;rft.au=Bernath%2C+P.F.&amp;rft.au=Birk%2C+M.&amp;rft.au=Bizzocchi%2C+L.&amp;rft.au=Boudon%2C+V.&amp;rft.au=Brown%2C+L.R.&amp;rft.au=Campargue%2C+A.&amp;rft.au=Chance%2C+K.&amp;rft.au=Cohen%2C+E.A.&amp;rft.au=Coudert%2C+L.H.&amp;rft.au=Devi%2C+V.M.&amp;rft.au=Drouin%2C+B.J.&amp;rft.au=Fayt%2C+A.&amp;rft.au=Flaud%2C+J.-M.&amp;rft.au=Gamache%2C+R.R.&amp;rft.au=Harrison%2C+J.J.&amp;rft.au=Hartmann%2C+J.-M.&amp;rft.au=Hill%2C+C.&amp;rft.au=Hodges%2C+J.T.&amp;rft.au=Jacquemart%2C+D.&amp;rft.au=Jolly%2C+A.&amp;rft.au=Lamouroux%2C+J.&amp;rft.au=Le+Roy%2C+R.J.&amp;rft.au=Li%2C+G.&amp;rft.au=Long%2C+D.A.&amp;rft.au=Lyulin%2C+O.M.&amp;rft.au=Mackie%2C+C.J.&amp;rft.au=Massie%2C+S.T.&amp;rft.au=Mikhailenko%2C+S.&amp;rft.au=M%C3%BCller%2C+H.S.P.&amp;rft.au=Naumenko%2C+O.V.&amp;rft.au=Nikitin%2C+A.V.&amp;rft.au=Orphal%2C+J.&amp;rft.au=Perevalov%2C+V.&amp;rft.au=Perrin%2C+A.&amp;rft.au=Polovtseva%2C+E.R.&amp;rft.au=Richard%2C+C.&amp;rft.au=Smith%2C+M.A.H.&amp;rft.au=Starikova%2C+E.&amp;rft.au=Sung%2C+K.&amp;rft.au=Tashkun%2C+S.&amp;rft.au=Tennyson%2C+J.&amp;rft.au=Toon%2C+G.C.&amp;rft.au=Tyuterev%2C+Vl.G.&amp;rft.au=Wagner%2C+G.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASpectral+line">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-2">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-2">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           For example, in the following article, decay was suppressed via a microwave cavity, thus reducing the natural broadening:
+           <cite class="citation journal">
+            Gabrielse, Gerald; H. Dehmelt (1985). "Observation of Inhibited Spontaneous Emission".
+            <i>
+             Physical Review Letters
+            </i>
+            .
+            <b>
+             55
+            </b>
+            (1): 67–70.
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/1985PhRvL..55...67G" rel="nofollow">
+             1985PhRvL..55...67G
+            </a>
+            .
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1103%2FPhysRevLett.55.67" rel="nofollow">
+             10.1103/PhysRevLett.55.67
+            </a>
+            .
+            <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">
+             PMID
+            </a>
+            <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/10031682" rel="nofollow">
+             10031682
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Physical+Review+Letters&amp;rft.atitle=Observation+of+Inhibited+Spontaneous+Emission&amp;rft.volume=55&amp;rft.issue=1&amp;rft.pages=67-70&amp;rft.date=1985&amp;rft_id=info%3Apmid%2F10031682&amp;rft_id=info%3Adoi%2F10.1103%2FPhysRevLett.55.67&amp;rft_id=info%3Abibcode%2F1985PhRvL..55...67G&amp;rft.aulast=Gabrielse&amp;rft.aufirst=Gerald&amp;rft.au=H.+Dehmelt&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASpectral+line">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-3">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-3">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.fas.harvard.edu/~scdiroff/lds/QuantumRelativity/CollisionalBroadening/CollisionalBroadening.html" rel="nofollow">
+             "Collisional Broadening"
+            </a>
+            . Fas.harvard.edu
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              2015-05-02
+             </span>
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Collisional+Broadening&amp;rft.pub=Fas.harvard.edu&amp;rft_id=http%3A%2F%2Fwww.fas.harvard.edu%2F~scdiroff%2Flds%2FQuantumRelativity%2FCollisionalBroadening%2FCollisionalBroadening.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASpectral+line">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-4">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-4">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Peach, G. (1981).
+            <a class="external text" href="http://journalsonline.tandf.co.uk/openurl.asp?genre=article&amp;eissn=1460-6976&amp;volume=30&amp;issue=3&amp;spage=367" rel="nofollow">
+             "Theory of the pressure broadening and shift of spectral lines"
+            </a>
+            .
+            <i>
+             Advances in Physics
+            </i>
+            .
+            <b>
+             30
+            </b>
+            (3): 367–474.
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/1981AdPhy..30..367P" rel="nofollow">
+             1981AdPhy..30..367P
+            </a>
+            .
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1080%2F00018738100101467" rel="nofollow">
+             10.1080/00018738100101467
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Advances+in+Physics&amp;rft.atitle=Theory+of+the+pressure+broadening+and+shift+of+spectral+lines&amp;rft.volume=30&amp;rft.issue=3&amp;rft.pages=367-474&amp;rft.date=1981&amp;rft_id=info%3Adoi%2F10.1080%2F00018738100101467&amp;rft_id=info%3Abibcode%2F1981AdPhy..30..367P&amp;rft.aulast=Peach&amp;rft.aufirst=G.&amp;rft_id=http%3A%2F%2Fjournalsonline.tandf.co.uk%2Fopenurl.asp%3Fgenre%3Darticle%26eissn%3D1460-6976%26volume%3D30%26issue%3D3%26spage%3D367&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASpectral+line">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+        </ol>
+       </div>
+      </div>
+      <h2>
+       <span class="mw-headline" id="Further_reading">
+        Further reading
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Spectral_line&amp;action=edit&amp;section=18" title="Edit section: Further reading">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <cite class="citation book">
+         Griem, Hans R. (1997).
+         <i>
+          Principles of Plasma Spectroscopy
+         </i>
+         . Cambridge: University Press.
+         <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+          ISBN
+         </a>
+         <a href="/wiki/Special:BookSources/0-521-45504-9" title="Special:BookSources/0-521-45504-9">
+          0-521-45504-9
+         </a>
+         .
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Principles+of+Plasma+Spectroscopy&amp;rft.place=Cambridge&amp;rft.pub=University+Press&amp;rft.date=1997&amp;rft.isbn=0-521-45504-9&amp;rft.aulast=Griem&amp;rft.aufirst=Hans+R.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASpectral+line">
+         <span style="display:none;">
+         </span>
+        </span>
+       </li>
+       <li>
+        <cite class="citation book">
+         Griem, Hans R. (1974).
+         <i>
+          Spectral Line Broadening by Plasmas
+         </i>
+         . New York:
+         <a href="/wiki/Academic_Press" title="Academic Press">
+          Academic Press
+         </a>
+         .
+         <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+          ISBN
+         </a>
+         <a href="/wiki/Special:BookSources/0-12-302850-7" title="Special:BookSources/0-12-302850-7">
+          0-12-302850-7
+         </a>
+         .
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Spectral+Line+Broadening+by+Plasmas&amp;rft.place=New+York&amp;rft.pub=Academic+Press&amp;rft.date=1974&amp;rft.isbn=0-12-302850-7&amp;rft.aulast=Griem&amp;rft.aufirst=Hans+R.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASpectral+line">
+         <span style="display:none;">
+         </span>
+        </span>
+       </li>
+       <li>
+        <cite class="citation book">
+         Griem, Hans R. (1964).
+         <a class="external text" href="https://books.google.com/books/about/Plasma_Spectroscopy.html?id=7gcvAAAAIAAJ" rel="nofollow">
+          <i>
+           Plasma Spectroscopy
+          </i>
+         </a>
+         . New York: McGraw-Hill book Company.
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Plasma+Spectroscopy&amp;rft.place=New+York&amp;rft.pub=McGraw-Hill+book+Company&amp;rft.date=1964&amp;rft.aulast=Griem&amp;rft.aufirst=Hans+R.&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%2Fabout%2FPlasma_Spectroscopy.html%3Fid%3D7gcvAAAAIAAJ&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASpectral+line">
+         <span style="display:none;">
+         </span>
+        </span>
+       </li>
+      </ul>
+      <!-- 
+NewPP limit report
+Parsed by mw1323
+Cached time: 20180403052533
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.524 seconds
+Real time usage: 0.732 seconds
+Preprocessor visited node count: 30303/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 68715/2097152 bytes
+Template argument size: 3926/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 4/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 8666/5000000 bytes
+Lua time usage: 0.083/10.000 seconds
+Lua memory usage: 3.86 MB/50 MB
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  419.510      1 -total
+ 50.91%  213.586      1 Template:Spectral_lines_of_the_elements
+ 48.14%  201.945     99 Template:Spectral_lines_of_the_elements/row
+ 22.80%   95.654      2 Template:Reflist
+ 15.66%   65.698    196 Template:Infobox_element/symbol-to-spectral-lines-image
+ 11.48%   48.144      1 Template:More_footnotes
+ 11.31%   47.431      3 Template:Cite_journal
+  9.77%   40.987     97 Template:Infobox_element/symbol-to-wl
+  8.13%   34.111     97 Template:Infobox_element/symbol-to-Z
+  8.04%   33.717     97 Template:Infobox_element/symbol-to-name
+-->
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:177320-0!canonical!math=5 and timestamp 20180403052532 and revision id 819514814
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Spectral_line&amp;oldid=819514814">
+      https://en.wikipedia.org/w/index.php?title=Spectral_line&amp;oldid=819514814
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Spectroscopy" title="Category:Spectroscopy">
+         Spectroscopy
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Emission_spectroscopy" title="Category:Emission spectroscopy">
+         Emission spectroscopy
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:Articles_lacking_in-text_citations_from_May_2013" title="Category:Articles lacking in-text citations from May 2013">
+         Articles lacking in-text citations from May 2013
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:All_articles_lacking_in-text_citations" title="Category:All articles lacking in-text citations">
+         All articles lacking in-text citations
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_to_be_expanded_from_October_2008" title="Category:Articles to be expanded from October 2008">
+         Articles to be expanded from October 2008
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:All_articles_to_be_expanded" title="Category:All articles to be expanded">
+         All articles to be expanded
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_using_small_message_boxes" title="Category:Articles using small message boxes">
+         Articles using small message boxes
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Wikipedia_articles_needing_clarification_from_October_2015" title="Category:Wikipedia articles needing clarification from October 2015">
+         Wikipedia articles needing clarification from October 2015
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Wikipedia_articles_needing_clarification_from_October_2016" title="Category:Wikipedia articles needing clarification from October 2016">
+         Wikipedia articles needing clarification from October 2016
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Spectral+line" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Spectral+line" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Spectral_line" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Spectral_line" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="collapsible selected" id="ca-view">
+        <span>
+         <a href="/wiki/Spectral_line">
+          Read
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Spectral_line&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Spectral_line&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Spectral_line" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Spectral_line" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Spectral_line&amp;oldid=819514814" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Spectral_line&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q212111" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Spectral_line&amp;id=819514814" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Spectral+line">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Spectral+line&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Spectral_line&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+     <h3 id="p-wikibase-otherprojects-label">
+      In other projects
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="wb-otherproject-link wb-otherproject-commons">
+        <a href="https://commons.wikimedia.org/wiki/Category:Spectral_lines" hreflang="en">
+         Wikimedia Commons
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-af">
+        <a class="interlanguage-link-target" href="https://af.wikipedia.org/wiki/Spektraallyn" hreflang="af" lang="af" title="Spektraallyn – Afrikaans">
+         Afrikaans
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ar">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%AE%D8%B7_%D8%B7%D9%8A%D9%81%D9%8A" hreflang="ar" lang="ar" title="خط طيفي – Arabic">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bg">
+        <a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B5%D0%BA%D1%82%D1%80%D0%B0%D0%BB%D0%BD%D0%B0_%D0%BB%D0%B8%D0%BD%D0%B8%D1%8F" hreflang="bg" lang="bg" title="Спектрална линия – Bulgarian">
+         Български
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/L%C3%ADnia_espectral" hreflang="ca" lang="ca" title="Línia espectral – Catalan">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cs">
+        <a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Spektr%C3%A1ln%C3%AD_%C4%8D%C3%A1ra" hreflang="cs" lang="cs" title="Spektrální čára – Czech">
+         Čeština
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Spektrallinie" hreflang="de" lang="de" title="Spektrallinie – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-et">
+        <a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Spektrijoon" hreflang="et" lang="et" title="Spektrijoon – Estonian">
+         Eesti
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/L%C3%ADnea_espectral" hreflang="es" lang="es" title="Línea espectral – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eo">
+        <a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Spektra_linio" hreflang="eo" lang="eo" title="Spektra linio – Esperanto">
+         Esperanto
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fa">
+        <a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%AE%D8%B7_%D8%B7%DB%8C%D9%81_%D9%86%D9%88%D8%B1%DB%8C" hreflang="fa" lang="fa" title="خط طیف نوری – Persian">
+         فارسی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Raie_spectrale" hreflang="fr" lang="fr" title="Raie spectrale – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-gl">
+        <a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Li%C3%B1a_espectral" hreflang="gl" lang="gl" title="Liña espectral – Galician">
+         Galego
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-id">
+        <a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Garis_spektrum" hreflang="id" lang="id" title="Garis spektrum – Indonesian">
+         Bahasa Indonesia
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Linea_spettrale" hreflang="it" lang="it" title="Linea spettrale – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-he">
+        <a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%94%D7%A8%D7%97%D7%91%D7%95%D7%AA_%D7%A1%D7%A4%D7%A7%D7%98%D7%A8%D7%9C%D7%99%D7%95%D7%AA" hreflang="he" lang="he" title="הרחבות ספקטרליות – Hebrew">
+         עברית
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ka">
+        <a class="interlanguage-link-target" href="https://ka.wikipedia.org/wiki/%E1%83%A1%E1%83%9E%E1%83%94%E1%83%A5%E1%83%A2%E1%83%A0%E1%83%90%E1%83%9A%E1%83%A3%E1%83%A0%E1%83%98_%E1%83%96%E1%83%9D%E1%83%9A%E1%83%98" hreflang="ka" lang="ka" title="სპექტრალური ზოლი – Georgian">
+         ქართული
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-kk">
+        <a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B5%D0%BA%D1%82%D1%80%D0%BB%D1%96%D0%BA_%D1%81%D1%8B%D0%B7%D1%8B%D2%9B" hreflang="kk" lang="kk" title="Спектрлік сызық – Kazakh">
+         Қазақша
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lb">
+        <a class="interlanguage-link-target" href="https://lb.wikipedia.org/wiki/Spektrallinn" hreflang="lb" lang="lb" title="Spektrallinn – Luxembourgish">
+         Lëtzebuergesch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ms">
+        <a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Garis_spektrum" hreflang="ms" lang="ms" title="Garis spektrum – Malay">
+         Bahasa Melayu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nl">
+        <a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Spectraallijn" hreflang="nl" lang="nl" title="Spectraallijn – Dutch">
+         Nederlands
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%9A%E3%82%AF%E3%83%88%E3%83%AB%E7%B7%9A" hreflang="ja" lang="ja" title="スペクトル線 – Japanese">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-no">
+        <a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Spektrallinje" hreflang="no" lang="no" title="Spektrallinje – Norwegian">
+         Norsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nn">
+        <a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Spektrallinje" hreflang="nn" lang="nn" title="Spektrallinje – Norwegian Nynorsk">
+         Norsk nynorsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pl">
+        <a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Linie_spektralne" hreflang="pl" lang="pl" title="Linie spektralne – Polish">
+         Polski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Raia_espectral" hreflang="pt" lang="pt" title="Raia espectral – Portuguese">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ro">
+        <a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Linie_spectral%C4%83" hreflang="ro" lang="ro" title="Linie spectrală – Romanian">
+         Română
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B5%D0%BA%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BB%D0%B8%D0%BD%D0%B8%D1%8F" hreflang="ru" lang="ru" title="Спектральная линия – Russian">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sc">
+        <a class="interlanguage-link-target" href="https://sc.wikipedia.org/wiki/L%C3%ADnia_ispetrale" hreflang="sc" lang="sc" title="Línia ispetrale – Sardinian">
+         Sardu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-simple">
+        <a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Spectral_line" hreflang="simple" lang="simple" title="Spectral line – Simple English">
+         Simple English
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sk">
+        <a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Spektr%C3%A1lna_%C4%8Diara" hreflang="sk" lang="sk" title="Spektrálna čiara – Slovak">
+         Slovenčina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fi">
+        <a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Spektriviiva" hreflang="fi" lang="fi" title="Spektriviiva – Finnish">
+         Suomi
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sv">
+        <a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Spektrallinje" hreflang="sv" lang="sv" title="Spektrallinje – Swedish">
+         Svenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-th">
+        <a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B9%80%E0%B8%AA%E0%B9%89%E0%B8%99%E0%B8%AA%E0%B9%80%E0%B8%9B%E0%B8%81%E0%B8%95%E0%B8%A3%E0%B8%B1%E0%B8%A1" hreflang="th" lang="th" title="เส้นสเปกตรัม – Thai">
+         ไทย
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tr">
+        <a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Tayf_%C3%A7izgileri" hreflang="tr" lang="tr" title="Tayf çizgileri – Turkish">
+         Türkçe
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uk">
+        <a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B5%D0%BA%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0_%D0%BB%D1%96%D0%BD%D1%96%D1%8F" hreflang="uk" lang="uk" title="Спектральна лінія – Ukrainian">
+         Українська
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ur">
+        <a class="interlanguage-link-target" href="https://ur.wikipedia.org/wiki/%D8%A7%D8%B3%D9%BE%DB%8C%DA%A9%D9%B9%D8%B1%D9%84_%D9%84%D8%A7%D8%A6%D9%86" hreflang="ur" lang="ur" title="اسپیکٹرل لائن – Urdu">
+         اردو
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-vi">
+        <a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/V%E1%BA%A1ch_quang_ph%E1%BB%95" hreflang="vi" lang="vi" title="Vạch quang phổ – Vietnamese">
+         Tiếng Việt
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E8%AD%9C%E7%B7%9A" hreflang="zh" lang="zh" title="譜線 – Chinese">
+         中文
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q212111#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 9 January 2018, at 20:02.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Spectral_line&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.524","walltime":"0.732","ppvisitednodes":{"value":30303,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":68715,"limit":2097152},"templateargumentsize":{"value":3926,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":8666,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  419.510      1 -total"," 50.91%  213.586      1 Template:Spectral_lines_of_the_elements"," 48.14%  201.945     99 Template:Spectral_lines_of_the_elements/row"," 22.80%   95.654      2 Template:Reflist"," 15.66%   65.698    196 Template:Infobox_element/symbol-to-spectral-lines-image"," 11.48%   48.144      1 Template:More_footnotes"," 11.31%   47.431      3 Template:Cite_journal","  9.77%   40.987     97 Template:Infobox_element/symbol-to-wl","  8.13%   34.111     97 Template:Infobox_element/symbol-to-Z","  8.04%   33.717     97 Template:Infobox_element/symbol-to-name"]},"scribunto":{"limitreport-timeusage":{"value":"0.083","limit":"10.000"},"limitreport-memusage":{"value":4049393,"limit":52428800}},"cachereport":{"origin":"mw1323","timestamp":"20180403052533","ttl":1900800,"transientcontent":false}}});});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":95,"wgHostname":"mw1321"});});
+  </script>
+ </body>
+</html>

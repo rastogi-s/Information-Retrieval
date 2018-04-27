@@ -1,0 +1,2804 @@
+https://en.wikipedia.org/wiki/Limb_darkening
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Limb darkening - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Limb_darkening","wgTitle":"Limb darkening","wgCurRevisionId":823614110,"wgRevisionId":823614110,"wgArticleId":1225755,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: Extra text: authors list","Stellar phenomena","Solar phenomena"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Limb_darkening","wgRelevantArticleId":1225755,"wgRequestId":"WsOIbApAAD4AAI2g440AAACD","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q772102","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.math.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.31.0-wmf.27" name="generator"/>
+  <meta content="origin" name="referrer"/>
+  <meta content="origin-when-crossorigin" name="referrer"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/2012_Transit_of_Venus_from_SF.jpg/1200px-2012_Transit_of_Venus_from_SF.jpg" property="og:image"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Limb_darkening" rel="alternate"/>
+  <link href="/w/index.php?title=Limb_darkening&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Limb_darkening&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/Limb_darkening" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Limb_darkening rootpage-Limb_darkening skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Limb darkening
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:258px;">
+        <a class="image" href="/wiki/File:2012_Transit_of_Venus_from_SF.jpg">
+         <img alt="" class="thumbimage" data-file-height="2577" data-file-width="2577" height="256" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/2012_Transit_of_Venus_from_SF.jpg/256px-2012_Transit_of_Venus_from_SF.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/2012_Transit_of_Venus_from_SF.jpg/384px-2012_Transit_of_Venus_from_SF.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4d/2012_Transit_of_Venus_from_SF.jpg/512px-2012_Transit_of_Venus_from_SF.jpg 2x" width="256"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:2012_Transit_of_Venus_from_SF.jpg" title="Enlarge">
+          </a>
+         </div>
+         A
+         <a class="mw-redirect" href="/wiki/Solar_filter" title="Solar filter">
+          filtered
+         </a>
+         image of the Sun in visible light, showing the limb-darkening effect as a dimmer luminosity towards the edge or limb of the solar disk. The image was taken during the 2012
+         <a href="/wiki/Transit_of_Venus" title="Transit of Venus">
+          transit of Venus
+         </a>
+         (seen here as the dark spot at the upper right).
+        </div>
+       </div>
+      </div>
+      <p>
+       <b>
+        Limb darkening
+       </b>
+       is an optical effect seen in stars (including the
+       <a href="/wiki/Sun" title="Sun">
+        Sun
+       </a>
+       ), where the center part of the disk appears brighter than the edge or
+       <i>
+        <a class="extiw" href="https://en.wiktionary.org/wiki/limb#Etymology_2" title="wikt:limb">
+         limb
+        </a>
+       </i>
+       of the image. Its understanding offered early solar astronomers an opportunity to construct models with such gradients. This encouraged the development of the theory of
+       <a href="/wiki/Radiative_transfer" title="Radiative transfer">
+        radiative transfer
+       </a>
+       .
+      </p>
+      <h2>
+       <span class="mw-headline" id="Basic_theory">
+        Basic theory
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Limb_darkening&amp;action=edit&amp;section=1" title="Edit section: Basic theory">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="thumb tleft">
+       <div class="thumbinner" style="width:258px;">
+        <a class="image" href="/wiki/File:Limb_darkening_layers.svg">
+         <img alt="" class="thumbimage" data-file-height="642" data-file-width="607" height="271" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Limb_darkening_layers.svg/256px-Limb_darkening_layers.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Limb_darkening_layers.svg/384px-Limb_darkening_layers.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Limb_darkening_layers.svg/512px-Limb_darkening_layers.svg.png 2x" width="256"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Limb_darkening_layers.svg" title="Enlarge">
+          </a>
+         </div>
+         An idealized case of limb darkening. The outer boundary is the radius at which photons emitted from the star are no longer absorbed.
+         <i>
+          L
+         </i>
+         is a distance for which the optical depth is unity. High-temperature photons emitted at A will just barely escape from the star, as will the low-temperature photons emitted at B. Note that for a typical star, this drawing is not to scale. E.g., for the
+         <a href="/wiki/Sun" title="Sun">
+          Sun
+         </a>
+         ,
+         <i>
+          L
+         </i>
+         would be only a few hundred km.
+        </div>
+       </div>
+      </div>
+      <p>
+       Crucial to understanding limb darkening is the idea of
+       <a href="/wiki/Optical_depth" title="Optical depth">
+        optical depth
+       </a>
+       . A distance equal to one optical depth is the thickness of the absorbing gas from which a fraction of 1/
+       <a href="/wiki/E_(mathematical_constant)" title="E (mathematical constant)">
+        e
+       </a>
+       <a class="mw-redirect" href="/wiki/Photons" title="Photons">
+        photons
+       </a>
+       can escape. This is what defines the visible edge of a star, since it is at a few optical depths that the star becomes opaque. The radiation reaching us is closely approximated by the sum of all the emission along the entire line of sight, up to that point where the optical depth is unity. In particular, if the intensity of radiation in the star varies linearly with optical depth, then the radiation reaching us will be of the intensity at an optical depth of unity. When we look near the edge of a star, we cannot "see" to the same depth as when we look at the center because the line of sight must travel at an oblique angle through the stellar gas when looking near the limb. In other words, the star radius at which we see the optical depth as being unity increases as we move our line of sight towards the limb.
+      </p>
+      <p>
+       The second effect is the fact that the
+       <a href="/wiki/Effective_temperature" title="Effective temperature">
+        effective temperature
+       </a>
+       of the stellar atmosphere is (usually) decreasing for an increasing distance from the center of the star. The radiation emitted from a gas is a strong function of temperature. For a
+       <a href="/wiki/Black_body" title="Black body">
+        black body
+       </a>
+       , for example, the spectrally integrated intensity is proportional to the fourth power of the temperature (
+       <a href="/wiki/Stefan%E2%80%93Boltzmann_law" title="Stefan–Boltzmann law">
+        Stefan–Boltzmann law
+       </a>
+       ). Since when we look at a star, at first approximation, the radiation comes from the point at which the optical depth is unity, and that point is deeper in when looking at the center, the temperature will be higher, and the intensity will be greater, than when we look at the limb.
+      </p>
+      <p>
+       In fact, the temperature in the atmosphere of a star does not always decrease with increasing height, and for certain
+       <a href="/wiki/Spectral_line" title="Spectral line">
+        spectral lines
+       </a>
+       , the optical depth is unity in a region of increasing temperature. In this case we see the phenomenon of "limb brightening"; for the Sun the existence of a
+       <a class="mw-redirect" href="/wiki/Solar_atmosphere" title="Solar atmosphere">
+        temperature minimum
+       </a>
+       region means that limb brightening should start to dominate at
+       <a class="mw-redirect" href="/wiki/Far-infrared" title="Far-infrared">
+        far-infrared
+       </a>
+       or radio wavelengths. Outside the lower atmosphere, and well above the temperature-minimum region, we find the million-
+       <a href="/wiki/Kelvin" title="Kelvin">
+        kelvin
+       </a>
+       <a class="mw-redirect" href="/wiki/Solar_corona" title="Solar corona">
+        solar corona
+       </a>
+       . For most wavelengths this region is optically thin, i.e. has small
+       <a href="/wiki/Optical_depth" title="Optical depth">
+        optical depth
+       </a>
+       , and must therefore be limb-brightened if spherically symmetric.
+      </p>
+      <p>
+       Further complication comes from the existence of rough (three-dimensional) structure. The classical analysis of stellar limb darkening, as described below, assumes the existence of a smooth hydrostatic equilibrium, and at some level of precision this assumption must fail (most obviously in
+       <a class="mw-redirect" href="/wiki/Sunspots" title="Sunspots">
+        sunspots
+       </a>
+       and
+       <a class="mw-redirect" href="/wiki/Faculae" title="Faculae">
+        faculae
+       </a>
+       , but generally everywhere). Instead, the boundary between the
+       <a href="/wiki/Chromosphere" title="Chromosphere">
+        chromosphere
+       </a>
+       and the
+       <a class="mw-redirect" href="/wiki/Solar_corona" title="Solar corona">
+        corona
+       </a>
+       consists of a very complicated
+       <a href="/wiki/Solar_transition_region" title="Solar transition region">
+        transition region
+       </a>
+       , best observed at ultraviolet wavelengths only detectable from
+       <a href="/wiki/Interface_Region_Imaging_Spectrograph" title="Interface Region Imaging Spectrograph">
+        space
+       </a>
+       .
+      </p>
+      <h2>
+       <span class="mw-headline" id="Calculation_of_limb_darkening">
+        Calculation of limb darkening
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Limb_darkening&amp;action=edit&amp;section=2" title="Edit section: Calculation of limb darkening">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:173px;">
+        <a class="image" href="/wiki/File:Limb_darkening_geometry.svg">
+         <img alt="" class="thumbimage" data-file-height="242" data-file-width="171" height="242" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Limb_darkening_geometry.svg/171px-Limb_darkening_geometry.svg.png" width="171"/>
+        </a>
+        <div class="thumbcaption">
+         Limb darkening geometry. The star is centered at
+         <i>
+          O
+         </i>
+         and has radius
+         <i>
+          R
+         </i>
+         . The observer is at point
+         <i>
+          P
+         </i>
+         a distance
+         <i>
+          r
+         </i>
+         from the center of the star, and is looking at point
+         <i>
+          S
+         </i>
+         on the surface of the star. From the point of view of the observer,
+         <i>
+          S
+         </i>
+         is at an angle θ from a line through the center of the star, and the edge or
+         <i>
+          limb
+         </i>
+         of the star is at angle Ω.
+        </div>
+       </div>
+      </div>
+      <p>
+       In the figure shown here, as long as the observer at point P is outside the stellar atmosphere, the intensity seen in the direction θ will be a function only of the angle of incidence ψ. This is most conveniently approximated as a polynomial in cos ψ:
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle {\frac {I(\psi )}{I(0)}}=\sum _{k=0}^{N}a_{k}\cos ^{k}\psi ,}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mrow class="MJX-TeXAtom-ORD">
+               <mfrac>
+                <mrow>
+                 <mi>
+                  I
+                 </mi>
+                 <mo stretchy="false">
+                  (
+                 </mo>
+                 <mi>
+                  ψ
+                  <!-- ψ -->
+                 </mi>
+                 <mo stretchy="false">
+                  )
+                 </mo>
+                </mrow>
+                <mrow>
+                 <mi>
+                  I
+                 </mi>
+                 <mo stretchy="false">
+                  (
+                 </mo>
+                 <mn>
+                  0
+                 </mn>
+                 <mo stretchy="false">
+                  )
+                 </mo>
+                </mrow>
+               </mfrac>
+              </mrow>
+              <mo>
+               =
+              </mo>
+              <munderover>
+               <mo>
+                ∑
+                <!-- ∑ -->
+               </mo>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 k
+                </mi>
+                <mo>
+                 =
+                </mo>
+                <mn>
+                 0
+                </mn>
+               </mrow>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 N
+                </mi>
+               </mrow>
+              </munderover>
+              <msub>
+               <mi>
+                a
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 k
+                </mi>
+               </mrow>
+              </msub>
+              <msup>
+               <mi>
+                cos
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 k
+                </mi>
+               </mrow>
+              </msup>
+              <mo>
+               ⁡
+               <!-- ⁡ -->
+              </mo>
+              <mi>
+               ψ
+               <!-- ψ -->
+              </mi>
+              <mo>
+               ,
+              </mo>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle {\frac {I(\psi )}{I(0)}}=\sum _{k=0}^{N}a_{k}\cos ^{k}\psi ,}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="{\displaystyle {\frac {I(\psi )}{I(0)}}=\sum _{k=0}^{N}a_{k}\cos ^{k}\psi ,}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5277ad3c8eca58bd0e9f6e709f20598521f4bd0b" style="vertical-align: -3.171ex; width:21.623ex; height:7.509ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       where
+       <i>
+        I
+       </i>
+       (ψ) is the intensity seen at P along a line of sight forming angle ψ with respect to the stellar radius, and
+       <i>
+        I
+       </i>
+       (0) is the central intensity. In order that the ratio be unity for ψ = 0, we must have
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle \sum _{k=0}^{N}a_{k}=1.}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <munderover>
+               <mo>
+                ∑
+                <!-- ∑ -->
+               </mo>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 k
+                </mi>
+                <mo>
+                 =
+                </mo>
+                <mn>
+                 0
+                </mn>
+               </mrow>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 N
+                </mi>
+               </mrow>
+              </munderover>
+              <msub>
+               <mi>
+                a
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 k
+                </mi>
+               </mrow>
+              </msub>
+              <mo>
+               =
+              </mo>
+              <mn>
+               1.
+              </mn>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle \sum _{k=0}^{N}a_{k}=1.}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="{\displaystyle \sum _{k=0}^{N}a_{k}=1.}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/903bd4bf2874875407912b8a8e7193561cc0e935" style="vertical-align: -3.171ex; width:10.968ex; height:7.509ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       For example, for a
+       <a href="/wiki/Lambert%27s_cosine_law" title="Lambert's cosine law">
+        Lambertian
+       </a>
+       radiator (no limb darkening) we will have all
+       <i>
+        a
+       </i>
+       <sub>
+        k
+       </sub>
+       = 0 except
+       <i>
+        a
+       </i>
+       <sub>
+        0
+       </sub>
+       = 1. As another example, for the sun at 550 nm, the limb darkening is well expressed by
+       <i>
+        N
+       </i>
+       = 2 and
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle a_{0}=1-a_{1}-a_{2}=0.3,}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <msub>
+               <mi>
+                a
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mn>
+                 0
+                </mn>
+               </mrow>
+              </msub>
+              <mo>
+               =
+              </mo>
+              <mn>
+               1
+              </mn>
+              <mo>
+               −
+               <!-- − -->
+              </mo>
+              <msub>
+               <mi>
+                a
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mn>
+                 1
+                </mn>
+               </mrow>
+              </msub>
+              <mo>
+               −
+               <!-- − -->
+              </mo>
+              <msub>
+               <mi>
+                a
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mn>
+                 2
+                </mn>
+               </mrow>
+              </msub>
+              <mo>
+               =
+              </mo>
+              <mn>
+               0.3
+              </mn>
+              <mo>
+               ,
+              </mo>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle a_{0}=1-a_{1}-a_{2}=0.3,}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="{\displaystyle a_{0}=1-a_{1}-a_{2}=0.3,}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4954b5df78891009eb3a7ee4847b28b0360fa370" style="vertical-align: -0.671ex; width:23.511ex; height:2.509ex;"/>
+        </span>
+       </dd>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle a_{1}=0.93,}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <msub>
+               <mi>
+                a
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mn>
+                 1
+                </mn>
+               </mrow>
+              </msub>
+              <mo>
+               =
+              </mo>
+              <mn>
+               0.93
+              </mn>
+              <mo>
+               ,
+              </mo>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle a_{1}=0.93,}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="{\displaystyle a_{1}=0.93,}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/12474ed9449242ed29f8e14e9862a0a418cbadd9" style="vertical-align: -0.671ex; width:10.164ex; height:2.509ex;"/>
+        </span>
+       </dd>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle a_{2}=-0.23}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <msub>
+               <mi>
+                a
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mn>
+                 2
+                </mn>
+               </mrow>
+              </msub>
+              <mo>
+               =
+              </mo>
+              <mo>
+               −
+               <!-- − -->
+              </mo>
+              <mn>
+               0.23
+              </mn>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle a_{2}=-0.23}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="{\displaystyle a_{2}=-0.23}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/14bb2d9f521570e413800408c7e597e07f60e1a2" style="vertical-align: -0.671ex; width:11.325ex; height:2.509ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       (See Cox, 2000). The equation for limb darkening is sometimes more conveniently written as
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle {\frac {I(\psi )}{I(0)}}=1+\sum _{k=1}^{N}A_{k}(1-\cos \psi )^{k},}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mrow class="MJX-TeXAtom-ORD">
+               <mfrac>
+                <mrow>
+                 <mi>
+                  I
+                 </mi>
+                 <mo stretchy="false">
+                  (
+                 </mo>
+                 <mi>
+                  ψ
+                  <!-- ψ -->
+                 </mi>
+                 <mo stretchy="false">
+                  )
+                 </mo>
+                </mrow>
+                <mrow>
+                 <mi>
+                  I
+                 </mi>
+                 <mo stretchy="false">
+                  (
+                 </mo>
+                 <mn>
+                  0
+                 </mn>
+                 <mo stretchy="false">
+                  )
+                 </mo>
+                </mrow>
+               </mfrac>
+              </mrow>
+              <mo>
+               =
+              </mo>
+              <mn>
+               1
+              </mn>
+              <mo>
+               +
+              </mo>
+              <munderover>
+               <mo>
+                ∑
+                <!-- ∑ -->
+               </mo>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 k
+                </mi>
+                <mo>
+                 =
+                </mo>
+                <mn>
+                 1
+                </mn>
+               </mrow>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 N
+                </mi>
+               </mrow>
+              </munderover>
+              <msub>
+               <mi>
+                A
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 k
+                </mi>
+               </mrow>
+              </msub>
+              <mo stretchy="false">
+               (
+              </mo>
+              <mn>
+               1
+              </mn>
+              <mo>
+               −
+               <!-- − -->
+              </mo>
+              <mi>
+               cos
+              </mi>
+              <mo>
+               ⁡
+               <!-- ⁡ -->
+              </mo>
+              <mi>
+               ψ
+               <!-- ψ -->
+              </mi>
+              <msup>
+               <mo stretchy="false">
+                )
+               </mo>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 k
+                </mi>
+               </mrow>
+              </msup>
+              <mo>
+               ,
+              </mo>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle {\frac {I(\psi )}{I(0)}}=1+\sum _{k=1}^{N}A_{k}(1-\cos \psi )^{k},}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="{\displaystyle {\frac {I(\psi )}{I(0)}}=1+\sum _{k=1}^{N}A_{k}(1-\cos \psi )^{k},}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/52c51aaf8b9ef0405a6e39e715917fc349373e0f" style="vertical-align: -3.005ex; width:31.565ex; height:7.343ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       which now has
+       <i>
+        N
+       </i>
+       independent coefficients rather than
+       <i>
+        N
+       </i>
+       + 1 coefficients that must sum to unity.
+      </p>
+      <p>
+       The
+       <i>
+        a
+       </i>
+       <sub>
+        k
+       </sub>
+       constants can be related to the
+       <i>
+        A
+       </i>
+       <sub>
+        k
+       </sub>
+       constants. For N = 2,
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle A_{1}=-(a_{1}+2*a_{2}),}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <msub>
+               <mi>
+                A
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mn>
+                 1
+                </mn>
+               </mrow>
+              </msub>
+              <mo>
+               =
+              </mo>
+              <mo>
+               −
+               <!-- − -->
+              </mo>
+              <mo stretchy="false">
+               (
+              </mo>
+              <msub>
+               <mi>
+                a
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mn>
+                 1
+                </mn>
+               </mrow>
+              </msub>
+              <mo>
+               +
+              </mo>
+              <mn>
+               2
+              </mn>
+              <mo>
+               ∗
+               <!-- ∗ -->
+              </mo>
+              <msub>
+               <mi>
+                a
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mn>
+                 2
+                </mn>
+               </mrow>
+              </msub>
+              <mo stretchy="false">
+               )
+              </mo>
+              <mo>
+               ,
+              </mo>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle A_{1}=-(a_{1}+2*a_{2}),}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="{\displaystyle A_{1}=-(a_{1}+2*a_{2}),}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6ef392ddbcd47651b06ad78368b19fc3736258d4" style="vertical-align: -0.838ex; width:20.926ex; height:2.843ex;"/>
+        </span>
+       </dd>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle A_{2}=a_{2}.}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <msub>
+               <mi>
+                A
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mn>
+                 2
+                </mn>
+               </mrow>
+              </msub>
+              <mo>
+               =
+              </mo>
+              <msub>
+               <mi>
+                a
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mn>
+                 2
+                </mn>
+               </mrow>
+              </msub>
+              <mo>
+               .
+              </mo>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle A_{2}=a_{2}.}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="{\displaystyle A_{2}=a_{2}.}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7733a2cde1db9f353862b050be331ea0214e2e7b" style="vertical-align: -0.671ex; width:8.827ex; height:2.509ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       For the sun at 550 nm, we then have
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle A_{1}=-0.47,}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <msub>
+               <mi>
+                A
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mn>
+                 1
+                </mn>
+               </mrow>
+              </msub>
+              <mo>
+               =
+              </mo>
+              <mo>
+               −
+               <!-- − -->
+              </mo>
+              <mn>
+               0.47
+              </mn>
+              <mo>
+               ,
+              </mo>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle A_{1}=-0.47,}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="{\displaystyle A_{1}=-0.47,}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f4365d30422f08ea3aa8f870e2ce9b45122862a9" style="vertical-align: -0.671ex; width:12.485ex; height:2.509ex;"/>
+        </span>
+       </dd>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle A_{2}=-0.23.}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <msub>
+               <mi>
+                A
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mn>
+                 2
+                </mn>
+               </mrow>
+              </msub>
+              <mo>
+               =
+              </mo>
+              <mo>
+               −
+               <!-- − -->
+              </mo>
+              <mn>
+               0.23.
+              </mn>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle A_{2}=-0.23.}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="{\displaystyle A_{2}=-0.23.}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5c2002e210e380f652c5f0821854e09b6ab5bbd6" style="vertical-align: -0.671ex; width:12.485ex; height:2.509ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       This model gives an intensity at the edge of the sun's disk of only 30% of the intensity at the centre of the disk.
+      </p>
+      <p>
+       We can convert these formulas to functions of θ by using the substitution
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle \cos \psi ={\frac {\sqrt {\cos ^{2}\theta -\cos ^{2}\Omega }}{\sin \Omega }}={\sqrt {1-\left({\frac {\sin \theta }{\sin \Omega }}\right)^{2}}},}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mi>
+               cos
+              </mi>
+              <mo>
+               ⁡
+               <!-- ⁡ -->
+              </mo>
+              <mi>
+               ψ
+               <!-- ψ -->
+              </mi>
+              <mo>
+               =
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mfrac>
+                <msqrt>
+                 <msup>
+                  <mi>
+                   cos
+                  </mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mn>
+                    2
+                   </mn>
+                  </mrow>
+                 </msup>
+                 <mo>
+                  ⁡
+                  <!-- ⁡ -->
+                 </mo>
+                 <mi>
+                  θ
+                  <!-- θ -->
+                 </mi>
+                 <mo>
+                  −
+                  <!-- − -->
+                 </mo>
+                 <msup>
+                  <mi>
+                   cos
+                  </mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mn>
+                    2
+                   </mn>
+                  </mrow>
+                 </msup>
+                 <mo>
+                  ⁡
+                  <!-- ⁡ -->
+                 </mo>
+                 <mi mathvariant="normal">
+                  Ω
+                  <!-- Ω -->
+                 </mi>
+                </msqrt>
+                <mrow>
+                 <mi>
+                  sin
+                 </mi>
+                 <mo>
+                  ⁡
+                  <!-- ⁡ -->
+                 </mo>
+                 <mi mathvariant="normal">
+                  Ω
+                  <!-- Ω -->
+                 </mi>
+                </mrow>
+               </mfrac>
+              </mrow>
+              <mo>
+               =
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <msqrt>
+                <mn>
+                 1
+                </mn>
+                <mo>
+                 −
+                 <!-- − -->
+                </mo>
+                <msup>
+                 <mrow>
+                  <mo>
+                   (
+                  </mo>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mfrac>
+                    <mrow>
+                     <mi>
+                      sin
+                     </mi>
+                     <mo>
+                      ⁡
+                      <!-- ⁡ -->
+                     </mo>
+                     <mi>
+                      θ
+                      <!-- θ -->
+                     </mi>
+                    </mrow>
+                    <mrow>
+                     <mi>
+                      sin
+                     </mi>
+                     <mo>
+                      ⁡
+                      <!-- ⁡ -->
+                     </mo>
+                     <mi mathvariant="normal">
+                      Ω
+                      <!-- Ω -->
+                     </mi>
+                    </mrow>
+                   </mfrac>
+                  </mrow>
+                  <mo>
+                   )
+                  </mo>
+                 </mrow>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mn>
+                   2
+                  </mn>
+                 </mrow>
+                </msup>
+               </msqrt>
+              </mrow>
+              <mo>
+               ,
+              </mo>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle \cos \psi ={\frac {\sqrt {\cos ^{2}\theta -\cos ^{2}\Omega }}{\sin \Omega }}={\sqrt {1-\left({\frac {\sin \theta }{\sin \Omega }}\right)^{2}}},}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="{\displaystyle \cos \psi ={\frac {\sqrt {\cos ^{2}\theta -\cos ^{2}\Omega }}{\sin \Omega }}={\sqrt {1-\left({\frac {\sin \theta }{\sin \Omega }}\right)^{2}}},}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a5aa35f0187a22f314e6784aa93576fe608f9fca" style="vertical-align: -3.005ex; width:46.288ex; height:7.676ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       where Ω is the angle from the observer to the limb of the star. For small θ we have
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle \cos \psi \approx {\sqrt {1-\left({\frac {\theta }{\sin \Omega }}\right)^{2}}}.}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mi>
+               cos
+              </mi>
+              <mo>
+               ⁡
+               <!-- ⁡ -->
+              </mo>
+              <mi>
+               ψ
+               <!-- ψ -->
+              </mi>
+              <mo>
+               ≈
+               <!-- ≈ -->
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <msqrt>
+                <mn>
+                 1
+                </mn>
+                <mo>
+                 −
+                 <!-- − -->
+                </mo>
+                <msup>
+                 <mrow>
+                  <mo>
+                   (
+                  </mo>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mfrac>
+                    <mi>
+                     θ
+                     <!-- θ -->
+                    </mi>
+                    <mrow>
+                     <mi>
+                      sin
+                     </mi>
+                     <mo>
+                      ⁡
+                      <!-- ⁡ -->
+                     </mo>
+                     <mi mathvariant="normal">
+                      Ω
+                      <!-- Ω -->
+                     </mi>
+                    </mrow>
+                   </mfrac>
+                  </mrow>
+                  <mo>
+                   )
+                  </mo>
+                 </mrow>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mn>
+                   2
+                  </mn>
+                 </mrow>
+                </msup>
+               </msqrt>
+              </mrow>
+              <mo>
+               .
+              </mo>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle \cos \psi \approx {\sqrt {1-\left({\frac {\theta }{\sin \Omega }}\right)^{2}}}.}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="{\displaystyle \cos \psi \approx {\sqrt {1-\left({\frac {\theta }{\sin \Omega }}\right)^{2}}}.}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/edc01c25eee501ed598cb71f209fd5347c3a0f81" style="vertical-align: -3.005ex; width:25.316ex; height:7.676ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       We see that the derivative of cos ψ is infinite at the edge.
+      </p>
+      <p>
+       The above approximation can be used to derive an
+       <a class="mw-redirect" href="/wiki/Analytic_expression" title="Analytic expression">
+        analytic expression
+       </a>
+       for the ratio of the mean intensity to the central intensity. The mean intensity
+       <i>
+        I
+       </i>
+       <sub>
+        m
+       </sub>
+       is the integral of the intensity over the disk of the star divided by the solid angle subtended by the disk:
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle I_{m}={\frac {\int I(\psi )\,d\omega }{\int d\omega }},}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <msub>
+               <mi>
+                I
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 m
+                </mi>
+               </mrow>
+              </msub>
+              <mo>
+               =
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mfrac>
+                <mrow>
+                 <mo>
+                  ∫
+                  <!-- ∫ -->
+                 </mo>
+                 <mi>
+                  I
+                 </mi>
+                 <mo stretchy="false">
+                  (
+                 </mo>
+                 <mi>
+                  ψ
+                  <!-- ψ -->
+                 </mi>
+                 <mo stretchy="false">
+                  )
+                 </mo>
+                 <mspace width="thinmathspace">
+                 </mspace>
+                 <mi>
+                  d
+                 </mi>
+                 <mi>
+                  ω
+                  <!-- ω -->
+                 </mi>
+                </mrow>
+                <mrow>
+                 <mo>
+                  ∫
+                  <!-- ∫ -->
+                 </mo>
+                 <mi>
+                  d
+                 </mi>
+                 <mi>
+                  ω
+                  <!-- ω -->
+                 </mi>
+                </mrow>
+               </mfrac>
+              </mrow>
+              <mo>
+               ,
+              </mo>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle I_{m}={\frac {\int I(\psi )\,d\omega }{\int d\omega }},}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="{\displaystyle I_{m}={\frac {\int I(\psi )\,d\omega }{\int d\omega }},}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/24ca1e1027e91685f5e59f5f16d0b7ff9c7ae14b" style="vertical-align: -2.838ex; width:16.628ex; height:6.843ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       where dω = sin θ dθ dφ is a solid angle element, and the integrals are over the disk: 0 ≤ φ ≤ 2π and 0 ≤ θ ≤ Ω. We may rewrite this as
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle I_{m}={\frac {\int _{\cos \Omega }^{1}I(\psi )\,d\cos \theta }{\int _{\cos \Omega }^{1}d\cos \theta }}={\frac {\int _{\cos \Omega }^{1}I(\psi )\,d\cos \theta }{1-\cos \Omega }}.}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <msub>
+               <mi>
+                I
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 m
+                </mi>
+               </mrow>
+              </msub>
+              <mo>
+               =
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mfrac>
+                <mrow>
+                 <msubsup>
+                  <mo>
+                   ∫
+                   <!-- ∫ -->
+                  </mo>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mi>
+                    cos
+                   </mi>
+                   <mo>
+                    ⁡
+                    <!-- ⁡ -->
+                   </mo>
+                   <mi mathvariant="normal">
+                    Ω
+                    <!-- Ω -->
+                   </mi>
+                  </mrow>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mn>
+                    1
+                   </mn>
+                  </mrow>
+                 </msubsup>
+                 <mi>
+                  I
+                 </mi>
+                 <mo stretchy="false">
+                  (
+                 </mo>
+                 <mi>
+                  ψ
+                  <!-- ψ -->
+                 </mi>
+                 <mo stretchy="false">
+                  )
+                 </mo>
+                 <mspace width="thinmathspace">
+                 </mspace>
+                 <mi>
+                  d
+                 </mi>
+                 <mi>
+                  cos
+                 </mi>
+                 <mo>
+                  ⁡
+                  <!-- ⁡ -->
+                 </mo>
+                 <mi>
+                  θ
+                  <!-- θ -->
+                 </mi>
+                </mrow>
+                <mrow>
+                 <msubsup>
+                  <mo>
+                   ∫
+                   <!-- ∫ -->
+                  </mo>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mi>
+                    cos
+                   </mi>
+                   <mo>
+                    ⁡
+                    <!-- ⁡ -->
+                   </mo>
+                   <mi mathvariant="normal">
+                    Ω
+                    <!-- Ω -->
+                   </mi>
+                  </mrow>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mn>
+                    1
+                   </mn>
+                  </mrow>
+                 </msubsup>
+                 <mi>
+                  d
+                 </mi>
+                 <mi>
+                  cos
+                 </mi>
+                 <mo>
+                  ⁡
+                  <!-- ⁡ -->
+                 </mo>
+                 <mi>
+                  θ
+                  <!-- θ -->
+                 </mi>
+                </mrow>
+               </mfrac>
+              </mrow>
+              <mo>
+               =
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mfrac>
+                <mrow>
+                 <msubsup>
+                  <mo>
+                   ∫
+                   <!-- ∫ -->
+                  </mo>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mi>
+                    cos
+                   </mi>
+                   <mo>
+                    ⁡
+                    <!-- ⁡ -->
+                   </mo>
+                   <mi mathvariant="normal">
+                    Ω
+                    <!-- Ω -->
+                   </mi>
+                  </mrow>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mn>
+                    1
+                   </mn>
+                  </mrow>
+                 </msubsup>
+                 <mi>
+                  I
+                 </mi>
+                 <mo stretchy="false">
+                  (
+                 </mo>
+                 <mi>
+                  ψ
+                  <!-- ψ -->
+                 </mi>
+                 <mo stretchy="false">
+                  )
+                 </mo>
+                 <mspace width="thinmathspace">
+                 </mspace>
+                 <mi>
+                  d
+                 </mi>
+                 <mi>
+                  cos
+                 </mi>
+                 <mo>
+                  ⁡
+                  <!-- ⁡ -->
+                 </mo>
+                 <mi>
+                  θ
+                  <!-- θ -->
+                 </mi>
+                </mrow>
+                <mrow>
+                 <mn>
+                  1
+                 </mn>
+                 <mo>
+                  −
+                  <!-- − -->
+                 </mo>
+                 <mi>
+                  cos
+                 </mi>
+                 <mo>
+                  ⁡
+                  <!-- ⁡ -->
+                 </mo>
+                 <mi mathvariant="normal">
+                  Ω
+                  <!-- Ω -->
+                 </mi>
+                </mrow>
+               </mfrac>
+              </mrow>
+              <mo>
+               .
+              </mo>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle I_{m}={\frac {\int _{\cos \Omega }^{1}I(\psi )\,d\cos \theta }{\int _{\cos \Omega }^{1}d\cos \theta }}={\frac {\int _{\cos \Omega }^{1}I(\psi )\,d\cos \theta }{1-\cos \Omega }}.}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="{\displaystyle I_{m}={\frac {\int _{\cos \Omega }^{1}I(\psi )\,d\cos \theta }{\int _{\cos \Omega }^{1}d\cos \theta }}={\frac {\int _{\cos \Omega }^{1}I(\psi )\,d\cos \theta }{1-\cos \Omega }}.}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6abdc57ee981ce99b7eeff48836aa505fcebc3d4" style="vertical-align: -3.505ex; width:44.341ex; height:8.176ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       Although this equation can be solved analytically, it is rather cumbersome. However, for an observer at infinite distance from the star,
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle d\cos \theta }" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              d
+             </mi>
+             <mi>
+              cos
+             </mi>
+             <mo>
+              ⁡
+              <!-- ⁡ -->
+             </mo>
+             <mi>
+              θ
+              <!-- θ -->
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle d\cos \theta }
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="{\displaystyle d\cos \theta }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/92e40b6477ce0708dd081de8d071b6feeee484e4" style="vertical-align: -0.338ex; width:6.192ex; height:2.176ex;"/>
+       </span>
+       can be replaced by
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle \sin ^{2}\Omega \cos \psi \,d\cos \psi }" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <msup>
+              <mi>
+               sin
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mn>
+                2
+               </mn>
+              </mrow>
+             </msup>
+             <mo>
+              ⁡
+              <!-- ⁡ -->
+             </mo>
+             <mi mathvariant="normal">
+              Ω
+              <!-- Ω -->
+             </mi>
+             <mi>
+              cos
+             </mi>
+             <mo>
+              ⁡
+              <!-- ⁡ -->
+             </mo>
+             <mi>
+              ψ
+              <!-- ψ -->
+             </mi>
+             <mspace width="thinmathspace">
+             </mspace>
+             <mi>
+              d
+             </mi>
+             <mi>
+              cos
+             </mi>
+             <mo>
+              ⁡
+              <!-- ⁡ -->
+             </mo>
+             <mi>
+              ψ
+              <!-- ψ -->
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle \sin ^{2}\Omega \cos \psi \,d\cos \psi }
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="{\displaystyle \sin ^{2}\Omega \cos \psi \,d\cos \psi }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4e93b5fb32db0fa358c20f3491e15e0f941947f6" style="vertical-align: -0.671ex; width:18.375ex; height:3.009ex;"/>
+       </span>
+       , so we have
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle I_{m}={\frac {\int _{0}^{1}I(\psi )\cos \psi \,d\cos \psi }{\int _{0}^{1}\cos \psi \,d\cos \psi }}=2\int _{0}^{1}I(\psi )\cos \psi \,d\cos \psi ,}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <msub>
+               <mi>
+                I
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 m
+                </mi>
+               </mrow>
+              </msub>
+              <mo>
+               =
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mfrac>
+                <mrow>
+                 <msubsup>
+                  <mo>
+                   ∫
+                   <!-- ∫ -->
+                  </mo>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mn>
+                    0
+                   </mn>
+                  </mrow>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mn>
+                    1
+                   </mn>
+                  </mrow>
+                 </msubsup>
+                 <mi>
+                  I
+                 </mi>
+                 <mo stretchy="false">
+                  (
+                 </mo>
+                 <mi>
+                  ψ
+                  <!-- ψ -->
+                 </mi>
+                 <mo stretchy="false">
+                  )
+                 </mo>
+                 <mi>
+                  cos
+                 </mi>
+                 <mo>
+                  ⁡
+                  <!-- ⁡ -->
+                 </mo>
+                 <mi>
+                  ψ
+                  <!-- ψ -->
+                 </mi>
+                 <mspace width="thinmathspace">
+                 </mspace>
+                 <mi>
+                  d
+                 </mi>
+                 <mi>
+                  cos
+                 </mi>
+                 <mo>
+                  ⁡
+                  <!-- ⁡ -->
+                 </mo>
+                 <mi>
+                  ψ
+                  <!-- ψ -->
+                 </mi>
+                </mrow>
+                <mrow>
+                 <msubsup>
+                  <mo>
+                   ∫
+                   <!-- ∫ -->
+                  </mo>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mn>
+                    0
+                   </mn>
+                  </mrow>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mn>
+                    1
+                   </mn>
+                  </mrow>
+                 </msubsup>
+                 <mi>
+                  cos
+                 </mi>
+                 <mo>
+                  ⁡
+                  <!-- ⁡ -->
+                 </mo>
+                 <mi>
+                  ψ
+                  <!-- ψ -->
+                 </mi>
+                 <mspace width="thinmathspace">
+                 </mspace>
+                 <mi>
+                  d
+                 </mi>
+                 <mi>
+                  cos
+                 </mi>
+                 <mo>
+                  ⁡
+                  <!-- ⁡ -->
+                 </mo>
+                 <mi>
+                  ψ
+                  <!-- ψ -->
+                 </mi>
+                </mrow>
+               </mfrac>
+              </mrow>
+              <mo>
+               =
+              </mo>
+              <mn>
+               2
+              </mn>
+              <msubsup>
+               <mo>
+                ∫
+                <!-- ∫ -->
+               </mo>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mn>
+                 0
+                </mn>
+               </mrow>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mn>
+                 1
+                </mn>
+               </mrow>
+              </msubsup>
+              <mi>
+               I
+              </mi>
+              <mo stretchy="false">
+               (
+              </mo>
+              <mi>
+               ψ
+               <!-- ψ -->
+              </mi>
+              <mo stretchy="false">
+               )
+              </mo>
+              <mi>
+               cos
+              </mi>
+              <mo>
+               ⁡
+               <!-- ⁡ -->
+              </mo>
+              <mi>
+               ψ
+               <!-- ψ -->
+              </mi>
+              <mspace width="thinmathspace">
+              </mspace>
+              <mi>
+               d
+              </mi>
+              <mi>
+               cos
+              </mi>
+              <mo>
+               ⁡
+               <!-- ⁡ -->
+              </mo>
+              <mi>
+               ψ
+               <!-- ψ -->
+              </mi>
+              <mo>
+               ,
+              </mo>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle I_{m}={\frac {\int _{0}^{1}I(\psi )\cos \psi \,d\cos \psi }{\int _{0}^{1}\cos \psi \,d\cos \psi }}=2\int _{0}^{1}I(\psi )\cos \psi \,d\cos \psi ,}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="{\displaystyle I_{m}={\frac {\int _{0}^{1}I(\psi )\cos \psi \,d\cos \psi }{\int _{0}^{1}\cos \psi \,d\cos \psi }}=2\int _{0}^{1}I(\psi )\cos \psi \,d\cos \psi ,}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/16aa899ab5aa6c2d32c44342348f2c7426116c01" style="vertical-align: -3.505ex; width:52.577ex; height:8.176ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       which gives
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle {\frac {I_{m}}{I(0)}}=2\sum _{k=0}^{N}{\frac {a_{k}}{k+2}}.}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mrow class="MJX-TeXAtom-ORD">
+               <mfrac>
+                <msub>
+                 <mi>
+                  I
+                 </mi>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mi>
+                   m
+                  </mi>
+                 </mrow>
+                </msub>
+                <mrow>
+                 <mi>
+                  I
+                 </mi>
+                 <mo stretchy="false">
+                  (
+                 </mo>
+                 <mn>
+                  0
+                 </mn>
+                 <mo stretchy="false">
+                  )
+                 </mo>
+                </mrow>
+               </mfrac>
+              </mrow>
+              <mo>
+               =
+              </mo>
+              <mn>
+               2
+              </mn>
+              <munderover>
+               <mo>
+                ∑
+                <!-- ∑ -->
+               </mo>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 k
+                </mi>
+                <mo>
+                 =
+                </mo>
+                <mn>
+                 0
+                </mn>
+               </mrow>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 N
+                </mi>
+               </mrow>
+              </munderover>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mfrac>
+                <msub>
+                 <mi>
+                  a
+                 </mi>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mi>
+                   k
+                  </mi>
+                 </mrow>
+                </msub>
+                <mrow>
+                 <mi>
+                  k
+                 </mi>
+                 <mo>
+                  +
+                 </mo>
+                 <mn>
+                  2
+                 </mn>
+                </mrow>
+               </mfrac>
+              </mrow>
+              <mo>
+               .
+              </mo>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle {\frac {I_{m}}{I(0)}}=2\sum _{k=0}^{N}{\frac {a_{k}}{k+2}}.}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="{\displaystyle {\frac {I_{m}}{I(0)}}=2\sum _{k=0}^{N}{\frac {a_{k}}{k+2}}.}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/90895069edc9fd566cf92f35b6c5a5a2c23473a5" style="vertical-align: -3.171ex; width:20.067ex; height:7.509ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       For the sun at 550 nm, this says that the average intensity is 80.5% of the intensity at the centre.
+      </p>
+      <h2>
+       <span class="mw-headline" id="References">
+        References
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Limb_darkening&amp;action=edit&amp;section=3" title="Edit section: References">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <cite class="citation book">
+         Billings, Donald E. (1966).
+         <i>
+          A Guide to the Solar Corona
+         </i>
+         . Academic Press, New York.
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=A+Guide+to+the+Solar+Corona&amp;rft.pub=Academic+Press%2C+New+York&amp;rft.date=1966&amp;rft.au=Billings%2C+Donald+E.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALimb+darkening">
+         <span style="display:none;">
+         </span>
+        </span>
+       </li>
+       <li>
+        <cite class="citation book">
+         Cox, Arthur N. (ed) (2000).
+         <i>
+          Allen's Astrophysical Quantities
+         </i>
+         (14th ed.). Springer-Verlag, NY.
+         <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+          ISBN
+         </a>
+         <a href="/wiki/Special:BookSources/0-387-98746-0" title="Special:BookSources/0-387-98746-0">
+          0-387-98746-0
+         </a>
+         .
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Allen%27s+Astrophysical+Quantities&amp;rft.edition=14th&amp;rft.pub=Springer-Verlag%2C+NY&amp;rft.date=2000&amp;rft.isbn=0-387-98746-0&amp;rft.au=Cox%2C+Arthur+N.+%28ed%29&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALimb+darkening">
+         <span style="display:none;">
+         </span>
+        </span>
+        <span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">
+         CS1 maint: Extra text: authors list (
+         <a href="/wiki/Category:CS1_maint:_Extra_text:_authors_list" title="Category:CS1 maint: Extra text: authors list">
+          link
+         </a>
+         )
+        </span>
+       </li>
+       <li>
+        <cite class="citation journal">
+         Milne, E.A. (1921). "Radiative Equilibrium in the Outer Layers of a Star: the Temperature Distribution and the Law of Darkening".
+         <i>
+          MNRAS
+         </i>
+         .
+         <b>
+          81
+         </b>
+         (5): 361–375.
+         <a href="/wiki/Bibcode" title="Bibcode">
+          Bibcode
+         </a>
+         :
+         <a class="external text" href="http://adsabs.harvard.edu/abs/1921MNRAS..81..361M" rel="nofollow">
+          1921MNRAS..81..361M
+         </a>
+         .
+         <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+          doi
+         </a>
+         :
+         <a class="external text" href="//doi.org/10.1093%2Fmnras%2F81.5.361" rel="nofollow">
+          10.1093/mnras/81.5.361
+         </a>
+         .
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=MNRAS&amp;rft.atitle=Radiative+Equilibrium+in+the+Outer+Layers+of+a+Star%3A+the+Temperature+Distribution+and+the+Law+of+Darkening&amp;rft.volume=81&amp;rft.issue=5&amp;rft.pages=361-375&amp;rft.date=1921&amp;rft_id=info%3Adoi%2F10.1093%2Fmnras%2F81.5.361&amp;rft_id=info%3Abibcode%2F1921MNRAS..81..361M&amp;rft.au=Milne%2C+E.A.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALimb+darkening">
+         <span style="display:none;">
+         </span>
+        </span>
+       </li>
+       <li>
+        <cite class="citation journal">
+         Minnaert, M. (1930). "On the Continuous Spectrum of the Corona and its Polarisation".
+         <i>
+          Zeitschrift für Astrophysik
+         </i>
+         .
+         <b>
+          1
+         </b>
+         : 209.
+         <a href="/wiki/Bibcode" title="Bibcode">
+          Bibcode
+         </a>
+         :
+         <a class="external text" href="http://adsabs.harvard.edu/abs/1930ZA......1..209M" rel="nofollow">
+          1930ZA......1..209M
+         </a>
+         .
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Zeitschrift+f%C3%BCr+Astrophysik&amp;rft.atitle=On+the+Continuous+Spectrum+of+the+Corona+and+its+Polarisation&amp;rft.volume=1&amp;rft.pages=209&amp;rft.date=1930&amp;rft_id=info%3Abibcode%2F1930ZA......1..209M&amp;rft.au=Minnaert%2C+M.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALimb+darkening">
+         <span style="display:none;">
+         </span>
+        </span>
+       </li>
+       <li>
+        <cite class="citation journal">
+         Neckel, H.; Labs, D. (1994). "Solar Limb Darkening 1986-1990".
+         <i>
+          Solar Physics
+         </i>
+         .
+         <b>
+          153
+         </b>
+         (1–2): 91–114.
+         <a href="/wiki/Bibcode" title="Bibcode">
+          Bibcode
+         </a>
+         :
+         <a class="external text" href="http://adsabs.harvard.edu/abs/1994SoPh..153...91N" rel="nofollow">
+          1994SoPh..153...91N
+         </a>
+         .
+         <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+          doi
+         </a>
+         :
+         <a class="external text" href="//doi.org/10.1007%2FBF00712494" rel="nofollow">
+          10.1007/BF00712494
+         </a>
+         .
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Solar+Physics&amp;rft.atitle=Solar+Limb+Darkening+1986-1990&amp;rft.volume=153&amp;rft.issue=1%E2%80%932&amp;rft.pages=91-114&amp;rft.date=1994&amp;rft_id=info%3Adoi%2F10.1007%2FBF00712494&amp;rft_id=info%3Abibcode%2F1994SoPh..153...91N&amp;rft.au=Neckel%2C+H.&amp;rft.au=Labs%2C+D.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALimb+darkening">
+         <span style="display:none;">
+         </span>
+        </span>
+       </li>
+       <li>
+        <cite class="citation journal">
+         van de Hulst; H. C. (1950). "The Electron Density of the Solar Corona".
+         <i>
+          Bulletin of the Astronomical Institutes of the Netherlands
+         </i>
+         .
+         <b>
+          11
+         </b>
+         (410): 135.
+         <a href="/wiki/Bibcode" title="Bibcode">
+          Bibcode
+         </a>
+         :
+         <a class="external text" href="http://adsabs.harvard.edu/abs/1950BAN....11..135V" rel="nofollow">
+          1950BAN....11..135V
+         </a>
+         .
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Bulletin+of+the+Astronomical+Institutes+of+the+Netherlands&amp;rft.atitle=The+Electron+Density+of+the+Solar+Corona&amp;rft.volume=11&amp;rft.issue=410&amp;rft.pages=135&amp;rft.date=1950&amp;rft_id=info%3Abibcode%2F1950BAN....11..135V&amp;rft.au=van+de+Hulst&amp;rft.au=H.+C.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALimb+darkening">
+         <span style="display:none;">
+         </span>
+        </span>
+       </li>
+       <li>
+        <cite class="citation book">
+         Mariska, John (1993).
+         <i>
+          The Solar Transition Region
+         </i>
+         . Cambridge University Press, Cambridge.
+         <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+          ISBN
+         </a>
+         <a href="/wiki/Special:BookSources/0521382610" title="Special:BookSources/0521382610">
+          0521382610
+         </a>
+         .
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Solar+Transition+Region&amp;rft.pub=Cambridge+University+Press%2C+Cambridge&amp;rft.date=1993&amp;rft.isbn=0521382610&amp;rft.au=Mariska%2C+John&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALimb+darkening">
+         <span style="display:none;">
+         </span>
+        </span>
+       </li>
+       <li>
+        <cite class="citation journal">
+         Steiner, O. (2007). "Photospheric processes and magnetic flux tubes".
+         <i>
+          AIP Conference Proceedings
+         </i>
+         .
+         <b>
+          919
+         </b>
+         : 74.
+         <a href="/wiki/ArXiv" title="ArXiv">
+          arXiv
+         </a>
+         :
+         <span class="plainlinks">
+          <a class="external text" href="//arxiv.org/abs/0709.0081" rel="nofollow">
+           0709.0081
+          </a>
+          <img alt="Freely accessible" data-file-height="813" data-file-width="512" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" title="Freely accessible" width="9"/>
+         </span>
+         .
+         <a href="/wiki/Bibcode" title="Bibcode">
+          Bibcode
+         </a>
+         :
+         <a class="external text" href="http://adsabs.harvard.edu/abs/2007AIPC..919...74S" rel="nofollow">
+          2007AIPC..919...74S
+         </a>
+         .
+         <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+          doi
+         </a>
+         :
+         <a class="external text" href="//doi.org/10.1063%2F1.2756784" rel="nofollow">
+          10.1063/1.2756784
+         </a>
+         .
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=AIP+Conference+Proceedings&amp;rft.atitle=Photospheric+processes+and+magnetic+flux+tubes&amp;rft.volume=919&amp;rft.pages=74&amp;rft.date=2007&amp;rft_id=info%3Aarxiv%2F0709.0081&amp;rft_id=info%3Adoi%2F10.1063%2F1.2756784&amp;rft_id=info%3Abibcode%2F2007AIPC..919...74S&amp;rft.aulast=Steiner&amp;rft.aufirst=O.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALimb+darkening">
+         <span style="display:none;">
+         </span>
+        </span>
+       </li>
+      </ul>
+      <!-- 
+NewPP limit report
+Parsed by mw1320
+Cached time: 20180314131245
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.116 seconds
+Real time usage: 0.174 seconds
+Preprocessor visited node count: 326/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 12158/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 2/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 648/5000000 bytes
+Lua time usage: 0.050/10.000 seconds
+Lua memory usage: 2.41 MB/50 MB
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   80.538      1 -total
+ 71.16%   57.308      3 Template:Cite_book
+ 28.09%   22.622      5 Template:Cite_journal
+-->
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:1225755-0!canonical!math=5 and timestamp 20180314131245 and revision id 823614110
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Limb_darkening&amp;oldid=823614110">
+      https://en.wikipedia.org/w/index.php?title=Limb_darkening&amp;oldid=823614110
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Stellar_phenomena" title="Category:Stellar phenomena">
+         Stellar phenomena
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Solar_phenomena" title="Category:Solar phenomena">
+         Solar phenomena
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:CS1_maint:_Extra_text:_authors_list" title="Category:CS1 maint: Extra text: authors list">
+         CS1 maint: Extra text: authors list
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Limb+darkening" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Limb+darkening" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Limb_darkening" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Limb_darkening" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="collapsible selected" id="ca-view">
+        <span>
+         <a href="/wiki/Limb_darkening">
+          Read
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Limb_darkening&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Limb_darkening&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Limb_darkening" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Limb_darkening" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Limb_darkening&amp;oldid=823614110" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Limb_darkening&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q772102" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Limb_darkening&amp;id=823614110" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Limb+darkening">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Limb+darkening&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Limb_darkening&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-ar">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%B3%D9%88%D8%A7%D8%AF_%D8%A7%D9%84%D8%A3%D8%B7%D8%B1%D8%A7%D9%81" hreflang="ar" lang="ar" title="سواد الأطراف – Arabic">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Enfosquiment_vers_el_limbe" hreflang="ca" lang="ca" title="Enfosquiment vers el limbe – Catalan">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cs">
+        <a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Okrajov%C3%A9_ztemn%C4%9Bn%C3%AD" hreflang="cs" lang="cs" title="Okrajové ztemnění – Czech">
+         Čeština
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Randverdunkelung" hreflang="de" lang="de" title="Randverdunkelung – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fa">
+        <a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%AA%D8%A7%D8%B1%DB%8C%DA%A9%DB%8C_%D9%84%D8%A8%D9%87" hreflang="fa" lang="fa" title="تاریکی لبه – Persian">
+         فارسی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Assombrissement_centre-bord" hreflang="fr" lang="fr" title="Assombrissement centre-bord – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ko">
+        <a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%A3%BC%EC%97%B0%EA%B0%90%EA%B4%91" hreflang="ko" lang="ko" title="주연감광 – Korean">
+         한국어
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-id">
+        <a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Penggelapan_tepi" hreflang="id" lang="id" title="Penggelapan tepi – Indonesian">
+         Bahasa Indonesia
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Oscuramento_al_bordo" hreflang="it" lang="it" title="Oscuramento al bordo – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-he">
+        <a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%94%D7%90%D7%A4%D7%9C%D7%AA_%D7%A9%D7%A4%D7%94" hreflang="he" lang="he" title="האפלת שפה – Hebrew">
+         עברית
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lb">
+        <a class="interlanguage-link-target" href="https://lb.wikipedia.org/wiki/Randverdonkelung" hreflang="lb" lang="lb" title="Randverdonkelung – Luxembourgish">
+         Lëtzebuergesch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hu">
+        <a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Perems%C3%B6t%C3%A9ted%C3%A9s" hreflang="hu" lang="hu" title="Peremsötétedés – Hungarian">
+         Magyar
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nl">
+        <a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Randverduistering" hreflang="nl" lang="nl" title="Randverduistering – Dutch">
+         Nederlands
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E5%91%A8%E8%BE%BA%E6%B8%9B%E5%85%89" hreflang="ja" lang="ja" title="周辺減光 – Japanese">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-no">
+        <a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Kantform%C3%B8rkelse" hreflang="no" lang="no" title="Kantformørkelse – Norwegian">
+         Norsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pl">
+        <a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Pociemnienie_brzegowe" hreflang="pl" lang="pl" title="Pociemnienie brzegowe – Polish">
+         Polski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Escurecimento_de_bordo" hreflang="pt" lang="pt" title="Escurecimento de bordo – Portuguese">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D1%82%D0%B5%D0%BC%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BA_%D0%BA%D1%80%D0%B0%D1%8E" hreflang="ru" lang="ru" title="Потемнение к краю – Russian">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fi">
+        <a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Reunatummeneminen" hreflang="fi" lang="fi" title="Reunatummeneminen – Finnish">
+         Suomi
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sv">
+        <a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Randf%C3%B6rdunkling" hreflang="sv" lang="sv" title="Randfördunkling – Swedish">
+         Svenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-th">
+        <a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A1%E0%B8%B7%E0%B8%94%E0%B8%84%E0%B8%A5%E0%B9%89%E0%B8%B3%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%82%E0%B8%AD%E0%B8%9A" hreflang="th" lang="th" title="การมืดคล้ำที่ขอบ – Thai">
+         ไทย
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tr">
+        <a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Kenar_kararmas%C4%B1" hreflang="tr" lang="tr" title="Kenar kararması – Turkish">
+         Türkçe
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%91%A8%E9%82%8A%E6%98%8F%E6%9A%97" hreflang="zh" lang="zh" title="周邊昏暗 – Chinese">
+         中文
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q772102#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 2 February 2018, at 09:31.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Limb_darkening&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.116","walltime":"0.174","ppvisitednodes":{"value":326,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":12158,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":2,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":648,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   80.538      1 -total"," 71.16%   57.308      3 Template:Cite_book"," 28.09%   22.622      5 Template:Cite_journal"]},"scribunto":{"limitreport-timeusage":{"value":"0.050","limit":"10.000"},"limitreport-memusage":{"value":2530459,"limit":52428800}},"cachereport":{"origin":"mw1320","timestamp":"20180314131245","ttl":1900800,"transientcontent":false}}});});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":87,"wgHostname":"mw1267"});});
+  </script>
+ </body>
+</html>
