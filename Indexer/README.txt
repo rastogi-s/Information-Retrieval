@@ -54,21 +54,21 @@
 		                      assignment mentioned below]
 		> Four text files   : Unigram-index.txt, Bi-gram-index.txt, Trigram-index.txt, 
 		                      UnigramPosition-index.txt containing textual format of the
-							  unigram inverted index, bigram inverted index, trigram inverted index 
-							  and unigram inverted index with position of each term respectively.
+		                      unigram inverted index, bigram inverted index, trigram inverted index 
+		                      and unigram inverted index with position of each term respectively.
 		> Three text files  : UnigramTfTable.txt, Bi-gramTfTable.txt, TrigramTfTable.txt containing 
 		                      the term frequency table for unigram(n=1), bigram(n=2) and trigram(n=3)
-							  respectively.
+		                      respectively.
 		> Three text files  : UnigramDfTable.txt, Bi-gramDfTable.txt, TrigramDfTable.txt containing 
 		                      the document frequency table for unigram(n=1), bigram(n=2) and trigram(n=3) 
-							  respectively.
-		> One text file     : Stoplist.txt containing the stoplist generated from the indexes -unigram,
+		                      respectively.
+		> One text file     : Stoplist.txt containing the stoplist generated from the indexes -unigram, 
 		                      bigram and trigram and a brief discussion on the cutoff selection and 
-							  contents of the stoplist.
+		                      contents of the stoplist.
 		> One text file     : NoTokensPerDoc.txt containing the number of tokens per document in the 
-							  corpus.
+		                      corpus.
 		> One pickle file   : NoTokensPerDoc.pickle Containing the object of data structure storing the 
-							  number of tokens per document.  
+		                      number of tokens per document.  
 		
 		Total of 20 files
 		
