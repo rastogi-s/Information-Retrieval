@@ -1,0 +1,1782 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Fortition - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Fortition","wgTitle":"Fortition","wgCurRevisionId":715358032,"wgRevisionId":715358032,"wgArticleId":4294794,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Phonology","Linguistic morphology"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Fortition","wgRelevantArticleId":4294794,"wgRequestId":"WnNL6QpAMFsAAKIQuAcAAACE","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q941873","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.31.0-wmf.17" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Fortition" rel="alternate"/>
+  <link href="/w/index.php?title=Fortition&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Fortition&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/Fortition" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Fortition rootpage-Fortition skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Fortition
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <table class="vertical-navbox" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;width:15em;margin:0.5em 0 0.5em 1em;">
+       <tr>
+        <th class="navbox-title" style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em;padding: 0.3em; font-size: 120%;">
+         <a href="/wiki/Sound_change" title="Sound change">
+          Sound change
+         </a>
+         and
+         <a href="/wiki/Alternation_(linguistics)" title="Alternation (linguistics)">
+          alternation
+         </a>
+        </th>
+       </tr>
+       <tr>
+        <td style="padding:0 0.1em 0.4em;text-align: left;">
+         <div class="NavFrame collapsed" style="border:none;padding:0">
+          <div class="NavHead" style="font-size:105%;background:transparent;text-align:left">
+           <a href="/wiki/Metathesis_(linguistics)" title="Metathesis (linguistics)">
+            Metathesis
+           </a>
+          </div>
+          <div class="NavContent plainlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+           <ul>
+            <li>
+             <a href="/wiki/Quantitative_metathesis" title="Quantitative metathesis">
+              Quantitative metathesis
+             </a>
+            </li>
+           </ul>
+          </div>
+         </div>
+        </td>
+       </tr>
+       <tr>
+        <td style="padding:0 0.1em 0.4em;text-align: left;">
+         <div class="NavFrame collapsed" style="border:none;padding:0">
+          <div class="NavHead" style="font-size:105%;background:transparent;text-align:left">
+           <a href="/wiki/Lenition" title="Lenition">
+            Lenition
+           </a>
+          </div>
+          <div class="NavContent plainlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+           <ul>
+            <li>
+             <a href="/wiki/Consonant_gradation" title="Consonant gradation">
+              Consonant gradation
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Consonant_voicing_and_devoicing" title="Consonant voicing and devoicing">
+              Consonant voicing and devoicing
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Assibilation" title="Assibilation">
+              Assibilation
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/L-vocalization" title="L-vocalization">
+              L-vocalization
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Debuccalization" title="Debuccalization">
+              Debuccalization
+             </a>
+            </li>
+           </ul>
+          </div>
+         </div>
+        </td>
+       </tr>
+       <tr>
+        <td style="padding:0 0.1em 0.4em;text-align: left;">
+         <a class="mw-selflink selflink">
+          Fortition
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td style="padding:0 0.1em 0.4em;text-align: left;">
+         <div class="NavFrame collapsed" style="border:none;padding:0">
+          <div class="NavHead" style="font-size:105%;background:transparent;text-align:left">
+           <a href="/wiki/Epenthesis" title="Epenthesis">
+            Epenthesis
+           </a>
+          </div>
+          <div class="NavContent plainlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+           <ul>
+            <li>
+             <a href="/wiki/Prothesis_(linguistics)" title="Prothesis (linguistics)">
+              Prothesis
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Paragoge" title="Paragoge">
+              Paragoge
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Unpacking" title="Unpacking">
+              Unpacking
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Vowel_breaking" title="Vowel breaking">
+              Vowel breaking
+             </a>
+            </li>
+           </ul>
+          </div>
+         </div>
+        </td>
+       </tr>
+       <tr>
+        <td style="padding:0 0.1em 0.4em;text-align: left;">
+         <div class="NavFrame collapsed" style="border:none;padding:0">
+          <div class="NavHead" style="font-size:105%;background:transparent;text-align:left">
+           <a href="/wiki/Elision" title="Elision">
+            Elision
+           </a>
+          </div>
+          <div class="NavContent plainlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+           <ul>
+            <li>
+             <a href="/wiki/Apheresis_(linguistics)" title="Apheresis (linguistics)">
+              Apheresis
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Syncope_(phonology)" title="Syncope (phonology)">
+              Syncope
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Apocope" title="Apocope">
+              Apocope
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Haplology" title="Haplology">
+              Haplology
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Cluster_reduction" title="Cluster reduction">
+              Cluster reduction
+             </a>
+            </li>
+           </ul>
+          </div>
+         </div>
+        </td>
+       </tr>
+       <tr>
+        <td style="padding:0 0.1em 0.4em;text-align: left;">
+         <div class="NavFrame collapsed" style="border:none;padding:0">
+          <div class="NavHead" style="font-size:105%;background:transparent;text-align:left">
+           <a href="/wiki/Cheshirization" title="Cheshirization">
+            Cheshirization
+           </a>
+          </div>
+          <div class="NavContent plainlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+           <ul>
+            <li>
+             <a href="/wiki/Compensatory_lengthening" title="Compensatory lengthening">
+              Compensatory lengthening
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Nasalization" title="Nasalization">
+              Nasalization
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Tone_(linguistics)#Origin" title="Tone (linguistics)">
+              Tonogenesis
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Floating_tone" title="Floating tone">
+              Floating tone
+             </a>
+            </li>
+           </ul>
+          </div>
+         </div>
+        </td>
+       </tr>
+       <tr>
+        <td style="padding:0 0.1em 0.4em;text-align: left;">
+         <div class="NavFrame collapsed" style="border:none;padding:0">
+          <div class="NavHead" style="font-size:105%;background:transparent;text-align:left">
+           <a href="/wiki/Assimilation_(phonology)" title="Assimilation (phonology)">
+            Assimilation
+           </a>
+          </div>
+          <div class="NavContent plainlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+           <ul>
+            <li>
+             <a href="/wiki/Fusion_(phonetics)" title="Fusion (phonetics)">
+              Fusion
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Coarticulation" title="Coarticulation">
+              Coarticulation
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Palatalization_(sound_change)" title="Palatalization (sound change)">
+              Palatalization
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Velarization" title="Velarization">
+              Velarization
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Labialization" title="Labialization">
+              Labialization
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Final-obstruent_devoicing" title="Final-obstruent devoicing">
+              Final devoicing
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Metaphony" title="Metaphony">
+              Metaphony
+             </a>
+             (
+             <a href="/wiki/Vowel_harmony" title="Vowel harmony">
+              vowel harmony
+             </a>
+             ,
+             <a href="/wiki/I-mutation" title="I-mutation">
+              umlaut
+             </a>
+             )
+            </li>
+            <li>
+             <a href="/wiki/Consonant_harmony" title="Consonant harmony">
+              Consonant harmony
+             </a>
+            </li>
+           </ul>
+          </div>
+         </div>
+        </td>
+       </tr>
+       <tr>
+        <td style="padding:0 0.1em 0.4em;text-align: left;">
+         <a href="/wiki/Dissimilation" title="Dissimilation">
+          Dissimilation
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td style="padding:0 0.1em 0.4em;text-align: left;">
+         <div class="NavFrame collapsed" style="border:none;padding:0">
+          <div class="NavHead" style="font-size:105%;background:transparent;text-align:left">
+           <a href="/wiki/Sandhi" title="Sandhi">
+            Sandhi
+           </a>
+          </div>
+          <div class="NavContent plainlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+           <ul>
+            <li>
+             <a href="/wiki/Liaison_(French)" title="Liaison (French)">
+              Liaison
+             </a>
+             ,
+             <a href="/wiki/Linking_and_intrusive_R" title="Linking and intrusive R">
+              linking R
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Consonant_mutation" title="Consonant mutation">
+              Consonant mutation
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Tone_sandhi" title="Tone sandhi">
+              Tone sandhi
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Hiatus_(linguistics)" title="Hiatus (linguistics)">
+              Hiatus
+             </a>
+            </li>
+           </ul>
+           <div class="mw-collapsible mw-collapsed" style="box-sizing:border-box;width:100%;font-size:95%;padding:4px;border:none;">
+            <div style="font-size:100%;line-height:1.6;font-weight:bold;background:transparent;text-align:center;;padding-right: 1em;">
+             <a href="/wiki/Synalepha" title="Synalepha">
+              Synalepha
+             </a>
+            </div>
+            <div class="mw-collapsible-content" style="background:transparent;text-align:left;;text-align:center;">
+             <ul>
+              <li>
+               <a href="/wiki/Elision" title="Elision">
+                Elision
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Crasis" title="Crasis">
+                Crasis
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Synaeresis" title="Synaeresis">
+                Synaeresis
+               </a>
+               and
+               <a href="/wiki/Diaeresis_(prosody)" title="Diaeresis (prosody)">
+                diaeresis
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Synizesis" title="Synizesis">
+                Synizesis
+               </a>
+              </li>
+             </ul>
+            </div>
+           </div>
+          </div>
+         </div>
+        </td>
+       </tr>
+       <tr>
+        <td style="padding:0 0.1em 0.4em;text-align: left;">
+         <div class="NavFrame collapsed" style="border:none;padding:0">
+          <div class="NavHead" style="font-size:105%;background:transparent;text-align:left">
+           Other types
+          </div>
+          <div class="NavContent plainlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+           <ul>
+            <li>
+             <a href="/wiki/Gemination" title="Gemination">
+              Gemination
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Clipping_(phonetics)" title="Clipping (phonetics)">
+              Clipping
+             </a>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/Fronting_(phonology)" title="Fronting (phonology)">
+              Fronting
+             </a>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/Raising_(phonology)" title="Raising (phonology)">
+              Raising
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Iotacism" title="Iotacism">
+              Iotacism
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Lambdacism" title="Lambdacism">
+              Lambdacism
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Relaxed_pronunciation" title="Relaxed pronunciation">
+              Relaxed pronunciation
+             </a>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/Rhotacism_(language_change)" title="Rhotacism (language change)">
+              Rhotacism
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Rhinoglottophilia" title="Rhinoglottophilia">
+              Rhinoglottophilia
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Sulcalization" title="Sulcalization">
+              Sulcalization
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Shm-reduplication" title="Shm-reduplication">
+              Shm-reduplication
+             </a>
+            </li>
+           </ul>
+          </div>
+         </div>
+        </td>
+       </tr>
+       <tr>
+        <td style="text-align:right;font-size:115%;padding-top: 0.6em;border-top:#aaa 1px solid; padding-top: 1px;">
+         <div class="plainlinks hlist navbar mini">
+          <ul>
+           <li class="nv-view">
+            <a href="/wiki/Template:Sound_change" title="Template:Sound change">
+             <abbr title="View this template">
+              v
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-talk">
+            <a href="/wiki/Template_talk:Sound_change" title="Template talk:Sound change">
+             <abbr title="Discuss this template">
+              t
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-edit">
+            <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Sound_change&amp;action=edit">
+             <abbr title="Edit this template">
+              e
+             </abbr>
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+      </table>
+      <p>
+       <b>
+        Fortition
+       </b>
+       is a consonantal change from a 'weak' sound to a 'strong' one, the opposite of the more common
+       <a href="/wiki/Lenition" title="Lenition">
+        lenition
+       </a>
+       . For example, a
+       <a class="mw-redirect" href="/wiki/Fricative" title="Fricative">
+        fricative
+       </a>
+       or an
+       <a class="mw-redirect" href="/wiki/Approximant" title="Approximant">
+        approximant
+       </a>
+       may become a
+       <a href="/wiki/Stop_consonant" title="Stop consonant">
+        stop
+       </a>
+       (i.e.
+       <span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)">
+        [v]
+       </span>
+       becomes
+       <span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)">
+        [b]
+       </span>
+       or
+       <span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)">
+        [r]
+       </span>
+       becomes
+       <span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)">
+        [d]
+       </span>
+       ). Although not as typical of
+       <a href="/wiki/Sound_change" title="Sound change">
+        sound change
+       </a>
+       as lenition, fortition may occur in prominent positions, such as at the beginning of a word or stressed syllable; as an effect of reducing
+       <a href="/wiki/Markedness" title="Markedness">
+        markedness
+       </a>
+       ; or due to
+       <a href="/wiki/Morphological_leveling" title="Morphological leveling">
+        morphological leveling
+       </a>
+       .
+      </p>
+      <p>
+      </p>
+      <div class="toc" id="toc">
+       <div class="toctitle" dir="ltr" lang="en" xml:lang="en">
+        <h2>
+         Contents
+        </h2>
+       </div>
+       <ul>
+        <li class="toclevel-1 tocsection-1">
+         <a href="#Examples">
+          <span class="tocnumber">
+           1
+          </span>
+          <span class="toctext">
+           Examples
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-2">
+         <a href="#Post-nasal_fortition">
+          <span class="tocnumber">
+           2
+          </span>
+          <span class="toctext">
+           Post-nasal fortition
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-3">
+         <a href="#See_also">
+          <span class="tocnumber">
+           3
+          </span>
+          <span class="toctext">
+           See also
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-4">
+         <a href="#References">
+          <span class="tocnumber">
+           4
+          </span>
+          <span class="toctext">
+           References
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <p>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Examples">
+        Examples
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Fortition&amp;action=edit&amp;section=1" title="Edit section: Examples">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       The extremely common approximant sound
+       <span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)">
+        [j]
+       </span>
+       is sometimes subject to fortition; since it is a semivowel, almost any change to the sound other than simple deletion would constitute fortition. It has changed into the
+       <a href="/wiki/Voiced_palatal_fricative" title="Voiced palatal fricative">
+        voiced fricative
+       </a>
+       <span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)">
+        [ʝ]
+       </span>
+       in a number of indigenous languages of the
+       <a href="/wiki/Arctic" title="Arctic">
+        Arctic
+       </a>
+       , such as the
+       <a href="/wiki/Eskimo%E2%80%93Aleut_languages" title="Eskimo–Aleut languages">
+        Eskimo–Aleut languages
+       </a>
+       and
+       <a href="/wiki/Ket_language" title="Ket language">
+        Ket
+       </a>
+       , and also in some varieties of
+       <a href="/wiki/Spanish_language" title="Spanish language">
+        Spanish
+       </a>
+       . Via a
+       <a href="/wiki/Voiceless_palatal_approximant" title="Voiceless palatal approximant">
+        voiceless palatal approximant
+       </a>
+       , it has turned in some
+       <a href="/wiki/Germanic_languages" title="Germanic languages">
+        Germanic languages
+       </a>
+       into
+       <span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)">
+        [ç]
+       </span>
+       , the voiceless equivalent of
+       <span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)">
+        [ʝ]
+       </span>
+       and also cross-linguistically rare though less so than
+       <span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)">
+        [ʝ]
+       </span>
+       . Another change turned
+       <span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)">
+        [j]
+       </span>
+       to an affricate
+       <span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)">
+        [dʒ]
+       </span>
+       during the development of the
+       <a href="/wiki/Romance_languages" title="Romance languages">
+        Romance languages
+       </a>
+       .
+      </p>
+      <p>
+       Fortition of the cross-linguistically rare
+       <a class="mw-redirect" href="/wiki/Interdental_fricatives" title="Interdental fricatives">
+        interdental fricatives
+       </a>
+       <span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)">
+        [θ]
+       </span>
+       and
+       <span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)">
+        [ð]
+       </span>
+       to the almost universal corresponding stops
+       <span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)">
+        [t]
+       </span>
+       and
+       <span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)">
+        [d]
+       </span>
+       is relatively common. This has occurred in most continental
+       <a href="/wiki/Germanic_languages" title="Germanic languages">
+        Germanic languages
+       </a>
+       and several
+       <a class="mw-redirect" href="/wiki/English_dialects" title="English dialects">
+        English dialects
+       </a>
+       , several
+       <a href="/wiki/Uralic_languages" title="Uralic languages">
+        Uralic languages
+       </a>
+       , and a few
+       <a href="/wiki/Semitic_languages" title="Semitic languages">
+        Semitic languages
+       </a>
+       , among others. This has the result of reducing the
+       <a href="/wiki/Markedness" title="Markedness">
+        markedness
+       </a>
+       of the sounds
+       <span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)">
+        [θ]
+       </span>
+       and
+       <span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)">
+        [ð]
+       </span>
+       .
+      </p>
+      <p>
+       Fortition also frequently occurs with voiceless versions of the common
+       <a href="/wiki/Lateral_consonant" title="Lateral consonant">
+        lateral
+       </a>
+       <a class="mw-redirect" href="/wiki/Approximant" title="Approximant">
+        approximant
+       </a>
+       <span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)">
+        [l]
+       </span>
+       , usually sourced from combinations of
+       <span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)">
+        [l]
+       </span>
+       with a voiceless
+       <a href="/wiki/Obstruent" title="Obstruent">
+        obstruent
+       </a>
+       . The product is a
+       <a class="mw-redirect" href="/wiki/Voiceless_alveolar_lateral_fricative" title="Voiceless alveolar lateral fricative">
+        voiceless alveolar lateral fricative
+       </a>
+       <span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)">
+        [ɬ]
+       </span>
+       .
+      </p>
+      <p>
+       In the Cushitic language
+       <a href="/wiki/Iraqw_language" title="Iraqw language">
+        Iraqw
+       </a>
+       , *d has lenited to /r/ between vowels, but *r has undergone fortition to /d/ word initially.
+      </p>
+      <p>
+       In addition to language-internal development, fortition can also occur when a language acquires loanwords.
+       <a class="mw-redirect" href="/wiki/Goidelic" title="Goidelic">
+        Goidelic
+       </a>
+       languages frequently display fortition in loanwords as most initial
+       <a class="mw-redirect" href="/wiki/Fricative" title="Fricative">
+        fricatives
+       </a>
+       (except for
+       <span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)">
+        [s̪]
+       </span>
+       ,
+       <span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)">
+        [ʃ]
+       </span>
+       and
+       <span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)">
+        [f]
+       </span>
+       ) are disallowed in the
+       <a class="mw-redirect" href="/wiki/Dictionary_form" title="Dictionary form">
+        citation form
+       </a>
+       of Goidelic words. Thus initial fricatives of loanwords are strengthened to the corresponding
+       <a href="/wiki/Lenition" title="Lenition">
+        unlenited
+       </a>
+       variant or the nearest equivalent if the fricative is not part of the phoneme inventory.
+      </p>
+      <p>
+       Examples from
+       <a href="/wiki/Scottish_Gaelic" title="Scottish Gaelic">
+        Scottish Gaelic
+       </a>
+       :
+       <sup class="reference" id="cite_ref-1">
+        <a href="#cite_note-1">
+         [1]
+        </a>
+       </sup>
+      </p>
+      <table>
+       <tr>
+        <td>
+         <span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)">
+          /v/
+         </span>
+        </td>
+        <td>
+         →
+         <span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)">
+          /p/
+         </span>
+        </td>
+        <td>
+         <a href="/wiki/Scots_language" title="Scots language">
+          Scots
+         </a>
+         <i>
+          vervane
+         </i>
+         ,
+         <i>
+          werwane
+         </i>
+         ‘
+         <a class="mw-redirect" href="/wiki/Vervain" title="Vervain">
+          vervain
+         </a>
+         ’ →
+         <i>
+          bearbhain
+         </i>
+         <span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)">
+          /pɛɾavɛɲ/
+         </span>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)">
+          /ʍ/
+         </span>
+        </td>
+        <td>
+         →
+         <span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)">
+          /kʰ/
+         </span>
+        </td>
+        <td>
+         <a href="/wiki/Scots_language" title="Scots language">
+          Scots
+         </a>
+         <i>
+          quhel
+         </i>
+         ‘wheel’ →
+         <i>
+          cuidheall
+         </i>
+         <span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)">
+          /kʰujəl̪ˠ/
+         </span>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)">
+          /w/
+         </span>
+        </td>
+        <td>
+         →
+         <span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)">
+          /p/
+         </span>
+        </td>
+        <td>
+         <a href="/wiki/Middle_English" title="Middle English">
+          Middle English
+         </a>
+         <i>
+          wall
+         </i>
+         →
+         <i>
+          balla
+         </i>
+         <span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)">
+          /pal̪ˠə/
+         </span>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)">
+          /f/
+         </span>
+        </td>
+        <td>
+         →
+         <span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)">
+          /p/
+         </span>
+        </td>
+        <td>
+         <a href="/wiki/Latin" title="Latin">
+          Latin
+         </a>
+         <i>
+          fundus
+         </i>
+         →
+         <i>
+          bonn
+         </i>
+         <span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)">
+          /pɔun̪ˠ/
+         </span>
+         (foundation)
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)">
+          /θ/
+         </span>
+        </td>
+        <td>
+         →
+         <span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)">
+          /t̪ʰ/
+         </span>
+        </td>
+        <td>
+         <a class="mw-redirect" href="/wiki/Norse_language" title="Norse language">
+          Norse
+         </a>
+         <i>
+          þrǣll
+         </i>
+         →
+         <i>
+          tràill
+         </i>
+         <span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)">
+          /t̪ʰɾaːʎ/
+         </span>
+         (slave)
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)">
+          /h/
+         </span>
+        </td>
+        <td>
+         →
+         <span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)">
+          /t̪ʰ/
+         </span>
+        </td>
+        <td>
+         <a href="/wiki/Scots_language" title="Scots language">
+          Scots
+         </a>
+         <i>
+          hogsheid
+         </i>
+         ‘
+         <a href="/wiki/Hogshead" title="Hogshead">
+          hogshead
+         </a>
+         ’ →
+         <i>
+          tocasaid
+         </i>
+         <span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)">
+          /t̪ʰɔʰkəs̪ətʲ/
+         </span>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)">
+          /j/
+         </span>
+        </td>
+        <td>
+         →
+         <span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)">
+          /kʲ/
+         </span>
+        </td>
+        <td>
+         <a href="/wiki/English_language" title="English language">
+          English
+         </a>
+         <i>
+          <a href="/wiki/Yawl" title="Yawl">
+           yawl
+          </a>
+         </i>
+         →
+         <i>
+          geòla
+         </i>
+         <span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)">
+          /kʲɔːl̪ˠə/
+         </span>
+        </td>
+       </tr>
+      </table>
+      <h2>
+       <span class="mw-headline" id="Post-nasal_fortition">
+        Post-nasal fortition
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Fortition&amp;action=edit&amp;section=2" title="Edit section: Post-nasal fortition">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       The Spanish voiced stops/fricatives
+       <i>
+        b d y g
+       </i>
+       are strengthened to stops
+       <span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)">
+        [b d ɟʝ ɡ]
+       </span>
+       initially, but also after nasals. Such post-nasal fortition is very common in
+       <a href="/wiki/Bantu_languages" title="Bantu languages">
+        Bantu languages
+       </a>
+       . For example,
+       <a href="/wiki/Swahili_language" title="Swahili language">
+        Swahili
+       </a>
+       <i>
+        l
+       </i>
+       and
+       <i>
+        r
+       </i>
+       become
+       <i>
+        d
+       </i>
+       after a nasal prefix, and
+       <i>
+        w
+       </i>
+       becomes
+       <i>
+        b
+       </i>
+       ; voiceless stops become aspirated. In
+       <a href="/wiki/Shambala_language" title="Shambala language">
+        Shambala
+       </a>
+       ,
+       <i>
+        l
+       </i>
+       and
+       <i>
+        r
+       </i>
+       become
+       <i>
+        d
+       </i>
+       , and
+       <i>
+        h
+       </i>
+       and
+       <i>
+        gh
+       </i>
+       <span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)">
+        [ɣ]
+       </span>
+       become
+       <i>
+        p
+       </i>
+       and
+       <i>
+        g
+       </i>
+       as well. In
+       <a class="mw-redirect" href="/wiki/Bukusu_language" title="Bukusu language">
+        Bukusu
+       </a>
+       ,
+       <i>
+        v
+       </i>
+       <span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)">
+        [β]
+       </span>
+       and
+       <i>
+        w
+       </i>
+       become
+       <i>
+        b
+       </i>
+       ,
+       <i>
+        y
+       </i>
+       becomes
+       <i>
+        j
+       </i>
+       <span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)">
+        [dʒ]
+       </span>
+       , and
+       <i>
+        l, r
+       </i>
+       become
+       <i>
+        d
+       </i>
+       . In other languages, voiceless fricatives
+       <i>
+        f, s, hl
+       </i>
+       become affricates
+       <i>
+        pf, ts, tl
+       </i>
+       ; see for example
+       <a href="/wiki/Xhosa_language" title="Xhosa language">
+        Xhosa
+       </a>
+       .
+       <sup class="reference" id="cite_ref-2">
+        <a href="#cite_note-2">
+         [2]
+        </a>
+       </sup>
+       This is similar to the epenthetic stop in words like
+       <i>
+        dance
+       </i>
+       (
+       <span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)">
+        [ˈdæns ~ ˈdænts]
+       </span>
+       ) in many dialects of English, which effectively is fortition of fricative
+       <span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)">
+        [s]
+       </span>
+       to affricate
+       <span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)">
+        [ts]
+       </span>
+       .
+      </p>
+      <h2>
+       <span class="mw-headline" id="See_also">
+        See also
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Fortition&amp;action=edit&amp;section=3" title="Edit section: See also">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a href="/wiki/Consonant_mutation" title="Consonant mutation">
+         Consonant mutation
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Final-obstruent_devoicing" title="Final-obstruent devoicing">
+         Final-obstruent devoicing
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Grimm%27s_law" title="Grimm's law">
+         Grimm's law
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Historical_linguistics" title="Historical linguistics">
+         Historical linguistics
+        </a>
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/Sesotho_phonology#pp_nasalization" title="Sesotho phonology">
+         Sesotho nasalization
+        </a>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="References">
+        References
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Fortition&amp;action=edit&amp;section=4" title="Edit section: References">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="mw-references-wrap">
+       <ol class="references">
+        <li id="cite_note-1">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-1">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          MacBain, A. (1911)
+          <i>
+           An Etymological Dictionary of the Gaelic Language
+          </i>
+          . Gairm.
+         </span>
+        </li>
+        <li id="cite_note-2">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-2">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          Jeff Mielke, 2008.
+          <i>
+           The emergence of distinctive features
+          </i>
+          , p 139
+          <i>
+           ff
+          </i>
+         </span>
+        </li>
+       </ol>
+      </div>
+      <ul>
+       <li>
+        Crowley, Terry. (1997)
+        <i>
+         An Introduction to Historical Linguistics.
+        </i>
+        3rd edition. Oxford University Press.
+       </li>
+      </ul>
+      <!-- 
+NewPP limit report
+Parsed by mw1322
+Cached time: 20180201163902
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.056 seconds
+Real time usage: 0.078 seconds
+Preprocessor visited node count: 652/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 22640/2097152 bytes
+Template argument size: 522/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 0/500
+Lua time usage: 0.010/10.000 seconds
+Lua memory usage: 743 KB/50 MB
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   42.678      1 -total
+ 81.33%   34.710      1 Template:Sound_change
+ 76.43%   32.620      1 Template:Sidebar_with_collapsible_lists
+ 13.58%    5.796      1 Template:Hidden
+ 10.57%    4.513     51 Template:IPA
+  4.98%    2.125      1 Template:Hidden_begin
+  3.46%    1.476      1 Template:Hidden_end
+-->
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:4294794-0!canonical and timestamp 20180201163902 and revision id 715358032
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Fortition&amp;oldid=715358032">
+      https://en.wikipedia.org/w/index.php?title=Fortition&amp;oldid=715358032
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Phonology" title="Category:Phonology">
+         Phonology
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Linguistic_morphology" title="Category:Linguistic morphology">
+         Linguistic morphology
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Fortition" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Fortition" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Fortition" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Fortition" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="collapsible selected" id="ca-view">
+        <span>
+         <a href="/wiki/Fortition">
+          Read
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Fortition&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Fortition&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Fortition" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Fortition" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Fortition&amp;oldid=715358032" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Fortition&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q941873" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Fortition&amp;id=715358032" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Fortition">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Fortition&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Fortition&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-br">
+        <a class="interlanguage-link-target" href="https://br.wikipedia.org/wiki/Kaletadur_(yezhoniezh)" hreflang="br" lang="br" title="Kaletadur (yezhoniezh) – Breton">
+         Brezhoneg
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Durcissement_(phon%C3%A9tique)" hreflang="fr" lang="fr" title="Durcissement (phonétique) – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-gv">
+        <a class="interlanguage-link-target" href="https://gv.wikipedia.org/wiki/Creoiaghey" hreflang="gv" lang="gv" title="Creoiaghey – Manx">
+         Gaelg
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-gd">
+        <a class="interlanguage-link-target" href="https://gd.wikipedia.org/wiki/Cruadhachadh" hreflang="gd" lang="gd" title="Cruadhachadh – Scottish Gaelic">
+         Gàidhlig
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-la">
+        <a class="interlanguage-link-target" href="https://la.wikipedia.org/wiki/Fortitio" hreflang="la" lang="la" title="Fortitio – Latin">
+         Latina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nl">
+        <a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Fortitie" hreflang="nl" lang="nl" title="Fortitie – Dutch">
+         Nederlands
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Forti%C3%A7%C3%A3o" hreflang="pt" lang="pt" title="Fortição – Portuguese">
+         Português
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q941873#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 15 April 2016, at 08:33.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Fortition&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.056","walltime":"0.078","ppvisitednodes":{"value":652,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":22640,"limit":2097152},"templateargumentsize":{"value":522,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   42.678      1 -total"," 81.33%   34.710      1 Template:Sound_change"," 76.43%   32.620      1 Template:Sidebar_with_collapsible_lists"," 13.58%    5.796      1 Template:Hidden"," 10.57%    4.513     51 Template:IPA","  4.98%    2.125      1 Template:Hidden_begin","  3.46%    1.476      1 Template:Hidden_end"]},"scribunto":{"limitreport-timeusage":{"value":"0.010","limit":"10.000"},"limitreport-memusage":{"value":761215,"limit":52428800}},"cachereport":{"origin":"mw1322","timestamp":"20180201163902","ttl":1900800,"transientcontent":false}}});});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":69,"wgHostname":"mw1256"});});
+  </script>
+ </body>
+</html>

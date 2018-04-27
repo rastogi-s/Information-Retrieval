@@ -1,0 +1,4865 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Dative case - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Dative_case","wgTitle":"Dative case","wgCurRevisionId":816798865,"wgRevisionId":816798865,"wgArticleId":8406,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles containing Ancient Greek-language text","CS1 maint: ASIN uses ISBN","Wikipedia articles needing clarification from September 2016","Wikipedia articles needing clarification from October 2014","Grammatical cases"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Dative_case","wgRelevantArticleId":8406,"wgRequestId":"WnNw7gpAAEAAAJCZuOMAAAAN","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q145599","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.31.0-wmf.17" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Dative_case" rel="alternate"/>
+  <link href="/w/index.php?title=Dative_case&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Dative_case&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/Dative_case" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Dative_case rootpage-Dative_case skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Dative case
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <p>
+       The
+       <b>
+        dative case
+       </b>
+       (
+       <a href="/wiki/List_of_glossing_abbreviations" title="List of glossing abbreviations">
+        abbreviated
+       </a>
+       <span class="smallcaps" style="font-variant:small-caps;">
+        <b>
+         dat
+        </b>
+       </span>
+       , or sometimes
+       <span class="smallcaps" style="font-variant:small-caps;">
+        <b>
+         d
+        </b>
+       </span>
+       when it is a
+       <a class="mw-redirect" href="/wiki/Core_argument" title="Core argument">
+        core argument
+       </a>
+       ) is a
+       <a href="/wiki/Grammatical_case" title="Grammatical case">
+        grammatical case
+       </a>
+       used in some languages to indicate, among other uses, the
+       <a href="/wiki/Noun" title="Noun">
+        noun
+       </a>
+       to which something is given, as in "Maria
+       <em>
+        Jacobo
+       </em>
+       potum dedit", Latin for "Maria gave
+       <em>
+        Jacob
+       </em>
+       a drink". In these examples, the dative marks what would be considered the
+       <a class="mw-redirect" href="/wiki/Indirect_object" title="Indirect object">
+        indirect object
+       </a>
+       of a
+       <a href="/wiki/Verb" title="Verb">
+        verb
+       </a>
+       in English.
+      </p>
+      <p>
+       Sometimes the dative has functions unrelated to giving. In
+       <a class="mw-redirect" href="/wiki/Scottish_Gaelic_language" title="Scottish Gaelic language">
+        Scottish Gaelic
+       </a>
+       and
+       <a href="/wiki/Irish_language" title="Irish language">
+        Irish
+       </a>
+       , the term
+       <i>
+        dative case
+       </i>
+       is used in traditional grammars to refer to the
+       <a href="/wiki/Prepositional_case" title="Prepositional case">
+        prepositional case
+       </a>
+       -marking of nouns following simple
+       <a class="mw-redirect" href="/wiki/Preposition" title="Preposition">
+        prepositions
+       </a>
+       and the definite article. In
+       <a href="/wiki/Georgian_language" title="Georgian language">
+        Georgian
+       </a>
+       , the dative case also marks the subject of the sentence with some verbs and some tenses. This is called the
+       <a href="/wiki/Dative_construction" title="Dative construction">
+        dative construction
+       </a>
+       .
+      </p>
+      <p>
+       The dative was common among early
+       <a href="/wiki/Indo-European_languages" title="Indo-European languages">
+        Indo-European languages
+       </a>
+       and has survived to the present in the
+       <a href="/wiki/Balto-Slavic_languages" title="Balto-Slavic languages">
+        Balto-Slavic
+       </a>
+       branch and the
+       <a href="/wiki/Germanic_languages" title="Germanic languages">
+        Germanic
+       </a>
+       branch, among others. It also exists in similar forms in several non-Indo-European languages, such as the
+       <a href="/wiki/Uralic_languages" title="Uralic languages">
+        Uralic
+       </a>
+       family of languages. In some languages, the dative case has assimilated the functions of other, now extinct cases. In
+       <a href="/wiki/Ancient_Greek" title="Ancient Greek">
+        Ancient Greek
+       </a>
+       , the dative has the functions of the
+       <a href="/wiki/Proto-Indo-European_language" title="Proto-Indo-European language">
+        Proto-Indo-European
+       </a>
+       <a href="/wiki/Locative_case" title="Locative case">
+        locative
+       </a>
+       and
+       <a href="/wiki/Instrumental_case" title="Instrumental case">
+        instrumental
+       </a>
+       as well as those of the original dative.
+      </p>
+      <p>
+       Under the influence of English, which uses the preposition "to" for (among other uses) both indirect objects (
+       <i>
+        give to
+       </i>
+       ) and directions of movement (
+       <i>
+        go to
+       </i>
+       ), the term "dative" has sometimes been used to describe cases that in other languages would more appropriately be called
+       <a href="/wiki/Lative_case" title="Lative case">
+        lative
+       </a>
+       .
+      </p>
+      <p>
+      </p>
+      <div class="toc" id="toc">
+       <div class="toctitle" dir="ltr" lang="en" xml:lang="en">
+        <h2>
+         Contents
+        </h2>
+       </div>
+       <ul>
+        <li class="toclevel-1 tocsection-1">
+         <a href="#Etymology">
+          <span class="tocnumber">
+           1
+          </span>
+          <span class="toctext">
+           Etymology
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-2">
+         <a href="#English">
+          <span class="tocnumber">
+           2
+          </span>
+          <span class="toctext">
+           English
+          </span>
+         </a>
+         <ul>
+          <li class="toclevel-2 tocsection-3">
+           <a href="#Set_expressions">
+            <span class="tocnumber">
+             2.1
+            </span>
+            <span class="toctext">
+             Set expressions
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-4">
+           <a href="#Relic_pronouns">
+            <span class="tocnumber">
+             2.2
+            </span>
+            <span class="toctext">
+             Relic pronouns
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-5">
+           <a href="#Modern_English">
+            <span class="tocnumber">
+             2.3
+            </span>
+            <span class="toctext">
+             Modern English
+            </span>
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="toclevel-1 tocsection-6">
+         <a href="#German">
+          <span class="tocnumber">
+           3
+          </span>
+          <span class="toctext">
+           German
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-7">
+         <a href="#Latin">
+          <span class="tocnumber">
+           4
+          </span>
+          <span class="toctext">
+           Latin
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-8">
+         <a href="#Greek">
+          <span class="tocnumber">
+           5
+          </span>
+          <span class="toctext">
+           Greek
+          </span>
+         </a>
+         <ul>
+          <li class="toclevel-2 tocsection-9">
+           <a href="#Ancient">
+            <span class="tocnumber">
+             5.1
+            </span>
+            <span class="toctext">
+             Ancient
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-10">
+           <a href="#Modern">
+            <span class="tocnumber">
+             5.2
+            </span>
+            <span class="toctext">
+             Modern
+            </span>
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="toclevel-1 tocsection-11">
+         <a href="#Slavic_languages">
+          <span class="tocnumber">
+           6
+          </span>
+          <span class="toctext">
+           Slavic languages
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-12">
+         <a href="#Baltic_languages">
+          <span class="tocnumber">
+           7
+          </span>
+          <span class="toctext">
+           Baltic languages
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-13">
+         <a href="#Armenian">
+          <span class="tocnumber">
+           8
+          </span>
+          <span class="toctext">
+           Armenian
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-14">
+         <a href="#Sanskrit">
+          <span class="tocnumber">
+           9
+          </span>
+          <span class="toctext">
+           Sanskrit
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-15">
+         <a href="#Non-Indo-European_languages">
+          <span class="tocnumber">
+           10
+          </span>
+          <span class="toctext">
+           Non-Indo-European languages
+          </span>
+         </a>
+         <ul>
+          <li class="toclevel-2 tocsection-16">
+           <a href="#Hungarian">
+            <span class="tocnumber">
+             10.1
+            </span>
+            <span class="toctext">
+             Hungarian
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-17">
+           <a href="#Finnish">
+            <span class="tocnumber">
+             10.2
+            </span>
+            <span class="toctext">
+             Finnish
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-18">
+           <a href="#Tsez">
+            <span class="tocnumber">
+             10.3
+            </span>
+            <span class="toctext">
+             Tsez
+            </span>
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="toclevel-1 tocsection-19">
+         <a href="#See_also">
+          <span class="tocnumber">
+           11
+          </span>
+          <span class="toctext">
+           See also
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-20">
+         <a href="#References">
+          <span class="tocnumber">
+           12
+          </span>
+          <span class="toctext">
+           References
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-21">
+         <a href="#External_links">
+          <span class="tocnumber">
+           13
+          </span>
+          <span class="toctext">
+           External links
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <p>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Etymology">
+        Etymology
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Dative_case&amp;action=edit&amp;section=1" title="Edit section: Etymology">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       "Dative" comes from
+       <a href="/wiki/Latin" title="Latin">
+        Latin
+       </a>
+       <i>
+        cāsus datīvus
+       </i>
+       ("case for giving"), a translation of Greek δοτικὴ πτῶσις,
+       <i>
+        dotikē ptôsis
+       </i>
+       ("inflection for giving"),
+       <sup class="reference" id="cite_ref-1">
+        <a href="#cite_note-1">
+         [1]
+        </a>
+       </sup>
+       from its use with the verb
+       <i>
+        didónai
+       </i>
+       "to give".
+       <sup class="reference" id="cite_ref-2">
+        <a href="#cite_note-2">
+         [2]
+        </a>
+       </sup>
+       <a href="/wiki/Dionysius_Thrax" title="Dionysius Thrax">
+        Dionysius Thrax
+       </a>
+       in his
+       <a class="mw-redirect" href="/wiki/Art_of_Grammar" title="Art of Grammar">
+        Art of Grammar
+       </a>
+       also refers to it as
+       <i>
+        epistaltikḗ
+       </i>
+       "for sending (a letter)",
+       <sup class="reference" id="cite_ref-3">
+        <a href="#cite_note-3">
+         [3]
+        </a>
+       </sup>
+       from the verb
+       <i>
+        epistéllō
+       </i>
+       "send to", a word from the same root as
+       <a href="/wiki/Epistle" title="Epistle">
+        epistle
+       </a>
+       .
+      </p>
+      <h2>
+       <span class="mw-headline" id="English">
+        English
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Dative_case&amp;action=edit&amp;section=2" title="Edit section: English">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       The
+       <a class="mw-redirect" href="/wiki/Old_English_language" title="Old English language">
+        Old English language
+       </a>
+       , which continued in use until after the
+       <a class="mw-redirect" href="/wiki/Norman_Conquest" title="Norman Conquest">
+        Norman Conquest
+       </a>
+       of 1066, had a dative case; however, the English case system gradually fell into disuse during the
+       <a href="/wiki/Middle_English" title="Middle English">
+        Middle English
+       </a>
+       period, when the accusative and dative of pronouns merged into a single
+       <a href="/wiki/Oblique_case" title="Oblique case">
+        oblique case
+       </a>
+       that was also used with all prepositions. This conflation of case in Middle and Modern English has led most modern grammarians to discard the "accusative" and "dative" labels as obsolete in reference to English, often using the term "objective" for oblique.
+       <sup class="reference" id="cite_ref-4">
+        <a href="#cite_note-4">
+         [4]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-5">
+        <a href="#cite_note-5">
+         [5]
+        </a>
+       </sup>
+      </p>
+      <h3>
+       <span class="mw-headline" id="Set_expressions">
+        Set expressions
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Dative_case&amp;action=edit&amp;section=3" title="Edit section: Set expressions">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       The dative case is rare in modern English usage, but it can be argued that it survives in a few set expressions. One example is the word "methinks", with the meaning "it seems to me". It survives in this fixed form from Old English (having undergone, however, phonetic changes with the rest of the language), in which it was constructed as "[it]" + "me" (the dative case of the personal pronoun) + "thinks" (i.e., "seems", &lt; Old English þyncan, "to seem", a verb closely related to the verb þencan, "to think", but distinct from it in Old English; later it merged with "think" and lost this meaning).
+      </p>
+      <h3>
+       <span class="mw-headline" id="Relic_pronouns">
+        Relic pronouns
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Dative_case&amp;action=edit&amp;section=4" title="Edit section: Relic pronouns">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       The modern objective case pronoun
+       <a class="mw-redirect" href="/wiki/Whom" title="Whom">
+        whom
+       </a>
+       is derived from the dative case in Old English, specifically the Old English dative pronoun "hwām" (as opposed to the modern subjective "who", which descends from Old English "hwā") — though "whom"
+       <i>
+        also
+       </i>
+       absorbed the functions of the Old English
+       <a href="/wiki/Accusative_case" title="Accusative case">
+        accusative
+       </a>
+       pronoun "hwone". It is also cognate to the word "
+       <i>
+        wem
+       </i>
+       " (the dative form of "
+       <i>
+        wer
+       </i>
+       ") in German. The OED defines all classical uses of the word "whom" in situations where the indirect object
+       <i>
+        is not known
+       </i>
+       <sup class="noprint Inline-Template" style="margin-left:0.1em; white-space:nowrap;">
+        [
+        <i>
+         <a href="/wiki/Wikipedia:Please_clarify" title="Wikipedia:Please clarify">
+          <span title="The text near this tag may need clarification or removal of jargon. (September 2016)">
+           clarification needed
+          </span>
+         </a>
+        </i>
+        ]
+       </sup>
+       – in effect, indicating the anonymity of the indirect object.
+      </p>
+      <p>
+       Likewise, some of the object forms of personal pronouns are remnants of Old English datives. For example, "him" goes back to the Old English dative
+       <i>
+        him
+       </i>
+       (accusative was
+       <i>
+        hine
+       </i>
+       ), and "her" goes back to the dative
+       <i>
+        hire
+       </i>
+       (accusative was
+       <i>
+        hīe
+       </i>
+       ). These pronouns are not datives in modern English; they are also used for functions previously indicated by the accusative.
+      </p>
+      <h3>
+       <span class="mw-headline" id="Modern_English">
+        Modern English
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Dative_case&amp;action=edit&amp;section=5" title="Edit section: Modern English">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       A grammatical "object" is an object
+       <i>
+        of something
+       </i>
+       , either an object
+       <i>
+        of a preposition
+       </i>
+       or an object
+       <i>
+        of a verb
+       </i>
+       . Objects of verbs can be either
+       <i>
+        direct
+       </i>
+       or
+       <i>
+        indirect
+       </i>
+       , while objects of prepositions are neither direct nor indirect. The indirect object of the verb is expressed between the verb and the direct object of the verb: "he gave
+       <b>
+        me
+       </b>
+       a book" or "he wrote
+       <b>
+        me
+       </b>
+       a poem."
+      </p>
+      <p>
+       An indirect object can often be
+       <i>
+        re-worded
+       </i>
+       with a
+       <a href="/wiki/Adpositional_phrase" title="Adpositional phrase">
+        prepositional phrase
+       </a>
+       using "to" or "for", but it is then no longer an indirect object. For example, "He gave a book
+       <b>
+        to me
+       </b>
+       " and "He wrote a poem
+       <b>
+        for me
+       </b>
+       " have the same meaning the examples above, but are now
+       <i>
+        adverbial prepositional phrases
+       </i>
+       . Of course it is not unusual that two
+       <i>
+        different grammatical structures
+       </i>
+       can describe the
+       <i>
+        same situation
+       </i>
+       ; however referring to these
+       <i>
+        prepositional objects
+       </i>
+       mistakenly as
+       <i>
+        indirect objects
+       </i>
+       is a common error.
+      </p>
+      <h2>
+       <span class="mw-headline" id="German">
+        German
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Dative_case&amp;action=edit&amp;section=6" title="Edit section: German">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       In general, the dative (German:
+       <i>
+        Dativ
+       </i>
+       ) is used to mark the
+       <a class="mw-redirect" href="/wiki/Indirect_object" title="Indirect object">
+        indirect object
+       </a>
+       of a
+       <a href="/wiki/German_language" title="German language">
+        German
+       </a>
+       sentence. For example:
+      </p>
+      <ul>
+       <li>
+        <i>
+         Ich schickte
+         <b>
+          dem Mann(e)
+         </b>
+         das Buch.
+        </i>
+        (literally: I sent "to the man" the book.) – Masculine
+       </li>
+       <li>
+        <i>
+         Ich gab
+         <b>
+          der Frau
+         </b>
+         den Stift zurück.
+        </i>
+        (literally: I gave "to the woman" the pencil back.) – Feminine
+       </li>
+       <li>
+        <i>
+         Ich überreiche
+         <b>
+          dem Kind(e)
+         </b>
+         ein Geschenk.
+        </i>
+        (literally: I hand "to the child" a present.) – Neuter
+       </li>
+      </ul>
+      <p>
+       In English, the first sentence can be rendered as "I sent the book
+       <i>
+        to the man
+       </i>
+       " and as "I sent
+       <i>
+        the man
+       </i>
+       the book", where the indirect object is identified in English by standing in front of the direct object. The normal word order in German is to put the dative in front of the accusative (as in the example above). However, since the German dative is marked in form, it can also be put
+       <i>
+        after
+       </i>
+       the accusative:
+       <i>
+        Ich schickte das Buch
+        <b>
+         dem Mann(e)
+        </b>
+       </i>
+       . The
+       <i>
+        <b>
+         (e)
+        </b>
+       </i>
+       after
+       <i>
+        Mann
+       </i>
+       and
+       <i>
+        Kind
+       </i>
+       signifies a now largely archaic -e ending for certain nouns in the dative. It survives today almost exclusively in set phrases such as
+       <i>
+        zu Hause
+       </i>
+       (to the house, lit. going home),
+       <i>
+        im Zuge
+       </i>
+       (in the course of), and
+       <i>
+        am Tage
+       </i>
+       (in the afternoon), as well as in occasional usage in formal prose, poetry, and song lyrics.
+      </p>
+      <p>
+       Some masculine nouns (and one neuter noun,
+       <i>
+        Herz
+       </i>
+       [heart]), referred to as
+       <i>
+        <a href="/wiki/Weak_inflection#Germanic_grammar" title="Weak inflection">
+         weak nouns
+        </a>
+       </i>
+       or
+       <i>
+        n-nouns
+       </i>
+       , take an -n or -en in the dative singular and plural. Many are masculine nouns ending in -e in the nominative (such as
+       <i>
+        Name
+       </i>
+       [name],
+       <i>
+        Beamte
+       </i>
+       [officer], and
+       <i>
+        Junge
+       </i>
+       [boy]), although not all such nouns follow this rule. Many also, whether or not they fall into the former category, refer to people, animals, professions, or titles; exceptions to this include the aforementioned
+       <i>
+        Herz
+       </i>
+       and
+       <i>
+        Name
+       </i>
+       , as well as
+       <i>
+        Buchstabe
+       </i>
+       (letter),
+       <i>
+        Friede
+       </i>
+       (peace),
+       <i>
+        Obelisk
+       </i>
+       (obelisk),
+       <i>
+        Planet
+       </i>
+       (planet), and others.
+      </p>
+      <p>
+       Certain German prepositions require the dative:
+       <i>
+        aus
+       </i>
+       (from),
+       <i>
+        außer
+       </i>
+       (out of),
+       <i>
+        bei
+       </i>
+       (at, near),
+       <i>
+        entgegen
+       </i>
+       (against),
+       <i>
+        gegenüber
+       </i>
+       (opposite),
+       <i>
+        mit
+       </i>
+       (with),
+       <i>
+        nach
+       </i>
+       (after, to),
+       <i>
+        seit
+       </i>
+       (since),
+       <i>
+        von
+       </i>
+       (from), and
+       <i>
+        zu
+       </i>
+       (at, in, to). Some other prepositions (
+       <i>
+        an
+       </i>
+       [at],
+       <i>
+        auf
+       </i>
+       [on],
+       <i>
+        entlang
+       </i>
+       [along],
+       <i>
+        hinter
+       </i>
+       [behind],
+       <i>
+        in
+       </i>
+       [in, into],
+       <i>
+        neben
+       </i>
+       (beside, next to),
+       <i>
+        über
+       </i>
+       [over, across],
+       <i>
+        unter
+       </i>
+       [under, below],
+       <i>
+        vor
+       </i>
+       [in front of], and
+       <i>
+        zwischen
+       </i>
+       [among, between]) may be used with dative (indicating current location), or accusative (indicating direction toward something).
+       <i>
+        Das Buch liegt auf
+        <b>
+         dem
+        </b>
+        Tisch(e)
+       </i>
+       (dative: The book is lying on the table), but
+       <i>
+        Ich lege das Buch auf
+        <b>
+         den
+        </b>
+        Tisch
+       </i>
+       (accusative: I put the book onto the table).
+      </p>
+      <p>
+       In addition the four prepositions
+       <i>
+        [an]statt
+       </i>
+       (in place of),
+       <i>
+        trotz
+       </i>
+       (in spite of),
+       <i>
+        während
+       </i>
+       (during), and
+       <i>
+        wegen
+       </i>
+       (because of) which require the
+       <a class="mw-redirect" href="/wiki/Genitive" title="Genitive">
+        genitive
+       </a>
+       in modern formal language, are most commonly used with the dative in colloquial German. For example, "because of the weather" is expressed as
+       <i>
+        wegen dem Wetter
+       </i>
+       instead of the formally correct
+       <i>
+        wegen des Wetters
+       </i>
+       . Other prepositions requiring the genitive in formal language, are combined with
+       <i>
+        von
+       </i>
+       ("of") in colloquial style, e.g.
+       <i>
+        außerhalb vom Garten
+       </i>
+       instead of
+       <i>
+        außerhalb des Gartens
+       </i>
+       ("outside the garden").
+      </p>
+      <p>
+       Note that the concept of an indirect object may be rendered by a prepositional phrase. In this case, the noun's or pronoun's case is determined by the preposition, NOT by its function in the sentence. Consider this sentence:
+      </p>
+      <ul>
+       <li>
+        <i>
+         Ich sandte das Buch zum Verleger.
+        </i>
+        'I sent the book to the editor.'
+       </li>
+      </ul>
+      <p>
+       Here, the
+       <a href="/wiki/Subject_(grammar)" title="Subject (grammar)">
+        subject
+       </a>
+       ,
+       <i>
+        Ich
+       </i>
+       , is in the
+       <a href="/wiki/Nominative_case" title="Nominative case">
+        nominative case
+       </a>
+       , the direct object,
+       <i>
+        das Buch
+       </i>
+       , is in the
+       <a href="/wiki/Accusative_case" title="Accusative case">
+        accusative case
+       </a>
+       , and
+       <i>
+        zum Verleger
+       </i>
+       is in the dative case, since
+       <i>
+        zu
+       </i>
+       always requires the dative (
+       <i>
+        zum
+       </i>
+       is a contraction of
+       <i>
+        zu
+       </i>
+       +
+       <i>
+        dem
+       </i>
+       ). However:
+      </p>
+      <ul>
+       <li>
+        <i>
+         Ich habe das Buch an meinen Freund (
+        </i>
+        accusative
+        <i>
+         ) weitergegeben.
+        </i>
+        'I forwarded the book to my friend.' (
+        <i>
+         weitergeben
+        </i>
+        = lit.: to give further).
+       </li>
+      </ul>
+      <p>
+       In this sentence,
+       <i>
+        Freund
+       </i>
+       is the indirect object, but, because it follows
+       <i>
+        an
+       </i>
+       (direction), the accusative is required, not the dative.
+      </p>
+      <p>
+       All of the articles change in the dative case.
+      </p>
+      <table class="wikitable">
+       <tr>
+        <th>
+        </th>
+        <th>
+         Masculine
+        </th>
+        <th>
+         Feminine
+        </th>
+        <th>
+         Neuter
+        </th>
+        <th>
+         Plural
+        </th>
+       </tr>
+       <tr>
+        <td>
+         Definite article
+        </td>
+        <td>
+         dem
+        </td>
+        <td>
+         der
+        </td>
+        <td>
+         dem
+        </td>
+        <td>
+         den
+        </td>
+       </tr>
+       <tr>
+        <td>
+         Indefinite article
+        </td>
+        <td>
+         einem
+        </td>
+        <td>
+         einer
+        </td>
+        <td>
+         einem
+        </td>
+        <td>
+         Ø
+        </td>
+       </tr>
+       <tr>
+        <td>
+         Negative articles
+        </td>
+        <td>
+         keinem
+        </td>
+        <td>
+         keiner
+        </td>
+        <td>
+         keinem
+        </td>
+        <td>
+         keinen
+        </td>
+       </tr>
+      </table>
+      <p>
+       Some German verbs require the dative for their
+       <a class="mw-redirect" href="/wiki/Direct_object" title="Direct object">
+        direct objects
+       </a>
+       . Common examples are
+       <i>
+        antworten
+       </i>
+       (to answer),
+       <i>
+        danken
+       </i>
+       (to think),
+       <i>
+        gefallen
+       </i>
+       (to please),
+       <i>
+        folgen
+       </i>
+       (to follow),
+       <i>
+        glauben
+       </i>
+       (to believe),
+       <i>
+        helfen
+       </i>
+       (to help), and
+       <i>
+        raten
+       </i>
+       (to advise). In each case, the direct object of the verb is rendered in the dative. For example:
+      </p>
+      <ul>
+       <li>
+        Meine Freunde helfen
+        <i>
+         mir
+        </i>
+        . (My friends help me.)
+       </li>
+      </ul>
+      <p>
+       These verbs cannot be used in normal passive constructions, because German allows these only for verbs with accusative objects. It is therefore ungrammatical to say: *
+       <i>
+        Ich werde geholfen.
+       </i>
+       "I am helped." Instead a special construction called "impersonal passive" must be used:
+       <i>
+        Mir wird geholfen
+       </i>
+       , literally: "To me is helped." A colloquial (non-standard) and rarely used way to form the passive voice for dative verbs is the following:
+       <i>
+        Ich kriege geholfen
+       </i>
+       , or:
+       <i>
+        Ich bekomme geholfen
+       </i>
+       , literally: "I
+       <b>
+        get
+       </b>
+       helped". The use of the verb "to get" here reminds us that the dative case has something to do with giving and receiving. In German, help is not something you
+       <i>
+        perform on
+       </i>
+       somebody, but rather something you
+       <i>
+        offer
+       </i>
+       them.
+      </p>
+      <p>
+       The dative case is also used with reflexive (
+       <i>
+        sich
+       </i>
+       ) verbs when specifying what part of the self the verb is being done to:
+      </p>
+      <ul>
+       <li>
+        Ich wasche
+        <i>
+         mich
+        </i>
+        . - accusative (I wash myself.)
+       </li>
+       <li>
+        Ich wasche
+        <i>
+         mir die Hände
+        </i>
+        . - dative (I wash my hands, literally "I wash for myself the hands")
+       </li>
+      </ul>
+      <p>
+       Cf. the respective
+       <i>
+        accord
+       </i>
+       in
+       <a href="/wiki/French_language" title="French language">
+        French
+       </a>
+       : "Les enfants se sont lavé
+       <i>
+        <b>
+         s
+        </b>
+       </i>
+       " (
+       <i>
+        the children have washed themselves
+       </i>
+       ) vs. "Les enfants se sont lavé" [uninflected] "les mains" (
+       <i>
+        ... their hands
+       </i>
+       ).
+      </p>
+      <p>
+       German can use two datives to make sentences like:
+       <i>
+        Sei mir meinem Sohn(e) gnädig!
+       </i>
+       "For my sake, have mercy on my son!" Literally: "Be for me to my son merciful." The first dative
+       <i>
+        mir
+       </i>
+       ("for me") expresses the speaker's commiseration (much like the
+       <i>
+        dativus ethicus
+       </i>
+       in Latin, see below). The second dative
+       <i>
+        meinem Sohn(e)
+       </i>
+       ("to my son") names the actual object of the plea. Mercy is to be given
+       <i>
+        to
+       </i>
+       the son
+       <i>
+        for
+       </i>
+       or
+       <i>
+        on behalf of
+       </i>
+       his mother/father.
+      </p>
+      <p>
+       Adjective endings also
+       <a href="/wiki/German_adjectives#Weak_and_strong_inflection" title="German adjectives">
+        change
+       </a>
+       in the dative case. There are three inflection possibilities depending on what precedes the adjective. They most commonly use
+       <i>
+        weak inflection
+       </i>
+       when preceded by a definite article (the),
+       <i>
+        mixed inflection
+       </i>
+       after an indefinite article (a/an), and
+       <i>
+        strong inflection
+       </i>
+       when a quantity is indicated (many green apples).
+      </p>
+      <table class="wikitable">
+       <tr>
+        <th>
+         Adj. in dative case
+        </th>
+        <th>
+         Masculine
+        </th>
+        <th>
+         Feminine
+        </th>
+        <th>
+         Neuter
+        </th>
+        <th>
+         Plural
+        </th>
+       </tr>
+       <tr>
+        <td>
+         Weak inflection
+        </td>
+        <td>
+         -en
+        </td>
+        <td>
+         -en
+        </td>
+        <td>
+         -en
+        </td>
+        <td>
+         -en
+        </td>
+       </tr>
+       <tr>
+        <td>
+         Mixed inflection
+        </td>
+        <td>
+         -en
+        </td>
+        <td>
+         -en
+        </td>
+        <td>
+         -en
+        </td>
+        <td>
+         -en
+        </td>
+       </tr>
+       <tr>
+        <td>
+         Strong inflection
+        </td>
+        <td>
+         -
+         <i>
+          em
+         </i>
+        </td>
+        <td>
+         -
+         <i>
+          er
+         </i>
+        </td>
+        <td>
+         -
+         <i>
+          em
+         </i>
+        </td>
+        <td>
+         -en
+        </td>
+       </tr>
+      </table>
+      <h2>
+       <span class="mw-headline" id="Latin">
+        Latin
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Dative_case&amp;action=edit&amp;section=7" title="Edit section: Latin">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="hatnote navigation-not-searchable" role="note">
+       Further information:
+       <a href="/wiki/Latin_syntax#Examples_of_case_use" title="Latin syntax">
+        Latin syntax § Examples of case use
+       </a>
+      </div>
+      <p>
+       There are several uses for the dative case (
+       <i>
+        Dativus
+       </i>
+       ):
+      </p>
+      <ul>
+       <li>
+        <i>
+         Dativus finalis
+        </i>
+        (
+        <b>
+         dative of purpose
+        </b>
+        ), e.g.
+        <i>
+         <a href="/wiki/Non_scholae_sed_vitae" title="Non scholae sed vitae">
+          non scholae sed vitae
+         </a>
+        </i>
+        – "[we learn] not for school, but for life",
+        <i>
+         auxilio vocare
+        </i>
+        - "to call for help",
+        <i>
+         venio auxilio
+        </i>
+        - "I'm coming for help",
+        <i>
+         accipio dono
+        </i>
+        - "I receive [this] as a gift" or
+        <i>
+         puellae ornamento est
+        </i>
+        - "[this] is for the girl's decoration", or "... for decoration for the girl" (
+        <i>
+         puellae
+        </i>
+        could be either dative or genitive)
+       </li>
+       <li>
+        <i>
+         Dativus commŏdi (incommodi)
+        </i>
+        , which means action for (or against) somebody, e.g.,
+        <i>
+         Graecis agros colere
+        </i>
+        - "to till fields for Greeks"; Combination of Dativus commodi and finalis (
+        <a href="/wiki/Double_dative" title="Double dative">
+         double dative
+        </a>
+        ):
+        <i>
+         tibi laetitiae
+        </i>
+        "to you for joy"
+       </li>
+       <li>
+        <i>
+         Dativus possessivus
+        </i>
+        (
+        <b>
+         possessive dative
+        </b>
+        ) which means possession, e.g.
+        <i>
+         angelis alae sunt
+        </i>
+        - literally "to (or for) the angels are wings", this is typically found with a
+        <a href="/wiki/Copula_(linguistics)" title="Copula (linguistics)">
+         copula
+        </a>
+        and translated as "angels have wings".
+       </li>
+       <li>
+        <i>
+         Dativus ethicus
+        </i>
+        (
+        <b>
+         ethic dative
+        </b>
+        ) indicates that the person in the dative is or should be especially concerned about the action, e.g.
+        <i>
+         Quid mihi Celsus agit?
+        </i>
+        "What is Celsus doing for me?" (expressing the speaker being especially interested in what Celsus is doing for him or her);
+        <sup class="reference" id="cite_ref-6">
+         <a href="#cite_note-6">
+          [6]
+         </a>
+        </sup>
+        or
+        <i>
+         Cui prodest?
+        </i>
+        "Whose interest does this serve?" (literally "To whom does this do good?")
+       </li>
+       <li>
+        <i>
+         Dativus auctoris
+        </i>
+        , meaning; 'in the eyes of', e.g., 'vir bonus mihi videtur' 'he seems to me to be a good man'.
+       </li>
+       <li>
+        The dative expresses agency with the
+        <a href="/wiki/Latin_syntax#The_gerundive" title="Latin syntax">
+         gerundive
+        </a>
+        when the gerundive is used to convey obligation or necessity,
+        <sup class="reference" id="cite_ref-7">
+         <a href="#cite_note-7">
+          [7]
+         </a>
+        </sup>
+        e.g., 'haec nobis agenda sunt,' 'these things must be done by us.'
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="Greek">
+        Greek
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Dative_case&amp;action=edit&amp;section=8" title="Edit section: Greek">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <h3>
+       <span class="mw-headline" id="Ancient">
+        Ancient
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Dative_case&amp;action=edit&amp;section=9" title="Edit section: Ancient">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       In addition to its main function as the
+       <i>
+        dativus
+       </i>
+       , the dative case has other functions in
+       <a class="mw-redirect" href="/wiki/Ancient_Greek_language" title="Ancient Greek language">
+        Classical Greek
+       </a>
+       :
+       <sup class="reference" id="cite_ref-8">
+        <a href="#cite_note-8">
+         [8]
+        </a>
+       </sup>
+       (The chart below uses the Latin names for the types of dative; the Greek name for the dative is δωτική πτώση, like its Latin equivalent, derived from the verb "to give"; in Ancient Greek, δίδωμι.)
+      </p>
+      <ul>
+       <li>
+        <u>
+         Dativus finalis
+        </u>
+        : The
+        <i>
+         dativus finalis
+        </i>
+        , or the 'dative of purpose', is when the dative is used to denote
+        <i>
+         the purpose
+        </i>
+        of a certain action. For example:
+        <ul>
+         <li>
+          "
+          <span lang="grc" xml:lang="grc">
+           <b>
+            τῷ βασιλεῖ
+           </b>
+           μάχομαι
+          </span>
+          "
+          <ul>
+           <li>
+            "I fight
+            <b>
+             for the king
+            </b>
+            ".
+           </li>
+          </ul>
+         </li>
+         <li>
+          "
+          <span lang="grc" xml:lang="grc">
+           θνῄσκω
+           <b>
+            τῇ τιμῇ
+           </b>
+          </span>
+          "
+          <ul>
+           <li>
+            "I die
+            <b>
+             for honour
+            </b>
+            ".
+           </li>
+          </ul>
+         </li>
+        </ul>
+       </li>
+       <li>
+        <u>
+         Dativus commŏdi (incommodi)
+        </u>
+        : The
+        <i>
+         dativus commodi sive incommodi
+        </i>
+        , or the 'dative of benefit (or harm)' is the dative that expresses the advantage or disadvantage of something
+        <i>
+         for someone
+        </i>
+        . For example:
+        <ul>
+         <li>
+          <i>
+           For the benefit of
+          </i>
+          : "
+          <span lang="grc" xml:lang="grc">
+           πᾶς ἀνὴρ
+           <b>
+            αὑτῷ
+           </b>
+           πονεῖ
+          </span>
+          " (
+          <a href="/wiki/Sophocles" title="Sophocles">
+           Sophocles
+          </a>
+          ,
+          <i>
+           <a class="mw-redirect" href="/wiki/Ajax_(Sophocles)" title="Ajax (Sophocles)">
+            Ajax
+           </a>
+          </i>
+          1366).
+          <ul>
+           <li>
+            "Every man toils
+            <b>
+             for himself
+            </b>
+            ".
+           </li>
+          </ul>
+         </li>
+         <li>
+          <i>
+           For the harm or disadvantage of
+          </i>
+          : "
+          <span lang="grc" xml:lang="grc">
+           ἥδε ἡ ἡμέρα
+           <b>
+            τοῖς Ἕλλησι
+           </b>
+           μεγάλων κακῶν ἄρξει.
+          </span>
+          " (
+          <a href="/wiki/Thucydides" title="Thucydides">
+           Thucydides
+          </a>
+          2.12.4).
+          <ul>
+           <li>
+            "This day will be the beginning of great sorrows
+            <b>
+             for the Greeks
+            </b>
+            (i.e., for their disadvantage)".
+           </li>
+          </ul>
+         </li>
+        </ul>
+       </li>
+       <li>
+        <u>
+         Dativus possessivus
+        </u>
+        : The
+        <i>
+         dativus possessivus
+        </i>
+        , or the 'dative of possession' is the dative used to denote
+        <i>
+         the possessor
+        </i>
+        of a certain object or objects. For example:
+        <ul>
+         <li>
+          "
+          <span lang="grc" xml:lang="grc">
+           <b>
+            ἄλλοις
+           </b>
+           μὲν γὰρ χρήματά ἐστι πολλὰ καὶ ἵπποι, ἡμῖν δὲ ξύμμαχοι ἀγαθοί.
+          </span>
+          " (Thucycdides 1.86.3).
+          <ul>
+           <li>
+            "For
+            <b>
+             others have
+            </b>
+            a lot of money and ships and horses, but we have good allies (i.e., To others there is a lot of money...)".
+           </li>
+          </ul>
+         </li>
+        </ul>
+       </li>
+       <li>
+        <u>
+         Dativus ethicus
+        </u>
+        : The
+        <i>
+         dativus ethicus
+        </i>
+        , or the 'ethic or polite dative,' is when the dative is used to signify that the person or thing spoken of is regarded with interest by someone. This dative is mostly, if not exclusively, used in pronouns. As such, it is also called the "dative of pronouns." For example:
+        <ul>
+         <li>
+          "
+          <span lang="grc" xml:lang="grc">
+           τούτῳ πάνυ
+           <b>
+            μοι
+           </b>
+           προσέχετε τὸν νοῦν.
+          </span>
+          " (
+          <a href="/wiki/Demosthenes" title="Demosthenes">
+           Demosthenes
+          </a>
+          18.178).
+          <ul>
+           <li>
+            "Pay close attention to this,
+            <b>
+             I beg you
+            </b>
+            (i.e., please pay..)".
+           </li>
+          </ul>
+         </li>
+         <li>
+          "
+          <span lang="grc" xml:lang="grc">
+           ὦ μῆτερ, ὡς καλός
+           <b>
+            μοι
+           </b>
+           ὁ πάππος.
+          </span>
+          " (
+          <a href="/wiki/Xenophon" title="Xenophon">
+           Xenophon
+          </a>
+          ,
+          <i>
+           <a href="/wiki/Cyropaedia" title="Cyropaedia">
+            Cyropaedia
+           </a>
+          </i>
+          18.178).
+          <ul>
+           <li>
+            "Oh, mother, how handsome grandpa is (
+            <b>
+             I've just realized!
+            </b>
+            )".
+           </li>
+          </ul>
+         </li>
+        </ul>
+       </li>
+       <li>
+        <u>
+         Dativus auctoris
+        </u>
+        : The
+        <i>
+         dativus auctoris
+        </i>
+        , or the 'dative of agent,' is the dative used to denote
+        <i>
+         the doer
+        </i>
+        of an action. Note, however, that in Classical Greek, the agent is usually in the
+        <a href="/wiki/Genitive_case" title="Genitive case">
+         genitive
+        </a>
+        after
+        <span lang="grc" xml:lang="grc">
+         ὑπό
+        </span>
+        (by, at the hands of). The agent is in the dative only with the
+        <a href="/wiki/Perfect_(grammar)" title="Perfect (grammar)">
+         perfect
+        </a>
+        and
+        <a href="/wiki/Pluperfect" title="Pluperfect">
+         pluperfect
+        </a>
+        <a href="/wiki/Passive_voice" title="Passive voice">
+         passive
+        </a>
+        , and after the verbal
+        <a href="/wiki/Adjective" title="Adjective">
+         adjective
+        </a>
+        in
+        <span lang="grc" xml:lang="grc">
+         -τέος
+        </span>
+        . For example:
+        <ul>
+         <li>
+          "
+          <span lang="grc" xml:lang="grc">
+           πολλαὶ θεραπεῖαι
+           <b>
+            τοῖς ἰατροῖς
+           </b>
+           εὕρηνται.
+          </span>
+          " (
+          <a href="/wiki/Isocrates" title="Isocrates">
+           Isocrates
+          </a>
+          8.39)
+          <ul>
+           <li>
+            "Many cures have been discovered
+            <b>
+             by doctors
+            </b>
+            ."
+           </li>
+          </ul>
+         </li>
+        </ul>
+       </li>
+       <li>
+        <u>
+         Dativus instrumenti
+        </u>
+        : The
+        <i>
+         dativus instrumenti
+        </i>
+        , or the 'dative of instrument,' is when the dative is used to denote an instrument or means of a certain action (or, more accurately, as the
+        <a href="/wiki/Instrumental_case" title="Instrumental case">
+         instrumental case
+        </a>
+        ). For example:
+        <ul>
+         <li>
+          "
+          <span lang="grc" xml:lang="grc">
+           με κτείνει
+           <b>
+            δόλῳ
+           </b>
+          </span>
+          ." (
+          <a href="/wiki/Homer" title="Homer">
+           Homer
+          </a>
+          ,
+          <i>
+           <a href="/wiki/Odyssey" title="Odyssey">
+            Odyssey
+           </a>
+          </i>
+          9.407)
+          <ul>
+           <li>
+            "He kills me
+            <b>
+             with a bait
+            </b>
+            (i.e., by means of a bait)."
+           </li>
+          </ul>
+         </li>
+        </ul>
+       </li>
+       <li>
+        <u>
+         Dativus modi
+        </u>
+        : The
+        <i>
+         dativus modi
+        </i>
+        , or the 'dative of manner,' is the dative used to describe
+        <i>
+         the manner or way
+        </i>
+        by which something happened. For example:
+        <ul>
+         <li>
+          "
+          <span lang="grc" xml:lang="grc">
+           <b>
+            νόσῳ
+           </b>
+           ὕστερον ἀποθανόντα.
+          </span>
+          " (Thucydides 8.84)
+          <ul>
+           <li>
+            "having died
+            <b>
+             of
+            </b>
+            (
+            <b>
+             from
+            </b>
+            )
+            <b>
+             a disease
+            </b>
+            ."
+           </li>
+          </ul>
+         </li>
+        </ul>
+       </li>
+       <li>
+        <u>
+         Dativus mensurae
+        </u>
+        : The
+        <i>
+         dativus mensurae
+        </i>
+        , or the 'dative of measurement,' is the dative used to denote
+        <i>
+         the measurement of difference
+        </i>
+        . For example:
+        <ul>
+         <li>
+          "
+          <span lang="grc" xml:lang="grc">
+           <b>
+            τῇ κεφαλῇ
+           </b>
+           μείζονα.
+          </span>
+          " (
+          <a href="/wiki/Plato" title="Plato">
+           Plato
+          </a>
+          ,
+          <i>
+           <a href="/wiki/Phaedo" title="Phaedo">
+            Phaedo
+           </a>
+          </i>
+          101a)
+          <ul>
+           <li>
+            "taller
+            <b>
+             by a head
+            </b>
+            ."
+           </li>
+          </ul>
+         </li>
+         <li>
+          "
+          <span lang="grc" xml:lang="grc">
+           <b>
+            μακρῷ
+           </b>
+           ἄριστος.
+          </span>
+          " (Plato,
+          <i>
+           <a class="mw-redirect" href="/wiki/Laws_(Plato)" title="Laws (Plato)">
+            Laws
+           </a>
+          </i>
+          729d)
+          <ul>
+           <li>
+            "
+            <b>
+             by far
+            </b>
+            the best."
+           </li>
+          </ul>
+         </li>
+        </ul>
+       </li>
+      </ul>
+      <p>
+       The articles in the Greek dative are
+      </p>
+      <table class="wikitable">
+       <tr>
+        <th>
+        </th>
+        <th>
+         Masculine
+        </th>
+        <th>
+         Feminine
+        </th>
+        <th>
+         Neuter
+        </th>
+        <th>
+         Masculine Plural
+        </th>
+        <th>
+         Feminine Plural
+        </th>
+        <th>
+         Neuter Plural
+        </th>
+       </tr>
+       <tr>
+        <td>
+         Definite article
+        </td>
+        <td>
+         ΤΩΙ (τῳ)
+        </td>
+        <td>
+         ΤΗΙ (τῃ)
+        </td>
+        <td>
+         ΤΩΙ (τῳ)
+        </td>
+        <td>
+         ΤΟΙΣ (τοις)
+        </td>
+        <td>
+         ΤΑΙΣ (ταις)
+        </td>
+        <td>
+         ΤΟΙΣ (τοις)
+        </td>
+       </tr>
+       <tr>
+        <td>
+         Indefinite article
+        </td>
+        <td>
+         ΩΙ (ῳ)
+        </td>
+        <td>
+         ΗΙ (ῃ)
+        </td>
+        <td>
+         ΩΙ (ῳ)
+        </td>
+        <td>
+         ΟΙΣ (οις)
+        </td>
+        <td>
+         ΑΙΣ (αις)
+        </td>
+        <td>
+         ΟΙΣ (οις)
+        </td>
+       </tr>
+      </table>
+      <p>
+       Nouns as well as adjectives receive suffixes. These vary according to the
+       <a class="new" href="/w/index.php?title=Ancient_Greek_grammar_(tables)&amp;action=edit&amp;redlink=1" title="Ancient Greek grammar (tables) (page does not exist)">
+        declension
+       </a>
+       .
+      </p>
+      <h3>
+       <span class="mw-headline" id="Modern">
+        Modern
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Dative_case&amp;action=edit&amp;section=10" title="Edit section: Modern">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       The dative case, strictly speaking, no longer exists in Modern Greek, except in fossilized expressions like δόξα τω Θεώ (from the ecclesiastical τῷ Θεῷ δόξα, "Glory to God") or εν τάξει (ἑν τάξει, lit. "in order", i.e. "all right" or "OK"). Otherwise, most of the functions of the dative have been subsumed in the
+       <a href="/wiki/Accusative_case" title="Accusative case">
+        accusative
+       </a>
+       .
+      </p>
+      <h2>
+       <span class="mw-headline" id="Slavic_languages">
+        Slavic languages
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Dative_case&amp;action=edit&amp;section=11" title="Edit section: Slavic languages">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       In
+       <a href="/wiki/Russian_language" title="Russian language">
+        Russian
+       </a>
+       , the dative case is used for indicating the indirect object of an action (that to which something is given, thrown, read, etc.). In the instance where a person is the goal of motion, dative is used instead of
+       <a href="/wiki/Accusative_case" title="Accusative case">
+        accusative
+       </a>
+       to indicate motion toward. This is usually achieved with the preposition
+       <i>
+        κ
+       </i>
+       + destination in dative case;
+       <i>
+        К врачу
+       </i>
+       , meaning "to the doctor."
+      </p>
+      <p>
+       Dative is also the necessary case taken by certain
+       <a class="mw-redirect" href="/wiki/Prepositions" title="Prepositions">
+        prepositions
+       </a>
+       when expressing certain ideas. For instance, when the preposition
+       <i>
+        по
+       </i>
+       is used to mean "along," its object is always in dative case, as in
+       <i>
+        По бокам
+       </i>
+       , meaning "along the sides."
+      </p>
+      <p>
+       Other Slavic languages apply the dative case (and the other cases) more or less the same way as does Russian, some languages may use the dative in other ways. The following examples are from
+       <a href="/wiki/Polish_language" title="Polish language">
+        Polish
+       </a>
+       :
+      </p>
+      <ul>
+       <li>
+        after certain verbs (dziękować
+        <b>
+         komuś
+        </b>
+        "to thank someone", pomóc
+        <b>
+         komuś
+        </b>
+        "to help someone", wierzyć
+        <b>
+         komuś
+        </b>
+        "to believe someone")
+       </li>
+       <li>
+        in certain expressions (Czy podoba
+        <b>
+         ci
+        </b>
+        się piosenka? "Do you like the song?", Jest
+        <b>
+         mi
+        </b>
+        zimno "I'm cold", Jest
+        <b>
+         nam
+        </b>
+        smutno "We're feeling sad", Będzie
+        <b>
+         wam
+        </b>
+        trudniej... "It will be more difficult for you guys"), Śniło
+        <b>
+         jej
+        </b>
+        się, że... "She dreamt that"
+       </li>
+       <li>
+        <i>
+         dativus commodi
+        </i>
+        to indicate action for somebody (Zbuduję t
+        <b>
+         emu
+        </b>
+        człowiek
+        <b>
+         owi
+        </b>
+        dom "I will build a house for this person")
+       </li>
+       <li>
+        when something is taken away or something occurs to someone (Zdechł
+        <b>
+         im
+        </b>
+        pies "Their dog died"; Zabrali
+        <b>
+         mu
+        </b>
+        komputer "They took away his computer"; Zepsuł
+        <b>
+         nam
+        </b>
+        się samochód "Our car broke down"; Coś
+        <b>
+         mi
+        </b>
+        się przypomniało "I just remembered something")
+       </li>
+      </ul>
+      <p>
+       Some other kinds of dative use as found in the
+       <a class="mw-redirect" href="/wiki/Serbo-Croatian_language" title="Serbo-Croatian language">
+        Serbo-Croatian language
+       </a>
+       are:
+       <i>
+        Dativus finalis
+       </i>
+       (
+       <b>
+        Titaniku
+       </b>
+       u pomoć "to Titanic's rescue"),
+       <i>
+        Dativus commodi/incommodi
+       </i>
+       (Operi
+       <b>
+        svojoj majci
+       </b>
+       suđe "Wash the dishes for your mother"),
+       <i>
+        Dativus possessivus
+       </i>
+       (
+       <b>
+        Ovcama
+       </b>
+       je dlaka gusta "Sheep's hair is thick"),
+       <i>
+        Dativus ethicus
+       </i>
+       (Šta
+       <b>
+        mi
+       </b>
+       radi Boni? "What is Boni doing? (I am especially interested in what it is)") and Dativus auctoris (Izgleda
+       <b>
+        mi
+       </b>
+       okej "It seems okay to me").
+      </p>
+      <p>
+       Unusual in other Indo-European branches but common among
+       <a href="/wiki/Slavic_languages" title="Slavic languages">
+        Slavic languages
+       </a>
+       , endings of nouns and adjectives are different based on grammatical function. Other factors are gender and number. In some cases, the ending may not be obvious, even when those three factors (function, gender, number) are considered. For example, in Polish, '
+       <b>
+        syn'
+       </b>
+       ("son") and '
+       <b>
+        ojciec'
+       </b>
+       ("father") are both masculine singular nouns, yet appear as
+       <i>
+        syn → syn
+        <b>
+         owi
+        </b>
+       </i>
+       and
+       <i>
+        ojciec → ojc
+        <b>
+         u
+        </b>
+       </i>
+       in the dative.
+      </p>
+      <h2>
+       <span class="mw-headline" id="Baltic_languages">
+        Baltic languages
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Dative_case&amp;action=edit&amp;section=12" title="Edit section: Baltic languages">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       Both Lithuanian and Latvian have a distinct dative case in the system of nominal declensions.
+      </p>
+      <p>
+       Lithuanian nouns preserve Indo-European inflections in the dative case fairly well: (o-stems) vaikas -&gt; sg. vaikui, pl. vaikams; (ā-stems) ranka -&gt; sg. rankai, pl. rankoms; (i-stems) viltis -&gt; sg. vilčiai, pl. viltims; (u-stems) sūnus -&gt; sg. sūnui, pl. sūnums; (consonant stems) vanduo -&gt; sg. vandeniui, pl. vandenims.
+      </p>
+      <p>
+       Adjectives in the dative case receive pronominal endings (this might be the result of a more recent development): tas geras vaikas -&gt; sg. t
+       <b>
+        am
+       </b>
+       ger
+       <b>
+        am
+       </b>
+       vaikui, pl. t
+       <b>
+        iems
+       </b>
+       ger
+       <b>
+        iems
+       </b>
+       vaikams.
+      </p>
+      <p>
+       The dative case in Latvian underwent further simplifications - the original masculine endings of
+       <i>
+        both
+       </i>
+       nouns and adjectives have been replaced with pronominal inflections: tas vīrs -&gt; sg. tam vīram, pl. tiem vīriem. Also, the final "s" in all Dative forms has been dropped. The only exception is personal pronouns in the plural: mum
+       <b>
+        s
+       </b>
+       (to us), jum
+       <b>
+        s
+       </b>
+       (to you). Note that in colloquial Lithuanian the final "s" in the dative is often omitted, as well: time geriem vaikam.
+      </p>
+      <p>
+       In both Latvian and Lithuanian, the main function of the dative case is to render the indirect object in a sentence: (lt) aš duodu vyrui knygą; (lv) es dodu [duodu] vīram grāmatu -
+       <i>
+        I am giving a book to the man
+       </i>
+       .
+      </p>
+      <p>
+       The dative case can also be used with gerundives to indicate an action preceding or simultaneous with the main action in a sentence: (lt) jam įėjus, visi atsistojo -
+       <i>
+        when he walked in, everybody stood up
+       </i>
+       , lit.
+       <i>
+        to him having walked in, all stood up
+       </i>
+       ; (lt) jai miegant, visi dirbo -
+       <i>
+        while she slept, everybody was working
+       </i>
+       , lit.
+       <i>
+        to her sleeping, all were working
+       </i>
+       .
+      </p>
+      <p>
+       In modern standard Lithuanian, Dative case is not required by prepositions, although in many dialects it is done frequently: (dial.) iki (+D) šiai dienai, (stand.) iki (+G) šios dienos -
+       <i>
+        up until this day
+       </i>
+       .
+      </p>
+      <p>
+       In Latvian, the dative case is taken by several prepositions in the singular and
+       <b>
+        all
+       </b>
+       prepositions in the plural (due to peculiar historical changes): sg. bez (+G) tevis
+       <i>
+        (without thee)
+       </i>
+       ~ pl. bez (+D) jums
+       <i>
+        (without you)
+       </i>
+       ; sg. pa (+A) ceļu
+       <i>
+        (along the road)
+       </i>
+       ~ pl. pa (+D) ceļiem
+       <i>
+        (along the roads)
+       </i>
+       .
+      </p>
+      <h2>
+       <span class="mw-headline" id="Armenian">
+        Armenian
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Dative_case&amp;action=edit&amp;section=13" title="Edit section: Armenian">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       <sup class="noprint Inline-Template" style="margin-left:0.1em; white-space:nowrap;">
+        [
+        <i>
+         <a href="/wiki/Wikipedia:Please_clarify" title="Wikipedia:Please clarify">
+          <span title="The text near this tag may need clarification or removal of jargon. (October 2014)">
+           clarification needed
+          </span>
+         </a>
+        </i>
+        ]
+       </sup>
+      </p>
+      <p>
+       In modern Eastern Armenian, the dative is attained by adding any article to the genitive:
+      </p>
+      <p>
+       <i>
+        dog
+       </i>
+       = շուն
+      </p>
+      <p>
+       GEN &gt; շան
+       <i>
+        (of the dog; dog's)
+       </i>
+       with no articles
+      </p>
+      <p>
+       DAT &gt; շան
+       <b>
+        ը
+       </b>
+       or շան
+       <b>
+        ն
+       </b>
+       <i>
+        (to the dog)
+       </i>
+       with definite articles (-ն if preceding a vowel)
+      </p>
+      <p>
+       DAT &gt;
+       <b>
+        մի
+       </b>
+       շան
+       <i>
+        (to a dog)
+       </i>
+       with indefinite article
+      </p>
+      <p>
+       DAT &gt; շան
+       <b>
+        ս
+       </b>
+       <i>
+        (to my dog)
+       </i>
+       with 1st person possessive article
+      </p>
+      <p>
+       DAT &gt; շան
+       <b>
+        դ
+       </b>
+       <i>
+        (to your dog)
+       </i>
+       with 2nd person possessive article
+      </p>
+      <p>
+       There is a general tendency to view -ին as the standard dative suffix, but only because that is its most productive (and therefore common) form. The suffix -ին as a dative marker is nothing but the standard, most common, genitive suffix -ի accompanied by the definite article -ն. But the dative case encompasses indefinite objects as well, which will not be marked by -ին:
+      </p>
+      <p>
+       Definite DAT &gt; Ես գիրքը տվեցի
+       <b>
+        տղային
+       </b>
+       :
+       <i>
+        (I gave the book
+        <b>
+         to the boy
+        </b>
+        )
+       </i>
+      </p>
+      <p>
+       Indefinite DAT&gt; Ես գիրքը տվեցի
+       <b>
+        մի տղայի
+       </b>
+       :
+       <i>
+        (I gave the book
+        <b>
+         to a boy
+        </b>
+        )
+       </i>
+      </p>
+      <p>
+       The main function of the dative marking in Armenian is to indicate the receiving end of an action, more commonly the indirect object which in English is preceded by the preposition
+       <i>
+        to
+       </i>
+       . In the use of "giving" verbs like
+       <i>
+        give, donate, offer, deliver, sell, bring...
+       </i>
+       the dative marks the recipient. With communicative verbs like
+       <i>
+        tell, say, advise, explain, ask, answer...
+       </i>
+       the dative marks the listener. Other verbs whose indirect objects are marked by the dative case in Armenian are
+       <i>
+        show, reach, look, approach...
+       </i>
+      </p>
+      <p>
+       Eastern Armenian also uses the dative case to mark the time of an event, in the same way English uses the preposition
+       <i>
+        at
+       </i>
+       , as in
+       <i>
+        Meet me at nine o' clock.
+       </i>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Sanskrit">
+        Sanskrit
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Dative_case&amp;action=edit&amp;section=14" title="Edit section: Sanskrit">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       The dative case is known as the "fourth case" (chaturthi-vibhakti) in the usual procedure in the declension of nouns. Its use is mainly for the indirect object as Sanskrit has seven other cases including an instrumental. The term "dative" is grammatically similar to the Sanskrit word "datta". "Datta" means "gift" or "the act of giving".
+      </p>
+      <h2>
+       <span class="mw-headline" id="Non-Indo-European_languages">
+        Non-Indo-European languages
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Dative_case&amp;action=edit&amp;section=15" title="Edit section: Non-Indo-European languages">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <h3>
+       <span class="mw-headline" id="Hungarian">
+        Hungarian
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Dative_case&amp;action=edit&amp;section=16" title="Edit section: Hungarian">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       As with many other languages, the dative case is used in Hungarian to show the indirect object of a verb. For example,
+       <i>
+        <b>
+         Dánielnek
+        </b>
+        adtam ezt a könyvet
+       </i>
+       (I gave this book
+       <b>
+        to Dániel
+       </b>
+       ).
+      </p>
+      <p>
+       It has two suffixes,
+       <i>
+        -nak
+       </i>
+       and
+       <i>
+        -nek
+       </i>
+       ; the correct one is selected by
+       <a href="/wiki/Vowel_harmony" title="Vowel harmony">
+        vowel harmony
+       </a>
+       . The personal dative pronouns follow the
+       <i>
+        -nek
+       </i>
+       version:
+       <i>
+        nekem
+       </i>
+       ,
+       <i>
+        neked
+       </i>
+       , etc.
+      </p>
+      <p>
+       This case is also used to express "for" in certain circumstances, such as "I bought a gift for Mother".
+      </p>
+      <p>
+       In possessive constructions the nak/nek endings are also used but this is NOT the dative form (rather, the
+       <a href="/wiki/Hungarian_noun_phrase#Possessive_construction_with_2_nouns" title="Hungarian noun phrase">
+        attributive or possessive case
+       </a>
+       )
+       <sup class="reference" id="cite_ref-9">
+        <a href="#cite_note-9">
+         [9]
+        </a>
+       </sup>
+      </p>
+      <h3>
+       <span class="mw-headline" id="Finnish">
+        Finnish
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Dative_case&amp;action=edit&amp;section=17" title="Edit section: Finnish">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       Finnish does not have a separate dative case. However, the
+       <a class="mw-redirect" href="/wiki/Allative" title="Allative">
+        allative
+       </a>
+       case can fulfill essentially the same role as dative, beyond its primary meaning of directional movement (that is, going somewhere or approaching someone). For example:
+       <i>
+        He lahjoittivat kaikki rahansa
+        <b>
+         köyhille
+        </b>
+        (They donated all their money
+        <b>
+         to the poor
+        </b>
+        .)
+       </i>
+      </p>
+      <h3>
+       <span class="mw-headline" id="Tsez">
+        Tsez
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Dative_case&amp;action=edit&amp;section=18" title="Edit section: Tsez">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       In the Northeast Caucasian languages, such as
+       <a href="/wiki/Tsez_language" title="Tsez language">
+        Tsez
+       </a>
+       , the dative also takes the functions of the
+       <a href="/wiki/Lative_case" title="Lative case">
+        lative case
+       </a>
+       in marking the direction of an action. By some linguists, they are still regarded as two separate cases in those languages, although the suffixes are exactly the same for both cases. Other linguists list them separately only for the purpose of separating syntactic cases from locative cases. An example with the ditransitive verb "show" (literally: "make see") is given below:
+      </p>
+      <dl>
+       <dd>
+        <table style="border: 1px solid black;">
+         <tr>
+          <td align="center" colspan="4">
+           <b>
+            Кидбā ужихъор кIетIу биквархо.
+           </b>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           <i>
+            kidb-ā
+           </i>
+          </td>
+          <td>
+           <i>
+            uži-qo-r
+           </i>
+          </td>
+          <td>
+           <i>
+            kʼetʼu
+           </i>
+          </td>
+          <td>
+           <i>
+            b-ikʷa-r-xo
+           </i>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           girl
+           <small>
+            :OBL-
+            <a href="/wiki/Ergative_case" title="Ergative case">
+             ERG
+            </a>
+           </small>
+          </td>
+          <td>
+           boy
+           <small>
+            -
+            <a href="/wiki/Tsez_language#Locative_case_suffixes" title="Tsez language">
+             POSS
+            </a>
+            -DAT/LAT
+           </small>
+          </td>
+          <td>
+           cat
+           <small>
+            :
+            <a href="/wiki/Grammatical_gender" title="Grammatical gender">
+             [III]
+            </a>
+            :
+            <a href="/wiki/Absolutive_case" title="Absolutive case">
+             ABS
+            </a>
+           </small>
+          </td>
+          <td>
+           <a href="/wiki/Grammatical_gender" title="Grammatical gender">
+            III
+           </a>
+           -see
+           <small>
+            -
+            <a href="/wiki/Causative" title="Causative">
+             CAUS
+            </a>
+            -
+            <a href="/wiki/Present_tense" title="Present tense">
+             PRES
+            </a>
+           </small>
+          </td>
+         </tr>
+         <tr>
+          <td align="center" colspan="4">
+           "The girl shows the cat to the boy."
+          </td>
+         </tr>
+        </table>
+       </dd>
+      </dl>
+      <p>
+       The dative/lative is also used to indicate possession, as in the example below, because there is no such verb as "to have".
+      </p>
+      <dl>
+       <dd>
+        <table style="border: 1px solid black;">
+         <tr>
+          <td align="center" colspan="4">
+           <b>
+            Кидбехъор кIетIу зовси.
+           </b>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           <i>
+            kidbe-qo-r
+           </i>
+          </td>
+          <td>
+           <i>
+            kʼetʼu
+           </i>
+          </td>
+          <td>
+           <i>
+            zow-si
+           </i>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           girl
+           <small>
+            :OBL-
+            <a href="/wiki/Tsez_language#Locative_case_suffixes" title="Tsez language">
+             POSS
+            </a>
+            -DAT/LAT
+           </small>
+          </td>
+          <td>
+           cat
+           <small>
+            :
+            <a href="/wiki/Absolutive_case" title="Absolutive case">
+             ABS
+            </a>
+           </small>
+          </td>
+          <td>
+           be
+           <small>
+            :PST-
+            <a href="/wiki/Past_tense" title="Past tense">
+             PST
+            </a>
+           </small>
+          </td>
+         </tr>
+         <tr>
+          <td align="center" colspan="3">
+           "The girl had a cat."
+          </td>
+         </tr>
+        </table>
+       </dd>
+      </dl>
+      <p>
+       As in the examples above, the dative/lative case usually occurs in combination with another suffix as poss-lative case; this should not be regarded as a separate case, however, as many of the locative cases in Tsez are constructed analytically; hence, they are, in fact, a combination of two case suffixes. See
+       <a href="/wiki/Tsez_language#Locative_case_suffixes" title="Tsez language">
+        Tsez language#Locative case suffixes
+       </a>
+       for further details.
+      </p>
+      <p>
+       Verbs of perception or emotion (like "see", "know", "love", "want") also require the logical subject to stand in the dative/lative case. Note that in this example the "pure" dative/lative without its POSS-suffix is used.
+      </p>
+      <dl>
+       <dd>
+        <table style="border: 1px solid black;">
+         <tr>
+          <td align="center" colspan="4">
+           <b>
+            ГIалир ПатIи йетих.
+           </b>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           <i>
+            ʻAli-r
+           </i>
+          </td>
+          <td>
+           <i>
+            Patʼi
+           </i>
+          </td>
+          <td>
+           <i>
+            y-eti-x
+           </i>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           Ali
+           <small>
+            -
+            <a href="/wiki/Lative_case" title="Lative case">
+             DAT/LAT
+            </a>
+           </small>
+          </td>
+          <td>
+           Fatima
+           <small>
+            :
+            <a href="/wiki/Grammatical_gender" title="Grammatical gender">
+             [II]
+            </a>
+            :
+            <a href="/wiki/Absolutive_case" title="Absolutive case">
+             ABS
+            </a>
+           </small>
+          </td>
+          <td>
+           <small>
+            <a href="/wiki/Grammatical_gender" title="Grammatical gender">
+             II
+            </a>
+            -
+           </small>
+           love
+           <small>
+            -
+            <a href="/wiki/Present_tense" title="Present tense">
+             PRES
+            </a>
+           </small>
+          </td>
+         </tr>
+         <tr>
+          <td align="center" colspan="3">
+           "Ali loves Fatima."
+          </td>
+         </tr>
+        </table>
+       </dd>
+      </dl>
+      <h2>
+       <span class="mw-headline" id="See_also">
+        See also
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Dative_case&amp;action=edit&amp;section=19" title="Edit section: See also">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a href="/wiki/Dative_construction" title="Dative construction">
+         Dative construction
+        </a>
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/Declension_in_English" title="Declension in English">
+         Declension in English
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Double_dative" title="Double dative">
+         Double dative
+        </a>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="References">
+        References
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Dative_case&amp;action=edit&amp;section=20" title="Edit section: References">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="reflist" style="list-style-type: decimal;">
+       <div class="mw-references-wrap">
+        <ol class="references">
+         <li id="cite_note-1">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-1">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <a class="external text" href="http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=dotiko/s" rel="nofollow">
+            <span lang="grc" xml:lang="grc">
+             δοτικός
+            </span>
+           </a>
+           .
+           <a href="/wiki/Henry_Liddell" title="Henry Liddell">
+            Liddell, Henry George
+           </a>
+           ;
+           <a href="/wiki/Robert_Scott_(philologist)" title="Robert Scott (philologist)">
+            Scott, Robert
+           </a>
+           ;
+           <i>
+            <a href="/wiki/A_Greek%E2%80%93English_Lexicon" title="A Greek–English Lexicon">
+             A Greek–English Lexicon
+            </a>
+           </i>
+           at the
+           <a href="/wiki/Perseus_Project" title="Perseus Project">
+            Perseus Project
+           </a>
+          </span>
+         </li>
+         <li id="cite_note-2">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-2">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <a class="external text" href="http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=dido/nai" rel="nofollow">
+            <span lang="grc" xml:lang="grc">
+             διδόναι
+            </span>
+           </a>
+           in
+           <a href="/wiki/Henry_Liddell" title="Henry Liddell">
+            Liddell
+           </a>
+           and
+           <a href="/wiki/Robert_Scott_(philologist)" title="Robert Scott (philologist)">
+            Scott
+           </a>
+          </span>
+         </li>
+         <li id="cite_note-3">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-3">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           Dionysius Thrax.
+           <a class="external text" href="http://www.hs-augsburg.de/~harsch/graeca/Chronologia/S_ante02/DionysiosThrax/dio_tech.html" rel="nofollow">
+            τέχνη γραμματική
+           </a>
+           (Art of Grammar), section ιβ´ (10b): περὶ ὀνόματος (On the noun). Bibliotheca Augustana.
+          </span>
+         </li>
+         <li id="cite_note-4">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-4">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://grammar.about.com/od/mo/g/objcaseterm.htm" rel="nofollow">
+             "Objective case (grammar)"
+            </a>
+            .
+            <i>
+             (about) education
+            </i>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              2016-01-29
+             </span>
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=%28about%29+education&amp;rft.atitle=Objective+case+%28grammar%29&amp;rft_id=http%3A%2F%2Fgrammar.about.com%2Fod%2Fmo%2Fg%2Fobjcaseterm.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADative+case">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-5">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-5">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.oxforddictionaries.com/definition/english/personal-pronoun#personal-pronoun__5" rel="nofollow">
+             "Personal pronoun"
+            </a>
+            .
+            <i>
+             Oxford Dictionaries
+            </i>
+            . Oxford University Press
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              2016-01-29
+             </span>
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Oxford+Dictionaries&amp;rft.atitle=Personal+pronoun&amp;rft_id=http%3A%2F%2Fwww.oxforddictionaries.com%2Fdefinition%2Fenglish%2Fpersonal-pronoun%23personal-pronoun__5&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADative+case">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-6">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-6">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            "Generating &amp; parsing clitics with getarun".
+            <a href="/wiki/CiteSeerX" title="CiteSeerX">
+             CiteSeerX
+            </a>
+            <span class="plainlinks">
+             <a class="external text" href="//citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.28.10" rel="nofollow">
+              10.1.1.28.10
+             </a>
+             <img alt="Freely accessible" data-file-height="813" data-file-width="512" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" title="Freely accessible" width="9"/>
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Generating+%26+parsing+clitics+with+getarun&amp;rft_id=%2F%2Fciteseerx.ist.psu.edu%2Fviewdoc%2Fsummary%3Fdoi%3D10.1.1.28.10&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADative+case">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-7">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-7">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation" id="CITEREFWheelock2011">
+            Wheelock, Frederic (2011),
+            <i>
+             Wheelock's Latin
+            </i>
+            , New York: HarperCollins, p. 195,
+            <a href="/wiki/Amazon_Standard_Identification_Number" title="Amazon Standard Identification Number">
+             ASIN
+            </a>
+            <a class="external text" href="//www.amazon.com/dp/0061997226" rel="nofollow">
+             0061997226
+            </a>
+            ,
+            <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+             ISBN
+            </a>
+            <a href="/wiki/Special:BookSources/978-0-06-199722-8" title="Special:BookSources/978-0-06-199722-8">
+             978-0-06-199722-8
+            </a>
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Wheelock%27s+Latin&amp;rft.place=New+York&amp;rft.pages=195&amp;rft.pub=HarperCollins&amp;rft.date=2011&amp;rft.isbn=978-0-06-199722-8&amp;rft.aulast=Wheelock&amp;rft.aufirst=Frederic&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADative+case">
+            <span style="display:none;">
+            </span>
+           </span>
+           <span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">
+            CS1 maint: ASIN uses ISBN (
+            <a href="/wiki/Category:CS1_maint:_ASIN_uses_ISBN" title="Category:CS1 maint: ASIN uses ISBN">
+             link
+            </a>
+            )
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-8">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-8">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           Morwood, James. Oxford Grammar of Classical Greek. Oxford University Press, 2002. (
+           <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+            ISBN
+           </a>
+           <a href="/wiki/Special:BookSources/0-19-521851-5" title="Special:BookSources/0-19-521851-5">
+            0-19-521851-5
+           </a>
+           )
+          </span>
+         </li>
+         <li id="cite_note-9">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-9">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           Ignatius Singer, 'Simplified Grammar of the Hungarian Language', 1882.
+          </span>
+         </li>
+        </ol>
+       </div>
+      </div>
+      <h2>
+       <span class="mw-headline" id="External_links">
+        External links
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Dative_case&amp;action=edit&amp;section=21" title="Edit section: External links">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a class="external text" href="http://www.deutsched.com/Grammar/Lessons/0204dative.php" rel="nofollow">
+         German dative case
+        </a>
+        A lesson covering the dative case in the German language
+       </li>
+       <li>
+        <a class="external text" href="http://www.hungarianreference.com/Nouns/nak-nek-dative.aspx" rel="nofollow">
+         Hungarian dative case
+        </a>
+        from www. HungarianReference.com
+       </li>
+       <li>
+        Russian Dative:
+        <a class="external autonumber" href="http://www.russianlessons.net/grammar/nouns_dative.php" rel="nofollow">
+         [1]
+        </a>
+        ,
+        <a class="external autonumber" href="http://www.russian-resources.info/links.aspx/grammar/nouns/dat" rel="nofollow">
+         [2]
+        </a>
+        ,
+        <a class="external autonumber" href="http://www.learnrussian.net/learn-russian-dative-case.html" rel="nofollow">
+         [3]
+        </a>
+       </li>
+      </ul>
+      <div aria-labelledby="Grammatical_cases" class="navbox" role="navigation" style="padding:3px">
+       <table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tr>
+         <th class="navbox-title" colspan="2" scope="col">
+          <div class="plainlinks hlist navbar mini">
+           <ul>
+            <li class="nv-view">
+             <a href="/wiki/Template:Grammatical_cases" title="Template:Grammatical cases">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">
+               v
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-talk">
+             <a href="/wiki/Template_talk:Grammatical_cases" title="Template talk:Grammatical cases">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">
+               t
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-edit">
+             <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Grammatical_cases&amp;action=edit">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">
+               e
+              </abbr>
+             </a>
+            </li>
+           </ul>
+          </div>
+          <div id="Grammatical_cases" style="font-size:114%;margin:0 4em">
+           <a href="/wiki/Grammatical_case" title="Grammatical case">
+            Grammatical cases
+           </a>
+          </div>
+         </th>
+        </tr>
+        <tr>
+         <td class="navbox-abovebelow" colspan="2">
+          <div>
+           <ul>
+            <li>
+             <a href="/wiki/List_of_grammatical_cases" title="List of grammatical cases">
+              List of cases
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Declension" title="Declension">
+              Declension
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Morphosyntactic_alignment" title="Morphosyntactic alignment">
+              Morphosyntactic alignment
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+          </div>
+          <table class="nowraplinks collapsible uncollapsed navbox-subgroup" style="border-spacing:0">
+           <tr>
+            <th class="navbox-title" colspan="2" scope="col" style=";">
+             <div id="Cases" style="font-size:114%;margin:0 4em">
+              Cases
+             </div>
+            </th>
+           </tr>
+           <tr>
+            <td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px">
+             <div style="padding:0em 0.25em">
+             </div>
+             <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+              <tr>
+               <th class="navbox-group" scope="row" style="width:1%;text-align: center;">
+                <a href="/wiki/Morphosyntactic_alignment" title="Morphosyntactic alignment">
+                 Morphosyntactic alignment
+                </a>
+               </th>
+               <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                <div style="padding:0em 0.25em">
+                 <ul>
+                  <li>
+                   <a href="/wiki/Absolutive_case" title="Absolutive case">
+                    Absolutive
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Accusative_case" title="Accusative case">
+                    Accusative
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Direct_case" title="Direct case">
+                    Direct
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Ergative_case" title="Ergative case">
+                    Ergative
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Intransitive_case" title="Intransitive case">
+                    Intransitive
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Nominative_case" title="Nominative case">
+                    Nominative
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Oblique_case" title="Oblique case">
+                    Oblique
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Partitive_case" title="Partitive case">
+                    Partitive
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Pegative_case" title="Pegative case">
+                    Pegative
+                   </a>
+                  </li>
+                 </ul>
+                </div>
+               </td>
+              </tr>
+              <tr>
+               <th class="navbox-group" scope="row" style="width:1%;text-align: center;">
+                Location, time, direction
+               </th>
+               <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                <div style="padding:0em 0.25em">
+                 <ul>
+                  <li>
+                   <a href="/wiki/Ablative_case" title="Ablative case">
+                    Ablative
+                   </a>
+                  </li>
+                  <li>
+                   <a class="mw-redirect" href="/wiki/Addirective_case" title="Addirective case">
+                    Addirective
+                   </a>
+                  </li>
+                  <li>
+                   <a class="mw-redirect" href="/wiki/Adelative_case" title="Adelative case">
+                    Adelative
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Adessive_case" title="Adessive case">
+                    Adessive
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Allative_case" title="Allative case">
+                    Allative
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Antessive_case" title="Antessive case">
+                    Antessive
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Apudessive_case" title="Apudessive case">
+                    Apudessive
+                   </a>
+                  </li>
+                  <li>
+                   <a class="new" href="/w/index.php?title=Approximative_case&amp;action=edit&amp;redlink=1" title="Approximative case (page does not exist)">
+                    Approximative
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Delative_case" title="Delative case">
+                    Delative
+                   </a>
+                  </li>
+                  <li>
+                   <a class="new" href="/w/index.php?title=Distantitive_case&amp;action=edit&amp;redlink=1" title="Distantitive case (page does not exist)">
+                    Distantitive
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Distributive_case" title="Distributive case">
+                    Distributive
+                   </a>
+                   (
+                   <a href="/wiki/Distributive-temporal_case" title="Distributive-temporal case">
+                    –temporal
+                   </a>
+                   )
+                  </li>
+                  <li>
+                   <a href="/wiki/Egressive_case" title="Egressive case">
+                    Egressive
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Elative_case" title="Elative case">
+                    Elative
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Illative_case" title="Illative case">
+                    Illative
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Inelative_case" title="Inelative case">
+                    Inelative
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Inessive_case" title="Inessive case">
+                    Inessive
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Initiative_case" title="Initiative case">
+                    Initiative
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Intrative_case" title="Intrative case">
+                    Intrative
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Lative_case" title="Lative case">
+                    Lative
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Locative_case" title="Locative case">
+                    Locative
+                   </a>
+                  </li>
+                  <li>
+                   <a class="new" href="/w/index.php?title=Medial_case&amp;action=edit&amp;redlink=1" title="Medial case (page does not exist)">
+                    Medial
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Perlative_case" title="Perlative case">
+                    Perlative
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Pertingent_case" title="Pertingent case">
+                    Pertingent
+                   </a>
+                  </li>
+                  <li>
+                   <a class="new" href="/w/index.php?title=Postdirective_case&amp;action=edit&amp;redlink=1" title="Postdirective case (page does not exist)">
+                    Postdirective
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Postelative_case" title="Postelative case">
+                    Postelative
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Postessive_case" title="Postessive case">
+                    Postessive
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Prolative_case" title="Prolative case">
+                    Prolative
+                   </a>
+                  </li>
+                  <li>
+                   <a class="mw-redirect" href="/wiki/Prosecutive_case" title="Prosecutive case">
+                    Prosecutive
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Proximative_case" title="Proximative case">
+                    Proximative
+                   </a>
+                  </li>
+                  <li>
+                   <a class="mw-redirect" href="/wiki/Separative_case" title="Separative case">
+                    Separative
+                   </a>
+                  </li>
+                  <li>
+                   <a class="new" href="/w/index.php?title=Subdirective_case&amp;action=edit&amp;redlink=1" title="Subdirective case (page does not exist)">
+                    Subdirective
+                   </a>
+                  </li>
+                  <li>
+                   <a class="new" href="/w/index.php?title=Subelative_case&amp;action=edit&amp;redlink=1" title="Subelative case (page does not exist)">
+                    Subelative
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Subessive_case" title="Subessive case">
+                    Subessive
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Sublative_case" title="Sublative case">
+                    Sublative
+                   </a>
+                  </li>
+                  <li>
+                   <a class="new" href="/w/index.php?title=Superdirective_case&amp;action=edit&amp;redlink=1" title="Superdirective case (page does not exist)">
+                    Superdirective
+                   </a>
+                  </li>
+                  <li>
+                   <a class="new" href="/w/index.php?title=Superelative_case&amp;action=edit&amp;redlink=1" title="Superelative case (page does not exist)">
+                    Superelative
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Superessive_case" title="Superessive case">
+                    Superessive
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Superlative_case" title="Superlative case">
+                    Superlative
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Temporal_case" title="Temporal case">
+                    Temporal
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Terminative_case" title="Terminative case">
+                    Terminative
+                   </a>
+                  </li>
+                 </ul>
+                </div>
+               </td>
+              </tr>
+              <tr>
+               <th class="navbox-group" scope="row" style="width:1%;text-align: center;">
+                Possession, companion, instrument
+               </th>
+               <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                <div style="padding:0em 0.25em">
+                 <ul>
+                  <li>
+                   <a href="/wiki/Abessive_case" title="Abessive case">
+                    Abessive
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Comitative_case" title="Comitative case">
+                    Associative
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Abessive_case" title="Abessive case">
+                    Caritive
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Comitative_case" title="Comitative case">
+                    Comitative
+                   </a>
+                  </li>
+                  <li>
+                   <a class="mw-selflink selflink">
+                    Dative
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Genitive_case" title="Genitive case">
+                    Genitive
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Instrumental_case" title="Instrumental case">
+                    Instrumental
+                   </a>
+                   (
+                   <a href="/wiki/Instrumental-comitative_case" title="Instrumental-comitative case">
+                    –comitative
+                   </a>
+                   )
+                  </li>
+                  <li>
+                   <a href="/wiki/Ornative_case" title="Ornative case">
+                    Ornative
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Possessive" title="Possessive">
+                    Possessed
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Possessive" title="Possessive">
+                    Possessive
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Abessive_case" title="Abessive case">
+                    Privative
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Sociative_case" title="Sociative case">
+                    Sociative
+                   </a>
+                  </li>
+                 </ul>
+                </div>
+               </td>
+              </tr>
+              <tr>
+               <th class="navbox-group" scope="row" style="width:1%;text-align: center;">
+                State, manner
+               </th>
+               <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                <div style="padding:0em 0.25em">
+                 <ul>
+                  <li>
+                   <a href="/wiki/Adverbial_case" title="Adverbial case">
+                    Adverbial
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Comparative_case" title="Comparative case">
+                    Comparative
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Equative_case" title="Equative case">
+                    Equative
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Essive_case" title="Essive case">
+                    Essive
+                   </a>
+                   (
+                   <a href="/wiki/Essive-formal_case" title="Essive-formal case">
+                    –formal
+                   </a>
+                   ,
+                   <a href="/wiki/Essive-modal_case" title="Essive-modal case">
+                    –modal
+                   </a>
+                   )
+                  </li>
+                  <li>
+                   <a href="/wiki/Exessive_case" title="Exessive case">
+                    Exessive
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Formal_case" title="Formal case">
+                    Formal
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Identical_case" title="Identical case">
+                    Identical
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Instructive_case" title="Instructive case">
+                    Instructive
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Modal_case" title="Modal case">
+                    Modal
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Multiplicative_case" title="Multiplicative case">
+                    Multiplicative
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Orientative_case" title="Orientative case">
+                    Orientative
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Revertive_case" title="Revertive case">
+                    Revertive
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Semblative_case" title="Semblative case">
+                    Semblative
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Translative_case" title="Translative case">
+                    Translative
+                   </a>
+                  </li>
+                 </ul>
+                </div>
+               </td>
+              </tr>
+              <tr>
+               <th class="navbox-group" scope="row" style="width:1%;text-align: center;">
+                Cause, purpose
+               </th>
+               <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                <div style="padding:0em 0.25em">
+                 <ul>
+                  <li>
+                   <a href="/wiki/Aversive_case" title="Aversive case">
+                    Aversive
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Benefactive_case" title="Benefactive case">
+                    Benefactive
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Causative#Causal_case" title="Causative">
+                    Causal
+                   </a>
+                   (
+                   <a href="/wiki/Causative#Causal-final_case" title="Causative">
+                    –final
+                   </a>
+                   )
+                  </li>
+                  <li>
+                   <a href="/wiki/Aversive_case" title="Aversive case">
+                    Evitative
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Final_case" title="Final case">
+                    Final
+                   </a>
+                  </li>
+                 </ul>
+                </div>
+               </td>
+              </tr>
+              <tr>
+               <th class="navbox-group" scope="row" style="width:1%;text-align: center;">
+                Other
+               </th>
+               <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                <div style="padding:0em 0.25em">
+                 <ul>
+                  <li>
+                   <a class="new" href="/w/index.php?title=Dubitive_case&amp;action=edit&amp;redlink=1" title="Dubitive case (page does not exist)">
+                    Dubitive
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Prepositional_case" title="Prepositional case">
+                    Postpositional
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Prepositional_case" title="Prepositional case">
+                    Prepositional
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Vocative_case" title="Vocative case">
+                    Vocative
+                   </a>
+                  </li>
+                 </ul>
+                </div>
+               </td>
+              </tr>
+             </table>
+            </td>
+           </tr>
+          </table>
+         </td>
+        </tr>
+        <tr>
+         <td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+          </div>
+          <table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+           <tr>
+            <th class="navbox-title" colspan="2" scope="col" style=";">
+             <div id="Declensions" style="font-size:114%;margin:0 4em">
+              Declensions
+             </div>
+            </th>
+           </tr>
+           <tr>
+            <td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <a href="/wiki/Czech_declension" title="Czech declension">
+                 Czech
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Archaic_Dutch_declension" title="Archaic Dutch declension">
+                 Archaic Dutch
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/English_grammar" title="English grammar">
+                 English
+                </a>
+                (
+                <a class="mw-redirect" href="/wiki/Middle_English_declension" title="Middle English declension">
+                 Middle English
+                </a>
+                ,
+                <a href="/wiki/Old_English_grammar" title="Old English grammar">
+                 Old English
+                </a>
+                )
+               </li>
+               <li>
+                <a href="/wiki/Finnish_noun_cases" title="Finnish noun cases">
+                 Finnish
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/German_declension" title="German declension">
+                 German
+                </a>
+                (
+                <a href="/wiki/Old_High_German_declension" title="Old High German declension">
+                 Old High German
+                </a>
+                )
+               </li>
+               <li>
+                <a href="/wiki/Gothic_declension" title="Gothic declension">
+                 Gothic
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Irish_declension" title="Irish declension">
+                 Irish
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Latin_declension" title="Latin declension">
+                 Latin
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Latvian_declension" title="Latvian declension">
+                 Latvian
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Lithuanian_declension" title="Lithuanian declension">
+                 Lithuanian
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Serbo-Croatian_grammar" title="Serbo-Croatian grammar">
+                 Serbo-Croatian
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Slovak_declension" title="Slovak declension">
+                 Slovak
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+          </table>
+         </td>
+        </tr>
+       </table>
+      </div>
+      <!-- 
+NewPP limit report
+Parsed by mw1332
+Cached time: 20180201195053
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.356 seconds
+Real time usage: 0.452 seconds
+Preprocessor visited node count: 1619/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 63383/2097152 bytes
+Template argument size: 7043/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 2/500
+Lua time usage: 0.194/10.000 seconds
+Lua memory usage: 12.46 MB/50 MB
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  383.528      1 -total
+ 39.56%  151.705     16 Template:Lang
+ 24.02%   92.124      1 Template:Reflist
+ 18.72%   71.790      2 Template:Clarify
+ 13.88%   53.237      2 Template:Fix-span
+ 10.51%   40.299      1 Template:Grammatical_cases
+  9.92%   38.038      1 Template:Navbox_with_collapsible_groups
+  8.00%   30.688      2 Template:Cite_web
+  7.79%   29.892      4 Template:Category_handler
+  6.55%   25.112      1 Template:ISBN
+-->
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:8406-0!canonical and timestamp 20180201195053 and revision id 816798865
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Dative_case&amp;oldid=816798865">
+      https://en.wikipedia.org/w/index.php?title=Dative_case&amp;oldid=816798865
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Grammatical_cases" title="Category:Grammatical cases">
+         Grammatical cases
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:Articles_containing_Ancient_Greek-language_text" title="Category:Articles containing Ancient Greek-language text">
+         Articles containing Ancient Greek-language text
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:CS1_maint:_ASIN_uses_ISBN" title="Category:CS1 maint: ASIN uses ISBN">
+         CS1 maint: ASIN uses ISBN
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Wikipedia_articles_needing_clarification_from_September_2016" title="Category:Wikipedia articles needing clarification from September 2016">
+         Wikipedia articles needing clarification from September 2016
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Wikipedia_articles_needing_clarification_from_October_2014" title="Category:Wikipedia articles needing clarification from October 2014">
+         Wikipedia articles needing clarification from October 2014
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Dative+case" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Dative+case" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Dative_case" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Dative_case" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="collapsible selected" id="ca-view">
+        <span>
+         <a href="/wiki/Dative_case">
+          Read
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Dative_case&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Dative_case&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Dative_case" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Dative_case" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Dative_case&amp;oldid=816798865" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Dative_case&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q145599" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Dative_case&amp;id=816798865" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Dative+case">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Dative+case&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Dative_case&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-als">
+        <a class="interlanguage-link-target" href="https://als.wikipedia.org/wiki/Dativ" hreflang="als" lang="als" title="Dativ – Alemannisch">
+         Alemannisch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ar">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%85%D9%81%D8%B9%D9%88%D9%84%D9%8A%D8%A9_%D8%BA%D9%8A%D8%B1_%D9%85%D8%A8%D8%A7%D8%B4%D8%B1%D8%A9" hreflang="ar" lang="ar" title="مفعولية غير مباشرة – Arabic">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-an">
+        <a class="interlanguage-link-target" href="https://an.wikipedia.org/wiki/Dativo" hreflang="an" lang="an" title="Dativo – Aragonese">
+         Aragonés
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-az">
+        <a class="interlanguage-link-target" href="https://az.wikipedia.org/wiki/Y%C3%B6nl%C3%BCk_hal" hreflang="az" lang="az" title="Yönlük hal – Azerbaijani">
+         Azərbaycanca
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-be">
+        <a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%94%D0%B0%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B_%D1%81%D0%BA%D0%BB%D0%BE%D0%BD" hreflang="be" lang="be" title="Давальны склон – Belarusian">
+         Беларуская
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-be-x-old">
+        <a class="interlanguage-link-target" href="https://be-x-old.wikipedia.org/wiki/%D0%94%D0%B0%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B_%D1%81%D0%BA%D0%BB%D0%BE%D0%BD" hreflang="be-x-old" lang="be-x-old" title="Давальны склон – Belarusian (Taraškievica orthography)">
+         Беларуская (тарашкевіца)‎
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bg">
+        <a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%94%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%BD_%D0%BF%D0%B0%D0%B4%D0%B5%D0%B6" hreflang="bg" lang="bg" title="Дателен падеж – Bulgarian">
+         Български
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bar">
+        <a class="interlanguage-link-target" href="https://bar.wikipedia.org/wiki/Dativ" hreflang="bar" lang="bar" title="Dativ – Bavarian">
+         Boarisch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-br">
+        <a class="interlanguage-link-target" href="https://br.wikipedia.org/wiki/Troad_dativel" hreflang="br" lang="br" title="Troad dativel – Breton">
+         Brezhoneg
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Cas_datiu" hreflang="ca" lang="ca" title="Cas datiu – Catalan">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cs">
+        <a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Dativ" hreflang="cs" lang="cs" title="Dativ – Czech">
+         Čeština
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-da">
+        <a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Dativ" hreflang="da" lang="da" title="Dativ – Danish">
+         Dansk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Dativ" hreflang="de" lang="de" title="Dativ – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-dsb">
+        <a class="interlanguage-link-target" href="https://dsb.wikipedia.org/wiki/Datiw" hreflang="dsb" lang="dsb" title="Datiw – Lower Sorbian">
+         Dolnoserbski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-et">
+        <a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Daativ" hreflang="et" lang="et" title="Daativ – Estonian">
+         Eesti
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-el">
+        <a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%94%CE%BF%CF%84%CE%B9%CE%BA%CE%AE" hreflang="el" lang="el" title="Δοτική – Greek">
+         Ελληνικά
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Caso_dativo" hreflang="es" lang="es" title="Caso dativo – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eo">
+        <a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Dativo" hreflang="eo" lang="eo" title="Dativo – Esperanto">
+         Esperanto
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eu">
+        <a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Datibo" hreflang="eu" lang="eu" title="Datibo – Basque">
+         Euskara
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fa">
+        <a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%AD%D8%A7%D9%84%D8%AA_%D8%A8%D8%B1%D8%A7%DB%8C%DB%8C" hreflang="fa" lang="fa" title="حالت برایی – Persian">
+         فارسی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Datif" hreflang="fr" lang="fr" title="Datif – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-gd">
+        <a class="interlanguage-link-target" href="https://gd.wikipedia.org/wiki/An_tuiseal_tabhartach" hreflang="gd" lang="gd" title="An tuiseal tabhartach – Scottish Gaelic">
+         Gàidhlig
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-gl">
+        <a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Dativo" hreflang="gl" lang="gl" title="Dativo – Galician">
+         Galego
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hy">
+        <a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D5%8F%D6%80%D5%A1%D5%AF%D5%A1%D5%B6_%D5%B0%D5%B8%D5%AC%D5%B8%D5%BE" hreflang="hy" lang="hy" title="Տրական հոլով – Armenian">
+         Հայերեն
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hsb">
+        <a class="interlanguage-link-target" href="https://hsb.wikipedia.org/wiki/Datiw" hreflang="hsb" lang="hsb" title="Datiw – Upper Sorbian">
+         Hornjoserbsce
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hr">
+        <a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Dativ" hreflang="hr" lang="hr" title="Dativ – Croatian">
+         Hrvatski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-io">
+        <a class="interlanguage-link-target" href="https://io.wikipedia.org/wiki/Dativo" hreflang="io" lang="io" title="Dativo – Ido">
+         Ido
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-id">
+        <a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Dativus" hreflang="id" lang="id" title="Dativus – Indonesian">
+         Bahasa Indonesia
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-is">
+        <a class="interlanguage-link-target" href="https://is.wikipedia.org/wiki/%C3%9E%C3%A1gufall" hreflang="is" lang="is" title="Þágufall – Icelandic">
+         Íslenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Dativo" hreflang="it" lang="it" title="Dativo – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-jv">
+        <a class="interlanguage-link-target" href="https://jv.wikipedia.org/wiki/Kasus_datif" hreflang="jv" lang="jv" title="Kasus datif – Javanese">
+         Basa Jawa
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-csb">
+        <a class="interlanguage-link-target" href="https://csb.wikipedia.org/wiki/D%C3%B4w%C3%B4cz" hreflang="csb" lang="csb" title="Dôwôcz – Kashubian">
+         Kaszëbsczi
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-kk">
+        <a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/%D0%94%D0%B0%D1%82%D0%B8%D0%B2" hreflang="kk" lang="kk" title="Датив – Kazakh">
+         Қазақша
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lv">
+        <a class="interlanguage-link-target" href="https://lv.wikipedia.org/wiki/Dat%C4%ABvs" hreflang="lv" lang="lv" title="Datīvs – Latvian">
+         Latviešu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lt">
+        <a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Naudininkas" hreflang="lt" lang="lt" title="Naudininkas – Lithuanian">
+         Lietuvių
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-li">
+        <a class="interlanguage-link-target" href="https://li.wikipedia.org/wiki/Datief" hreflang="li" lang="li" title="Datief – Limburgish">
+         Limburgs
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hu">
+        <a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/R%C3%A9szes_eset" hreflang="hu" lang="hu" title="Részes eset – Hungarian">
+         Magyar
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-mk">
+        <a class="interlanguage-link-target" href="https://mk.wikipedia.org/wiki/%D0%94%D0%B0%D1%82%D0%B8%D0%B2" hreflang="mk" lang="mk" title="Датив – Macedonian">
+         Македонски
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nl">
+        <a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Datief" hreflang="nl" lang="nl" title="Datief – Dutch">
+         Nederlands
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E4%B8%8E%E6%A0%BC" hreflang="ja" lang="ja" title="与格 – Japanese">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-no">
+        <a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Dativ" hreflang="no" lang="no" title="Dativ – Norwegian">
+         Norsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nn">
+        <a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Dativ" hreflang="nn" lang="nn" title="Dativ – Norwegian Nynorsk">
+         Norsk nynorsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pl">
+        <a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Celownik_(przypadek)" hreflang="pl" lang="pl" title="Celownik (przypadek) – Polish">
+         Polski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Caso_dativo" hreflang="pt" lang="pt" title="Caso dativo – Portuguese">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ro">
+        <a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Cazul_dativ" hreflang="ro" lang="ro" title="Cazul dativ – Romanian">
+         Română
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%94%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BF%D0%B0%D0%B4%D0%B5%D0%B6" hreflang="ru" lang="ru" title="Дательный падеж – Russian">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sco">
+        <a class="interlanguage-link-target" href="https://sco.wikipedia.org/wiki/Dative_case" hreflang="sco" lang="sco" title="Dative case – Scots">
+         Scots
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sk">
+        <a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Dat%C3%ADv" hreflang="sk" lang="sk" title="Datív – Slovak">
+         Slovenčina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sr">
+        <a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%94%D0%B0%D1%82%D0%B8%D0%B2" hreflang="sr" lang="sr" title="Датив – Serbian">
+         Српски / srpski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sh">
+        <a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Dativ" hreflang="sh" lang="sh" title="Dativ – Serbo-Croatian">
+         Srpskohrvatski / српскохрватски
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fi">
+        <a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Datiivi" hreflang="fi" lang="fi" title="Datiivi – Finnish">
+         Suomi
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sv">
+        <a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Dativ" hreflang="sv" lang="sv" title="Dativ – Swedish">
+         Svenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tyv">
+        <a class="interlanguage-link-target" href="https://tyv.wikipedia.org/wiki/%D0%91%D1%8D%D1%8D%D1%80%D0%B8%D0%BD%D0%B8%D2%A3_%D0%BF%D0%B0%D0%B4%D0%B5%D0%B6%D0%B8" hreflang="tyv" lang="tyv" title="Бээриниң падежи – Tuvinian">
+         Тыва дыл
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uk">
+        <a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%94%D0%B0%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%B9_%D0%B2%D1%96%D0%B4%D0%BC%D1%96%D0%BD%D0%BE%D0%BA" hreflang="uk" lang="uk" title="Давальний відмінок – Ukrainian">
+         Українська
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-vec">
+        <a class="interlanguage-link-target" href="https://vec.wikipedia.org/wiki/Dativo" hreflang="vec" lang="vec" title="Dativo – Venetian">
+         Vèneto
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh-classical">
+        <a class="interlanguage-link-target" href="https://zh-classical.wikipedia.org/wiki/%E8%88%87%E6%A0%BC" hreflang="zh-classical" lang="zh-classical" title="與格 – Classical Chinese">
+         文言
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-yi">
+        <a class="interlanguage-link-target" href="https://yi.wikipedia.org/wiki/%D7%93%D7%90%D7%98%D7%99%D7%95%D7%95" hreflang="yi" lang="yi" title="דאטיוו – Yiddish">
+         ייִדיש
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh-yue">
+        <a class="interlanguage-link-target" href="https://zh-yue.wikipedia.org/wiki/%E8%88%87%E6%A0%BC" hreflang="zh-yue" lang="zh-yue" title="與格 – Cantonese">
+         粵語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E4%B8%8E%E6%A0%BC" hreflang="zh" lang="zh" title="与格 – Chinese">
+         中文
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q145599#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 23 December 2017, at 19:46.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Dative_case&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.356","walltime":"0.452","ppvisitednodes":{"value":1619,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":63383,"limit":2097152},"templateargumentsize":{"value":7043,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  383.528      1 -total"," 39.56%  151.705     16 Template:Lang"," 24.02%   92.124      1 Template:Reflist"," 18.72%   71.790      2 Template:Clarify"," 13.88%   53.237      2 Template:Fix-span"," 10.51%   40.299      1 Template:Grammatical_cases","  9.92%   38.038      1 Template:Navbox_with_collapsible_groups","  8.00%   30.688      2 Template:Cite_web","  7.79%   29.892      4 Template:Category_handler","  6.55%   25.112      1 Template:ISBN"]},"scribunto":{"limitreport-timeusage":{"value":"0.194","limit":"10.000"},"limitreport-memusage":{"value":13060467,"limit":52428800}},"cachereport":{"origin":"mw1332","timestamp":"20180201195053","ttl":1900800,"transientcontent":false}}});});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":499,"wgHostname":"mw1269"});});
+  </script>
+ </body>
+</html>

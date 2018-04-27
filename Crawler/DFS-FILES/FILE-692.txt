@@ -1,0 +1,3185 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Subject (grammar) - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Subject_(grammar)","wgTitle":"Subject (grammar)","wgCurRevisionId":821660039,"wgRevisionId":821660039,"wgArticleId":594590,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with limited geographic scope from October 2016","Pages using div col with deprecated parameters","Wikipedia articles with GND identifiers","Syntactic entities"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Subject_(grammar)","wgRelevantArticleId":594590,"wgRequestId":"Wm-OBApAAEMAABppcUgAAACB","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q164573","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.31.0-wmf.17" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Subject_(grammar)" rel="alternate"/>
+  <link href="/w/index.php?title=Subject_(grammar)&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Subject_(grammar)&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/Subject_(grammar)" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Subject_grammar rootpage-Subject_grammar skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Subject (grammar)
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <table class="plainlinks metadata ambox ambox-content ambox-globalize" role="presentation">
+       <tr>
+        <td class="mbox-image">
+         <div style="width:52px">
+          <img alt="Globe icon." data-file-height="290" data-file-width="350" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ambox_globe_content.svg/48px-Ambox_globe_content.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ambox_globe_content.svg/73px-Ambox_globe_content.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ambox_globe_content.svg/97px-Ambox_globe_content.svg.png 2x" width="48"/>
+         </div>
+        </td>
+        <td class="mbox-text">
+         <div class="mbox-text-span">
+          The examples and perspective in this article
+          <b>
+           may not represent a
+           <a href="/wiki/Wikipedia:WikiProject_Countering_systemic_bias" title="Wikipedia:WikiProject Countering systemic bias">
+            worldwide view
+           </a>
+           of the subject
+          </b>
+          .
+          <span class="hide-when-compact">
+           You may
+           <a class="external text" href="//en.wikipedia.org/w/index.php?title=Subject_(grammar)&amp;action=edit">
+            improve this article
+           </a>
+           , discuss the issue on the
+           <a href="/wiki/Talk:Subject_(grammar)#Globalize" title="Talk:Subject (grammar)">
+            talk page
+           </a>
+           .
+          </span>
+          <small>
+           <i>
+            (October 2016)
+           </i>
+          </small>
+          <small class="hide-when-compact">
+           <i>
+            (
+            <a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">
+             Learn how and when to remove this template message
+            </a>
+            )
+           </i>
+          </small>
+         </div>
+        </td>
+       </tr>
+      </table>
+      <p>
+       The
+       <b>
+        subject
+       </b>
+       in a simple English
+       <a href="/wiki/Sentence_(linguistics)" title="Sentence (linguistics)">
+        sentence
+       </a>
+       such as
+       <i>
+        <u>
+         John
+        </u>
+        runs
+       </i>
+       ,
+       <i>
+        <u>
+         John
+        </u>
+        is a teacher
+       </i>
+       , or
+       <i>
+        <u>
+         John
+        </u>
+        was hit by a car
+       </i>
+       is the person or thing about whom the statement is made, in this case 'John'. Traditionally the subject is the word or
+       <a href="/wiki/Phrase" title="Phrase">
+        phrase
+       </a>
+       which controls the
+       <a href="/wiki/Verb" title="Verb">
+        verb
+       </a>
+       in the
+       <a href="/wiki/Clause" title="Clause">
+        clause
+       </a>
+       , that is to say with which the verb
+       <a href="/wiki/Agreement_(linguistics)" title="Agreement (linguistics)">
+        agrees
+       </a>
+       (
+       <i>
+        John
+        <u>
+         is
+        </u>
+       </i>
+       but
+       <i>
+        John and Mary
+        <u>
+         are
+        </u>
+       </i>
+       ). If there is no verb, as in
+       <i>
+        John - what an idiot!
+       </i>
+       , or if the verb has a different subject, as in
+       <i>
+        John - I can't stand him!
+       </i>
+       , then 'John' is not considered to be the grammatical subject, but can be described as the '
+       <a href="/wiki/Topic_and_comment" title="Topic and comment">
+        topic
+       </a>
+       ' of the sentence.
+      </p>
+      <p>
+       These definitions seem clear enough for simple sentences such as the above, but as will be shown in the article below, problems in defining the subject arise when an attempt is made to extend the definitions to more complex sentences and to languages other than English. For example, in the sentence
+       <i>
+        It is difficult to learn French
+       </i>
+       , the grammatical subject seems to be the word 'it', and yet arguably the 'real' subject (the thing that is difficult) is 'to learn French'. (A sentence such as
+       <i>
+        It was John who broke the window
+       </i>
+       is more complex still.) Sentences beginning with a
+       <a href="/wiki/Locative_case" title="Locative case">
+        locative
+       </a>
+       phrase, such as
+       <i>
+        There is a problem, isn't there?
+       </i>
+       , in which the
+       <a href="/wiki/Tag_question" title="Tag question">
+        tag question
+       </a>
+       'isn't there?' seems to imply that the subject is the
+       <a href="/wiki/Adverb" title="Adverb">
+        adverb
+       </a>
+       'there', also create difficulties for the definition of subject.
+       <sup class="reference" id="cite_ref-1">
+        <a href="#cite_note-1">
+         [1]
+        </a>
+       </sup>
+      </p>
+      <p>
+       In languages such as
+       <a class="mw-redirect" href="/wiki/Latin_language" title="Latin language">
+        Latin
+       </a>
+       or
+       <a href="/wiki/German_language" title="German language">
+        German
+       </a>
+       the subject of a verb has a form which is known as the
+       <a href="/wiki/Nominative_case" title="Nominative case">
+        nominative case
+       </a>
+       : for example, the form 'he' (not 'him' or 'his') is used in sentences such as
+       <i>
+        <u>
+         he
+        </u>
+        ran
+       </i>
+       ,
+       <i>
+        <u>
+         he
+        </u>
+        broke the window
+       </i>
+       ,
+       <i>
+        <u>
+         he
+        </u>
+        is a teacher
+       </i>
+       ,
+       <i>
+        <u>
+         he
+        </u>
+        was hit by a car
+       </i>
+       . But there are some languages such as
+       <a href="/wiki/Basque_language" title="Basque language">
+        Basque
+       </a>
+       or
+       <a href="/wiki/Greenlandic_language" title="Greenlandic language">
+        Greenlandic
+       </a>
+       , in which the form of a
+       <a href="/wiki/Noun" title="Noun">
+        noun
+       </a>
+       or
+       <a href="/wiki/Pronoun" title="Pronoun">
+        pronoun
+       </a>
+       when the verb is
+       <a href="/wiki/Intransitive_verb" title="Intransitive verb">
+        intransitive
+       </a>
+       (
+       <i>
+        he ran
+       </i>
+       ) is different from when the verb is
+       <a href="/wiki/Transitive_verb" title="Transitive verb">
+        transitive
+       </a>
+       (
+       <i>
+        he broke the window
+       </i>
+       ). In these languages, which are known as
+       <a href="/wiki/Ergative%E2%80%93absolutive_language" title="Ergative–absolutive language">
+        ergative
+       </a>
+       languages, the concept of 'subject' may not apply at all.
+      </p>
+      <p>
+      </p>
+      <div class="toc" id="toc">
+       <div class="toctitle" dir="ltr" lang="en" xml:lang="en">
+        <h2>
+         Contents
+        </h2>
+       </div>
+       <ul>
+        <li class="toclevel-1 tocsection-1">
+         <a href="#Technical_definition">
+          <span class="tocnumber">
+           1
+          </span>
+          <span class="toctext">
+           Technical definition
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-2">
+         <a href="#Forms_of_the_subject">
+          <span class="tocnumber">
+           2
+          </span>
+          <span class="toctext">
+           Forms of the subject
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-3">
+         <a href="#Three_criteria_for_identifying_subjects_in_English">
+          <span class="tocnumber">
+           3
+          </span>
+          <span class="toctext">
+           Three criteria for identifying subjects in English
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-4">
+         <a href="#Two_further_criteria_for_identifying_subjects">
+          <span class="tocnumber">
+           4
+          </span>
+          <span class="toctext">
+           Two further criteria for identifying subjects
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-5">
+         <a href="#Coordinated_sentences">
+          <span class="tocnumber">
+           5
+          </span>
+          <span class="toctext">
+           Coordinated sentences
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-6">
+         <a href="#Difficult_cases">
+          <span class="tocnumber">
+           6
+          </span>
+          <span class="toctext">
+           Difficult cases
+          </span>
+         </a>
+         <ul>
+          <li class="toclevel-2 tocsection-7">
+           <a href="#Existential_there-constructions">
+            <span class="tocnumber">
+             6.1
+            </span>
+            <span class="toctext">
+             Existential
+             <i>
+              there
+             </i>
+             -constructions
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-8">
+           <a href="#Inverse_copular_constructions">
+            <span class="tocnumber">
+             6.2
+            </span>
+            <span class="toctext">
+             Inverse copular constructions
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-9">
+           <a href="#Locative_inversion_constructions">
+            <span class="tocnumber">
+             6.3
+            </span>
+            <span class="toctext">
+             Locative inversion constructions
+            </span>
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="toclevel-1 tocsection-10">
+         <a href="#Subject-less_clauses">
+          <span class="tocnumber">
+           7
+          </span>
+          <span class="toctext">
+           Subject-less clauses
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-11">
+         <a href="#Subjects_in_sentence_structure">
+          <span class="tocnumber">
+           8
+          </span>
+          <span class="toctext">
+           Subjects in sentence structure
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-12">
+         <a href="#See_also">
+          <span class="tocnumber">
+           9
+          </span>
+          <span class="toctext">
+           See also
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-13">
+         <a href="#Notes">
+          <span class="tocnumber">
+           10
+          </span>
+          <span class="toctext">
+           Notes
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-14">
+         <a href="#References">
+          <span class="tocnumber">
+           11
+          </span>
+          <span class="toctext">
+           References
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <p>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Technical_definition">
+        Technical definition
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Subject_(grammar)&amp;action=edit&amp;section=1" title="Edit section: Technical definition">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <table class="toccolours floatright" style="width:35%; margin: 0.5em 0 0.5em 1em;">
+       <tr>
+        <th style="background:#ffffaa; padding: 3px 5px 3px 5px; font-size:larger;">
+         Examples
+        </th>
+       </tr>
+       <tr>
+        <td style="font-size:100% !important; padding:0 5px 0 5px;">
+         In the sentences below, the subjects are indicated in boldface.
+         <ol>
+          <li>
+           <b>
+            The dictionary
+           </b>
+           helps me find words.
+          </li>
+          <li>
+           <b>
+            Ice cream
+           </b>
+           appeared on the table.
+          </li>
+          <li>
+           <b>
+            The man who is sitting over there
+           </b>
+           told me that he just bought a ticket to Tahiti.
+          </li>
+          <li>
+           <b>
+            Nothing else
+           </b>
+           is good enough.
+          </li>
+          <li>
+           <b>
+            That nothing else is good enough
+           </b>
+           shouldn't come as a surprise.
+          </li>
+          <li>
+           <b>
+            To eat six different kinds of vegetables a day
+           </b>
+           is healthy.
+          </li>
+          <li>
+           <b>
+            He
+           </b>
+           sold ten units of sand to us.
+          </li>
+         </ol>
+        </td>
+       </tr>
+      </table>
+      <p>
+       The subject (
+       <a href="/wiki/List_of_glossing_abbreviations" title="List of glossing abbreviations">
+        glossing abbreviations
+       </a>
+       :
+       <span class="smallcaps">
+        <span style="font-variant: small-caps; text-transform: lowercase;">
+         <b>
+          SUB
+         </b>
+        </span>
+       </span>
+       or
+       <span class="smallcaps">
+        <span style="font-variant: small-caps; text-transform: lowercase;">
+         <b>
+          SU
+         </b>
+        </span>
+       </span>
+       ) is, according to a tradition that can be traced back to
+       <a href="/wiki/Aristotle" title="Aristotle">
+        Aristotle
+       </a>
+       (and that is associated with
+       <a href="/wiki/Phrase_structure_grammar" title="Phrase structure grammar">
+        phrase structure grammars
+       </a>
+       ), one of the two main
+       <a href="/wiki/Constituent_(linguistics)" title="Constituent (linguistics)">
+        constituents
+       </a>
+       of a
+       <a href="/wiki/Clause" title="Clause">
+        clause
+       </a>
+       , the other constituent being the
+       <a href="/wiki/Predicate_(grammar)" title="Predicate (grammar)">
+        predicate
+       </a>
+       , whereby the predicate says something about the subject.
+       <sup class="reference" id="cite_ref-2">
+        <a href="#cite_note-2">
+         [2]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-3">
+        <a href="#cite_note-3">
+         [3]
+        </a>
+       </sup>
+       According to a tradition associated with
+       <a class="mw-redirect" href="/wiki/Predicate_logic" title="Predicate logic">
+        predicate logic
+       </a>
+       and
+       <a href="/wiki/Dependency_grammar" title="Dependency grammar">
+        dependency grammars
+       </a>
+       , the subject is the most prominent overt
+       <a href="/wiki/Argument_(linguistics)" title="Argument (linguistics)">
+        argument
+       </a>
+       of the predicate. By this position all languages with arguments have subjects, though there is no way to define this consistently for all languages.
+       <sup class="reference" id="cite_ref-4">
+        <a href="#cite_note-4">
+         [4]
+        </a>
+       </sup>
+       From a functional perspective, a subject is a phrase that conflates
+       <a href="/wiki/Nominative_case" title="Nominative case">
+        nominative case
+       </a>
+       with the
+       <a class="mw-redirect" href="/wiki/Topic_(grammar)" title="Topic (grammar)">
+        topic
+       </a>
+       . Many languages (such as those with
+       <a href="/wiki/Ergative%E2%80%93absolutive_language" title="Ergative–absolutive language">
+        ergative
+       </a>
+       or
+       <a href="/wiki/Austronesian_alignment" title="Austronesian alignment">
+        Austronesian alignment
+       </a>
+       ) do not do this, and by this definition would not have subjects.
+      </p>
+      <p>
+       All of these positions see the subject in English determining person and number
+       <a class="mw-redirect" href="/wiki/Agreement_(grammar)" title="Agreement (grammar)">
+        agreement
+       </a>
+       on the
+       <a href="/wiki/Finite_verb" title="Finite verb">
+        finite verb
+       </a>
+       , as exemplified by the difference in verb forms between
+       <i>
+        he eats
+       </i>
+       and
+       <i>
+        they eat
+       </i>
+       . The stereotypical subject immediately precedes the finite verb in declarative sentences in English and represents an
+       <a href="/wiki/Agent_(grammar)" title="Agent (grammar)">
+        agent
+       </a>
+       or a theme. The subject is often a multi-word
+       <a href="/wiki/Constituent_(linguistics)" title="Constituent (linguistics)">
+        constituent
+       </a>
+       and should be distinguished from
+       <a class="mw-redirect" href="/wiki/Parts_of_speech" title="Parts of speech">
+        parts of speech
+       </a>
+       , which, roughly, classify
+       <a class="mw-redirect" href="/wiki/Words" title="Words">
+        words
+       </a>
+       within constituents.
+      </p>
+      <h2>
+       <span class="mw-headline" id="Forms_of_the_subject">
+        Forms of the subject
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Subject_(grammar)&amp;action=edit&amp;section=2" title="Edit section: Forms of the subject">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <table class="vertical-navbox nowraplinks plainlist" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+       <tr>
+        <th style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em;padding-bottom:0.5em;">
+         <a href="/wiki/Linguistics" title="Linguistics">
+          Linguistics
+         </a>
+        </th>
+       </tr>
+       <tr>
+        <th style="padding:0.1em;background:#ddf;">
+         <a href="/wiki/Theoretical_linguistics" title="Theoretical linguistics">
+          Theoretical
+         </a>
+        </th>
+       </tr>
+       <tr>
+        <td style="padding:0 0.1em 0.4em;padding:0.2em 0.5em 0.8em;">
+         <div class="hlist">
+          <ul>
+           <li>
+            <a href="/wiki/Cognitive_linguistics" title="Cognitive linguistics">
+             Cognitive
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Constraint-based_grammar" title="Constraint-based grammar">
+             Constraint-based
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Generative_grammar" title="Generative grammar">
+             Generative
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Structural_linguistics" title="Structural linguistics">
+             Structuralist
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Quantitative_linguistics" title="Quantitative linguistics">
+             Quantitative
+            </a>
+           </li>
+          </ul>
+         </div>
+         <ul>
+          <li>
+           <a href="/wiki/Functional_theories_of_grammar" title="Functional theories of grammar">
+            Functional theories of grammar
+           </a>
+          </li>
+         </ul>
+         <div class="hlist">
+          <ul>
+           <li>
+            <a href="/wiki/Phonology" title="Phonology">
+             Phonology
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Morphology_(linguistics)" title="Morphology (linguistics)">
+             Morphology
+            </a>
+           </li>
+           <li>
+            <br/>
+            <a href="/wiki/Morphophonology" title="Morphophonology">
+             Morphophonology
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Syntax" title="Syntax">
+             Syntax
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Lexis_(linguistics)" title="Lexis (linguistics)">
+             Lexis
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Semantics" title="Semantics">
+             Semantics
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Pragmatics" title="Pragmatics">
+             Pragmatics
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Graphemics" title="Graphemics">
+             Graphemics
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Orthography" title="Orthography">
+             Orthography
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Semiotics" title="Semiotics">
+             Semiotics
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr>
+        <th style="padding:0.1em;background:#ddf;">
+         <a href="/wiki/Linguistic_description" title="Linguistic description">
+          Descriptive
+         </a>
+        </th>
+       </tr>
+       <tr>
+        <td style="padding:0 0.1em 0.4em;padding:0.2em 0.5em 0.8em;">
+         <div class="hlist">
+          <ul>
+           <li>
+            <a href="/wiki/Anthropological_linguistics" title="Anthropological linguistics">
+             Anthropological
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Comparative_linguistics" title="Comparative linguistics">
+             Comparative
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Historical_linguistics" title="Historical linguistics">
+             Historical
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Etymology" title="Etymology">
+             Etymology
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Graphetics" title="Graphetics">
+             Graphetics
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Phonetics" title="Phonetics">
+             Phonetics
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sociolinguistics" title="Sociolinguistics">
+             Sociolinguistics
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Cherology" title="Cherology">
+             Cherology
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr>
+        <th style="padding:0.1em;background:#ddf;">
+         <a href="/wiki/Applied_linguistics" title="Applied linguistics">
+          Applied
+         </a>
+         and experimental
+        </th>
+       </tr>
+       <tr>
+        <td style="padding:0 0.1em 0.4em;padding:0.2em 0.5em 0.8em;">
+         <div class="hlist">
+          <ul>
+           <li>
+            <a href="/wiki/Computational_linguistics" title="Computational linguistics">
+             Computational
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Contrastive_linguistics" title="Contrastive linguistics">
+             Contrastive
+            </a>
+           </li>
+           <li>
+            <br/>
+            <a href="/wiki/Evolutionary_linguistics" title="Evolutionary linguistics">
+             Evolutionary
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Forensic_linguistics" title="Forensic linguistics">
+             Forensic
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Internet_linguistics" title="Internet linguistics">
+             Internet
+            </a>
+           </li>
+          </ul>
+         </div>
+         <ul>
+          <li>
+           <a href="/wiki/Language_acquisition" title="Language acquisition">
+            Language acquisition
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Second-language_acquisition" title="Second-language acquisition">
+            Second-language acquisition
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Language_assessment" title="Language assessment">
+            Language assessment
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Language_development" title="Language development">
+            Language development
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Language_education" title="Language education">
+            Language education
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Linguistic_anthropology" title="Linguistic anthropology">
+            Linguistic anthropology
+           </a>
+          </li>
+         </ul>
+         <div class="hlist">
+          <ul>
+           <li>
+            <a href="/wiki/Neurolinguistics" title="Neurolinguistics">
+             Neurolinguistics
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Psycholinguistics" title="Psycholinguistics">
+             Psycholinguistics
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr>
+        <th style="padding:0.1em;background:#ddf;">
+         Related articles
+        </th>
+       </tr>
+       <tr>
+        <td style="padding:0 0.1em 0.4em;padding:0.2em 0.5em 0.8em;">
+         <ul>
+          <li>
+           <a href="/wiki/History_of_linguistics" title="History of linguistics">
+            History of linguistics
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Linguistic_prescription" title="Linguistic prescription">
+            Linguistic prescription
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/List_of_linguists" title="List of linguists">
+            List of linguists
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/List_of_unsolved_problems_in_linguistics" title="List of unsolved problems in linguistics">
+            Unsolved linguistics problems
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Origin_of_language" title="Origin of language">
+            Origin of language
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Origin_of_speech" title="Origin of speech">
+            Origin of speech
+           </a>
+          </li>
+         </ul>
+        </td>
+       </tr>
+       <tr>
+        <td style="padding:0.3em 0.4em 0.3em;font-weight:bold;background:#ddf;">
+         <a href="/wiki/Portal:Linguistics" title="Portal:Linguistics">
+          Linguistics portal
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td style="text-align:right;font-size:115%">
+         <div class="plainlinks hlist navbar mini">
+          <ul>
+           <li class="nv-view">
+            <a href="/wiki/Template:Linguistics" title="Template:Linguistics">
+             <abbr title="View this template">
+              v
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-talk">
+            <a href="/wiki/Template_talk:Linguistics" title="Template talk:Linguistics">
+             <abbr title="Discuss this template">
+              t
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-edit">
+            <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Linguistics&amp;action=edit">
+             <abbr title="Edit this template">
+              e
+             </abbr>
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+      </table>
+      <p>
+       The subject is a constituent that can be realized in numerous forms in English and other languages, many of which are listed in the following table:
+      </p>
+      <dl>
+       <dd>
+        <dl>
+         <dd>
+          <table class="wikitable">
+           <tr>
+            <td>
+             Noun (phrase) or pronoun
+            </td>
+            <td>
+             <b>
+              The large car
+             </b>
+             stopped outside our house.
+            </td>
+           </tr>
+           <tr>
+            <td>
+             A
+             <a href="/wiki/Gerund" title="Gerund">
+              gerund
+             </a>
+             (phrase)
+            </td>
+            <td>
+             <b>
+              His constant hammering
+             </b>
+             was annoying.
+            </td>
+           </tr>
+           <tr>
+            <td>
+             A
+             <i>
+              to
+             </i>
+             -infinitive (phrase)
+            </td>
+            <td>
+             <b>
+              To read
+             </b>
+             is easier than to write.
+            </td>
+           </tr>
+           <tr>
+            <td>
+             A full
+             <i>
+              that
+             </i>
+             -clause
+            </td>
+            <td>
+             <b>
+              That he had traveled the world
+             </b>
+             was known to everyone.
+            </td>
+           </tr>
+           <tr>
+            <td>
+             A free relative clause
+            </td>
+            <td>
+             <b>
+              Whatever he did
+             </b>
+             was always of interest.
+            </td>
+           </tr>
+           <tr>
+            <td>
+             A direct quotation
+            </td>
+            <td>
+             <b>
+              I love you
+             </b>
+             is often heard these days.
+            </td>
+           </tr>
+           <tr>
+            <td>
+             Zero (but implied) subject
+            </td>
+            <td>
+             Take out the trash!
+            </td>
+           </tr>
+           <tr>
+            <td>
+             An
+             <a href="/wiki/Syntactic_expletive" title="Syntactic expletive">
+              expletive
+             </a>
+            </td>
+            <td>
+             <b>
+              It
+             </b>
+             is raining.
+            </td>
+           </tr>
+           <tr>
+            <td>
+             A
+             <a class="mw-redirect" href="/wiki/Cataphor" title="Cataphor">
+              cataphoric
+             </a>
+             <i>
+              it
+             </i>
+            </td>
+            <td>
+             <b>
+              It
+             </b>
+             was known by everyone that he had traveled the world.
+            </td>
+           </tr>
+          </table>
+         </dd>
+        </dl>
+       </dd>
+      </dl>
+      <h2>
+       <span class="mw-headline" id="Three_criteria_for_identifying_subjects_in_English">
+        Three criteria for identifying subjects in English
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Subject_(grammar)&amp;action=edit&amp;section=3" title="Edit section: Three criteria for identifying subjects in English">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       Three criteria for identifying subjects in English and other languages are listed next:
+       <sup class="reference" id="cite_ref-5">
+        <a href="#cite_note-5">
+         [5]
+        </a>
+       </sup>
+      </p>
+      <dl>
+       <dd>
+        <dl>
+         <dd>
+          1.
+          <u>
+           Subject-verb agreement
+          </u>
+          : The subject agrees with the finite verb in person and number, e.g.
+          <i>
+           I am
+          </i>
+          vs.
+          <i>
+           *I is
+          </i>
+          .
+          <sup class="reference" id="cite_ref-6">
+           <a href="#cite_note-6">
+            [6]
+           </a>
+          </sup>
+         </dd>
+        </dl>
+       </dd>
+      </dl>
+      <dl>
+       <dd>
+        <dl>
+         <dd>
+          2.
+          <u>
+           Position occupied
+          </u>
+          : The subject typically immediately precedes the finite verb in declarative clauses in English, e.g.
+          <i>
+           Tom laughs
+          </i>
+          .
+         </dd>
+        </dl>
+       </dd>
+      </dl>
+      <dl>
+       <dd>
+        <dl>
+         <dd>
+          3.
+          <u>
+           Semantic role
+          </u>
+          : A typical subject in the active voice is an agent or theme, i.e. it performs the action expressed by the verb or when it is a theme, it receives a property assigned to it by the predicate.
+         </dd>
+        </dl>
+       </dd>
+      </dl>
+      <p>
+       Of these three criteria, the first one (agreement) is the most reliable. The subject in English and many other languages agrees with the finite verb in person and number (and sometimes in gender as well). The second and third criterion are merely strong tendencies that can be flouted in certain constructions, e.g.
+      </p>
+      <dl>
+       <dd>
+        <dl>
+         <dd>
+          a.
+          <b>
+           Tom
+          </b>
+          is studying chemistry.
+          <small>
+           - The three criteria agree identifying
+           <i>
+            Tom
+           </i>
+           as the subject.
+          </small>
+         </dd>
+        </dl>
+       </dd>
+      </dl>
+      <dl>
+       <dd>
+        <dl>
+         <dd>
+          b. Is
+          <b>
+           Tom
+          </b>
+          studying chemistry?
+          <small>
+           - The 1st and the 3rd criteria identify
+           <i>
+            Tom
+           </i>
+           as the subject.
+          </small>
+         </dd>
+        </dl>
+       </dd>
+      </dl>
+      <dl>
+       <dd>
+        <dl>
+         <dd>
+          c.
+          <b>
+           Chemistry
+          </b>
+          is being studied (by Tom).
+          <small>
+           - The 1st and the 2nd criteria identify
+           <i>
+            Chemistry
+           </i>
+           as the subject.
+          </small>
+         </dd>
+        </dl>
+       </dd>
+      </dl>
+      <p>
+       In the first sentence, all three criteria combine to identify
+       <i>
+        Tom
+       </i>
+       as the subject. In the second sentence, which involves the
+       <a class="mw-redirect" href="/wiki/Subject-auxiliary_inversion" title="Subject-auxiliary inversion">
+        subject-auxiliary inversion
+       </a>
+       of a
+       <a class="mw-redirect" href="/wiki/Yes/no-question" title="Yes/no-question">
+        yes/no-question
+       </a>
+       , the subject immediately follows the finite verb (instead of immediately preceding it), which means the second criterion is flouted. And in the third sentence expressed in the passive voice, the 1st and the 2nd criterion combine to identify
+       <i>
+        chemistry
+       </i>
+       as the subject, whereas the third criterion suggests that
+       <i>
+        by Tom
+       </i>
+       should be the subject because
+       <i>
+        Tom
+       </i>
+       is an agent.
+      </p>
+      <h2>
+       <span class="mw-headline" id="Two_further_criteria_for_identifying_subjects">
+        Two further criteria for identifying subjects
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Subject_(grammar)&amp;action=edit&amp;section=4" title="Edit section: Two further criteria for identifying subjects">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       Two further criteria for identifying subjects are helpful in many other languages (other than English):
+      </p>
+      <dl>
+       <dd>
+        <dl>
+         <dd>
+          4.
+          <u>
+           Morphological case
+          </u>
+          : In languages that have case systems, the subject is marked by a specific case, often the nominative.
+         </dd>
+        </dl>
+       </dd>
+      </dl>
+      <dl>
+       <dd>
+        <dl>
+         <dd>
+          5.
+          <u>
+           Omission
+          </u>
+          : Many languages systematically omit a subject that is known in discourse.
+         </dd>
+        </dl>
+       </dd>
+      </dl>
+      <p>
+       The fourth criterion is not very applicable to English because English largely lacks morphological case, the exception being the subject and object forms of pronouns,
+       <i>
+        I/me
+       </i>
+       ,
+       <i>
+        he/him
+       </i>
+       ,
+       <i>
+        she/her, they/them
+       </i>
+       . The fifth criterion is helpful in languages that typically drop pronominal subjects, such as Spanish, Portuguese, Italian, Latin, Greek, Japanese, and Mandarin. Though most of these languages are rich in verb forms for determining the person and number of the subject, Japanese and Mandarin have no such forms at all. This dropping pattern does not automatically make a language a
+       <a href="/wiki/Pro-drop_language" title="Pro-drop language">
+        pro-drop language
+       </a>
+       . In other languages, like English and French, most clauses should have a subject, which should be either a noun (phrase), a pronoun, or a clause. This is also true when the clause has no element to be represented by it. This is why verbs like
+       <i>
+        rain
+       </i>
+       must have a subject such as
+       <i>
+        it
+       </i>
+       , even if nothing is actually being represented by
+       <i>
+        it
+       </i>
+       . In this case,
+       <i>
+        it
+       </i>
+       is an
+       <a href="/wiki/Syntactic_expletive" title="Syntactic expletive">
+        expletive
+       </a>
+       and a
+       <a href="/wiki/Dummy_pronoun" title="Dummy pronoun">
+        dummy pronoun
+       </a>
+       . In imperative clauses, most languages elide the subject, even in English which typically requires a subject to be present, e.g.
+      </p>
+      <dl>
+       <dd>
+        <dl>
+         <dd>
+          Give it to me.
+         </dd>
+        </dl>
+       </dd>
+      </dl>
+      <dl>
+       <dd>
+        <dl>
+         <dd>
+          Dā mihi istud. (Latin)
+         </dd>
+        </dl>
+       </dd>
+      </dl>
+      <dl>
+       <dd>
+        <dl>
+         <dd>
+          Me dá isso. (Brazilian Portuguese)
+         </dd>
+        </dl>
+       </dd>
+      </dl>
+      <dl>
+       <dd>
+        <dl>
+         <dd>
+          Dá-me isso. (European Portuguese)
+         </dd>
+        </dl>
+       </dd>
+      </dl>
+      <dl>
+       <dd>
+        <dl>
+         <dd>
+          Dámelo. (Spanish)
+         </dd>
+        </dl>
+       </dd>
+      </dl>
+      <dl>
+       <dd>
+        <dl>
+         <dd>
+          Dammelo. (Italian)
+         </dd>
+        </dl>
+       </dd>
+      </dl>
+      <h2>
+       <span class="mw-headline" id="Coordinated_sentences">
+        Coordinated sentences
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Subject_(grammar)&amp;action=edit&amp;section=5" title="Edit section: Coordinated sentences">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       One criterion for identifying a subject in various languages is the possibility of its omission in coordinated sentences such as the following:
+       <sup class="reference" id="cite_ref-7">
+        <a href="#cite_note-7">
+         [7]
+        </a>
+       </sup>
+      </p>
+      <ul>
+       <li>
+        The man hit the woman and [the man] came here.
+       </li>
+      </ul>
+      <p>
+       In a passive construction, the patient becomes the subject by this criterion:
+      </p>
+      <ul>
+       <li>
+        The woman was hit by the man and [the woman] came here.
+       </li>
+      </ul>
+      <p>
+       In ergative languages such as the nearly extinct Australian language
+       <a href="/wiki/Dyirbal_language" title="Dyirbal language">
+        Dyirbal
+       </a>
+       , in a transitive sentence it is the patient rather than the agent that can be omitted in such sentences:
+      </p>
+      <ul>
+       <li>
+        <i>
+         Balan d
+         <sup>
+          y
+         </sup>
+         ugumbil baŋgul yaraŋgu balgan, banin
+         <sup>
+          y
+         </sup>
+         u
+        </i>
+        'The man (
+        <i>
+         bayi yara
+        </i>
+        ) hit the woman (
+        <i>
+         balan d
+         <sup>
+          y
+         </sup>
+         ugumbil
+        </i>
+        ) and [she] came here'
+       </li>
+      </ul>
+      <p>
+       This suggests that in ergative languages of this kind the patient is actually the subject in a transitive sentence.
+      </p>
+      <h2>
+       <span class="mw-headline" id="Difficult_cases">
+        Difficult cases
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Subject_(grammar)&amp;action=edit&amp;section=6" title="Edit section: Difficult cases">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       There are certain constructions that challenge the criteria just introduced for identifying subjects. The following subsections briefly illustrate three such cases in English: 1) existential
+       <i>
+        there
+       </i>
+       -constructions, 2)
+       <a class="mw-redirect" href="/wiki/Inverse_copular_construction" title="Inverse copular construction">
+        inverse copular constructions
+       </a>
+       , and 3)
+       <a class="mw-redirect" href="/wiki/Subject-verb_inversion" title="Subject-verb inversion">
+        locative inversion
+       </a>
+       constructions.
+      </p>
+      <h3>
+       <span class="mw-headline" id="Existential_there-constructions">
+        Existential
+        <i>
+         there
+        </i>
+        -constructions
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Subject_(grammar)&amp;action=edit&amp;section=7" title="Edit section: Existential there-constructions">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       Existential
+       <i>
+        there
+       </i>
+       -constructions allow for varying interpretations about what should count as the subject, e.g.
+      </p>
+      <dl>
+       <dd>
+        <dl>
+         <dd>
+          a.
+          <b>
+           There'
+          </b>
+          s problems.
+         </dd>
+        </dl>
+       </dd>
+      </dl>
+      <dl>
+       <dd>
+        <dl>
+         <dd>
+          b. There are
+          <b>
+           problems
+          </b>
+          .
+         </dd>
+        </dl>
+       </dd>
+      </dl>
+      <p>
+       In sentence a, the first criterion (agreement) and the second criterion (position occupied) suggest that
+       <i>
+        there
+       </i>
+       is the subject, whereas the third criterion (semantic role) suggests rather that
+       <i>
+        problems
+       </i>
+       is the subject. In sentence b, in contrast, agreement and semantic role suggest that
+       <i>
+        problems
+       </i>
+       is the subject, whereas position occupied suggests that
+       <i>
+        there
+       </i>
+       is the subject. In such cases then, one can take the first criterion as the most telling; the subject should agree with the finite verb.
+       <sup class="reference" id="cite_ref-8">
+        <a href="#cite_note-8">
+         [8]
+        </a>
+       </sup>
+      </p>
+      <h3>
+       <span class="mw-headline" id="Inverse_copular_constructions">
+        Inverse copular constructions
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Subject_(grammar)&amp;action=edit&amp;section=8" title="Edit section: Inverse copular constructions">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       Another difficult case for identifying the subject is the so-called
+       <i>
+        <a class="mw-redirect" href="/wiki/Inverse_copular_construction" title="Inverse copular construction">
+         inverse copular construction
+        </a>
+       </i>
+       , e.g.
+       <sup class="reference" id="cite_ref-9">
+        <a href="#cite_note-9">
+         [9]
+        </a>
+       </sup>
+      </p>
+      <dl>
+       <dd>
+        <dl>
+         <dd>
+          a.
+          <b>
+           The boys
+          </b>
+          are a chaotic force around here.
+         </dd>
+        </dl>
+       </dd>
+      </dl>
+      <dl>
+       <dd>
+        <dl>
+         <dd>
+          b.
+          <b>
+           A chaotic force around here
+          </b>
+          is the boys.
+          <small>
+           - Inverse copular construction
+          </small>
+         </dd>
+        </dl>
+       </dd>
+      </dl>
+      <p>
+       The criteria combine to identify
+       <i>
+        the boys
+       </i>
+       as the subject in sentence a. But if that is the case, then one might argue that
+       <i>
+        the boys
+       </i>
+       is also the subject in the similar sentence b, even though two of the criteria (agreement and position occupied) suggest that
+       <i>
+        a chaotic force around here
+       </i>
+       is the subject. When confronted with such data, one has to make a decision that is less than fully arbitrary. If one assumes again that criterion one (agreement) is the most reliable, one can usually identify a subject.
+      </p>
+      <h3>
+       <span class="mw-headline" id="Locative_inversion_constructions">
+        Locative inversion constructions
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Subject_(grammar)&amp;action=edit&amp;section=9" title="Edit section: Locative inversion constructions">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       Yet another type of construction that challenges the subject concept is locative
+       <a class="mw-redirect" href="/wiki/Subject-verb_inversion" title="Subject-verb inversion">
+        inversion
+       </a>
+       , e.g.
+      </p>
+      <dl>
+       <dd>
+        <dl>
+         <dd>
+          a.
+          <b>
+           Spiders
+          </b>
+          have been breeding under the bed.
+         </dd>
+        </dl>
+       </dd>
+      </dl>
+      <dl>
+       <dd>
+        <dl>
+         <dd>
+          b. Under the bed have been breeding
+          <b>
+           spiders
+          </b>
+          .
+          <small>
+           - Locative inversion
+          </small>
+         </dd>
+        </dl>
+       </dd>
+      </dl>
+      <dl>
+       <dd>
+        <dl>
+         <dd>
+          c. *Where have been breeding
+          <b>
+           spiders
+          </b>
+          ?
+          <small>
+           - Failed attempt to question the location
+          </small>
+         </dd>
+        </dl>
+       </dd>
+      </dl>
+      <dl>
+       <dd>
+        <dl>
+         <dd>
+          d. Where have
+          <b>
+           spiders
+          </b>
+          been breeding?
+          <small>
+           - Successful attempt to question the location
+          </small>
+         </dd>
+        </dl>
+       </dd>
+      </dl>
+      <p>
+       The criteria easily identify
+       <i>
+        spiders
+       </i>
+       as the subject in sentence a. In sentence b, however, the position occupied suggests that
+       <i>
+        under the bed
+       </i>
+       should be construed as the subject, whereas agreement and semantic role continue to identify
+       <i>
+        spiders
+       </i>
+       as the subject. This is so despite the fact that
+       <i>
+        spiders
+       </i>
+       in sentence b appears after the string of verbs in the canonical position of an object. The fact that sentence c is bad but sentence d good reveals that something unusual is indeed afoot, since the attempt to question the location fails if the subject does not immediately follow the finite verb. This further observation speaks against taking
+       <i>
+        spiders
+       </i>
+       as the subject in sentence b. But if
+       <i>
+        spiders
+       </i>
+       is not the subject, then the sentence must lack a subject entirely, which is not supposed to be possible in English.
+      </p>
+      <h2>
+       <span class="mw-headline" id="Subject-less_clauses">
+        Subject-less clauses
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Subject_(grammar)&amp;action=edit&amp;section=10" title="Edit section: Subject-less clauses">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       The existence of subject-less clauses can be construed as particularly problematic for theories of sentence structure that build on the binary subject-predicate division. A simple sentence is defined as the combination of a subject and a predicate, but if no subject is present, how can one have a sentence? Subject-less clauses are absent from English for the most part, but they are not unusual in related languages. In German, for instance, impersonal passive clauses can lack a recognizable subject, e.g.
+      </p>
+      <dl>
+       <dd>
+        <dl>
+         <dd>
+          <table class="wikitable">
+           <tr>
+            <td>
+             Gestern
+            </td>
+            <td>
+             wurde
+            </td>
+            <td>
+             nur
+            </td>
+            <td>
+             geschlafen.
+            </td>
+            <td>
+            </td>
+           </tr>
+           <tr>
+            <td>
+             yesterday
+            </td>
+            <td>
+             was
+            </td>
+            <td>
+             only
+            </td>
+            <td>
+             slept
+            </td>
+            <td>
+             'Everybody slept yesterday.'
+            </td>
+           </tr>
+          </table>
+         </dd>
+        </dl>
+       </dd>
+      </dl>
+      <p>
+       The word
+       <i>
+        gestern
+       </i>
+       'yesterday' is generally construed as an adverb, which means it cannot be taken as the subject in this sentence. Certain verbs in German also require a dative or accusative object instead of a nominative subject, e.g.
+      </p>
+      <dl>
+       <dd>
+        <dl>
+         <dd>
+          <table class="wikitable">
+           <tr>
+            <td>
+             Mir
+            </td>
+            <td>
+             graut
+            </td>
+            <td>
+             davor.
+            </td>
+            <td>
+            </td>
+           </tr>
+           <tr>
+            <td>
+             Me-DAT
+            </td>
+            <td>
+             is uneasy
+            </td>
+            <td>
+             about it
+            </td>
+            <td>
+             'I am uneasy about it.'
+            </td>
+           </tr>
+          </table>
+         </dd>
+        </dl>
+       </dd>
+      </dl>
+      <p>
+       Since subjects are typically marked by the nominative case in German (the fourth criterion above), one can argue that this sentence lacks a subject, for the relevant verb argument appears in the dative case, not in the nominative.
+      </p>
+      <h2>
+       <span class="mw-headline" id="Subjects_in_sentence_structure">
+        Subjects in sentence structure
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Subject_(grammar)&amp;action=edit&amp;section=11" title="Edit section: Subjects in sentence structure">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       The subject receives a privileged status in theories of sentence structure. In those approaches that acknowledge the binary division of the clause into a subject and a predicate (as is the case in most
+       <a href="/wiki/Phrase_structure_grammar" title="Phrase structure grammar">
+        phrase structure grammars
+       </a>
+       ), the subject is usually an immediate dependent of the root node, whereby its sister is the predicate. The object, in contrast, appears lower in the structure as a dependent of the/a verb, e.g.
+       <sup class="reference" id="cite_ref-10">
+        <a href="#cite_note-10">
+         [10]
+        </a>
+       </sup>
+      </p>
+      <dl>
+       <dd>
+        <dl>
+         <dd>
+          <a class="image" href="/wiki/File:Subjects_1.1.png" title="Subjects 1.1">
+           <img alt="Subjects 1.1" data-file-height="218" data-file-width="771" height="218" src="//upload.wikimedia.org/wikipedia/commons/2/25/Subjects_1.1.png" width="771"/>
+          </a>
+         </dd>
+        </dl>
+       </dd>
+      </dl>
+      <p>
+       Subjects are indicated using blue, and objects using orange. The special status of the subject is visible insofar as the subject is higher in the tree each time than the object. In theories of syntax that reject the initial division (as is the case in most
+       <a href="/wiki/Dependency_grammar" title="Dependency grammar">
+        dependency grammars
+       </a>
+       ), the subject is nevertheless also granted a privileged status insofar as it is an immediate dependent of the finite verb. The following trees are those of a dependency grammar:
+       <sup class="reference" id="cite_ref-11">
+        <a href="#cite_note-11">
+         [11]
+        </a>
+       </sup>
+      </p>
+      <dl>
+       <dd>
+        <dl>
+         <dd>
+          <a class="image" href="/wiki/File:Subjects_2.png" title="Subjects 2">
+           <img alt="Subjects 2" data-file-height="148" data-file-width="719" height="148" src="//upload.wikimedia.org/wikipedia/commons/a/ac/Subjects_2.png" width="719"/>
+          </a>
+         </dd>
+        </dl>
+       </dd>
+      </dl>
+      <p>
+       The subject is a dependent of the root node, the finite verb, in both trees. The object, in contrast, appears lower in the second tree, where it is a dependent of the non-finite verb. The subject remains a dependent finite verb when subject-auxiliary inversion occurs:
+      </p>
+      <dl>
+       <dd>
+        <dl>
+         <dd>
+          <a class="image" href="/wiki/File:Subjects_3.png" title="Subjects 3">
+           <img alt="Subjects 3" data-file-height="146" data-file-width="325" height="146" src="//upload.wikimedia.org/wikipedia/commons/a/a3/Subjects_3.png" width="325"/>
+          </a>
+         </dd>
+        </dl>
+       </dd>
+      </dl>
+      <p>
+       The prominence of the subject is consistently reflected in its position in the tree as an immediate dependent of the root word, the finite verb.
+      </p>
+      <h2>
+       <span class="mw-headline" id="See_also">
+        See also
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Subject_(grammar)&amp;action=edit&amp;section=12" title="Edit section: See also">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+       <tr>
+        <td class="mbox-image">
+         <img alt="" class="noviewer" data-file-height="391" data-file-width="391" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/40px-Wiktionary-logo-en-v2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/60px-Wiktionary-logo-en-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/80px-Wiktionary-logo-en-v2.svg.png 2x" width="40"/>
+        </td>
+        <td class="mbox-text plainlist">
+         Look up
+         <i>
+          <b>
+           <a class="extiw" href="https://en.wiktionary.org/wiki/subject" title="wiktionary:subject">
+            subject
+           </a>
+          </b>
+         </i>
+         in Wiktionary, the free dictionary.
+        </td>
+       </tr>
+      </table>
+      <div class="div-col columns column-count column-count-3" style="-moz-column-count: 3; -webkit-column-count: 3; column-count: 3;">
+       <ul>
+        <li>
+         <a href="/wiki/Complement_(linguistics)" title="Complement (linguistics)">
+          Complement (linguistics)
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Copula_(linguistics)" title="Copula (linguistics)">
+          Copula
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Grammatical_case" title="Grammatical case">
+          Grammatical case
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Object_(grammar)" title="Object (grammar)">
+          Object (grammar)
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Quirky_subject" title="Quirky subject">
+          Quirky subject
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Sentence_(linguistics)" title="Sentence (linguistics)">
+          Sentence (linguistics)
+         </a>
+        </li>
+        <li>
+         <a class="mw-redirect" href="/wiki/Subjective_(grammar)" title="Subjective (grammar)">
+          Subjective (grammar)
+         </a>
+        </li>
+       </ul>
+      </div>
+      <h2>
+       <span class="mw-headline" id="Notes">
+        Notes
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Subject_(grammar)&amp;action=edit&amp;section=13" title="Edit section: Notes">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+       <ol class="references">
+        <li id="cite_note-1">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-1">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          Comrie (1989), pp.105-6.
+         </span>
+        </li>
+        <li id="cite_note-2">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-2">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          See Conner (1968:43ff.) for a discussion of the traditional subject concept.
+         </span>
+        </li>
+        <li id="cite_note-3">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-3">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          The division of the clause into a subject and a predicate is a view of sentence structure that is adopted by most English grammars, e.g. Conner (1968:43), Freeborn (1995:121), and Biber et al. (1999:122).
+         </span>
+        </li>
+        <li id="cite_note-4">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-4">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          See Tesnière (1969:103-105) for the alternative concept of sentence structure that puts the subject and the object on more equal footing since they can both be dependents of a (finite) verb.
+         </span>
+        </li>
+        <li id="cite_note-5">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-5">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          See Biber et al. (1999:123) for a similar list of criteria for identifying subjects.
+         </span>
+        </li>
+        <li id="cite_note-6">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-6">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          For basic discussions of subject-verb agreement, see for instance Barry (1998:68f.), Fergusson and Manser (1998:36f.), and Jurafsky and Martin (2000:366f.).
+         </span>
+        </li>
+        <li id="cite_note-7">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-7">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          Discussion in Comrie (1989), pp.111ff.
+         </span>
+        </li>
+        <li id="cite_note-8">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-8">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          For a discussion of the subject status of existential
+          <i>
+           there
+          </i>
+          , see Biber et al. (1999:944).
+         </span>
+        </li>
+        <li id="cite_note-9">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-9">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          For in depth studies of inverse copular constructions, see Moro (1997) and Mikkelsen (2005).
+         </span>
+        </li>
+        <li id="cite_note-10">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-10">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          Phrase structure trees similar to the ones produced here can be found in numerous introductory texts to grammar and syntax, e.g. Payne (2011).
+         </span>
+        </li>
+        <li id="cite_note-11">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-11">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          Dependency trees similar to the ones produced here can be found in *Ágel et al. (2003/6).
+         </span>
+        </li>
+       </ol>
+      </div>
+      <h2>
+       <span class="mw-headline" id="References">
+        References
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Subject_(grammar)&amp;action=edit&amp;section=14" title="Edit section: References">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="refbegin" style="">
+       <div class="div-col columns column-count column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2;">
+        <ul>
+         <li>
+          Ágel, V., L. Eichinger, H.-W. Eroms, P. Hellwig, H. Heringer, and H. Lobin (eds.) 2003/6.
+          <i>
+           Dependency and valency: An International Handbook of Contemporary Research
+          </i>
+          . Berlin: Walter de Gruyter.
+         </li>
+         <li>
+          Barry, A. 1998.
+          <i>
+           English Grammar: Language as Human Behavior
+          </i>
+          . Upper Saddle River, NJ.: Prentice Hall.
+         </li>
+         <li>
+          Biber, D. et al. 1999.
+          <i>
+           Longman Grammar of spoken and written English
+          </i>
+          . Essex, England: Pearson Education limited.
+         </li>
+         <li>
+          Collins
+          <i>
+           Cobuild English Grammar
+          </i>
+          1995. London: HarperCollins Publishers.
+         </li>
+         <li>
+          Comrie, Bernard (1981, 2nd ed. 1989)
+          <a class="external text" href="http://202.121.96.130/download/20150430215829207.pdf" rel="nofollow">
+           <i>
+            Language Universals and Linguistic Typology
+           </i>
+          </a>
+          . University of Chicago Press.
+         </li>
+         <li>
+          Conner, J. 1968.
+          <i>
+           A Grammar of Standard English
+          </i>
+          . Boston: Houghton Mifflin Company.
+         </li>
+         <li>
+          Fergusson, R. and M. Manser 1998.
+          <i>
+           The Macmillan Guide to English Grammar
+          </i>
+          . London: Macmillan.
+         </li>
+         <li>
+          Hale, K.; Keyser, J. (2002). "Prolegomena to a theory of argument structure",
+          <i>
+           Linguistic Inquiry Monograph, 39,
+          </i>
+          MIT Press, Cambridge, Massachusetts.
+         </li>
+         <li>
+          Jurafsky, D. and J. Martin 2000.
+          <i>
+           Speech and Language Processing: An introduction to natural language processing, computational linguistics, and speech recognition
+          </i>
+          . New Delhi, India: Pearson Education.
+         </li>
+         <li>
+          Mikkelsen, L. 2005. Copular clauses: Specification, predication, and equation.
+          <i>
+           Linguistics Today
+          </i>
+          85. Amsterdam: John Benjamins.
+         </li>
+         <li>
+          Moro, A. 1997.
+          <i>
+           The raising of predicates. Predicative noun phrases and the theory of clause structure
+          </i>
+          , Cambridge Studies in Linguistics, Cambridge University Press, Cambridge, England.
+         </li>
+         <li>
+          Payne, T. 2011.
+          <i>
+           Understanding English Grammar
+          </i>
+          . Cambridge, UK: Cambridge University Press.
+         </li>
+         <li>
+          Tesnière, L. 1969.
+          <i>
+           Éleménts de syntaxe structurale
+          </i>
+          . 2nd edition. Paris: Klincksieck.
+         </li>
+        </ul>
+       </div>
+       <p>
+        <br/>
+       </p>
+       <div aria-label="Navbox" class="navbox" role="navigation" style="padding:3px">
+        <table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+         <tr>
+          <th class="navbox-group" scope="row" style="width:1%">
+           <a href="/wiki/Help:Authority_control" title="Help:Authority control">
+            Authority control
+           </a>
+          </th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <ul>
+             <li>
+              <span class="nowrap">
+               <a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">
+                GND
+               </a>
+               :
+               <span class="uid">
+                <a class="external text" href="https://d-nb.info/gnd/4158019-9" rel="nofollow">
+                 4158019-9
+                </a>
+               </span>
+              </span>
+             </li>
+            </ul>
+           </div>
+          </td>
+         </tr>
+        </table>
+       </div>
+      </div>
+      <!-- 
+NewPP limit report
+Parsed by mw1268
+Cached time: 20180124210705
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.148 seconds
+Real time usage: 0.211 seconds
+Preprocessor visited node count: 838/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 19975/2097152 bytes
+Template argument size: 1544/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 1/500
+Lua time usage: 0.046/10.000 seconds
+Lua memory usage: 1.53 MB/50 MB
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  162.991      1 -total
+ 31.33%   51.065      1 Template:Globalize
+ 19.10%   31.135      1 Template:Ambox
+ 18.09%   29.478      1 Template:Authority_control
+ 13.86%   22.591      1 Template:Linguistics
+ 12.51%   20.391      1 Template:Sidebar
+  8.43%   13.746      1 Template:Wiktionary
+  7.22%   11.763      2 Template:Div_col
+  6.48%   10.569      1 Template:Reflist
+  6.33%   10.323      1 Template:Sister_project
+-->
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:594590-0!canonical and timestamp 20180124210705 and revision id 821660039
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Subject_(grammar)&amp;oldid=821660039">
+      https://en.wikipedia.org/w/index.php?title=Subject_(grammar)&amp;oldid=821660039
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Syntactic_entities" title="Category:Syntactic entities">
+         Syntactic entities
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:Articles_with_limited_geographic_scope_from_October_2016" title="Category:Articles with limited geographic scope from October 2016">
+         Articles with limited geographic scope from October 2016
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Pages_using_div_col_with_deprecated_parameters" title="Category:Pages using div col with deprecated parameters">
+         Pages using div col with deprecated parameters
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">
+         Wikipedia articles with GND identifiers
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Subject+%28grammar%29" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Subject+%28grammar%29" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Subject_(grammar)" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Subject_(grammar)" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="collapsible selected" id="ca-view">
+        <span>
+         <a href="/wiki/Subject_(grammar)">
+          Read
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Subject_(grammar)&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Subject_(grammar)&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Subject_(grammar)" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Subject_(grammar)" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Subject_(grammar)&amp;oldid=821660039" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Subject_(grammar)&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q164573" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Subject_%28grammar%29&amp;id=821660039" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Subject+%28grammar%29">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Subject+%28grammar%29&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Subject_(grammar)&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-af">
+        <a class="interlanguage-link-target" href="https://af.wikipedia.org/wiki/Onderwerp_(taalkunde)" hreflang="af" lang="af" title="Onderwerp (taalkunde) – Afrikaans">
+         Afrikaans
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ar">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%85%D8%A8%D8%AA%D8%AF%D8%A3" hreflang="ar" lang="ar" title="مبتدأ – Arabic">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ay">
+        <a class="interlanguage-link-target" href="https://ay.wikipedia.org/wiki/Luriri" hreflang="ay" lang="ay" title="Luriri – Aymara">
+         Aymar aru
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-az">
+        <a class="interlanguage-link-target" href="https://az.wikipedia.org/wiki/M%C3%BCbt%C9%99da" hreflang="az" lang="az" title="Mübtəda – Azerbaijani">
+         Azərbaycanca
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-azb">
+        <a class="interlanguage-link-target" href="https://azb.wikipedia.org/wiki/%D8%A7%D8%A4%D8%B2%D9%86%D9%87" hreflang="azb" lang="azb" title="اؤزنه – South Azerbaijani">
+         تۆرکجه
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bg">
+        <a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%9F%D0%BE%D0%B4%D0%BB%D0%BE%D0%B3" hreflang="bg" lang="bg" title="Подлог – Bulgarian">
+         Български
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-br">
+        <a class="interlanguage-link-target" href="https://br.wikipedia.org/wiki/Rener_(yezhadur)" hreflang="br" lang="br" title="Rener (yezhadur) – Breton">
+         Brezhoneg
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Subjecte_(sintaxi)" hreflang="ca" lang="ca" title="Subjecte (sintaxi) – Catalan">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cv">
+        <a class="interlanguage-link-target" href="https://cv.wikipedia.org/wiki/%D0%A1%D1%83%D0%B1%D1%8A%D0%B5%D0%BA%D1%82_(%D1%81%D0%B8%D0%BD%D1%82%D0%B0%D0%BA%D1%81%D0%B8%D1%81)" hreflang="cv" lang="cv" title="Субъект (синтаксис) – Chuvash">
+         Чӑвашла
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cs">
+        <a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Podm%C4%9Bt" hreflang="cs" lang="cs" title="Podmět – Czech">
+         Čeština
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cy">
+        <a class="interlanguage-link-target" href="https://cy.wikipedia.org/wiki/Goddrych" hreflang="cy" lang="cy" title="Goddrych – Welsh">
+         Cymraeg
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-da">
+        <a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Subjekt_(grammatik)" hreflang="da" lang="da" title="Subjekt (grammatik) – Danish">
+         Dansk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Subjekt_(Grammatik)" hreflang="de" lang="de" title="Subjekt (Grammatik) – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-et">
+        <a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Alus_(keeleteadus)" hreflang="et" lang="et" title="Alus (keeleteadus) – Estonian">
+         Eesti
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-el">
+        <a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%A5%CF%80%CE%BF%CE%BA%CE%B5%CE%AF%CE%BC%CE%B5%CE%BD%CE%BF_(%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%B1%CF%84%CE%B9%CE%BA%CE%AE)" hreflang="el" lang="el" title="Υποκείμενο (γραμματική) – Greek">
+         Ελληνικά
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eml">
+        <a class="interlanguage-link-target" href="https://eml.wikipedia.org/wiki/Sug%C3%A8t" hreflang="eml" lang="eml" title="Sugèt – Emiliano-Romagnolo">
+         Emiliàn e rumagnòl
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Sujeto_(gram%C3%A1tica)" hreflang="es" lang="es" title="Sujeto (gramática) – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eu">
+        <a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Subjektu_(gramatika)" hreflang="eu" lang="eu" title="Subjektu (gramatika) – Basque">
+         Euskara
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fa">
+        <a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D9%86%D9%87%D8%A7%D8%AF_(%D8%AF%D8%B3%D8%AA%D9%88%D8%B1_%D8%B2%D8%A8%D8%A7%D9%86)" hreflang="fa" lang="fa" title="نهاد (دستور زبان) – Persian">
+         فارسی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Sujet_(grammaire)" hreflang="fr" lang="fr" title="Sujet (grammaire) – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-gv">
+        <a class="interlanguage-link-target" href="https://gv.wikipedia.org/wiki/Kione_(grammeydys)" hreflang="gv" lang="gv" title="Kione (grammeydys) – Manx">
+         Gaelg
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-gd">
+        <a class="interlanguage-link-target" href="https://gd.wikipedia.org/wiki/C%C3%B9isear" hreflang="gd" lang="gd" title="Cùisear – Scottish Gaelic">
+         Gàidhlig
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-gl">
+        <a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Suxeito_(gram%C3%A1tica)" hreflang="gl" lang="gl" title="Suxeito (gramática) – Galician">
+         Galego
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-gan">
+        <a class="interlanguage-link-target" href="https://gan.wikipedia.org/wiki/%E4%B8%BB%E8%AA%9E" hreflang="gan" lang="gan" title="主語 – Gan Chinese">
+         贛語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ko">
+        <a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%A3%BC%EC%96%B4" hreflang="ko" lang="ko" title="주어 – Korean">
+         한국어
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hy">
+        <a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D4%B5%D5%B6%D5%A9%D5%A1%D5%AF%D5%A1" hreflang="hy" lang="hy" title="Ենթակա – Armenian">
+         Հայերեն
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hi">
+        <a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%BE" hreflang="hi" lang="hi" title="कर्ता – Hindi">
+         हिन्दी
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hr">
+        <a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Subjekt" hreflang="hr" lang="hr" title="Subjekt – Croatian">
+         Hrvatski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-io">
+        <a class="interlanguage-link-target" href="https://io.wikipedia.org/wiki/Subjekto" hreflang="io" lang="io" title="Subjekto – Ido">
+         Ido
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-is">
+        <a class="interlanguage-link-target" href="https://is.wikipedia.org/wiki/Frumlag" hreflang="is" lang="is" title="Frumlag – Icelandic">
+         Íslenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Soggetto_(linguistica)" hreflang="it" lang="it" title="Soggetto (linguistica) – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-he">
+        <a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%A0%D7%95%D7%A9%D7%90_(%D7%AA%D7%97%D7%91%D7%99%D7%A8)" hreflang="he" lang="he" title="נושא (תחביר) – Hebrew">
+         עברית
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ka">
+        <a class="interlanguage-link-target" href="https://ka.wikipedia.org/wiki/%E1%83%A5%E1%83%95%E1%83%94%E1%83%9B%E1%83%93%E1%83%94%E1%83%91%E1%83%90%E1%83%A0%E1%83%94" hreflang="ka" lang="ka" title="ქვემდებარე – Georgian">
+         ქართული
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-kk">
+        <a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/%D0%91%D0%B0%D1%81%D1%82%D0%B0%D1%83%D1%8B%D1%88" hreflang="kk" lang="kk" title="Бастауыш – Kazakh">
+         Қазақша
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-la">
+        <a class="interlanguage-link-target" href="https://la.wikipedia.org/wiki/Subiectum_(grammatica_generalis)" hreflang="la" lang="la" title="Subiectum (grammatica generalis) – Latin">
+         Latina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lv">
+        <a class="interlanguage-link-target" href="https://lv.wikipedia.org/wiki/Teikuma_priek%C5%A1mets" hreflang="lv" lang="lv" title="Teikuma priekšmets – Latvian">
+         Latviešu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lt">
+        <a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Veiksnys" hreflang="lt" lang="lt" title="Veiksnys – Lithuanian">
+         Lietuvių
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-li">
+        <a class="interlanguage-link-target" href="https://li.wikipedia.org/wiki/Subjek_(taol)" hreflang="li" lang="li" title="Subjek (taol) – Limburgish">
+         Limburgs
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ln">
+        <a class="interlanguage-link-target" href="https://ln.wikipedia.org/wiki/Mokonza" hreflang="ln" lang="ln" title="Mokonza – Lingala">
+         Lingála
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hu">
+        <a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Alany_(nyelv%C3%A9szet)" hreflang="hu" lang="hu" title="Alany (nyelvészet) – Hungarian">
+         Magyar
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-mk">
+        <a class="interlanguage-link-target" href="https://mk.wikipedia.org/wiki/%D0%9F%D0%BE%D0%B4%D0%BC%D0%B5%D1%82" hreflang="mk" lang="mk" title="Подмет – Macedonian">
+         Македонски
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ml">
+        <a class="interlanguage-link-target" href="https://ml.wikipedia.org/wiki/%E0%B4%86%E0%B4%96%E0%B5%8D%E0%B4%AF" hreflang="ml" lang="ml" title="ആഖ്യ – Malayalam">
+         മലയാളം
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nl">
+        <a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Onderwerp_(taalkunde)" hreflang="nl" lang="nl" title="Onderwerp (taalkunde) – Dutch">
+         Nederlands
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E4%B8%BB%E8%AA%9E" hreflang="ja" lang="ja" title="主語 – Japanese">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-no">
+        <a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Subjekt_(grammatikk)" hreflang="no" lang="no" title="Subjekt (grammatikk) – Norwegian">
+         Norsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nn">
+        <a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Subjekt" hreflang="nn" lang="nn" title="Subjekt – Norwegian Nynorsk">
+         Norsk nynorsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uz">
+        <a class="interlanguage-link-target" href="https://uz.wikipedia.org/wiki/Ega" hreflang="uz" lang="uz" title="Ega – Uzbek">
+         Oʻzbekcha/ўзбекча
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pa">
+        <a class="interlanguage-link-target" href="https://pa.wikipedia.org/wiki/%E0%A8%95%E0%A8%B0%E0%A8%A4%E0%A8%BE_(%E0%A8%B5%E0%A8%BF%E0%A8%86%E0%A8%95%E0%A8%B0%E0%A8%A8)" hreflang="pa" lang="pa" title="ਕਰਤਾ (ਵਿਆਕਰਨ) – Punjabi">
+         ਪੰਜਾਬੀ
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-koi">
+        <a class="interlanguage-link-target" href="https://koi.wikipedia.org/wiki/%D0%AE%D1%80%D0%B0%D0%BA%D1%8B%D0%B2" hreflang="koi" lang="koi" title="Юракыв – Komi-Permyak">
+         Перем Коми
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-km">
+        <a class="interlanguage-link-target" href="https://km.wikipedia.org/wiki/%E1%9E%94%E1%9F%92%E1%9E%9A%E1%9E%92%E1%9E%B6%E1%9E%93" hreflang="km" lang="km" title="ប្រធាន – Khmer">
+         ភាសាខ្មែរ
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pl">
+        <a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Podmiot_(j%C4%99zykoznawstwo)" hreflang="pl" lang="pl" title="Podmiot (językoznawstwo) – Polish">
+         Polski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Sujeito" hreflang="pt" lang="pt" title="Sujeito – Portuguese">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ro">
+        <a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Subiect" hreflang="ro" lang="ro" title="Subiect – Romanian">
+         Română
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%B4%D0%BB%D0%B5%D0%B6%D0%B0%D1%89%D0%B5%D0%B5" hreflang="ru" lang="ru" title="Подлежащее – Russian">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sco">
+        <a class="interlanguage-link-target" href="https://sco.wikipedia.org/wiki/Subject_(grammar)" hreflang="sco" lang="sco" title="Subject (grammar) – Scots">
+         Scots
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-simple">
+        <a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Subject_(grammar)" hreflang="simple" lang="simple" title="Subject (grammar) – Simple English">
+         Simple English
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sk">
+        <a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Podmet" hreflang="sk" lang="sk" title="Podmet – Slovak">
+         Slovenčina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sl">
+        <a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Osebek" hreflang="sl" lang="sl" title="Osebek – Slovenian">
+         Slovenščina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ckb">
+        <a class="interlanguage-link-target" href="https://ckb.wikipedia.org/wiki/%D9%86%DB%8C%DA%BE%D8%A7%D8%AF_(%DA%95%DB%8E%D8%B2%D9%85%D8%A7%D9%86)" hreflang="ckb" lang="ckb" title="نیھاد (ڕێزمان) – Central Kurdish">
+         کوردی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sr">
+        <a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%A1%D1%83%D0%B1%D1%98%D0%B5%D0%BA%D0%B0%D1%82_(%D0%B3%D1%80%D0%B0%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0)" hreflang="sr" lang="sr" title="Субјекат (граматика) – Serbian">
+         Српски / srpski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fi">
+        <a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Subjekti_(lauseenj%C3%A4sen)" hreflang="fi" lang="fi" title="Subjekti (lauseenjäsen) – Finnish">
+         Suomi
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sv">
+        <a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Subjekt_(satsdel)" hreflang="sv" lang="sv" title="Subjekt (satsdel) – Swedish">
+         Svenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ta">
+        <a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%8E%E0%AE%B4%E0%AF%81%E0%AE%B5%E0%AE%BE%E0%AE%AF%E0%AF%8D" hreflang="ta" lang="ta" title="எழுவாய் – Tamil">
+         தமிழ்
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tr">
+        <a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/%C3%96zne" hreflang="tr" lang="tr" title="Özne – Turkish">
+         Türkçe
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uk">
+        <a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%9F%D1%96%D0%B4%D0%BC%D0%B5%D1%82" hreflang="uk" lang="uk" title="Підмет – Ukrainian">
+         Українська
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-wa">
+        <a class="interlanguage-link-target" href="https://wa.wikipedia.org/wiki/Sudjet" hreflang="wa" lang="wa" title="Sudjet – Walloon">
+         Walon
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E4%B8%BB%E8%AA%9E" hreflang="zh" lang="zh" title="主語 – Chinese">
+         中文
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q164573#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 21 January 2018, at 21:25.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Subject_(grammar)&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.148","walltime":"0.211","ppvisitednodes":{"value":838,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":19975,"limit":2097152},"templateargumentsize":{"value":1544,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  162.991      1 -total"," 31.33%   51.065      1 Template:Globalize"," 19.10%   31.135      1 Template:Ambox"," 18.09%   29.478      1 Template:Authority_control"," 13.86%   22.591      1 Template:Linguistics"," 12.51%   20.391      1 Template:Sidebar","  8.43%   13.746      1 Template:Wiktionary","  7.22%   11.763      2 Template:Div_col","  6.48%   10.569      1 Template:Reflist","  6.33%   10.323      1 Template:Sister_project"]},"scribunto":{"limitreport-timeusage":{"value":"0.046","limit":"10.000"},"limitreport-memusage":{"value":1607534,"limit":52428800}},"cachereport":{"origin":"mw1268","timestamp":"20180124210705","ttl":1900800,"transientcontent":false}}});});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":84,"wgHostname":"mw1272"});});
+  </script>
+ </body>
+</html>

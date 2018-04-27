@@ -1,0 +1,4827 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Focus (linguistics) - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Focus_(linguistics)","wgTitle":"Focus (linguistics)","wgCurRevisionId":745298483,"wgRevisionId":745298483,"wgArticleId":1315845,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Grammatical categories","Syntactic entities","Semantics"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Focus_(linguistics)","wgRelevantArticleId":1315845,"wgRequestId":"WnKmLgpAIDAAABxpwgsAAACE","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q1435289","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.31.0-wmf.17" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Focus_(linguistics)" rel="alternate"/>
+  <link href="/w/index.php?title=Focus_(linguistics)&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Focus_(linguistics)&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/Focus_(linguistics)" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Focus_linguistics rootpage-Focus_linguistics skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Focus (linguistics)
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:18em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+       <tr>
+        <th class="navbox-title" style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em;font-size:110%;">
+         <a href="/wiki/Grammatical_category" title="Grammatical category">
+          Grammatical categories
+         </a>
+        </th>
+       </tr>
+       <tr>
+        <td class="hlist" style="padding:0 0.1em 0.4em;padding:0.5em 1.0em 0;">
+         <ul>
+          <li>
+           <a href="/wiki/Affect_(linguistics)" title="Affect (linguistics)">
+            Affect
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Agent_(grammar)" title="Agent (grammar)">
+            Agent
+           </a>
+           /
+           <a href="/wiki/Patient_(grammar)" title="Patient (grammar)">
+            Patient
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Agreement_(linguistics)" title="Agreement (linguistics)">
+            Agreement
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Animacy" title="Animacy">
+            Animacy
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Argument_(linguistics)" title="Argument (linguistics)">
+            Argument
+           </a>
+           /
+           <a href="/wiki/Complement_(linguistics)" title="Complement (linguistics)">
+            Complement
+           </a>
+           /
+           <a href="/wiki/Adjunct_(grammar)" title="Adjunct (grammar)">
+            Adjunct
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Associated_motion" title="Associated motion">
+            Associated motion
+           </a>
+          </li>
+          <li>
+           Associativity
+           <sup class="reference" id="cite_ref-1">
+            <a href="#cite_note-1">
+             [1]
+            </a>
+           </sup>
+          </li>
+          <li>
+           <a href="/wiki/Grammatical_aspect" title="Grammatical aspect">
+            Aspect
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Boundedness_(linguistics)" title="Boundedness (linguistics)">
+            Boundedness
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Branching_(linguistics)" title="Branching (linguistics)">
+            Branching
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Grammatical_case" title="Grammatical case">
+            Case
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Grammatical_conjugation" title="Grammatical conjugation">
+            Conjugation
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Classifier_(linguistics)" title="Classifier (linguistics)">
+            Classifier
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Clusivity" title="Clusivity">
+            Clusivity
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Comparison_(grammar)" title="Comparison (grammar)">
+            Comparison
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Contrast_(linguistics)" title="Contrast (linguistics)">
+            Contrast
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Construct_state" title="Construct state">
+            Construct state
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Count_noun" title="Count noun">
+            Countability
+           </a>
+           /
+           <a href="/wiki/Mass_noun" title="Mass noun">
+            Uncountability
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Dative_shift" title="Dative shift">
+            Dative shift
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Declension" title="Declension">
+            Declension
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Definiteness" title="Definiteness">
+            Definiteness
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Evidentiality" title="Evidentiality">
+            Evidentiality
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Feature_(linguistics)" title="Feature (linguistics)">
+            Feature
+           </a>
+          </li>
+          <li>
+           <a class="mw-selflink selflink">
+            Focus
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Genitive_construction" title="Genitive construction">
+            Genitive construction
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Grammatical_gender" title="Grammatical gender">
+            Gender
+           </a>
+           /
+           <a href="/wiki/Noun_class" title="Noun class">
+            Noun class
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Honorifics_(linguistics)" title="Honorifics (linguistics)">
+            Honorifics
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Incorporation_(linguistics)" title="Incorporation (linguistics)">
+            Incorporation
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Inflection" title="Inflection">
+            Inflection
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Lexical_aspect" title="Lexical aspect">
+            Lexical aspect (Aktionsart)
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Markedness" title="Markedness">
+            Markedness
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Mirative" title="Mirative">
+            Mirativity
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Linguistic_modality" title="Linguistic modality">
+            Modality
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Grammatical_mood" title="Grammatical mood">
+            Mood
+           </a>
+          </li>
+          <li>
+           <a class="mw-redirect" href="/wiki/Negation_(grammar)" title="Negation (grammar)">
+            Negation
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Grammatical_number" title="Grammatical number">
+            Number
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Grammatical_person" title="Grammatical person">
+            Person
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Polypersonal_agreement" title="Polypersonal agreement">
+            Polypersonal agreement
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Affirmative_and_negative" title="Affirmative and negative">
+            Polarity
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Possession_(linguistics)" title="Possession (linguistics)">
+            Possession
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Pluractionality" title="Pluractionality">
+            Pluractionality
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Reciprocal_(grammar)" title="Reciprocal (grammar)">
+            Reciprocity
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Predicate_(grammar)" title="Predicate (grammar)">
+            Predicate
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Serial_verb_construction" title="Serial verb construction">
+            Serial verb construction
+           </a>
+          </li>
+          <li>
+           <a class="mw-redirect" href="/wiki/Singulative" title="Singulative">
+            Singulative-Collective-Pluractive
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Specificity_(linguistics)" title="Specificity (linguistics)">
+            Specificity
+           </a>
+          </li>
+          <li>
+           <a class="mw-redirect" href="/wiki/Subject_(linguistics)" title="Subject (linguistics)">
+            Subject
+           </a>
+           /
+           <a class="mw-redirect" href="/wiki/Object_(linguistics)" title="Object (linguistics)">
+            Object
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Suffixaufnahme" title="Suffixaufnahme">
+            Suffixaufnahme (Case stacking)
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Grammatical_tense" title="Grammatical tense">
+            Tense
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Tense%E2%80%93aspect%E2%80%93mood" title="Tense–aspect–mood">
+            Tense–aspect–mood
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Telicity" title="Telicity">
+            Telicity
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Transitivity_(grammar)" title="Transitivity (grammar)">
+            Transitivity
+           </a>
+          </li>
+          <li>
+           <a class="mw-redirect" href="/wiki/Topic%E2%80%93comment" title="Topic–comment">
+            Topic and Comment
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Thematic_relation" title="Thematic relation">
+            Thematic relation
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Valency_(linguistics)" title="Valency (linguistics)">
+            Valency
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Voice_(grammar)" title="Voice (grammar)">
+            Voice
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Volition_(linguistics)" title="Volition (linguistics)">
+            Volition
+           </a>
+          </li>
+         </ul>
+        </td>
+       </tr>
+       <tr>
+        <td style="text-align:right;font-size:115%">
+         <div class="plainlinks hlist navbar mini">
+          <ul>
+           <li class="nv-view">
+            <a href="/wiki/Template:Grammatical_categories" title="Template:Grammatical categories">
+             <abbr title="View this template">
+              v
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-talk">
+            <a href="/wiki/Template_talk:Grammatical_categories" title="Template talk:Grammatical categories">
+             <abbr title="Discuss this template">
+              t
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-edit">
+            <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Grammatical_categories&amp;action=edit">
+             <abbr title="Edit this template">
+              e
+             </abbr>
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+      </table>
+      <p>
+       <b>
+        Focus
+       </b>
+       (
+       <a href="/wiki/List_of_glossing_abbreviations" title="List of glossing abbreviations">
+        abbreviated
+       </a>
+       <b>
+        <span class="smallcaps">
+         <span style="font-variant: small-caps; text-transform: lowercase;">
+          FOC
+         </span>
+        </span>
+       </b>
+       ) is a grammatical category that determines which part of the sentence contributes new, non-derivable, or contrastive information.
+       <sup class="reference" id="cite_ref-Halliday_2-0">
+        <a href="#cite_note-Halliday-2">
+         [2]
+        </a>
+       </sup>
+       Focus is related to
+       <a href="/wiki/Information_structure" title="Information structure">
+        information structure
+       </a>
+       .
+       <b>
+        Contrastive focus
+       </b>
+       specifically refers to the coding of information that is contrary to the presuppositions of the
+       <a href="/wiki/Interlocutor_(linguistics)" title="Interlocutor (linguistics)">
+        interlocutor
+       </a>
+       .
+       <sup class="reference" id="cite_ref-3">
+        <a href="#cite_note-3">
+         [3]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-4">
+        <a href="#cite_note-4">
+         [4]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-Camacho_2010_5-0">
+        <a href="#cite_note-Camacho_2010-5">
+         [5]
+        </a>
+       </sup>
+      </p>
+      <p>
+       Related terms include
+       <a class="mw-redirect" href="/wiki/Topic%E2%80%93comment" title="Topic–comment">
+        Comment
+       </a>
+       and
+       <a class="mw-redirect" href="/wiki/Topic%E2%80%93comment" title="Topic–comment">
+        Rheme
+       </a>
+       .
+       <sup class="reference" id="cite_ref-Camacho_2010_5-1">
+        <a href="#cite_note-Camacho_2010-5">
+         [5]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-6">
+        <a href="#cite_note-6">
+         [6]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-7">
+        <a href="#cite_note-7">
+         [7]
+        </a>
+       </sup>
+      </p>
+      <p>
+      </p>
+      <div class="toc" id="toc">
+       <div class="toctitle" dir="ltr" lang="en" xml:lang="en">
+        <h2>
+         Contents
+        </h2>
+       </div>
+       <ul>
+        <li class="toclevel-1 tocsection-1">
+         <a href="#Functional_approaches">
+          <span class="tocnumber">
+           1
+          </span>
+          <span class="toctext">
+           Functional approaches
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-2">
+         <a href="#Generative_approaches">
+          <span class="tocnumber">
+           2
+          </span>
+          <span class="toctext">
+           Generative approaches
+          </span>
+         </a>
+         <ul>
+          <li class="toclevel-2 tocsection-3">
+           <a href="#Prominence_and_meaning">
+            <span class="tocnumber">
+             2.1
+            </span>
+            <span class="toctext">
+             Prominence and meaning
+            </span>
+           </a>
+           <ul>
+            <li class="toclevel-3 tocsection-4">
+             <a href="#Alternative_semantics">
+              <span class="tocnumber">
+               2.1.1
+              </span>
+              <span class="toctext">
+               Alternative semantics
+              </span>
+             </a>
+            </li>
+            <li class="toclevel-3 tocsection-5">
+             <a href="#Structured_meanings">
+              <span class="tocnumber">
+               2.1.2
+              </span>
+              <span class="toctext">
+               Structured meanings
+              </span>
+             </a>
+            </li>
+           </ul>
+          </li>
+          <li class="toclevel-2 tocsection-6">
+           <a href="#Focus_marking">
+            <span class="tocnumber">
+             2.2
+            </span>
+            <span class="toctext">
+             Focus marking
+            </span>
+           </a>
+           <ul>
+            <li class="toclevel-3 tocsection-7">
+             <a href="#Selkirk_and_accent_placement">
+              <span class="tocnumber">
+               2.2.1
+              </span>
+              <span class="toctext">
+               Selkirk and accent placement
+              </span>
+             </a>
+            </li>
+            <li class="toclevel-3 tocsection-8">
+             <a href="#Schwarzschild_and_accent_placement">
+              <span class="tocnumber">
+               2.2.2
+              </span>
+              <span class="toctext">
+               Schwarzschild and accent placement
+              </span>
+             </a>
+             <ul>
+              <li class="toclevel-4 tocsection-9">
+               <a href="#Responses">
+                <span class="tocnumber">
+                 2.2.2.1
+                </span>
+                <span class="toctext">
+                 Responses
+                </span>
+               </a>
+              </li>
+             </ul>
+            </li>
+           </ul>
+          </li>
+         </ul>
+        </li>
+        <li class="toclevel-1 tocsection-10">
+         <a href="#See_also">
+          <span class="tocnumber">
+           3
+          </span>
+          <span class="toctext">
+           See also
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-11">
+         <a href="#Notes">
+          <span class="tocnumber">
+           4
+          </span>
+          <span class="toctext">
+           Notes
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-12">
+         <a href="#References">
+          <span class="tocnumber">
+           5
+          </span>
+          <span class="toctext">
+           References
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <p>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Functional_approaches">
+        Functional approaches
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Focus_(linguistics)&amp;action=edit&amp;section=1" title="Edit section: Functional approaches">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       Information structure has been described at length by a number of linguists as a grammatical phenomenon.
+       <sup class="reference" id="cite_ref-8">
+        <a href="#cite_note-8">
+         [8]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-9">
+        <a href="#cite_note-9">
+         [9]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-10">
+        <a href="#cite_note-10">
+         [10]
+        </a>
+       </sup>
+       Lexicogrammatical structures that code prominence, or focus, of some information over other information has a particularly significant history dating back to the 19th century.
+       <sup class="reference" id="cite_ref-11">
+        <a href="#cite_note-11">
+         [11]
+        </a>
+       </sup>
+       Recent attempts to explain focus phenomena in terms of discourse function, including those by
+       <a class="new" href="/w/index.php?title=Knud_Lambrecht&amp;action=edit&amp;redlink=1" title="Knud Lambrecht (page does not exist)">
+        Knud Lambrecht
+       </a>
+       and
+       <a class="mw-redirect" href="/wiki/Talmy_Giv%C3%B3n" title="Talmy Givón">
+        Talmy Givón
+       </a>
+       , often connect focus with the packaging of new, old, and contrasting information. Lambrecht in particular distinguishes three main types of focus constructions: predicate-focus structure, argument-focus structure, and sentence-focus structure. Focus has also been linked to other more general cognitive processes, including
+       <a href="/wiki/Attention" title="Attention">
+        attention
+       </a>
+       orientation.
+       <sup class="reference" id="cite_ref-12">
+        <a href="#cite_note-12">
+         [12]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-13">
+        <a href="#cite_note-13">
+         [13]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Generative_approaches">
+        Generative approaches
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Focus_(linguistics)&amp;action=edit&amp;section=2" title="Edit section: Generative approaches">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       Standard generative approaches to grammar argue that
+       <a href="/wiki/Phonology" title="Phonology">
+        phonology
+       </a>
+       and
+       <a href="/wiki/Semantics" title="Semantics">
+        semantics
+       </a>
+       cannot exchange information directly (
+       <i>
+        See Fig. 1
+       </i>
+       ). Therefore, syntactic mechanisms including features and
+       <a href="/wiki/Transformational_grammar" title="Transformational grammar">
+        transformations
+       </a>
+       include prosodic information regarding focus that is passed to the semantics and phonology.
+      </p>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:SyntaxSplit.jpg">
+         <img alt="" class="thumbimage" data-file-height="126" data-file-width="224" height="124" src="//upload.wikimedia.org/wikipedia/en/thumb/b/bb/SyntaxSplit.jpg/220px-SyntaxSplit.jpg" srcset="//upload.wikimedia.org/wikipedia/en/b/bb/SyntaxSplit.jpg 1.5x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:SyntaxSplit.jpg" title="Enlarge">
+          </a>
+         </div>
+         Fig. 1 The Y-Model of Syntax, Semantics and Phonology
+        </div>
+       </div>
+      </div>
+      <p>
+       Focus may be highlighted either prosodically or syntactically or both, depending on the language. In syntax this can be done assigning focus markers, as shown in (1), or by preposing as shown in (2):
+      </p>
+      <p>
+       (1) I saw [JOHN]
+       <sub>
+        f
+       </sub>
+       .
+      </p>
+      <p>
+       (2) [JOHN]
+       <sub>
+        f
+       </sub>
+       , I saw.
+      </p>
+      <p>
+       In (1), focus is marked syntactically with the subscripted ‘f’ which is realized phonologically by a nuclear
+       <a href="/wiki/Pitch_accent" title="Pitch accent">
+        pitch accent
+       </a>
+       .
+       <a href="/wiki/Cleft_sentence" title="Cleft sentence">
+        Clefting
+       </a>
+       induces an obligatory intonation break. Therefore, in (2), focus is marked via word order and a nuclear pitch accent.
+      </p>
+      <p>
+       Focus also relates to phonology and has ramifications for how and where
+       <a href="/wiki/Prosody_(linguistics)" title="Prosody (linguistics)">
+        suprasegmental
+       </a>
+       information such as
+       <a href="/wiki/Rhythm" title="Rhythm">
+        rhythm
+       </a>
+       ,
+       <a href="/wiki/Stress_(linguistics)" title="Stress (linguistics)">
+        stress
+       </a>
+       , and
+       <a href="/wiki/Intonation_(linguistics)" title="Intonation (linguistics)">
+        intonation
+       </a>
+       is encoded in the grammar, and in particular intonational tunes that mark focus.
+       <sup class="reference" id="cite_ref-Beaver_14-0">
+        <a href="#cite_note-Beaver-14">
+         [14]
+        </a>
+       </sup>
+       Speakers can use pitch accents on syllables to indicate what word(s) are in focus. New words are often accented while given words are not. The accented word(s) forms the focus domain. However, not all of the words in a focus domain need be accented. (See
+       <sup class="reference" id="cite_ref-Selkirk1_15-0">
+        <a href="#cite_note-Selkirk1-15">
+         [15]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-Selkirk2_16-0">
+        <a href="#cite_note-Selkirk2-16">
+         [16]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-Schwarzschild1_17-0">
+        <a href="#cite_note-Schwarzschild1-17">
+         [17]
+        </a>
+       </sup>
+       for rules on accent placement and focus-marking). The focus domain can be either
+       <i>
+        broad
+       </i>
+       , as shown in (3), or
+       <i>
+        narrow
+       </i>
+       , as shown in (4) and (5):
+      </p>
+      <p>
+       (3) Did you see a grey dog or a cat? I saw [a grey
+       <b>
+        DOG
+       </b>
+       ]
+       <sub>
+        f
+       </sub>
+       .
+      </p>
+      <p>
+       (4) Did you see a grey dog or a grey cat? I saw a grey [
+       <b>
+        DOG
+       </b>
+       ]
+       <sub>
+        f
+       </sub>
+       .
+      </p>
+      <p>
+       (5) Did you see a grey dog or a black dog? I saw a [
+       <b>
+        GREY
+       </b>
+       ]
+       <sub>
+        f
+       </sub>
+       dog.
+      </p>
+      <p>
+       The question/answer paradigm shown in (3)–(5) has been utilized by a variety of theorists
+       <sup class="reference" id="cite_ref-Beaver_14-1">
+        <a href="#cite_note-Beaver-14">
+         [14]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-Roberts_18-0">
+        <a href="#cite_note-Roberts-18">
+         [18]
+        </a>
+       </sup>
+       to illustrate the range of contexts a sentence containing focus can be used felicitously. Specifically, the question/answer paradigm has been used as a diagnostic for what counts as new information. For example, the focus pattern in (3) would be infelicitous if the question was ‘Did you see a grey dog or a black dog?’.
+      </p>
+      <p>
+       In (3) and (4), the pitch accent is marked in bold. In (3), the pitch accent is placed on
+       <i>
+        dog
+       </i>
+       but the entire noun phrase
+       <i>
+        a grey dog
+       </i>
+       is under focus. In (4), the pitch accent is also placed on
+       <i>
+        dog
+       </i>
+       but only the noun
+       <i>
+        dog
+       </i>
+       is under focus. In (5), pitch accent is placed on
+       <i>
+        grey
+       </i>
+       and only the adjective
+       <i>
+        grey
+       </i>
+       is under focus.
+      </p>
+      <p>
+       Historically, generative proposals made focus a feature bound to a single word within a sentence.
+       <a href="/wiki/Noam_Chomsky" title="Noam Chomsky">
+        Chomsky
+       </a>
+       and
+       <a href="/wiki/Morris_Halle" title="Morris Halle">
+        Halle
+       </a>
+       <sup class="reference" id="cite_ref-Chomsky_19-0">
+        <a href="#cite_note-Chomsky-19">
+         [19]
+        </a>
+       </sup>
+       formulated a Nuclear Stress Rule that proposed there to be a relation between the main stress of a sentence and a single constituent. Since this constituent is prominent sententially in a way that can contrast with lexical stress, this was originally referred to as "nuclear" stress. The purpose of this rule was to capture the intuition that within each sentence, there is one word in particular that is accented more prominently due to its importance - this is said to form the
+       <a class="new" href="/w/index.php?title=Sentence_nucleus&amp;action=edit&amp;redlink=1" title="Sentence nucleus (page does not exist)">
+        nucleus
+       </a>
+       of that sentence.
+      </p>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:137px;">
+        <a class="image" href="/wiki/File:LeftPeriphery_Rizzi_1997_eng.png">
+         <img alt="" class="thumbimage" data-file-height="208" data-file-width="135" height="208" src="//upload.wikimedia.org/wikipedia/commons/d/d1/LeftPeriphery_Rizzi_1997_eng.png" width="135"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:LeftPeriphery_Rizzi_1997_eng.png" title="Enlarge">
+          </a>
+         </div>
+         Left periphery structure, according to Rizzi (1997)
+        </div>
+       </div>
+      </div>
+      <p>
+       Focus was later suggested to be a structural position at the beginning of the sentence (or on the left periphery) in
+       <a href="/wiki/Romance_languages" title="Romance languages">
+        Romance languages
+       </a>
+       such as Italian, as the lexical head of a Focus Phrase (or FP, following the
+       <a href="/wiki/X-bar_theory" title="X-bar theory">
+        X-bar theory
+       </a>
+       of
+       <a href="/wiki/Phrase_structure_grammar" title="Phrase structure grammar">
+        phrase structure
+       </a>
+       ).
+       <a href="/wiki/Ray_Jackendoff" title="Ray Jackendoff">
+        Jackendoff
+       </a>
+       ,
+       <sup class="reference" id="cite_ref-Jackendoff_20-0">
+        <a href="#cite_note-Jackendoff-20">
+         [20]
+        </a>
+       </sup>
+       Selkirk,
+       <sup class="reference" id="cite_ref-Selkirk1_15-1">
+        <a href="#cite_note-Selkirk1-15">
+         [15]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-Selkirk2_16-1">
+        <a href="#cite_note-Selkirk2-16">
+         [16]
+        </a>
+       </sup>
+       Rooth,
+       <sup class="reference" id="cite_ref-Rooth1_21-0">
+        <a href="#cite_note-Rooth1-21">
+         [21]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-Rooth2_22-0">
+        <a href="#cite_note-Rooth2-22">
+         [22]
+        </a>
+       </sup>
+       Krifka,
+       <sup class="reference" id="cite_ref-Krifka1_23-0">
+        <a href="#cite_note-Krifka1-23">
+         [23]
+        </a>
+       </sup>
+       Schwarzschild
+       <sup class="reference" id="cite_ref-Schwarzschild1_17-1">
+        <a href="#cite_note-Schwarzschild1-17">
+         [17]
+        </a>
+       </sup>
+       argue that focus consists of a feature that is assigned to a node in the syntactic representation of a sentence. Because focus is now widely seen as corresponding between heavy stress, or nuclear pitch accent, this feature is often associated with the phonologically prominent element(s) of a sentence.
+      </p>
+      <p>
+       Sound structure (
+       <a href="/wiki/Phonology" title="Phonology">
+        phonological
+       </a>
+       and
+       <a href="/wiki/Phonetics" title="Phonetics">
+        phonetic
+       </a>
+       ) studies of focus are not as numerous, as relational language phenomena tend to be of greater interest to syntacticians and semanticists. But this may be changing: a recent study found that not only do focused words and phrases have a higher range of pitch compared to words in the same sentence but that words following the focus in both
+       <a href="/wiki/American_English" title="American English">
+        American English
+       </a>
+       and
+       <a href="/wiki/Mandarin_Chinese" title="Mandarin Chinese">
+        Mandarin Chinese
+       </a>
+       were lower than normal in pitch and words before a focus are unaffected. The precise usages of focus in natural language are still uncertain. A continuum of possibilities could possibly be defined between precisely
+       <a class="mw-redirect" href="/wiki/Enunciation" title="Enunciation">
+        enunciated
+       </a>
+       and
+       <a href="/wiki/Staccato" title="Staccato">
+        staccato
+       </a>
+       styles of speech based on variations in
+       <a href="/wiki/Pragmatics" title="Pragmatics">
+        pragmatics
+       </a>
+       or
+       <a class="mw-redirect" href="/wiki/Timing_(linguistics)" title="Timing (linguistics)">
+        timing
+       </a>
+       .
+      </p>
+      <p>
+       Currently, there are two central themes in research on focus in generative linguistics. First, given what words or expressions are prominent, what is the meaning of some sentence? Rooth,
+       <sup class="reference" id="cite_ref-Rooth1_21-1">
+        <a href="#cite_note-Rooth1-21">
+         [21]
+        </a>
+       </sup>
+       Jacobs,
+       <sup class="reference" id="cite_ref-Jacobs_24-0">
+        <a href="#cite_note-Jacobs-24">
+         [24]
+        </a>
+       </sup>
+       Krifka,
+       <sup class="reference" id="cite_ref-Krifka1_23-1">
+        <a href="#cite_note-Krifka1-23">
+         [23]
+        </a>
+       </sup>
+       and von Stechow
+       <sup class="reference" id="cite_ref-Stechow_25-0">
+        <a href="#cite_note-Stechow-25">
+         [25]
+        </a>
+       </sup>
+       claim that there are lexical items and construction specific-rules that refer directly to the notion of focus. Dryer,
+       <sup class="reference" id="cite_ref-Dryer_26-0">
+        <a href="#cite_note-Dryer-26">
+         [26]
+        </a>
+       </sup>
+       Kadmon,
+       <sup class="reference" id="cite_ref-Kadmon_27-0">
+        <a href="#cite_note-Kadmon-27">
+         [27]
+        </a>
+       </sup>
+       Marti,
+       <sup class="reference" id="cite_ref-Marti_28-0">
+        <a href="#cite_note-Marti-28">
+         [28]
+        </a>
+       </sup>
+       Roberts,
+       <sup class="reference" id="cite_ref-Roberts_18-1">
+        <a href="#cite_note-Roberts-18">
+         [18]
+        </a>
+       </sup>
+       Schwarzschild,
+       <sup class="reference" id="cite_ref-Schwarzschild2_29-0">
+        <a href="#cite_note-Schwarzschild2-29">
+         [29]
+        </a>
+       </sup>
+       Vallduvi,
+       <sup class="reference" id="cite_ref-Vallduvi_30-0">
+        <a href="#cite_note-Vallduvi-30">
+         [30]
+        </a>
+       </sup>
+       and Williams
+       <sup class="reference" id="cite_ref-Williams_31-0">
+        <a href="#cite_note-Williams-31">
+         [31]
+        </a>
+       </sup>
+       argue for accounts in which general principles of discourse explain focus sensitivity.
+       <sup class="reference" id="cite_ref-Beaver_14-2">
+        <a href="#cite_note-Beaver-14">
+         [14]
+        </a>
+       </sup>
+       Second, given the meaning and syntax of some sentence, what words or expressions are prominent?
+      </p>
+      <h3>
+       <span class="mw-headline" id="Prominence_and_meaning">
+        Prominence and meaning
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Focus_(linguistics)&amp;action=edit&amp;section=3" title="Edit section: Prominence and meaning">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       Focus directly affects the semantics, or meaning, of a sentence. Different ways of pronouncing the sentence affects the meaning, or, what the speaker intends to convey. Focus distinguishes one interpretation of a sentence from other interpretations of the same sentence that do not differ in word order, but may differ in the way in which the words are taken to relate to each other. To see the effects of focus on meaning, consider the following examples:
+      </p>
+      <p>
+       (6) John only introduced Bill to SUE.
+      </p>
+      <p>
+       In (6), accent is placed on Sue. There are two readings of (6) - broad focus shown in (7) and narrow focus shown in (8):
+      </p>
+      <p>
+       (7) John only [introduced Bill to SUE]
+       <sub>
+        f
+       </sub>
+       .
+      </p>
+      <p>
+       (8) John only introduced Bill to [SUE]
+       <sub>
+        f
+       </sub>
+       .
+      </p>
+      <p>
+       The meaning of (7) can be summarized as
+       <i>
+        the only thing John did was introduce Bill to Sue
+       </i>
+       . The meaning of (8) can be summarized as
+       <i>
+        the only person to whom John introduced Bill is Sue
+       </i>
+       .
+      </p>
+      <p>
+       In both (7) and (8), focus is associated with the focus sensitive expression
+       <i>
+        only
+       </i>
+       . This is known as association with focus. The class of focus sensitive expressions in which focus can be associated with includes exclusives (
+       <i>
+        only
+       </i>
+       ,
+       <i>
+        just
+       </i>
+       ) non-scalar additives (
+       <i>
+        merely
+       </i>
+       ,
+       <i>
+        too
+       </i>
+       ) scalar additives (
+       <i>
+        also
+       </i>
+       ,
+       <i>
+        even
+       </i>
+       ), particularlizers (
+       <i>
+        in particular
+       </i>
+       ,
+       <i>
+        for example
+       </i>
+       ), intensifiers, quantificational adverbs, quantificational determiners, sentential connectives, emotives, counterfactuals, superlatives, negation and generics.
+       <sup class="reference" id="cite_ref-Beaver_14-3">
+        <a href="#cite_note-Beaver-14">
+         [14]
+        </a>
+       </sup>
+       It is claimed that focus operators must
+       <a href="/wiki/C-command" title="C-command">
+        c-command
+       </a>
+       their focus.
+      </p>
+      <h4>
+       <span class="mw-headline" id="Alternative_semantics">
+        Alternative semantics
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Focus_(linguistics)&amp;action=edit&amp;section=4" title="Edit section: Alternative semantics">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h4>
+      <p>
+       Beginning with Rooth,
+       <sup class="reference" id="cite_ref-Rooth1_21-2">
+        <a href="#cite_note-Rooth1-21">
+         [21]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-Rooth2_22-1">
+        <a href="#cite_note-Rooth2-22">
+         [22]
+        </a>
+       </sup>
+       the effects of focus on semantics can be said to be the introduction of a
+       <a href="/wiki/Set_(mathematics)" title="Set (mathematics)">
+        set
+       </a>
+       of alternatives that contrasts with the ordinary semantic meaning of a sentence. Consider the following example:
+      </p>
+      <p>
+       (9) Mary only likes [SUE]
+       <sub>
+        f
+       </sub>
+       .
+      </p>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:RoothOrdinary.jpg">
+         <img alt="" class="thumbimage" data-file-height="255" data-file-width="488" height="115" src="//upload.wikimedia.org/wikipedia/en/thumb/8/81/RoothOrdinary.jpg/220px-RoothOrdinary.jpg" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/81/RoothOrdinary.jpg/330px-RoothOrdinary.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/81/RoothOrdinary.jpg/440px-RoothOrdinary.jpg 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:RoothOrdinary.jpg" title="Enlarge">
+          </a>
+         </div>
+         The syntactic/semantic tree of the ordinary meaning of the sentence
+         <i>
+          Mary likes Sue.
+         </i>
+         <sup class="reference" id="cite_ref-Rooth2_22-2">
+          <a href="#cite_note-Rooth2-22">
+           [22]
+          </a>
+         </sup>
+        </div>
+       </div>
+      </div>
+      <p>
+       The ordinary semantic meaning of (9) is the
+       <a href="/wiki/Binary_relation" title="Binary relation">
+        binary relation
+       </a>
+       :
+      </p>
+      <dl>
+       <dd>
+        <dl>
+         <dd>
+          <span class="mwe-math-element">
+           <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+            <math alttext="{\displaystyle like\langle Mary,Sue\rangle }" xmlns="http://www.w3.org/1998/Math/MathML">
+             <semantics>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mstyle displaystyle="true" scriptlevel="0">
+                <mi>
+                 l
+                </mi>
+                <mi>
+                 i
+                </mi>
+                <mi>
+                 k
+                </mi>
+                <mi>
+                 e
+                </mi>
+                <mo fence="false" stretchy="false">
+                 ⟨
+                 <!-- ⟨ -->
+                </mo>
+                <mi>
+                 M
+                </mi>
+                <mi>
+                 a
+                </mi>
+                <mi>
+                 r
+                </mi>
+                <mi>
+                 y
+                </mi>
+                <mo>
+                 ,
+                </mo>
+                <mi>
+                 S
+                </mi>
+                <mi>
+                 u
+                </mi>
+                <mi>
+                 e
+                </mi>
+                <mo fence="false" stretchy="false">
+                 ⟩
+                 <!-- ⟩ -->
+                </mo>
+               </mstyle>
+              </mrow>
+              <annotation encoding="application/x-tex">
+               {\displaystyle like\langle Mary,Sue\rangle }
+              </annotation>
+             </semantics>
+            </math>
+           </span>
+           <img alt="like\langle Mary, Sue\rangle" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/365bd4d1728f12e507bc1917c0a936005a0b7da1" style="vertical-align: -0.838ex; width:16.422ex; height:2.843ex;"/>
+          </span>
+         </dd>
+        </dl>
+       </dd>
+      </dl>
+      <p>
+       (9) is true if and only if
+       <i>
+        Mary
+       </i>
+       stands in the
+       <i>
+        like
+       </i>
+       relation to
+       <i>
+        Sue
+       </i>
+       . The set of alternatives that is a resultant of
+       <i>
+        Sue
+       </i>
+       being focused is the set:
+      </p>
+      <dl>
+       <dd>
+        <dl>
+         <dd>
+          <span class="mwe-math-element">
+           <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+            <math alttext="{\displaystyle \{like\langle Mary,y\rangle |y\in E\}}" xmlns="http://www.w3.org/1998/Math/MathML">
+             <semantics>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mstyle displaystyle="true" scriptlevel="0">
+                <mo fence="false" stretchy="false">
+                 {
+                </mo>
+                <mi>
+                 l
+                </mi>
+                <mi>
+                 i
+                </mi>
+                <mi>
+                 k
+                </mi>
+                <mi>
+                 e
+                </mi>
+                <mo fence="false" stretchy="false">
+                 ⟨
+                 <!-- ⟨ -->
+                </mo>
+                <mi>
+                 M
+                </mi>
+                <mi>
+                 a
+                </mi>
+                <mi>
+                 r
+                </mi>
+                <mi>
+                 y
+                </mi>
+                <mo>
+                 ,
+                </mo>
+                <mi>
+                 y
+                </mi>
+                <mo fence="false" stretchy="false">
+                 ⟩
+                 <!-- ⟩ -->
+                </mo>
+                <mrow class="MJX-TeXAtom-ORD">
+                 <mo stretchy="false">
+                  |
+                 </mo>
+                </mrow>
+                <mi>
+                 y
+                </mi>
+                <mo>
+                 ∈
+                 <!-- ∈ -->
+                </mo>
+                <mi>
+                 E
+                </mi>
+                <mo fence="false" stretchy="false">
+                 }
+                </mo>
+               </mstyle>
+              </mrow>
+              <annotation encoding="application/x-tex">
+               {\displaystyle \{like\langle Mary,y\rangle |y\in E\}}
+              </annotation>
+             </semantics>
+            </math>
+           </span>
+           <img alt="\{like\langle Mary, y\rangle |y  \in E\}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/47b340cf103a1a93170b743e23823b865af601ce" style="vertical-align: -0.838ex; width:22.409ex; height:2.843ex;"/>
+          </span>
+          , where
+          <i>
+           E
+          </i>
+          is the domain of
+          <a href="/wiki/Type_theory" title="Type theory">
+           entities
+          </a>
+          or individuals.
+         </dd>
+        </dl>
+       </dd>
+      </dl>
+      <p>
+       The relevant alternatives for example (9) might be the set:
+      </p>
+      <dl>
+       <dd>
+        <dl>
+         <dd>
+          <span class="mwe-math-element">
+           <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+            <math alttext="{\displaystyle \{like\langle Mary,Sue\rangle ,like\langle Mary,Bill\rangle ,like\langle Mary,Lisa\rangle \}}" xmlns="http://www.w3.org/1998/Math/MathML">
+             <semantics>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mstyle displaystyle="true" scriptlevel="0">
+                <mo fence="false" stretchy="false">
+                 {
+                </mo>
+                <mi>
+                 l
+                </mi>
+                <mi>
+                 i
+                </mi>
+                <mi>
+                 k
+                </mi>
+                <mi>
+                 e
+                </mi>
+                <mo fence="false" stretchy="false">
+                 ⟨
+                 <!-- ⟨ -->
+                </mo>
+                <mi>
+                 M
+                </mi>
+                <mi>
+                 a
+                </mi>
+                <mi>
+                 r
+                </mi>
+                <mi>
+                 y
+                </mi>
+                <mo>
+                 ,
+                </mo>
+                <mi>
+                 S
+                </mi>
+                <mi>
+                 u
+                </mi>
+                <mi>
+                 e
+                </mi>
+                <mo fence="false" stretchy="false">
+                 ⟩
+                 <!-- ⟩ -->
+                </mo>
+                <mo>
+                 ,
+                </mo>
+                <mi>
+                 l
+                </mi>
+                <mi>
+                 i
+                </mi>
+                <mi>
+                 k
+                </mi>
+                <mi>
+                 e
+                </mi>
+                <mo fence="false" stretchy="false">
+                 ⟨
+                 <!-- ⟨ -->
+                </mo>
+                <mi>
+                 M
+                </mi>
+                <mi>
+                 a
+                </mi>
+                <mi>
+                 r
+                </mi>
+                <mi>
+                 y
+                </mi>
+                <mo>
+                 ,
+                </mo>
+                <mi>
+                 B
+                </mi>
+                <mi>
+                 i
+                </mi>
+                <mi>
+                 l
+                </mi>
+                <mi>
+                 l
+                </mi>
+                <mo fence="false" stretchy="false">
+                 ⟩
+                 <!-- ⟩ -->
+                </mo>
+                <mo>
+                 ,
+                </mo>
+                <mi>
+                 l
+                </mi>
+                <mi>
+                 i
+                </mi>
+                <mi>
+                 k
+                </mi>
+                <mi>
+                 e
+                </mi>
+                <mo fence="false" stretchy="false">
+                 ⟨
+                 <!-- ⟨ -->
+                </mo>
+                <mi>
+                 M
+                </mi>
+                <mi>
+                 a
+                </mi>
+                <mi>
+                 r
+                </mi>
+                <mi>
+                 y
+                </mi>
+                <mo>
+                 ,
+                </mo>
+                <mi>
+                 L
+                </mi>
+                <mi>
+                 i
+                </mi>
+                <mi>
+                 s
+                </mi>
+                <mi>
+                 a
+                </mi>
+                <mo fence="false" stretchy="false">
+                 ⟩
+                 <!-- ⟩ -->
+                </mo>
+                <mo fence="false" stretchy="false">
+                 }
+                </mo>
+               </mstyle>
+              </mrow>
+              <annotation encoding="application/x-tex">
+               {\displaystyle \{like\langle Mary,Sue\rangle ,like\langle Mary,Bill\rangle ,like\langle Mary,Lisa\rangle \}}
+              </annotation>
+             </semantics>
+            </math>
+           </span>
+           <img alt="\{like\langle Mary, Sue\rangle, like\langle Mary, Bill\rangle, like\langle Mary, Lisa\rangle\}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f3bd283e8b9f063a91f5dd0dace4f3f136846bd4" style="vertical-align: -0.838ex; width:54.493ex; height:2.843ex;"/>
+          </span>
+          .
+         </dd>
+        </dl>
+       </dd>
+      </dl>
+      <p>
+       In (9), the set of alternatives is said to contrast with the ordinary semantic meaning of because the speaker indicates that the ordinary semantic meaning is true while every alternative is false. For example, in (9),
+       <i>
+        Mary likes Sue
+       </i>
+       is true while
+       <i>
+        Mary likes Bill
+       </i>
+       and
+       <i>
+        Mary likes Lisa
+       </i>
+       are both false. Generally, the meaning of (9) can be summarized as
+       <i>
+        Mary likes Sue and no one else
+       </i>
+       .
+      </p>
+      <h4>
+       <span class="mw-headline" id="Structured_meanings">
+        Structured meanings
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Focus_(linguistics)&amp;action=edit&amp;section=5" title="Edit section: Structured meanings">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h4>
+      <p>
+       Following Jacobs
+       <sup class="reference" id="cite_ref-Jacobs_24-1">
+        <a href="#cite_note-Jacobs-24">
+         [24]
+        </a>
+       </sup>
+       and Williams,
+       <sup class="reference" id="cite_ref-Williams_31-1">
+        <a href="#cite_note-Williams-31">
+         [31]
+        </a>
+       </sup>
+       Krifka
+       <sup class="reference" id="cite_ref-Krifka1_23-2">
+        <a href="#cite_note-Krifka1-23">
+         [23]
+        </a>
+       </sup>
+       argues differently. Krifka claims focus partitions the semantics into a background part and focus part, represented by the pair:
+      </p>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:888px;">
+        <a class="image" href="/wiki/File:KrifkaFocus.jpg">
+         <img alt="" class="thumbimage" data-file-height="393" data-file-width="886" height="393" src="//upload.wikimedia.org/wikipedia/en/2/2c/KrifkaFocus.jpg" width="886"/>
+        </a>
+        <div class="thumbcaption">
+         The syntactic/semantic tree of the sentence
+         <i>
+          John only introduced [BILL]
+          <sub>
+           f
+          </sub>
+          to [SUE]
+          <sub>
+           f
+          </sub>
+          .
+         </i>
+         <sup class="reference" id="cite_ref-Krifka1_23-3">
+          <a href="#cite_note-Krifka1-23">
+           [23]
+          </a>
+         </sup>
+        </div>
+       </div>
+      </div>
+      <dl>
+       <dd>
+        <dl>
+         <dd>
+          <span class="mwe-math-element">
+           <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+            <math alttext="{\displaystyle \langle B,F\rangle }" xmlns="http://www.w3.org/1998/Math/MathML">
+             <semantics>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mstyle displaystyle="true" scriptlevel="0">
+                <mo fence="false" stretchy="false">
+                 ⟨
+                 <!-- ⟨ -->
+                </mo>
+                <mi>
+                 B
+                </mi>
+                <mo>
+                 ,
+                </mo>
+                <mi>
+                 F
+                </mi>
+                <mo fence="false" stretchy="false">
+                 ⟩
+                 <!-- ⟩ -->
+                </mo>
+               </mstyle>
+              </mrow>
+              <annotation encoding="application/x-tex">
+               {\displaystyle \langle B,F\rangle }
+              </annotation>
+             </semantics>
+            </math>
+           </span>
+           <img alt="\langle B,F\rangle" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7054ee643d5a852c11292222c30c9abfc6a7628a" style="vertical-align: -0.838ex; width:6.348ex; height:2.843ex;"/>
+          </span>
+         </dd>
+        </dl>
+       </dd>
+      </dl>
+      <p>
+       The
+       <a href="/wiki/Logical_form" title="Logical form">
+        logical form
+       </a>
+       of which represented in
+       <a href="/wiki/Lambda_calculus" title="Lambda calculus">
+        lambda calculus
+       </a>
+       is:
+      </p>
+      <dl>
+       <dd>
+        <dl>
+         <dd>
+          <span class="mwe-math-element">
+           <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+            <math alttext="{\displaystyle \langle \lambda x.x,A\rangle }" xmlns="http://www.w3.org/1998/Math/MathML">
+             <semantics>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mstyle displaystyle="true" scriptlevel="0">
+                <mo fence="false" stretchy="false">
+                 ⟨
+                 <!-- ⟨ -->
+                </mo>
+                <mi>
+                 λ
+                 <!-- λ -->
+                </mi>
+                <mi>
+                 x
+                </mi>
+                <mo>
+                 .
+                </mo>
+                <mi>
+                 x
+                </mi>
+                <mo>
+                 ,
+                </mo>
+                <mi>
+                 A
+                </mi>
+                <mo fence="false" stretchy="false">
+                 ⟩
+                 <!-- ⟩ -->
+                </mo>
+               </mstyle>
+              </mrow>
+              <annotation encoding="application/x-tex">
+               {\displaystyle \langle \lambda x.x,A\rangle }
+              </annotation>
+             </semantics>
+            </math>
+           </span>
+           <img alt="\langle \lambda x.x, A\rangle" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c64b8a02211b7919b70905324f792b77dad3c89f" style="vertical-align: -0.838ex; width:9.635ex; height:2.843ex;"/>
+          </span>
+         </dd>
+        </dl>
+       </dd>
+      </dl>
+      <p>
+       This pair is referred to as a
+       <i>
+        structured meaning
+       </i>
+       . Structured meanings allow for a compositional semantic approach to sentences that involve single or multiple foci. This approach follows
+       <a href="/wiki/Gottlob_Frege" title="Gottlob Frege">
+        Frege's
+       </a>
+       (1897) Principle of Compositionality: the meaning of a complex expression is determined by the meanings of its parts, and the way in which those parts are combined into structured meanings. Krifka’s structured meaning theory represents focus in a transparent and compositional fashion it encompasses sentences with more than one focus as well as sentences with a single focus. Krifka claims the advantages of structured meanings are twofold: 1) We can access the meaning of an item in focus directly, and 2) Rooth's
+       <sup class="reference" id="cite_ref-Rooth1_21-3">
+        <a href="#cite_note-Rooth1-21">
+         [21]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-Rooth2_22-3">
+        <a href="#cite_note-Rooth2-22">
+         [22]
+        </a>
+       </sup>
+       alternative semantics can be derived from a structured meaning approach but not vice versa. To see Krifka’s approach illustrated, consider the following examples of single focus shown in (10) and multiple foci shown in (11):
+      </p>
+      <p>
+       (10) John introduced Bill to [SUE]
+       <sub>
+        f
+       </sub>
+       .
+      </p>
+      <p>
+       (11) John only introduced [BILL]
+       <sub>
+        f
+       </sub>
+       to [SUE]
+       <sub>
+        f
+       </sub>
+       .
+      </p>
+      <p>
+       Generally, the meaning of (10) can be summarized as
+       <i>
+        John introduced Bill to Sue and no one else
+       </i>
+       , and the meaning of (11) can be summarized as
+       <i>
+        the only pair of persons such that John introduced the first to the second is Bill and Sue
+       </i>
+       .
+      </p>
+      <p>
+       Specifically, the structured meaning of (10) is:
+      </p>
+      <dl>
+       <dd>
+        <dl>
+         <dd>
+          <span class="mwe-math-element">
+           <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+            <math alttext="{\displaystyle \langle introd(j,b,x),s\rangle }" xmlns="http://www.w3.org/1998/Math/MathML">
+             <semantics>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mstyle displaystyle="true" scriptlevel="0">
+                <mo fence="false" stretchy="false">
+                 ⟨
+                 <!-- ⟨ -->
+                </mo>
+                <mi>
+                 i
+                </mi>
+                <mi>
+                 n
+                </mi>
+                <mi>
+                 t
+                </mi>
+                <mi>
+                 r
+                </mi>
+                <mi>
+                 o
+                </mi>
+                <mi>
+                 d
+                </mi>
+                <mo stretchy="false">
+                 (
+                </mo>
+                <mi>
+                 j
+                </mi>
+                <mo>
+                 ,
+                </mo>
+                <mi>
+                 b
+                </mi>
+                <mo>
+                 ,
+                </mo>
+                <mi>
+                 x
+                </mi>
+                <mo stretchy="false">
+                 )
+                </mo>
+                <mo>
+                 ,
+                </mo>
+                <mi>
+                 s
+                </mi>
+                <mo fence="false" stretchy="false">
+                 ⟩
+                 <!-- ⟩ -->
+                </mo>
+               </mstyle>
+              </mrow>
+              <annotation encoding="application/x-tex">
+               {\displaystyle \langle introd(j,b,x),s\rangle }
+              </annotation>
+             </semantics>
+            </math>
+           </span>
+           <img alt="\langle introd(j, b, x), s\rangle" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/cbd4c67b61195d3888124421e2c72efd4a8584c9" style="vertical-align: -0.838ex; width:17.525ex; height:2.843ex;"/>
+          </span>
+          where
+          <i>
+           introd
+          </i>
+          is the denotation of
+          <i>
+           introduce
+          </i>
+          ,
+          <b>
+           j
+          </b>
+          <i>
+           John
+          </i>
+          ,
+          <b>
+           b
+          </b>
+          <i>
+           Bill
+          </i>
+          and
+          <b>
+           s
+          </b>
+          <i>
+           Sue
+          </i>
+          .
+         </dd>
+        </dl>
+       </dd>
+      </dl>
+      <p>
+       The background part of the structured meaning is;
+       <i>
+        introd (j, b, x)
+       </i>
+       ; and the focus part is
+       <i>
+        s
+       </i>
+       .
+      </p>
+      <p>
+       Through a (modified) form of functional application (or
+       <a href="/wiki/Lambda_calculus" title="Lambda calculus">
+        beta reduction
+       </a>
+       ), the focus part of (10) and (11) is projected up through the syntax to the sentential level. Importantly, each intermediate level has distinct meaning.
+      </p>
+      <h3>
+       <span class="mw-headline" id="Focus_marking">
+        Focus marking
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Focus_(linguistics)&amp;action=edit&amp;section=6" title="Edit section: Focus marking">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       It has been claimed that
+       <i>
+        new
+       </i>
+       information in the discourse is accented while
+       <i>
+        given
+       </i>
+       information is not. Generally, the properties of
+       <i>
+        new
+       </i>
+       and
+       <i>
+        given
+       </i>
+       are referred to as a word's discourse status. Definitions of
+       <i>
+        new
+       </i>
+       and
+       <i>
+        given
+       </i>
+       vary. Halliday
+       <sup class="reference" id="cite_ref-Halliday_2-1">
+        <a href="#cite_note-Halliday-2">
+         [2]
+        </a>
+       </sup>
+       defines
+       <i>
+        given
+       </i>
+       as “
+       <a href="/wiki/Anaphora_(linguistics)" title="Anaphora (linguistics)">
+        anaphorically
+       </a>
+       ” recoverable, while
+       <i>
+        new
+       </i>
+       is defined to be “textually and situationally non-derivable information”. To illustrate this point, consider the following discourse in (12) and (13):
+      </p>
+      <p>
+       (12) Why don’t you have some French TOAST?
+      </p>
+      <p>
+       (13) I’ve forgotten how to MAKE French toast.
+       <sup class="reference" id="cite_ref-Ladd_32-0">
+        <a href="#cite_note-Ladd-32">
+         [32]
+        </a>
+       </sup>
+      </p>
+      <p>
+       In (13) we note that the verb
+       <i>
+        make
+       </i>
+       is not given by the sentence in (12). It is discourse new. Therefore, it is available for accentuation. However,
+       <i>
+        toast
+       </i>
+       in (13) is given in (12). Therefore, it is not available for accentuation. As previously mentioned, pitch accenting can relate to focus. Accented words are often said to be in focus or F-marked often represented by F-markers. The relationship between accent placement is mediated through the discourse status of particular syntactic nodes.
+       <sup class="reference" id="cite_ref-German_33-0">
+        <a href="#cite_note-German-33">
+         [33]
+        </a>
+       </sup>
+       The percolation of F-markings in a syntactic tree is sensitive to argument structure and head-phrase relations.
+       <sup class="reference" id="cite_ref-Schwarzschild1_17-2">
+        <a href="#cite_note-Schwarzschild1-17">
+         [17]
+        </a>
+       </sup>
+      </p>
+      <h4>
+       <span class="mw-headline" id="Selkirk_and_accent_placement">
+        Selkirk and accent placement
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Focus_(linguistics)&amp;action=edit&amp;section=7" title="Edit section: Selkirk and accent placement">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h4>
+      <p>
+       Selkirk
+       <sup class="reference" id="cite_ref-Selkirk1_15-2">
+        <a href="#cite_note-Selkirk1-15">
+         [15]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-Selkirk2_16-2">
+        <a href="#cite_note-Selkirk2-16">
+         [16]
+        </a>
+       </sup>
+       develops an explicit account of how F-marking propagates up
+       <a href="/wiki/Parse_tree" title="Parse tree">
+        syntactic trees
+       </a>
+       . Accenting indicates F-marking. F-marking projects up a given syntactic tree such that both lexical items, i.e.
+       <a href="/wiki/Terminal_and_nonterminal_symbols" title="Terminal and nonterminal symbols">
+        terminal nodes
+       </a>
+       and phrasal levels, i.e.
+       <a href="/wiki/Terminal_and_nonterminal_symbols" title="Terminal and nonterminal symbols">
+        nonterminal nodes
+       </a>
+       , can be F-marked. Specifically, a set of rules determines how and where F-marking occurs in the syntax. These rules are shown in (1) and (2):
+      </p>
+      <p>
+       (14)
+       <b>
+        Basic Rule
+       </b>
+       : An accented word is f-marked.
+      </p>
+      <p>
+       (15)
+       <b>
+        Focus Projection
+       </b>
+       :
+      </p>
+      <dl>
+       <dd>
+        <dl>
+         <dd>
+          a. F-marking the head of a phrase licenses F-marking of the phrase.
+         </dd>
+        </dl>
+       </dd>
+      </dl>
+      <dl>
+       <dd>
+        <dl>
+         <dd>
+          b. F-marking of the internal argument of a head licenses the F-marking of the head.
+         </dd>
+        </dl>
+       </dd>
+      </dl>
+      <dl>
+       <dd>
+        <dl>
+         <dd>
+          c. F-marking of the antecedent of a trace left by NP or wh-movement licenses F-marking of the trace.
+         </dd>
+        </dl>
+       </dd>
+      </dl>
+      <p>
+       To see how (14) and (15) apply, consider the following example:
+      </p>
+      <dl>
+       <dd>
+        <dl>
+         <dd>
+          <b>
+           <a class="mw-redirect" href="/wiki/Judy_(personal_name)" title="Judy (personal name)">
+            Judy
+           </a>
+          </b>
+          <sub>
+           f
+          </sub>
+          [adopted
+          <sub>
+           f
+          </sub>
+          a
+          <b>
+           parrot
+          </b>
+          <sub>
+           f
+          </sub>
+          ]
+          <sub>
+           f
+          </sub>
+          ]
+          <sub>
+           foc
+          </sub>
+          <sup class="reference" id="cite_ref-German_33-1">
+           <a href="#cite_note-German-33">
+            [33]
+           </a>
+          </sup>
+         </dd>
+        </dl>
+       </dd>
+      </dl>
+      <p>
+       Because there is no rule in (14) or (15) that licenses F-marking to the direct object from any other node, the direct object
+       <i>
+        parrot
+       </i>
+       must be accented as indicated in bold. Rule (15b) allows F-marking to project from the direct object to the head verb
+       <i>
+        adopted
+       </i>
+       . Rule (15a) allows F-marking to project from the head verb to the VP
+       <i>
+        adopted a parrot
+       </i>
+       . Selkirk
+       <sup class="reference" id="cite_ref-Selkirk1_15-3">
+        <a href="#cite_note-Selkirk1-15">
+         [15]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-Selkirk2_16-3">
+        <a href="#cite_note-Selkirk2-16">
+         [16]
+        </a>
+       </sup>
+       assumes the subject
+       <i>
+        Judy
+       </i>
+       is accented if F-marked as indicated in bold.
+       <sup class="reference" id="cite_ref-German_33-2">
+        <a href="#cite_note-German-33">
+         [33]
+        </a>
+       </sup>
+      </p>
+      <h4>
+       <span class="mw-headline" id="Schwarzschild_and_accent_placement">
+        Schwarzschild and accent placement
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Focus_(linguistics)&amp;action=edit&amp;section=8" title="Edit section: Schwarzschild and accent placement">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h4>
+      <p>
+       Schwarzschild
+       <sup class="reference" id="cite_ref-Schwarzschild1_17-3">
+        <a href="#cite_note-Schwarzschild1-17">
+         [17]
+        </a>
+       </sup>
+       points out weaknesses in Selkirk’s
+       <sup class="reference" id="cite_ref-Selkirk1_15-4">
+        <a href="#cite_note-Selkirk1-15">
+         [15]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-Selkirk2_16-4">
+        <a href="#cite_note-Selkirk2-16">
+         [16]
+        </a>
+       </sup>
+       ability to predict accent placement based on facts about the discourse. Selkirk’s theory says nothing about how accentuation arises in sentences with entirely old information. She does not fully articulate the notion of discourse status and its relation to accent marking. Schwarzschild differs from Selkirk in that he develops a more robust model of discourse status. Discourse status is determined via the entailments of the context. This is achieved through the definition in (16):
+      </p>
+      <p>
+       (16)
+       <b>
+        Definition of given
+       </b>
+       : An utterance of U counts as given if it has a salient antecedent A and
+      </p>
+      <dl>
+       <dd>
+        <dl>
+         <dd>
+          a. if U is type
+          <a href="/wiki/Type_theory" title="Type theory">
+           e
+          </a>
+          , then A and U corefer;
+         </dd>
+        </dl>
+       </dd>
+      </dl>
+      <dl>
+       <dd>
+        <dl>
+         <dd>
+          b. otherwise: modulo
+          <span class="mwe-math-element">
+           <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+            <math alttext="{\displaystyle \exists }" xmlns="http://www.w3.org/1998/Math/MathML">
+             <semantics>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mstyle displaystyle="true" scriptlevel="0">
+                <mi mathvariant="normal">
+                 ∃
+                 <!-- ∃ -->
+                </mi>
+               </mstyle>
+              </mrow>
+              <annotation encoding="application/x-tex">
+               {\displaystyle \exists }
+              </annotation>
+             </semantics>
+            </math>
+           </span>
+           <img alt="\exists " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/77ed842b6b90b2fdd825320cf8e5265fa937b583" style="vertical-align: -0.338ex; width:1.293ex; height:2.176ex;"/>
+          </span>
+          -type-shifting, A entails the existential F-closure of U.
+         </dd>
+        </dl>
+       </dd>
+      </dl>
+      <p>
+       The operation in (16b) can apply to any constituent.
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle \exists }" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi mathvariant="normal">
+              ∃
+              <!-- ∃ -->
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle \exists }
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="\exists " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/77ed842b6b90b2fdd825320cf8e5265fa937b583" style="vertical-align: -0.338ex; width:1.293ex; height:2.176ex;"/>
+       </span>
+       -type-shifting “is a way of transforming syntactic constituents into full
+       <a href="/wiki/Proposition" title="Proposition">
+        propositions
+       </a>
+       so that it is possible to check whether they are
+       <a class="mw-redirect" href="/wiki/Entailment" title="Entailment">
+        entailed
+       </a>
+       by the context”.
+       <sup class="reference" id="cite_ref-German_33-3">
+        <a href="#cite_note-German-33">
+         [33]
+        </a>
+       </sup>
+       For example, the result of
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle \exists }" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi mathvariant="normal">
+              ∃
+              <!-- ∃ -->
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle \exists }
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="\exists " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/77ed842b6b90b2fdd825320cf8e5265fa937b583" style="vertical-align: -0.338ex; width:1.293ex; height:2.176ex;"/>
+       </span>
+       -type-shifting the VP in (17) is (18):
+      </p>
+      <p>
+       (17) [hums a happy tune]
+      </p>
+      <p>
+       (18)
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle \exists }" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi mathvariant="normal">
+              ∃
+              <!-- ∃ -->
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle \exists }
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="\exists " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/77ed842b6b90b2fdd825320cf8e5265fa937b583" style="vertical-align: -0.338ex; width:1.293ex; height:2.176ex;"/>
+       </span>
+       <i>
+        x
+       </i>
+       [
+       <i>
+        x
+       </i>
+       hums a happy tune]
+       <sup class="reference" id="cite_ref-German_33-4">
+        <a href="#cite_note-German-33">
+         [33]
+        </a>
+       </sup>
+      </p>
+      <p>
+       Note that (18) is a full proposition. The existential F-closure in (16b) refers to the operation of replacing the highest F-marked node with an existentially closed variable. The operation is shown in (19) and (20):
+      </p>
+      <p>
+       (19)
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle \exists }" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi mathvariant="normal">
+              ∃
+              <!-- ∃ -->
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle \exists }
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="\exists " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/77ed842b6b90b2fdd825320cf8e5265fa937b583" style="vertical-align: -0.338ex; width:1.293ex; height:2.176ex;"/>
+       </span>
+       <i>
+        x
+       </i>
+       [
+       <i>
+        x
+       </i>
+       hums [a happy
+       <sub>
+        f
+       </sub>
+       tune
+       <sub>
+        f
+       </sub>
+       ]
+       <sub>
+        f
+       </sub>
+       ]
+      </p>
+      <p>
+       (20)
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle \exists }" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi mathvariant="normal">
+              ∃
+              <!-- ∃ -->
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle \exists }
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="\exists " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/77ed842b6b90b2fdd825320cf8e5265fa937b583" style="vertical-align: -0.338ex; width:1.293ex; height:2.176ex;"/>
+       </span>
+       <i>
+        Y
+       </i>
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle \exists }" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi mathvariant="normal">
+              ∃
+              <!-- ∃ -->
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle \exists }
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="\exists " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/77ed842b6b90b2fdd825320cf8e5265fa937b583" style="vertical-align: -0.338ex; width:1.293ex; height:2.176ex;"/>
+       </span>
+       <i>
+        x
+       </i>
+       [
+       <i>
+        x
+       </i>
+       hums
+       <i>
+        Y
+       </i>
+       ]
+       <sup class="reference" id="cite_ref-German_33-5">
+        <a href="#cite_note-German-33">
+         [33]
+        </a>
+       </sup>
+      </p>
+      <p>
+       Given the discourse context in (21a) it is possible to determine the discourse status of any syntactic node in (21b):
+      </p>
+      <p>
+       (21)
+      </p>
+      <dl>
+       <dd>
+        <dl>
+         <dd>
+          a. Sean [hummed a happy tune]
+          <sub>
+           VP
+          </sub>
+         </dd>
+        </dl>
+       </dd>
+      </dl>
+      <dl>
+       <dd>
+        <dl>
+         <dd>
+          b. Angie [hummed [Chopin’s Funeral March]
+          <sub>
+           f
+          </sub>
+          ]
+          <sub>
+           VP
+          </sub>
+          <sup class="reference" id="cite_ref-German_33-6">
+           <a href="#cite_note-German-33">
+            [33]
+           </a>
+          </sup>
+         </dd>
+        </dl>
+       </dd>
+      </dl>
+      <p>
+       If the VP in (21a) is the salient antecedent for the VP in (21b), then the VP in (21b) counts as given.
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle \exists }" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi mathvariant="normal">
+              ∃
+              <!-- ∃ -->
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle \exists }
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="\exists " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/77ed842b6b90b2fdd825320cf8e5265fa937b583" style="vertical-align: -0.338ex; width:1.293ex; height:2.176ex;"/>
+       </span>
+       -type-shifed VP in (21a) is shown in (22). The existential F-closure of the VP in (21b) is shown in (23):
+      </p>
+      <p>
+       (22)
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle \exists }" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi mathvariant="normal">
+              ∃
+              <!-- ∃ -->
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle \exists }
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="\exists " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/77ed842b6b90b2fdd825320cf8e5265fa937b583" style="vertical-align: -0.338ex; width:1.293ex; height:2.176ex;"/>
+       </span>
+       <i>
+        x
+       </i>
+       [
+       <i>
+        x
+       </i>
+       hums a happy tune]
+      </p>
+      <p>
+       (23)
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle \exists }" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi mathvariant="normal">
+              ∃
+              <!-- ∃ -->
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle \exists }
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="\exists " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/77ed842b6b90b2fdd825320cf8e5265fa937b583" style="vertical-align: -0.338ex; width:1.293ex; height:2.176ex;"/>
+       </span>
+       <i>
+        Y
+       </i>
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle \exists }" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi mathvariant="normal">
+              ∃
+              <!-- ∃ -->
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle \exists }
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="\exists " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/77ed842b6b90b2fdd825320cf8e5265fa937b583" style="vertical-align: -0.338ex; width:1.293ex; height:2.176ex;"/>
+       </span>
+       <i>
+        x
+       </i>
+       [
+       <i>
+        x
+       </i>
+       hums
+       <i>
+        Y
+       </i>
+       ]
+       <sup class="reference" id="cite_ref-German_33-7">
+        <a href="#cite_note-German-33">
+         [33]
+        </a>
+       </sup>
+      </p>
+      <p>
+       (22) entails (23). Therefore, the VP of (21b) counts as given. Schwarzschild
+       <sup class="reference" id="cite_ref-Schwarzschild1_17-4">
+        <a href="#cite_note-Schwarzschild1-17">
+         [17]
+        </a>
+       </sup>
+       assumes an
+       <a class="mw-redirect" href="/wiki/Optimality_theory" title="Optimality theory">
+        optimality theoretic
+       </a>
+       grammar.
+       <sup class="reference" id="cite_ref-Prince_34-0">
+        <a href="#cite_note-Prince-34">
+         [34]
+        </a>
+       </sup>
+       Accent placement is determined by a set of violable, hierarchically ranked constraints as shown in (24):
+      </p>
+      <p>
+       (24)
+      </p>
+      <dl>
+       <dd>
+        <dl>
+         <dd>
+          a.
+          <b>
+           GIVENness
+          </b>
+          : A constituent that is not F-marked is given.
+         </dd>
+        </dl>
+       </dd>
+      </dl>
+      <dl>
+       <dd>
+        <dl>
+         <dd>
+          b.
+          <b>
+           Foc
+          </b>
+          : A Foc-marked phrase contains an accent
+         </dd>
+        </dl>
+       </dd>
+      </dl>
+      <dl>
+       <dd>
+        <dl>
+         <dd>
+          c.
+          <b>
+           AvoidF
+          </b>
+          : Do not F-mark
+         </dd>
+        </dl>
+       </dd>
+      </dl>
+      <dl>
+       <dd>
+        <dl>
+         <dd>
+          d.
+          <b>
+           HeadArg
+          </b>
+          : A head is less prominent than its internal argument.
+         </dd>
+        </dl>
+       </dd>
+      </dl>
+      <p>
+       The ranking Schwarzschild
+       <sup class="reference" id="cite_ref-Schwarzschild1_17-5">
+        <a href="#cite_note-Schwarzschild1-17">
+         [17]
+        </a>
+       </sup>
+       proposes is seen in (25):
+      </p>
+      <p>
+       (25) GIVENness, Foc &gt;&gt; AvoidF &gt;&gt; HeadArg
+      </p>
+      <p>
+       As seen, GIVENness relates F-marking to discourse status. Foc relates F-marking to accent placement. Foc simply requires that a constituent(s) of an F-marked phrase contain an accent. AvoidF states that less F-marking is preferable to more F-marking. HeadArg encodes the head-argument asymmetry into the grammar directly.
+       <sup class="reference" id="cite_ref-German_33-8">
+        <a href="#cite_note-German-33">
+         [33]
+        </a>
+       </sup>
+      </p>
+      <h5>
+       <span class="mw-headline" id="Responses">
+        Responses
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Focus_(linguistics)&amp;action=edit&amp;section=9" title="Edit section: Responses">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h5>
+      <p>
+       Recent empirical work by German
+       <i>
+        et al.
+       </i>
+       <sup class="reference" id="cite_ref-German_33-9">
+        <a href="#cite_note-German-33">
+         [33]
+        </a>
+       </sup>
+       suggests that both Selkirk’s
+       <sup class="reference" id="cite_ref-Selkirk1_15-5">
+        <a href="#cite_note-Selkirk1-15">
+         [15]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-Selkirk2_16-5">
+        <a href="#cite_note-Selkirk2-16">
+         [16]
+        </a>
+       </sup>
+       and Schwarzschild’s
+       <sup class="reference" id="cite_ref-Schwarzschild1_17-6">
+        <a href="#cite_note-Schwarzschild1-17">
+         [17]
+        </a>
+       </sup>
+       theory of accentuation and F-marking makes incorrect predictions. Consider the following context:
+      </p>
+      <p>
+       (26) Are the children playing their game?
+      </p>
+      <p>
+       (27) Paul took down their tent that they play their game in.
+       <sup class="reference" id="cite_ref-German_33-10">
+        <a href="#cite_note-German-33">
+         [33]
+        </a>
+       </sup>
+      </p>
+      <p>
+       It has been noted that prepositions are intrinsically weak and do not readily take accent.
+       <sup class="reference" id="cite_ref-Ladd_32-1">
+        <a href="#cite_note-Ladd-32">
+         [32]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-German_33-11">
+        <a href="#cite_note-German-33">
+         [33]
+        </a>
+       </sup>
+       However, both Selkirk and Schwarzschild predict that in the narrow focus context, an accent will occur at most on the preposition in (27) as shown in (28):
+      </p>
+      <p>
+       (28) Paul took down their tent that they [play their game [in
+       <sub>
+        f
+       </sub>
+       <a href="/wiki/Trace_(linguistics)" title="Trace (linguistics)">
+        t
+       </a>
+       <sub>
+        f
+       </sub>
+       ]
+       <sub>
+        foc
+       </sub>
+       ].
+       <sup class="reference" id="cite_ref-German_33-12">
+        <a href="#cite_note-German-33">
+         [33]
+        </a>
+       </sup>
+      </p>
+      <p>
+       However, the production experiment reported in German
+       <i>
+        et al.
+       </i>
+       <sup class="reference" id="cite_ref-German_33-13">
+        <a href="#cite_note-German-33">
+         [33]
+        </a>
+       </sup>
+       showed that subjects are more likely to accent verbs or nouns as opposed to prepositions in the narrow focused context, thus ruling out accent patterns shown in (28). German
+       <i>
+        et al.
+       </i>
+       argue for a stochastic constraint-based grammar similar to Anttila
+       <sup class="reference" id="cite_ref-Antilla_35-0">
+        <a href="#cite_note-Antilla-35">
+         [35]
+        </a>
+       </sup>
+       and Boersma
+       <sup class="reference" id="cite_ref-Boersma_36-0">
+        <a href="#cite_note-Boersma-36">
+         [36]
+        </a>
+       </sup>
+       that more fluidly accounts for how speakers accent words in discourse.
+      </p>
+      <h2>
+       <span class="mw-headline" id="See_also">
+        See also
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Focus_(linguistics)&amp;action=edit&amp;section=10" title="Edit section: See also">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a class="mw-redirect" href="/wiki/Topic%E2%80%93comment" title="Topic–comment">
+         Topic–comment
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Topic-prominent_language" title="Topic-prominent language">
+         Topic-prominent language
+        </a>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="Notes">
+        Notes
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Focus_(linguistics)&amp;action=edit&amp;section=11" title="Edit section: Notes">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+       <ol class="references">
+        <li id="cite_note-1">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-1">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation web">
+           <a class="external text" href="http://www.grammaticalfeatures.net/features/associativity.html" rel="nofollow">
+            "Grammatical Features - Associativity"
+           </a>
+           .
+           <i>
+            www.grammaticalfeatures.net
+           </i>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.grammaticalfeatures.net&amp;rft.atitle=Grammatical+Features+-+Associativity&amp;rft_id=http%3A%2F%2Fwww.grammaticalfeatures.net%2Ffeatures%2Fassociativity.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFocus+%28linguistics%29">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-Halliday-2">
+         <span class="mw-cite-backlink">
+          ^
+          <a href="#cite_ref-Halliday_2-0">
+           <sup>
+            <i>
+             <b>
+              a
+             </b>
+            </i>
+           </sup>
+          </a>
+          <a href="#cite_ref-Halliday_2-1">
+           <sup>
+            <i>
+             <b>
+              b
+             </b>
+            </i>
+           </sup>
+          </a>
+         </span>
+         <span class="reference-text">
+          <cite class="citation" id="CITEREFHalliday1967">
+           Halliday, M. (1967),
+           <i>
+            Notes on Transitivity and Theme in English (Part 2)
+           </i>
+           , Journal of Linguistics 3., p. 206
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Notes+on+Transitivity+and+Theme+in+English+%28Part+2%29&amp;rft.pages=206&amp;rft.pub=Journal+of+Linguistics+3.&amp;rft.date=1967&amp;rft.aulast=Halliday&amp;rft.aufirst=M.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFocus+%28linguistics%29">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-3">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-3">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation" id="CITEREFGivon2001">
+           Givon, Talmy (2001),
+           <i>
+            Syntax: An Introduction Vol. II
+           </i>
+           , Amsterdam: John Benjamins Publishing Co.
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Syntax%3A+An+Introduction+Vol.+II&amp;rft.place=Amsterdam&amp;rft.pub=John+Benjamins+Publishing+Co.&amp;rft.date=2001&amp;rft.aulast=Givon&amp;rft.aufirst=Talmy&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFocus+%28linguistics%29">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-4">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-4">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation" id="CITEREFLambrecht1994">
+           Lambrecht, Knud (1994),
+           <i>
+            Information Structure and Sentence Form: Topic, Focus, and the Mental Representation of Discourse Referents
+           </i>
+           , Cambridge: Cambridge University Press
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Information+Structure+and+Sentence+Form%3A+Topic%2C+Focus%2C+and+the+Mental+Representation+of+Discourse+Referents&amp;rft.place=Cambridge&amp;rft.pub=Cambridge+University+Press&amp;rft.date=1994&amp;rft.aulast=Lambrecht&amp;rft.aufirst=Knud&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFocus+%28linguistics%29">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-Camacho_2010-5">
+         <span class="mw-cite-backlink">
+          ^
+          <a href="#cite_ref-Camacho_2010_5-0">
+           <sup>
+            <i>
+             <b>
+              a
+             </b>
+            </i>
+           </sup>
+          </a>
+          <a href="#cite_ref-Camacho_2010_5-1">
+           <sup>
+            <i>
+             <b>
+              b
+             </b>
+            </i>
+           </sup>
+          </a>
+         </span>
+         <span class="reference-text">
+          <cite class="citation" id="CITEREFCamachoRodrigo_Gutiérrez-BravoLiliana_Sánchez2010">
+           Camacho, José; Rodrigo Gutiérrez-Bravo; Liliana Sánchez (2010),
+           <i>
+            Information Structure in the Languages of the Americas: Syntactic Approaches
+           </i>
+           , Berlin: Mouton de Gruyter
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Information+Structure+in+the+Languages+of+the+Americas%3A+Syntactic+Approaches&amp;rft.place=Berlin&amp;rft.pub=Mouton+de+Gruyter&amp;rft.date=2010&amp;rft.aulast=Camacho&amp;rft.aufirst=Jos%C3%A9&amp;rft.au=Rodrigo+Guti%C3%A9rrez-Bravo&amp;rft.au=Liliana+S%C3%A1nchez&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFocus+%28linguistics%29">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-6">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-6">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation" id="CITEREFBatesBrian_MacWhinney1987">
+           Bates, Elizabeth; Brian MacWhinney (1987), Dirven, Rene; V. Fried, eds., "A functionalist approach to the acquisition of grammar",
+           <i>
+            Functionalism in Linguistics
+           </i>
+           , Amersterdam: John Benjamins: 209–264.
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Functionalism+in+Linguistics&amp;rft.atitle=A+functionalist+approach+to+the+acquisition+of+grammar&amp;rft.pages=209-264&amp;rft.date=1987&amp;rft.aulast=Bates&amp;rft.aufirst=Elizabeth&amp;rft.au=Brian+MacWhinney&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFocus+%28linguistics%29">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-7">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-7">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation" id="CITEREFMel’čuk2001">
+           Mel’čuk, Igor A. (2001),
+           <i>
+            Communicative Organization in Natural Language: The Semantic-Communicative Structure of Sentences
+           </i>
+           , Amsterdam: John Benjamins
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Communicative+Organization+in+Natural+Language%3A+The+Semantic-Communicative+Structure+of+Sentences&amp;rft.place=Amsterdam&amp;rft.pub=John+Benjamins&amp;rft.date=2001&amp;rft.aulast=Mel%E2%80%99%C4%8Duk&amp;rft.aufirst=Igor+A.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFocus+%28linguistics%29">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-8">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-8">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation" id="CITEREFPrince1981">
+           Prince, E (1981),
+           <i>
+            Towards a taxonomy of given-new information
+           </i>
+           , New York: Academic Press
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Towards+a+taxonomy+of+given-new+information&amp;rft.place=New+York&amp;rft.pub=Academic+Press&amp;rft.date=1981&amp;rft.aulast=Prince&amp;rft.aufirst=E&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFocus+%28linguistics%29">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-9">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-9">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation" id="CITEREFChafe1976">
+           Chafe, W.L. (1976),
+           <i>
+            Givenness, Contrastiveness, Definiteness, Subjects, Topics and Points of View
+           </i>
+           , New York: Academic Press
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Givenness%2C+Contrastiveness%2C+Definiteness%2C+Subjects%2C+Topics+and+Points+of+View&amp;rft.place=New+York&amp;rft.pub=Academic+Press&amp;rft.date=1976&amp;rft.aulast=Chafe&amp;rft.aufirst=W.L.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFocus+%28linguistics%29">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-10">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-10">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation" id="CITEREFHalliday1967">
+           Halliday, M.A.K. (1967),
+           <i>
+            Notes on Transitivity and Theme in English
+           </i>
+           , New York: Academic Press
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Notes+on+Transitivity+and+Theme+in+English&amp;rft.place=New+York&amp;rft.pub=Academic+Press&amp;rft.date=1967&amp;rft.aulast=Halliday&amp;rft.aufirst=M.A.K.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFocus+%28linguistics%29">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-11">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-11">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation" id="CITEREFWeil1887">
+           Weil, H. (1887),
+           <i>
+            The order of words in ancient languages compared with that of modern languages
+           </i>
+           , Boston: Ginn
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+order+of+words+in+ancient+languages+compared+with+that+of+modern+languages&amp;rft.place=Boston&amp;rft.pub=Ginn&amp;rft.date=1887&amp;rft.aulast=Weil&amp;rft.aufirst=H.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFocus+%28linguistics%29">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-12">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-12">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation" id="CITEREFLevelt1989">
+           Levelt, W J. M. (1989),
+           <i>
+            Speaking
+           </i>
+           , Cambridge: MIT Press
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Speaking&amp;rft.place=Cambridge&amp;rft.pub=MIT+Press&amp;rft.date=1989&amp;rft.aulast=Levelt&amp;rft.aufirst=W+J.+M.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFocus+%28linguistics%29">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-13">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-13">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation" id="CITEREFTomlin1995">
+           Tomlin, R. S. (1995),
+           <i>
+            attention, voice, and word-order: an experimental, cross-linguistic study
+           </i>
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=attention%2C+voice%2C+and+word-order%3A+an+experimental%2C+cross-linguistic+study&amp;rft.date=1995&amp;rft.aulast=Tomlin&amp;rft.aufirst=R.+S.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFocus+%28linguistics%29">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-Beaver-14">
+         <span class="mw-cite-backlink">
+          ^
+          <a href="#cite_ref-Beaver_14-0">
+           <sup>
+            <i>
+             <b>
+              a
+             </b>
+            </i>
+           </sup>
+          </a>
+          <a href="#cite_ref-Beaver_14-1">
+           <sup>
+            <i>
+             <b>
+              b
+             </b>
+            </i>
+           </sup>
+          </a>
+          <a href="#cite_ref-Beaver_14-2">
+           <sup>
+            <i>
+             <b>
+              c
+             </b>
+            </i>
+           </sup>
+          </a>
+          <a href="#cite_ref-Beaver_14-3">
+           <sup>
+            <i>
+             <b>
+              d
+             </b>
+            </i>
+           </sup>
+          </a>
+         </span>
+         <span class="reference-text">
+          <cite class="citation" id="CITEREFBeaver2008">
+           Beaver, David I. &amp; Brady Z. Clark (2008),
+           <i>
+            Sense and Sensitivity: How Focus Determines Meaning
+           </i>
+           , Malden, MA: Blackwell Publishing.
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Sense+and+Sensitivity%3A+How+Focus+Determines+Meaning&amp;rft.pub=Malden%2C+MA%3A+Blackwell+Publishing.&amp;rft.date=2008&amp;rft.aulast=Beaver&amp;rft.aufirst=David+I.+%26+Brady+Z.+Clark&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFocus+%28linguistics%29">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-Selkirk1-15">
+         <span class="mw-cite-backlink">
+          ^
+          <a href="#cite_ref-Selkirk1_15-0">
+           <sup>
+            <i>
+             <b>
+              a
+             </b>
+            </i>
+           </sup>
+          </a>
+          <a href="#cite_ref-Selkirk1_15-1">
+           <sup>
+            <i>
+             <b>
+              b
+             </b>
+            </i>
+           </sup>
+          </a>
+          <a href="#cite_ref-Selkirk1_15-2">
+           <sup>
+            <i>
+             <b>
+              c
+             </b>
+            </i>
+           </sup>
+          </a>
+          <a href="#cite_ref-Selkirk1_15-3">
+           <sup>
+            <i>
+             <b>
+              d
+             </b>
+            </i>
+           </sup>
+          </a>
+          <a href="#cite_ref-Selkirk1_15-4">
+           <sup>
+            <i>
+             <b>
+              e
+             </b>
+            </i>
+           </sup>
+          </a>
+          <a href="#cite_ref-Selkirk1_15-5">
+           <sup>
+            <i>
+             <b>
+              f
+             </b>
+            </i>
+           </sup>
+          </a>
+         </span>
+         <span class="reference-text">
+          <cite class="citation" id="CITEREFSelkirk1984">
+           Selkirk, E. (1984),
+           <i>
+            Phonology and Syntax: The Relation between Sound and Structure
+           </i>
+           , Cambridge, MA: MIT Press.
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Phonology+and+Syntax%3A+The+Relation+between+Sound+and+Structure&amp;rft.pub=Cambridge%2C+MA%3A+MIT+Press.&amp;rft.date=1984&amp;rft.aulast=Selkirk&amp;rft.aufirst=E.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFocus+%28linguistics%29">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-Selkirk2-16">
+         <span class="mw-cite-backlink">
+          ^
+          <a href="#cite_ref-Selkirk2_16-0">
+           <sup>
+            <i>
+             <b>
+              a
+             </b>
+            </i>
+           </sup>
+          </a>
+          <a href="#cite_ref-Selkirk2_16-1">
+           <sup>
+            <i>
+             <b>
+              b
+             </b>
+            </i>
+           </sup>
+          </a>
+          <a href="#cite_ref-Selkirk2_16-2">
+           <sup>
+            <i>
+             <b>
+              c
+             </b>
+            </i>
+           </sup>
+          </a>
+          <a href="#cite_ref-Selkirk2_16-3">
+           <sup>
+            <i>
+             <b>
+              d
+             </b>
+            </i>
+           </sup>
+          </a>
+          <a href="#cite_ref-Selkirk2_16-4">
+           <sup>
+            <i>
+             <b>
+              e
+             </b>
+            </i>
+           </sup>
+          </a>
+          <a href="#cite_ref-Selkirk2_16-5">
+           <sup>
+            <i>
+             <b>
+              f
+             </b>
+            </i>
+           </sup>
+          </a>
+         </span>
+         <span class="reference-text">
+          <cite class="citation" id="CITEREFSelkirk1995">
+           Selkirk, E. (1995),
+           <i>
+            Sentence Prosody: Intonation, Stress, and Phrasing
+           </i>
+           , In: J. A. Goldsmith (ed.): The Handbook of Phonological Theory. London: Basil Blackwell, pp. 550–569.
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Sentence+Prosody%3A+Intonation%2C+Stress%2C+and+Phrasing&amp;rft.pub=In%3A+J.+A.+Goldsmith+%28ed.%29%3A+The+Handbook+of+Phonological+Theory.+London%3A+Basil+Blackwell%2C+pp.+550%E2%80%93569.&amp;rft.date=1995&amp;rft.aulast=Selkirk&amp;rft.aufirst=E.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFocus+%28linguistics%29">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-Schwarzschild1-17">
+         <span class="mw-cite-backlink">
+          ^
+          <a href="#cite_ref-Schwarzschild1_17-0">
+           <sup>
+            <i>
+             <b>
+              a
+             </b>
+            </i>
+           </sup>
+          </a>
+          <a href="#cite_ref-Schwarzschild1_17-1">
+           <sup>
+            <i>
+             <b>
+              b
+             </b>
+            </i>
+           </sup>
+          </a>
+          <a href="#cite_ref-Schwarzschild1_17-2">
+           <sup>
+            <i>
+             <b>
+              c
+             </b>
+            </i>
+           </sup>
+          </a>
+          <a href="#cite_ref-Schwarzschild1_17-3">
+           <sup>
+            <i>
+             <b>
+              d
+             </b>
+            </i>
+           </sup>
+          </a>
+          <a href="#cite_ref-Schwarzschild1_17-4">
+           <sup>
+            <i>
+             <b>
+              e
+             </b>
+            </i>
+           </sup>
+          </a>
+          <a href="#cite_ref-Schwarzschild1_17-5">
+           <sup>
+            <i>
+             <b>
+              f
+             </b>
+            </i>
+           </sup>
+          </a>
+          <a href="#cite_ref-Schwarzschild1_17-6">
+           <sup>
+            <i>
+             <b>
+              g
+             </b>
+            </i>
+           </sup>
+          </a>
+         </span>
+         <span class="reference-text">
+          <cite class="citation" id="CITEREFSchwarzschild1999">
+           Schwarzschild, R. (1999),
+           <i>
+            GIVENness, AvoidF and other Constraints on the Placement of Accent
+           </i>
+           , Natural Language Semantics 7(2), 141–177.
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=GIVENness%2C+AvoidF+and+other+Constraints+on+the+Placement+of+Accent&amp;rft.pub=Natural+Language+Semantics+7%282%29%2C+141%E2%80%93177.&amp;rft.date=1999&amp;rft.aulast=Schwarzschild&amp;rft.aufirst=R.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFocus+%28linguistics%29">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-Roberts-18">
+         <span class="mw-cite-backlink">
+          ^
+          <a href="#cite_ref-Roberts_18-0">
+           <sup>
+            <i>
+             <b>
+              a
+             </b>
+            </i>
+           </sup>
+          </a>
+          <a href="#cite_ref-Roberts_18-1">
+           <sup>
+            <i>
+             <b>
+              b
+             </b>
+            </i>
+           </sup>
+          </a>
+         </span>
+         <span class="reference-text">
+          <cite class="citation" id="CITEREFRoberts1996">
+           Roberts, C. (1996),
+           <i>
+            Information Structure in Discourse: Towards an Integrated Formal Theory of Pragmatics
+           </i>
+           , OSU Working Papers in Linguistics 49. Papers in Semantics.
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Information+Structure+in+Discourse%3A+Towards+an+Integrated+Formal+Theory+of+Pragmatics&amp;rft.pub=OSU+Working+Papers+in+Linguistics+49.+Papers+in+Semantics.&amp;rft.date=1996&amp;rft.aulast=Roberts&amp;rft.aufirst=C.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFocus+%28linguistics%29">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-Chomsky-19">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-Chomsky_19-0">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation" id="CITEREFChomsky1968">
+           Chomsky, N. &amp; M. Halle (1968),
+           <i>
+            The Sound Pattern of English
+           </i>
+           , MIT Press.
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Sound+Pattern+of+English&amp;rft.pub=MIT+Press.&amp;rft.date=1968&amp;rft.aulast=Chomsky&amp;rft.aufirst=N.+%26+M.+Halle&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFocus+%28linguistics%29">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-Jackendoff-20">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-Jackendoff_20-0">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation" id="CITEREFJackendoff1972">
+           Jackendoff, R. (1972),
+           <i>
+            Semantic Structures
+           </i>
+           , MIT Press.
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Semantic+Structures&amp;rft.pub=MIT+Press.&amp;rft.date=1972&amp;rft.aulast=Jackendoff&amp;rft.aufirst=R.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFocus+%28linguistics%29">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-Rooth1-21">
+         <span class="mw-cite-backlink">
+          ^
+          <a href="#cite_ref-Rooth1_21-0">
+           <sup>
+            <i>
+             <b>
+              a
+             </b>
+            </i>
+           </sup>
+          </a>
+          <a href="#cite_ref-Rooth1_21-1">
+           <sup>
+            <i>
+             <b>
+              b
+             </b>
+            </i>
+           </sup>
+          </a>
+          <a href="#cite_ref-Rooth1_21-2">
+           <sup>
+            <i>
+             <b>
+              c
+             </b>
+            </i>
+           </sup>
+          </a>
+          <a href="#cite_ref-Rooth1_21-3">
+           <sup>
+            <i>
+             <b>
+              d
+             </b>
+            </i>
+           </sup>
+          </a>
+         </span>
+         <span class="reference-text">
+          <cite class="citation" id="CITEREFRooth1985">
+           Rooth, M. (1985),
+           <i>
+            Association with Focus
+           </i>
+           , Ph.D. thesis, UMass. Amherst: Graduate Linguistics Students Association.
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Association+with+Focus&amp;rft.pub=Ph.D.+thesis%2C+UMass.+Amherst%3A+Graduate+Linguistics+Students+Association.&amp;rft.date=1985&amp;rft.aulast=Rooth&amp;rft.aufirst=M.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFocus+%28linguistics%29">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-Rooth2-22">
+         <span class="mw-cite-backlink">
+          ^
+          <a href="#cite_ref-Rooth2_22-0">
+           <sup>
+            <i>
+             <b>
+              a
+             </b>
+            </i>
+           </sup>
+          </a>
+          <a href="#cite_ref-Rooth2_22-1">
+           <sup>
+            <i>
+             <b>
+              b
+             </b>
+            </i>
+           </sup>
+          </a>
+          <a href="#cite_ref-Rooth2_22-2">
+           <sup>
+            <i>
+             <b>
+              c
+             </b>
+            </i>
+           </sup>
+          </a>
+          <a href="#cite_ref-Rooth2_22-3">
+           <sup>
+            <i>
+             <b>
+              d
+             </b>
+            </i>
+           </sup>
+          </a>
+         </span>
+         <span class="reference-text">
+          <cite class="citation" id="CITEREFRooth1992">
+           Rooth, M. (1992),
+           <i>
+            A Theory of Focus Interpretation
+           </i>
+           , Natural Language Semantics 1, 75–116.
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=A+Theory+of+Focus+Interpretation&amp;rft.pub=Natural+Language+Semantics+1%2C+75%E2%80%93116.&amp;rft.date=1992&amp;rft.aulast=Rooth&amp;rft.aufirst=M.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFocus+%28linguistics%29">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-Krifka1-23">
+         <span class="mw-cite-backlink">
+          ^
+          <a href="#cite_ref-Krifka1_23-0">
+           <sup>
+            <i>
+             <b>
+              a
+             </b>
+            </i>
+           </sup>
+          </a>
+          <a href="#cite_ref-Krifka1_23-1">
+           <sup>
+            <i>
+             <b>
+              b
+             </b>
+            </i>
+           </sup>
+          </a>
+          <a href="#cite_ref-Krifka1_23-2">
+           <sup>
+            <i>
+             <b>
+              c
+             </b>
+            </i>
+           </sup>
+          </a>
+          <a href="#cite_ref-Krifka1_23-3">
+           <sup>
+            <i>
+             <b>
+              d
+             </b>
+            </i>
+           </sup>
+          </a>
+         </span>
+         <span class="reference-text">
+          <cite class="citation" id="CITEREFKrifka1992">
+           Krifka, Manfred (1992), "A Compositional Semantics For Multiple Focus Constructions", in Jacobs, Joachim,
+           <i>
+            Informationsstruktur und Grammatik
+           </i>
+           , Opladen: Westdeutscher Verlag, pp. 17–53
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=A+Compositional+Semantics+For+Multiple+Focus+Constructions&amp;rft.btitle=Informationsstruktur+und+Grammatik&amp;rft.place=Opladen&amp;rft.pages=17-53&amp;rft.pub=Westdeutscher+Verlag&amp;rft.date=1992&amp;rft.aulast=Krifka&amp;rft.aufirst=Manfred&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFocus+%28linguistics%29">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-Jacobs-24">
+         <span class="mw-cite-backlink">
+          ^
+          <a href="#cite_ref-Jacobs_24-0">
+           <sup>
+            <i>
+             <b>
+              a
+             </b>
+            </i>
+           </sup>
+          </a>
+          <a href="#cite_ref-Jacobs_24-1">
+           <sup>
+            <i>
+             <b>
+              b
+             </b>
+            </i>
+           </sup>
+          </a>
+         </span>
+         <span class="reference-text">
+          <cite class="citation" id="CITEREFJacobs1983">
+           Jacobs, J. (1983),
+           <i>
+            Fokus und Skalen
+           </i>
+           , T¨ubingen: Niemeyer.
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Fokus+und+Skalen&amp;rft.pub=T%C2%A8ubingen%3A+Niemeyer.&amp;rft.date=1983&amp;rft.aulast=Jacobs&amp;rft.aufirst=J.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFocus+%28linguistics%29">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-Stechow-25">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-Stechow_25-0">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation" id="CITEREFvon_Stechow1989">
+           von Stechow, A. (1989),
+           <i>
+            Focusing and backgrounding operators
+           </i>
+           , Universitat Konstanz, Fachgruppe Sprachwissenschaft, Arbeitspapier Nr. 6. Konstanz. Press.
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Focusing+and+backgrounding+operators&amp;rft.pub=Universitat+Konstanz%2C+Fachgruppe+Sprachwissenschaft%2C+Arbeitspapier+Nr.+6.+Konstanz.+Press.&amp;rft.date=1989&amp;rft.aulast=von+Stechow&amp;rft.aufirst=A.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFocus+%28linguistics%29">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-Dryer-26">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-Dryer_26-0">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation" id="CITEREFDryer1994">
+           Dryer, M. S. (1994),
+           <i>
+            The pragmatics of association with only
+           </i>
+           , Paper presented at the 1994 Winter Meeting of the L.S.A. Boston, Massachusetts.
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+pragmatics+of+association+with+only&amp;rft.pub=Paper+presented+at+the+1994+Winter+Meeting+of+the+L.S.A.+Boston%2C+Massachusetts.&amp;rft.date=1994&amp;rft.aulast=Dryer&amp;rft.aufirst=M.+S.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFocus+%28linguistics%29">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-Kadmon-27">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-Kadmon_27-0">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation" id="CITEREFKadmon2001">
+           Kadmon, N. (2001),
+           <i>
+            Formal Pragmatics: Semantics, Pragmatics, Presupposition and Focus
+           </i>
+           , Oxford: Blackwell.
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Formal+Pragmatics%3A+Semantics%2C+Pragmatics%2C+Presupposition+and+Focus&amp;rft.pub=Oxford%3A+Blackwell.&amp;rft.date=2001&amp;rft.aulast=Kadmon&amp;rft.aufirst=N.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFocus+%28linguistics%29">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-Marti-28">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-Marti_28-0">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation" id="CITEREFMarti2003">
+           Marti, L. (2003),
+           <i>
+            Contextual Variables
+           </i>
+           , Ph.D. thesis, University of Connecticut, Storrs, CT and MIT Working Papers in Linguistics.
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Contextual+Variables&amp;rft.pub=Ph.D.+thesis%2C+University+of+Connecticut%2C+Storrs%2C+CT+and+MIT+Working+Papers+in+Linguistics.&amp;rft.date=2003&amp;rft.aulast=Marti&amp;rft.aufirst=L.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFocus+%28linguistics%29">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-Schwarzschild2-29">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-Schwarzschild2_29-0">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation" id="CITEREFSchwarzschild1997">
+           Schwarzschild, R. (1997),
+           <i>
+            Why Some Foci Must Associate
+           </i>
+           , Unpublished ms., Rutgers University.
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Why+Some+Foci+Must+Associate&amp;rft.pub=Unpublished+ms.%2C+Rutgers+University.&amp;rft.date=1997&amp;rft.aulast=Schwarzschild&amp;rft.aufirst=R.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFocus+%28linguistics%29">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-Vallduvi-30">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-Vallduvi_30-0">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation" id="CITEREFVallduvi1990">
+           Vallduvi, E. (1990),
+           <i>
+            The Information Component
+           </i>
+           , Ph.D. thesis, University of Pennsylvania.
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Information+Component&amp;rft.pub=Ph.D.+thesis%2C+University+of+Pennsylvania.&amp;rft.date=1990&amp;rft.aulast=Vallduvi&amp;rft.aufirst=E.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFocus+%28linguistics%29">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-Williams-31">
+         <span class="mw-cite-backlink">
+          ^
+          <a href="#cite_ref-Williams_31-0">
+           <sup>
+            <i>
+             <b>
+              a
+             </b>
+            </i>
+           </sup>
+          </a>
+          <a href="#cite_ref-Williams_31-1">
+           <sup>
+            <i>
+             <b>
+              b
+             </b>
+            </i>
+           </sup>
+          </a>
+         </span>
+         <span class="reference-text">
+          <cite class="citation" id="CITEREFWilliams1997">
+           Williams, E. (1997),
+           <i>
+            Blocking and Anaphora
+           </i>
+           , Linguistic Inquiry 28(4), 577–628.
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Blocking+and+Anaphora&amp;rft.pub=Linguistic+Inquiry+28%284%29%2C+577%E2%80%93628.&amp;rft.date=1997&amp;rft.aulast=Williams&amp;rft.aufirst=E.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFocus+%28linguistics%29">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-Ladd-32">
+         <span class="mw-cite-backlink">
+          ^
+          <a href="#cite_ref-Ladd_32-0">
+           <sup>
+            <i>
+             <b>
+              a
+             </b>
+            </i>
+           </sup>
+          </a>
+          <a href="#cite_ref-Ladd_32-1">
+           <sup>
+            <i>
+             <b>
+              b
+             </b>
+            </i>
+           </sup>
+          </a>
+         </span>
+         <span class="reference-text">
+          <cite class="citation" id="CITEREFLadd1980">
+           Ladd, Robert D. (1980),
+           <i>
+            The structure of intonational meaning: Evidence from English
+           </i>
+           , Bloomington: Indiana University Press.
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+structure+of+intonational+meaning%3A+Evidence+from+English&amp;rft.pub=Bloomington%3A+Indiana+University+Press.&amp;rft.date=1980&amp;rft.aulast=Ladd&amp;rft.aufirst=Robert+D.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFocus+%28linguistics%29">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-German-33">
+         <span class="mw-cite-backlink">
+          ^
+          <a href="#cite_ref-German_33-0">
+           <sup>
+            <i>
+             <b>
+              a
+             </b>
+            </i>
+           </sup>
+          </a>
+          <a href="#cite_ref-German_33-1">
+           <sup>
+            <i>
+             <b>
+              b
+             </b>
+            </i>
+           </sup>
+          </a>
+          <a href="#cite_ref-German_33-2">
+           <sup>
+            <i>
+             <b>
+              c
+             </b>
+            </i>
+           </sup>
+          </a>
+          <a href="#cite_ref-German_33-3">
+           <sup>
+            <i>
+             <b>
+              d
+             </b>
+            </i>
+           </sup>
+          </a>
+          <a href="#cite_ref-German_33-4">
+           <sup>
+            <i>
+             <b>
+              e
+             </b>
+            </i>
+           </sup>
+          </a>
+          <a href="#cite_ref-German_33-5">
+           <sup>
+            <i>
+             <b>
+              f
+             </b>
+            </i>
+           </sup>
+          </a>
+          <a href="#cite_ref-German_33-6">
+           <sup>
+            <i>
+             <b>
+              g
+             </b>
+            </i>
+           </sup>
+          </a>
+          <a href="#cite_ref-German_33-7">
+           <sup>
+            <i>
+             <b>
+              h
+             </b>
+            </i>
+           </sup>
+          </a>
+          <a href="#cite_ref-German_33-8">
+           <sup>
+            <i>
+             <b>
+              i
+             </b>
+            </i>
+           </sup>
+          </a>
+          <a href="#cite_ref-German_33-9">
+           <sup>
+            <i>
+             <b>
+              j
+             </b>
+            </i>
+           </sup>
+          </a>
+          <a href="#cite_ref-German_33-10">
+           <sup>
+            <i>
+             <b>
+              k
+             </b>
+            </i>
+           </sup>
+          </a>
+          <a href="#cite_ref-German_33-11">
+           <sup>
+            <i>
+             <b>
+              l
+             </b>
+            </i>
+           </sup>
+          </a>
+          <a href="#cite_ref-German_33-12">
+           <sup>
+            <i>
+             <b>
+              m
+             </b>
+            </i>
+           </sup>
+          </a>
+          <a href="#cite_ref-German_33-13">
+           <sup>
+            <i>
+             <b>
+              n
+             </b>
+            </i>
+           </sup>
+          </a>
+         </span>
+         <span class="reference-text">
+          <cite class="citation" id="CITEREFGerman2006">
+           German, J., Pierrehumbert, J. and Kaufmann, S. (2006),
+           <i>
+            Evidence for phonological constraints on nuclear accent placement
+           </i>
+           , Language 82(1), 151-168.
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Evidence+for+phonological+constraints+on+nuclear+accent+placement&amp;rft.pub=Language+82%281%29%2C+151-168.&amp;rft.date=2006&amp;rft.aulast=German&amp;rft.aufirst=J.%2C+Pierrehumbert%2C+J.+and+Kaufmann%2C+S.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFocus+%28linguistics%29">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-Prince-34">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-Prince_34-0">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation" id="CITEREFPrince1993">
+           Prince, Alan, and Paul Smolensky (1993),
+           <i>
+            Optimality theory: Constraint interaction in generative grammar
+           </i>
+           , New Brunswick, NJ: Rutgers University, and Boulder, CO: University of Colorado, MS.
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Optimality+theory%3A+Constraint+interaction+in+generative+grammar&amp;rft.pub=New+Brunswick%2C+NJ%3A+Rutgers+University%2C+and+Boulder%2C+CO%3A+University+of+Colorado%2C+MS.&amp;rft.date=1993&amp;rft.aulast=Prince&amp;rft.aufirst=Alan%2C+and+Paul+Smolensky&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFocus+%28linguistics%29">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-Antilla-35">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-Antilla_35-0">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation" id="CITEREFAntilla1997">
+           Antilla, A. (1997),
+           <i>
+            Variation in Finnish phonology and morphology
+           </i>
+           , Stanford, CA: Stanford University dissertation.
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Variation+in+Finnish+phonology+and+morphology&amp;rft.pub=Stanford%2C+CA%3A+Stanford+University+dissertation.&amp;rft.date=1997&amp;rft.aulast=Antilla&amp;rft.aufirst=A.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFocus+%28linguistics%29">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-Boersma-36">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-Boersma_36-0">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation" id="CITEREFBoersma1997">
+           Boersma, P. (1997),
+           <i>
+            How we learn variation, optionality, and probability
+           </i>
+           , Proceedings of the Institute of Phonetic Sciences of the University of Amsterdam 21.43–58.
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=How+we+learn+variation%2C+optionality%2C+and+probability&amp;rft.pub=Proceedings+of+the+Institute+of+Phonetic+Sciences+of+the+University+of+Amsterdam+21.43%E2%80%9358.&amp;rft.date=1997&amp;rft.aulast=Boersma&amp;rft.aufirst=P.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFocus+%28linguistics%29">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+       </ol>
+      </div>
+      <h2>
+       <span class="mw-headline" id="References">
+        References
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Focus_(linguistics)&amp;action=edit&amp;section=12" title="Edit section: References">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="refbegin columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2;">
+       <ul>
+        <li>
+         Cinque, Guglielmo (1993). 'A null theory of phrase and compound stress'.
+         <i>
+          Linguistic Inquiry
+         </i>
+         24:239-267.
+        </li>
+        <li>
+         <a href="/wiki/Ad_Neeleman" title="Ad Neeleman">
+          Neeleman, Ad
+         </a>
+         and
+         <a href="/wiki/Tanya_Reinhart" title="Tanya Reinhart">
+          Tanya Reinhart
+         </a>
+         (1998). 'Scrambling and the PF-Interface'. In
+         <i>
+          The Projection of Arguments
+         </i>
+         , CSLI Publications, 309-353.
+        </li>
+        <li>
+         Ocampo, Francisco (2003). On the notion of focus in spoken Spanish: An empirical approach. In
+         <i>
+          Theory, Practice, and Acquisition
+         </i>
+         , ed. by Paula Kempchinsky and Carlos-Eduardo Pineros. Sommerville: Cascadilla Press, 207-226.
+        </li>
+        <li>
+         Pereltsvaig, Asya (2002). 'Topic and focus as linear notions: evidence from Russian and Italian'.
+         <i>
+          Proceedings of the Conference on the Interaction between Syntax and Pragmatics at UCL
+         </i>
+         .
+        </li>
+        <li>
+         Szendrői, Kriszta (2004). 'Focus and the interaction between syntax and pragmatics'.
+         <i>
+          <a href="/wiki/Lingua_(journal)" title="Lingua (journal)">
+           Lingua
+          </a>
+         </i>
+         114(3), 229-254.
+        </li>
+        <li>
+         Xu, Y., C. X. Xu and X. Sun (2004). 'On the temporal domain of focus'. In Proceedings of International Conference on Speech Prosody 2004, Nara, Japan: 81-84.
+        </li>
+       </ul>
+      </div>
+      <!-- 
+NewPP limit report
+Parsed by mw1273
+Cached time: 20180113220811
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.336 seconds
+Real time usage: 0.431 seconds
+Preprocessor visited node count: 2355/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 72483/2097152 bytes
+Template argument size: 112/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 0/500
+Lua time usage: 0.154/10.000 seconds
+Lua memory usage: 3.34 MB/50 MB
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  303.583      1 -total
+ 75.04%  227.809      1 Template:Reflist
+ 48.20%  146.320     35 Template:Citation
+ 10.54%   31.991      1 Template:Cite_web
+  9.55%   28.988      1 Template:Grammatical_categories
+  8.71%   26.433      1 Template:Sidebar
+  1.01%    3.077      1 Template:Refbegin
+  0.74%    2.249      1 Template:Sc
+  0.57%    1.724      1 Template:Main_other
+  0.47%    1.440      1 Template:Column-width
+-->
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:1315845-0!canonical!math=5 and timestamp 20180113220810 and revision id 745298483
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Focus_(linguistics)&amp;oldid=745298483">
+      https://en.wikipedia.org/w/index.php?title=Focus_(linguistics)&amp;oldid=745298483
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Grammatical_categories" title="Category:Grammatical categories">
+         Grammatical categories
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Syntactic_entities" title="Category:Syntactic entities">
+         Syntactic entities
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Semantics" title="Category:Semantics">
+         Semantics
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Focus+%28linguistics%29" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Focus+%28linguistics%29" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Focus_(linguistics)" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Focus_(linguistics)" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="collapsible selected" id="ca-view">
+        <span>
+         <a href="/wiki/Focus_(linguistics)">
+          Read
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Focus_(linguistics)&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Focus_(linguistics)&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Focus_(linguistics)" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Focus_(linguistics)" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Focus_(linguistics)&amp;oldid=745298483" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Focus_(linguistics)&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1435289" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Focus_%28linguistics%29&amp;id=745298483" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Focus+%28linguistics%29">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Focus+%28linguistics%29&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Focus_(linguistics)&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-br">
+        <a class="interlanguage-link-target" href="https://br.wikipedia.org/wiki/Rema_(yezhoniezh)" hreflang="br" lang="br" title="Rema (yezhoniezh) – Breton">
+         Brezhoneg
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Fokus_(Linguistik)" hreflang="de" lang="de" title="Fokus (Linguistik) – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Foco_(ling%C3%BC%C3%ADstica)" hreflang="es" lang="es" title="Foco (lingüística) – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eo">
+        <a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Remao" hreflang="eo" lang="eo" title="Remao – Esperanto">
+         Esperanto
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Rh%C3%A8me" hreflang="fr" lang="fr" title="Rhème – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Focalizzazione" hreflang="it" lang="it" title="Focalizzazione – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E7%84%A6%E7%82%B9_(%E8%A8%80%E8%AA%9E%E5%AD%A6)" hreflang="ja" lang="ja" title="焦点 (言語学) – Japanese">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sv">
+        <a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Fokus_(spr%C3%A5kvetenskap)" hreflang="sv" lang="sv" title="Fokus (språkvetenskap) – Swedish">
+         Svenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E7%84%A6%E9%BB%9E_(%E8%AA%9E%E8%A8%80%E5%AD%B8)" hreflang="zh" lang="zh" title="焦點 (語言學) – Chinese">
+         中文
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1435289#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 20 October 2016, at 10:04.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Focus_(linguistics)&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.336","walltime":"0.431","ppvisitednodes":{"value":2355,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":72483,"limit":2097152},"templateargumentsize":{"value":112,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  303.583      1 -total"," 75.04%  227.809      1 Template:Reflist"," 48.20%  146.320     35 Template:Citation"," 10.54%   31.991      1 Template:Cite_web","  9.55%   28.988      1 Template:Grammatical_categories","  8.71%   26.433      1 Template:Sidebar","  1.01%    3.077      1 Template:Refbegin","  0.74%    2.249      1 Template:Sc","  0.57%    1.724      1 Template:Main_other","  0.47%    1.440      1 Template:Column-width"]},"scribunto":{"limitreport-timeusage":{"value":"0.154","limit":"10.000"},"limitreport-memusage":{"value":3506801,"limit":52428800}},"cachereport":{"origin":"mw1273","timestamp":"20180113220811","ttl":1900800,"transientcontent":false}}});});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":88,"wgHostname":"mw1327"});});
+  </script>
+ </body>
+</html>

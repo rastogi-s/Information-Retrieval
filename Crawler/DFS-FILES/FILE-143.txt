@@ -1,0 +1,3482 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Geodetic datum - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Geodetic_datum","wgTitle":"Geodetic datum","wgCurRevisionId":822682821,"wgRevisionId":822682821,"wgArticleId":995417,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages with citations lacking titles","Pages with citations having bare URLs","CS1 maint: Uses authors parameter","All articles with unsourced statements","Articles with unsourced statements from November 2016","Coordinate systems","Cartography","Navigation","Geodesy","Surveying","Global Positioning System","Geodetic datums"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Geodetic_datum","wgRelevantArticleId":995417,"wgRequestId":"WnJ9XApAME8AAEv-XRIAAABY","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Geodetic_system","wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgInternalRedirectTargetUrl":"/wiki/Geodetic_datum","wgWikibaseItemId":"Q1502887","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["mediawiki.action.view.redirect","ext.cite.a11y","ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.31.0-wmf.17" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <meta content="https://upload.wikimedia.org/wikipedia/commons/4/4c/Azimutalprojektion-schief_kl-cropped.png" property="og:image"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Geodetic_datum" rel="alternate"/>
+  <link href="/w/index.php?title=Geodetic_datum&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Geodetic_datum&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/Geodetic_datum" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Geodetic_datum rootpage-Geodetic_datum skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Geodetic datum
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+     <span class="mw-redirectedfrom">
+      (Redirected from
+      <a class="mw-redirect" href="/w/index.php?title=Geodetic_system&amp;redirect=no" title="Geodetic system">
+       Geodetic system
+      </a>
+      )
+     </span>
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <table class="vertical-navbox nowraplinks plainlist" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+       <tr>
+        <th style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em;padding-bottom:0.4em;">
+         <a href="/wiki/Geodesy" title="Geodesy">
+          Geodesy
+         </a>
+        </th>
+       </tr>
+       <tr>
+        <td style="padding:0.2em 0 0.4em">
+         <a class="image" href="/wiki/File:Azimutalprojektion-schief_kl-cropped.png">
+          <img alt="Azimutalprojektion-schief kl-cropped.png" data-file-height="240" data-file-width="242" height="149" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Azimutalprojektion-schief_kl-cropped.png/150px-Azimutalprojektion-schief_kl-cropped.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Azimutalprojektion-schief_kl-cropped.png/225px-Azimutalprojektion-schief_kl-cropped.png 1.5x, //upload.wikimedia.org/wikipedia/commons/4/4c/Azimutalprojektion-schief_kl-cropped.png 2x" width="150"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <th style="padding:0.1em;background:#c5d5a5;">
+         Fundamentals
+        </th>
+       </tr>
+       <tr>
+        <td style="padding:0 0.1em 0.4em;padding-top:0.2em;padding-bottom:0.7em;">
+         <div class="hlist">
+          <ul>
+           <li>
+            <a href="/wiki/Geodesy" title="Geodesy">
+             Geodesy
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Geodynamics" title="Geodynamics">
+             Geodynamics
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Geomatics" title="Geomatics">
+             Geomatics
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Cartography" title="Cartography">
+             Cartography
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/History_of_geodesy" title="History of geodesy">
+             History
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr>
+        <th style="padding:0.1em;background:#c5d5a5;">
+         Concepts
+        </th>
+       </tr>
+       <tr>
+        <td style="padding:0 0.1em 0.4em;padding-top:0.2em;padding-bottom:0.7em;">
+         <div class="hlist">
+          <ul>
+           <li>
+            <a href="/wiki/Geographical_distance" title="Geographical distance">
+             Geographical distance
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Geoid" title="Geoid">
+             Geoid
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Figure_of_the_Earth" title="Figure of the Earth">
+             Figure of the Earth
+            </a>
+           </li>
+           <li>
+            <a class="mw-selflink selflink">
+             Geodetic datum
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Geodesic" title="Geodesic">
+             Geodesic
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">
+             Geographic coordinate system
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Horizontal_position_representation" title="Horizontal position representation">
+             Horizontal position representation
+            </a>
+           </li>
+           <li>
+            <span class="nowrap">
+             <a href="/wiki/Latitude" title="Latitude">
+              Latitude
+             </a>
+             /
+             <a href="/wiki/Longitude" title="Longitude">
+              Longitude
+             </a>
+            </span>
+           </li>
+           <li>
+            <a href="/wiki/Map_projection" title="Map projection">
+             Map projection
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Reference_ellipsoid" title="Reference ellipsoid">
+             Reference ellipsoid
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Satellite_geodesy" title="Satellite geodesy">
+             Satellite geodesy
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Spatial_reference_system" title="Spatial reference system">
+             Spatial reference system
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr>
+        <th style="padding:0.1em;background:#c5d5a5;">
+         Technologies
+        </th>
+       </tr>
+       <tr>
+        <td style="padding:0 0.1em 0.4em;padding-top:0.2em;padding-bottom:0.7em;">
+         <ul>
+          <li>
+           <a href="/wiki/Satellite_navigation" title="Satellite navigation">
+            Global Navigation Satellite System (GNSS)
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Global_Positioning_System" title="Global Positioning System">
+            Global Positioning System (GPS)
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/GLONASS" title="GLONASS">
+            GLONASS
+            <span style="font-size:90%;">
+             (Russian)
+            </span>
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/BeiDou_Navigation_Satellite_System" title="BeiDou Navigation Satellite System">
+            BeiDou (BDS)
+            <span style="font-size:90%;">
+             (Chinese)
+            </span>
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Galileo_(satellite_navigation)" title="Galileo (satellite navigation)">
+            Galileo
+            <span style="font-size:90%;">
+             (European)
+            </span>
+           </a>
+          </li>
+          <li>
+           <div style="padding:0.2em 0.4em; line-height:1.2em;">
+            <a href="/wiki/Indian_Regional_Navigation_Satellite_System" title="Indian Regional Navigation Satellite System">
+             Indian Regional Navigation
+             <br/>
+             Satellite System (IRNSS)
+             <span style="font-size:90%;">
+              (India)
+             </span>
+            </a>
+           </div>
+          </li>
+          <li>
+           <a href="/wiki/Quasi-Zenith_Satellite_System" title="Quasi-Zenith Satellite System">
+            Quasi-Zenith Satellite System (QZSS)
+            <span style="font-size:90%;">
+             (Japan)
+            </span>
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Legenda_(satellite_system)" title="Legenda (satellite system)">
+            Legenda (satellite system)
+           </a>
+          </li>
+         </ul>
+        </td>
+       </tr>
+       <tr>
+        <th style="padding:0.1em;background:#c5d5a5;">
+         Standards (
+         <a href="/wiki/History_of_geodesy" title="History of geodesy">
+          History
+         </a>
+         )
+        </th>
+       </tr>
+       <tr>
+        <td style="padding:0 0.1em 0.4em;padding-top:0.2em;padding-bottom:0.7em;">
+         <table class="nowrap" style="width:100%;border-collapse:collapse;border-spacing:0px 0px;border:none;line-height:1.2em;">
+          <tr style="vertical-align:top">
+           <td style="text-align:left;padding-left:0.5em;">
+            <a href="/wiki/Sea_Level_Datum_of_1929" title="Sea Level Datum of 1929">
+             NGVD 29
+            </a>
+           </td>
+           <td style="text-align:right;font-size:90%;padding-right:0.55em;">
+            Sea Level Datum 1929
+           </td>
+          </tr>
+          <tr style="vertical-align:top">
+           <td style="text-align:left;padding-left:0.5em;">
+            <a class="mw-redirect" href="/wiki/OSGB36" title="OSGB36">
+             OSGB36
+            </a>
+           </td>
+           <td style="text-align:right;font-size:90%;padding-right:0.55em;">
+            Ordnance Survey Great Britain 1936
+           </td>
+          </tr>
+          <tr style="vertical-align:top">
+           <td style="text-align:left;padding-left:0.5em;">
+            <a href="/wiki/SK-42_reference_system" title="SK-42 reference system">
+             SK-42
+            </a>
+           </td>
+           <td style="text-align:right;font-size:90%;padding-right:0.55em;">
+            Systema Koordinat 1942 goda
+           </td>
+          </tr>
+          <tr style="vertical-align:top">
+           <td style="text-align:left;padding-left:0.5em;">
+            <a href="/wiki/ED50" title="ED50">
+             ED50
+            </a>
+           </td>
+           <td style="text-align:right;font-size:90%;padding-right:0.55em;">
+            European Datum 1950
+           </td>
+          </tr>
+          <tr style="vertical-align:top">
+           <td style="text-align:left;padding-left:0.5em;">
+            <a href="/wiki/South_American_Datum#SAD69" title="South American Datum">
+             SAD69
+            </a>
+           </td>
+           <td style="text-align:right;font-size:90%;padding-right:0.55em;">
+            South American Datum 1969
+           </td>
+          </tr>
+          <tr style="vertical-align:top">
+           <td style="text-align:left;padding-left:0.5em;">
+            <a href="/wiki/GRS_80" title="GRS 80">
+             GRS 80
+            </a>
+           </td>
+           <td style="text-align:right;font-size:90%;padding-right:0.55em;">
+            Geodetic Reference System 1980
+           </td>
+          </tr>
+          <tr style="vertical-align:top">
+           <td style="text-align:left;padding-left:0.5em;">
+            <a href="/wiki/North_American_Datum#North_American_Datum_of_1983" title="North American Datum">
+             NAD 83
+            </a>
+           </td>
+           <td style="text-align:right;font-size:90%;padding-right:0.55em;">
+            North American Datum 1983
+           </td>
+          </tr>
+          <tr style="vertical-align:top">
+           <td style="text-align:left;padding-left:0.5em;">
+            <a href="/wiki/World_Geodetic_System" title="World Geodetic System">
+             WGS 84
+            </a>
+           </td>
+           <td style="text-align:right;font-size:90%;padding-right:0.55em;">
+            World Geodetic System 1984
+           </td>
+          </tr>
+          <tr style="vertical-align:top">
+           <td style="text-align:left;padding-left:0.5em;">
+            <a href="/wiki/North_American_Vertical_Datum_of_1988" title="North American Vertical Datum of 1988">
+             NAVD 88
+            </a>
+           </td>
+           <td style="text-align:right;font-size:90%;padding-right:0.55em;">
+            N. American Vertical Datum 1988
+           </td>
+          </tr>
+          <tr style="vertical-align:top">
+           <td style="text-align:left;padding-left:0.5em;">
+            <a href="/wiki/European_Terrestrial_Reference_System_1989" title="European Terrestrial Reference System 1989">
+             ETRS89
+            </a>
+           </td>
+           <td style="text-align:right;font-size:90%;padding-right:0.55em;">
+            European Terrestrial Reference
+            <br/>
+            System 1989
+           </td>
+          </tr>
+          <tr style="vertical-align:top">
+           <td style="text-align:left;padding-left:0.5em;">
+            <a href="/wiki/Restrictions_on_geographic_data_in_China" title="Restrictions on geographic data in China">
+             GCJ-02
+            </a>
+           </td>
+           <td style="text-align:right;font-size:90%;padding-right:0.55em;">
+            Chinese obfuscated datum 2002
+           </td>
+          </tr>
+         </table>
+         <ul>
+          <li>
+           <a href="/wiki/International_Terrestrial_Reference_System" title="International Terrestrial Reference System">
+            International Terrestrial Reference System
+           </a>
+          </li>
+          <li>
+           <a class="mw-redirect" href="/wiki/SRID" title="SRID">
+            Spatial Reference System Identifier (SRID)
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Universal_Transverse_Mercator_coordinate_system" title="Universal Transverse Mercator coordinate system">
+            Universal Transverse Mercator (UTM)
+           </a>
+          </li>
+         </ul>
+        </td>
+       </tr>
+       <tr>
+        <td style="text-align:right;font-size:115%">
+         <div class="plainlinks hlist navbar mini">
+          <ul>
+           <li class="nv-view">
+            <a href="/wiki/Template:Geodesy" title="Template:Geodesy">
+             <abbr title="View this template">
+              v
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-talk">
+            <a href="/wiki/Template_talk:Geodesy" title="Template talk:Geodesy">
+             <abbr title="Discuss this template">
+              t
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-edit">
+            <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Geodesy&amp;action=edit">
+             <abbr title="Edit this template">
+              e
+             </abbr>
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+      </table>
+      <p>
+       A
+       <b>
+        geodetic datum
+       </b>
+       or
+       <b>
+        geodetic system
+       </b>
+       is a
+       <a href="/wiki/Coordinate_system" title="Coordinate system">
+        coordinate system
+       </a>
+       , and a set of reference points, used to locate places on the
+       <a href="/wiki/Earth" title="Earth">
+        Earth
+       </a>
+       (or similar objects). An approximate definition of
+       <a href="/wiki/Sea_level" title="Sea level">
+        sea level
+       </a>
+       is the datum
+       <a href="/wiki/World_Geodetic_System" title="World Geodetic System">
+        WGS 84
+       </a>
+       , an
+       <a href="/wiki/Reference_ellipsoid" title="Reference ellipsoid">
+        ellipsoid
+       </a>
+       , whereas a more accurate definition is Earth Gravitational Model 2008 (EGM2008), using at least 2,159
+       <a href="/wiki/Spherical_harmonics" title="Spherical harmonics">
+        spherical harmonics
+       </a>
+       . Other datums are defined for other areas or at other times;
+       <a href="/wiki/ED50" title="ED50">
+        ED50
+       </a>
+       was defined in 1950 over Europe and differs from WGS 84 by a few hundred meters depending on where in Europe you look.
+       <a href="/wiki/Mars" title="Mars">
+        Mars
+       </a>
+       has no
+       <a class="mw-redirect" href="/wiki/Oceans" title="Oceans">
+        oceans
+       </a>
+       and so no sea level, but at least two
+       <a href="/wiki/Geography_of_Mars#Zero_elevation" title="Geography of Mars">
+        martian datums
+       </a>
+       have been used to locate places there.
+      </p>
+      <p>
+       Datums are used in
+       <a href="/wiki/Geodesy" title="Geodesy">
+        geodesy
+       </a>
+       ,
+       <a href="/wiki/Navigation" title="Navigation">
+        navigation
+       </a>
+       , and
+       <a href="/wiki/Surveying" title="Surveying">
+        surveying
+       </a>
+       by
+       <a class="mw-redirect" href="/wiki/Cartographer" title="Cartographer">
+        cartographers
+       </a>
+       and
+       <a class="mw-redirect" href="/wiki/Satellite_navigation_system" title="Satellite navigation system">
+        satellite navigation systems
+       </a>
+       to translate positions indicated on
+       <a class="mw-redirect" href="/wiki/Maps" title="Maps">
+        maps
+       </a>
+       (paper or digital) to their real position on
+       <a href="/wiki/Earth" title="Earth">
+        Earth
+       </a>
+       . Each starts with an
+       <a href="/wiki/Ellipsoid" title="Ellipsoid">
+        ellipsoid
+       </a>
+       (stretched sphere), and then defines
+       <a href="/wiki/Latitude" title="Latitude">
+        latitude
+       </a>
+       ,
+       <a href="/wiki/Longitude" title="Longitude">
+        longitude
+       </a>
+       and
+       <a href="/wiki/Altitude" title="Altitude">
+        altitude
+       </a>
+       coordinates. One or more locations on the Earth's surface are chosen as anchor "base-points".
+      </p>
+      <p>
+       The difference in co-ordinates between datums is commonly referred to as
+       <i>
+        datum shift
+       </i>
+       . The datum shift between two particular datums can vary from one place to another within one country or region, and can be anything from zero to hundreds of meters (or several kilometers for some remote islands). The
+       <a href="/wiki/North_Pole" title="North Pole">
+        North Pole
+       </a>
+       ,
+       <a href="/wiki/South_Pole" title="South Pole">
+        South Pole
+       </a>
+       and
+       <a href="/wiki/Equator" title="Equator">
+        Equator
+       </a>
+       will be in different positions on different datums, so
+       <a class="mw-redirect" href="/wiki/True_North" title="True North">
+        True North
+       </a>
+       will be slightly different. Different datums use different interpolations for the precise shape and size of the Earth (
+       <a href="/wiki/Reference_ellipsoid" title="Reference ellipsoid">
+        reference ellipsoids
+       </a>
+       ).
+      </p>
+      <p>
+       Because the Earth is an imperfect ellipsoid, localised datums can give a more accurate representation of the area of coverage than WGS 84.
+       <a href="/wiki/Ordnance_Survey_National_Grid" title="Ordnance Survey National Grid">
+        OSGB36
+       </a>
+       , for example, is a better approximation to the
+       <a href="/wiki/Geoid" title="Geoid">
+        geoid
+       </a>
+       covering the British Isles than the global WGS 84 ellipsoid.
+       <sup class="reference" id="cite_ref-1">
+        <a href="#cite_note-1">
+         [1]
+        </a>
+       </sup>
+       However, as the benefits of a global system outweigh the greater accuracy, the global WGS 84 datum is becoming increasingly adopted.
+       <sup class="reference" id="cite_ref-2">
+        <a href="#cite_note-2">
+         [2]
+        </a>
+       </sup>
+      </p>
+      <p>
+       Horizontal datums are used for describing a point on the
+       <a href="/wiki/Earth" title="Earth">
+        Earth
+       </a>
+       's surface, in
+       <a href="/wiki/Latitude" title="Latitude">
+        latitude
+       </a>
+       and
+       <a href="/wiki/Longitude" title="Longitude">
+        longitude
+       </a>
+       or another coordinate system. Vertical datums measure elevations or depths.
+      </p>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:Chicago_City_Datum.jpg">
+         <img alt="" class="thumbimage" data-file-height="1414" data-file-width="2304" height="135" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Chicago_City_Datum.jpg/220px-Chicago_City_Datum.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Chicago_City_Datum.jpg/330px-Chicago_City_Datum.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Chicago_City_Datum.jpg/440px-Chicago_City_Datum.jpg 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Chicago_City_Datum.jpg" title="Enlarge">
+          </a>
+         </div>
+         City of Chicago Datum Benchmark
+        </div>
+       </div>
+      </div>
+      <p>
+      </p>
+      <div class="toc" id="toc">
+       <div class="toctitle" dir="ltr" lang="en" xml:lang="en">
+        <h2>
+         Contents
+        </h2>
+       </div>
+       <ul>
+        <li class="toclevel-1 tocsection-1">
+         <a href="#Definition">
+          <span class="tocnumber">
+           1
+          </span>
+          <span class="toctext">
+           Definition
+          </span>
+         </a>
+         <ul>
+          <li class="toclevel-2 tocsection-2">
+           <a href="#Horizontal_datum">
+            <span class="tocnumber">
+             1.1
+            </span>
+            <span class="toctext">
+             Horizontal datum
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-3">
+           <a href="#Vertical_datum">
+            <span class="tocnumber">
+             1.2
+            </span>
+            <span class="toctext">
+             Vertical datum
+            </span>
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="toclevel-1 tocsection-4">
+         <a href="#Geodetic_coordinates">
+          <span class="tocnumber">
+           2
+          </span>
+          <span class="toctext">
+           Geodetic coordinates
+          </span>
+         </a>
+         <ul>
+          <li class="toclevel-2 tocsection-5">
+           <a href="#Geodetic_versus_geocentric_latitude">
+            <span class="tocnumber">
+             2.1
+            </span>
+            <span class="toctext">
+             Geodetic versus geocentric latitude
+            </span>
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="toclevel-1 tocsection-6">
+         <a href="#Earth_reference_ellipsoid">
+          <span class="tocnumber">
+           3
+          </span>
+          <span class="toctext">
+           Earth reference ellipsoid
+          </span>
+         </a>
+         <ul>
+          <li class="toclevel-2 tocsection-7">
+           <a href="#Defining_and_derived_parameters">
+            <span class="tocnumber">
+             3.1
+            </span>
+            <span class="toctext">
+             Defining and derived parameters
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-8">
+           <a href="#Parameters_for_some_geodetic_systems">
+            <span class="tocnumber">
+             3.2
+            </span>
+            <span class="toctext">
+             Parameters for some geodetic systems
+            </span>
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="toclevel-1 tocsection-9">
+         <a href="#Conversion_calculations">
+          <span class="tocnumber">
+           4
+          </span>
+          <span class="toctext">
+           Conversion calculations
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-10">
+         <a href="#Reference_datums">
+          <span class="tocnumber">
+           5
+          </span>
+          <span class="toctext">
+           Reference datums
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-11">
+         <a href="#Examples">
+          <span class="tocnumber">
+           6
+          </span>
+          <span class="toctext">
+           Examples
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-12">
+         <a href="#See_also">
+          <span class="tocnumber">
+           7
+          </span>
+          <span class="toctext">
+           See also
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-13">
+         <a href="#Footnotes">
+          <span class="tocnumber">
+           8
+          </span>
+          <span class="toctext">
+           Footnotes
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-14">
+         <a href="#References">
+          <span class="tocnumber">
+           9
+          </span>
+          <span class="toctext">
+           References
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-15">
+         <a href="#Further_reading">
+          <span class="tocnumber">
+           10
+          </span>
+          <span class="toctext">
+           Further reading
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-16">
+         <a href="#External_links">
+          <span class="tocnumber">
+           11
+          </span>
+          <span class="toctext">
+           External links
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <p>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Definition">
+        Definition
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Geodetic_datum&amp;action=edit&amp;section=1" title="Edit section: Definition">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       In
+       <a href="/wiki/Surveying" title="Surveying">
+        surveying
+       </a>
+       and
+       <a href="/wiki/Geodesy" title="Geodesy">
+        geodesy
+       </a>
+       , a
+       <i>
+        datum
+       </i>
+       is a reference system or an approximation of the Earth's surface against which positional measurements are made for computing locations. Horizontal datums are used for describing a point on the
+       <a href="/wiki/Earth" title="Earth">
+        Earth
+       </a>
+       's surface, in
+       <a href="/wiki/Latitude" title="Latitude">
+        latitude
+       </a>
+       and
+       <a href="/wiki/Longitude" title="Longitude">
+        longitude
+       </a>
+       or another coordinate system. Vertical datums are used to measure elevations or underwater depths.
+      </p>
+      <h3>
+       <span class="mw-headline" id="Horizontal_datum">
+        Horizontal datum
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Geodetic_datum&amp;action=edit&amp;section=2" title="Edit section: Horizontal datum">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       The horizontal datum is the model used to measure positions on the Earth. A specific point on the Earth can have substantially different coordinates, depending on the datum used to make the measurement. There are hundreds of local horizontal datums around the world, usually referenced to some convenient local reference point. Contemporary datums, based on increasingly accurate measurements of the shape of the Earth, are intended to cover larger areas. The
+       <a class="mw-redirect" href="/wiki/WGS_84" title="WGS 84">
+        WGS 84
+       </a>
+       datum, which is almost identical to the
+       <a class="mw-redirect" href="/wiki/NAD83" title="NAD83">
+        NAD83
+       </a>
+       datum used in North America and the
+       <a class="mw-redirect" href="/wiki/ETRS89" title="ETRS89">
+        ETRS89
+       </a>
+       datum used in Europe, is a common standard datum.
+       <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+        [
+        <i>
+         <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+          <span title="This claim needs references to reliable sources. (November 2016)">
+           citation needed
+          </span>
+         </a>
+        </i>
+        ]
+       </sup>
+      </p>
+      <p>
+       For example, in Sydney there is a 200 metres (700 feet) difference between GPS coordinates configured in GDA (based on global standard WGS 84) and AGD (used for most local maps), which is an unacceptably large error for some applications, such as
+       <a href="/wiki/Surveying" title="Surveying">
+        surveying
+       </a>
+       or site location for
+       <a href="/wiki/Scuba_diving" title="Scuba diving">
+        scuba diving
+       </a>
+       .
+       <sup class="reference" id="cite_ref-3">
+        <a href="#cite_note-3">
+         [3]
+        </a>
+       </sup>
+      </p>
+      <h3>
+       <span class="mw-headline" id="Vertical_datum">
+        Vertical datum
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Geodetic_datum&amp;action=edit&amp;section=3" title="Edit section: Vertical datum">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <div class="hatnote navigation-not-searchable" role="note">
+       Further information:
+       <a href="/wiki/Chart_datum" title="Chart datum">
+        Chart datum
+       </a>
+      </div>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:Vertical_references_in_Europe.svg">
+         <img alt="" class="thumbimage" data-file-height="444" data-file-width="575" height="170" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Vertical_references_in_Europe.svg/220px-Vertical_references_in_Europe.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Vertical_references_in_Europe.svg/330px-Vertical_references_in_Europe.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Vertical_references_in_Europe.svg/440px-Vertical_references_in_Europe.svg.png 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Vertical_references_in_Europe.svg" title="Enlarge">
+          </a>
+         </div>
+         Vertical datums in Europe
+        </div>
+       </div>
+      </div>
+      <p>
+       A vertical datum is used as a reference point for
+       <a href="/wiki/Elevation" title="Elevation">
+        elevations
+       </a>
+       of surfaces and features on the Earth including terrain, bathymetry, water levels, and man-made structures. Vertical datums are either: tidal, based on
+       <a href="/wiki/Sea_level" title="Sea level">
+        sea levels
+       </a>
+       ; gravimetric, based on a
+       <a href="/wiki/Geoid" title="Geoid">
+        geoid
+       </a>
+       ; or geodetic, based on the same ellipsoid models of the Earth used for computing horizontal datums.
+      </p>
+      <p>
+       In common usage, elevations are often cited in height above
+       <a href="/wiki/Sea_level" title="Sea level">
+        sea level
+       </a>
+       , although what “sea level” actually means is a more complex issue than might at first be thought: the height of the sea surface at any one place and time is a result of numerous effects, including waves, wind and currents, atmospheric pressure,
+       <a href="/wiki/Tide" title="Tide">
+        tides
+       </a>
+       , topography, and even differences in the strength of gravity due to the presence of mountains etc.
+      </p>
+      <p>
+       For the purpose of measuring the height of objects on land, the usual datum used is
+       <a class="mw-redirect" href="/wiki/Mean_sea_level" title="Mean sea level">
+        mean sea level
+       </a>
+       (MSL). This is a tidal datum which is described as the arithmetic mean of the hourly water elevation taken over a specific 19 years cycle. This definition averages out tidal highs and lows (caused by the gravitational effects of the sun and the moon) and short term variations. It will not remove the effects of local gravity strength, and so the height of MSL, relative to a geodetic datum, will vary around the world, and even around one country. Countries tend to choose the mean sea level at one specific point to be used as the standard “sea level” for all mapping and surveying in that country. (For example, in Great Britain, the national vertical datum, Ordnance Datum Newlyn, is based on what was mean sea level at
+       <a href="/wiki/Newlyn" title="Newlyn">
+        Newlyn
+       </a>
+       in
+       <a href="/wiki/Cornwall" title="Cornwall">
+        Cornwall
+       </a>
+       between 1915 and 1921).
+       <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+        [
+        <i>
+         <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+          <span title="This claim needs references to reliable sources. (November 2016)">
+           citation needed
+          </span>
+         </a>
+        </i>
+        ]
+       </sup>
+       However, zero elevation as defined by one country is not the same as zero elevation defined by another (because MSL is not the same everywhere), which is why locally defined vertical datums differ from one another.
+      </p>
+      <p>
+       A different principle is used when choosing a datum for
+       <a class="mw-redirect" href="/wiki/Nautical_charts" title="Nautical charts">
+        nautical charts
+       </a>
+       . For safety reasons, a mariner must be able to know the minimum depth of water that could occur at any point. For this reason, depths and tides on a nautical chart are measured relative to
+       <a href="/wiki/Chart_datum" title="Chart datum">
+        chart datum
+       </a>
+       , which is defined to be a level below which tide rarely falls. Exactly how this is chosen depends on the tidal regime in the area being charted and on the policy of the hydrographic office producing the chart in question; a typical definition is Lowest Astronomical Tide (the lowest tide predictable from the effects of gravity), or Mean Lower Low Water (the average lowest tide of each day), although MSL is sometimes used in waters with very low tidal ranges.
+      </p>
+      <p>
+       Conversely, if a ship is to safely pass under a low bridge or overhead power cable, the mariner must know the minimum clearance between the masthead and the obstruction, which will occur at high tide. Consequently, bridge clearances etc. are given relative to a datum based on high tide, such as Highest Astronomical Tide or Mean High Water Springs.
+      </p>
+      <p>
+       Sea level does not remain constant throughout
+       <a class="mw-redirect" href="/wiki/Geological_time" title="Geological time">
+        geological time
+       </a>
+       , and so tidal datums are less useful when studying very long-term processes. In some situations sea level does not apply at all — for instance for
+       <a href="/wiki/Geography_of_Mars" title="Geography of Mars">
+        mapping Mars' surface
+       </a>
+       — forcing the use of a different "zero elevation", such as mean radius.
+      </p>
+      <p>
+       A geodetic vertical datum takes some specific zero point, and computes elevations based on the geodetic model being used, without further reference to sea levels. Usually, the starting reference point is a tide gauge, so at that point the geodetic and tidal datums might match, but due to sea level variations, the two scales may not match elsewhere. An example of a gravity-based geodetic datum is
+       <a class="mw-redirect" href="/wiki/NAVD88" title="NAVD88">
+        NAVD88
+       </a>
+       , used in North America, which is referenced to a point in
+       <a href="/wiki/Quebec" title="Quebec">
+        Quebec
+       </a>
+       ,
+       <a href="/wiki/Canada" title="Canada">
+        Canada
+       </a>
+       . Ellipsoid-based datums such as
+       <a class="mw-redirect" href="/wiki/WGS_84" title="WGS 84">
+        WGS 84
+       </a>
+       ,
+       <a class="mw-redirect" href="/wiki/GRS80" title="GRS80">
+        GRS80
+       </a>
+       or
+       <a class="mw-redirect" href="/wiki/NAD83" title="NAD83">
+        NAD83
+       </a>
+       use a theoretical surface that may differ significantly from the
+       <a href="/wiki/Geoid" title="Geoid">
+        geoid
+       </a>
+       .
+      </p>
+      <h2>
+       <span class="mw-headline" id="Geodetic_coordinates">
+        Geodetic coordinates
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Geodetic_datum&amp;action=edit&amp;section=4" title="Edit section: Geodetic coordinates">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="hatnote navigation-not-searchable" role="note">
+       Main article:
+       <a class="mw-redirect" href="/wiki/Geodetic_coordinates" title="Geodetic coordinates">
+        Geodetic coordinates
+       </a>
+      </div>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:302px;">
+        <a class="image" href="/wiki/File:Geocentric_vs_geodetic_latitude.svg">
+         <img alt="" class="thumbimage" data-file-height="300" data-file-width="300" height="300" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Geocentric_vs_geodetic_latitude.svg/300px-Geocentric_vs_geodetic_latitude.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Geocentric_vs_geodetic_latitude.svg/450px-Geocentric_vs_geodetic_latitude.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Geocentric_vs_geodetic_latitude.svg/600px-Geocentric_vs_geodetic_latitude.svg.png 2x" width="300"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Geocentric_vs_geodetic_latitude.svg" title="Enlarge">
+          </a>
+         </div>
+         The same position on a spheroid has a different angle for latitude depending on whether the angle is measured from the normal line segment
+         <i>
+          IP
+         </i>
+         of the ellipsoid (angle
+         <i>
+          α
+         </i>
+         ) or the line segment
+         <i>
+          AP
+         </i>
+         from the center (angle
+         <i>
+          β
+         </i>
+         ). Note that the "flatness" of the spheroid (orange) in the image is greater than that of the Earth; as a result, the corresponding difference between the "geodetic" and "geocentric" latitudes is also exaggerated.
+        </div>
+       </div>
+      </div>
+      <p>
+       In geodetic coordinates, the Earth's surface is approximated by an ellipsoid, and locations near the surface are described in terms of latitude (
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle \ \phi }" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mtext>
+             </mtext>
+             <mi>
+              ϕ
+              <!-- ϕ -->
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle \ \phi }
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="\ \phi " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/da404405931b4843facedeb034625cd306468e5c" style="vertical-align: -0.671ex; width:1.966ex; height:2.509ex;"/>
+       </span>
+       ), longitude (
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle \ \lambda }" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mtext>
+             </mtext>
+             <mi>
+              λ
+              <!-- λ -->
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle \ \lambda }
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="\ \lambda " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2bfaa6ce1e7dfbb1b20e93a9cc5a7a1859bfeb67" style="vertical-align: -0.338ex; width:1.936ex; height:2.176ex;"/>
+       </span>
+       ) and height (
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle h}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              h
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle h}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="h" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b26be3e694314bc90c3215047e4a2010c6ee184a" style="vertical-align: -0.338ex; width:1.339ex; height:2.176ex;"/>
+       </span>
+       ).
+       <sup class="reference" id="cite_ref-4">
+        <a href="#cite_note-4">
+         [footnotes 1]
+        </a>
+       </sup>
+      </p>
+      <h3>
+       <span class="mw-headline" id="Geodetic_versus_geocentric_latitude">
+        Geodetic versus geocentric latitude
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Geodetic_datum&amp;action=edit&amp;section=5" title="Edit section: Geodetic versus geocentric latitude">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <div class="hatnote navigation-not-searchable" role="note">
+       Main article:
+       <a href="/wiki/Latitude" title="Latitude">
+        latitude
+       </a>
+      </div>
+      <p>
+       It is important to note that geodetic latitude (
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle \ \phi }" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mtext>
+             </mtext>
+             <mi>
+              ϕ
+              <!-- ϕ -->
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle \ \phi }
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="\ \phi " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/da404405931b4843facedeb034625cd306468e5c" style="vertical-align: -0.671ex; width:1.966ex; height:2.509ex;"/>
+       </span>
+       ) (resp. altitude) is different from geocentric latitude (
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle \ \phi ^{\prime }}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mtext>
+             </mtext>
+             <msup>
+              <mi>
+               ϕ
+               <!-- ϕ -->
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi class="MJX-variant" mathvariant="normal">
+                ′
+                <!-- ′ -->
+               </mi>
+              </mrow>
+             </msup>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle \ \phi ^{\prime }}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="\ \phi ^{\prime }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/02fb387a76a6bc1b55fb2076c1e04c70159ef505" style="vertical-align: -0.671ex; width:2.651ex; height:2.843ex;"/>
+       </span>
+       ) (resp. altitude). Geodetic latitude is determined by the angle between the equatorial plane and
+       <a class="mw-redirect" href="/wiki/Surface_normal" title="Surface normal">
+        normal
+       </a>
+       to the ellipsoid, whereas geocentric latitude is determined by the angle between the equatorial plane and line joining the point to the centre of the ellipsoid (see figure). Unless otherwise specified latitude is geodetic latitude.
+      </p>
+      <h2>
+       <span class="mw-headline" id="Earth_reference_ellipsoid">
+        Earth reference ellipsoid
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Geodetic_datum&amp;action=edit&amp;section=6" title="Edit section: Earth reference ellipsoid">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <h3>
+       <span class="mw-headline" id="Defining_and_derived_parameters">
+        Defining and derived parameters
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Geodetic_datum&amp;action=edit&amp;section=7" title="Edit section: Defining and derived parameters">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <div class="hatnote navigation-not-searchable" role="note">
+       Main article:
+       <a href="/wiki/Reference_ellipsoid#Ellipsoid_parameters" title="Reference ellipsoid">
+        Reference ellipsoid § Ellipsoid parameters
+       </a>
+      </div>
+      <p>
+       The ellipsoid is completely parameterised by the semi-major axis
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle a}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              a
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle a}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="a" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ffd2487510aa438433a2579450ab2b3d557e5edc" style="vertical-align: -0.338ex; width:1.23ex; height:1.676ex;"/>
+       </span>
+       and the flattening
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle f}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              f
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle f}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="f" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/132e57acb643253e7810ee9702d9581f159a1c61" style="vertical-align: -0.671ex; width:1.279ex; height:2.509ex;"/>
+       </span>
+       .
+      </p>
+      <table class="wikitable">
+       <tr>
+        <th>
+         Parameter
+        </th>
+        <th>
+         Symbol
+        </th>
+       </tr>
+       <tr>
+        <td>
+         Semi-major axis
+        </td>
+        <td>
+         <i>
+          a
+         </i>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         Reciprocal of flattening
+        </td>
+        <td>
+         1/
+         <i>
+          f
+         </i>
+        </td>
+       </tr>
+      </table>
+      <p>
+       From
+       <i>
+        a
+       </i>
+       and
+       <i>
+        f
+       </i>
+       it is possible to derive the semi-minor axis
+       <i>
+        b
+       </i>
+       , first eccentricity
+       <i>
+        e
+       </i>
+       and second eccentricity
+       <i>
+        e
+       </i>
+       ′ of the ellipsoid
+      </p>
+      <table class="wikitable">
+       <tr>
+        <th>
+         Parameter
+        </th>
+        <th>
+         Value
+        </th>
+       </tr>
+       <tr>
+        <td>
+         semi-minor axis
+        </td>
+        <td>
+         <i>
+          b
+         </i>
+         =
+         <i>
+          a
+         </i>
+         (1 −
+         <i>
+          f
+         </i>
+         )
+        </td>
+       </tr>
+       <tr>
+        <td>
+         First eccentricity squared
+        </td>
+        <td>
+         <i>
+          e
+         </i>
+         <sup>
+          2
+         </sup>
+         = 1 −
+         <i>
+          b
+         </i>
+         <sup>
+          2
+         </sup>
+         /
+         <i>
+          a
+         </i>
+         <sup>
+          2
+         </sup>
+         = 2
+         <i>
+          f
+         </i>
+         −
+         <i>
+          f
+         </i>
+         <sup>
+          2
+         </sup>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         Second eccentricity squared
+        </td>
+        <td>
+         <i>
+          e
+         </i>
+         ′
+         <sup>
+          2
+         </sup>
+         =
+         <i>
+          a
+         </i>
+         <sup>
+          2
+         </sup>
+         /
+         <i>
+          b
+         </i>
+         <sup>
+          2
+         </sup>
+         − 1 =
+         <i>
+          f
+         </i>
+         (2 −
+         <i>
+          f
+         </i>
+         )/(1 −
+         <i>
+          f
+         </i>
+         )
+         <sup>
+          2
+         </sup>
+        </td>
+       </tr>
+      </table>
+      <h3>
+       <span class="mw-headline" id="Parameters_for_some_geodetic_systems">
+        Parameters for some geodetic systems
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Geodetic_datum&amp;action=edit&amp;section=8" title="Edit section: Parameters for some geodetic systems">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <div class="hatnote navigation-not-searchable" role="note">
+       Main article:
+       <a href="/wiki/Earth_ellipsoid#Historical_Earth_ellipsoids" title="Earth ellipsoid">
+        Earth ellipsoid § Historical Earth ellipsoids
+       </a>
+      </div>
+      <dl>
+       <dt>
+        Australian Geodetic Datum 1966 [AGD66] and Australian Geodetic Datum 1984 (AGD84)
+       </dt>
+      </dl>
+      <p>
+       AGD66 and AGD84 both use the parameters defined by Australian National Spheroid (see below)
+      </p>
+      <dl>
+       <dt>
+        Australian National Spheroid (ANS)
+       </dt>
+      </dl>
+      <table class="wikitable">
+       <caption>
+        ANS Defining Parameters
+       </caption>
+       <tr>
+        <th width="5 cm">
+         Parameter
+        </th>
+        <th width="5 cm">
+         Notation
+        </th>
+        <th width="5 cm">
+         Value
+        </th>
+       </tr>
+       <tr>
+        <td>
+         semi-major axis
+        </td>
+        <td>
+         a
+        </td>
+        <td>
+         6 378 160.000 m
+        </td>
+       </tr>
+       <tr>
+        <td>
+         Reciprocal of Flattening
+        </td>
+        <td>
+         1/
+         <i>
+          f
+         </i>
+        </td>
+        <td>
+         298.25
+        </td>
+       </tr>
+      </table>
+      <dl>
+       <dt>
+        <a href="/wiki/Geocentric_Datum_of_Australia_1994" title="Geocentric Datum of Australia 1994">
+         Geocentric Datum of Australia 1994
+        </a>
+        (GDA94)
+       </dt>
+      </dl>
+      <p>
+       GDA94 uses the parameters defined by GRS80 (see below)
+      </p>
+      <dl>
+       <dt>
+        Geodetic Reference System 1980 (GRS80)
+       </dt>
+      </dl>
+      <table class="wikitable">
+       <caption>
+        GRS80 Parameters
+       </caption>
+       <tr>
+        <th width="5 cm">
+         Parameter
+        </th>
+        <th width="5 cm">
+         Notation
+        </th>
+        <th width="5 cm">
+         Value
+        </th>
+       </tr>
+       <tr>
+        <td>
+         semi-major axis
+        </td>
+        <td>
+         a
+        </td>
+        <td>
+         6 378 137 m
+        </td>
+       </tr>
+       <tr>
+        <td>
+         Reciprocal of flattening
+        </td>
+        <td>
+         1/
+         <i>
+          f
+         </i>
+        </td>
+        <td>
+         298.257 222 101
+        </td>
+       </tr>
+      </table>
+      <p>
+       see
+       <a class="external text" href="http://www.icsm.gov.au/gda/gda-v_2.4.pdf" rel="nofollow">
+        GDA Technical Manual
+       </a>
+       document for more details; the value given above for the flattening is not exact.
+      </p>
+      <dl>
+       <dt>
+        World Geodetic System 1984 (WGS 84)
+       </dt>
+      </dl>
+      <p>
+       The Global Positioning System (GPS) uses the World Geodetic System 1984 (WGS 84) to determine the location of a point near the surface of the Earth.
+      </p>
+      <table class="wikitable">
+       <caption>
+        WGS 84 Defining Parameters
+       </caption>
+       <tr>
+        <th width="5 cm">
+         Parameter
+        </th>
+        <th width="5 cm">
+         Notation
+        </th>
+        <th width="5 cm">
+         Value
+        </th>
+       </tr>
+       <tr>
+        <td>
+         semi-major axis
+        </td>
+        <td>
+         a
+        </td>
+        <td>
+         6 378 137.0 m
+        </td>
+       </tr>
+       <tr>
+        <td>
+         Reciprocal of flattening
+        </td>
+        <td>
+         1/
+         <i>
+          f
+         </i>
+        </td>
+        <td>
+         298.257 223 563
+        </td>
+       </tr>
+      </table>
+      <table>
+       <tr>
+        <th width="5 cm">
+        </th>
+        <th width="5 cm">
+        </th>
+        <th width="5 cm">
+        </th>
+       </tr>
+       <tr>
+        <td>
+        </td>
+        <td>
+        </td>
+        <td>
+        </td>
+       </tr>
+      </table>
+      <table class="wikitable">
+       <caption>
+        WGS 84 derived geometric constants
+       </caption>
+       <tr>
+        <th width="5 cm">
+         Constant
+        </th>
+        <th width="5 cm">
+         Notation
+        </th>
+        <th width="20 cm">
+         Value
+        </th>
+       </tr>
+       <tr>
+        <td>
+         Semi-minor axis
+        </td>
+        <td>
+         <i>
+          b
+         </i>
+        </td>
+        <td>
+         6 356 752.3142 m
+        </td>
+       </tr>
+       <tr>
+        <td>
+         First eccentricity squared
+        </td>
+        <td>
+         <i>
+          e
+         </i>
+         <sup>
+          2
+         </sup>
+        </td>
+        <td>
+         6.694 379 990 14x10
+         <sup>
+          −3
+         </sup>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         Second eccentricity squared
+        </td>
+        <td>
+         <i>
+          e
+         </i>
+         ′
+         <sup>
+          2
+         </sup>
+        </td>
+        <td>
+         6.739 496 742 28x10
+         <sup>
+          −3
+         </sup>
+        </td>
+       </tr>
+      </table>
+      <p>
+       see
+       <a class="external text" href="http://earth-info.nga.mil/GandG/publications/tr8350.2/tr8350_2.html" rel="nofollow">
+        The official World Geodetic System 1984
+       </a>
+       document for more details.
+      </p>
+      <p>
+       A more comprehensive list of geodetic systems can be found
+       <a class="external text" href="http://www.colorado.edu/geography/gcraft/notes/datum/elist.html" rel="nofollow">
+        here
+       </a>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Conversion_calculations">
+        Conversion calculations
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Geodetic_datum&amp;action=edit&amp;section=9" title="Edit section: Conversion calculations">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="hatnote navigation-not-searchable" role="note">
+       Further information:
+       <a href="/wiki/Geographic_coordinate_conversion" title="Geographic coordinate conversion">
+        Geographic coordinate conversion
+       </a>
+      </div>
+      <p>
+       Datum conversion is the process of converting the coordinates of a point from one datum system to another. Datum conversion may frequently be accompanied by a change of
+       <a href="/wiki/Map_projection" title="Map projection">
+        grid projection
+       </a>
+       .
+      </p>
+      <h2>
+       <span class="mw-headline" id="Reference_datums">
+        Reference datums
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Geodetic_datum&amp;action=edit&amp;section=10" title="Edit section: Reference datums">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="hatnote navigation-not-searchable" role="note">
+       See also:
+       <a href="/wiki/Reference_ellipsoid" title="Reference ellipsoid">
+        Reference ellipsoid
+       </a>
+      </div>
+      <p>
+       A reference datum is a known and constant surface which is used to describe the location of unknown points on the Earth. Since reference datums can have different radii and different center points, a specific point on the Earth can have substantially different coordinates depending on the datum used to make the measurement. There are hundreds of locally developed reference datums around the world, usually referenced to some convenient local reference point. Contemporary datums, based on increasingly accurate measurements of the shape of the Earth, are intended to cover larger areas. The most common reference Datums in use in
+       <a href="/wiki/North_America" title="North America">
+        North America
+       </a>
+       are NAD27, NAD83, and
+       <a class="mw-redirect" href="/wiki/WGS_84" title="WGS 84">
+        WGS 84
+       </a>
+       .
+      </p>
+      <p>
+       The
+       <a href="/wiki/North_American_Datum" title="North American Datum">
+        North American Datum
+       </a>
+       of 1927 (NAD 27) is "the horizontal control datum for the United States that was defined by a location and azimuth on the Clarke spheroid of 1866, with origin at (the survey station)
+       <a href="/wiki/Meades_Ranch_Triangulation_Station" title="Meades Ranch Triangulation Station">
+        Meades Ranch (Kansas)
+       </a>
+       ." ... The geoidal height at Meades Ranch was assumed to be zero, as sufficient gravity data was not available, and this was needed to relate surface measurements to the datum. "Geodetic positions on the North American Datum of 1927 were derived from the (coordinates of and an azimuth at Meades Ranch) through a readjustment of the triangulation of the entire network in which Laplace azimuths were introduced, and the Bowie method was used." (
+       <a class="external free" href="http://www.ngs.noaa.gov/faq.shtml#WhatDatum" rel="nofollow">
+        http://www.ngs.noaa.gov/faq.shtml#WhatDatum
+       </a>
+       ) NAD27 is a local referencing system covering North America.
+      </p>
+      <p>
+       The North American Datum of 1983 (NAD 83) is "The horizontal control datum for the United States, Canada, Mexico, and Central America, based on a geocentric origin and the Geodetic Reference System 1980 (
+       <a class="mw-redirect" href="/wiki/GRS80" title="GRS80">
+        GRS80
+       </a>
+       ). "This datum, designated as NAD 83 ...is based on the adjustment of 250,000 points including 600 satellite Doppler stations which constrain the system to a geocentric origin." NAD83 may be considered a local referencing system.
+      </p>
+      <p>
+       WGS 84 is the
+       <a href="/wiki/World_Geodetic_System" title="World Geodetic System">
+        World Geodetic System
+       </a>
+       of 1984. It is the reference frame used by the
+       <a href="/wiki/United_States_Department_of_Defense" title="United States Department of Defense">
+        U.S. Department of Defense
+       </a>
+       (DoD) and is defined by the
+       <a href="/wiki/National_Geospatial-Intelligence_Agency" title="National Geospatial-Intelligence Agency">
+        National Geospatial-Intelligence Agency
+       </a>
+       (NGA) (formerly the Defense Mapping Agency, then the National Imagery and Mapping Agency). WGS 84 is used by DoD for all its mapping, charting, surveying, and navigation needs, including its
+       <a class="mw-redirect" href="/wiki/GPS" title="GPS">
+        GPS
+       </a>
+       "broadcast" and "precise" orbits. WGS 84 was defined in January 1987 using Doppler satellite surveying techniques. It was used as the reference frame for broadcast GPS Ephemerides (orbits) beginning January 23, 1987. At 0000 GMT January 2, 1994, WGS 84 was upgraded in accuracy using GPS measurements. The formal name then became WGS 84 (G730), since the upgrade date coincided with the start of GPS Week 730. It became the reference frame for broadcast orbits on June 28, 1994. At 0000 GMT September 30, 1996 (the start of GPS Week 873), WGS 84 was redefined again and was more closely aligned with
+       <a class="mw-redirect" href="/wiki/International_Earth_Rotation_Service" title="International Earth Rotation Service">
+        International Earth Rotation Service
+       </a>
+       (IERS) frame
+       <a href="/wiki/International_Terrestrial_Reference_System" title="International Terrestrial Reference System">
+        ITRF
+       </a>
+       94. It was then formally called WGS 84 (G873). WGS 84 (G873) was adopted as the reference frame for broadcast orbits on January 29, 1997.
+       <sup class="reference" id="cite_ref-5">
+        <a href="#cite_note-5">
+         [4]
+        </a>
+       </sup>
+       Another update brought it to WGS84(G1674).
+      </p>
+      <p>
+       The WGS 84 datum, within two meters of the NAD83 datum used in North America, is the only world referencing system in place today. WGS 84 is the default standard datum for coordinates stored in recreational and commercial GPS units.
+      </p>
+      <p>
+       Users of GPS are cautioned that they must always check the datum of the maps they are using. To correctly enter, display, and to store map related map coordinates, the datum of the map must be entered into the GPS map datum field.
+      </p>
+      <h2>
+       <span class="mw-headline" id="Examples">
+        Examples
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Geodetic_datum&amp;action=edit&amp;section=11" title="Edit section: Examples">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       Examples of map datums are:
+      </p>
+      <ul>
+       <li>
+        <a class="mw-redirect" href="/wiki/WGS_84" title="WGS 84">
+         WGS 84
+        </a>
+        , 72, 64 and 60 of the
+        <a href="/wiki/World_Geodetic_System" title="World Geodetic System">
+         World Geodetic System
+        </a>
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/NAD83" title="NAD83">
+         NAD83
+        </a>
+        , the
+        <a href="/wiki/North_American_Datum" title="North American Datum">
+         North American Datum
+        </a>
+        which is very similar to WGS 84
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/NAD27" title="NAD27">
+         NAD27
+        </a>
+        , the older
+        <a href="/wiki/North_American_Datum" title="North American Datum">
+         North American Datum
+        </a>
+        , of which NAD83 was basically a readjustment
+        <a class="external autonumber" href="http://www.ngs.noaa.gov/TOOLS/Nadcon/Nadcon.html" rel="nofollow">
+         [1]
+        </a>
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/OSGB36" title="OSGB36">
+         OSGB36
+        </a>
+        of the
+        <a href="/wiki/Ordnance_Survey" title="Ordnance Survey">
+         Ordnance Survey
+        </a>
+        of
+        <a href="/wiki/Great_Britain" title="Great Britain">
+         Great Britain
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/ED50" title="ED50">
+         ED50
+        </a>
+        , the European Datum
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/GDA94" title="GDA94">
+         GDA94
+        </a>
+        , the Australian Datum
+        <sup class="reference" id="cite_ref-6">
+         <a href="#cite_note-6">
+          [5]
+         </a>
+        </sup>
+       </li>
+       <li>
+        <a class="new" href="/w/index.php?title=JGD2011&amp;action=edit&amp;redlink=1" title="JGD2011 (page does not exist)">
+         JGD2011
+        </a>
+        , the Japanese Datum, adjusted for changes caused by
+        <a href="/wiki/2011_T%C5%8Dhoku_earthquake_and_tsunami" title="2011 Tōhoku earthquake and tsunami">
+         2011 Tōhoku earthquake and tsunami
+        </a>
+        <sup class="reference" id="cite_ref-7">
+         <a href="#cite_note-7">
+          [6]
+         </a>
+        </sup>
+       </li>
+       <li>
+        <a class="new" href="/w/index.php?title=Tokyo97&amp;action=edit&amp;redlink=1" title="Tokyo97 (page does not exist)">
+         Tokyo97
+        </a>
+        , the older Japanese Datum
+        <sup class="reference" id="cite_ref-8">
+         <a href="#cite_note-8">
+          [7]
+         </a>
+        </sup>
+       </li>
+       <li>
+        <a class="new" href="/w/index.php?title=KGD2002&amp;action=edit&amp;redlink=1" title="KGD2002 (page does not exist)">
+         KGD2002
+        </a>
+        , the Korean Datum
+        <sup class="reference" id="cite_ref-9">
+         <a href="#cite_note-9">
+          [8]
+         </a>
+        </sup>
+       </li>
+       <li>
+        <a class="new" href="/w/index.php?title=TWD67&amp;action=edit&amp;redlink=1" title="TWD67 (page does not exist)">
+         TWD67
+        </a>
+        and
+        <a class="new" href="/w/index.php?title=TWD97&amp;action=edit&amp;redlink=1" title="TWD97 (page does not exist)">
+         TWD97
+        </a>
+        , different datum currently used in Taiwan.
+        <sup class="reference" id="cite_ref-10">
+         <a href="#cite_note-10">
+          [9]
+         </a>
+        </sup>
+       </li>
+       <li>
+        <a class="new" href="/w/index.php?title=BJS54&amp;action=edit&amp;redlink=1" title="BJS54 (page does not exist)">
+         BJS54
+        </a>
+        and
+        <a class="new" href="/w/index.php?title=XAS80&amp;action=edit&amp;redlink=1" title="XAS80 (page does not exist)">
+         XAS80
+        </a>
+        , old geodetic datum used in China
+        <sup class="reference" id="cite_ref-11">
+         <a href="#cite_note-11">
+          [10]
+         </a>
+        </sup>
+       </li>
+       <li>
+        <a href="/wiki/Restrictions_on_geographic_data_in_China#GCJ-02" title="Restrictions on geographic data in China">
+         GCJ-02
+        </a>
+        and
+        <a href="/wiki/Baidu_Maps#Coordinate_system" title="Baidu Maps">
+         BD-09
+        </a>
+        , Chinese encrypted geodetic datum.
+       </li>
+       <li>
+        <a href="/wiki/PZ-90" title="PZ-90">
+         PZ-90.11
+        </a>
+        , the current geodetic reference used by
+        <a href="/wiki/GLONASS" title="GLONASS">
+         GLONASS
+        </a>
+        <sup class="reference" id="cite_ref-12">
+         <a href="#cite_note-12">
+          [11]
+         </a>
+        </sup>
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/GTRF" title="GTRF">
+         GTRF
+        </a>
+        , the geodetic reference used by
+        <a href="/wiki/Galileo_(satellite_navigation)" title="Galileo (satellite navigation)">
+         Galileo
+        </a>
+        <sup class="reference" id="cite_ref-GNSS_13-0">
+         <a href="#cite_note-GNSS-13">
+          [12]
+         </a>
+        </sup>
+       </li>
+       <li>
+        <a class="new" href="/w/index.php?title=CGCS2000&amp;action=edit&amp;redlink=1" title="CGCS2000 (page does not exist)">
+         CGCS2000
+        </a>
+        , or
+        <a class="new" href="/w/index.php?title=CGS-2000&amp;action=edit&amp;redlink=1" title="CGS-2000 (page does not exist)">
+         CGS-2000
+        </a>
+        , the geodetic reference used by
+        <a href="/wiki/BeiDou_Navigation_Satellite_System" title="BeiDou Navigation Satellite System">
+         BeiDou Navigation Satellite System
+        </a>
+        <sup class="reference" id="cite_ref-GNSS_13-1">
+         <a href="#cite_note-GNSS-13">
+          [12]
+         </a>
+        </sup>
+        <sup class="reference" id="cite_ref-14">
+         <a href="#cite_note-14">
+          [13]
+         </a>
+        </sup>
+        <sup class="reference" id="cite_ref-15">
+         <a href="#cite_note-15">
+          [14]
+         </a>
+        </sup>
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/International_Terrestrial_Reference_Frame" title="International Terrestrial Reference Frame">
+         International Terrestrial Reference Frames
+        </a>
+        (ITRF88, 89, 90, 91, 92, 93, 94, 96, 97, 2000, 2005, 2008, 2014), different realizations of the
+        <a href="/wiki/International_Terrestrial_Reference_System" title="International Terrestrial Reference System">
+         ITRS
+        </a>
+        .
+        <sup class="reference" id="cite_ref-16">
+         <a href="#cite_note-16">
+          [15]
+         </a>
+        </sup>
+        <sup class="reference" id="cite_ref-17">
+         <a href="#cite_note-17">
+          [16]
+         </a>
+        </sup>
+       </li>
+       <li>
+        <a class="new" href="/w/index.php?title=Hong_Kong_Principal_Datum&amp;action=edit&amp;redlink=1" title="Hong Kong Principal Datum (page does not exist)">
+         Hong Kong Principal Datum
+        </a>
+        , a vertical datum used in Hong Kong.
+        <sup class="reference" id="cite_ref-18">
+         <a href="#cite_note-18">
+          [17]
+         </a>
+        </sup>
+        <sup class="reference" id="cite_ref-19">
+         <a href="#cite_note-19">
+          [18]
+         </a>
+        </sup>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="See_also">
+        See also
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Geodetic_datum&amp;action=edit&amp;section=12" title="Edit section: See also">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a href="/wiki/Axes_conventions" title="Axes conventions">
+         Axes conventions
+        </a>
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/Engineering_datum" title="Engineering datum">
+         Engineering datum
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Geographic_coordinate_conversion" title="Geographic coordinate conversion">
+         Geographic coordinate conversion
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Figure_of_the_Earth" title="Figure of the Earth">
+         Figure of the Earth
+        </a>
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/Ordnance_Datum" title="Ordnance Datum">
+         Ordnance Datum
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/World_Geodetic_System" title="World Geodetic System">
+         World Geodetic System
+        </a>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="Footnotes">
+        Footnotes
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Geodetic_datum&amp;action=edit&amp;section=13" title="Edit section: Footnotes">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="reflist" style="list-style-type: decimal;">
+       <div class="mw-references-wrap">
+        <ol class="references">
+         <li id="cite_note-4">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-4">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           About the right/left-handed order of the coordinates, i.e.,
+           <span class="mwe-math-element">
+            <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+             <math alttext="{\displaystyle \ (\lambda ,\phi )}" xmlns="http://www.w3.org/1998/Math/MathML">
+              <semantics>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mstyle displaystyle="true" scriptlevel="0">
+                 <mtext>
+                 </mtext>
+                 <mo stretchy="false">
+                  (
+                 </mo>
+                 <mi>
+                  λ
+                  <!-- λ -->
+                 </mi>
+                 <mo>
+                  ,
+                 </mo>
+                 <mi>
+                  ϕ
+                  <!-- ϕ -->
+                 </mi>
+                 <mo stretchy="false">
+                  )
+                 </mo>
+                </mstyle>
+               </mrow>
+               <annotation encoding="application/x-tex">
+                {\displaystyle \ (\lambda ,\phi )}
+               </annotation>
+              </semantics>
+             </math>
+            </span>
+            <img alt="\ (\lambda, \phi)" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2574aa199b92a0e65cf616018bcda59225cb3ef8" style="vertical-align: -0.838ex; width:6.165ex; height:2.843ex;"/>
+           </span>
+           or
+           <span class="mwe-math-element">
+            <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+             <math alttext="{\displaystyle \ (\phi ,\lambda )}" xmlns="http://www.w3.org/1998/Math/MathML">
+              <semantics>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mstyle displaystyle="true" scriptlevel="0">
+                 <mtext>
+                 </mtext>
+                 <mo stretchy="false">
+                  (
+                 </mo>
+                 <mi>
+                  ϕ
+                  <!-- ϕ -->
+                 </mi>
+                 <mo>
+                  ,
+                 </mo>
+                 <mi>
+                  λ
+                  <!-- λ -->
+                 </mi>
+                 <mo stretchy="false">
+                  )
+                 </mo>
+                </mstyle>
+               </mrow>
+               <annotation encoding="application/x-tex">
+                {\displaystyle \ (\phi ,\lambda )}
+               </annotation>
+              </semantics>
+             </math>
+            </span>
+            <img alt="\ (\phi, \lambda)" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c8128d7c066fa1fadc5c2aa3ea8a32175e35708b" style="vertical-align: -0.838ex; width:6.165ex; height:2.843ex;"/>
+           </span>
+           , see
+           <a href="/wiki/Spherical_coordinate_system#Conventions" title="Spherical coordinate system">
+            Spherical coordinate system#Conventions
+           </a>
+           .
+          </span>
+         </li>
+        </ol>
+       </div>
+      </div>
+      <h2>
+       <span class="mw-headline" id="References">
+        References
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Geodetic_datum&amp;action=edit&amp;section=14" title="Edit section: References">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+       <ol class="references">
+        <li id="cite_note-1">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-1">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation web">
+           <a class="external text" href="http://desktop.arcgis.com/en/arcmap/10.3/guide-books/map-projections/geoid.htm" rel="nofollow">
+            "Geoid—Help | ArcGIS for Desktop"
+           </a>
+           .
+           <i>
+            desktop.arcgis.com
+           </i>
+           <span class="reference-accessdate">
+            . Retrieved
+            <span class="nowrap">
+             2017-01-23
+            </span>
+           </span>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=desktop.arcgis.com&amp;rft.atitle=Geoid%E2%80%94Help+%7C+ArcGIS+for+Desktop&amp;rft_id=http%3A%2F%2Fdesktop.arcgis.com%2Fen%2Farcmap%2F10.3%2Fguide-books%2Fmap-projections%2Fgeoid.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGeodetic+datum">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-2">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-2">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation web">
+           <a class="external text" href="http://desktop.arcgis.com/en/arcmap/10.3/guide-books/map-projections/datums.htm" rel="nofollow">
+            "Datums—Help | ArcGIS for Desktop"
+           </a>
+           .
+           <i>
+            desktop.arcgis.com
+           </i>
+           <span class="reference-accessdate">
+            . Retrieved
+            <span class="nowrap">
+             2017-01-23
+            </span>
+           </span>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=desktop.arcgis.com&amp;rft.atitle=Datums%E2%80%94Help+%7C+ArcGIS+for+Desktop&amp;rft_id=http%3A%2F%2Fdesktop.arcgis.com%2Fen%2Farcmap%2F10.3%2Fguide-books%2Fmap-projections%2Fdatums.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGeodetic+datum">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-3">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-3">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          McFadyen,
+          <a class="external text" href="http://www.michaelmcfadyenscuba.info/viewpage.php?page_id=80" rel="nofollow">
+           GPS and Diving
+          </a>
+         </span>
+        </li>
+        <li id="cite_note-5">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-5">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <a class="external text" href="http://www.ngs.noaa.gov/faq.shtml#WGS84" rel="nofollow">
+           WGS 84 on the site of National Geodetic Survey
+          </a>
+         </span>
+        </li>
+        <li id="cite_note-6">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-6">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <a class="external free" href="http://www.geoproject.com.au/gda.faq.html" rel="nofollow">
+           http://www.geoproject.com.au/gda.faq.html
+          </a>
+         </span>
+        </li>
+        <li id="cite_note-7">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-7">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <a class="external free" href="http://club.informatix.co.jp/?p=998" rel="nofollow">
+           http://club.informatix.co.jp/?p=998
+          </a>
+         </span>
+        </li>
+        <li id="cite_note-8">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-8">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation web">
+           <a class="external free" href="http://www.gsi.go.jp/sokuchikijun/tky2jgd.html" rel="nofollow">
+            http://www.gsi.go.jp/sokuchikijun/tky2jgd.html
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.gsi.go.jp%2Fsokuchikijun%2Ftky2jgd.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGeodetic+datum">
+           <span style="display:none;">
+           </span>
+          </span>
+          <span class="error citation-comment" style="font-size:100%">
+           Missing or empty
+           <code style="color:inherit; border:inherit; padding:inherit;">
+            |title=
+           </code>
+           (
+           <a href="/wiki/Help:CS1_errors#citation_missing_title" title="Help:CS1 errors">
+            help
+           </a>
+           )
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-9">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-9">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation journal">
+           Yang, H.; Lee, Y.; Choi, Y.; Kwon, J.; Lee, H.; Jeong, K. (2007). "The Korean Datum Change to a World Geodetic System".
+           <i>
+            AGU Spring Meeting Abstracts
+           </i>
+           .
+           <a href="/wiki/Bibcode" title="Bibcode">
+            Bibcode
+           </a>
+           :
+           <a class="external text" href="http://adsabs.harvard.edu/abs/2007AGUSM.G33B..03Y" rel="nofollow">
+            2007AGUSM.G33B..03Y
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=AGU+Spring+Meeting+Abstracts&amp;rft.atitle=The+Korean+Datum+Change+to+a+World+Geodetic+System&amp;rft.date=2007&amp;rft_id=info%3Abibcode%2F2007AGUSM.G33B..03Y&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGeodetic+datum">
+           <span style="display:none;">
+           </span>
+          </span>
+          <span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">
+           CS1 maint: Uses authors parameter (
+           <a href="/wiki/Category:CS1_maint:_Uses_authors_parameter" title="Category:CS1 maint: Uses authors parameter">
+            link
+           </a>
+           )
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-10">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-10">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <a class="external free" href="http://www.sunriver.com.tw/grid_tm2.htm" rel="nofollow">
+           http://www.sunriver.com.tw/grid_tm2.htm
+          </a>
+         </span>
+        </li>
+        <li id="cite_note-11">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-11">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <a class="external text" href="http://www.chinaminingmagazine.com/ch/reader/view_abstract.aspx?file_no=20141431&amp;flag=1" rel="nofollow">
+           Analysis of Conversion Method and Map Merging from BJS54 XA80 Surveying and Mapping Results to CGCS2000
+          </a>
+         </span>
+        </li>
+        <li id="cite_note-12">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-12">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <a class="external text" href="http://www.glonass-iac.ru/en/content/news/?ELEMENT_ID=721" rel="nofollow">
+           THE TRANSITION TO USING THE TERRESTRIAL GEOCENTRIC COORDINATE SYSTEM “PARAMETRY ZEMLI 1990” (PZ-90.11) IN OPERATING THE GLOBAL NAVIGATION SATELLITE SYSTEM (GLONASS) HAS BEEN IMPLEMENTED
+          </a>
+         </span>
+        </li>
+        <li id="cite_note-GNSS-13">
+         <span class="mw-cite-backlink">
+          ^
+          <a href="#cite_ref-GNSS_13-0">
+           <sup>
+            <i>
+             <b>
+              a
+             </b>
+            </i>
+           </sup>
+          </a>
+          <a href="#cite_ref-GNSS_13-1">
+           <sup>
+            <i>
+             <b>
+              b
+             </b>
+            </i>
+           </sup>
+          </a>
+         </span>
+         <span class="reference-text">
+          <a class="external text" href="http://www.unoosa.org/documents/pdf/icg/activities/2008/icg3/45.pdf" rel="nofollow">
+           Use of international references for GNSS operations and applications
+          </a>
+         </span>
+        </li>
+        <li id="cite_note-14">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-14">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          Handbook of Satellite Orbits: From Kepler to GPS, Table 14.2
+         </span>
+        </li>
+        <li id="cite_note-15">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-15">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <a class="external text" href="http://www.beidou.gov.cn/attach/2013/12/26/20131226b8a6182fa73a4ab3a5f107f762283712.pdf" rel="nofollow">
+           BeiDou Navigation Satellite System Signal In Space Interface Control Document, Open Service Signal (Version 2.0)
+          </a>
+          section 3.2
+         </span>
+        </li>
+        <li id="cite_note-16">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-16">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <a class="external free" href="http://www.quickclose.com.au/stanaway07pres.pdf" rel="nofollow">
+           http://www.quickclose.com.au/stanaway07pres.pdf
+          </a>
+         </span>
+        </li>
+        <li id="cite_note-17">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-17">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <a class="external free" href="http://itrf.ensg.ign.fr/general.php" rel="nofollow">
+           http://itrf.ensg.ign.fr/general.php
+          </a>
+         </span>
+        </li>
+        <li id="cite_note-18">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-18">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation web">
+           <a class="external text" href="http://georepository.com/datum_5135/Hong-Kong-Principal-Datum.html" rel="nofollow">
+            "Vertical Datum used in China – Hong Kong – onshore"
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Vertical+Datum+used+in+China+%E2%80%93+Hong+Kong+%E2%80%93+onshore&amp;rft_id=http%3A%2F%2Fgeorepository.com%2Fdatum_5135%2FHong-Kong-Principal-Datum.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGeodetic+datum">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-19">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-19">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <a class="external text" href="http://www.geodetic.gov.hk/data/pdf/explanatorynotes.pdf" rel="nofollow">
+           Explanatory Notes on Geodetic Datums in Hong Kong
+          </a>
+         </span>
+        </li>
+       </ol>
+      </div>
+      <h2>
+       <span class="mw-headline" id="Further_reading">
+        Further reading
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Geodetic_datum&amp;action=edit&amp;section=15" title="Edit section: Further reading">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ol>
+       <li>
+        <a class="external text" href="http://www.colorado.edu/geography/gcraft/notes/datum/elist.html" rel="nofollow">
+         List of geodetic parameters for many systems
+        </a>
+        from University of Colorado
+       </li>
+       <li>
+        Gaposchkin, E. M. and Kołaczek, Barbara (1981)
+        <i>
+         Reference Coordinate Systems for Earth Dynamics
+        </i>
+        Taylor &amp; Francis
+        <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+         ISBN
+        </a>
+        <a href="/wiki/Special:BookSources/9789027712608" title="Special:BookSources/9789027712608">
+         9789027712608
+        </a>
+       </li>
+       <li>
+        Kaplan,
+        <i>
+         Understanding GPS: principles and applications
+        </i>
+        , 1 ed. Norwood, MA 02062, USA: Artech House, Inc, 1996.
+       </li>
+       <li>
+        <a class="external text" href="http://www.colorado.edu/geography/gcraft/notes/gps/gps_f.html" rel="nofollow">
+         GPS Notes
+        </a>
+       </li>
+       <li>
+        P. Misra and P. Enge,
+        <i>
+         Global Positioning System Signals, Measurements, and Performance
+        </i>
+        . Lincoln, Massachusetts: Ganga-Jamuna Press, 2001.
+       </li>
+       <li>
+        <a class="external text" href="http://www.colorado.edu/geography/gcraft/notes/datum/datum.html" rel="nofollow">
+         Peter H. Dana: Geodetic Datum Overview
+        </a>
+        – Large amount of technical information and discussion.
+       </li>
+       <li>
+        <a class="external text" href="http://www.ngs.noaa.gov/" rel="nofollow">
+         US National Geodetic Survey
+        </a>
+       </li>
+      </ol>
+      <h2>
+       <span class="mw-headline" id="External_links">
+        External links
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Geodetic_datum&amp;action=edit&amp;section=16" title="Edit section: External links">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+       <tr>
+        <td class="mbox-image">
+         <img alt="" class="noviewer" data-file-height="391" data-file-width="391" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/40px-Wiktionary-logo-en-v2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/60px-Wiktionary-logo-en-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/80px-Wiktionary-logo-en-v2.svg.png 2x" width="40"/>
+        </td>
+        <td class="mbox-text plainlist">
+         Look up
+         <i>
+          <b>
+           <a class="extiw" href="https://en.wiktionary.org/wiki/datum" title="wiktionary:datum">
+            datum
+           </a>
+          </b>
+         </i>
+         in Wiktionary, the free dictionary.
+        </td>
+       </tr>
+      </table>
+      <ul>
+       <li>
+        <a class="external text" href="http://geographiclib.sourceforge.net" rel="nofollow">
+         GeographicLib
+        </a>
+        includes a utility CartConvert which converts between geodetic and geocentric (
+        <a href="/wiki/ECEF" title="ECEF">
+         ECEF
+        </a>
+        ) or local Cartesian (ENU) coordinates. This provides accurate results for all inputs including points close to the center of the Earth.
+       </li>
+       <li>
+        <a class="external text" href="http://www.mathworks.com/matlabcentral/fileexchange/15285-geodetic-toolbox" rel="nofollow">
+         A collection of geodetic functions that solve a variety of problems in geodesy in Matlab
+        </a>
+        .
+       </li>
+       <li>
+        <a class="external text" href="http://www.ngs.noaa.gov/faq.shtml#WhatDatum" rel="nofollow">
+         NGS FAQ – What is a geodetic datum?
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://awsm-tools.com/geo/convert-datum" rel="nofollow">
+         Convert coordinates between different datums
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://kartoweb.itc.nl/geometrics/Reference%20surfaces/body.htm" rel="nofollow">
+         About the surface of the Earth
+        </a>
+        on
+        <a class="external text" href="http://kartoweb.itc.nl" rel="nofollow">
+         kartoweb.itc.nl
+        </a>
+       </li>
+      </ul>
+      <!-- 
+NewPP limit report
+Parsed by mw1317
+Cached time: 20180129112528
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.248 seconds
+Real time usage: 0.351 seconds
+Preprocessor visited node count: 1491/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 40232/2097152 bytes
+Template argument size: 2905/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 1/500
+Lua time usage: 0.084/10.000 seconds
+Lua memory usage: 3.28 MB/50 MB
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  251.682      1 -total
+ 30.29%   76.223      2 Template:Reflist
+ 21.11%   53.132      1 Template:Geodesy
+ 20.22%   50.895      2 Template:Citation_needed
+ 19.89%   50.068      1 Template:Sidebar
+ 19.01%   47.844      4 Template:Cite_web
+ 17.94%   45.151      2 Template:Fix
+ 11.25%   28.316      4 Template:Category_handler
+ 10.95%   27.559      1 Template:ISBN
+  5.40%   13.592      1 Template:Catalog_lookup_link
+-->
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:995417-0!canonical!math=5 and timestamp 20180129112528 and revision id 822682821
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Geodetic_datum&amp;oldid=822682821">
+      https://en.wikipedia.org/w/index.php?title=Geodetic_datum&amp;oldid=822682821
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Coordinate_systems" title="Category:Coordinate systems">
+         Coordinate systems
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Cartography" title="Category:Cartography">
+         Cartography
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Navigation" title="Category:Navigation">
+         Navigation
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Geodesy" title="Category:Geodesy">
+         Geodesy
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Surveying" title="Category:Surveying">
+         Surveying
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Global_Positioning_System" title="Category:Global Positioning System">
+         Global Positioning System
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Geodetic_datums" title="Category:Geodetic datums">
+         Geodetic datums
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:Pages_with_citations_lacking_titles" title="Category:Pages with citations lacking titles">
+         Pages with citations lacking titles
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Pages_with_citations_having_bare_URLs" title="Category:Pages with citations having bare URLs">
+         Pages with citations having bare URLs
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:CS1_maint:_Uses_authors_parameter" title="Category:CS1 maint: Uses authors parameter">
+         CS1 maint: Uses authors parameter
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">
+         All articles with unsourced statements
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_with_unsourced_statements_from_November_2016" title="Category:Articles with unsourced statements from November 2016">
+         Articles with unsourced statements from November 2016
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Geodetic+datum" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Geodetic+datum" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Geodetic_datum" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Geodetic_datum" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="collapsible selected" id="ca-view">
+        <span>
+         <a href="/wiki/Geodetic_datum">
+          Read
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Geodetic_datum&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Geodetic_datum&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Geodetic_datum" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Geodetic_datum" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Geodetic_datum&amp;oldid=822682821" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Geodetic_datum&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1502887" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Geodetic_datum&amp;id=822682821" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Geodetic+datum">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Geodetic+datum&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Geodetic_datum&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+     <h3 id="p-wikibase-otherprojects-label">
+      In other projects
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="wb-otherproject-link wb-otherproject-commons">
+        <a href="https://commons.wikimedia.org/wiki/Category:Datum" hreflang="en">
+         Wikimedia Commons
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-ar">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%85%D8%B3%D9%86%D8%AF_%D8%AC%D9%8A%D9%88%D8%AF%D9%8A%D8%B3%D9%8A" hreflang="ar" lang="ar" title="مسند جيوديسي – Arabic">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ast">
+        <a class="interlanguage-link-target" href="https://ast.wikipedia.org/wiki/Datum" hreflang="ast" lang="ast" title="Datum – Asturian">
+         Asturianu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Datum" hreflang="ca" lang="ca" title="Datum – Catalan">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-da">
+        <a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Datum_(geod%C3%A6si)" hreflang="da" lang="da" title="Datum (geodæsi) – Danish">
+         Dansk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Geod%C3%A4tisches_Datum" hreflang="de" lang="de" title="Geodätisches Datum – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Sistema_de_referencia_geod%C3%A9sico" hreflang="es" lang="es" title="Sistema de referencia geodésico – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fa">
+        <a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D9%86%D9%82%D8%B7%D9%87_%DA%98%D8%A6%D9%88%D8%AF%D8%B2%DB%8C" hreflang="fa" lang="fa" title="نقطه ژئودزی – Persian">
+         فارسی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Syst%C3%A8me_g%C3%A9od%C3%A9sique" hreflang="fr" lang="fr" title="Système géodésique – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-id">
+        <a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Datum_geodetik" hreflang="id" lang="id" title="Datum geodetik – Indonesian">
+         Bahasa Indonesia
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Datum_geodetico" hreflang="it" lang="it" title="Datum geodetico – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-he">
+        <a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%93%D7%90%D7%98%D7%95%D7%9D_(%D7%92%D7%90%D7%95%D7%93%D7%96%D7%99%D7%94)" hreflang="he" lang="he" title="דאטום (גאודזיה) – Hebrew">
+         עברית
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ml">
+        <a class="interlanguage-link-target" href="https://ml.wikipedia.org/wiki/%E0%B4%9C%E0%B4%BF%E0%B4%AF%E0%B5%8B%E0%B4%A1%E0%B5%86%E0%B4%B1%E0%B5%8D%E0%B4%B1%E0%B4%BF%E0%B4%95%E0%B5%8D_%E0%B4%A1%E0%B4%BE%E0%B4%B1%E0%B5%8D%E0%B4%B1%E0%B4%82" hreflang="ml" lang="ml" title="ജിയോഡെറ്റിക് ഡാറ്റം – Malayalam">
+         മലയാളം
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nl">
+        <a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Geodetisch_datum" hreflang="nl" lang="nl" title="Geodetisch datum – Dutch">
+         Nederlands
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E6%B8%AC%E5%9C%B0%E7%B3%BB" hreflang="ja" lang="ja" title="測地系 – Japanese">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-no">
+        <a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Geodetisk_datum" hreflang="no" lang="no" title="Geodetisk datum – Norwegian">
+         Norsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nn">
+        <a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Geodetiske_koordinatar" hreflang="nn" lang="nn" title="Geodetiske koordinatar – Norwegian Nynorsk">
+         Norsk nynorsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Datum" hreflang="pt" lang="pt" title="Datum – Portuguese">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%94%D0%B0%D1%82%D1%83%D0%BC" hreflang="ru" lang="ru" title="Датум – Russian">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-simple">
+        <a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Geodetic_datum" hreflang="simple" lang="simple" title="Geodetic datum – Simple English">
+         Simple English
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fi">
+        <a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Datumi" hreflang="fi" lang="fi" title="Datumi – Finnish">
+         Suomi
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sv">
+        <a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Geodetiskt_referenssystem" hreflang="sv" lang="sv" title="Geodetiskt referenssystem – Swedish">
+         Svenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uk">
+        <a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%93%D0%B5%D0%BE%D0%B4%D0%B5%D0%B7%D0%B8%D1%87%D0%BD%D0%B0_%D1%80%D0%B5%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D0%BD%D0%B0_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0" hreflang="uk" lang="uk" title="Геодезична референцна система – Ukrainian">
+         Українська
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh-yue">
+        <a class="interlanguage-link-target" href="https://zh-yue.wikipedia.org/wiki/%E6%B8%AC%E9%87%8F%E5%9F%BA%E6%BA%96" hreflang="zh-yue" lang="zh-yue" title="測量基準 – Cantonese">
+         粵語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%9C%B0%E6%B5%8B%E9%87%8F%E7%B3%BB%E7%BB%9F" hreflang="zh" lang="zh" title="大地测量系统 – Chinese">
+         中文
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1502887#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 27 January 2018, at 22:03.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Geodetic_datum&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.248","walltime":"0.351","ppvisitednodes":{"value":1491,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":40232,"limit":2097152},"templateargumentsize":{"value":2905,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  251.682      1 -total"," 30.29%   76.223      2 Template:Reflist"," 21.11%   53.132      1 Template:Geodesy"," 20.22%   50.895      2 Template:Citation_needed"," 19.89%   50.068      1 Template:Sidebar"," 19.01%   47.844      4 Template:Cite_web"," 17.94%   45.151      2 Template:Fix"," 11.25%   28.316      4 Template:Category_handler"," 10.95%   27.559      1 Template:ISBN","  5.40%   13.592      1 Template:Catalog_lookup_link"]},"scribunto":{"limitreport-timeusage":{"value":"0.084","limit":"10.000"},"limitreport-memusage":{"value":3435746,"limit":52428800}},"cachereport":{"origin":"mw1317","timestamp":"20180129112528","ttl":1900800,"transientcontent":false}}});});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":101,"wgHostname":"mw1244"});});
+  </script>
+ </body>
+</html>

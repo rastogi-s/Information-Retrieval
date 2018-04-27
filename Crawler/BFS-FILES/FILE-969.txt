@@ -1,0 +1,1256 @@
+https://en.wikipedia.org/wiki/Particle_number_density
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Particle number - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Particle_number","wgTitle":"Particle number","wgCurRevisionId":815142642,"wgRevisionId":815142642,"wgArticleId":582770,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Thermodynamics","Dimensionless numbers of thermodynamics","Physical quantities","State functions"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Particle_number","wgRelevantArticleId":582770,"wgRequestId":"WnZTqApAMEoAAEwguA8AAABR","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Particle_number_density","wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgInternalRedirectTargetUrl":"/wiki/Particle_number#Particle_number_density","wgWikibaseItemId":"Q181155","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["mediawiki.action.view.redirect","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.31.0-wmf.17" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Particle_number#Particle_number_density" rel="alternate"/>
+  <link href="/w/index.php?title=Particle_number&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Particle_number&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/Particle_number#Particle_number_density" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Particle_number rootpage-Particle_number skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Particle number
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+     <span class="mw-redirectedfrom">
+      (Redirected from
+      <a class="mw-redirect" href="/w/index.php?title=Particle_number_density&amp;redirect=no" title="Particle number density">
+       Particle number density
+      </a>
+      )
+     </span>
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <table class="navbox" style="width: 16em; margin-left: 1em; float: right;">
+       <tr>
+        <th colspan="2">
+         <a href="/wiki/Conjugate_variables_(thermodynamics)" title="Conjugate variables (thermodynamics)">
+          Conjugate variables
+          <br/>
+          of thermodynamics
+         </a>
+        </th>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Pressure" title="Pressure">
+          Pressure
+         </a>
+        </td>
+        <td>
+         <a href="/wiki/Volume_(thermodynamics)" title="Volume (thermodynamics)">
+          Volume
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         (
+         <a href="/wiki/Stress_(mechanics)" title="Stress (mechanics)">
+          Stress
+         </a>
+         )
+        </td>
+        <td>
+         (
+         <a href="/wiki/Deformation_(mechanics)#Strain" title="Deformation (mechanics)">
+          Strain
+         </a>
+         )
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Temperature" title="Temperature">
+          Temperature
+         </a>
+        </td>
+        <td>
+         <a href="/wiki/Entropy" title="Entropy">
+          Entropy
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Chemical_potential" title="Chemical potential">
+          Chemical potential
+         </a>
+        </td>
+        <td>
+         <a class="mw-selflink selflink">
+          Particle number
+         </a>
+        </td>
+       </tr>
+      </table>
+      <p>
+       The
+       <b>
+        particle number
+       </b>
+       (or
+       <b>
+        number of particles
+       </b>
+       ) of a
+       <a href="/wiki/Thermodynamic_system" title="Thermodynamic system">
+        thermodynamic system
+       </a>
+       , conventionally indicated with the letter
+       <i>
+        N
+       </i>
+       , is the number of constituent particles in that system.
+       <sup class="reference" id="cite_ref-HoP_1-0">
+        <a href="#cite_note-HoP-1">
+         [1]
+        </a>
+       </sup>
+       The particle number is a fundamental parameter in
+       <a href="/wiki/Thermodynamics" title="Thermodynamics">
+        thermodynamics
+       </a>
+       which is
+       <a href="/wiki/Conjugate_variables_(thermodynamics)" title="Conjugate variables (thermodynamics)">
+        conjugate
+       </a>
+       to the
+       <a href="/wiki/Chemical_potential" title="Chemical potential">
+        chemical potential
+       </a>
+       . Unlike most
+       <a class="mw-redirect" href="/wiki/Physical_quantities" title="Physical quantities">
+        physical quantities
+       </a>
+       , particle number is a
+       <a href="/wiki/Dimensionless_quantity" title="Dimensionless quantity">
+        dimensionless quantity
+       </a>
+       . It is an
+       <a class="mw-redirect" href="/wiki/Extensive_parameter" title="Extensive parameter">
+        extensive parameter
+       </a>
+       , as it is directly proportional to the size of the system under consideration, and thus meaningful only for
+       <a href="/wiki/Thermodynamic_system#Closed_system" title="Thermodynamic system">
+        closed systems
+       </a>
+       .
+      </p>
+      <p>
+       A
+       <b>
+        constituent particle
+       </b>
+       is one that cannot be broken into smaller pieces at the scale of
+       <a href="/wiki/Energy" title="Energy">
+        energy
+       </a>
+       <i>
+        k·T
+       </i>
+       involved in the process (where
+       <i>
+        k
+       </i>
+       is the
+       <a href="/wiki/Boltzmann_constant" title="Boltzmann constant">
+        Boltzmann constant
+       </a>
+       and
+       <i>
+        T
+       </i>
+       is the
+       <a href="/wiki/Temperature" title="Temperature">
+        temperature
+       </a>
+       ). For example, for a thermodynamic system consisting of a
+       <a href="/wiki/Piston" title="Piston">
+        piston
+       </a>
+       containing water vapour, the particle number is the number of water molecules in the system. The meaning of constituent particle, and thereby of particle number, is thus temperature-dependent.
+      </p>
+      <p>
+      </p>
+      <div class="toc" id="toc">
+       <div class="toctitle" dir="ltr" lang="en" xml:lang="en">
+        <h2>
+         Contents
+        </h2>
+       </div>
+       <ul>
+        <li class="toclevel-1 tocsection-1">
+         <a href="#Determining_the_particle_number">
+          <span class="tocnumber">
+           1
+          </span>
+          <span class="toctext">
+           Determining the particle number
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-2">
+         <a href="#Particle_number_density">
+          <span class="tocnumber">
+           2
+          </span>
+          <span class="toctext">
+           Particle number density
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-3">
+         <a href="#In_quantum_mechanics">
+          <span class="tocnumber">
+           3
+          </span>
+          <span class="toctext">
+           In quantum mechanics
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-4">
+         <a href="#In_air_quality">
+          <span class="tocnumber">
+           4
+          </span>
+          <span class="toctext">
+           In air quality
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-5">
+         <a href="#References">
+          <span class="tocnumber">
+           5
+          </span>
+          <span class="toctext">
+           References
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <p>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Determining_the_particle_number">
+        Determining the particle number
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Particle_number&amp;action=edit&amp;section=1" title="Edit section: Determining the particle number">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       The concept of particle number has a main role in
+       <a href="/wiki/Theoretical_physics" title="Theoretical physics">
+        theoretical
+       </a>
+       considerations. In situations where the actual particle number of a given thermodynamical system needs to be determined, mainly in
+       <a href="/wiki/Chemistry" title="Chemistry">
+        chemistry
+       </a>
+       , it is not practically possible to measure it directly by counting the particles. If the material is homogeneous and has a known
+       <a href="/wiki/Amount_of_substance" title="Amount of substance">
+        amount of substance
+       </a>
+       <i>
+        n
+       </i>
+       expressed in
+       <a href="/wiki/Mole_(unit)" title="Mole (unit)">
+        moles
+       </a>
+       , the particle number
+       <i>
+        N
+       </i>
+       can be found by the relation
+      </p>
+      <dl>
+       <dd>
+        <i>
+         N
+        </i>
+        =
+        <i>
+         nN
+         <sub>
+          A
+         </sub>
+        </i>
+        ,
+       </dd>
+      </dl>
+      <p>
+       where
+       <i>
+        N
+        <sub>
+         A
+        </sub>
+       </i>
+       is the
+       <a href="/wiki/Avogadro_constant" title="Avogadro constant">
+        Avogadro constant
+       </a>
+       .
+       <sup class="reference" id="cite_ref-HoP_1-1">
+        <a href="#cite_note-HoP-1">
+         [1]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Particle_number_density">
+        Particle number density
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Particle_number&amp;action=edit&amp;section=2" title="Edit section: Particle number density">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       A related
+       <a class="mw-redirect" href="/wiki/Intensive_parameter" title="Intensive parameter">
+        intensive system parameter
+       </a>
+       is given by the
+       <b>
+        particle
+        <a href="/wiki/Number_density" title="Number density">
+         number density
+        </a>
+       </b>
+       , obtained by dividing the particle number of a system by its
+       <a href="/wiki/Volume" title="Volume">
+        volume
+       </a>
+       . This parameter is often denoted by a lower-case letter
+       <i>
+        n
+       </i>
+       .
+      </p>
+      <h2>
+       <span class="mw-headline" id="In_quantum_mechanics">
+        In quantum mechanics
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Particle_number&amp;action=edit&amp;section=3" title="Edit section: In quantum mechanics">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       In
+       <a class="mw-redirect" href="/wiki/Quantum_mechanical" title="Quantum mechanical">
+        quantum mechanical
+       </a>
+       processes the total number of particles may not be preserved. The concept is therefore generalized to the
+       <a href="/wiki/Particle_number_operator" title="Particle number operator">
+        particle number operator
+       </a>
+       , that is, the
+       <a href="/wiki/Observable" title="Observable">
+        observable
+       </a>
+       that counts the number of constituent particles.
+       <sup class="reference" id="cite_ref-2">
+        <a href="#cite_note-2">
+         [2]
+        </a>
+       </sup>
+       In
+       <a href="/wiki/Quantum_field_theory" title="Quantum field theory">
+        quantum field theory
+       </a>
+       , the particle number operator (see
+       <a href="/wiki/Fock_state" title="Fock state">
+        Fock state
+       </a>
+       ) is conjugate to the phase of the
+       <i>
+        classical
+       </i>
+       wave (see
+       <a class="mw-redirect" href="/wiki/Coherent_state" title="Coherent state">
+        coherent state
+       </a>
+       ).
+      </p>
+      <h2>
+       <span class="mw-headline" id="In_air_quality">
+        In air quality
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Particle_number&amp;action=edit&amp;section=4" title="Edit section: In air quality">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       One measure of
+       <a href="/wiki/Air_pollution" title="Air pollution">
+        air pollution
+       </a>
+       used in air quality standards is the atmospheric concentration of
+       <a class="mw-redirect" href="/wiki/Atmospheric_particulate_matter" title="Atmospheric particulate matter">
+        particulate matter
+       </a>
+       . This measure is usually expressed in μg/m
+       <sup>
+        3
+       </sup>
+       (
+       <a class="mw-redirect" href="/wiki/Micrograms" title="Micrograms">
+        micrograms
+       </a>
+       per cubic metre). In the upcoming emission norm for non-road mobile machinery a new particle number legislation is registered. In this case PN expresses a quantity of particles.
+      </p>
+      <h2>
+       <span class="mw-headline" id="References">
+        References
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Particle_number&amp;action=edit&amp;section=5" title="Edit section: References">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="reflist" style="list-style-type: decimal;">
+       <div class="mw-references-wrap">
+        <ol class="references">
+         <li id="cite_note-HoP-1">
+          <span class="mw-cite-backlink">
+           ^
+           <a href="#cite_ref-HoP_1-0">
+            <sup>
+             <i>
+              <b>
+               a
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-HoP_1-1">
+            <sup>
+             <i>
+              <b>
+               b
+              </b>
+             </i>
+            </sup>
+           </a>
+          </span>
+          <span class="reference-text">
+           <cite class="citation book">
+            Benenson, Walter; Harris, John; Stöcker, Horst (2002).
+            <a class="external text" href="https://books.google.com/books?id=c60mCxGRMR8C&amp;pg=PA637&amp;dq=%22Particle+number%22#v=onepage&amp;q=%22Particle%20number%22&amp;f=false" rel="nofollow">
+             <i>
+              Handbook of Physics
+             </i>
+            </a>
+            . Springer.
+            <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+             ISBN
+            </a>
+            <a href="/wiki/Special:BookSources/0-387-95269-1" title="Special:BookSources/0-387-95269-1">
+             0-387-95269-1
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Handbook+of+Physics&amp;rft.pub=Springer&amp;rft.date=2002&amp;rft.isbn=0-387-95269-1&amp;rft.aulast=Benenson&amp;rft.aufirst=Walter&amp;rft.au=Harris%2C+John&amp;rft.au=St%C3%B6cker%2C+Horst&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3Dc60mCxGRMR8C%26pg%3DPA637%26dq%3D%2522Particle%2Bnumber%2522%23v%3Donepage%26q%3D%2522Particle%2520number%2522%26f%3Dfalse&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AParticle+number">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-2">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-2">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation book">
+            Schumacher, Benjamin; Westmoreland, Michael (2010).
+            <i>
+             Quantum Processes, Systems, and Information
+            </i>
+            .
+            <a href="/wiki/Cambridge_University_Press" title="Cambridge University Press">
+             Cambridge University Press
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Quantum+Processes%2C+Systems%2C+and+Information&amp;rft.pub=Cambridge+University+Press&amp;rft.date=2010&amp;rft.aulast=Schumacher&amp;rft.aufirst=Benjamin&amp;rft.au=Westmoreland%2C+Michael&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AParticle+number">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+        </ol>
+       </div>
+      </div>
+      <div aria-labelledby="Mole_concepts" class="navbox" role="navigation" style="padding:3px">
+       <table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tr>
+         <th class="navbox-title" colspan="2" scope="col">
+          <div class="plainlinks hlist navbar mini">
+           <ul>
+            <li class="nv-view">
+             <a href="/wiki/Template:Mole_concepts" title="Template:Mole concepts">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">
+               v
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-talk">
+             <a href="/wiki/Template_talk:Mole_concepts" title="Template talk:Mole concepts">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">
+               t
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-edit">
+             <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Mole_concepts&amp;action=edit">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">
+               e
+              </abbr>
+             </a>
+            </li>
+           </ul>
+          </div>
+          <div id="Mole_concepts" style="font-size:114%;margin:0 4em">
+           <a href="/wiki/Mole_(unit)" title="Mole (unit)">
+            Mole
+           </a>
+           concepts
+          </div>
+         </th>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          Physical quantities
+         </th>
+         <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Mass_concentration_(chemistry)" title="Mass concentration (chemistry)">
+              Mass concentration
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Molar_concentration" title="Molar concentration">
+              Molar concentration
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Molality" title="Molality">
+              Molality
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Mass" title="Mass">
+              Mass
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Volume_(thermodynamics)" title="Volume (thermodynamics)">
+              Volume
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Density" title="Density">
+              Density
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Mole_fraction" title="Mole fraction">
+              Mole fraction
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Mass_fraction_(chemistry)" title="Mass fraction (chemistry)">
+              Mass fraction
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Amount_of_substance" title="Amount of substance">
+              Amount of substance
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Molar_mass" title="Molar mass">
+              Molar mass
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Atomic_mass" title="Atomic mass">
+              Atomic mass
+             </a>
+            </li>
+            <li>
+             <a class="mw-selflink selflink">
+              Particle number
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Avogadro_constant" title="Avogadro constant">
+              Avogadro constant
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Pressure" title="Pressure">
+              Pressure
+             </a>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/Kelvin_temperature" title="Kelvin temperature">
+              Kelvin temperature
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Gas_constant" title="Gas constant">
+              Gas constant
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Molar_volume" title="Molar volume">
+              Molar volume
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Specific_volume" title="Specific volume">
+              Specific volume
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          Laws
+         </th>
+         <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Charles%27s_law" title="Charles's law">
+              Charles's law
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Boyle%27s_law" title="Boyle's law">
+              Boyle's law
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Gay-Lussac%27s_law" title="Gay-Lussac's law">
+              Gay-Lussac's law
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Combined_gas_law" title="Combined gas law">
+              Combined gas law
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Ideal_gas_law" title="Ideal gas law">
+              Ideal gas law
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+       </table>
+      </div>
+      <!-- 
+NewPP limit report
+Parsed by mw1252
+Cached time: 20180114015359
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.060 seconds
+Real time usage: 0.087 seconds
+Preprocessor visited node count: 232/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 10202/2097152 bytes
+Template argument size: 79/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 0/500
+Lua time usage: 0.026/10.000 seconds
+Lua memory usage: 1.64 MB/50 MB
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   71.555      1 -total
+ 80.54%   57.633      1 Template:Reflist
+ 64.88%   46.427      2 Template:Cite_book
+ 14.68%   10.506      1 Template:Mole_concepts
+ 13.00%    9.305      1 Template:Navbox
+  2.17%    1.551      1 Template:Main_other
+  1.95%    1.397      1 Template:Conjugate_variables_(thermodynamics)
+-->
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:582770-0!canonical and timestamp 20180114015359 and revision id 815142642
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Particle_number&amp;oldid=815142642#Particle_number_density">
+      https://en.wikipedia.org/w/index.php?title=Particle_number&amp;oldid=815142642#Particle_number_density
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Thermodynamics" title="Category:Thermodynamics">
+         Thermodynamics
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Dimensionless_numbers_of_thermodynamics" title="Category:Dimensionless numbers of thermodynamics">
+         Dimensionless numbers of thermodynamics
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Physical_quantities" title="Category:Physical quantities">
+         Physical quantities
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:State_functions" title="Category:State functions">
+         State functions
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Particle+number" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Particle+number" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Particle_number" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Particle_number" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="collapsible selected" id="ca-view">
+        <span>
+         <a href="/wiki/Particle_number">
+          Read
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Particle_number&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Particle_number&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Particle_number" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Particle_number" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Particle_number&amp;oldid=815142642" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Particle_number&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q181155" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Particle_number&amp;id=815142642" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Particle+number">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Particle+number&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Particle_number&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-ar">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%B9%D8%AF%D8%AF_%D8%AC%D8%B3%D9%8A%D9%85%D8%A7%D8%AA" hreflang="ar" lang="ar" title="عدد جسيمات – Arabic">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Nombre_de_part%C3%ADcules" hreflang="ca" lang="ca" title="Nombre de partícules – Catalan">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Teilchenzahl" hreflang="de" lang="de" title="Teilchenzahl – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/N%C3%BAmero_de_part%C3%ADculas" hreflang="es" lang="es" title="Número de partículas – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fa">
+        <a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%AA%D8%B9%D8%AF%D8%A7%D8%AF_%D8%B0%D8%B1%D9%87" hreflang="fa" lang="fa" title="تعداد ذره – Persian">
+         فارسی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E7%B2%92%E5%AD%90%E6%95%B8" hreflang="zh" lang="zh" title="粒子數 – Chinese">
+         中文
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q181155#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 13 December 2017, at 00:39.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Particle_number&amp;mobileaction=toggle_view_mobile#Particle_number_density">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.060","walltime":"0.087","ppvisitednodes":{"value":232,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":10202,"limit":2097152},"templateargumentsize":{"value":79,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   71.555      1 -total"," 80.54%   57.633      1 Template:Reflist"," 64.88%   46.427      2 Template:Cite_book"," 14.68%   10.506      1 Template:Mole_concepts"," 13.00%    9.305      1 Template:Navbox","  2.17%    1.551      1 Template:Main_other","  1.95%    1.397      1 Template:Conjugate_variables_(thermodynamics)"]},"scribunto":{"limitreport-timeusage":{"value":"0.026","limit":"10.000"},"limitreport-memusage":{"value":1717083,"limit":52428800}},"cachereport":{"origin":"mw1252","timestamp":"20180114015359","ttl":1900800,"transientcontent":false}}});});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":76,"wgHostname":"mw1239"});});
+  </script>
+ </body>
+</html>

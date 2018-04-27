@@ -1,0 +1,2879 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Helmert transformation - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Helmert_transformation","wgTitle":"Helmert transformation","wgCurRevisionId":817486870,"wgRevisionId":817486870,"wgArticleId":15318324,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use dmy dates from September 2010","Geodesy","Transformation (function)"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Helmert_transformation","wgRelevantArticleId":15318324,"wgRequestId":"WnPORgpAAD8AADoQ664AAAAN","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q360886","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.math.styles":"ready","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.math.scripts","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.31.0-wmf.17" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Helmert_transformation" rel="alternate"/>
+  <link href="/w/index.php?title=Helmert_transformation&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Helmert_transformation&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/Helmert_transformation" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Helmert_transformation rootpage-Helmert_transformation skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Helmert transformation
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <p>
+       The
+       <b>
+        Helmert transformation
+       </b>
+       (named after
+       <a href="/wiki/Friedrich_Robert_Helmert" title="Friedrich Robert Helmert">
+        Friedrich Robert Helmert
+       </a>
+       , 1843–1917) is a transformation method within a three-dimensional space. It is frequently used in
+       <a href="/wiki/Geodesy" title="Geodesy">
+        geodesy
+       </a>
+       to produce distortion-free transformations from one
+       <a class="mw-redirect" href="/wiki/Datum_(geodesy)" title="Datum (geodesy)">
+        datum
+       </a>
+       to another. The Helmert transformation is also called a
+       <b>
+        seven-parameter transformation
+       </b>
+       and is a
+       <a class="mw-redirect" href="/wiki/Similarity_transformation_(geometry)" title="Similarity transformation (geometry)">
+        similarity transformation
+       </a>
+       .
+      </p>
+      <p>
+      </p>
+      <div class="toc" id="toc">
+       <div class="toctitle" dir="ltr" lang="en" xml:lang="en">
+        <h2>
+         Contents
+        </h2>
+       </div>
+       <ul>
+        <li class="toclevel-1 tocsection-1">
+         <a href="#Definition">
+          <span class="tocnumber">
+           1
+          </span>
+          <span class="toctext">
+           Definition
+          </span>
+         </a>
+         <ul>
+          <li class="toclevel-2 tocsection-2">
+           <a href="#Variations">
+            <span class="tocnumber">
+             1.1
+            </span>
+            <span class="toctext">
+             Variations
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-3">
+           <a href="#Restrictions">
+            <span class="tocnumber">
+             1.2
+            </span>
+            <span class="toctext">
+             Restrictions
+            </span>
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="toclevel-1 tocsection-4">
+         <a href="#Application">
+          <span class="tocnumber">
+           2
+          </span>
+          <span class="toctext">
+           Application
+          </span>
+         </a>
+         <ul>
+          <li class="toclevel-2 tocsection-5">
+           <a href="#Standard_parameters">
+            <span class="tocnumber">
+             2.1
+            </span>
+            <span class="toctext">
+             Standard parameters
+            </span>
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="toclevel-1 tocsection-6">
+         <a href="#Calculating_the_parameters">
+          <span class="tocnumber">
+           3
+          </span>
+          <span class="toctext">
+           Calculating the parameters
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-7">
+         <a href="#See_also">
+          <span class="tocnumber">
+           4
+          </span>
+          <span class="toctext">
+           See also
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-8">
+         <a href="#References">
+          <span class="tocnumber">
+           5
+          </span>
+          <span class="toctext">
+           References
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-9">
+         <a href="#External_links">
+          <span class="tocnumber">
+           6
+          </span>
+          <span class="toctext">
+           External links
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <p>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Definition">
+        Definition
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Helmert_transformation&amp;action=edit&amp;section=1" title="Edit section: Definition">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       It can be expressed as:
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle X_{T}=C+\mu RX\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <msub>
+               <mi>
+                X
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 T
+                </mi>
+               </mrow>
+              </msub>
+              <mo>
+               =
+              </mo>
+              <mi>
+               C
+              </mi>
+              <mo>
+               +
+              </mo>
+              <mi>
+               μ
+               <!-- μ -->
+              </mi>
+              <mi>
+               R
+              </mi>
+              <mi>
+               X
+              </mi>
+              <mspace width="thinmathspace">
+              </mspace>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle X_{T}=C+\mu RX\,}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="X_{T}=C+\mu RX\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2b346f0b6a2bddc41ea857accb87de31aba86576" style="vertical-align: -0.838ex; width:16.552ex; height:2.676ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       where
+      </p>
+      <ul>
+       <li>
+        <i>
+         X
+        </i>
+        <sub>
+         <i>
+          T
+         </i>
+        </sub>
+        is the transformed vector
+       </li>
+       <li>
+        <i>
+         X
+        </i>
+        is the initial vector
+       </li>
+      </ul>
+      <p>
+       The
+       <a href="/wiki/Parameter" title="Parameter">
+        parameters
+       </a>
+       are:
+      </p>
+      <ul>
+       <li>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle C}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mi>
+               C
+              </mi>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle C}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="C" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4fc55753007cd3c18576f7933f6f089196732029" style="vertical-align: -0.338ex; width:1.766ex; height:2.176ex;"/>
+        </span>
+        — translation vector. Contains the three
+        <a href="/wiki/Translation_(geometry)" title="Translation (geometry)">
+         translations
+        </a>
+        along the coordinate axes
+       </li>
+       <li>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle \mu }" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mi>
+               μ
+               <!-- μ -->
+              </mi>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle \mu }
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="\mu " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9fd47b2a39f7a7856952afec1f1db72c67af6161" style="vertical-align: -0.838ex; width:1.402ex; height:2.176ex;"/>
+        </span>
+        —
+        <a href="/wiki/Scale_factor" title="Scale factor">
+         scale factor
+        </a>
+        , which is unitless, and as it is usually expressed in
+        <a class="mw-redirect" href="/wiki/Parts_per_million" title="Parts per million">
+         ppm
+        </a>
+        , it must be divided by 1,000,000.
+       </li>
+       <li>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle R}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mi>
+               R
+              </mi>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle R}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="R" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4b0bfb3769bf24d80e15374dc37b0441e2616e33" style="vertical-align: -0.338ex; width:1.764ex; height:2.176ex;"/>
+        </span>
+        —
+        <a href="/wiki/Rotation_matrix" title="Rotation matrix">
+         rotation matrix
+        </a>
+        . Consists of three axes (small
+        <a href="/wiki/Rotation" title="Rotation">
+         rotations
+        </a>
+        around the coordinate axes)
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle r_{x}}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <msub>
+               <mi>
+                r
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 x
+                </mi>
+               </mrow>
+              </msub>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle r_{x}}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="r_{x}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c3705946c668b0bd4b21e7c19b95bb6ed05ea4ed" style="vertical-align: -0.671ex; width:2.221ex; height:2.009ex;"/>
+        </span>
+        ,
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle r_{y}}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <msub>
+               <mi>
+                r
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 y
+                </mi>
+               </mrow>
+              </msub>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle r_{y}}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="r_{y}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/49e52760272851bdfd60c01877ee11bfc1857a60" style="vertical-align: -1.005ex; width:2.098ex; height:2.343ex;"/>
+        </span>
+        ,
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle r_{z}}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <msub>
+               <mi>
+                r
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 z
+                </mi>
+               </mrow>
+              </msub>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle r_{z}}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="r_{z}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e07006192648caeccd5ad603f234b1f11e2e40b9" style="vertical-align: -0.671ex; width:2.05ex; height:2.009ex;"/>
+        </span>
+        . The rotation matrix is an
+        <a href="/wiki/Orthogonal_matrix" title="Orthogonal matrix">
+         orthogonal matrix
+        </a>
+        . The rotation is given in
+        <a href="/wiki/Radian" title="Radian">
+         radians
+        </a>
+        .
+       </li>
+      </ul>
+      <h3>
+       <span class="mw-headline" id="Variations">
+        Variations
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Helmert_transformation&amp;action=edit&amp;section=2" title="Edit section: Variations">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       It is not always necessary to use the seven parameter transformation, sometimes it is sufficient to use the
+       <b>
+        five parameter transformation
+       </b>
+       , composed of three translations, one rotation (about the Z-axis) and one change of scale.
+      </p>
+      <p>
+       A special case is the two-dimensional Helmert transformation. Here, only four parameters are needed (two translations, one scaling, one rotation). These can be determined from two known points; if more points are available then checks can be made.
+      </p>
+      <h3>
+       <span class="mw-headline" id="Restrictions">
+        Restrictions
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Helmert_transformation&amp;action=edit&amp;section=3" title="Edit section: Restrictions">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       The Helmert transformation only uses one scale factor, so it is not suitable for:
+      </p>
+      <ul>
+       <li>
+        The manipulation of measured drawings and
+        <a href="/wiki/Photography" title="Photography">
+         photographs
+        </a>
+       </li>
+       <li>
+        The comparison of paper deformations while
+        <a href="/wiki/Image_scanner" title="Image scanner">
+         scanning
+        </a>
+        old plans and maps.
+       </li>
+      </ul>
+      <p>
+       In these cases, use another
+       <a href="/wiki/Affine_transformation" title="Affine transformation">
+        affine transformation
+       </a>
+       .
+      </p>
+      <h2>
+       <span class="mw-headline" id="Application">
+        Application
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Helmert_transformation&amp;action=edit&amp;section=4" title="Edit section: Application">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       The Helmert transformation is used, among other things, in
+       <a href="/wiki/Geodesy" title="Geodesy">
+        geodesy
+       </a>
+       to transform the coordinates of the point from one coordinate system into another. Using it, it becomes possible to convert regional
+       <a href="/wiki/Surveying" title="Surveying">
+        surveying
+       </a>
+       points into the
+       <a class="mw-redirect" href="/wiki/WGS84" title="WGS84">
+        WGS84
+       </a>
+       locations used by
+       <a href="/wiki/Global_Positioning_System" title="Global Positioning System">
+        GPS
+       </a>
+       .
+      </p>
+      <p>
+       In the process, the
+       <a href="/wiki/Gauss%E2%80%93Kr%C3%BCger_coordinate_system" title="Gauss–Krüger coordinate system">
+        Gauss–Krüger coordinate
+       </a>
+       ,
+       <i>
+        x
+       </i>
+       and
+       <i>
+        y
+       </i>
+       , plus the height,
+       <i>
+        h
+       </i>
+       , are converted into 3D values in steps:
+      </p>
+      <ol>
+       <li>
+        Calculation of the ellipsoidal latitude, longitude and height (
+        <i>
+         W
+        </i>
+        ,
+        <i>
+         L
+        </i>
+        ,
+        <i>
+         H
+        </i>
+        )
+       </li>
+       <li>
+        Calculation of
+        <i>
+         X
+        </i>
+        ,
+        <i>
+         Y
+        </i>
+        and
+        <i>
+         Z
+        </i>
+        relative to the
+        <a href="/wiki/Reference_ellipsoid" title="Reference ellipsoid">
+         reference ellipsoid
+        </a>
+        of surveying
+       </li>
+       <li>
+        7-parameter transformation (where
+        <i>
+         X
+        </i>
+        ,
+        <i>
+         Y
+        </i>
+        and
+        <i>
+         Z
+        </i>
+        change almost evenly, a few hundred metres at most, and the distances change a few mm per km).
+       </li>
+       <li>
+        Because of this, terrestrially measured positions can be compared with GPS data; these can then be brought into the surveying as new points — transformed in the opposite order.
+       </li>
+      </ol>
+      <p>
+       The third step consists of the application of a
+       <a href="/wiki/Rotation_matrix" title="Rotation matrix">
+        rotation matrix
+       </a>
+       , multiplication with the scale factor
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle \mu =1+s}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              μ
+              <!-- μ -->
+             </mi>
+             <mo>
+              =
+             </mo>
+             <mn>
+              1
+             </mn>
+             <mo>
+              +
+             </mo>
+             <mi>
+              s
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle \mu =1+s}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="\mu =1+s" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3ef274989dc5e8c0c60fdb0fc79d6d24bad9fee3" style="vertical-align: -0.838ex; width:9.593ex; height:2.676ex;"/>
+       </span>
+       (with a value near 1) and the addition of the three translations,
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle c_{x}}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <msub>
+              <mi>
+               c
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                x
+               </mi>
+              </mrow>
+             </msub>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle c_{x}}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="c_{x}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fb6e0397e797e2cde37718a8e2b2e0fad6252c8a" style="vertical-align: -0.671ex; width:2.179ex; height:2.009ex;"/>
+       </span>
+       ,
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle c_{y}}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <msub>
+              <mi>
+               c
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                y
+               </mi>
+              </mrow>
+             </msub>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle c_{y}}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="c_{y}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/27012b7608c1ba3eec3d05e5eaa236bbd5399f5f" style="vertical-align: -1.005ex; width:2.056ex; height:2.343ex;"/>
+       </span>
+       ,
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle c_{z}}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <msub>
+              <mi>
+               c
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                z
+               </mi>
+              </mrow>
+             </msub>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle c_{z}}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="c_{z}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/10e85ff3cb3336c8880d9c12fb86747b433f6bb6" style="vertical-align: -0.671ex; width:2.009ex; height:2.009ex;"/>
+       </span>
+       .
+      </p>
+      <p>
+       The coordinates of a reference system B are derived from reference system A by the following formula:
+       <sup class="reference" id="cite_ref-1">
+        <a href="#cite_note-1">
+         [1]
+        </a>
+       </sup>
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle {\begin{bmatrix}X\\Y\\Z\end{bmatrix}}^{B}={\begin{bmatrix}c_{x}\\c_{y}\\c_{z}\end{bmatrix}}+(1+s\times 10^{-6})\cdot {\begin{bmatrix}1&amp;-r_{z}&amp;r_{y}\\r_{z}&amp;1&amp;-r_{x}\\-r_{y}&amp;r_{x}&amp;1\end{bmatrix}}\cdot {\begin{bmatrix}X\\Y\\Z\end{bmatrix}}^{A}}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <msup>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mrow>
+                 <mo>
+                  [
+                 </mo>
+                 <mtable columnspacing="1em" rowspacing="4pt">
+                  <mtr>
+                   <mtd>
+                    <mi>
+                     X
+                    </mi>
+                   </mtd>
+                  </mtr>
+                  <mtr>
+                   <mtd>
+                    <mi>
+                     Y
+                    </mi>
+                   </mtd>
+                  </mtr>
+                  <mtr>
+                   <mtd>
+                    <mi>
+                     Z
+                    </mi>
+                   </mtd>
+                  </mtr>
+                 </mtable>
+                 <mo>
+                  ]
+                 </mo>
+                </mrow>
+               </mrow>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 B
+                </mi>
+               </mrow>
+              </msup>
+              <mo>
+               =
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mrow>
+                <mo>
+                 [
+                </mo>
+                <mtable columnspacing="1em" rowspacing="4pt">
+                 <mtr>
+                  <mtd>
+                   <msub>
+                    <mi>
+                     c
+                    </mi>
+                    <mrow class="MJX-TeXAtom-ORD">
+                     <mi>
+                      x
+                     </mi>
+                    </mrow>
+                   </msub>
+                  </mtd>
+                 </mtr>
+                 <mtr>
+                  <mtd>
+                   <msub>
+                    <mi>
+                     c
+                    </mi>
+                    <mrow class="MJX-TeXAtom-ORD">
+                     <mi>
+                      y
+                     </mi>
+                    </mrow>
+                   </msub>
+                  </mtd>
+                 </mtr>
+                 <mtr>
+                  <mtd>
+                   <msub>
+                    <mi>
+                     c
+                    </mi>
+                    <mrow class="MJX-TeXAtom-ORD">
+                     <mi>
+                      z
+                     </mi>
+                    </mrow>
+                   </msub>
+                  </mtd>
+                 </mtr>
+                </mtable>
+                <mo>
+                 ]
+                </mo>
+               </mrow>
+              </mrow>
+              <mo>
+               +
+              </mo>
+              <mo stretchy="false">
+               (
+              </mo>
+              <mn>
+               1
+              </mn>
+              <mo>
+               +
+              </mo>
+              <mi>
+               s
+              </mi>
+              <mo>
+               ×
+               <!-- × -->
+              </mo>
+              <msup>
+               <mn>
+                10
+               </mn>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mo>
+                 −
+                 <!-- − -->
+                </mo>
+                <mn>
+                 6
+                </mn>
+               </mrow>
+              </msup>
+              <mo stretchy="false">
+               )
+              </mo>
+              <mo>
+               ⋅
+               <!-- ⋅ -->
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mrow>
+                <mo>
+                 [
+                </mo>
+                <mtable columnspacing="1em" rowspacing="4pt">
+                 <mtr>
+                  <mtd>
+                   <mn>
+                    1
+                   </mn>
+                  </mtd>
+                  <mtd>
+                   <mo>
+                    −
+                    <!-- − -->
+                   </mo>
+                   <msub>
+                    <mi>
+                     r
+                    </mi>
+                    <mrow class="MJX-TeXAtom-ORD">
+                     <mi>
+                      z
+                     </mi>
+                    </mrow>
+                   </msub>
+                  </mtd>
+                  <mtd>
+                   <msub>
+                    <mi>
+                     r
+                    </mi>
+                    <mrow class="MJX-TeXAtom-ORD">
+                     <mi>
+                      y
+                     </mi>
+                    </mrow>
+                   </msub>
+                  </mtd>
+                 </mtr>
+                 <mtr>
+                  <mtd>
+                   <msub>
+                    <mi>
+                     r
+                    </mi>
+                    <mrow class="MJX-TeXAtom-ORD">
+                     <mi>
+                      z
+                     </mi>
+                    </mrow>
+                   </msub>
+                  </mtd>
+                  <mtd>
+                   <mn>
+                    1
+                   </mn>
+                  </mtd>
+                  <mtd>
+                   <mo>
+                    −
+                    <!-- − -->
+                   </mo>
+                   <msub>
+                    <mi>
+                     r
+                    </mi>
+                    <mrow class="MJX-TeXAtom-ORD">
+                     <mi>
+                      x
+                     </mi>
+                    </mrow>
+                   </msub>
+                  </mtd>
+                 </mtr>
+                 <mtr>
+                  <mtd>
+                   <mo>
+                    −
+                    <!-- − -->
+                   </mo>
+                   <msub>
+                    <mi>
+                     r
+                    </mi>
+                    <mrow class="MJX-TeXAtom-ORD">
+                     <mi>
+                      y
+                     </mi>
+                    </mrow>
+                   </msub>
+                  </mtd>
+                  <mtd>
+                   <msub>
+                    <mi>
+                     r
+                    </mi>
+                    <mrow class="MJX-TeXAtom-ORD">
+                     <mi>
+                      x
+                     </mi>
+                    </mrow>
+                   </msub>
+                  </mtd>
+                  <mtd>
+                   <mn>
+                    1
+                   </mn>
+                  </mtd>
+                 </mtr>
+                </mtable>
+                <mo>
+                 ]
+                </mo>
+               </mrow>
+              </mrow>
+              <mo>
+               ⋅
+               <!-- ⋅ -->
+              </mo>
+              <msup>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mrow>
+                 <mo>
+                  [
+                 </mo>
+                 <mtable columnspacing="1em" rowspacing="4pt">
+                  <mtr>
+                   <mtd>
+                    <mi>
+                     X
+                    </mi>
+                   </mtd>
+                  </mtr>
+                  <mtr>
+                   <mtd>
+                    <mi>
+                     Y
+                    </mi>
+                   </mtd>
+                  </mtr>
+                  <mtr>
+                   <mtd>
+                    <mi>
+                     Z
+                    </mi>
+                   </mtd>
+                  </mtr>
+                 </mtable>
+                 <mo>
+                  ]
+                 </mo>
+                </mrow>
+               </mrow>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 A
+                </mi>
+               </mrow>
+              </msup>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle {\begin{bmatrix}X\\Y\\Z\end{bmatrix}}^{B}={\begin{bmatrix}c_{x}\\c_{y}\\c_{z}\end{bmatrix}}+(1+s\times 10^{-6})\cdot {\begin{bmatrix}1&amp;-r_{z}&amp;r_{y}\\r_{z}&amp;1&amp;-r_{x}\\-r_{y}&amp;r_{x}&amp;1\end{bmatrix}}\cdot {\begin{bmatrix}X\\Y\\Z\end{bmatrix}}^{A}}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="{\begin{bmatrix}X\\Y\\Z\end{bmatrix}}^{B}={\begin{bmatrix}c_{x}\\c_{y}\\c_{z}\end{bmatrix}}+(1+s\times 10^{{-6}})\cdot {\begin{bmatrix}1&amp;-r_{z}&amp;r_{y}\\r_{z}&amp;1&amp;-r_{x}\\-r_{y}&amp;r_{x}&amp;1\end{bmatrix}}\cdot {\begin{bmatrix}X\\Y\\Z\end{bmatrix}}^{A}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e04168a1b86dd58d1002cb9ab23be800b82d85ed" style="vertical-align: -4.338ex; width:64.629ex; height:10.176ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       or for each single parameter of the coordinate:
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle {\begin{matrix}X_{B}&amp;=&amp;c_{x}+(1+s\times 10^{-6})\cdot (X_{A}-r_{z}\cdot Y_{A}+r_{y}\cdot Z_{A})\\Y_{B}&amp;=&amp;c_{y}+(1+s\times 10^{-6})\cdot (r_{z}\cdot X_{A}+Y_{A}-r_{x}\cdot Z_{A})\\Z_{B}&amp;=&amp;c_{z}+(1+s\times 10^{-6})\cdot (-r_{y}\cdot X_{A}+r_{x}\cdot Y_{A}+Z_{A}).\\\end{matrix}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mrow class="MJX-TeXAtom-ORD">
+               <mtable columnspacing="1em" rowspacing="4pt">
+                <mtr>
+                 <mtd>
+                  <msub>
+                   <mi>
+                    X
+                   </mi>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mi>
+                     B
+                    </mi>
+                   </mrow>
+                  </msub>
+                 </mtd>
+                 <mtd>
+                  <mo>
+                   =
+                  </mo>
+                 </mtd>
+                 <mtd>
+                  <msub>
+                   <mi>
+                    c
+                   </mi>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mi>
+                     x
+                    </mi>
+                   </mrow>
+                  </msub>
+                  <mo>
+                   +
+                  </mo>
+                  <mo stretchy="false">
+                   (
+                  </mo>
+                  <mn>
+                   1
+                  </mn>
+                  <mo>
+                   +
+                  </mo>
+                  <mi>
+                   s
+                  </mi>
+                  <mo>
+                   ×
+                   <!-- × -->
+                  </mo>
+                  <msup>
+                   <mn>
+                    10
+                   </mn>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mo>
+                     −
+                     <!-- − -->
+                    </mo>
+                    <mn>
+                     6
+                    </mn>
+                   </mrow>
+                  </msup>
+                  <mo stretchy="false">
+                   )
+                  </mo>
+                  <mo>
+                   ⋅
+                   <!-- ⋅ -->
+                  </mo>
+                  <mo stretchy="false">
+                   (
+                  </mo>
+                  <msub>
+                   <mi>
+                    X
+                   </mi>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mi>
+                     A
+                    </mi>
+                   </mrow>
+                  </msub>
+                  <mo>
+                   −
+                   <!-- − -->
+                  </mo>
+                  <msub>
+                   <mi>
+                    r
+                   </mi>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mi>
+                     z
+                    </mi>
+                   </mrow>
+                  </msub>
+                  <mo>
+                   ⋅
+                   <!-- ⋅ -->
+                  </mo>
+                  <msub>
+                   <mi>
+                    Y
+                   </mi>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mi>
+                     A
+                    </mi>
+                   </mrow>
+                  </msub>
+                  <mo>
+                   +
+                  </mo>
+                  <msub>
+                   <mi>
+                    r
+                   </mi>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mi>
+                     y
+                    </mi>
+                   </mrow>
+                  </msub>
+                  <mo>
+                   ⋅
+                   <!-- ⋅ -->
+                  </mo>
+                  <msub>
+                   <mi>
+                    Z
+                   </mi>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mi>
+                     A
+                    </mi>
+                   </mrow>
+                  </msub>
+                  <mo stretchy="false">
+                   )
+                  </mo>
+                 </mtd>
+                </mtr>
+                <mtr>
+                 <mtd>
+                  <msub>
+                   <mi>
+                    Y
+                   </mi>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mi>
+                     B
+                    </mi>
+                   </mrow>
+                  </msub>
+                 </mtd>
+                 <mtd>
+                  <mo>
+                   =
+                  </mo>
+                 </mtd>
+                 <mtd>
+                  <msub>
+                   <mi>
+                    c
+                   </mi>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mi>
+                     y
+                    </mi>
+                   </mrow>
+                  </msub>
+                  <mo>
+                   +
+                  </mo>
+                  <mo stretchy="false">
+                   (
+                  </mo>
+                  <mn>
+                   1
+                  </mn>
+                  <mo>
+                   +
+                  </mo>
+                  <mi>
+                   s
+                  </mi>
+                  <mo>
+                   ×
+                   <!-- × -->
+                  </mo>
+                  <msup>
+                   <mn>
+                    10
+                   </mn>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mo>
+                     −
+                     <!-- − -->
+                    </mo>
+                    <mn>
+                     6
+                    </mn>
+                   </mrow>
+                  </msup>
+                  <mo stretchy="false">
+                   )
+                  </mo>
+                  <mo>
+                   ⋅
+                   <!-- ⋅ -->
+                  </mo>
+                  <mo stretchy="false">
+                   (
+                  </mo>
+                  <msub>
+                   <mi>
+                    r
+                   </mi>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mi>
+                     z
+                    </mi>
+                   </mrow>
+                  </msub>
+                  <mo>
+                   ⋅
+                   <!-- ⋅ -->
+                  </mo>
+                  <msub>
+                   <mi>
+                    X
+                   </mi>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mi>
+                     A
+                    </mi>
+                   </mrow>
+                  </msub>
+                  <mo>
+                   +
+                  </mo>
+                  <msub>
+                   <mi>
+                    Y
+                   </mi>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mi>
+                     A
+                    </mi>
+                   </mrow>
+                  </msub>
+                  <mo>
+                   −
+                   <!-- − -->
+                  </mo>
+                  <msub>
+                   <mi>
+                    r
+                   </mi>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mi>
+                     x
+                    </mi>
+                   </mrow>
+                  </msub>
+                  <mo>
+                   ⋅
+                   <!-- ⋅ -->
+                  </mo>
+                  <msub>
+                   <mi>
+                    Z
+                   </mi>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mi>
+                     A
+                    </mi>
+                   </mrow>
+                  </msub>
+                  <mo stretchy="false">
+                   )
+                  </mo>
+                 </mtd>
+                </mtr>
+                <mtr>
+                 <mtd>
+                  <msub>
+                   <mi>
+                    Z
+                   </mi>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mi>
+                     B
+                    </mi>
+                   </mrow>
+                  </msub>
+                 </mtd>
+                 <mtd>
+                  <mo>
+                   =
+                  </mo>
+                 </mtd>
+                 <mtd>
+                  <msub>
+                   <mi>
+                    c
+                   </mi>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mi>
+                     z
+                    </mi>
+                   </mrow>
+                  </msub>
+                  <mo>
+                   +
+                  </mo>
+                  <mo stretchy="false">
+                   (
+                  </mo>
+                  <mn>
+                   1
+                  </mn>
+                  <mo>
+                   +
+                  </mo>
+                  <mi>
+                   s
+                  </mi>
+                  <mo>
+                   ×
+                   <!-- × -->
+                  </mo>
+                  <msup>
+                   <mn>
+                    10
+                   </mn>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mo>
+                     −
+                     <!-- − -->
+                    </mo>
+                    <mn>
+                     6
+                    </mn>
+                   </mrow>
+                  </msup>
+                  <mo stretchy="false">
+                   )
+                  </mo>
+                  <mo>
+                   ⋅
+                   <!-- ⋅ -->
+                  </mo>
+                  <mo stretchy="false">
+                   (
+                  </mo>
+                  <mo>
+                   −
+                   <!-- − -->
+                  </mo>
+                  <msub>
+                   <mi>
+                    r
+                   </mi>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mi>
+                     y
+                    </mi>
+                   </mrow>
+                  </msub>
+                  <mo>
+                   ⋅
+                   <!-- ⋅ -->
+                  </mo>
+                  <msub>
+                   <mi>
+                    X
+                   </mi>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mi>
+                     A
+                    </mi>
+                   </mrow>
+                  </msub>
+                  <mo>
+                   +
+                  </mo>
+                  <msub>
+                   <mi>
+                    r
+                   </mi>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mi>
+                     x
+                    </mi>
+                   </mrow>
+                  </msub>
+                  <mo>
+                   ⋅
+                   <!-- ⋅ -->
+                  </mo>
+                  <msub>
+                   <mi>
+                    Y
+                   </mi>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mi>
+                     A
+                    </mi>
+                   </mrow>
+                  </msub>
+                  <mo>
+                   +
+                  </mo>
+                  <msub>
+                   <mi>
+                    Z
+                   </mi>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mi>
+                     A
+                    </mi>
+                   </mrow>
+                  </msub>
+                  <mo stretchy="false">
+                   )
+                  </mo>
+                  <mo>
+                   .
+                  </mo>
+                 </mtd>
+                </mtr>
+               </mtable>
+              </mrow>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle {\begin{matrix}X_{B}&amp;=&amp;c_{x}+(1+s\times 10^{-6})\cdot (X_{A}-r_{z}\cdot Y_{A}+r_{y}\cdot Z_{A})\\Y_{B}&amp;=&amp;c_{y}+(1+s\times 10^{-6})\cdot (r_{z}\cdot X_{A}+Y_{A}-r_{x}\cdot Z_{A})\\Z_{B}&amp;=&amp;c_{z}+(1+s\times 10^{-6})\cdot (-r_{y}\cdot X_{A}+r_{x}\cdot Y_{A}+Z_{A}).\\\end{matrix}}}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="{\displaystyle {\begin{matrix}X_{B}&amp;=&amp;c_{x}+(1+s\times 10^{-6})\cdot (X_{A}-r_{z}\cdot Y_{A}+r_{y}\cdot Z_{A})\\Y_{B}&amp;=&amp;c_{y}+(1+s\times 10^{-6})\cdot (r_{z}\cdot X_{A}+Y_{A}-r_{x}\cdot Z_{A})\\Z_{B}&amp;=&amp;c_{z}+(1+s\times 10^{-6})\cdot (-r_{y}\cdot X_{A}+r_{x}\cdot Y_{A}+Z_{A}).\\\end{matrix}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9eaf9ddd020e0f0fda1b93b7d24ddf2479ba1297" style="vertical-align: -4.394ex; margin-bottom: -0.277ex; width:58.417ex; height:10.509ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       For the reverse transformation, each element is multiplied by -1.
+      </p>
+      <p>
+       The seven parameters are determined for each region with three or more "identical points" of both systems. To bring them into agreement, the small inconsistencies (usually only a few cm) are
+       <a href="/wiki/Least_squares_adjustment" title="Least squares adjustment">
+        adjusted
+       </a>
+       using the method of
+       <a href="/wiki/Least_squares" title="Least squares">
+        least squares
+       </a>
+       – that is, eliminated in a statistically plausible manner.
+      </p>
+      <h3>
+       <span class="mw-headline" id="Standard_parameters">
+        Standard parameters
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Helmert_transformation&amp;action=edit&amp;section=5" title="Edit section: Standard parameters">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       <b>
+        Note that the rotation angles given in the table are in
+        <a class="mw-redirect" href="/wiki/Arcsecond" title="Arcsecond">
+         seconds
+        </a>
+        and must be converted to
+        <a href="/wiki/Radian" title="Radian">
+         radians
+        </a>
+        before use in the calculation.
+       </b>
+      </p>
+      <table class="wikitable">
+       <tr>
+        <th>
+         Region
+        </th>
+        <th>
+         Start datum
+        </th>
+        <th>
+         Target datum
+        </th>
+        <th>
+         <span class="mwe-math-element">
+          <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+           <math alttext="{\displaystyle c_{x}}" xmlns="http://www.w3.org/1998/Math/MathML">
+            <semantics>
+             <mrow class="MJX-TeXAtom-ORD">
+              <mstyle displaystyle="true" scriptlevel="0">
+               <msub>
+                <mi>
+                 c
+                </mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                 <mi>
+                  x
+                 </mi>
+                </mrow>
+               </msub>
+              </mstyle>
+             </mrow>
+             <annotation encoding="application/x-tex">
+              {\displaystyle c_{x}}
+             </annotation>
+            </semantics>
+           </math>
+          </span>
+          <img alt="c_{x}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fb6e0397e797e2cde37718a8e2b2e0fad6252c8a" style="vertical-align: -0.671ex; width:2.179ex; height:2.009ex;"/>
+         </span>
+         (
+         <a href="/wiki/Metre" title="Metre">
+          Metre
+         </a>
+         )
+        </th>
+        <th>
+         <span class="mwe-math-element">
+          <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+           <math alttext="{\displaystyle c_{y}}" xmlns="http://www.w3.org/1998/Math/MathML">
+            <semantics>
+             <mrow class="MJX-TeXAtom-ORD">
+              <mstyle displaystyle="true" scriptlevel="0">
+               <msub>
+                <mi>
+                 c
+                </mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                 <mi>
+                  y
+                 </mi>
+                </mrow>
+               </msub>
+              </mstyle>
+             </mrow>
+             <annotation encoding="application/x-tex">
+              {\displaystyle c_{y}}
+             </annotation>
+            </semantics>
+           </math>
+          </span>
+          <img alt="c_{y}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/27012b7608c1ba3eec3d05e5eaa236bbd5399f5f" style="vertical-align: -1.005ex; width:2.056ex; height:2.343ex;"/>
+         </span>
+         (Metre)
+        </th>
+        <th>
+         <span class="mwe-math-element">
+          <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+           <math alttext="{\displaystyle c_{z}}" xmlns="http://www.w3.org/1998/Math/MathML">
+            <semantics>
+             <mrow class="MJX-TeXAtom-ORD">
+              <mstyle displaystyle="true" scriptlevel="0">
+               <msub>
+                <mi>
+                 c
+                </mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                 <mi>
+                  z
+                 </mi>
+                </mrow>
+               </msub>
+              </mstyle>
+             </mrow>
+             <annotation encoding="application/x-tex">
+              {\displaystyle c_{z}}
+             </annotation>
+            </semantics>
+           </math>
+          </span>
+          <img alt="c_{z}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/10e85ff3cb3336c8880d9c12fb86747b433f6bb6" style="vertical-align: -0.671ex; width:2.009ex; height:2.009ex;"/>
+         </span>
+         (Metre)
+        </th>
+        <th>
+         s (
+         <a class="mw-redirect" href="/wiki/Parts_per_million" title="Parts per million">
+          ppm
+         </a>
+         )
+        </th>
+        <th>
+         r
+         <sub>
+          x
+         </sub>
+         (
+         <a class="mw-redirect" href="/wiki/Arcsecond" title="Arcsecond">
+          Arcsecond
+         </a>
+         )
+        </th>
+        <th>
+         r
+         <sub>
+          y
+         </sub>
+         (
+         <a class="mw-redirect" href="/wiki/Arcsecond" title="Arcsecond">
+          Arcsecond
+         </a>
+         )
+        </th>
+        <th>
+         r
+         <sub>
+          z
+         </sub>
+         (
+         <a class="mw-redirect" href="/wiki/Arcsecond" title="Arcsecond">
+          Arcsecond
+         </a>
+         )
+        </th>
+       </tr>
+       <tr>
+        <td>
+         <a class="new" href="/w/index.php?title=Slovenia_ETRS89&amp;action=edit&amp;redlink=1" title="Slovenia ETRS89 (page does not exist)">
+          Slovenia ETRS89
+         </a>
+        </td>
+        <td>
+         D48
+        </td>
+        <td>
+         <a class="new" href="/w/index.php?title=D96_(datum)&amp;action=edit&amp;redlink=1" title="D96 (datum) (page does not exist)">
+          D96
+         </a>
+        </td>
+        <td>
+         409.545
+        </td>
+        <td>
+         72.164
+        </td>
+        <td>
+         486.872
+        </td>
+        <td>
+         17.919665
+        </td>
+        <td>
+         −3.085957
+        </td>
+        <td>
+         −5.469110
+        </td>
+        <td>
+         11.020289
+        </td>
+       </tr>
+       <tr>
+        <td>
+         England, Scotland,
+         <a href="/wiki/Wales" title="Wales">
+          Wales
+         </a>
+        </td>
+        <td>
+         <a class="mw-redirect" href="/wiki/WGS84" title="WGS84">
+          WGS84
+         </a>
+        </td>
+        <td>
+         <a class="mw-redirect" href="/wiki/OSGB36" title="OSGB36">
+          OSGB36
+         </a>
+         <sup class="reference" id="cite_ref-OSguide_2-0">
+          <a href="#cite_note-OSguide-2">
+           [2]
+          </a>
+         </sup>
+        </td>
+        <td>
+         −446.448
+        </td>
+        <td>
+         125.157
+        </td>
+        <td>
+         −542.06
+        </td>
+        <td>
+         20.4894
+        </td>
+        <td>
+         −0.1502
+        </td>
+        <td>
+         −0.247
+        </td>
+        <td>
+         −0.8421
+        </td>
+       </tr>
+       <tr>
+        <td>
+         Ireland
+        </td>
+        <td>
+         <a class="mw-redirect" href="/wiki/WGS84" title="WGS84">
+          WGS84
+         </a>
+        </td>
+        <td>
+         Ireland 1965
+        </td>
+        <td>
+         −482.53
+        </td>
+        <td>
+         130.596
+        </td>
+        <td>
+         −564.557
+        </td>
+        <td>
+         −8.15
+        </td>
+        <td>
+         1.042
+        </td>
+        <td>
+         0.214
+        </td>
+        <td>
+         0.631
+        </td>
+       </tr>
+       <tr>
+        <td>
+         Germany
+        </td>
+        <td>
+         <a class="mw-redirect" href="/wiki/WGS84" title="WGS84">
+          WGS84
+         </a>
+        </td>
+        <td>
+         <a class="new" href="/w/index.php?title=Deutsches_Hauptdreiecksnetz&amp;action=edit&amp;redlink=1" title="Deutsches Hauptdreiecksnetz (page does not exist)">
+          DHDN
+         </a>
+        </td>
+        <td>
+         −591.28
+        </td>
+        <td>
+         −81.35
+        </td>
+        <td>
+         −396.39
+        </td>
+        <td>
+         −9.82
+        </td>
+        <td>
+         1.4770
+        </td>
+        <td>
+         −0.0736
+        </td>
+        <td>
+         −1.4580
+        </td>
+       </tr>
+       <tr>
+        <td>
+         Germany
+        </td>
+        <td>
+         <a class="mw-redirect" href="/wiki/WGS84" title="WGS84">
+          WGS84
+         </a>
+        </td>
+        <td>
+         <a href="/wiki/Bessel_ellipsoid" title="Bessel ellipsoid">
+          Bessel 1841
+         </a>
+        </td>
+        <td>
+         −582
+        </td>
+        <td>
+         −105
+        </td>
+        <td>
+         −414
+        </td>
+        <td>
+         −8.3
+        </td>
+        <td>
+         −1.04
+        </td>
+        <td>
+         −0.35
+        </td>
+        <td>
+         3.08
+        </td>
+       </tr>
+       <tr>
+        <td>
+         Germany
+        </td>
+        <td>
+         <a class="mw-redirect" href="/wiki/WGS84" title="WGS84">
+          WGS84
+         </a>
+        </td>
+        <td>
+         Krassovski 1940
+        </td>
+        <td>
+         −24
+        </td>
+        <td>
+         123
+        </td>
+        <td>
+         94
+        </td>
+        <td>
+         −1.1
+        </td>
+        <td>
+         −0.02
+        </td>
+        <td>
+         0.26
+        </td>
+        <td>
+         0.13
+        </td>
+       </tr>
+       <tr>
+        <td>
+         Austria (BEV)
+        </td>
+        <td>
+         <a class="mw-redirect" href="/wiki/WGS84" title="WGS84">
+          WGS84
+         </a>
+        </td>
+        <td>
+         <a class="new" href="/w/index.php?title=Datum_Austria&amp;action=edit&amp;redlink=1" title="Datum Austria (page does not exist)">
+          MGI
+         </a>
+        </td>
+        <td>
+         −577.326
+        </td>
+        <td>
+         −90.129
+        </td>
+        <td>
+         −463.920
+        </td>
+        <td>
+         −2.423
+        </td>
+        <td>
+         5.137
+        </td>
+        <td>
+         1.474
+        </td>
+        <td>
+         5.297
+        </td>
+       </tr>
+       <tr>
+        <td>
+         United States
+        </td>
+        <td>
+         <a class="mw-redirect" href="/wiki/WGS84" title="WGS84">
+          WGS84
+         </a>
+        </td>
+        <td>
+         <a href="/wiki/North_American_Datum#First_North_American_Datum" title="North American Datum">
+          Clarke 1866
+         </a>
+        </td>
+        <td>
+         8
+        </td>
+        <td>
+         −160
+        </td>
+        <td>
+         −176
+        </td>
+        <td>
+         0
+        </td>
+        <td>
+         0
+        </td>
+        <td>
+         0
+        </td>
+        <td>
+         0
+        </td>
+       </tr>
+      </table>
+      <p>
+       These are standard parameter sets for the 7-parameter transformation (or data transformation) between two ellipsoids. For a transformation in the opposite direction, the signs of all the parameters must be changed. The translations
+       <i>
+        c
+       </i>
+       <sub>
+        <i>
+         x
+        </i>
+       </sub>
+       ,
+       <i>
+        c
+       </i>
+       <sub>
+        <i>
+         y
+        </i>
+       </sub>
+       ,
+       <i>
+        c
+       </i>
+       <sub>
+        <i>
+         z
+        </i>
+       </sub>
+       are sometimes described as
+       <i>
+        t
+       </i>
+       <sub>
+        <i>
+         x
+        </i>
+       </sub>
+       ,
+       <i>
+        t
+       </i>
+       <sub>
+        <i>
+         y
+        </i>
+       </sub>
+       ,
+       <i>
+        t
+       </i>
+       <sub>
+        <i>
+         z
+        </i>
+       </sub>
+       , or
+       <i>
+        dx
+       </i>
+       ,
+       <i>
+        dy
+       </i>
+       ,
+       <i>
+        dz
+       </i>
+       . The rotations
+       <i>
+        r
+       </i>
+       <sub>
+        <i>
+         x
+        </i>
+       </sub>
+       ,
+       <i>
+        r
+       </i>
+       <sub>
+        <i>
+         y
+        </i>
+       </sub>
+       , and
+       <i>
+        r
+       </i>
+       <sub>
+        <i>
+         z
+        </i>
+       </sub>
+       are sometimes also described as
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle \omega }" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              ω
+              <!-- ω -->
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle \omega }
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="\omega " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/48eff443f9de7a985bb94ca3bde20813ea737be8" style="vertical-align: -0.338ex; width:1.446ex; height:1.676ex;"/>
+       </span>
+       ,
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle \phi }" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              ϕ
+              <!-- ϕ -->
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle \phi }
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="\phi " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/72b1f30316670aee6270a28334bdf4f5072cdde4" style="vertical-align: -0.671ex; width:1.385ex; height:2.509ex;"/>
+       </span>
+       and
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle \kappa }" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              κ
+              <!-- κ -->
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle \kappa }
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="\kappa " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/54ddec2e922c5caea4e47d04feef86e782dc8e6d" style="vertical-align: -0.338ex; width:1.339ex; height:1.676ex;"/>
+       </span>
+       . In the United Kingdom the prime interest is the transformation between the OSGB36 datum used by the Ordnance survey for Grid References on its Landranger and Explorer maps to the WGS84 implementation used by GPS technology. The
+       <a href="/wiki/Gauss%E2%80%93Kr%C3%BCger_coordinate_system" title="Gauss–Krüger coordinate system">
+        Gauss–Krüger coordinate system
+       </a>
+       used in Germany normally refers to the
+       <a href="/wiki/Friedrich_Bessel" title="Friedrich Bessel">
+        Bessel
+       </a>
+       ellipsoid. A further datum of interest was
+       <a href="/wiki/ED50" title="ED50">
+        ED50
+       </a>
+       (European Datum 1950) based on the
+       <a href="/wiki/Hayford_ellipsoid" title="Hayford ellipsoid">
+        Hayford ellipsoid
+       </a>
+       . ED50 was part of the fundamentals of the
+       <a href="/wiki/NATO" title="NATO">
+        NATO
+       </a>
+       coordinates up to the 1980s, and many national coordinate systems of Gauss–Krüger are defined by ED50.
+      </p>
+      <p>
+       The earth does not have a perfect ellipsoidal shape, but is described as a
+       <a href="/wiki/Geoid" title="Geoid">
+        geoid
+       </a>
+       . Instead, the geoid of the earth is described by many ellipsoids. Depending upon the actual location, the "locally best aligned ellipsoid" has been used for surveying and mapping purposes. The standard parameter set gives an accuracy of about 7 m for an OSGB36/WGS84 transformation. This is not precise enough for surveying, and the Ordnance Survey supplements these results by using a lookup table of further translations in order to reach 1 cm accuracy.
+      </p>
+      <h2>
+       <span class="mw-headline" id="Calculating_the_parameters">
+        Calculating the parameters
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Helmert_transformation&amp;action=edit&amp;section=6" title="Edit section: Calculating the parameters">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       If the transformation parameters are unknown, they can be calculated with reference points (that is, points whose coordinates are known before and after the transformation. Since a total of seven parameters (three translations, one scale, three rotations) have to be determined, at least two points and one coordinate of a third point (for example, the Z-coordinate) must be known. This gives a
+       <a href="/wiki/System_of_linear_equations" title="System of linear equations">
+        system of linear equations
+       </a>
+       with seven equations and seven unknowns, which can be solved.
+      </p>
+      <p>
+       In practice, it is best to use more points. Through this correspondence, more accuracy is obtained, and a statistical assessment of the results becomes possible. In this case, the calculation is adjusted with the Gaussian
+       <a href="/wiki/Least_squares" title="Least squares">
+        least squares
+       </a>
+       method.
+      </p>
+      <p>
+       A numerical value for the accuracy of the transformation parameters is obtained by calculating the values at the reference points, and weighting the results relative to the
+       <a href="/wiki/Centroid" title="Centroid">
+        centroid
+       </a>
+       of the points.
+      </p>
+      <p>
+       While the method is mathematically rigorous, it is entirely dependent on the rigour of the parameters that are used. In practice, these parameters are computed from the inclusion of at least three known points in the networks. However the accuracy of these will affect the following transformation parameters, as these points will contain observation errors. Therefore, a "real-world" transformation will only be a best estimate and should contain a statistical measure of its quality.
+      </p>
+      <h2>
+       <span class="mw-headline" id="See_also">
+        See also
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Helmert_transformation&amp;action=edit&amp;section=7" title="Edit section: See also">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a href="/wiki/Galileo_(satellite_navigation)" title="Galileo (satellite navigation)">
+         Galileo (satellite navigation)
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Geographic_coordinate_conversion" title="Geographic coordinate conversion">
+         Geographic coordinate conversion
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Global_Positioning_System" title="Global Positioning System">
+         Global Positioning System
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Surveying" title="Surveying">
+         Surveying
+        </a>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="References">
+        References
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Helmert_transformation&amp;action=edit&amp;section=8" title="Edit section: References">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="reflist" style="list-style-type: decimal;">
+       <div class="mw-references-wrap">
+        <ol class="references">
+         <li id="cite_note-1">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-1">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           Datum Transformation Equations
+           <a class="external free" href="http://www.linz.govt.nz/geodetic/conversion-coordinates/geodetic-datum-conversion/datum-transformation-equations/index.aspx" rel="nofollow">
+            http://www.linz.govt.nz/geodetic/conversion-coordinates/geodetic-datum-conversion/datum-transformation-equations/index.aspx
+           </a>
+          </span>
+         </li>
+         <li id="cite_note-OSguide-2">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-OSguide_2-0">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           A guide to coordinate systems in Great Britain v1.7 October 2007 D00659 Ordnance Survey
+          </span>
+         </li>
+        </ol>
+       </div>
+      </div>
+      <h2>
+       <span class="mw-headline" id="External_links">
+        External links
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Helmert_transformation&amp;action=edit&amp;section=9" title="Edit section: External links">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a class="external free" href="http://www.w-volk.de/museum/mathex02.htm" rel="nofollow">
+         http://www.w-volk.de/museum/mathex02.htm
+        </a>
+       </li>
+       <li>
+        <a class="external free" href="https://www.webcitation.org/query?url=http://www.geocities.com/mapref/savpub/savpub-23.htm%23item40&amp;date=2009-10-26+02:12:14" rel="nofollow">
+         https://www.webcitation.org/query?url=http://www.geocities.com/mapref/savpub/savpub-23.htm%23item40&amp;date=2009-10-26+02:12:14
+        </a>
+        (Geometry for data exchange)
+       </li>
+       <li>
+        <a class="external free" href="http://www.mapref.org/" rel="nofollow">
+         http://www.mapref.org/
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://trafostar.com" rel="nofollow">
+         TrafoStar
+        </a>
+        flexible 3D BestFit Transformations with: 3 Translations, 3 Rotations, 3 Scales, 3 Affine Parameters
+       </li>
+       <li>
+        <a class="external text" href="http://www.maths.dundee.ac.uk/gawatson/helmertrev.pdf" rel="nofollow">
+         Computing Helmert Transformations
+        </a>
+       </li>
+      </ul>
+      <!-- 
+NewPP limit report
+Parsed by mw1268
+Cached time: 20180120002816
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.088 seconds
+Real time usage: 0.212 seconds
+Preprocessor visited node count: 351/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 898/2097152 bytes
+Template argument size: 210/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 1/500
+Lua time usage: 0.007/10.000 seconds
+Lua memory usage: 639 KB/50 MB
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   53.687      1 -total
+ 52.64%   28.263      1 Template:Use_dmy_dates
+ 47.20%   25.339      1 Template:Reflist
+ 42.08%   22.594      1 Template:DMCA
+ 37.50%   20.134      1 Template:Dated_maintenance_category
+ 30.95%   16.618      1 Template:FULLROOTPAGENAME
+ 25.83%   13.866      1 Template:Ns_has_subpages
+  4.38%    2.353      1 Template:Main_other
+-->
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:15318324-0!canonical!math=5 and timestamp 20180120002815 and revision id 817486870
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Helmert_transformation&amp;oldid=817486870">
+      https://en.wikipedia.org/w/index.php?title=Helmert_transformation&amp;oldid=817486870
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Geodesy" title="Category:Geodesy">
+         Geodesy
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Transformation_(function)" title="Category:Transformation (function)">
+         Transformation (function)
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:Use_dmy_dates_from_September_2010" title="Category:Use dmy dates from September 2010">
+         Use dmy dates from September 2010
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Helmert+transformation" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Helmert+transformation" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Helmert_transformation" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Helmert_transformation" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="collapsible selected" id="ca-view">
+        <span>
+         <a href="/wiki/Helmert_transformation">
+          Read
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Helmert_transformation&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Helmert_transformation&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Helmert_transformation" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Helmert_transformation" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Helmert_transformation&amp;oldid=817486870" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Helmert_transformation&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q360886" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Helmert_transformation&amp;id=817486870" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Helmert+transformation">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Helmert+transformation&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Helmert_transformation&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Helmert-Transformation" hreflang="de" lang="de" title="Helmert-Transformation – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Transformation_de_Helmert" hreflang="fr" lang="fr" title="Transformation de Helmert – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E8%B5%AB%E5%B0%94%E9%BB%98%E7%89%B9%E8%BD%AC%E6%8D%A2" hreflang="zh" lang="zh" title="赫尔默特转换 – Chinese">
+         中文
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q360886#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 28 December 2017, at 18:30.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Helmert_transformation&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.088","walltime":"0.212","ppvisitednodes":{"value":351,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":898,"limit":2097152},"templateargumentsize":{"value":210,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   53.687      1 -total"," 52.64%   28.263      1 Template:Use_dmy_dates"," 47.20%   25.339      1 Template:Reflist"," 42.08%   22.594      1 Template:DMCA"," 37.50%   20.134      1 Template:Dated_maintenance_category"," 30.95%   16.618      1 Template:FULLROOTPAGENAME"," 25.83%   13.866      1 Template:Ns_has_subpages","  4.38%    2.353      1 Template:Main_other"]},"scribunto":{"limitreport-timeusage":{"value":"0.007","limit":"10.000"},"limitreport-memusage":{"value":654527,"limit":52428800}},"cachereport":{"origin":"mw1268","timestamp":"20180120002816","ttl":1900800,"transientcontent":false}}});});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":76,"wgHostname":"mw1268"});});
+  </script>
+ </body>
+</html>

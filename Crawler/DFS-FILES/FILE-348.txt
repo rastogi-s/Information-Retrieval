@@ -1,0 +1,7416 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Glottolog - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Glottolog","wgTitle":"Glottolog","wgCurRevisionId":823413939,"wgRevisionId":823413939,"wgArticleId":42229472,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with peacock terms from June 2014","All articles with peacock terms","Linguistics websites","Language families","Bibliographic databases and indexes"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Glottolog","wgRelevantArticleId":42229472,"wgRequestId":"WnKALQpAICkAAEdXkEcAAABJ","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q17165062","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","jquery.tablesorter","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.31.0-wmf.17" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Glottolog" rel="alternate"/>
+  <link href="/w/index.php?title=Glottolog&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Glottolog&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/Glottolog" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Glottolog rootpage-Glottolog skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    <i>
+     Glottolog
+    </i>
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <table class="plainlinks metadata ambox ambox-content ambox-peacock" role="presentation">
+       <tr>
+        <td class="mbox-image">
+         <div style="width:52px">
+          <img alt="" data-file-height="40" data-file-width="40" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" width="40"/>
+         </div>
+        </td>
+        <td class="mbox-text">
+         <div class="mbox-text-span">
+          This article contains wording that
+          <b>
+           <a href="/wiki/Wikipedia:Manual_of_Style/Words_to_watch#Puffery" title="Wikipedia:Manual of Style/Words to watch">
+            promotes the subject in a subjective manner
+           </a>
+           without imparting real information
+          </b>
+          .
+          <span class="hide-when-compact">
+           Please remove or replace such wording and instead of making proclamations about a subject's importance, use facts and attribution to demonstrate that importance.
+          </span>
+          <small>
+           <i>
+            (June 2014)
+           </i>
+          </small>
+          <small class="hide-when-compact">
+           <i>
+            (
+            <a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">
+             Learn how and when to remove this template message
+            </a>
+            )
+           </i>
+          </small>
+         </div>
+        </td>
+       </tr>
+      </table>
+      <p>
+       <i>
+        <b>
+         Glottolog
+        </b>
+       </i>
+       is a
+       <a class="mw-redirect" href="/wiki/Bibliographic" title="Bibliographic">
+        bibliographic
+       </a>
+       database of the world's lesser-known languages, developed and maintained first at the former
+       <a href="/wiki/Max_Planck_Institute_for_Evolutionary_Anthropology" title="Max Planck Institute for Evolutionary Anthropology">
+        Max Planck Institute for Evolutionary Anthropology
+       </a>
+       in
+       <a href="/wiki/Leipzig" title="Leipzig">
+        Leipzig
+       </a>
+       , Germany, and since 2015 at the new
+       <a href="/wiki/Max_Planck_Institute_for_the_Science_of_Human_History" title="Max Planck Institute for the Science of Human History">
+        Max Planck Institute for the Science of Human History
+       </a>
+       in
+       <a href="/wiki/Jena" title="Jena">
+        Jena
+       </a>
+       , Germany. In addition to the languoid catalogue (the catalog of the world's languages and language families), Glottolog provides a comprehensive bibliography on the world's smaller languages. It differs from the similar catalogue
+       <i>
+        <a href="/wiki/Ethnologue" title="Ethnologue">
+         Ethnologue
+        </a>
+       </i>
+       in several ways, in that it attempts only to accept languages which the editors have been able to confirm both exist and are distinct (varieties which have not been confirmed, but are inherited from another source, are tagged as "spurious" or "unattested");
+       <sup class="reference" id="cite_ref-1">
+        <a href="#cite_note-1">
+         [1]
+        </a>
+       </sup>
+       it attempts only to classify languages into families which have been demonstrated to be valid; extensive bibliographic information is provided, especially for lesser-known languages; and, to a limited extent, alternative names are listed according to the sources which use them. The language names used in the bibliographic entries are identified by ISO 639-3 code or Glottolog's own code (Glottocode); this is an area of ongoing expansion.
+       <i>
+        Glottolog
+       </i>
+       differs in several negative ways as well: Notably, apart from a single point-location on a map at its geographic center, no ethnographic or demographic information is provided. External links are provided to ISO,
+       <i>
+        Ethnologue
+       </i>
+       , and other online language databases.
+      </p>
+      <p>
+       Edition 2.2 was published online in 2013, and licensed under a
+       <a class="mw-redirect" href="/wiki/Creative_Commons_Attribution-Sharealike_3.0_Unported_License" title="Creative Commons Attribution-Sharealike 3.0 Unported License">
+        Creative Commons Attribution-Sharealike 3.0 Unported License
+       </a>
+       . Edition 2.4 was published in 2015, and edition 3.0 in 2017.
+      </p>
+      <p>
+      </p>
+      <div class="toc" id="toc">
+       <div class="toctitle" dir="ltr" lang="en" xml:lang="en">
+        <h2>
+         Contents
+        </h2>
+       </div>
+       <ul>
+        <li class="toclevel-1 tocsection-1">
+         <a href="#Language_families">
+          <span class="tocnumber">
+           1
+          </span>
+          <span class="toctext">
+           Language families
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-2">
+         <a href="#References">
+          <span class="tocnumber">
+           2
+          </span>
+          <span class="toctext">
+           References
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-3">
+         <a href="#External_links">
+          <span class="tocnumber">
+           3
+          </span>
+          <span class="toctext">
+           External links
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <p>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Language_families">
+        Language families
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Glottolog&amp;action=edit&amp;section=1" title="Edit section: Language families">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       <i>
+        Glottolog
+       </i>
+       is more conservative in its classification than most online databases in establishing membership of languages and groups within families, but more liberal in considering unclassified languages to be isolates. Edition 2.4 lists 425 oral-language families, including isolates, and 75 sign-language families and isolates,
+       <sup class="reference" id="cite_ref-2">
+        <a href="#cite_note-2">
+         [2]
+        </a>
+       </sup>
+       as follows.
+      </p>
+      <table class="wikitable sortable">
+       <tr>
+        <th>
+         Name
+        </th>
+        <th>
+         Region
+         <sup class="reference" id="cite_ref-3">
+          <a href="#cite_note-3">
+           [3]
+          </a>
+         </sup>
+        </th>
+        <th>
+         Languages
+        </th>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Atlantic-Congo_languages" title="Atlantic-Congo languages">
+          Atlantic-Congo
+         </a>
+        </td>
+        <td>
+         Africa, North America
+        </td>
+        <td>
+         1432
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Austronesian_languages" title="Austronesian languages">
+          Austronesian
+         </a>
+        </td>
+        <td>
+         Africa, Eurasia,
+         <a href="/wiki/Oceania" title="Oceania">
+          Oceania
+         </a>
+         , South America
+        </td>
+        <td>
+         1276
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Indo-European_languages" title="Indo-European languages">
+          Indo-European
+         </a>
+        </td>
+        <td>
+         Africa, Australia, Eurasia, North America, Papunesia, South America
+        </td>
+        <td>
+         585
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Sino-Tibetan_languages" title="Sino-Tibetan languages">
+          Sino-Tibetan
+         </a>
+        </td>
+        <td>
+         Eurasia
+        </td>
+        <td>
+         472
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Afro-Asiatic_languages" title="Afro-Asiatic languages">
+          Afro-Asiatic
+         </a>
+        </td>
+        <td>
+         Africa, Eurasia
+        </td>
+        <td>
+         372
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Nuclear_Trans_New_Guinea_languages" title="Nuclear Trans New Guinea languages">
+          Nuclear Trans New Guinea
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         315
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Pama-Nyungan_languages" title="Pama-Nyungan languages">
+          Pama-Nyungan
+         </a>
+        </td>
+        <td>
+         Australia, Papunesia
+        </td>
+        <td>
+         240
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Otomanguean_languages" title="Otomanguean languages">
+          Otomanguean
+         </a>
+        </td>
+        <td>
+         North America
+        </td>
+        <td>
+         178
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Austroasiatic_languages" title="Austroasiatic languages">
+          Austroasiatic
+         </a>
+        </td>
+        <td>
+         Eurasia
+        </td>
+        <td>
+         164
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Tai-Kadai_languages" title="Tai-Kadai languages">
+          Tai-Kadai
+         </a>
+        </td>
+        <td>
+         Eurasia
+        </td>
+        <td>
+         96
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Dravidian_languages" title="Dravidian languages">
+          Dravidian
+         </a>
+        </td>
+        <td>
+         Eurasia
+        </td>
+        <td>
+         81
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Arawakan_languages" title="Arawakan languages">
+          Arawakan
+         </a>
+        </td>
+        <td>
+         North America, South America
+        </td>
+        <td>
+         76
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Mande_languages" title="Mande languages">
+          Mande
+         </a>
+        </td>
+        <td>
+         Africa
+        </td>
+        <td>
+         74
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Tupian_languages" title="Tupian languages">
+          Tupian
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         71
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Uto-Aztecan_languages" title="Uto-Aztecan languages">
+          Uto-Aztecan
+         </a>
+        </td>
+        <td>
+         North America
+        </td>
+        <td>
+         68
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Central_Sudanic_languages" title="Central Sudanic languages">
+          Central Sudanic
+         </a>
+        </td>
+        <td>
+         Africa
+        </td>
+        <td>
+         62
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Nuclear_Torricelli_languages" title="Nuclear Torricelli languages">
+          Nuclear Torricelli
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         55
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Nilotic_languages" title="Nilotic languages">
+          Nilotic
+         </a>
+        </td>
+        <td>
+         Africa
+        </td>
+        <td>
+         51
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Algic_languages" title="Algic languages">
+          Algic
+         </a>
+        </td>
+        <td>
+         North America
+        </td>
+        <td>
+         45
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Athapaskan-Eyak-Tlingit_languages" title="Athapaskan-Eyak-Tlingit languages">
+          Athapaskan-Eyak-Tlingit
+         </a>
+        </td>
+        <td>
+         North America
+        </td>
+        <td>
+         45
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Quechuan_languages" title="Quechuan languages">
+          Quechuan
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         45
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Cariban_languages" title="Cariban languages">
+          Cariban
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         44
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Turkic_languages" title="Turkic languages">
+          Turkic
+         </a>
+        </td>
+        <td>
+         Eurasia
+        </td>
+        <td>
+         44
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Uralic_languages" title="Uralic languages">
+          Uralic
+         </a>
+        </td>
+        <td>
+         Eurasia
+        </td>
+        <td>
+         44
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Hmong-Mien_languages" title="Hmong-Mien languages">
+          Hmong-Mien
+         </a>
+        </td>
+        <td>
+         Eurasia
+        </td>
+        <td>
+         39
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Panoan_languages" title="Panoan languages">
+          Panoan
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         38
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Sepik_languages" title="Sepik languages">
+          Sepik
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         36
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Mayan_languages" title="Mayan languages">
+          Mayan
+         </a>
+        </td>
+        <td>
+         North America
+        </td>
+        <td>
+         33
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Nuclear-Macro-Je_languages" title="Nuclear-Macro-Je languages">
+          Nuclear-Macro-Je
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         31
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Lower_Sepik-Ramu_languages" title="Lower Sepik-Ramu languages">
+          Lower Sepik-Ramu
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         30
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Nakh-Daghestanian_languages" title="Nakh-Daghestanian languages">
+          Nakh-Daghestanian
+         </a>
+        </td>
+        <td>
+         Eurasia
+        </td>
+        <td>
+         30
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Chibchan_languages" title="Chibchan languages">
+          Chibchan
+         </a>
+        </td>
+        <td>
+         North America, South America
+        </td>
+        <td>
+         27
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Tucanoan_languages" title="Tucanoan languages">
+          Tucanoan
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         26
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Salishan_languages" title="Salishan languages">
+          Salishan
+         </a>
+        </td>
+        <td>
+         North America
+        </td>
+        <td>
+         25
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Timor-Alor-Pantar_languages" title="Timor-Alor-Pantar languages">
+          Timor-Alor-Pantar
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         22
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Lakes_Plain_languages" title="Lakes Plain languages">
+          Lakes Plain
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         20
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Dogon_languages" title="Dogon languages">
+          Dogon
+         </a>
+        </td>
+        <td>
+         Africa
+        </td>
+        <td>
+         19
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Mixe-Zoque_languages" title="Mixe-Zoque languages">
+          Mixe-Zoque
+         </a>
+        </td>
+        <td>
+         North America
+        </td>
+        <td>
+         19
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Ta-Ne-Omotic_languages" title="Ta-Ne-Omotic languages">
+          Ta-Ne-Omotic
+         </a>
+        </td>
+        <td>
+         Africa
+        </td>
+        <td>
+         19
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Siouan_languages" title="Siouan languages">
+          Siouan
+         </a>
+        </td>
+        <td>
+         North America
+        </td>
+        <td>
+         18
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Morehead-Wasur_languages" title="Morehead-Wasur languages">
+          Morehead-Wasur
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         17
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Mongolic_languages" title="Mongolic languages">
+          Mongolic
+         </a>
+        </td>
+        <td>
+         Eurasia
+        </td>
+        <td>
+         16
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Border_languages" title="Border languages">
+          Border
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         15
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/North_Halmahera_languages" title="North Halmahera languages">
+          North Halmahera
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         15
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Japonic_languages" title="Japonic languages">
+          Japonic
+         </a>
+        </td>
+        <td>
+         Eurasia, Papunesia
+        </td>
+        <td>
+         14
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Khoe-Kwadi_languages" title="Khoe-Kwadi languages">
+          Khoe-Kwadi
+         </a>
+        </td>
+        <td>
+         Africa
+        </td>
+        <td>
+         14
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Angan_languages" title="Angan languages">
+          Angan
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         13
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Ndu_languages" title="Ndu languages">
+          Ndu
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         13
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Nubian_languages" title="Nubian languages">
+          Nubian
+         </a>
+        </td>
+        <td>
+         Africa
+        </td>
+        <td>
+         13
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Tor-Orya_languages" title="Tor-Orya languages">
+          Tor-Orya
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         13
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Chapacuran_languages" title="Chapacuran languages">
+          Chapacuran
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         12
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Eskimo-Aleut_languages" title="Eskimo-Aleut languages">
+          Eskimo-Aleut
+         </a>
+        </td>
+        <td>
+         Eurasia, North America
+        </td>
+        <td>
+         12
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Gunwinyguan_languages" title="Gunwinyguan languages">
+          Gunwinyguan
+         </a>
+        </td>
+        <td>
+         Australia
+        </td>
+        <td>
+         12
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Totonacan_languages" title="Totonacan languages">
+          Totonacan
+         </a>
+        </td>
+        <td>
+         North America
+        </td>
+        <td>
+         12
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Tungusic_languages" title="Tungusic languages">
+          Tungusic
+         </a>
+        </td>
+        <td>
+         Eurasia
+        </td>
+        <td>
+         12
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Iroquoian_languages" title="Iroquoian languages">
+          Iroquoian
+         </a>
+        </td>
+        <td>
+         North America
+        </td>
+        <td>
+         11
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Miwok-Costanoan_languages" title="Miwok-Costanoan languages">
+          Miwok-Costanoan
+         </a>
+        </td>
+        <td>
+         North America
+        </td>
+        <td>
+         11
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Western_Daly_languages" title="Western Daly languages">
+          Western Daly
+         </a>
+        </td>
+        <td>
+         Australia
+        </td>
+        <td>
+         11
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Worrorran_languages" title="Worrorran languages">
+          Worrorran
+         </a>
+        </td>
+        <td>
+         Australia
+        </td>
+        <td>
+         11
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Geelvink_Bay_languages" title="Geelvink Bay languages">
+          Geelvink Bay
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         10
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Great_Andamanese_languages" title="Great Andamanese languages">
+          Great Andamanese
+         </a>
+        </td>
+        <td>
+         Eurasia, Papunesia
+        </td>
+        <td>
+         10
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Heiban_languages" title="Heiban languages">
+          Heiban
+         </a>
+        </td>
+        <td>
+         Africa
+        </td>
+        <td>
+         10
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Ijoid_languages" title="Ijoid languages">
+          Ijoid
+         </a>
+        </td>
+        <td>
+         Africa
+        </td>
+        <td>
+         10
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Maban_languages" title="Maban languages">
+          Maban
+         </a>
+        </td>
+        <td>
+         Africa
+        </td>
+        <td>
+         10
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Nyulnyulan_languages" title="Nyulnyulan languages">
+          Nyulnyulan
+         </a>
+        </td>
+        <td>
+         Australia
+        </td>
+        <td>
+         10
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Saharan_languages" title="Saharan languages">
+          Saharan
+         </a>
+        </td>
+        <td>
+         Africa
+        </td>
+        <td>
+         10
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Songhay_languages" title="Songhay languages">
+          Songhay
+         </a>
+        </td>
+        <td>
+         Africa
+        </td>
+        <td>
+         10
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Surmic_languages" title="Surmic languages">
+          Surmic
+         </a>
+        </td>
+        <td>
+         Africa
+        </td>
+        <td>
+         10
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Chocoan_languages" title="Chocoan languages">
+          Chocoan
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         9
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Cochimi-Yuman_languages" title="Cochimi-Yuman languages">
+          Cochimi-Yuman
+         </a>
+        </td>
+        <td>
+         North America
+        </td>
+        <td>
+         9
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Dagan_languages" title="Dagan languages">
+          Dagan
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         9
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Sko_languages" title="Sko languages">
+          Sko
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         9
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/South_Bougainville_languages" title="South Bougainville languages">
+          South Bougainville
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         9
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Kiowa-Tanoan_languages" title="Kiowa-Tanoan languages">
+          Kiowa-Tanoan
+         </a>
+        </td>
+        <td>
+         North America
+        </td>
+        <td>
+         8
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Kwerbic_languages" title="Kwerbic languages">
+          Kwerbic
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         8
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Mailuan_languages" title="Mailuan languages">
+          Mailuan
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         8
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Narrow_Talodi_languages" title="Narrow Talodi languages">
+          Narrow Talodi
+         </a>
+        </td>
+        <td>
+         Africa
+        </td>
+        <td>
+         8
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Tuu_languages" title="Tuu languages">
+          Tuu
+         </a>
+        </td>
+        <td>
+         Africa
+        </td>
+        <td>
+         8
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Bosavi_languages" title="Bosavi languages">
+          Bosavi
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         7
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Daju_languages" title="Daju languages">
+          Daju
+         </a>
+        </td>
+        <td>
+         Africa
+        </td>
+        <td>
+         7
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Huitotoan_languages" title="Huitotoan languages">
+          Huitotoan
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         7
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Inland_Gulf_languages" title="Inland Gulf languages">
+          Inland Gulf
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         7
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Koiarian_languages" title="Koiarian languages">
+          Koiarian
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         7
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Matacoan_languages" title="Matacoan languages">
+          Matacoan
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         7
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Muskogean_languages" title="Muskogean languages">
+          Muskogean
+         </a>
+        </td>
+        <td>
+         North America
+        </td>
+        <td>
+         7
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Pomoan_languages" title="Pomoan languages">
+          Pomoan
+         </a>
+        </td>
+        <td>
+         North America
+        </td>
+        <td>
+         7
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Tacanan_languages" title="Tacanan languages">
+          Tacanan
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         7
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Arawan_languages" title="Arawan languages">
+          Arawan
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         6
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Baining_languages" title="Baining languages">
+          Baining
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         6
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Barbacoan_languages" title="Barbacoan languages">
+          Barbacoan
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         6
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Chumashan_languages" title="Chumashan languages">
+          Chumashan
+         </a>
+        </td>
+        <td>
+         North America
+        </td>
+        <td>
+         6
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/East_Strickland_languages" title="East Strickland languages">
+          East Strickland
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         6
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Goilalan_languages" title="Goilalan languages">
+          Goilalan
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         6
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Kadugli-Krongo_languages" title="Kadugli-Krongo languages">
+          Kadugli-Krongo
+         </a>
+        </td>
+        <td>
+         Africa
+        </td>
+        <td>
+         6
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Kartvelian_languages" title="Kartvelian languages">
+          Kartvelian
+         </a>
+        </td>
+        <td>
+         Eurasia
+        </td>
+        <td>
+         6
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Kiwaian_languages" title="Kiwaian languages">
+          Kiwaian
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         6
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Kxa_languages" title="Kxa languages">
+          Kxa
+         </a>
+        </td>
+        <td>
+         Africa
+        </td>
+        <td>
+         6
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Left_May_languages" title="Left May languages">
+          Left May
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         6
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Marind_languages" title="Marind languages">
+          Marind
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         6
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Nambiquaran_languages" title="Nambiquaran languages">
+          Nambiquaran
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         6
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/South_Bird%27s_Head_Family" title="South Bird's Head Family">
+          South Bird's Head Family
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         6
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Wakashan_languages" title="Wakashan languages">
+          Wakashan
+         </a>
+        </td>
+        <td>
+         North America
+        </td>
+        <td>
+         6
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Yeniseian_languages" title="Yeniseian languages">
+          Yeniseian
+         </a>
+        </td>
+        <td>
+         Eurasia
+        </td>
+        <td>
+         6
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Zaparoan_languages" title="Zaparoan languages">
+          Zaparoan
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         6
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Abkhaz-Adyge_languages" title="Abkhaz-Adyge languages">
+          Abkhaz-Adyge
+         </a>
+        </td>
+        <td>
+         Eurasia
+        </td>
+        <td>
+         5
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Caddoan_languages" title="Caddoan languages">
+          Caddoan
+         </a>
+        </td>
+        <td>
+         North America
+        </td>
+        <td>
+         5
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Chukotko-Kamchatkan_languages" title="Chukotko-Kamchatkan languages">
+          Chukotko-Kamchatkan
+         </a>
+        </td>
+        <td>
+         Eurasia
+        </td>
+        <td>
+         5
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Guahibo_languages" title="Guahibo languages">
+          Guahibo
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         5
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Guaicuruan_languages" title="Guaicuruan languages">
+          Guaicuruan
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         5
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Lengua-Mascoy_languages" title="Lengua-Mascoy languages">
+          Lengua-Mascoy
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         5
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Mirndi_languages" title="Mirndi languages">
+          Mirndi
+         </a>
+        </td>
+        <td>
+         Australia
+        </td>
+        <td>
+         5
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Misumalpan_languages" title="Misumalpan languages">
+          Misumalpan
+         </a>
+        </td>
+        <td>
+         North America
+        </td>
+        <td>
+         5
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Nimboran_languages" title="Nimboran languages">
+          Nimboran
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         5
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Nuclear_Eleman_languages" title="Nuclear Eleman languages">
+          Nuclear Eleman
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         5
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Pauwasi_languages" title="Pauwasi languages">
+          Pauwasi
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         5
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Sahaptian_languages" title="Sahaptian languages">
+          Sahaptian
+         </a>
+        </td>
+        <td>
+         North America
+        </td>
+        <td>
+         5
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/South_Omotic_languages" title="South Omotic languages">
+          South Omotic
+         </a>
+        </td>
+        <td>
+         Africa
+        </td>
+        <td>
+         5
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Tirio_languages" title="Tirio languages">
+          Tirio
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         5
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/West_Bird%27s_Head_languages" title="West Bird's Head languages">
+          West Bird's Head
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         5
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Xincan_languages" title="Xincan languages">
+          Xincan
+         </a>
+        </td>
+        <td>
+         North America
+        </td>
+        <td>
+         5
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Yanomam_languages" title="Yanomam languages">
+          Yanomam
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         5
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Yareban_languages" title="Yareban languages">
+          Yareban
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         5
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Yuat_languages" title="Yuat languages">
+          Yuat
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         5
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Chinookan_languages" title="Chinookan languages">
+          Chinookan
+         </a>
+        </td>
+        <td>
+         North America
+        </td>
+        <td>
+         4
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Chonan_languages" title="Chonan languages">
+          Chonan
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         4
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Eastern_Jebel_languages" title="Eastern Jebel languages">
+          Eastern Jebel
+         </a>
+        </td>
+        <td>
+         Africa
+        </td>
+        <td>
+         4
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Eastern_Trans-Fly_languages" title="Eastern Trans-Fly languages">
+          Eastern Trans-Fly
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         4
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Huavean_languages" title="Huavean languages">
+          Huavean
+         </a>
+        </td>
+        <td>
+         North America
+        </td>
+        <td>
+         4
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Iwaidjan_Proper_languages" title="Iwaidjan Proper languages">
+          Iwaidjan Proper
+         </a>
+        </td>
+        <td>
+         Australia
+        </td>
+        <td>
+         4
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Jivaroan_languages" title="Jivaroan languages">
+          Jivaroan
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         4
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Kamakanan_languages" title="Kamakanan languages">
+          Kamakanan
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         4
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Koman_languages" title="Koman languages">
+          Koman
+         </a>
+        </td>
+        <td>
+         Africa
+        </td>
+        <td>
+         4
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Maiduan_languages" title="Maiduan languages">
+          Maiduan
+         </a>
+        </td>
+        <td>
+         North America
+        </td>
+        <td>
+         4
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Mangarrayi-Maran_languages" title="Mangarrayi-Maran languages">
+          Mangarrayi-Maran
+         </a>
+        </td>
+        <td>
+         Australia
+        </td>
+        <td>
+         4
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Maningrida_languages" title="Maningrida languages">
+          Maningrida
+         </a>
+        </td>
+        <td>
+         Australia
+        </td>
+        <td>
+         4
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Mao_languages" title="Mao languages">
+          Mao
+         </a>
+        </td>
+        <td>
+         Africa
+        </td>
+        <td>
+         4
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Nadahup_languages" title="Nadahup languages">
+          Nadahup
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         4
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/North_Bougainville_languages" title="North Bougainville languages">
+          North Bougainville
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         4
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Sentani_languages" title="Sentani languages">
+          Sentani
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         4
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Suki-Gogodala_languages" title="Suki-Gogodala languages">
+          Suki-Gogodala
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         4
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Tama_languages" title="Tama languages">
+          Tama
+         </a>
+        </td>
+        <td>
+         Africa
+        </td>
+        <td>
+         4
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Tangkic_languages" title="Tangkic languages">
+          Tangkic
+         </a>
+        </td>
+        <td>
+         Australia
+        </td>
+        <td>
+         4
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Turama-Kikori_languages" title="Turama-Kikori languages">
+          Turama-Kikori
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         4
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Walio_languages" title="Walio languages">
+          Walio
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         4
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Yokutsan_languages" title="Yokutsan languages">
+          Yokutsan
+         </a>
+        </td>
+        <td>
+         North America
+        </td>
+        <td>
+         4
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Yukaghir_languages" title="Yukaghir languages">
+          Yukaghir
+         </a>
+        </td>
+        <td>
+         Eurasia
+        </td>
+        <td>
+         4
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Arafundi_languages" title="Arafundi languages">
+          Arafundi
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         3
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Aymara_languages" title="Aymara languages">
+          Aymara
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         3
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Bororoan_languages" title="Bororoan languages">
+          Bororoan
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         3
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Cahuapanan_languages" title="Cahuapanan languages">
+          Cahuapanan
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         3
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Charruan_languages" title="Charruan languages">
+          Charruan
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         3
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Dizoid_languages" title="Dizoid languages">
+          Dizoid
+         </a>
+        </td>
+        <td>
+         Africa
+        </td>
+        <td>
+         3
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/East_Bird%27s_Head_languages" title="East Bird's Head languages">
+          East Bird's Head
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         3
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Giimbiyu_languages" title="Giimbiyu languages">
+          Giimbiyu
+         </a>
+        </td>
+        <td>
+         Australia
+        </td>
+        <td>
+         3
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Jarrakan_languages" title="Jarrakan languages">
+          Jarrakan
+         </a>
+        </td>
+        <td>
+         Australia
+        </td>
+        <td>
+         3
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Kalapuyan_languages" title="Kalapuyan languages">
+          Kalapuyan
+         </a>
+        </td>
+        <td>
+         North America
+        </td>
+        <td>
+         3
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Katla-Tima_languages" title="Katla-Tima languages">
+          Katla-Tima
+         </a>
+        </td>
+        <td>
+         Africa
+        </td>
+        <td>
+         3
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Kawesqar_languages" title="Kawesqar languages">
+          Kawesqar
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         3
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Kayagar_languages" title="Kayagar languages">
+          Kayagar
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         3
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Kolopom_languages" title="Kolopom languages">
+          Kolopom
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         3
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Kuliak_languages" title="Kuliak languages">
+          Kuliak
+         </a>
+        </td>
+        <td>
+         Africa
+        </td>
+        <td>
+         3
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Kwalean_languages" title="Kwalean languages">
+          Kwalean
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         3
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Mairasi_languages" title="Mairasi languages">
+          Mairasi
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         3
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Mongol-Langam_languages" title="Mongol-Langam languages">
+          Mongol-Langam
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         3
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Peba-Yagua_languages" title="Peba-Yagua languages">
+          Peba-Yagua
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         3
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Puri_languages" title="Puri languages">
+          Puri
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         3
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Saliban_languages" title="Saliban languages">
+          Saliban
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         3
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Shastan_languages" title="Shastan languages">
+          Shastan
+         </a>
+        </td>
+        <td>
+         North America
+        </td>
+        <td>
+         3
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Tsimshian_languages" title="Tsimshian languages">
+          Tsimshian
+         </a>
+        </td>
+        <td>
+         North America
+        </td>
+        <td>
+         3
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/West_Bomberai_languages" title="West Bomberai languages">
+          West Bomberai
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         3
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Yangmanic_languages" title="Yangmanic languages">
+          Yangmanic
+         </a>
+        </td>
+        <td>
+         Australia
+        </td>
+        <td>
+         3
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Zamucoan_languages" title="Zamucoan languages">
+          Zamucoan
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         3
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Amto-Musan_languages" title="Amto-Musan languages">
+          Amto-Musan
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         2
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Araucanian_languages" title="Araucanian languages">
+          Araucanian
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         2
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Awin-Pa_languages" title="Awin-Pa languages">
+          Awin-Pa
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         2
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Baibai-Fas_languages" title="Baibai-Fas languages">
+          Baibai-Fas
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         2
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Bayono-Awbono_languages" title="Bayono-Awbono languages">
+          Bayono-Awbono
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         2
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Boran_languages" title="Boran languages">
+          Boran
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         2
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Bulaka_River_languages" title="Bulaka River languages">
+          Bulaka River
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         2
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Bunaban_languages" title="Bunaban languages">
+          Bunaban
+         </a>
+        </td>
+        <td>
+         Australia
+        </td>
+        <td>
+         2
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Chimakuan_languages" title="Chimakuan languages">
+          Chimakuan
+         </a>
+        </td>
+        <td>
+         North America
+        </td>
+        <td>
+         2
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Coosan_languages" title="Coosan languages">
+          Coosan
+         </a>
+        </td>
+        <td>
+         North America
+        </td>
+        <td>
+         2
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Doso-Turumsa_languages" title="Doso-Turumsa languages">
+          Doso-Turumsa
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         2
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Eastern_Daly_languages" title="Eastern Daly languages">
+          Eastern Daly
+         </a>
+        </td>
+        <td>
+         Australia
+        </td>
+        <td>
+         2
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/East_Kutubu_languages" title="East Kutubu languages">
+          East Kutubu
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         2
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Etrusco-Rhaetian_languages" title="Etrusco-Rhaetian languages">
+          Etrusco-Rhaetian
+         </a>
+        </td>
+        <td>
+         Eurasia
+        </td>
+        <td>
+         2
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Furan_languages" title="Furan languages">
+          Furan
+         </a>
+        </td>
+        <td>
+         Africa
+        </td>
+        <td>
+         2
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Garrwan_languages" title="Garrwan languages">
+          Garrwan
+         </a>
+        </td>
+        <td>
+         Australia
+        </td>
+        <td>
+         2
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Haida_languages" title="Haida languages">
+          Haida
+         </a>
+        </td>
+        <td>
+         North America
+        </td>
+        <td>
+         2
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Harakmbut_languages" title="Harakmbut languages">
+          Harakmbut
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         2
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Hatam-Mansim_languages" title="Hatam-Mansim languages">
+          Hatam-Mansim
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         2
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Hibito-Cholon_languages" title="Hibito-Cholon languages">
+          Hibito-Cholon
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         2
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Huarpean_languages" title="Huarpean languages">
+          Huarpean
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         2
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Hurro-Urartian_languages" title="Hurro-Urartian languages">
+          Hurro-Urartian
+         </a>
+        </td>
+        <td>
+         Eurasia
+        </td>
+        <td>
+         2
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Inanwatan_languages" title="Inanwatan languages">
+          Inanwatan
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         2
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Jarawa-Onge_languages" title="Jarawa-Onge languages">
+          Jarawa-Onge
+         </a>
+        </td>
+        <td>
+         Eurasia
+        </td>
+        <td>
+         2
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Jicaquean_languages" title="Jicaquean languages">
+          Jicaquean
+         </a>
+        </td>
+        <td>
+         North America
+        </td>
+        <td>
+         2
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Kakua-Nukak_languages" title="Kakua-Nukak languages">
+          Kakua-Nukak
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         2
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Kariri_languages" title="Kariri languages">
+          Kariri
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         2
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Katukinan_languages" title="Katukinan languages">
+          Katukinan
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         2
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Kaure-Narau_languages" title="Kaure-Narau languages">
+          Kaure-Narau
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         2
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Keresan_languages" title="Keresan languages">
+          Keresan
+         </a>
+        </td>
+        <td>
+         North America
+        </td>
+        <td>
+         2
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Konda-Yahadian_languages" title="Konda-Yahadian languages">
+          Konda-Yahadian
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         2
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Koreanic_languages" title="Koreanic languages">
+          Koreanic
+         </a>
+        </td>
+        <td>
+         Eurasia
+        </td>
+        <td>
+         2
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Kresh-Aja_languages" title="Kresh-Aja languages">
+          Kresh-Aja
+         </a>
+        </td>
+        <td>
+         Africa
+        </td>
+        <td>
+         2
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Kwomtari_languages" title="Kwomtari languages">
+          Kwomtari
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         2
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Lencan_languages" title="Lencan languages">
+          Lencan
+         </a>
+        </td>
+        <td>
+         North America
+        </td>
+        <td>
+         2
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Lepki-Murkim_languages" title="Lepki-Murkim languages">
+          Lepki-Murkim
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         2
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Limilngan_languages" title="Limilngan languages">
+          Limilngan
+         </a>
+        </td>
+        <td>
+         Australia
+        </td>
+        <td>
+         2
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Manubaran_languages" title="Manubaran languages">
+          Manubaran
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         2
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Marrku-Wurrugu_languages" title="Marrku-Wurrugu languages">
+          Marrku-Wurrugu
+         </a>
+        </td>
+        <td>
+         Australia
+        </td>
+        <td>
+         2
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Mombum_languages" title="Mombum languages">
+          Mombum
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         2
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Monumbo_languages" title="Monumbo languages">
+          Monumbo
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         2
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Namla-Tofanma_languages" title="Namla-Tofanma languages">
+          Namla-Tofanma
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         2
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/North-Eastern_Tasmanian_languages" title="North-Eastern Tasmanian languages">
+          North-Eastern Tasmanian
+         </a>
+        </td>
+        <td>
+         Australia
+        </td>
+        <td>
+         2
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Northern_Daly_languages" title="Northern Daly languages">
+          Northern Daly
+         </a>
+        </td>
+        <td>
+         Australia
+        </td>
+        <td>
+         2
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Nyimang_languages" title="Nyimang languages">
+          Nyimang
+         </a>
+        </td>
+        <td>
+         Africa
+        </td>
+        <td>
+         2
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Pahoturi_languages" title="Pahoturi languages">
+          Pahoturi
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         2
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Palaihnihan_languages" title="Palaihnihan languages">
+          Palaihnihan
+         </a>
+        </td>
+        <td>
+         North America
+        </td>
+        <td>
+         2
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Piawi_languages" title="Piawi languages">
+          Piawi
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         2
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Rashad_languages" title="Rashad languages">
+          Rashad
+         </a>
+        </td>
+        <td>
+         Africa
+        </td>
+        <td>
+         2
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Senagi_languages" title="Senagi languages">
+          Senagi
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         2
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Somahai_languages" title="Somahai languages">
+          Somahai
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         2
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/South-Eastern_Tasmanian_languages" title="South-Eastern Tasmanian languages">
+          South-Eastern Tasmanian
+         </a>
+        </td>
+        <td>
+         Australia
+        </td>
+        <td>
+         2
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Southern_Daly_languages" title="Southern Daly languages">
+          Southern Daly
+         </a>
+        </td>
+        <td>
+         Australia
+        </td>
+        <td>
+         2
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Tarascan_languages" title="Tarascan languages">
+          Tarascan
+         </a>
+        </td>
+        <td>
+         North America
+        </td>
+        <td>
+         2
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Taulil-Butam_languages" title="Taulil-Butam languages">
+          Taulil-Butam
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         2
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Teberan_languages" title="Teberan languages">
+          Teberan
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         2
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Temein_languages" title="Temein languages">
+          Temein
+         </a>
+        </td>
+        <td>
+         Africa
+        </td>
+        <td>
+         2
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Tequistlatecan_languages" title="Tequistlatecan languages">
+          Tequistlatecan
+         </a>
+        </td>
+        <td>
+         North America
+        </td>
+        <td>
+         2
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Ticuna-Yuri_languages" title="Ticuna-Yuri languages">
+          Ticuna-Yuri
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         2
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Uru-Chipaya_languages" title="Uru-Chipaya languages">
+          Uru-Chipaya
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         2
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Western_Tasmanian_languages" title="Western Tasmanian languages">
+          Western Tasmanian
+         </a>
+        </td>
+        <td>
+         Australia
+        </td>
+        <td>
+         2
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Wintuan_languages" title="Wintuan languages">
+          Wintuan
+         </a>
+        </td>
+        <td>
+         North America
+        </td>
+        <td>
+         2
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Yawa_languages" title="Yawa languages">
+          Yawa
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         2
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Yuki-Wappo_languages" title="Yuki-Wappo languages">
+          Yuki-Wappo
+         </a>
+        </td>
+        <td>
+         North America
+        </td>
+        <td>
+         2
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Abinomn_language" title="Abinomn language">
+          Abinomn
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Abun_language" title="Abun language">
+          Abun
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Adai_language" title="Adai language">
+          Adai
+         </a>
+        </td>
+        <td>
+         North America
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Aewa_language" title="Aewa language">
+          Aewa
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Aikan%C3%A3_language" title="Aikanã language">
+          Aikanã
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Ainu_language_(Japan)" title="Ainu language (Japan)">
+          Ainu (Japan)
+         </a>
+        </td>
+        <td>
+         Eurasia
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Alsea_language" title="Alsea language">
+          Alsea
+         </a>
+        </td>
+        <td>
+         North America
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Andaqui_language" title="Andaqui language">
+          Andaqui
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Andoque_language" title="Andoque language">
+          Andoque
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Anem_language" title="Anem language">
+          Anem
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Ap_Ma_language" title="Ap Ma language">
+          Ap Ma
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Arutani_language" title="Arutani language">
+          Arutani
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Atacame_language" title="Atacame language">
+          Atacame
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Atakapa_language" title="Atakapa language">
+          Atakapa
+         </a>
+        </td>
+        <td>
+         North America
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Banaro_language" title="Banaro language">
+          Banaro
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Bangime_language" title="Bangime language">
+          Bangime
+         </a>
+        </td>
+        <td>
+         Africa
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Basque_language" title="Basque language">
+          Basque
+         </a>
+        </td>
+        <td>
+         Eurasia
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Beothuk_language" title="Beothuk language">
+          Beothuk
+         </a>
+        </td>
+        <td>
+         North America
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Berta_language" title="Berta language">
+          Berta
+         </a>
+        </td>
+        <td>
+         Africa
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Betoi_language" title="Betoi language">
+          Betoi
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Bilua_language" title="Bilua language">
+          Bilua
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Birri_language" title="Birri language">
+          Birri
+         </a>
+        </td>
+        <td>
+         Africa
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Bogaya_language" title="Bogaya language">
+          Bogaya
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Burmeso_language" title="Burmeso language">
+          Burmeso
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Burushaski_language" title="Burushaski language">
+          Burushaski
+         </a>
+        </td>
+        <td>
+         Eurasia
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Cams%C3%A1_language" title="Camsá language">
+          Camsá
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Candoshi-Shapra_language" title="Candoshi-Shapra language">
+          Candoshi-Shapra
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Canichana_language" title="Canichana language">
+          Canichana
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Cayubaba_language" title="Cayubaba language">
+          Cayubaba
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Cayuse_language" title="Cayuse language">
+          Cayuse
+         </a>
+        </td>
+        <td>
+         North America
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Chimariko_language" title="Chimariko language">
+          Chimariko
+         </a>
+        </td>
+        <td>
+         North America
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Chiquitano_language" title="Chiquitano language">
+          Chiquitano
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Chitimacha_language" title="Chitimacha language">
+          Chitimacha
+         </a>
+        </td>
+        <td>
+         North America
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Chono_language" title="Chono language">
+          Chono
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Coahuilteco_language" title="Coahuilteco language">
+          Coahuilteco
+         </a>
+        </td>
+        <td>
+         North America
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Cof%C3%A1n_language" title="Cofán language">
+          Cofán
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Comecrudo_language" title="Comecrudo language">
+          Comecrudo
+         </a>
+        </td>
+        <td>
+         North America
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Cotoname_language" title="Cotoname language">
+          Cotoname
+         </a>
+        </td>
+        <td>
+         North America
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Cuitlatec_language" title="Cuitlatec language">
+          Cuitlatec
+         </a>
+        </td>
+        <td>
+         North America
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Culli_language" title="Culli language">
+          Culli
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Damal_language" title="Damal language">
+          Damal
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Dem_language" title="Dem language">
+          Dem
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Dibiyaso_language" title="Dibiyaso language">
+          Dibiyaso
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Duna_language" title="Duna language">
+          Duna
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Elamite_language" title="Elamite language">
+          Elamite
+         </a>
+        </td>
+        <td>
+         Eurasia
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Elseng_language" title="Elseng language">
+          Elseng
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Esselen_language" title="Esselen language">
+          Esselen
+         </a>
+        </td>
+        <td>
+         North America
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Fasu_language" title="Fasu language">
+          Fasu
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Fulni%C3%B4_language" title="Fulniô language">
+          Fulniô
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Gagadu_language" title="Gagadu language">
+          Gagadu
+         </a>
+        </td>
+        <td>
+         Australia
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Guachi_language" title="Guachi language">
+          Guachi
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Guaicurian_language" title="Guaicurian language">
+          Guaicurian
+         </a>
+        </td>
+        <td>
+         North America
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Guamo_language" title="Guamo language">
+          Guamo
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Guat%C3%B3_language" title="Guató language">
+          Guató
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Gule_language" title="Gule language">
+          Gule
+         </a>
+        </td>
+        <td>
+         Africa
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Gumuz_language" title="Gumuz language">
+          Gumuz
+         </a>
+        </td>
+        <td>
+         Africa
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Guriaso_language" title="Guriaso language">
+          Guriaso
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Hadza_language" title="Hadza language">
+          Hadza
+         </a>
+        </td>
+        <td>
+         Africa
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Hattic_language" title="Hattic language">
+          Hattic
+         </a>
+        </td>
+        <td>
+         Eurasia
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Hruso_language" title="Hruso language">
+          Hruso
+         </a>
+        </td>
+        <td>
+         Eurasia
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Iberian_language" title="Iberian language">
+          Iberian
+         </a>
+        </td>
+        <td>
+         Eurasia
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Ir%C3%A1ntxe_language" title="Irántxe language">
+          Irántxe
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Itonama_language" title="Itonama language">
+          Itonama
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Jalaa_language" title="Jalaa language">
+          Jalaa
+         </a>
+        </td>
+        <td>
+         Africa
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Jirajaran_language" title="Jirajaran language">
+          Jirajaran
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Kaki_Ae_language" title="Kaki Ae language">
+          Kaki Ae
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Kamula_language" title="Kamula language">
+          Kamula
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Kano%C3%AA_language" title="Kanoê language">
+          Kanoê
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Kapori_language" title="Kapori language">
+          Kapori
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Karankawa_language" title="Karankawa language">
+          Karankawa
+         </a>
+        </td>
+        <td>
+         North America
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Karok_language" title="Karok language">
+          Karok
+         </a>
+        </td>
+        <td>
+         North America
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Kehu_language" title="Kehu language">
+          Kehu
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Kembra_language" title="Kembra language">
+          Kembra
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Kenaboi_language" title="Kenaboi language">
+          Kenaboi
+         </a>
+        </td>
+        <td>
+         Eurasia
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Kibiri_language" title="Kibiri language">
+          Kibiri
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Kimki_language" title="Kimki language">
+          Kimki
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Klamath-Modoc_language" title="Klamath-Modoc language">
+          Klamath-Modoc
+         </a>
+        </td>
+        <td>
+         North America
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Kol_language_(Papua_New_Guinea)" title="Kol language (Papua New Guinea)">
+          Kol (Papua New Guinea)
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Kosadle_language" title="Kosadle language">
+          Kosadle
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Kujarge_language" title="Kujarge language">
+          Kujarge
+         </a>
+        </td>
+        <td>
+         Africa
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Kunama_language" title="Kunama language">
+          Kunama
+         </a>
+        </td>
+        <td>
+         Africa
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Kungarakany_language" title="Kungarakany language">
+          Kungarakany
+         </a>
+        </td>
+        <td>
+         Australia
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Kunza_language" title="Kunza language">
+          Kunza
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Kuot_language" title="Kuot language">
+          Kuot
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Kusunda_language" title="Kusunda language">
+          Kusunda
+         </a>
+        </td>
+        <td>
+         Eurasia
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Kutenai_language" title="Kutenai language">
+          Kutenai
+         </a>
+        </td>
+        <td>
+         North America
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Kwaza_language" title="Kwaza language">
+          Kwaza
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Laal_language" title="Laal language">
+          Laal
+         </a>
+        </td>
+        <td>
+         Africa
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Lafofa_language" title="Lafofa language">
+          Lafofa
+         </a>
+        </td>
+        <td>
+         Africa
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Laragia_language" title="Laragia language">
+          Laragia
+         </a>
+        </td>
+        <td>
+         Australia
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Lavukaleve_language" title="Lavukaleve language">
+          Lavukaleve
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Leco_language" title="Leco language">
+          Leco
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Lule_language" title="Lule language">
+          Lule
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/M%C3%A1ku_language" title="Máku language">
+          Máku
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Maratino_language" title="Maratino language">
+          Maratino
+         </a>
+        </td>
+        <td>
+         North America
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Massep_language" title="Massep language">
+          Massep
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Matanaw%C3%AD_language" title="Matanawí language">
+          Matanawí
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Mato_Grosso_Ar%C3%A1ra_language" title="Mato Grosso Arára language">
+          Mato Grosso Arára
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Mawes_language" title="Mawes language">
+          Mawes
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Maybrat_language" title="Maybrat language">
+          Maybrat
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Meroitic_language" title="Meroitic language">
+          Meroitic
+         </a>
+        </td>
+        <td>
+         Africa
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Mimi-Gaudefroy_language" title="Mimi-Gaudefroy language">
+          Mimi-Gaudefroy
+         </a>
+        </td>
+        <td>
+         Africa
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Minkin_language" title="Minkin language">
+          Minkin
+         </a>
+        </td>
+        <td>
+         Australia
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Mochica_language" title="Mochica language">
+          Mochica
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Molale_language" title="Molale language">
+          Molale
+         </a>
+        </td>
+        <td>
+         North America
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Molof_language" title="Molof language">
+          Molof
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Mor_language_(Bomberai_Peninsula)" title="Mor language (Bomberai Peninsula)">
+          Mor (Bomberai Peninsula)
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Morori_language" title="Morori language">
+          Morori
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Moset%C3%A9n-Chiman%C3%A9_language" title="Mosetén-Chimané language">
+          Mosetén-Chimané
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Movima_language" title="Movima language">
+          Movima
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Mpur_language" title="Mpur language">
+          Mpur
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Muniche_language" title="Muniche language">
+          Muniche
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Mure_language" title="Mure language">
+          Mure
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Nara_language" title="Nara language">
+          Nara
+         </a>
+        </td>
+        <td>
+         Africa
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Natchez_language" title="Natchez language">
+          Natchez
+         </a>
+        </td>
+        <td>
+         North America
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Nihali_language" title="Nihali language">
+          Nihali
+         </a>
+        </td>
+        <td>
+         Eurasia
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Nivkh_language" title="Nivkh language">
+          Nivkh
+         </a>
+        </td>
+        <td>
+         Eurasia
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Odiai_language" title="Odiai language">
+          Odiai
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Omurano_language" title="Omurano language">
+          Omurano
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Ongota_language" title="Ongota language">
+          Ongota
+         </a>
+        </td>
+        <td>
+         Africa
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Oti_language" title="Oti language">
+          Oti
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Otomaco_language" title="Otomaco language">
+          Otomaco
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Oyster_Bay-Big_River-Little_Swanport_language" title="Oyster Bay-Big River-Little Swanport language">
+          Oyster Bay-Big River-Little Swanport
+         </a>
+        </td>
+        <td>
+         Australia
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/P%C3%A1ez_language" title="Páez language">
+          Páez
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Pankarar%C3%BA_language" title="Pankararú language">
+          Pankararú
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Papi_language" title="Papi language">
+          Papi
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Pawaia_language" title="Pawaia language">
+          Pawaia
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Payagua_language" title="Payagua language">
+          Payagua
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Pele-Ata_language" title="Pele-Ata language">
+          Pele-Ata
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Pirah%C3%A3_language" title="Pirahã language">
+          Pirahã
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Puelche_language" title="Puelche language">
+          Puelche
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Puinave_language" title="Puinave language">
+          Puinave
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Pum%C3%A9_language" title="Pumé language">
+          Pumé
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Puquina_language" title="Puquina language">
+          Puquina
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Purari_language" title="Purari language">
+          Purari
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Pyu_language_(Papua_New_Guinea)" title="Pyu language (Papua New Guinea)">
+          Pyu
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Ramanos_language" title="Ramanos language">
+          Ramanos
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Salinan_language" title="Salinan language">
+          Salinan
+         </a>
+        </td>
+        <td>
+         North America
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Sandawe_language" title="Sandawe language">
+          Sandawe
+         </a>
+        </td>
+        <td>
+         Africa
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Sap%C3%A9_language" title="Sapé language">
+          Sapé
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Sause_language" title="Sause language">
+          Sause
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Savosavo_language" title="Savosavo language">
+          Savosavo
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Sechuran_language" title="Sechuran language">
+          Sechuran
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Seri_language" title="Seri language">
+          Seri
+         </a>
+        </td>
+        <td>
+         North America
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Shabo_language" title="Shabo language">
+          Shabo
+         </a>
+        </td>
+        <td>
+         Africa
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Shom_Peng_language" title="Shom Peng language">
+          Shom Peng
+         </a>
+        </td>
+        <td>
+         Eurasia
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Siuslaw_language" title="Siuslaw language">
+          Siuslaw
+         </a>
+        </td>
+        <td>
+         North America
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Suarmin_language" title="Suarmin language">
+          Suarmin
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Sulka_language" title="Sulka language">
+          Sulka
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Sumerian_language" title="Sumerian language">
+          Sumerian
+         </a>
+        </td>
+        <td>
+         Eurasia
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Tabo_language" title="Tabo language">
+          Tabo
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Taiap_language" title="Taiap language">
+          Taiap
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Takelma_language" title="Takelma language">
+          Takelma
+         </a>
+        </td>
+        <td>
+         North America
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Tall%C3%A1n_language" title="Tallán language">
+          Tallán
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Tambora_language" title="Tambora language">
+          Tambora
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Sumeri_language" title="Sumeri language">
+          Tanahmerah
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Taruma_language" title="Taruma language">
+          Taruma
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Taushiro_language" title="Taushiro language">
+          Taushiro
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Timote-Cuica_language" title="Timote-Cuica language">
+          Timote-Cuica
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Timucua_language" title="Timucua language">
+          Timucua
+         </a>
+        </td>
+        <td>
+         North America
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Tinigua_language" title="Tinigua language">
+          Tinigua
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Tiwi_language" title="Tiwi language">
+          Tiwi
+         </a>
+        </td>
+        <td>
+         Australia
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Tonkawa_language" title="Tonkawa language">
+          Tonkawa
+         </a>
+        </td>
+        <td>
+         North America
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Touo_language" title="Touo language">
+          Touo
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Trumai_language" title="Trumai language">
+          Trumai
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Tunica_language" title="Tunica language">
+          Tunica
+         </a>
+        </td>
+        <td>
+         North America
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Tux%C3%A1_language" title="Tuxá language">
+          Tuxá
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Umbugarla_language" title="Umbugarla language">
+          Umbugarla
+         </a>
+        </td>
+        <td>
+         Australia
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Urarina_language" title="Urarina language">
+          Urarina
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Usku_language" title="Usku language">
+          Usku
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Vilela_language" title="Vilela language">
+          Vilela
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Wadjiginy_language" title="Wadjiginy language">
+          Wadjiginy
+         </a>
+        </td>
+        <td>
+         Australia
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Wageman_language" title="Wageman language">
+          Wageman
+         </a>
+        </td>
+        <td>
+         Australia
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Waorani_language" title="Waorani language">
+          Waorani
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Warao_language" title="Warao language">
+          Warao
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Washo_language" title="Washo language">
+          Washo
+         </a>
+        </td>
+        <td>
+         North America
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Wiru_language" title="Wiru language">
+          Wiru
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Xukur%C3%BA_language" title="Xukurú language">
+          Xukurú
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Yale_language" title="Yale language">
+          Yale
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Y%C3%A1mana_language" title="Yámana language">
+          Yámana
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Yana_language" title="Yana language">
+          Yana
+         </a>
+        </td>
+        <td>
+         North America
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Yele_language" title="Yele language">
+          Yele
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Yerakai_language" title="Yerakai language">
+          Yerakai
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Yetfa_language" title="Yetfa language">
+          Yetfa
+         </a>
+        </td>
+        <td>
+         Papunesia
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Yuchi_language" title="Yuchi language">
+          Yuchi
+         </a>
+        </td>
+        <td>
+         North America
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Yuracar%C3%A9_language" title="Yuracaré language">
+          Yuracaré
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Yurumangu%C3%AD_language" title="Yurumanguí language">
+          Yurumanguí
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Yuwana_language" title="Yuwana language">
+          Yuwana
+         </a>
+        </td>
+        <td>
+         South America
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Zuni_language" title="Zuni language">
+          Zuni
+         </a>
+        </td>
+        <td>
+         North America
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/LSFic_languages" title="LSFic languages">
+          LSFic
+         </a>
+        </td>
+        <td>
+         (sign)
+        </td>
+        <td>
+         32
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/ASLic_languages" title="ASLic languages">
+          ASLic
+         </a>
+        </td>
+        <td>
+         (sign)
+        </td>
+        <td>
+         20
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/BSLic_languages" title="BSLic languages">
+          BSLic
+         </a>
+        </td>
+        <td>
+         (sign)
+        </td>
+        <td>
+         10
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Arab_Sign_languages" title="Arab Sign languages">
+          Arab Sign
+         </a>
+        </td>
+        <td>
+        </td>
+        <td>
+         6
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Russian_Sign_languages" title="Russian Sign languages">
+          Russian Sign
+         </a>
+        </td>
+        <td>
+        </td>
+        <td>
+         6
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/CSLic_languages" title="CSLic languages">
+          CSLic
+         </a>
+        </td>
+        <td>
+         (sign)
+        </td>
+        <td>
+         5
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/DGSic_languages" title="DGSic languages">
+          DGSic
+         </a>
+        </td>
+        <td>
+         (sign)
+        </td>
+        <td>
+         4
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/JSLic_languages" title="JSLic languages">
+          JSLic
+         </a>
+        </td>
+        <td>
+         (sign)
+        </td>
+        <td>
+         3
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Old_Chiangmai-Bangkok-Haiphong_Sign_languages" title="Old Chiangmai-Bangkok-Haiphong Sign languages">
+          Old Chiangmai-Bangkok-Haiphong Sign
+         </a>
+        </td>
+        <td>
+        </td>
+        <td>
+         3
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="new" href="/w/index.php?title=Spanish_Sign_languages&amp;action=edit&amp;redlink=1" title="Spanish Sign languages (page does not exist)">
+          Spanish Sign
+         </a>
+        </td>
+        <td>
+        </td>
+        <td>
+         3
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Paraguay-Uruguay_Sign_languages" title="Paraguay-Uruguay Sign languages">
+          Paraguay-Uruguay Sign
+         </a>
+        </td>
+        <td>
+        </td>
+        <td>
+         2
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Providencia-Cayman_Sign_languages" title="Providencia-Cayman Sign languages">
+          Providencia-Cayman Sign
+         </a>
+        </td>
+        <td>
+        </td>
+        <td>
+         2
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Afghan_Sign_Language" title="Afghan Sign Language">
+          Afghan Sign Language
+         </a>
+        </td>
+        <td>
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Albanian_Sign_Language" title="Albanian Sign Language">
+          Albanian Sign Language
+         </a>
+        </td>
+        <td>
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Argentine_Sign_Language" title="Argentine Sign Language">
+          Argentine Sign Language
+         </a>
+        </td>
+        <td>
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Armenian_Sign_Language" title="Armenian Sign Language">
+          Armenian Sign Language
+         </a>
+        </td>
+        <td>
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Bamako_Sign_Language" title="Bamako Sign Language">
+          Bamako Sign Language
+         </a>
+        </td>
+        <td>
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Brazilian_Sign_Language" title="Brazilian Sign Language">
+          Brazilian Sign Language
+         </a>
+        </td>
+        <td>
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Burkina_Faso_Sign_Language" title="Burkina Faso Sign Language">
+          Burkina Faso Sign Language
+         </a>
+        </td>
+        <td>
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Ecuadorian_Sign_Language" title="Ecuadorian Sign Language">
+          Ecuadorian Sign Language
+         </a>
+        </td>
+        <td>
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Estonian_Sign_Language" title="Estonian Sign Language">
+          Estonian Sign Language
+         </a>
+        </td>
+        <td>
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Guatemalan_Sign_Language" title="Guatemalan Sign Language">
+          Guatemalan Sign Language
+         </a>
+        </td>
+        <td>
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Hausa_Sign_Language" title="Hausa Sign Language">
+          Hausa Sign Language
+         </a>
+        </td>
+        <td>
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Indian_Sign_Language" title="Indian Sign Language">
+          Indian Sign Language
+         </a>
+        </td>
+        <td>
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Kenyan_Sign_Language" title="Kenyan Sign Language">
+          Kenyan Sign Language
+         </a>
+        </td>
+        <td>
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Lyons_Sign_Language" title="Lyons Sign Language">
+          Lyons Sign Language
+         </a>
+        </td>
+        <td>
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Maltese_Sign_Language" title="Maltese Sign Language">
+          Maltese Sign Language
+         </a>
+        </td>
+        <td>
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Mauritian_Sign_Language" title="Mauritian Sign Language">
+          Mauritian Sign Language
+         </a>
+        </td>
+        <td>
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Mofu-Gudur_Sign_Language" title="Mofu-Gudur Sign Language">
+          Mofu-Gudur Sign Language
+         </a>
+        </td>
+        <td>
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Mozambican_Sign_Language" title="Mozambican Sign Language">
+          Mozambican Sign Language
+         </a>
+        </td>
+        <td>
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Nepalese_Sign_Language" title="Nepalese Sign Language">
+          Nepalese Sign Language
+         </a>
+        </td>
+        <td>
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Pakistan_Sign_Language" title="Pakistan Sign Language">
+          Pakistan Sign Language
+         </a>
+        </td>
+        <td>
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Penang_Sign_Language" title="Penang Sign Language">
+          Penang Sign Language
+         </a>
+        </td>
+        <td>
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Persian_Sign_Language" title="Persian Sign Language">
+          Persian Sign Language
+         </a>
+        </td>
+        <td>
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Rennellese_Sign_Language" title="Rennellese Sign Language">
+          Rennellese Sign Language
+         </a>
+        </td>
+        <td>
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Salvadoran_Sign_Language" title="Salvadoran Sign Language">
+          Salvadoran Sign Language
+         </a>
+        </td>
+        <td>
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Saudi_Arabian_Sign_Language" title="Saudi Arabian Sign Language">
+          Saudi Arabian Sign Language
+         </a>
+        </td>
+        <td>
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Sri_Lankan_Sign_Language" title="Sri Lankan Sign Language">
+          Sri Lankan Sign Language
+         </a>
+        </td>
+        <td>
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Tanzanian_Sign_Language" title="Tanzanian Sign Language">
+          Tanzanian Sign Language
+         </a>
+        </td>
+        <td>
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Tijuana_Sign_Language" title="Tijuana Sign Language">
+          Tijuana Sign Language
+         </a>
+        </td>
+        <td>
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Turkish_Sign_Language" title="Turkish Sign Language">
+          Turkish Sign Language
+         </a>
+        </td>
+        <td>
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Venezuelan_Sign_Language" title="Venezuelan Sign Language">
+          Venezuelan Sign Language
+         </a>
+        </td>
+        <td>
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Yoruba_Sign_Language" title="Yoruba Sign Language">
+          Yoruba Sign Language
+         </a>
+        </td>
+        <td>
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Zambian_Sign_Language" title="Zambian Sign Language">
+          Zambian Sign Language
+         </a>
+        </td>
+        <td>
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Zimbabwe_Sign_Language" title="Zimbabwe Sign Language">
+          Zimbabwe Sign Language
+         </a>
+        </td>
+        <td>
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Adamorobe_Sign_Language" title="Adamorobe Sign Language">
+          Adamorobe Sign Language
+         </a>
+        </td>
+        <td>
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Alipur_Sign_Language" title="Alipur Sign Language">
+          Alipur Sign Language
+         </a>
+        </td>
+        <td>
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Al-Sayyid_Bedouin_Sign_Language" title="Al-Sayyid Bedouin Sign Language">
+          Al-Sayyid Bedouin Sign Language
+         </a>
+        </td>
+        <td>
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Ban_Khor_Sign_Language" title="Ban Khor Sign Language">
+          Ban Khor Sign Language
+         </a>
+        </td>
+        <td>
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Bengkala_Sign_Language" title="Bengkala Sign Language">
+          Bengkala Sign Language
+         </a>
+        </td>
+        <td>
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Bribri_Sign_Language" title="Bribri Sign Language">
+          Bribri Sign Language
+         </a>
+        </td>
+        <td>
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Brunca_Sign_Language" title="Brunca Sign Language">
+          Brunca Sign Language
+         </a>
+        </td>
+        <td>
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Bura_Sign_Language" title="Bura Sign Language">
+          Bura Sign Language
+         </a>
+        </td>
+        <td>
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Chatino_Sign_Language" title="Chatino Sign Language">
+          Chatino Sign Language
+         </a>
+        </td>
+        <td>
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Enga_Sign_Language" title="Enga Sign Language">
+          Enga Sign Language
+         </a>
+        </td>
+        <td>
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Ghandruk_Sign_Language" title="Ghandruk Sign Language">
+          Ghandruk Sign Language
+         </a>
+        </td>
+        <td>
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Ghardaia_Sign_Language" title="Ghardaia Sign Language">
+          Ghardaia Sign Language
+         </a>
+        </td>
+        <td>
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Guinea-Bissau_Sign_Language" title="Guinea-Bissau Sign Language">
+          Guinea-Bissau Sign Language
+         </a>
+        </td>
+        <td>
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Inuit_Sign_Language" title="Inuit Sign Language">
+          Inuit Sign Language
+         </a>
+        </td>
+        <td>
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Jamaican_Country_Sign_Language" title="Jamaican Country Sign Language">
+          Jamaican Country Sign Language
+         </a>
+        </td>
+        <td>
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Jhankot_Sign_Language" title="Jhankot Sign Language">
+          Jhankot Sign Language
+         </a>
+        </td>
+        <td>
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Jumla_Sign_Language" title="Jumla Sign Language">
+          Jumla Sign Language
+         </a>
+        </td>
+        <td>
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Kajana_Sign_Language" title="Kajana Sign Language">
+          Kajana Sign Language
+         </a>
+        </td>
+        <td>
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Keresan_Pueblo_Indian_Sign_Language" title="Keresan Pueblo Indian Sign Language">
+          Keresan Pueblo Indian Sign Language
+         </a>
+        </td>
+        <td>
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Mardin_Sign_Language" title="Mardin Sign Language">
+          Mardin Sign Language
+         </a>
+        </td>
+        <td>
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Martha%27s_Vineyard_Sign_Language" title="Martha's Vineyard Sign Language">
+          Martha's Vineyard Sign Language
+         </a>
+        </td>
+        <td>
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Mbour_Sign_Language" title="Mbour Sign Language">
+          Mbour Sign Language
+         </a>
+        </td>
+        <td>
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Nanabin_Sign_Language" title="Nanabin Sign Language">
+          Nanabin Sign Language
+         </a>
+        </td>
+        <td>
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Nicaraguan_Sign_Language" title="Nicaraguan Sign Language">
+          Nicaraguan Sign Language
+         </a>
+        </td>
+        <td>
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Old_Kentish_Sign_Language" title="Old Kentish Sign Language">
+          Old Kentish Sign Language
+         </a>
+        </td>
+        <td>
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Original_Costa_Rican_Sign_Language" title="Original Costa Rican Sign Language">
+          Original Costa Rican Sign Language
+         </a>
+        </td>
+        <td>
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Tebul_Sign_Language" title="Tebul Sign Language">
+          Tebul Sign Language
+         </a>
+        </td>
+        <td>
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Urub%C3%BA-Kaapor_Sign_Language" title="Urubú-Kaapor Sign Language">
+          Urubú-Kaapor Sign Language
+         </a>
+        </td>
+        <td>
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Yolngu_Sign_Language" title="Yolngu Sign Language">
+          Yolngu Sign Language
+         </a>
+        </td>
+        <td>
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/Yucatec_Maya_Sign_Language" title="Yucatec Maya Sign Language">
+          Yucatec Maya Sign Language
+         </a>
+        </td>
+        <td>
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+      </table>
+      <p>
+       Creoles are classified with the language that supplied their basic
+       <a href="/wiki/Lexicon" title="Lexicon">
+        lexicon
+       </a>
+       .
+      </p>
+      <p>
+       In addition to languages classified into families,
+       <i>
+        Glottolog
+       </i>
+       recognizes 79
+       <a href="/wiki/Pidgin" title="Pidgin">
+        pidgins
+       </a>
+       (including one sign pidgin), 24
+       <a href="/wiki/Mixed_language" title="Mixed language">
+        mixed languages
+       </a>
+       , 8
+       <a href="/wiki/Artificial_language" title="Artificial language">
+        artificial languages
+       </a>
+       , 9
+       <a href="/wiki/Register_(sociolinguistics)" title="Register (sociolinguistics)">
+        speech registers
+       </a>
+       (including 3
+       <a class="mw-redirect" href="/wiki/Auxiliary_sign_language" title="Auxiliary sign language">
+        auxiliary sign systems
+       </a>
+       ), 118 attested but
+       <a href="/wiki/Unclassified_language" title="Unclassified language">
+        unclassifiable languages
+       </a>
+       (including 2 sign languages), 61 unattested languages, and 270
+       <a class="mw-redirect" href="/wiki/Spurious_language" title="Spurious language">
+        spurious languages
+       </a>
+       (such as retired ISO entries, and including 3 sign languages) kept for bookkeeping purposes.
+      </p>
+      <h2>
+       <span class="mw-headline" id="References">
+        References
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Glottolog&amp;action=edit&amp;section=2" title="Edit section: References">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="reflist" style="list-style-type: decimal;">
+       <div class="mw-references-wrap">
+        <ol class="references">
+         <li id="cite_note-1">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-1">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           See for example the
+           <a class="external text" href="http://glottolog.org/resource/languoid/id/book1242" rel="nofollow">
+            bookkeeping
+           </a>
+           section for ISO languages that
+           <i>
+            Glottolog
+           </i>
+           has deemed to be spurious distinctions.
+           <br/>
+           This discrimination does not apply to dialects, many of which have been inherited from
+           <a class="mw-redirect" href="/wiki/MultiTree" title="MultiTree">
+            MultiTree
+           </a>
+           or other sources without verification.
+          </span>
+         </li>
+         <li id="cite_note-2">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-2">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           Sign languages are listed together, including those grouped typologically as
+           <a href="/wiki/Village_sign_language" title="Village sign language">
+            village sign languages
+           </a>
+           , as are pidgins and unclassified languages, but without a claim that they are necessarily related.
+          </span>
+         </li>
+         <li id="cite_note-3">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-3">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           Geographic regions include "Papunesia" (a portmanteau of
+           <i>
+            Papua
+           </i>
+           (New Guinea) and
+           <i>
+            Austronesia
+           </i>
+           ), which refers to the islands of Insular Southeast Asia and Oceania.
+          </span>
+         </li>
+        </ol>
+       </div>
+      </div>
+      <h2>
+       <span class="mw-headline" id="External_links">
+        External links
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Glottolog&amp;action=edit&amp;section=3" title="Edit section: External links">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+       <tr>
+        <td class="mbox-image">
+         <img alt="" class="noviewer" data-file-height="590" data-file-width="1050" height="22" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/40px-Wikidata-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/60px-Wikidata-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/80px-Wikidata-logo.svg.png 2x" width="40"/>
+        </td>
+        <td class="mbox-text plainlist">
+         <a href="/wiki/Wikidata" title="Wikidata">
+          Wikidata
+         </a>
+         has the property:
+         <i>
+          <b>
+           <a class="extiw" href="https://www.wikidata.org/wiki/Property:P1394" title="d:Property:P1394">
+            Glottolog code
+            <small>
+             (P1394)
+            </small>
+           </a>
+          </b>
+         </i>
+         (see
+         <a class="extiw" href="https://www.wikidata.org/wiki/Special:WhatLinksHere/Property:P1394" title="d:Special:WhatLinksHere/Property:P1394">
+          uses
+         </a>
+         )
+        </td>
+       </tr>
+      </table>
+      <ul>
+       <li>
+        <a class="external text" href="http://glottolog.org/" rel="nofollow">
+         <i>
+          Glottolog
+         </i>
+         homepage
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://glottolog.org/glottolog/family" rel="nofollow">
+         Family listing
+        </a>
+       </li>
+      </ul>
+      <!-- 
+NewPP limit report
+Parsed by mw1284
+Cached time: 20180201024500
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.164 seconds
+Real time usage: 0.212 seconds
+Preprocessor visited node count: 829/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 6404/2097152 bytes
+Template argument size: 512/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 1/500
+Lua time usage: 0.032/10.000 seconds
+Lua memory usage: 1.09 MB/50 MB
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  108.634      1 -total
+ 36.47%   39.622      1 Template:Peacock
+ 31.25%   33.944      1 Template:Italic_title
+ 23.19%   25.193      1 Template:Ambox
+ 17.62%   19.138      1 Template:Wikidata_property
+ 16.15%   17.547      1 Template:Sister_project
+ 13.91%   15.115      1 Template:Side_box
+ 12.19%   13.239      1 Template:Reflist
+  8.45%    9.179      1 Template:DMCA
+  7.10%    7.708      1 Template:Dated_maintenance_category
+-->
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:42229472-0!canonical and timestamp 20180201024533 and revision id 823413939
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Glottolog&amp;oldid=823413939">
+      https://en.wikipedia.org/w/index.php?title=Glottolog&amp;oldid=823413939
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Linguistics_websites" title="Category:Linguistics websites">
+         Linguistics websites
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Language_families" title="Category:Language families">
+         Language families
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Bibliographic_databases_and_indexes" title="Category:Bibliographic databases and indexes">
+         Bibliographic databases and indexes
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:Articles_with_peacock_terms_from_June_2014" title="Category:Articles with peacock terms from June 2014">
+         Articles with peacock terms from June 2014
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:All_articles_with_peacock_terms" title="Category:All articles with peacock terms">
+         All articles with peacock terms
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Glottolog" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Glottolog" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Glottolog" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Glottolog" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="collapsible selected" id="ca-view">
+        <span>
+         <a href="/wiki/Glottolog">
+          Read
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Glottolog&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Glottolog&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Glottolog" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Glottolog" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Glottolog&amp;oldid=823413939" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Glottolog&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q17165062" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Glottolog&amp;id=823413939" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Glottolog">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Glottolog&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Glottolog&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-ar">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%BA%D9%84%D9%88%D8%AA%D9%88%D9%84%D9%88%D8%BA" hreflang="ar" lang="ar" title="غلوتولوغ – Arabic">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-el">
+        <a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/Glottolog" hreflang="el" lang="el" title="Glottolog – Greek">
+         Ελληνικά
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Glottolog" hreflang="fr" lang="fr" title="Glottolog – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-gl">
+        <a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Glottolog" hreflang="gl" lang="gl" title="Glottolog – Galician">
+         Galego
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ilo">
+        <a class="interlanguage-link-target" href="https://ilo.wikipedia.org/wiki/Glottolog" hreflang="ilo" lang="ilo" title="Glottolog – Iloko">
+         Ilokano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-id">
+        <a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Glottolog" hreflang="id" lang="id" title="Glottolog – Indonesian">
+         Bahasa Indonesia
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Glottolog" hreflang="it" lang="it" title="Glottolog – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/Glottolog" hreflang="ja" lang="ja" title="Glottolog – Japanese">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Glottolog" hreflang="pt" lang="pt" title="Glottolog – Portuguese">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sq">
+        <a class="interlanguage-link-target" href="https://sq.wikipedia.org/wiki/Glottolog" hreflang="sq" lang="sq" title="Glottolog – Albanian">
+         Shqip
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ur">
+        <a class="interlanguage-link-target" href="https://ur.wikipedia.org/wiki/%DA%AF%D9%84%D9%88%D9%B9%D9%88%D9%84%D8%A7%DA%AF" hreflang="ur" lang="ur" title="گلوٹولاگ – Urdu">
+         اردو
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-vi">
+        <a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/Glottolog" hreflang="vi" lang="vi" title="Glottolog – Vietnamese">
+         Tiếng Việt
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/Glottolog" hreflang="zh" lang="zh" title="Glottolog – Chinese">
+         中文
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q17165062#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 1 February 2018, at 02:45.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Glottolog&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.164","walltime":"0.212","ppvisitednodes":{"value":829,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":6404,"limit":2097152},"templateargumentsize":{"value":512,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  108.634      1 -total"," 36.47%   39.622      1 Template:Peacock"," 31.25%   33.944      1 Template:Italic_title"," 23.19%   25.193      1 Template:Ambox"," 17.62%   19.138      1 Template:Wikidata_property"," 16.15%   17.547      1 Template:Sister_project"," 13.91%   15.115      1 Template:Side_box"," 12.19%   13.239      1 Template:Reflist","  8.45%    9.179      1 Template:DMCA","  7.10%    7.708      1 Template:Dated_maintenance_category"]},"scribunto":{"limitreport-timeusage":{"value":"0.032","limit":"10.000"},"limitreport-memusage":{"value":1138772,"limit":52428800}},"cachereport":{"origin":"mw1284","timestamp":"20180201024500","ttl":1900800,"transientcontent":false}}});});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":68,"wgHostname":"mw1320"});});
+  </script>
+ </body>
+</html>

@@ -1,0 +1,3117 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Phi - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Phi","wgTitle":"Phi","wgCurRevisionId":822598535,"wgRevisionId":822598535,"wgArticleId":166707,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia indefinitely semi-protected pages","Articles containing Ancient Greek-language text","Articles containing Greek-language text","Wikipedia articles needing clarification from October 2009","All articles with unsourced statements","Articles with unsourced statements from February 2013","Greek letters"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Phi","wgRelevantArticleId":166707,"wgRequestId":"Wm-HpQpAIC4AAC9d-O4AAACE","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["autoconfirmed"],"wgRedirectedFrom":"Φ","wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgInternalRedirectTargetUrl":"/wiki/Phi","wgWikibaseItemId":"Q10029","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["mediawiki.action.view.redirect","ext.cite.a11y","ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.31.0-wmf.17" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Phi" rel="alternate"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/Phi" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Phi rootpage-Phi skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+    <div class="mw-indicator" id="mw-indicator-pp-default">
+     <a href="/wiki/Wikipedia:Protection_policy#semi" title="This article is semi-protected.">
+      <img alt="Page semi-protected" data-file-height="128" data-file-width="128" height="20" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Padlock-silver.svg/20px-Padlock-silver.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Padlock-silver.svg/30px-Padlock-silver.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Padlock-silver.svg/40px-Padlock-silver.svg.png 2x" width="20"/>
+     </a>
+    </div>
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Phi
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+     <span class="mw-redirectedfrom">
+      (Redirected from
+      <a class="mw-redirect" href="/w/index.php?title=%CE%A6&amp;redirect=no" title="Φ">
+       Φ
+      </a>
+      )
+     </span>
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <div class="hatnote navigation-not-searchable" role="note">
+       For similar symbols, see
+       <a class="mw-disambig" href="/wiki/%C3%98_(disambiguation)" title="Ø (disambiguation)">
+        Ø (disambiguation)
+       </a>
+       .
+      </div>
+      <div class="hatnote navigation-not-searchable" role="note">
+       This article is about the letter of the Greek alphabet. For the irrational number found in nature, see
+       <a href="/wiki/Golden_ratio" title="Golden ratio">
+        Golden ratio
+       </a>
+       . For other uses, see
+       <a class="mw-disambig" href="/wiki/Phi_(disambiguation)" title="Phi (disambiguation)">
+        Phi (disambiguation)
+       </a>
+       .
+      </div>
+      <table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:auto;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+       <tr>
+        <td style="padding:0.4em 0;padding:1.0em 0;">
+         <a class="image" href="/wiki/File:Phi_uc_lc.svg">
+          <img alt="Phi uc lc.svg" data-file-height="2000" data-file-width="3000" height="67" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Phi_uc_lc.svg/100px-Phi_uc_lc.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Phi_uc_lc.svg/150px-Phi_uc_lc.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Phi_uc_lc.svg/200px-Phi_uc_lc.svg.png 2x" width="100"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <th style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em;background:#ccf;font-size:150%;padding:0.25em;">
+         <a href="/wiki/Greek_alphabet" title="Greek alphabet">
+          Greek alphabet
+         </a>
+        </th>
+       </tr>
+       <tr>
+        <td class="hlist" style="padding:0 0.1em 0.4em;padding-top:0.15em;padding-bottom:0.6em;">
+         <table style="width:100%;border-collapse:collapse;border-spacing:0px 0px;border:none;margin-left:0.7em;text-align:left;">
+          <tr style="vertical-align:top">
+           <td>
+            Αα
+           </td>
+           <td style="padding-right:1.0em;">
+            <a href="/wiki/Alpha" title="Alpha">
+             Alpha
+            </a>
+           </td>
+           <td>
+            Νν
+           </td>
+           <td style="padding-right:0.6em;">
+            <a href="/wiki/Nu_(letter)" title="Nu (letter)">
+             Nu
+            </a>
+           </td>
+          </tr>
+          <tr style="vertical-align:top">
+           <td>
+            Ββ
+           </td>
+           <td style="padding-right:1.0em;">
+            <a href="/wiki/Beta" title="Beta">
+             Beta
+            </a>
+           </td>
+           <td>
+            Ξξ
+           </td>
+           <td style="padding-right:0.6em;">
+            <a href="/wiki/Xi_(letter)" title="Xi (letter)">
+             Xi
+            </a>
+           </td>
+          </tr>
+          <tr style="vertical-align:top">
+           <td>
+            Γγ
+           </td>
+           <td style="padding-right:1.0em;">
+            <a href="/wiki/Gamma" title="Gamma">
+             Gamma
+            </a>
+           </td>
+           <td>
+            Οο
+           </td>
+           <td style="padding-right:0.6em;">
+            <a href="/wiki/Omicron" title="Omicron">
+             Omicron
+            </a>
+           </td>
+          </tr>
+          <tr style="vertical-align:top">
+           <td>
+            Δδ
+           </td>
+           <td style="padding-right:1.0em;">
+            <a href="/wiki/Delta_(letter)" title="Delta (letter)">
+             Delta
+            </a>
+           </td>
+           <td>
+            Ππ
+           </td>
+           <td style="padding-right:0.6em;">
+            <a href="/wiki/Pi_(letter)" title="Pi (letter)">
+             Pi
+            </a>
+           </td>
+          </tr>
+          <tr style="vertical-align:top">
+           <td>
+            Εε
+           </td>
+           <td style="padding-right:1.0em;">
+            <a href="/wiki/Epsilon" title="Epsilon">
+             Epsilon
+            </a>
+           </td>
+           <td>
+            Ρρ
+           </td>
+           <td style="padding-right:0.6em;">
+            <a href="/wiki/Rho" title="Rho">
+             Rho
+            </a>
+           </td>
+          </tr>
+          <tr style="vertical-align:top">
+           <td>
+            Ζζ
+           </td>
+           <td style="padding-right:1.0em;">
+            <a href="/wiki/Zeta" title="Zeta">
+             Zeta
+            </a>
+           </td>
+           <td>
+            Σσς
+           </td>
+           <td style="padding-right:0.6em;">
+            <a href="/wiki/Sigma" title="Sigma">
+             Sigma
+            </a>
+           </td>
+          </tr>
+          <tr style="vertical-align:top">
+           <td>
+            Ηη
+           </td>
+           <td style="padding-right:1.0em;">
+            <a href="/wiki/Eta" title="Eta">
+             Eta
+            </a>
+           </td>
+           <td>
+            Ττ
+           </td>
+           <td style="padding-right:0.6em;">
+            <a href="/wiki/Tau" title="Tau">
+             Tau
+            </a>
+           </td>
+          </tr>
+          <tr style="vertical-align:top">
+           <td>
+            Θθ
+           </td>
+           <td style="padding-right:1.0em;">
+            <a href="/wiki/Theta" title="Theta">
+             Theta
+            </a>
+           </td>
+           <td>
+            Υυ
+           </td>
+           <td style="padding-right:0.6em;">
+            <a href="/wiki/Upsilon" title="Upsilon">
+             Upsilon
+            </a>
+           </td>
+          </tr>
+          <tr style="vertical-align:top">
+           <td>
+            Ιι
+           </td>
+           <td style="padding-right:1.0em;">
+            <a href="/wiki/Iota" title="Iota">
+             Iota
+            </a>
+           </td>
+           <td>
+            Φφ
+           </td>
+           <td style="padding-right:0.6em;">
+            <a class="mw-selflink selflink">
+             Phi
+            </a>
+           </td>
+          </tr>
+          <tr style="vertical-align:top">
+           <td>
+            Κκ
+           </td>
+           <td style="padding-right:1.0em;">
+            <a href="/wiki/Kappa" title="Kappa">
+             Kappa
+            </a>
+           </td>
+           <td>
+            Χχ
+           </td>
+           <td style="padding-right:0.6em;">
+            <a href="/wiki/Chi_(letter)" title="Chi (letter)">
+             Chi
+            </a>
+           </td>
+          </tr>
+          <tr style="vertical-align:top">
+           <td>
+            Λλ
+           </td>
+           <td style="padding-right:1.0em;">
+            <a href="/wiki/Lambda" title="Lambda">
+             Lambda
+            </a>
+           </td>
+           <td>
+            Ψψ
+           </td>
+           <td style="padding-right:0.6em;">
+            <a href="/wiki/Psi_(letter)" title="Psi (letter)">
+             Psi
+            </a>
+           </td>
+          </tr>
+          <tr style="vertical-align:top">
+           <td>
+            Μμ
+           </td>
+           <td style="padding-right:1.0em;">
+            <a href="/wiki/Mu_(letter)" title="Mu (letter)">
+             Mu
+            </a>
+           </td>
+           <td>
+            Ωω
+           </td>
+           <td style="padding-right:0.6em;">
+            <a href="/wiki/Omega" title="Omega">
+             Omega
+            </a>
+           </td>
+          </tr>
+         </table>
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-abovebelow" style="padding:0.1em">
+         <a href="/wiki/History_of_the_Greek_alphabet" title="History of the Greek alphabet">
+          History
+         </a>
+        </th>
+       </tr>
+       <tr>
+        <td class="hlist" style="padding:0 0.1em 0.4em;padding-top:0.15em;padding-bottom:0.6em;">
+         <div style="padding:0.2em 0.4em; line-height:1.2em; line-height:1.1em;padding-bottom:0.45em;">
+          <a href="/wiki/Archaic_Greek_alphabets" title="Archaic Greek alphabets">
+           Archaic local variants
+          </a>
+          <div class="hlist hlist-separated">
+           <ul>
+            <li>
+             <a href="/wiki/Digamma" title="Digamma">
+              <img alt="Digamma" data-file-height="53" data-file-width="43" height="16" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Greek_Digamma_normal.svg/13px-Greek_Digamma_normal.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Greek_Digamma_normal.svg/19px-Greek_Digamma_normal.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Greek_Digamma_normal.svg/26px-Greek_Digamma_normal.svg.png 2x" width="13"/>
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Heta" title="Heta">
+              <img alt="Heta" data-file-height="53" data-file-width="43" height="16" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Greek_Eta_tack.svg/13px-Greek_Eta_tack.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Greek_Eta_tack.svg/19px-Greek_Eta_tack.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Greek_Eta_tack.svg/26px-Greek_Eta_tack.svg.png 2x" width="13"/>
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/San_(letter)" title="San">
+              <img alt="San" data-file-height="53" data-file-width="43" height="16" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Greek_San_slanted.svg/13px-Greek_San_slanted.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Greek_San_slanted.svg/19px-Greek_San_slanted.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Greek_San_slanted.svg/26px-Greek_San_slanted.svg.png 2x" width="13"/>
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Koppa_(letter)" title="Koppa">
+              <img alt="Koppa" data-file-height="53" data-file-width="43" height="16" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Greek_Koppa_normal.svg/13px-Greek_Koppa_normal.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Greek_Koppa_normal.svg/19px-Greek_Koppa_normal.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Greek_Koppa_normal.svg/26px-Greek_Koppa_normal.svg.png 2x" width="13"/>
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Sampi" title="Sampi">
+              <img alt="Sampi" data-file-height="53" data-file-width="43" height="16" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Greek_Sampi_Ionian.svg/13px-Greek_Sampi_Ionian.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Greek_Sampi_Ionian.svg/19px-Greek_Sampi_Ionian.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Greek_Sampi_Ionian.svg/26px-Greek_Sampi_Ionian.svg.png 2x" width="13"/>
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Tsan" title="Tsan">
+              <img alt="Tsan" data-file-height="53" data-file-width="43" height="16" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Greek_Sigma_01.svg/13px-Greek_Sigma_01.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Greek_Sigma_01.svg/19px-Greek_Sigma_01.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Greek_Sigma_01.svg/26px-Greek_Sigma_01.svg.png 2x" width="13"/>
+             </a>
+            </li>
+           </ul>
+          </div>
+         </div>
+         <ul>
+          <li>
+           <a href="/wiki/Greek_diacritics" title="Greek diacritics">
+            Diacritics
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Greek_ligatures" title="Greek ligatures">
+            Ligatures
+           </a>
+          </li>
+         </ul>
+         <div style="padding:0.2em 0.4em; line-height:1.2em; padding-top:0.3em;line-height:1.1em;padding-bottom:0;">
+          <a href="/wiki/Greek_numerals" title="Greek numerals">
+           Numerals
+          </a>
+          <div class="hlist hlist-separated">
+           <ul>
+            <li style="font-size:110%;">
+             <a href="/wiki/Digamma" title="Digamma">
+              ϛ
+              <small>
+               (6)
+              </small>
+             </a>
+            </li>
+            <li style="font-size:110%;">
+             <a href="/wiki/Koppa_(letter)" title="Koppa (letter)">
+              ϟ
+              <small>
+               (90)
+              </small>
+             </a>
+            </li>
+            <li style="font-size:110%;">
+             <a href="/wiki/Sampi" title="Sampi">
+              ϡ
+              <small>
+               (900)
+              </small>
+             </a>
+            </li>
+           </ul>
+          </div>
+         </div>
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-abovebelow" style="padding:0.1em">
+         Use in other languages
+        </th>
+       </tr>
+       <tr>
+        <td class="hlist" style="padding:0 0.1em 0.4em;padding-top:0.15em;padding-bottom:0.6em;">
+         <ul>
+          <li>
+           <a href="/wiki/Bactrian_language" title="Bactrian language">
+            Bactrian
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Coptic_alphabet" title="Coptic alphabet">
+            Coptic
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Albanian_alphabet#Greek" title="Albanian alphabet">
+            Albanian
+           </a>
+          </li>
+         </ul>
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-abovebelow" style="padding:0.1em">
+         Related topics
+        </th>
+       </tr>
+       <tr>
+        <td class="hlist" style="padding:0 0.1em 0.4em;padding-top:0.15em;padding-bottom:0.6em;">
+         <ul>
+          <li>
+           <a href="/wiki/Greek_letters_used_in_mathematics,_science,_and_engineering" title="Greek letters used in mathematics, science, and engineering">
+            Use as scientific symbols
+           </a>
+          </li>
+         </ul>
+        </td>
+       </tr>
+       <tr>
+        <td class="plainlist" style="padding:0.3em 0.4em 0.3em;font-weight:bold;border-top:1px solid #aaa;line-height:1.6em;font-weight:bold;padding-bottom:0.4em;border-bottom:1px solid #aaa;">
+         <div class="hlist">
+          <ul>
+           <li>
+            <img alt="Wikipedia book" data-file-height="185" data-file-width="180" height="16" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/16px-Symbol_book_class2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/23px-Symbol_book_class2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/31px-Symbol_book_class2.svg.png 2x" title="Wikipedia book" width="16"/>
+            <a href="/wiki/Book:Greek_alphabet" title="Book:Greek alphabet">
+             Book
+            </a>
+           </li>
+           <li>
+            <img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/>
+            <a href="/wiki/Category:Greek_letters" title="Category:Greek letters">
+             Category
+            </a>
+           </li>
+          </ul>
+         </div>
+         <ul>
+          <li>
+           <img alt="Commons page" data-file-height="1376" data-file-width="1024" height="16" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" title="Commons page" width="12"/>
+           <a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Greek_alphabet" title="commons:Category:Greek alphabet">
+            Commons
+           </a>
+          </li>
+         </ul>
+        </td>
+       </tr>
+       <tr>
+        <td style="text-align:right;font-size:115%">
+         <div class="plainlinks hlist navbar mini">
+          <ul>
+           <li class="nv-view">
+            <a href="/wiki/Template:Greek_alphabet_sidebar" title="Template:Greek alphabet sidebar">
+             <abbr title="View this template">
+              v
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-talk">
+            <a href="/wiki/Template_talk:Greek_alphabet_sidebar" title="Template talk:Greek alphabet sidebar">
+             <abbr title="Discuss this template">
+              t
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-edit">
+            <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Greek_alphabet_sidebar&amp;action=edit">
+             <abbr title="Edit this template">
+              e
+             </abbr>
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+      </table>
+      <p>
+       <b>
+        Phi
+       </b>
+       (
+       <span class="nowrap">
+        <span class="IPA nopopups noexcerpt">
+         <a href="/wiki/Help:IPA/English" title="Help:IPA/English">
+          /
+          <span style="border-bottom:1px dotted">
+           <span title="'f' in 'find'">
+            f
+           </span>
+           <span title="/aɪ/: 'i' in 'tide'">
+            aɪ
+           </span>
+          </span>
+          /
+         </a>
+        </span>
+       </span>
+       ;
+       <sup class="reference" id="cite_ref-1">
+        <a href="#cite_note-1">
+         [1]
+        </a>
+       </sup>
+       uppercase
+       <b>
+        Φ
+       </b>
+       , lowercase
+       <b>
+        φ
+       </b>
+       or
+       <b>
+        ϕ
+       </b>
+       ;
+       <a class="mw-redirect" href="/wiki/Ancient_Greek_language" title="Ancient Greek language">
+        Ancient Greek
+       </a>
+       :
+       <span lang="grc" xml:lang="grc">
+        ϕεῖ
+       </span>
+       <i>
+        pheî
+       </i>
+       <span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)">
+        <a href="/wiki/Help:IPA/Greek" title="Help:IPA/Greek">
+         [pʰé͜e]
+        </a>
+       </span>
+       ;
+       <a href="/wiki/Greek_language" title="Greek language">
+        Greek
+       </a>
+       :
+       <span lang="el" xml:lang="el">
+        φι
+       </span>
+       <i>
+        fi
+       </i>
+       <span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)">
+        <a href="/wiki/Help:IPA/Greek" title="Help:IPA/Greek">
+         [fi]
+        </a>
+       </span>
+       ) is the 21st letter of the
+       <a href="/wiki/Greek_alphabet" title="Greek alphabet">
+        Greek alphabet
+       </a>
+       . In
+       <a href="/wiki/Ancient_Greek" title="Ancient Greek">
+        Ancient Greek
+       </a>
+       , it represented an
+       <a class="mw-redirect" href="/wiki/Aspiration_(phonetics)" title="Aspiration (phonetics)">
+        aspirated
+       </a>
+       <a class="mw-redirect" href="/wiki/Voiceless_bilabial_plosive" title="Voiceless bilabial plosive">
+        voiceless bilabial plosive
+       </a>
+       (
+       <span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)">
+        [pʰ]
+       </span>
+       ), which was the origin of its
+       <a href="/wiki/Romanization_of_Greek#Ancient_Greek" title="Romanization of Greek">
+        usual romanization
+       </a>
+       as "ph". In modern Greek, it represents a
+       <a href="/wiki/Voiceless_labiodental_fricative" title="Voiceless labiodental fricative">
+        voiceless labiodental fricative
+       </a>
+       (
+       <span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)">
+        [f]
+       </span>
+       ) and is correspondingly
+       <a href="/wiki/Romanization_of_Greek#Modern_Greek" title="Romanization of Greek">
+        romanized
+       </a>
+       as "f". Its origin is uncertain but it may be that phi originated as the letter
+       <a class="mw-redirect" href="/wiki/Qoppa" title="Qoppa">
+        qoppa
+       </a>
+       and initially represented the sound
+       <span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)">
+        /kʷʰ/
+       </span>
+       before shifting to Classical Greek
+       <span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)">
+        <a href="/wiki/Help:IPA/Greek" title="Help:IPA/Greek">
+         [pʰ]
+        </a>
+       </span>
+       .
+       <sup class="reference" id="cite_ref-2">
+        <a href="#cite_note-2">
+         [2]
+        </a>
+       </sup>
+       In traditional
+       <a href="/wiki/Greek_numerals" title="Greek numerals">
+        Greek numerals
+       </a>
+       , phi has a value of 500 (
+       <span lang="grc" xml:lang="grc">
+        φʹ
+       </span>
+       ) or 500,000 (
+       <span lang="grc" xml:lang="grc">
+        ͵φ
+       </span>
+       ). The Cyrillic letter
+       <a href="/wiki/Ef_(Cyrillic)" title="Ef (Cyrillic)">
+        Ef
+       </a>
+       (Ф, ф) descends from phi.
+      </p>
+      <p>
+       Phi is also used as a symbol for the
+       <a href="/wiki/Golden_ratio" title="Golden ratio">
+        golden ratio
+       </a>
+       and on other occasions in math and science. This use is separately encoded as the
+       <a href="/wiki/Unicode" title="Unicode">
+        Unicode
+       </a>
+       glyph
+       <b>
+        ϕ
+       </b>
+       . The modern Greek pronunciation of the letter is sometimes encountered in English (as
+       <span class="nowrap">
+        <span class="IPA nopopups noexcerpt">
+         <a href="/wiki/Help:IPA/English" title="Help:IPA/English">
+          /
+          <span style="border-bottom:1px dotted">
+           <span title="'f' in 'find'">
+            f
+           </span>
+           <span title="/iː/: 'ee' in 'fleece'">
+            iː
+           </span>
+          </span>
+          /
+         </a>
+        </span>
+       </span>
+       ) when the letter is being used in this sense.
+       <sup class="reference" id="cite_ref-3">
+        <a href="#cite_note-3">
+         [3]
+        </a>
+       </sup>
+      </p>
+      <p>
+      </p>
+      <div class="toc" id="toc">
+       <div class="toctitle" dir="ltr" lang="en" xml:lang="en">
+        <h2>
+         Contents
+        </h2>
+       </div>
+       <ul>
+        <li class="toclevel-1 tocsection-1">
+         <a href="#Use_as_a_symbol">
+          <span class="tocnumber">
+           1
+          </span>
+          <span class="toctext">
+           Use as a symbol
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-2">
+         <a href="#Computing">
+          <span class="tocnumber">
+           2
+          </span>
+          <span class="toctext">
+           Computing
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-3">
+         <a href="#See_also">
+          <span class="tocnumber">
+           3
+          </span>
+          <span class="toctext">
+           See also
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-4">
+         <a href="#References">
+          <span class="tocnumber">
+           4
+          </span>
+          <span class="toctext">
+           References
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <p>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Use_as_a_symbol">
+        <span id="Functions">
+        </span>
+        Use as a symbol
+       </span>
+      </h2>
+      <p>
+       The lower-case letter φ (or often its variant, ϕ) is often used to represent the following:
+      </p>
+      <ul>
+       <li>
+        <a href="/wiki/Magnetic_flux" title="Magnetic flux">
+         Magnetic flux
+        </a>
+        in
+        <a href="/wiki/Physics" title="Physics">
+         physics
+        </a>
+       </li>
+       <li>
+        The
+        <a href="/wiki/Golden_ratio" title="Golden ratio">
+         golden ratio
+        </a>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle {\tfrac {1+{\sqrt {5}}}{2}}\approx }" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mrow class="MJX-TeXAtom-ORD">
+               <mstyle displaystyle="false" scriptlevel="0">
+                <mfrac>
+                 <mrow>
+                  <mn>
+                   1
+                  </mn>
+                  <mo>
+                   +
+                  </mo>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <msqrt>
+                    <mn>
+                     5
+                    </mn>
+                   </msqrt>
+                  </mrow>
+                 </mrow>
+                 <mn>
+                  2
+                 </mn>
+                </mfrac>
+               </mstyle>
+              </mrow>
+              <mo>
+               ≈
+               <!-- ≈ -->
+              </mo>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle {\tfrac {1+{\sqrt {5}}}{2}}\approx }
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="{\tfrac {1+{\sqrt {5}}}{2}}\approx " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8b01489b13a55e36d1279cc65711a181c08fd535" style="vertical-align: -1.171ex; width:7.581ex; height:4.176ex;"/>
+        </span>
+        <span class="nowrap">
+         <span class="sortkey" style="display:none">
+          7000161803398874989♠
+         </span>
+         1.618
+         <span style="margin-left:.25em;">
+          033
+         </span>
+         <span style="margin-left:.25em;">
+          988
+         </span>
+         <span style="margin-left:.25em;">
+          749
+         </span>
+         <span style="margin-left:.25em;">
+          894
+         </span>
+         <span style="margin-left:.25em;">
+          848
+         </span>
+         <span style="margin-left:.25em;">
+          204
+         </span>
+         <span style="margin-left:.25em;">
+          586
+         </span>
+         <span style="margin-left:.25em;">
+          834
+         </span>
+        </span>
+        ... in mathematics, art, and architecture.
+       </li>
+       <li>
+        <a href="/wiki/Euler%27s_totient_function" title="Euler's totient function">
+         Euler's totient function
+        </a>
+        <i>
+         φ
+        </i>
+        (
+        <i>
+         n
+        </i>
+        ) in number theory; also called
+        <i>
+         Euler's phi function
+        </i>
+        .
+       </li>
+       <li>
+        The
+        <a href="/wiki/Cyclotomic_polynomial" title="Cyclotomic polynomial">
+         cyclotomic polynomial
+        </a>
+        functions Φ
+        <sub>
+         <i>
+          n
+         </i>
+        </sub>
+        (
+        <i>
+         x
+        </i>
+        ) of algebra.
+       </li>
+       <li>
+        In algebra,
+        <a href="/wiki/Group_(mathematics)" title="Group (mathematics)">
+         group
+        </a>
+        or
+        <a href="/wiki/Ring_(mathematics)" title="Ring (mathematics)">
+         ring
+        </a>
+        <a href="/wiki/Homomorphism" title="Homomorphism">
+         homomorphisms
+        </a>
+       </li>
+       <li>
+        In
+        <a href="/wiki/Probability_theory" title="Probability theory">
+         probability theory
+        </a>
+        ,
+        <span class="nowrap">
+         <i>
+          ϕ
+         </i>
+         (
+         <i>
+          x
+         </i>
+         ) = (2π)
+         <sup>
+          −½
+         </sup>
+         <i>
+          e
+         </i>
+         <sup>
+          −
+          <i>
+           x
+          </i>
+          ²/2
+         </sup>
+        </span>
+        is the
+        <a href="/wiki/Probability_density_function" title="Probability density function">
+         probability density function
+        </a>
+        of the
+        <a href="/wiki/Normal_distribution" title="Normal distribution">
+         normal distribution
+        </a>
+        .
+       </li>
+       <li>
+        In
+        <a href="/wiki/Probability_theory" title="Probability theory">
+         probability theory
+        </a>
+        ,
+        <span class="nowrap">
+         <i>
+          φ
+         </i>
+         <sub>
+          <i>
+           X
+          </i>
+         </sub>
+         (
+         <i>
+          t
+         </i>
+         ) = E[
+         <i>
+          e
+         </i>
+         <sup>
+          <i>
+           itX
+          </i>
+         </sup>
+         ]
+        </span>
+        is the
+        <a href="/wiki/Characteristic_function_(probability_theory)" title="Characteristic function (probability theory)">
+         characteristic function
+        </a>
+        of a random variable
+        <i>
+         X
+        </i>
+        .
+       </li>
+       <li>
+        An
+        <a href="/wiki/Angle" title="Angle">
+         angle
+        </a>
+        , typically the second angle mentioned, after
+        <i>
+         θ
+        </i>
+        (
+        <a href="/wiki/Theta" title="Theta">
+         theta
+        </a>
+        ). Especially:
+        <ul>
+         <li>
+          The argument of a
+          <a href="/wiki/Complex_number" title="Complex number">
+           complex number
+          </a>
+          .
+         </li>
+         <li>
+          The
+          <a href="/wiki/Phase_(waves)" title="Phase (waves)">
+           phase of a wave
+          </a>
+          in signal processing.
+         </li>
+         <li>
+          In
+          <a class="mw-redirect" href="/wiki/Spherical_coordinates" title="Spherical coordinates">
+           spherical coordinates
+          </a>
+          , mathematicians usually refer to phi as the polar angle (from the
+          <i>
+           z
+          </i>
+          -
+          <a class="mw-redirect" href="/wiki/Coordinate_axis" title="Coordinate axis">
+           axis
+          </a>
+          ). The convention in physics is to use phi as the azimuthal angle (from the
+          <i>
+           x
+          </i>
+          -axis).
+         </li>
+         <li>
+          One of the
+          <a href="/wiki/Dihedral_angle" title="Dihedral angle">
+           dihedral angles
+          </a>
+          in the backbones of
+          <a href="/wiki/Protein" title="Protein">
+           proteins
+          </a>
+          in a
+          <a href="/wiki/Ramachandran_plot" title="Ramachandran plot">
+           Ramachandran plot
+          </a>
+         </li>
+         <li>
+          Internal or effective
+          <a class="mw-redirect" href="/wiki/Angle_of_friction" title="Angle of friction">
+           angle of friction
+          </a>
+          .
+         </li>
+        </ul>
+       </li>
+       <li>
+        The
+        <a href="/wiki/Work_function" title="Work function">
+         work function
+        </a>
+        of a surface, in
+        <a href="/wiki/Solid-state_physics" title="Solid-state physics">
+         solid-state physics
+        </a>
+        .
+       </li>
+       <li>
+        A
+        <a href="/wiki/Shorthand" title="Shorthand">
+         shorthand
+        </a>
+        representation for an
+        <a class="mw-redirect" href="/wiki/Aromatic" title="Aromatic">
+         aromatic
+        </a>
+        <a href="/wiki/Functional_group" title="Functional group">
+         functional group
+        </a>
+        in
+        <a href="/wiki/Organic_chemistry" title="Organic chemistry">
+         organic chemistry
+        </a>
+        .
+       </li>
+       <li>
+        The
+        <a href="/wiki/Fugacity" title="Fugacity">
+         fugacity
+        </a>
+        coefficient in
+        <a href="/wiki/Thermodynamics" title="Thermodynamics">
+         thermodynamics
+        </a>
+        .
+       </li>
+       <li>
+        The ratio of
+        <a href="/wiki/Thermodynamic_free_energy" title="Thermodynamic free energy">
+         free energy
+        </a>
+        destabilizations of protein
+        <a href="/wiki/Mutant" title="Mutant">
+         mutants
+        </a>
+        in
+        <a href="/wiki/Phi_value_analysis" title="Phi value analysis">
+         phi value analysis
+        </a>
+        .
+       </li>
+       <li>
+        In
+        <a href="/wiki/Cartography" title="Cartography">
+         cartography
+        </a>
+        ,
+        <a href="/wiki/Geodesy" title="Geodesy">
+         geodesy
+        </a>
+        and
+        <a href="/wiki/Navigation" title="Navigation">
+         navigation
+        </a>
+        ,
+        <a href="/wiki/Latitude" title="Latitude">
+         latitude
+        </a>
+        .
+       </li>
+       <li>
+        In
+        <a href="/wiki/Aircraft_flight_mechanics" title="Aircraft flight mechanics">
+         aircraft flight mechanics
+        </a>
+        as the symbol for
+        <a class="mw-redirect" href="/wiki/Bank_angle" title="Bank angle">
+         bank angle
+        </a>
+        (sometimes represented with the letter theta, which is also used for pitch angle).
+       </li>
+       <li>
+        In combustion engineering,
+        <a href="/wiki/Air%E2%80%93fuel_ratio#Fuel–air_equivalence_ratio_(ϕ)" title="Air–fuel ratio">
+         fuel–air equivalence ratio
+        </a>
+        . The ratio between the actual fuel air ratio to the stoichiometric fuel air ratio.
+       </li>
+       <li>
+        A sentence in
+        <a href="/wiki/First-order_logic" title="First-order logic">
+         first-order logic
+        </a>
+        .
+       </li>
+       <li>
+        The
+        <a href="/wiki/Veblen_function" title="Veblen function">
+         Veblen function
+        </a>
+        in
+        <a href="/wiki/Set_theory" title="Set theory">
+         set theory
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Porosity" title="Porosity">
+         Porosity
+        </a>
+        in geology and
+        <a href="/wiki/Hydrology" title="Hydrology">
+         hydrology
+        </a>
+        .
+       </li>
+       <li>
+        Strength (or resistance) reduction factor in
+        <a href="/wiki/Structural_engineering" title="Structural engineering">
+         structural engineering
+        </a>
+        , used to account for statistical variabilities in materials and construction methods.
+       </li>
+       <li>
+        The symbol for a
+        <a href="/wiki/Voiceless_bilabial_fricative" title="Voiceless bilabial fricative">
+         voiceless bilabial fricative
+        </a>
+        in the
+        <a href="/wiki/International_Phonetic_Alphabet" title="International Phonetic Alphabet">
+         International Phonetic Alphabet
+        </a>
+        (using the straight line variant character)
+       </li>
+       <li>
+        In economics, this is usually an additive term.
+        <sup class="noprint Inline-Template" style="margin-left:0.1em; white-space:nowrap;">
+         [
+         <i>
+          <a href="/wiki/Wikipedia:Please_clarify" title="Wikipedia:Please clarify">
+           <span title="The text near this tag may need clarification or removal of jargon. (October 2009)">
+            clarification needed
+           </span>
+          </a>
+         </i>
+         ]
+        </sup>
+       </li>
+       <li>
+        In
+        <a href="/wiki/Flight_dynamics" title="Flight dynamics">
+         flight dynamics
+        </a>
+        , the roll angle.
+       </li>
+       <li>
+        In
+        <a href="/wiki/Philosophy" title="Philosophy">
+         philosophy
+        </a>
+        , φ is often used as shorthand for a generic act. (Also in upper-case.)
+       </li>
+       <li>
+        In
+        <a href="/wiki/Perceptual_psychology" title="Perceptual psychology">
+         perceptual psychology
+        </a>
+        , the
+        <a href="/wiki/Phi_phenomenon" title="Phi phenomenon">
+         phi phenomenon
+        </a>
+        is the apparent motion caused by the successive viewing of stationary objects, such as the frames of a motion picture.
+       </li>
+       <li>
+        In
+        <a class="mw-redirect" href="/wiki/Lexical-functional_grammar" title="Lexical-functional grammar">
+         lexical-functional grammar
+        </a>
+        , the function that maps elements from the c-structure to the f-structure.
+       </li>
+       <li>
+        The logo of
+        <a href="/wiki/La_France_Insoumise" title="La France Insoumise">
+         La France Insoumise
+        </a>
+        , a French
+        <a href="/wiki/Political_party" title="Political party">
+         political party
+        </a>
+        .
+       </li>
+      </ul>
+      <p>
+       The upper-case letter Φ is used as a symbol for:
+      </p>
+      <ul>
+       <li>
+        The
+        <a href="/wiki/Golden_ratio#Golden_ratio_conjugate" title="Golden ratio">
+         golden ratio conjugate
+        </a>
+        −0.618... in mathematics.
+       </li>
+       <li>
+        The
+        <a href="/wiki/Magnetic_flux" title="Magnetic flux">
+         magnetic flux
+        </a>
+        and
+        <a href="/wiki/Electric_flux" title="Electric flux">
+         electric flux
+        </a>
+        in physics, with subscripts distinguishing the two.
+       </li>
+       <li>
+        The
+        <a href="/wiki/Cumulative_distribution_function" title="Cumulative distribution function">
+         cumulative distribution function
+        </a>
+        of the
+        <a href="/wiki/Normal_distribution" title="Normal distribution">
+         normal distribution
+        </a>
+        in
+        <a href="/wiki/Mathematics" title="Mathematics">
+         mathematics
+        </a>
+        and
+        <a href="/wiki/Statistics" title="Statistics">
+         statistics
+        </a>
+        .
+       </li>
+       <li>
+        In
+        <a href="/wiki/Philosophy" title="Philosophy">
+         philosophy
+        </a>
+        , Φ is often used as shorthand for a generic act. (Also in lower-case.)
+        <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+         [
+         <i>
+          <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+           <span title="This claim needs references to reliable sources. (February 2013)">
+            citation needed
+           </span>
+          </a>
+         </i>
+         ]
+        </sup>
+       </li>
+       <li>
+        The number of phases in a power system in
+        <a href="/wiki/Electrical_engineering" title="Electrical engineering">
+         electrical engineering
+        </a>
+        , for example 1Φ for
+        <a class="mw-redirect" href="/wiki/Single_phase" title="Single phase">
+         single phase
+        </a>
+        , 3Φ for
+        <a class="mw-redirect" href="/wiki/Three_phase" title="Three phase">
+         three phase
+        </a>
+        .
+       </li>
+       <li>
+        A common symbol for the parametrization of a surface in vector
+        <a href="/wiki/Calculus" title="Calculus">
+         calculus
+        </a>
+        .
+       </li>
+       <li>
+        In
+        <a class="mw-redirect" href="/wiki/Lacanian_algebra" title="Lacanian algebra">
+         Lacanian algebra
+        </a>
+        , Φ stands for the imaginary phallus and also represents phallic signification; -Φ stands in for castration.
+        <sup class="reference" id="cite_ref-4">
+         <a href="#cite_note-4">
+          [4]
+         </a>
+        </sup>
+       </li>
+      </ul>
+      <p>
+       The
+       <a class="mw-redirect" href="/wiki/Diameter_symbol" title="Diameter symbol">
+        diameter symbol
+       </a>
+       in
+       <a href="/wiki/Engineering" title="Engineering">
+        engineering
+       </a>
+       ,
+       <a class="mw-redirect" href="/wiki/%E2%8C%80" title="⌀">
+        ⌀
+       </a>
+       , is often incorrectly referred to as "phi". This symbol is used to indicate the diameter of a circular section; for example, "⌀14" means the diameter of the
+       <a href="/wiki/Circle" title="Circle">
+        circle
+       </a>
+       is 14
+       <a href="/wiki/Units_of_measurement" title="Units of measurement">
+        units
+       </a>
+       .
+      </p>
+      <h2>
+       <span class="mw-headline" id="Computing">
+        Computing
+       </span>
+      </h2>
+      <p>
+       In
+       <a href="/wiki/Unicode" title="Unicode">
+        Unicode
+       </a>
+       , there are multiple forms of the phi letter:
+      </p>
+      <table class="wikitable">
+       <tr>
+        <th>
+         Character
+        </th>
+        <th>
+         Name
+        </th>
+        <th>
+         Correct appearance
+        </th>
+        <th>
+         Your browser
+        </th>
+        <th>
+         Usage
+        </th>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Unicode#Upluslink" title="Unicode">
+          U+
+         </a>
+         03A6
+        </td>
+        <td>
+         GREEK CAPITAL LETTER PHI
+        </td>
+        <td style="text-align: center;">
+         <span class="mwe-math-element">
+          <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+           <math alttext="{\displaystyle \Phi \,\!}" xmlns="http://www.w3.org/1998/Math/MathML">
+            <semantics>
+             <mrow class="MJX-TeXAtom-ORD">
+              <mstyle displaystyle="true" scriptlevel="0">
+               <mi mathvariant="normal">
+                Φ
+                <!-- Φ -->
+               </mi>
+               <mspace width="thinmathspace">
+               </mspace>
+               <mspace width="negativethinmathspace">
+               </mspace>
+              </mstyle>
+             </mrow>
+             <annotation encoding="application/x-tex">
+              {\displaystyle \Phi \,\!}
+             </annotation>
+            </semantics>
+           </math>
+          </span>
+          <img alt="\Phi \,\!" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/21242b7aa20bff076c14a47d1a2d9f0afb35f165" style="vertical-align: -0.338ex; margin-right: -0.387ex; width:2.065ex; height:2.176ex;"/>
+         </span>
+        </td>
+        <td style="font-size: larger; text-align: center;">
+         Φ
+        </td>
+        <td>
+         Used in Greek texts
+        </td>
+       </tr>
+       <tr>
+        <td>
+         U+03C6
+        </td>
+        <td>
+         GREEK SMALL LETTER PHI
+        </td>
+        <td style="text-align: center;">
+         <a class="image" href="/wiki/File:Greek_phi_Didot.svg">
+          <img alt="Greek phi Didot.svg" data-file-height="56" data-file-width="40" height="16" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Greek_phi_Didot.svg/11px-Greek_phi_Didot.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Greek_phi_Didot.svg/17px-Greek_phi_Didot.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Greek_phi_Didot.svg/23px-Greek_phi_Didot.svg.png 2x" width="11"/>
+         </a>
+         or
+         <a class="image" href="/wiki/File:Greek_phi_Porson.svg">
+          <img alt="Greek phi Porson.svg" data-file-height="56" data-file-width="35" height="16" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Greek_phi_Porson.svg/10px-Greek_phi_Porson.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Greek_phi_Porson.svg/15px-Greek_phi_Porson.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Greek_phi_Porson.svg/20px-Greek_phi_Porson.svg.png 2x" width="10"/>
+         </a>
+        </td>
+        <td style="font-size: larger; text-align: center;">
+         φ
+        </td>
+        <td>
+         Used in Greek texts
+        </td>
+       </tr>
+       <tr>
+        <td>
+         U+03D5
+        </td>
+        <td>
+         GREEK PHI SYMBOL
+        </td>
+        <td style="text-align: center;">
+         <span class="mwe-math-element">
+          <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+           <math alttext="{\displaystyle \phi \,\!}" xmlns="http://www.w3.org/1998/Math/MathML">
+            <semantics>
+             <mrow class="MJX-TeXAtom-ORD">
+              <mstyle displaystyle="true" scriptlevel="0">
+               <mi>
+                ϕ
+                <!-- ϕ -->
+               </mi>
+               <mspace width="thinmathspace">
+               </mspace>
+               <mspace width="negativethinmathspace">
+               </mspace>
+              </mstyle>
+             </mrow>
+             <annotation encoding="application/x-tex">
+              {\displaystyle \phi \,\!}
+             </annotation>
+            </semantics>
+           </math>
+          </span>
+          <img alt="\phi \,\!" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/30ae608cf0ade0577802bc4ffa026a29ab35c365" style="vertical-align: -0.671ex; margin-right: -0.387ex; width:1.773ex; height:2.509ex;"/>
+         </span>
+        </td>
+        <td style="font-size: larger; text-align: center;">
+         ϕ (
+         <i>
+          ϕ
+         </i>
+         )
+        </td>
+        <td>
+         Used in mathematical and technical contexts.
+         <sup class="reference" id="cite_ref-unicode-math_5-0">
+          <a href="#cite_note-unicode-math-5">
+           [5]
+          </a>
+         </sup>
+         (Italicized.)
+        </td>
+       </tr>
+       <tr>
+        <td>
+         U+0278
+        </td>
+        <td>
+         LATIN SMALL LETTER PHI
+        </td>
+        <td style="text-align: center;">
+         <a class="image" href="/wiki/File:Xsampa-pslash.png">
+          <img alt="Xsampa-pslash.png" data-file-height="28" data-file-width="16" height="26" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/57/Xsampa-pslash.png/15px-Xsampa-pslash.png" srcset="//upload.wikimedia.org/wikipedia/commons/5/57/Xsampa-pslash.png 1.5x" width="15"/>
+         </a>
+        </td>
+        <td style="font-size: larger; text-align: center;">
+         ɸ
+        </td>
+        <td>
+         Used in
+         <a class="mw-redirect" href="/wiki/IPA" title="IPA">
+          IPA
+         </a>
+         to symbolise a
+         <a href="/wiki/Voiceless_bilabial_fricative" title="Voiceless bilabial fricative">
+          voiceless bilabial fricative
+         </a>
+        </td>
+       </tr>
+      </table>
+      <p>
+       In ordinary Greek text, the character U+03C6 φ is used exclusively, although this character has considerable glyphic variation, sometimes represented with a glyph more like the representative glyph shown for U+03C6 (φ, the "loopy" or "open" form) and less often with a glyph more like the representative glyph shown for U+03D5 (ϕ, the "stroked" or "closed" form). Unicode makes an effort to distinguish the two by generally calling the loopy form "small letter phi" or "small phi", and by calling the stroked form "phi symbol", but this isn't exclusively true on all variants.
+      </p>
+      <p>
+       Because Unicode represents a character in an abstract way, the choice between glyphs is purely a matter of font design. While some Greek typefaces, most notably in the
+       <a href="/wiki/Porson_(typeface)" title="Porson (typeface)">
+        Porson
+       </a>
+       family (used widely in editions of classical Greek texts), have a "stroked" glyph in this position (
+       <a class="image" href="/wiki/File:Greek_phi_Porson.svg">
+        <img alt="Greek phi Porson.svg" data-file-height="56" data-file-width="35" height="16" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Greek_phi_Porson.svg/10px-Greek_phi_Porson.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Greek_phi_Porson.svg/15px-Greek_phi_Porson.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Greek_phi_Porson.svg/20px-Greek_phi_Porson.svg.png 2x" width="10"/>
+       </a>
+       ), most other typefaces have "loopy" glyphs. This goes for the "Didot" (or "
+       <i>
+        apla
+       </i>
+       ") typefaces employed in most Greek book printing (
+       <a class="image" href="/wiki/File:Greek_phi_Didot.svg">
+        <img alt="Greek phi Didot.svg" data-file-height="56" data-file-width="40" height="16" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Greek_phi_Didot.svg/11px-Greek_phi_Didot.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Greek_phi_Didot.svg/17px-Greek_phi_Didot.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Greek_phi_Didot.svg/23px-Greek_phi_Didot.svg.png 2x" width="11"/>
+       </a>
+       ), as well as for the "Neohellenic" typeface often used for ancient texts (
+       <a class="image" href="/wiki/File:Greek_phi_Neohellenic.svg">
+        <img alt="Greek phi Neohellenic.svg" data-file-height="56" data-file-width="35" height="16" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Greek_phi_Neohellenic.svg/10px-Greek_phi_Neohellenic.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Greek_phi_Neohellenic.svg/15px-Greek_phi_Neohellenic.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Greek_phi_Neohellenic.svg/20px-Greek_phi_Neohellenic.svg.png 2x" width="10"/>
+       </a>
+       ).
+      </p>
+      <p>
+       It is necessary to have the stroked glyph available for some mathematical uses, and U+03D5 GREEK PHI SYMBOL is designed for this function. Prior to Unicode version 3.0 (1998), the glyph assignments in the Unicode code charts were the reverse, and thus older fonts may still show a loopy form
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle \varphi }" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              φ
+              <!-- φ -->
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle \varphi }
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="\varphi " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/33ee699558d09cf9d653f6351f9fda0b2f4aaa3e" style="vertical-align: -0.838ex; width:1.52ex; height:2.176ex;"/>
+       </span>
+       at U+03D5.
+       <sup class="reference" id="cite_ref-unicode-math_5-1">
+        <a href="#cite_note-unicode-math-5">
+         [5]
+        </a>
+       </sup>
+      </p>
+      <p>
+       For use as a phonetic symbol in
+       <a class="mw-redirect" href="/wiki/IPA" title="IPA">
+        IPA
+       </a>
+       , Unicode has a separate codepoint U+0278, LATIN SMALL LETTER PHI, because in this use only the stroked glyph is considered correct. It typically appears in a form adapted to a Latin typographic environment, with a more upright shape than normal Greek letters and with
+       <a href="/wiki/Serif" title="Serif">
+        serifs
+       </a>
+       at the top and bottom.
+      </p>
+      <p>
+       In HTML/
+       <a href="/wiki/XHTML" title="XHTML">
+        XHTML
+       </a>
+       , the upper- and lower-case phi
+       <a class="mw-redirect" href="/wiki/Character_entity_reference" title="Character entity reference">
+        character entity references
+       </a>
+       are
+       <tt>
+        &amp;Phi;
+       </tt>
+       (Φ) and
+       <tt>
+        &amp;phi;
+       </tt>
+       (φ), respectively.
+      </p>
+      <p>
+       In
+       <a href="/wiki/LaTeX" title="LaTeX">
+        LaTeX
+       </a>
+       , the math symbols are
+       <tt>
+        \Phi
+       </tt>
+       (
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle \Phi \,\!}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi mathvariant="normal">
+              Φ
+              <!-- Φ -->
+             </mi>
+             <mspace width="thinmathspace">
+             </mspace>
+             <mspace width="negativethinmathspace">
+             </mspace>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle \Phi \,\!}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="\Phi \,\!" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/21242b7aa20bff076c14a47d1a2d9f0afb35f165" style="vertical-align: -0.338ex; margin-right: -0.387ex; width:2.065ex; height:2.176ex;"/>
+       </span>
+       ),
+       <tt>
+        \phi
+       </tt>
+       (
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle \phi \,\!}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              ϕ
+              <!-- ϕ -->
+             </mi>
+             <mspace width="thinmathspace">
+             </mspace>
+             <mspace width="negativethinmathspace">
+             </mspace>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle \phi \,\!}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="\phi \,\!" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/30ae608cf0ade0577802bc4ffa026a29ab35c365" style="vertical-align: -0.671ex; margin-right: -0.387ex; width:1.773ex; height:2.509ex;"/>
+       </span>
+       ), and
+       <tt>
+        \varphi
+       </tt>
+       (
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle \varphi \,\!}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              φ
+              <!-- φ -->
+             </mi>
+             <mspace width="thinmathspace">
+             </mspace>
+             <mspace width="negativethinmathspace">
+             </mspace>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle \varphi \,\!}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="\varphi \,\!" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ca38cae992cf33a25f380c941c0e3f34193704ad" style="vertical-align: -0.838ex; margin-right: -0.387ex; width:1.907ex; height:2.176ex;"/>
+       </span>
+       ).
+      </p>
+      <p>
+       The Unicode standard also includes the following variants of phi and phi-like characters:
+      </p>
+      <table class="wikitable">
+       <tr>
+        <th>
+         Character
+        </th>
+        <th>
+         Name
+        </th>
+        <th>
+         Appearance
+        </th>
+       </tr>
+       <tr>
+        <td>
+         U+1D60
+        </td>
+        <td>
+         MODIFIER LETTER SMALL GREEK PHI
+        </td>
+        <td style="text-align: center">
+         ᵠ
+        </td>
+       </tr>
+       <tr>
+        <td>
+         U+1D69
+        </td>
+        <td>
+         GREEK SUBSCRIPT SMALL LETTER PHI
+        </td>
+        <td style="text-align: center">
+         ᵩ
+        </td>
+       </tr>
+       <tr>
+        <td>
+         U+1DB2
+        </td>
+        <td>
+         MODIFIER LETTER SMALL PHI
+        </td>
+        <td style="text-align: center">
+         ᶲ
+        </td>
+       </tr>
+       <tr>
+        <td>
+         U+2CAA
+        </td>
+        <td>
+         COPTIC CAPITAL LETTER FI
+        </td>
+        <td style="text-align: center">
+         Ⲫ
+        </td>
+       </tr>
+       <tr>
+        <td>
+         U+2CAB
+        </td>
+        <td>
+         COPTIC SMALL LETTER FI
+        </td>
+        <td style="text-align: center">
+         ⲫ
+        </td>
+       </tr>
+       <tr>
+        <td>
+         U+2C77
+        </td>
+        <td>
+         LATIN SMALL LETTER TAILLESS PHI
+        </td>
+        <td style="text-align: center">
+         ⱷ
+        </td>
+       </tr>
+       <tr>
+        <td>
+         U+1D6BD
+        </td>
+        <td>
+         MATHEMATICAL BOLD CAPITAL PHI
+        </td>
+        <td style="text-align: center">
+         𝚽
+        </td>
+       </tr>
+       <tr>
+        <td>
+         U+1D6D7
+        </td>
+        <td>
+         MATHEMATICAL BOLD SMALL PHI
+        </td>
+        <td style="text-align: center">
+         𝛗
+        </td>
+       </tr>
+       <tr>
+        <td>
+         U+1D6DF
+        </td>
+        <td>
+         MATHEMATICAL BOLD PHI SYMBOL
+        </td>
+        <td style="text-align: center">
+         𝛟
+        </td>
+       </tr>
+       <tr>
+        <td>
+         U+1D6F7
+        </td>
+        <td>
+         MATHEMATICAL ITALIC CAPITAL PHI
+        </td>
+        <td style="text-align: center">
+         𝛷
+        </td>
+       </tr>
+       <tr>
+        <td>
+         U+1D711
+        </td>
+        <td>
+         MATHEMATICAL ITALIC SMALL PHI
+        </td>
+        <td style="text-align: center">
+         𝜑
+        </td>
+       </tr>
+       <tr>
+        <td>
+         U+1D719
+        </td>
+        <td>
+         MATHEMATICAL ITALIC PHI SYMBOL
+        </td>
+        <td style="text-align: center">
+         𝜙
+        </td>
+       </tr>
+       <tr>
+        <td>
+         U+1D731
+        </td>
+        <td>
+         MATHEMATICAL BOLD ITALIC CAPITAL PHI
+        </td>
+        <td style="text-align: center">
+         𝜱
+        </td>
+       </tr>
+       <tr>
+        <td>
+         U+1D74B
+        </td>
+        <td>
+         MATHEMATICAL BOLD ITALIC SMALL PHI
+        </td>
+        <td style="text-align: center">
+         𝝋
+        </td>
+       </tr>
+       <tr>
+        <td>
+         U+1D753
+        </td>
+        <td>
+         MATHEMATICAL BOLD ITALIC PHI SYMBOL
+        </td>
+        <td style="text-align: center">
+         𝝓
+        </td>
+       </tr>
+       <tr>
+        <td>
+         U+1D76B
+        </td>
+        <td>
+         MATHEMATICAL SANS-SERIF BOLD CAPITAL PHI
+        </td>
+        <td style="text-align: center">
+         𝝫
+        </td>
+       </tr>
+       <tr>
+        <td>
+         U+1D785
+        </td>
+        <td>
+         MATHEMATICAL SANS-SERIF BOLD SMALL PHI
+        </td>
+        <td style="text-align: center">
+         𝞅
+        </td>
+       </tr>
+       <tr>
+        <td>
+         U+1D78D
+        </td>
+        <td>
+         MATHEMATICAL SANS-SERIF BOLD PHI SYMBOL
+        </td>
+        <td style="text-align: center">
+         𝞍
+        </td>
+       </tr>
+       <tr>
+        <td>
+         U+1D7A5
+        </td>
+        <td>
+         MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL PHI
+        </td>
+        <td style="text-align: center">
+         𝞥
+        </td>
+       </tr>
+       <tr>
+        <td>
+         U+1D7BF
+        </td>
+        <td>
+         MATHEMATICAL SANS-SERIF BOLD ITALIC SMALL PHI
+        </td>
+        <td style="text-align: center">
+         𝞿
+        </td>
+       </tr>
+       <tr>
+        <td>
+         U+1D7C7
+        </td>
+        <td>
+         MATHEMATICAL SANS-SERIF BOLD ITALIC PHI SYMBOL
+        </td>
+        <td style="text-align: center">
+         𝟇
+        </td>
+       </tr>
+      </table>
+      <h2>
+       <span class="mw-headline" id="See_also">
+        See also
+       </span>
+      </h2>
+      <table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+       <tr>
+        <td class="mbox-image">
+         <img alt="" class="noviewer" data-file-height="391" data-file-width="391" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/40px-Wiktionary-logo-en-v2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/60px-Wiktionary-logo-en-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/80px-Wiktionary-logo-en-v2.svg.png 2x" width="40"/>
+        </td>
+        <td class="mbox-text plainlist">
+         Look up
+         <i>
+          <b>
+           <a class="extiw" href="https://en.wiktionary.org/wiki/%CE%A6" title="wiktionary:Φ">
+            Φ
+           </a>
+          </b>
+         </i>
+         ,
+         <i>
+          <b>
+           <a class="extiw" href="https://en.wiktionary.org/wiki/%CF%86" title="wiktionary:φ">
+            φ
+           </a>
+          </b>
+         </i>
+         , or
+         <i>
+          <b>
+           <a class="extiw" href="https://en.wiktionary.org/wiki/phi" title="wiktionary:phi">
+            phi
+           </a>
+          </b>
+         </i>
+         in Wiktionary, the free dictionary.
+        </td>
+       </tr>
+      </table>
+      <ul>
+       <li>
+        <a href="/wiki/F" title="F">
+         F, f: Ef (Latin)
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Ef_(Cyrillic)" title="Ef (Cyrillic)">
+         Ф, ф: Ef (Cyrillic)
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Psi_and_phi_type_figurine" title="Psi and phi type figurine">
+         Psi and phi type figurine
+        </a>
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/%D5%93" title="Փ">
+         Փ
+        </a>
+        (
+        <a href="/wiki/Armenian_alphabet" title="Armenian alphabet">
+         Armenian letter
+        </a>
+        )
+       </li>
+       <li>
+        <a href="/wiki/Deposition_(geology)" title="Deposition (geology)">
+         Deposition (geology)
+        </a>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="References">
+        References
+       </span>
+      </h2>
+      <div class="reflist" style="list-style-type: decimal;">
+       <div class="mw-references-wrap">
+        <ol class="references">
+         <li id="cite_note-1">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-1">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <i>
+            Oxford English Dictionary
+           </i>
+           , 3rd ed. "phi,
+           <i>
+            n.
+           </i>
+           " Oxford University Press (Oxford), 2005.
+          </span>
+         </li>
+         <li id="cite_note-2">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-2">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           Brixhe, C. "History of the Alphabet", in Christidēs &amp; al.'s
+           <i>
+            A History of Ancient Greek
+           </i>
+           . 2007.
+          </span>
+         </li>
+         <li id="cite_note-3">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-3">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           See, e.g.,
+           <i>
+            <a href="/wiki/The_Da_Vinci_Code_(film)" title="The Da Vinci Code (film)">
+             The Da Vinci Code
+            </a>
+           </i>
+           and the
+           <i>
+            <a href="/wiki/Criminal_Minds" title="Criminal Minds">
+             Criminal Minds
+            </a>
+           </i>
+           episode, "Masterpiece".
+          </span>
+         </li>
+         <li id="cite_note-4">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-4">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation book">
+            Evans, Dylans (1996).
+            <a class="external text" href="https://books.google.com/?id=qwVVhLaiULEC&amp;pg=PA145" rel="nofollow">
+             <i>
+              An introductory dictionary of Lacanian psychoanalysis
+             </i>
+            </a>
+            . Routledge. p. 145.
+            <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+             ISBN
+            </a>
+            <a href="/wiki/Special:BookSources/978-0-415-13523-8" title="Special:BookSources/978-0-415-13523-8">
+             978-0-415-13523-8
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=An+introductory+dictionary+of+Lacanian+psychoanalysis&amp;rft.pages=145&amp;rft.pub=Routledge&amp;rft.date=1996&amp;rft.isbn=978-0-415-13523-8&amp;rft.aulast=Evans&amp;rft.aufirst=Dylans&amp;rft_id=https%3A%2F%2Fbooks.google.com%2F%3Fid%3DqwVVhLaiULEC%26pg%3DPA145&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhi">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-unicode-math-5">
+          <span class="mw-cite-backlink">
+           ^
+           <a href="#cite_ref-unicode-math_5-0">
+            <sup>
+             <i>
+              <b>
+               a
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-unicode-math_5-1">
+            <sup>
+             <i>
+              <b>
+               b
+              </b>
+             </i>
+            </sup>
+           </a>
+          </span>
+          <span class="reference-text">
+           <cite class="citation book">
+            "Representative Glyphs for Greek Phi".
+            <a class="external text" href="http://unicode.org/reports/tr25/#_Toc231" rel="nofollow">
+             <i>
+              UTR #25: Unicode support for mathematics
+             </i>
+            </a>
+            <span style="font-size:85%;">
+             (
+             <a class="mw-redirect" href="/wiki/PDF" title="PDF">
+              PDF
+             </a>
+             )
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Representative+Glyphs+for+Greek+Phi&amp;rft.btitle=UTR+%2325%3A+Unicode+support+for+mathematics&amp;rft_id=http%3A%2F%2Funicode.org%2Freports%2Ftr25%2F%23_Toc231&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhi">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+        </ol>
+       </div>
+      </div>
+      <!-- 
+NewPP limit report
+Parsed by mw1253
+Cached time: 20180127170730
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.340 seconds
+Real time usage: 0.503 seconds
+Preprocessor visited node count: 1269/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 32443/2097152 bytes
+Template argument size: 2400/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 5/500
+Lua time usage: 0.210/10.000 seconds
+Lua memory usage: 13.08 MB/50 MB
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  384.035      1 -total
+ 28.50%  109.441      1 Template:Lang-grc
+ 12.71%   48.804      1 Template:Reflist
+ 11.10%   42.618      1 Template:Greek_Alphabet
+  9.59%   36.834      2 Template:Cite_book
+  8.47%   32.530      1 Template:Val
+  7.58%   29.121      1 Template:Pp-semi-indef
+  6.87%   26.381      1 Template:Clarify
+  6.06%   23.257      2 Template:IPAc-en
+  5.89%   22.618      1 Template:For
+-->
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:166707-0!canonical!math=5 and timestamp 20180127170730 and revision id 822598535
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Phi&amp;oldid=822598535">
+      https://en.wikipedia.org/w/index.php?title=Phi&amp;oldid=822598535
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Greek_letters" title="Category:Greek letters">
+         Greek letters
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:Wikipedia_indefinitely_semi-protected_pages" title="Category:Wikipedia indefinitely semi-protected pages">
+         Wikipedia indefinitely semi-protected pages
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_containing_Ancient_Greek-language_text" title="Category:Articles containing Ancient Greek-language text">
+         Articles containing Ancient Greek-language text
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_containing_Greek-language_text" title="Category:Articles containing Greek-language text">
+         Articles containing Greek-language text
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Wikipedia_articles_needing_clarification_from_October_2009" title="Category:Wikipedia articles needing clarification from October 2009">
+         Wikipedia articles needing clarification from October 2009
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">
+         All articles with unsourced statements
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_with_unsourced_statements_from_February_2013" title="Category:Articles with unsourced statements from February 2013">
+         Articles with unsourced statements from February 2013
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Phi" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Phi" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Phi" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Phi" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="collapsible selected" id="ca-view">
+        <span>
+         <a href="/wiki/Phi">
+          Read
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-viewsource">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Phi&amp;action=edit" title="This page is protected.
+You can view its source [e]">
+          View source
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Phi&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Phi" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Phi" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Phi&amp;oldid=822598535" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Phi&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q10029" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Phi&amp;id=822598535" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Phi">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Phi&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Phi&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+     <h3 id="p-wikibase-otherprojects-label">
+      In other projects
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="wb-otherproject-link wb-otherproject-commons">
+        <a href="https://commons.wikimedia.org/wiki/Category:Phi_(letter)" hreflang="en">
+         Wikimedia Commons
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-af">
+        <a class="interlanguage-link-target" href="https://af.wikipedia.org/wiki/Phi_(letter)" hreflang="af" lang="af" title="Phi (letter) – Afrikaans">
+         Afrikaans
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-als">
+        <a class="interlanguage-link-target" href="https://als.wikipedia.org/wiki/%CE%A6" hreflang="als" lang="als" title="Φ – Alemannisch">
+         Alemannisch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ar">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%81%D8%A7%D9%8A_(%D8%AD%D8%B1%D9%81)" hreflang="ar" lang="ar" title="فاي (حرف) – Arabic">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-arc">
+        <a class="interlanguage-link-target" href="https://arc.wikipedia.org/wiki/%CE%A6" hreflang="arc" lang="arc" title="Φ – Aramaic">
+         ܐܪܡܝܐ
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh-min-nan">
+        <a class="interlanguage-link-target" href="https://zh-min-nan.wikipedia.org/wiki/%CE%A6" hreflang="zh-min-nan" lang="zh-min-nan" title="Φ – Chinese (Min Nan)">
+         Bân-lâm-gú
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-be">
+        <a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%A4%D1%96" hreflang="be" lang="be" title="Фі – Belarusian">
+         Беларуская
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-be-x-old">
+        <a class="interlanguage-link-target" href="https://be-x-old.wikipedia.org/wiki/%D0%A4%D1%96" hreflang="be-x-old" lang="be-x-old" title="Фі – Belarusian (Taraškievica orthography)">
+         Беларуская (тарашкевіца)‎
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bg">
+        <a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%A4%D0%B8" hreflang="bg" lang="bg" title="Фи – Bulgarian">
+         Български
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bar">
+        <a class="interlanguage-link-target" href="https://bar.wikipedia.org/wiki/Phi" hreflang="bar" lang="bar" title="Phi – Bavarian">
+         Boarisch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bo">
+        <a class="interlanguage-link-target" href="https://bo.wikipedia.org/wiki/%E0%BD%A7%E0%BE%A5%E0%BD%A0%E0%BD%BA%E0%BC%8D" hreflang="bo" lang="bo" title="ཧྥའེ། – Tibetan">
+         བོད་ཡིག
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-br">
+        <a class="interlanguage-link-target" href="https://br.wikipedia.org/wiki/Phi_(lizherenn)" hreflang="br" lang="br" title="Phi (lizherenn) – Breton">
+         Brezhoneg
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Fi" hreflang="ca" lang="ca" title="Fi – Catalan">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cs">
+        <a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/F%C3%AD" hreflang="cs" lang="cs" title="Fí – Czech">
+         Čeština
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cy">
+        <a class="interlanguage-link-target" href="https://cy.wikipedia.org/wiki/Ffi_(llythyren)" hreflang="cy" lang="cy" title="Ffi (llythyren) – Welsh">
+         Cymraeg
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-da">
+        <a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Phi" hreflang="da" lang="da" title="Phi – Danish">
+         Dansk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-se">
+        <a class="interlanguage-link-target" href="https://se.wikipedia.org/wiki/%CE%A6" hreflang="se" lang="se" title="Φ – Northern Sami">
+         Davvisámegiella
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Phi" hreflang="de" lang="de" title="Phi – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-et">
+        <a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Fii" hreflang="et" lang="et" title="Fii – Estonian">
+         Eesti
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-el">
+        <a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%A6%CE%B9" hreflang="el" lang="el" title="Φι – Greek">
+         Ελληνικά
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/%CE%A6" hreflang="es" lang="es" title="Φ – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eo">
+        <a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Fio_(litero)" hreflang="eo" lang="eo" title="Fio (litero) – Esperanto">
+         Esperanto
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eu">
+        <a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Fi" hreflang="eu" lang="eu" title="Fi – Basque">
+         Euskara
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fa">
+        <a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D9%81%DB%8C" hreflang="fa" lang="fa" title="فی – Persian">
+         فارسی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fo">
+        <a class="interlanguage-link-target" href="https://fo.wikipedia.org/wiki/Fi" hreflang="fo" lang="fo" title="Fi – Faroese">
+         Føroyskt
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Phi" hreflang="fr" lang="fr" title="Phi – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fy">
+        <a class="interlanguage-link-target" href="https://fy.wikipedia.org/wiki/Phi_(letter)" hreflang="fy" lang="fy" title="Phi (letter) – Western Frisian">
+         Frysk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ga">
+        <a class="interlanguage-link-target" href="https://ga.wikipedia.org/wiki/F%C3%AD" hreflang="ga" lang="ga" title="Fí – Irish">
+         Gaeilge
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-gd">
+        <a class="interlanguage-link-target" href="https://gd.wikipedia.org/wiki/Phi" hreflang="gd" lang="gd" title="Phi – Scottish Gaelic">
+         Gàidhlig
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-gl">
+        <a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Fi" hreflang="gl" lang="gl" title="Fi – Galician">
+         Galego
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ko">
+        <a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%CE%A6" hreflang="ko" lang="ko" title="Φ – Korean">
+         한국어
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hy">
+        <a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D5%96%D5%AB_(%D5%BF%D5%A1%D5%BC)" hreflang="hy" lang="hy" title="Ֆի (տառ) – Armenian">
+         Հայերեն
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hr">
+        <a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Fi" hreflang="hr" lang="hr" title="Fi – Croatian">
+         Hrvatski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-id">
+        <a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Fi" hreflang="id" lang="id" title="Fi – Indonesian">
+         Bahasa Indonesia
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-is">
+        <a class="interlanguage-link-target" href="https://is.wikipedia.org/wiki/F%C3%AD" hreflang="is" lang="is" title="Fí – Icelandic">
+         Íslenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Phi_(lettera)" hreflang="it" lang="it" title="Phi (lettera) – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-he">
+        <a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%A4%D7%99" hreflang="he" lang="he" title="פי – Hebrew">
+         עברית
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ka">
+        <a class="interlanguage-link-target" href="https://ka.wikipedia.org/wiki/%E1%83%A4%E1%83%98_(%E1%83%90%E1%83%A1%E1%83%9D)" hreflang="ka" lang="ka" title="ფი (ასო) – Georgian">
+         ქართული
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sw">
+        <a class="interlanguage-link-target" href="https://sw.wikipedia.org/wiki/Phi" hreflang="sw" lang="sw" title="Phi – Swahili">
+         Kiswahili
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-kv">
+        <a class="interlanguage-link-target" href="https://kv.wikipedia.org/wiki/%D0%A4%D0%B8" hreflang="kv" lang="kv" title="Фи – Komi">
+         Коми
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ht">
+        <a class="interlanguage-link-target" href="https://ht.wikipedia.org/wiki/%CE%A6" hreflang="ht" lang="ht" title="Φ – Haitian Creole">
+         Kreyòl ayisyen
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ku">
+        <a class="interlanguage-link-target" href="https://ku.wikipedia.org/wiki/Phi" hreflang="ku" lang="ku" title="Phi – Kurdish">
+         Kurdî
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lez">
+        <a class="interlanguage-link-target" href="https://lez.wikipedia.org/wiki/%D0%A4%D0%B8" hreflang="lez" lang="lez" title="Фи – Lezghian">
+         Лезги
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-la">
+        <a class="interlanguage-link-target" href="https://la.wikipedia.org/wiki/Phi" hreflang="la" lang="la" title="Phi – Latin">
+         Latina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lv">
+        <a class="interlanguage-link-target" href="https://lv.wikipedia.org/wiki/F%C4%AB" hreflang="lv" lang="lv" title="Fī – Latvian">
+         Latviešu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lb">
+        <a class="interlanguage-link-target" href="https://lb.wikipedia.org/wiki/Phi" hreflang="lb" lang="lb" title="Phi – Luxembourgish">
+         Lëtzebuergesch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lt">
+        <a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Fi_(raid%C4%97)" hreflang="lt" lang="lt" title="Fi (raidė) – Lithuanian">
+         Lietuvių
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lmo">
+        <a class="interlanguage-link-target" href="https://lmo.wikipedia.org/wiki/Fi_(letra)" hreflang="lmo" lang="lmo" title="Fi (letra) – Lombard">
+         Lumbaart
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hu">
+        <a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/F%C3%AD" hreflang="hu" lang="hu" title="Fí – Hungarian">
+         Magyar
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ml">
+        <a class="interlanguage-link-target" href="https://ml.wikipedia.org/wiki/%E0%B4%AB%E0%B5%88" hreflang="ml" lang="ml" title="ഫൈ – Malayalam">
+         മലയാളം
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-mr">
+        <a class="interlanguage-link-target" href="https://mr.wikipedia.org/wiki/%E0%A4%AB%E0%A4%BE%E0%A4%AF" hreflang="mr" lang="mr" title="फाय – Marathi">
+         मराठी
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ms">
+        <a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Fi_(huruf)" hreflang="ms" lang="ms" title="Fi (huruf) – Malay">
+         Bahasa Melayu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cdo">
+        <a class="interlanguage-link-target" href="https://cdo.wikipedia.org/wiki/Phi" hreflang="cdo" lang="cdo" title="Phi – Min Dong Chinese">
+         Mìng-dĕ̤ng-ngṳ̄
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nah">
+        <a class="interlanguage-link-target" href="https://nah.wikipedia.org/wiki/%CE%A6" hreflang="nah" lang="nah" title="Φ – Nāhuatl">
+         Nāhuatl
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fj">
+        <a class="interlanguage-link-target" href="https://fj.wikipedia.org/wiki/Phi" hreflang="fj" lang="fj" title="Phi – Fijian">
+         Na Vosa Vakaviti
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nl">
+        <a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Phi_(letter)" hreflang="nl" lang="nl" title="Phi (letter) – Dutch">
+         Nederlands
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%CE%A6" hreflang="ja" lang="ja" title="Φ – Japanese">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-no">
+        <a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Phi" hreflang="no" lang="no" title="Phi – Norwegian">
+         Norsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nn">
+        <a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Fi" hreflang="nn" lang="nn" title="Fi – Norwegian Nynorsk">
+         Norsk nynorsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-oc">
+        <a class="interlanguage-link-target" href="https://oc.wikipedia.org/wiki/Fi" hreflang="oc" lang="oc" title="Fi – Occitan">
+         Occitan
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pa">
+        <a class="interlanguage-link-target" href="https://pa.wikipedia.org/wiki/%E0%A8%AB%E0%A8%BE%E0%A8%88" hreflang="pa" lang="pa" title="ਫਾਈ – Punjabi">
+         ਪੰਜਾਬੀ
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nds">
+        <a class="interlanguage-link-target" href="https://nds.wikipedia.org/wiki/Phi" hreflang="nds" lang="nds" title="Phi – Low German">
+         Plattdüütsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pl">
+        <a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Phi" hreflang="pl" lang="pl" title="Phi – Polish">
+         Polski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/%CE%A6" hreflang="pt" lang="pt" title="Φ – Portuguese">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ro">
+        <a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Fi_(liter%C4%83)" hreflang="ro" lang="ro" title="Fi (literă) – Romanian">
+         Română
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%A4%D0%B8" hreflang="ru" lang="ru" title="Фи – Russian">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sco">
+        <a class="interlanguage-link-target" href="https://sco.wikipedia.org/wiki/Phi" hreflang="sco" lang="sco" title="Phi – Scots">
+         Scots
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-simple">
+        <a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Phi_(letter)" hreflang="simple" lang="simple" title="Phi (letter) – Simple English">
+         Simple English
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sk">
+        <a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/F%C3%AD" hreflang="sk" lang="sk" title="Fí – Slovak">
+         Slovenčina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sl">
+        <a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Fi" hreflang="sl" lang="sl" title="Fi – Slovenian">
+         Slovenščina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ckb">
+        <a class="interlanguage-link-target" href="https://ckb.wikipedia.org/wiki/%D9%81%DB%8C" hreflang="ckb" lang="ckb" title="فی – Central Kurdish">
+         کوردی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sr">
+        <a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%A4%D0%B8_(%D1%81%D0%BB%D0%BE%D0%B2%D0%BE)" hreflang="sr" lang="sr" title="Фи (слово) – Serbian">
+         Српски / srpski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sh">
+        <a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Fi" hreflang="sh" lang="sh" title="Fi – Serbo-Croatian">
+         Srpskohrvatski / српскохрватски
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fi">
+        <a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Fii" hreflang="fi" lang="fi" title="Fii – Finnish">
+         Suomi
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sv">
+        <a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Fi" hreflang="sv" lang="sv" title="Fi – Swedish">
+         Svenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tl">
+        <a class="interlanguage-link-target" href="https://tl.wikipedia.org/wiki/Phi" hreflang="tl" lang="tl" title="Phi – Tagalog">
+         Tagalog
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-th">
+        <a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B8%9F%E0%B8%B2%E0%B8%A2" hreflang="th" lang="th" title="ฟาย – Thai">
+         ไทย
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tr">
+        <a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Fi" hreflang="tr" lang="tr" title="Fi – Turkish">
+         Türkçe
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uk">
+        <a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%A4%D1%96_(%D0%BB%D1%96%D1%82%D0%B5%D1%80%D0%B0)" hreflang="uk" lang="uk" title="Фі (літера) – Ukrainian">
+         Українська
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-vep">
+        <a class="interlanguage-link-target" href="https://vep.wikipedia.org/wiki/Fi" hreflang="vep" lang="vep" title="Fi – Veps">
+         Vepsän kel’
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-vi">
+        <a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/Phi_(ch%E1%BB%AF_c%C3%A1i)" hreflang="vi" lang="vi" title="Phi (chữ cái) – Vietnamese">
+         Tiếng Việt
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-war">
+        <a class="interlanguage-link-target" href="https://war.wikipedia.org/wiki/Phi" hreflang="war" lang="war" title="Phi – Waray">
+         Winaray
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-wuu">
+        <a class="interlanguage-link-target" href="https://wuu.wikipedia.org/wiki/%CE%A6" hreflang="wuu" lang="wuu" title="Φ – Wu Chinese">
+         吴语
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh-yue">
+        <a class="interlanguage-link-target" href="https://zh-yue.wikipedia.org/wiki/%CE%A6" hreflang="zh-yue" lang="zh-yue" title="Φ – Cantonese">
+         粵語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-diq">
+        <a class="interlanguage-link-target" href="https://diq.wikipedia.org/wiki/%CE%A6" hreflang="diq" lang="diq" title="Φ – Zazaki">
+         Zazaki
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%CE%A6" hreflang="zh" lang="zh" title="Φ – Chinese">
+         中文
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q10029#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 27 January 2018, at 09:58.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Phi&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.340","walltime":"0.503","ppvisitednodes":{"value":1269,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":32443,"limit":2097152},"templateargumentsize":{"value":2400,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  384.035      1 -total"," 28.50%  109.441      1 Template:Lang-grc"," 12.71%   48.804      1 Template:Reflist"," 11.10%   42.618      1 Template:Greek_Alphabet","  9.59%   36.834      2 Template:Cite_book","  8.47%   32.530      1 Template:Val","  7.58%   29.121      1 Template:Pp-semi-indef","  6.87%   26.381      1 Template:Clarify","  6.06%   23.257      2 Template:IPAc-en","  5.89%   22.618      1 Template:For"]},"scribunto":{"limitreport-timeusage":{"value":"0.210","limit":"10.000"},"limitreport-memusage":{"value":13713321,"limit":52428800}},"cachereport":{"origin":"mw1253","timestamp":"20180127170730","ttl":1900800,"transientcontent":false}}});});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":108,"wgHostname":"mw1325"});});
+  </script>
+ </body>
+</html>

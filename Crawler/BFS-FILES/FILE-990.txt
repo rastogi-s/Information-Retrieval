@@ -1,0 +1,1948 @@
+https://en.wikipedia.org/wiki/Fluid
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Fluid - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Fluid","wgTitle":"Fluid","wgCurRevisionId":821860260,"wgRevisionId":821860260,"wgArticleId":10915,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles lacking sources from April 2009","All articles lacking sources","Wikipedia articles with GND identifiers","Fluid dynamics"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Fluid","wgRelevantArticleId":10915,"wgRequestId":"Wm65JQpAMFwAAE01B0cAAAAM","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q102205","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.31.0-wmf.17" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Fluid" rel="alternate"/>
+  <link href="/w/index.php?title=Fluid&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Fluid&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/Fluid" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Fluid rootpage-Fluid skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Fluid
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <div class="hatnote navigation-not-searchable" role="note">
+       This article is about the concept in
+       <a href="/wiki/Physics" title="Physics">
+        physics
+       </a>
+       . For other uses, see
+       <a class="mw-disambig" href="/wiki/Fluid_(disambiguation)" title="Fluid (disambiguation)">
+        Fluid (disambiguation)
+       </a>
+       .
+      </div>
+      <div class="hatnote navigation-not-searchable" role="note">
+       Not to be confused with
+       <a href="/wiki/Liquid" title="Liquid">
+        liquid
+       </a>
+       .
+      </div>
+      <table class="plainlinks metadata ambox ambox-content ambox-Unreferenced" role="presentation">
+       <tr>
+        <td class="mbox-image">
+         <div style="width:52px">
+          <a class="image" href="/wiki/File:Question_book-new.svg">
+           <img alt="" data-file-height="399" data-file-width="512" height="39" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" width="50"/>
+          </a>
+         </div>
+        </td>
+        <td class="mbox-text">
+         <div class="mbox-text-span">
+          This article
+          <b>
+           does not
+           <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">
+            cite
+           </a>
+           any
+           <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">
+            sources
+           </a>
+          </b>
+          .
+          <span class="hide-when-compact">
+           Please help
+           <a class="external text" href="//en.wikipedia.org/w/index.php?title=Fluid&amp;action=edit">
+            improve this article
+           </a>
+           by
+           <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">
+            adding citations to reliable sources
+           </a>
+           . Unsourced material may be challenged and
+           <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">
+            removed
+           </a>
+           .
+          </span>
+          <small>
+           <i>
+            (April 2009)
+           </i>
+          </small>
+          <small class="hide-when-compact">
+           <i>
+            (
+            <a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">
+             Learn how and when to remove this template message
+            </a>
+            )
+           </i>
+          </small>
+         </div>
+        </td>
+       </tr>
+      </table>
+      <table class="vertical-navbox nowraplinks plainlist" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+       <tr>
+        <th style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em">
+         <a href="/wiki/Continuum_mechanics" title="Continuum mechanics">
+          Continuum mechanics
+         </a>
+        </th>
+       </tr>
+       <tr>
+        <td style="padding:0 0.1em 0.4em">
+         <div class="NavFrame collapsed" style="border:none;padding:0">
+          <div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf; text-align:center;">
+           Laws
+          </div>
+          <div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+           <table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse; border-spacing:0px; border:none; width:100%; margin:0px; font-size:100%; clear:none; float:none">
+            <tr>
+             <th style="padding:0.1em;font-style:italic;font-weight:normal;">
+              Conservations
+             </th>
+            </tr>
+            <tr>
+             <td class="hlist" style="padding:0 0.1em 0.4em">
+              <ul>
+               <li>
+                <a href="/wiki/Conservation_of_energy" title="Conservation of energy">
+                 Energy
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Conservation_of_mass" title="Conservation of mass">
+                 Mass
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Momentum#Conservation" title="Momentum">
+                 Momentum
+                </a>
+               </li>
+              </ul>
+             </td>
+            </tr>
+            <tr>
+             <th style="padding:0.1em;font-style:italic;font-weight:normal;">
+              Inequalities
+             </th>
+            </tr>
+            <tr>
+             <td class="hlist" style="padding:0 0.1em 0.4em">
+              <ul>
+               <li>
+                <a href="/wiki/Clausius%E2%80%93Duhem_inequality" title="Clausius–Duhem inequality">
+                 Clausius–Duhem (entropy)
+                </a>
+               </li>
+              </ul>
+             </td>
+            </tr>
+           </table>
+          </div>
+         </div>
+        </td>
+       </tr>
+       <tr>
+        <td style="padding:0 0.1em 0.4em">
+         <div class="NavFrame collapsed" style="border:none;padding:0">
+          <div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf; text-align:center;">
+           <a href="/wiki/Solid_mechanics" title="Solid mechanics">
+            Solid mechanics
+           </a>
+          </div>
+          <div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+           <div class="hlist">
+            <ul>
+             <li>
+              <a href="/wiki/Stress_(mechanics)" title="Stress (mechanics)">
+               Stress
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Deformation_(mechanics)" title="Deformation (mechanics)">
+               Deformation
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Compatibility_(mechanics)" title="Compatibility (mechanics)">
+               Compatibility
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Finite_strain_theory" title="Finite strain theory">
+               Finite strain
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Infinitesimal_strain_theory" title="Infinitesimal strain theory">
+               Infinitesimal strain
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Elasticity_(physics)" title="Elasticity (physics)">
+               Elasticity
+              </a>
+              (
+              <a href="/wiki/Linear_elasticity" title="Linear elasticity">
+               linear
+              </a>
+              )
+             </li>
+             <li>
+              <a href="/wiki/Plasticity_(physics)" title="Plasticity (physics)">
+               Plasticity
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Bending" title="Bending">
+               Bending
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Hooke%27s_law" title="Hooke's law">
+               Hooke's law
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Material_failure_theory" title="Material failure theory">
+               Material failure theory
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Fracture_mechanics" title="Fracture mechanics">
+               Fracture mechanics
+              </a>
+             </li>
+            </ul>
+           </div>
+           <ul>
+            <li>
+             <a href="/wiki/Contact_mechanics" title="Contact mechanics">
+              Contact mechanics
+             </a>
+             (
+             <a href="/wiki/Frictional_contact_mechanics" title="Frictional contact mechanics">
+              frictional
+             </a>
+             )
+            </li>
+           </ul>
+          </div>
+         </div>
+        </td>
+       </tr>
+       <tr>
+        <td style="padding:0 0.1em 0.4em">
+         <div class="NavFrame collapsed" style="border:none;padding:0">
+          <div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf; text-align:center;">
+           <a href="/wiki/Fluid_mechanics" title="Fluid mechanics">
+            Fluid mechanics
+           </a>
+          </div>
+          <div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+           <table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse; border-spacing:0px; border:none; width:100%; margin:0px; font-size:100%; clear:none; float:none">
+            <tr>
+             <th style="padding:0.1em;font-style:italic;">
+              <a class="mw-selflink selflink">
+               Fluids
+              </a>
+             </th>
+            </tr>
+            <tr>
+             <td style="padding:0 0.1em 0.4em">
+              <div class="wraplinks">
+               <ul>
+                <li>
+                 <a class="mw-redirect" href="/wiki/Fluid_statics" title="Fluid statics">
+                  Statics
+                 </a>
+                 <b>
+                  ·
+                 </b>
+                 <a href="/wiki/Fluid_dynamics" title="Fluid dynamics">
+                  Dynamics
+                 </a>
+                </li>
+                <li>
+                 <a href="/wiki/Archimedes%27_principle" title="Archimedes' principle">
+                  Archimedes' principle
+                 </a>
+                 <b>
+                  ·
+                 </b>
+                 <a href="/wiki/Bernoulli%27s_principle" title="Bernoulli's principle">
+                  Bernoulli's principle
+                 </a>
+                </li>
+                <li>
+                 <a href="/wiki/Navier%E2%80%93Stokes_equations" title="Navier–Stokes equations">
+                  Navier–Stokes equations
+                 </a>
+                </li>
+                <li>
+                 <a href="/wiki/Hagen%E2%80%93Poiseuille_equation" title="Hagen–Poiseuille equation">
+                  Poiseuille equation
+                 </a>
+                 <b>
+                  ·
+                 </b>
+                 <a href="/wiki/Pascal%27s_law" title="Pascal's law">
+                  Pascal's law
+                 </a>
+                </li>
+                <li>
+                 <a href="/wiki/Viscosity" title="Viscosity">
+                  Viscosity
+                 </a>
+                 (
+                 <a href="/wiki/Newtonian_fluid" title="Newtonian fluid">
+                  Newtonian
+                 </a>
+                 <b>
+                  ·
+                 </b>
+                 <a href="/wiki/Non-Newtonian_fluid" title="Non-Newtonian fluid">
+                  non-Newtonian
+                 </a>
+                 )
+                </li>
+                <li>
+                 <a href="/wiki/Buoyancy" title="Buoyancy">
+                  Buoyancy
+                 </a>
+                 <b>
+                  ·
+                 </b>
+                 <a href="/wiki/Mixing_(process_engineering)" title="Mixing (process engineering)">
+                  Mixing
+                 </a>
+                 <b>
+                  ·
+                 </b>
+                 <a href="/wiki/Pressure" title="Pressure">
+                  Pressure
+                 </a>
+                </li>
+               </ul>
+              </div>
+             </td>
+            </tr>
+            <tr>
+             <th style="padding:0.1em;font-style:italic;">
+              <a href="/wiki/Liquid" title="Liquid">
+               Liquids
+              </a>
+             </th>
+            </tr>
+            <tr>
+             <td style="padding:0 0.1em 0.4em">
+              <div class="hlist">
+               <ul>
+                <li>
+                 <a href="/wiki/Surface_tension" title="Surface tension">
+                  Surface tension
+                 </a>
+                </li>
+                <li>
+                 <a href="/wiki/Capillary_action" title="Capillary action">
+                  Capillary action
+                 </a>
+                </li>
+               </ul>
+              </div>
+             </td>
+            </tr>
+            <tr>
+             <th style="padding:0.1em;font-style:italic;">
+              <a href="/wiki/Gas" title="Gas">
+               Gases
+              </a>
+             </th>
+            </tr>
+            <tr>
+             <td style="padding:0 0.1em 0.4em">
+              <div class="hlist">
+               <ul>
+                <li>
+                 <a href="/wiki/Atmosphere" title="Atmosphere">
+                  Atmosphere
+                 </a>
+                </li>
+                <li>
+                 <a href="/wiki/Boyle%27s_law" title="Boyle's law">
+                  Boyle's law
+                 </a>
+                </li>
+                <li>
+                 <a href="/wiki/Charles%27s_law" title="Charles's law">
+                  Charles's law
+                 </a>
+                </li>
+                <li>
+                 <a href="/wiki/Gay-Lussac%27s_law" title="Gay-Lussac's law">
+                  Gay-Lussac's law
+                 </a>
+                </li>
+                <li>
+                 <a href="/wiki/Combined_gas_law" title="Combined gas law">
+                  Combined gas law
+                 </a>
+                </li>
+               </ul>
+              </div>
+             </td>
+            </tr>
+            <tr>
+             <th style="padding:0.1em;font-style:italic;">
+              <a href="/wiki/Plasma_(physics)" title="Plasma (physics)">
+               Plasma
+              </a>
+             </th>
+            </tr>
+           </table>
+          </div>
+         </div>
+        </td>
+       </tr>
+       <tr>
+        <td style="padding:0 0.1em 0.4em">
+         <div class="NavFrame collapsed" style="border:none;padding:0">
+          <div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf; text-align:center;">
+           <a href="/wiki/Rheology" title="Rheology">
+            Rheology
+           </a>
+          </div>
+          <div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+           <table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse; border-spacing:0px; border:none; width:100%; margin:0px; font-size:100%; clear:none; float:none">
+            <tr>
+             <td class="hlist" style="padding:0 0.1em 0.4em">
+              <ul>
+               <li>
+                <a href="/wiki/Viscoelasticity" title="Viscoelasticity">
+                 Viscoelasticity
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Rheometry" title="Rheometry">
+                 Rheometry
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Rheometer" title="Rheometer">
+                 Rheometer
+                </a>
+               </li>
+              </ul>
+             </td>
+            </tr>
+            <tr>
+             <th style="padding:0.1em;font-style:italic;">
+              <a href="/wiki/Smart_fluid" title="Smart fluid">
+               Smart fluids
+              </a>
+             </th>
+            </tr>
+            <tr>
+             <td class="hlist" style="padding:0 0.1em 0.4em">
+              <ul>
+               <li>
+                <a href="/wiki/Magnetorheological_fluid" title="Magnetorheological fluid">
+                 Magnetorheological
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Electrorheological_fluid" title="Electrorheological fluid">
+                 Electrorheological
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Ferrofluid" title="Ferrofluid">
+                 Ferrofluids
+                </a>
+               </li>
+              </ul>
+             </td>
+            </tr>
+           </table>
+          </div>
+         </div>
+        </td>
+       </tr>
+       <tr>
+        <td style="padding:0 0.1em 0.4em">
+         <div class="NavFrame collapsed" style="border:none;padding:0">
+          <div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf; text-align:center;">
+           Scientists
+          </div>
+          <div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+           <div class="hlist">
+            <ul>
+             <li>
+              <a href="/wiki/Daniel_Bernoulli" title="Daniel Bernoulli">
+               Bernoulli
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Robert_Boyle" title="Robert Boyle">
+               Boyle
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Augustin-Louis_Cauchy" title="Augustin-Louis Cauchy">
+               Cauchy
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Jacques_Charles" title="Jacques Charles">
+               Charles
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Leonhard_Euler" title="Leonhard Euler">
+               Euler
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Joseph_Louis_Gay-Lussac" title="Joseph Louis Gay-Lussac">
+               Gay-Lussac
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Robert_Hooke" title="Robert Hooke">
+               Hooke
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Blaise_Pascal" title="Blaise Pascal">
+               Pascal
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Isaac_Newton" title="Isaac Newton">
+               Newton
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Claude-Louis_Navier" title="Claude-Louis Navier">
+               Navier
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Sir_George_Stokes,_1st_Baronet" title="Sir George Stokes, 1st Baronet">
+               Stokes
+              </a>
+             </li>
+            </ul>
+           </div>
+          </div>
+         </div>
+        </td>
+       </tr>
+       <tr>
+        <td style="text-align:right;font-size:115%;padding-top: 0.6em;">
+         <div class="plainlinks hlist navbar mini">
+          <ul>
+           <li class="nv-view">
+            <a href="/wiki/Template:Continuum_mechanics" title="Template:Continuum mechanics">
+             <abbr title="View this template">
+              v
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-talk">
+            <a href="/wiki/Template_talk:Continuum_mechanics" title="Template talk:Continuum mechanics">
+             <abbr title="Discuss this template">
+              t
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-edit">
+            <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Continuum_mechanics&amp;action=edit">
+             <abbr title="Edit this template">
+              e
+             </abbr>
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+      </table>
+      <p>
+       In physics, a
+       <b>
+        fluid
+       </b>
+       is a substance that continually
+       <a href="/wiki/Deformation_(mechanics)" title="Deformation (mechanics)">
+        deforms
+       </a>
+       (flows) under an applied
+       <a href="/wiki/Shear_stress" title="Shear stress">
+        shear stress
+       </a>
+       . Fluids are a subset of the
+       <a href="/wiki/Phase_(matter)" title="Phase (matter)">
+        phases
+       </a>
+       of
+       <a href="/wiki/Matter" title="Matter">
+        matter
+       </a>
+       and include
+       <a href="/wiki/Liquid" title="Liquid">
+        liquids
+       </a>
+       , gases,
+       <a href="/wiki/Plasma_(physics)" title="Plasma (physics)">
+        plasmas
+       </a>
+       , and to some extent,
+       <a href="/wiki/Plasticity_(physics)" title="Plasticity (physics)">
+        plastic solids
+       </a>
+       . Fluids are
+       <a href="/wiki/Matter" title="Matter">
+        substances
+       </a>
+       that have zero
+       <a href="/wiki/Shear_modulus" title="Shear modulus">
+        shear modulus
+       </a>
+       , or, in simpler terms, a fluid is a substance which cannot resist any
+       <a href="/wiki/Shear_force" title="Shear force">
+        shear force
+       </a>
+       applied to it.
+      </p>
+      <p>
+       Although the term "fluid" includes both the liquid and gas phases, in common usage, "fluid" is often used as a synonym for "liquid", with no implication that gas could also be present. For example, "
+       <a href="/wiki/Brake_fluid" title="Brake fluid">
+        brake fluid
+       </a>
+       " is
+       <a class="mw-redirect" href="/wiki/Hydraulic_oil" title="Hydraulic oil">
+        hydraulic oil
+       </a>
+       and will not perform its required
+       <a class="mw-redirect" href="/wiki/Incompressible" title="Incompressible">
+        incompressible
+       </a>
+       function if there is gas in it. This colloquial usage of the term is also common in medicine and in nutrition ("take plenty of fluids").
+      </p>
+      <p>
+       Liquids form a
+       <a href="/wiki/Free_surface" title="Free surface">
+        free surface
+       </a>
+       (that is, a surface not created by the container) while gases do not. The distinction between
+       <a href="/wiki/Solid" title="Solid">
+        solids
+       </a>
+       and fluid is not entirely obvious. The distinction is made by evaluating the
+       <a href="/wiki/Viscosity" title="Viscosity">
+        viscosity
+       </a>
+       of the substance.
+       <a href="/wiki/Silly_Putty" title="Silly Putty">
+        Silly Putty
+       </a>
+       can be considered to behave like a solid or a fluid, depending on the time period over which it is observed. It is best described as a
+       <a class="mw-redirect" href="/wiki/Viscoelastic" title="Viscoelastic">
+        viscoelastic
+       </a>
+       fluid. There are many examples of substances proving difficult to classify. A particularly interesting one is
+       <a href="/wiki/Pitch_(resin)" title="Pitch (resin)">
+        pitch
+       </a>
+       , as demonstrated in the
+       <a href="/wiki/Pitch_drop_experiment" title="Pitch drop experiment">
+        pitch drop experiment
+       </a>
+       currently running at the
+       <a href="/wiki/University_of_Queensland" title="University of Queensland">
+        University of Queensland
+       </a>
+       .
+      </p>
+      <p>
+      </p>
+      <div class="toc" id="toc">
+       <div class="toctitle" dir="ltr" lang="en" xml:lang="en">
+        <h2>
+         Contents
+        </h2>
+       </div>
+       <ul>
+        <li class="toclevel-1 tocsection-1">
+         <a href="#Physics">
+          <span class="tocnumber">
+           1
+          </span>
+          <span class="toctext">
+           Physics
+          </span>
+         </a>
+         <ul>
+          <li class="toclevel-2 tocsection-2">
+           <a href="#Modelling">
+            <span class="tocnumber">
+             1.1
+            </span>
+            <span class="toctext">
+             Modelling
+            </span>
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="toclevel-1 tocsection-3">
+         <a href="#See_also">
+          <span class="tocnumber">
+           2
+          </span>
+          <span class="toctext">
+           See also
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-4">
+         <a href="#References">
+          <span class="tocnumber">
+           3
+          </span>
+          <span class="toctext">
+           References
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <p>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Physics">
+        Physics
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Fluid&amp;action=edit&amp;section=1" title="Edit section: Physics">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       Fluids display properties such as:
+      </p>
+      <ul>
+       <li>
+        not resisting permanent deformation, resisting only
+        <a href="/wiki/Viscosity" title="Viscosity">
+         relative rates of deformation
+        </a>
+        in a dissipative, frictional manner, and
+       </li>
+       <li>
+        the ability to flow (also described as the ability to take on the shape of the container).
+       </li>
+      </ul>
+      <p>
+       These properties are typically a function of their inability to support a
+       <a href="/wiki/Shear_stress" title="Shear stress">
+        shear stress
+       </a>
+       in static
+       <a href="/wiki/Mechanical_equilibrium" title="Mechanical equilibrium">
+        equilibrium
+       </a>
+       . In contrast, solids respond to shear with
+       <a href="/wiki/Elasticity_(physics)" title="Elasticity (physics)">
+        a spring-like restoring force
+       </a>
+       , which means that small deformations, whether shear or normal, are reversible.
+      </p>
+      <p>
+       Solids respond with restoring forces to both shear stresses, and to
+       <a class="mw-redirect" href="/wiki/Normal_stress" title="Normal stress">
+        normal stresses
+       </a>
+       —both
+       <a href="/wiki/Compressive_stress" title="Compressive stress">
+        compressive
+       </a>
+       and
+       <a class="mw-redirect" href="/wiki/Tensile_stress" title="Tensile stress">
+        tensile
+       </a>
+       . In contrast, ideal fluids only respond with restoring forces to normal stresses, called
+       <a href="/wiki/Pressure" title="Pressure">
+        pressure
+       </a>
+       : fluids can be subjected to both compressive stress, corresponding to positive pressure, and to tensile stress, corresponding to
+       <a href="/wiki/Pressure#Negative_pressure" title="Pressure">
+        negative pressure
+       </a>
+       . Both solids and liquids also have tensile strengths, which when exceeded in solids makes
+       <a href="/wiki/Plasticity_(physics)" title="Plasticity (physics)">
+        irreversible deformation
+       </a>
+       and fracture, and in liquids causes the onset of
+       <a href="/wiki/Cavitation" title="Cavitation">
+        cavitation
+       </a>
+       .
+       <a href="/wiki/Gas" title="Gas">
+        Gases
+       </a>
+       do not have tensile strength, and freely expand in response to changes in pressure.
+      </p>
+      <p>
+       Both solids and liquids have free surfaces, which cost some amount of
+       <a href="/wiki/Thermodynamic_free_energy" title="Thermodynamic free energy">
+        free energy
+       </a>
+       to form. In the case of solids, the amount of free energy to form a given unit of surface area is called
+       <a href="/wiki/Surface_energy" title="Surface energy">
+        surface energy
+       </a>
+       , whereas for liquids the same quantity is called
+       <a href="/wiki/Surface_tension" title="Surface tension">
+        surface tension
+       </a>
+       . The ability of liquids to flow results in very different behaviour in response to surface tension than in solids, although in equilibrium both will try to
+       <a href="/wiki/Wulff_construction" title="Wulff construction">
+        minimise their surface energy
+       </a>
+       : liquids tend to form rounded
+       <a class="mw-redirect" href="/wiki/Droplets" title="Droplets">
+        droplets
+       </a>
+       , whereas pure solids tend to form
+       <a class="mw-redirect" href="/wiki/Crystals" title="Crystals">
+        crystals
+       </a>
+       .
+       <a href="/wiki/Gas" title="Gas">
+        Gases
+       </a>
+       do not have free surfaces, and freely
+       <a href="/wiki/Diffusion#Elementary_theory_of_diffusion_coefficient_in_gases" title="Diffusion">
+        diffuse
+       </a>
+       .
+      </p>
+      <h3>
+       <span class="mw-headline" id="Modelling">
+        Modelling
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Fluid&amp;action=edit&amp;section=2" title="Edit section: Modelling">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <div class="hatnote navigation-not-searchable" role="note">
+       Main article:
+       <a href="/wiki/Fluid_mechanics" title="Fluid mechanics">
+        Fluid mechanics
+       </a>
+      </div>
+      <p>
+       In a solid, shear stress is a function of
+       <a class="mw-redirect" href="/wiki/Strain_(materials_science)" title="Strain (materials science)">
+        strain
+       </a>
+       , but in a fluid,
+       <a class="mw-redirect" href="/wiki/Stress_(physics)" title="Stress (physics)">
+        shear stress
+       </a>
+       is a function of
+       <a href="/wiki/Strain_rate" title="Strain rate">
+        strain rate
+       </a>
+       . A consequence of this behavior is
+       <a href="/wiki/Pascal%27s_law" title="Pascal's law">
+        Pascal's law
+       </a>
+       which describes the role of
+       <a href="/wiki/Pressure" title="Pressure">
+        pressure
+       </a>
+       in characterizing a fluid's state.
+      </p>
+      <p>
+       Depending on the relationship between shear stress, and the rate of strain and its
+       <a href="/wiki/Derivative" title="Derivative">
+        derivatives
+       </a>
+       , fluids can be characterized as one of the following:
+      </p>
+      <ul>
+       <li>
+        <a href="/wiki/Newtonian_fluid" title="Newtonian fluid">
+         Newtonian fluids
+        </a>
+        : where stress is directly proportional to rate of strain
+       </li>
+       <li>
+        <a href="/wiki/Non-Newtonian_fluid" title="Non-Newtonian fluid">
+         Non-Newtonian fluids
+        </a>
+        : where stress is not proportional to rate of strain, its higher powers and derivatives.
+       </li>
+      </ul>
+      <p>
+       The behavior of fluids can be described by the
+       <a href="/wiki/Navier%E2%80%93Stokes_equations" title="Navier–Stokes equations">
+        Navier–Stokes equations
+       </a>
+       —a set of
+       <a class="mw-redirect" href="/wiki/Partial_differential_equations" title="Partial differential equations">
+        partial differential equations
+       </a>
+       which are based on:
+      </p>
+      <ul>
+       <li>
+        continuity (
+        <a href="/wiki/Continuity_equation#Fluid_dynamics" title="Continuity equation">
+         conservation of mass
+        </a>
+        ),
+       </li>
+       <li>
+        conservation of
+        <a class="mw-redirect" href="/wiki/Linear_momentum" title="Linear momentum">
+         linear momentum
+        </a>
+        ,
+       </li>
+       <li>
+        conservation of
+        <a href="/wiki/Angular_momentum" title="Angular momentum">
+         angular momentum
+        </a>
+        ,
+       </li>
+       <li>
+        <a href="/wiki/Conservation_of_energy" title="Conservation of energy">
+         conservation of energy
+        </a>
+        .
+       </li>
+      </ul>
+      <p>
+       The study of fluids is
+       <a href="/wiki/Fluid_mechanics" title="Fluid mechanics">
+        fluid mechanics
+       </a>
+       , which is subdivided into
+       <a href="/wiki/Fluid_dynamics" title="Fluid dynamics">
+        fluid dynamics
+       </a>
+       and
+       <a class="mw-redirect" href="/wiki/Fluid_statics" title="Fluid statics">
+        fluid statics
+       </a>
+       depending on whether the fluid is in motion.
+      </p>
+      <h2>
+       <span class="mw-headline" id="See_also">
+        See also
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Fluid&amp;action=edit&amp;section=3" title="Edit section: See also">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a href="/wiki/Matter" title="Matter">
+         Matter
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Liquid" title="Liquid">
+         Liquid
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Gas" title="Gas">
+         Gas
+        </a>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="References">
+        References
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Fluid&amp;action=edit&amp;section=4" title="Edit section: References">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <cite class="citation book">
+         Bird, Byron; Stewart, Warren; Lightfoot, Edward (2007).
+         <i>
+          Transport Phenomena
+         </i>
+         . New York: Wiley, Second Edition. p. 912.
+         <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+          ISBN
+         </a>
+         <a href="/wiki/Special:BookSources/0-471-41077-2" title="Special:BookSources/0-471-41077-2">
+          0-471-41077-2
+         </a>
+         .
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Transport+Phenomena&amp;rft.place=New+York&amp;rft.pages=912&amp;rft.pub=Wiley%2C+Second+Edition&amp;rft.date=2007&amp;rft.isbn=0-471-41077-2&amp;rft.aulast=Bird&amp;rft.aufirst=Byron&amp;rft.au=Stewart%2C+Warren&amp;rft.au=Lightfoot%2C+Edward&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFluid">
+         <span style="display:none;">
+         </span>
+        </span>
+       </li>
+      </ul>
+      <div aria-label="Navbox" class="navbox" role="navigation" style="padding:3px">
+       <table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          <a href="/wiki/Help:Authority_control" title="Help:Authority control">
+           Authority control
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <span class="nowrap">
+              <a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">
+               GND
+              </a>
+              :
+              <span class="uid">
+               <a class="external text" href="https://d-nb.info/gnd/4017690-3" rel="nofollow">
+                4017690-3
+               </a>
+              </span>
+             </span>
+            </li>
+            <li>
+             <span class="nowrap">
+              <a href="/wiki/National_Diet_Library" title="National Diet Library">
+               NDL
+              </a>
+              :
+              <span class="uid">
+               <a class="external text" href="https://id.ndl.go.jp/auth/ndlna/00569907" rel="nofollow">
+                00569907
+               </a>
+              </span>
+             </span>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+       </table>
+      </div>
+      <!-- 
+NewPP limit report
+Parsed by mw1227
+Cached time: 20180124205948
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.176 seconds
+Real time usage: 0.246 seconds
+Preprocessor visited node count: 424/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 33993/2097152 bytes
+Template argument size: 29/2097152 bytes
+Highest expansion depth: 6/40
+Expensive parser function count: 1/500
+Lua time usage: 0.083/10.000 seconds
+Lua memory usage: 2.49 MB/50 MB
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  193.074      1 -total
+ 21.85%   42.195      1 Template:Unreferenced
+ 19.38%   37.415      1 Template:Cite_book
+ 17.68%   34.134      1 Template:Ambox
+ 17.56%   33.900      1 Template:Authority_control
+ 17.42%   33.629      1 Template:Continuum_mechanics
+ 15.84%   30.575      1 Template:Sidebar_with_collapsible_lists
+ 14.32%   27.653      1 Template:About
+  6.16%   11.898      3 Template:Sidebar
+  5.71%   11.017      1 Template:Distinguish
+-->
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:10915-0!canonical and timestamp 20180124205948 and revision id 821860260
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Fluid&amp;oldid=821860260">
+      https://en.wikipedia.org/w/index.php?title=Fluid&amp;oldid=821860260
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Fluid_dynamics" title="Category:Fluid dynamics">
+         Fluid dynamics
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:Articles_lacking_sources_from_April_2009" title="Category:Articles lacking sources from April 2009">
+         Articles lacking sources from April 2009
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:All_articles_lacking_sources" title="Category:All articles lacking sources">
+         All articles lacking sources
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">
+         Wikipedia articles with GND identifiers
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Fluid" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Fluid" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Fluid" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Fluid" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="collapsible selected" id="ca-view">
+        <span>
+         <a href="/wiki/Fluid">
+          Read
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Fluid&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Fluid&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Fluid" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Fluid" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Fluid&amp;oldid=821860260" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Fluid&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q102205" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Fluid&amp;id=821860260" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Fluid">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Fluid&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Fluid&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+     <h3 id="p-wikibase-otherprojects-label">
+      In other projects
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="wb-otherproject-link wb-otherproject-commons">
+        <a href="https://commons.wikimedia.org/wiki/Category:Liquid" hreflang="en">
+         Wikimedia Commons
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-af">
+        <a class="interlanguage-link-target" href="https://af.wikipedia.org/wiki/Vloeier" hreflang="af" lang="af" title="Vloeier – Afrikaans">
+         Afrikaans
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ar">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%85%D8%A7%D8%A6%D8%B9" hreflang="ar" lang="ar" title="مائع – Arabic">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-an">
+        <a class="interlanguage-link-target" href="https://an.wikipedia.org/wiki/Fluido" hreflang="an" lang="an" title="Fluido – Aragonese">
+         Aragonés
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ast">
+        <a class="interlanguage-link-target" href="https://ast.wikipedia.org/wiki/Fluy%C3%ADu" hreflang="ast" lang="ast" title="Fluyíu – Asturian">
+         Asturianu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bn">
+        <a class="interlanguage-link-target" href="https://bn.wikipedia.org/wiki/%E0%A6%AB%E0%A7%8D%E0%A6%B2%E0%A7%81%E0%A6%87%E0%A6%A1" hreflang="bn" lang="bn" title="ফ্লুইড – Bangla">
+         বাংলা
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh-min-nan">
+        <a class="interlanguage-link-target" href="https://zh-min-nan.wikipedia.org/wiki/Li%C3%BB-th%C3%A9" hreflang="zh-min-nan" lang="zh-min-nan" title="Liû-thé – Chinese (Min Nan)">
+         Bân-lâm-gú
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bg">
+        <a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%A4%D0%BB%D1%83%D0%B8%D0%B4" hreflang="bg" lang="bg" title="Флуид – Bulgarian">
+         Български
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bs">
+        <a class="interlanguage-link-target" href="https://bs.wikipedia.org/wiki/Fluid" hreflang="bs" lang="bs" title="Fluid – Bosnian">
+         Bosanski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Fluid" hreflang="ca" lang="ca" title="Fluid – Catalan">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cs">
+        <a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Tekutina" hreflang="cs" lang="cs" title="Tekutina – Czech">
+         Čeština
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-da">
+        <a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Fluid" hreflang="da" lang="da" title="Fluid – Danish">
+         Dansk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Fluid" hreflang="de" lang="de" title="Fluid – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-el">
+        <a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%A1%CE%B5%CF%85%CF%83%CF%84%CF%8C" hreflang="el" lang="el" title="Ρευστό – Greek">
+         Ελληνικά
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Fluido" hreflang="es" lang="es" title="Fluido – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eo">
+        <a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Flua%C4%B5o" hreflang="eo" lang="eo" title="Fluaĵo – Esperanto">
+         Esperanto
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eu">
+        <a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Jariakin" hreflang="eu" lang="eu" title="Jariakin – Basque">
+         Euskara
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fa">
+        <a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%B3%DB%8C%D8%A7%D9%84" hreflang="fa" lang="fa" title="سیال – Persian">
+         فارسی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Fluide_(mati%C3%A8re)" hreflang="fr" lang="fr" title="Fluide (matière) – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ga">
+        <a class="interlanguage-link-target" href="https://ga.wikipedia.org/wiki/Sreabh%C3%A1n" hreflang="ga" lang="ga" title="Sreabhán – Irish">
+         Gaeilge
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-gl">
+        <a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Flu%C3%ADdo" hreflang="gl" lang="gl" title="Fluído – Galician">
+         Galego
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ko">
+        <a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%9C%A0%EC%B2%B4" hreflang="ko" lang="ko" title="유체 – Korean">
+         한국어
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hi">
+        <a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%A4%E0%A4%B0%E0%A4%B2" hreflang="hi" lang="hi" title="तरल – Hindi">
+         हिन्दी
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hr">
+        <a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Fluid" hreflang="hr" lang="hr" title="Fluid – Croatian">
+         Hrvatski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-io">
+        <a class="interlanguage-link-target" href="https://io.wikipedia.org/wiki/Fluido" hreflang="io" lang="io" title="Fluido – Ido">
+         Ido
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-id">
+        <a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Fluida" hreflang="id" lang="id" title="Fluida – Indonesian">
+         Bahasa Indonesia
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-is">
+        <a class="interlanguage-link-target" href="https://is.wikipedia.org/wiki/Kvikefni" hreflang="is" lang="is" title="Kvikefni – Icelandic">
+         Íslenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Fluido" hreflang="it" lang="it" title="Fluido – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-he">
+        <a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%96%D7%95%D7%A8%D7%9D" hreflang="he" lang="he" title="זורם – Hebrew">
+         עברית
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-kk">
+        <a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/%D0%90%D2%9B%D2%9B%D1%8B%D1%88_%D0%B7%D0%B0%D1%82%D1%82%D0%B0%D1%80" hreflang="kk" lang="kk" title="Аққыш заттар – Kazakh">
+         Қазақша
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ht">
+        <a class="interlanguage-link-target" href="https://ht.wikipedia.org/wiki/Fliyid" hreflang="ht" lang="ht" title="Fliyid – Haitian Creole">
+         Kreyòl ayisyen
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ku">
+        <a class="interlanguage-link-target" href="https://ku.wikipedia.org/wiki/%C5%9Eileme" hreflang="ku" lang="ku" title="Şileme – Kurdish">
+         Kurdî
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-la">
+        <a class="interlanguage-link-target" href="https://la.wikipedia.org/wiki/Fluidum" hreflang="la" lang="la" title="Fluidum – Latin">
+         Latina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lv">
+        <a class="interlanguage-link-target" href="https://lv.wikipedia.org/wiki/Flu%C4%ABds" hreflang="lv" lang="lv" title="Fluīds – Latvian">
+         Latviešu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lb">
+        <a class="interlanguage-link-target" href="https://lb.wikipedia.org/wiki/Fluid" hreflang="lb" lang="lb" title="Fluid – Luxembourgish">
+         Lëtzebuergesch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lmo">
+        <a class="interlanguage-link-target" href="https://lmo.wikipedia.org/wiki/Fl%C3%BCid" hreflang="lmo" lang="lmo" title="Flüid – Lombard">
+         Lumbaart
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hu">
+        <a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/K%C3%B6zeg" hreflang="hu" lang="hu" title="Közeg – Hungarian">
+         Magyar
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-mk">
+        <a class="interlanguage-link-target" href="https://mk.wikipedia.org/wiki/%D0%A4%D0%BB%D1%83%D0%B8%D0%B4" hreflang="mk" lang="mk" title="Флуид – Macedonian">
+         Македонски
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ml">
+        <a class="interlanguage-link-target" href="https://ml.wikipedia.org/wiki/%E0%B4%A6%E0%B5%8D%E0%B4%B0%E0%B4%B5%E0%B4%82" hreflang="ml" lang="ml" title="ദ്രവം – Malayalam">
+         മലയാളം
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ms">
+        <a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Bendalir" hreflang="ms" lang="ms" title="Bendalir – Malay">
+         Bahasa Melayu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nl">
+        <a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Flu%C3%AFdum" hreflang="nl" lang="nl" title="Fluïdum – Dutch">
+         Nederlands
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E6%B5%81%E4%BD%93" hreflang="ja" lang="ja" title="流体 – Japanese">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-no">
+        <a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Fluid" hreflang="no" lang="no" title="Fluid – Norwegian">
+         Norsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pa">
+        <a class="interlanguage-link-target" href="https://pa.wikipedia.org/wiki/%E0%A8%B5%E0%A8%97%E0%A8%A3%E0%A8%B9%E0%A8%BE%E0%A8%B0" hreflang="pa" lang="pa" title="ਵਗਣਹਾਰ – Punjabi">
+         ਪੰਜਾਬੀ
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nds">
+        <a class="interlanguage-link-target" href="https://nds.wikipedia.org/wiki/Fluid" hreflang="nds" lang="nds" title="Fluid – Low German">
+         Plattdüütsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pl">
+        <a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/P%C5%82yn" hreflang="pl" lang="pl" title="Płyn – Polish">
+         Polski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Fluido" hreflang="pt" lang="pt" title="Fluido – Portuguese">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ro">
+        <a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Fluid" hreflang="ro" lang="ro" title="Fluid – Romanian">
+         Română
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%A4%D0%BB%D1%8E%D0%B8%D0%B4_(%D1%84%D0%B8%D0%B7%D0%B8%D0%BA%D0%B0)" hreflang="ru" lang="ru" title="Флюид (физика) – Russian">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sco">
+        <a class="interlanguage-link-target" href="https://sco.wikipedia.org/wiki/Fluid_(pheesics)" hreflang="sco" lang="sco" title="Fluid (pheesics) – Scots">
+         Scots
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-simple">
+        <a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Fluid" hreflang="simple" lang="simple" title="Fluid – Simple English">
+         Simple English
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sk">
+        <a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Tekutina" hreflang="sk" lang="sk" title="Tekutina – Slovak">
+         Slovenčina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sl">
+        <a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Teko%C4%8Dina" hreflang="sl" lang="sl" title="Tekočina – Slovenian">
+         Slovenščina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sr">
+        <a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%A4%D0%BB%D1%83%D0%B8%D0%B4" hreflang="sr" lang="sr" title="Флуид – Serbian">
+         Српски / srpski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sh">
+        <a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Fluid" hreflang="sh" lang="sh" title="Fluid – Serbo-Croatian">
+         Srpskohrvatski / српскохрватски
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fi">
+        <a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Fluidi" hreflang="fi" lang="fi" title="Fluidi – Finnish">
+         Suomi
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sv">
+        <a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Fluid" hreflang="sv" lang="sv" title="Fluid – Swedish">
+         Svenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ta">
+        <a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%AA%E0%AE%BE%E0%AE%AF%E0%AF%8D%E0%AE%AE%E0%AE%AE%E0%AF%8D" hreflang="ta" lang="ta" title="பாய்மம் – Tamil">
+         தமிழ்
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-th">
+        <a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%84%E0%B8%AB%E0%B8%A5" hreflang="th" lang="th" title="ของไหล – Thai">
+         ไทย
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tr">
+        <a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Ak%C4%B1%C5%9Fkan" hreflang="tr" lang="tr" title="Akışkan – Turkish">
+         Türkçe
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uk">
+        <a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%A4%D0%BB%D1%8E%D1%97%D0%B4" hreflang="uk" lang="uk" title="Флюїд – Ukrainian">
+         Українська
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ur">
+        <a class="interlanguage-link-target" href="https://ur.wikipedia.org/wiki/%D8%B3%DB%8C%D8%A7%D9%84_(%D9%85%D8%A7%D8%AF%DB%81)" hreflang="ur" lang="ur" title="سیال (مادہ) – Urdu">
+         اردو
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-vec">
+        <a class="interlanguage-link-target" href="https://vec.wikipedia.org/wiki/Fl%C3%B9ido" hreflang="vec" lang="vec" title="Flùido – Venetian">
+         Vèneto
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-vi">
+        <a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/Ch%E1%BA%A5t_l%C6%B0u" hreflang="vi" lang="vi" title="Chất lưu – Vietnamese">
+         Tiếng Việt
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh-yue">
+        <a class="interlanguage-link-target" href="https://zh-yue.wikipedia.org/wiki/%E6%B5%81%E9%AB%94" hreflang="zh-yue" lang="zh-yue" title="流體 – Cantonese">
+         粵語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E6%B5%81%E4%BD%93" hreflang="zh" lang="zh" title="流体 – Chinese">
+         中文
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q102205#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 23 January 2018, at 01:40.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Fluid&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.176","walltime":"0.246","ppvisitednodes":{"value":424,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":33993,"limit":2097152},"templateargumentsize":{"value":29,"limit":2097152},"expansiondepth":{"value":6,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  193.074      1 -total"," 21.85%   42.195      1 Template:Unreferenced"," 19.38%   37.415      1 Template:Cite_book"," 17.68%   34.134      1 Template:Ambox"," 17.56%   33.900      1 Template:Authority_control"," 17.42%   33.629      1 Template:Continuum_mechanics"," 15.84%   30.575      1 Template:Sidebar_with_collapsible_lists"," 14.32%   27.653      1 Template:About","  6.16%   11.898      3 Template:Sidebar","  5.71%   11.017      1 Template:Distinguish"]},"scribunto":{"limitreport-timeusage":{"value":"0.083","limit":"10.000"},"limitreport-memusage":{"value":2611124,"limit":52428800}},"cachereport":{"origin":"mw1227","timestamp":"20180124205948","ttl":1900800,"transientcontent":false}}});});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":72,"wgHostname":"mw1257"});});
+  </script>
+ </body>
+</html>

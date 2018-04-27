@@ -1,0 +1,2346 @@
+https://en.wikipedia.org/wiki/Saha_equation
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Saha ionization equation - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Saha_ionization_equation","wgTitle":"Saha ionization equation","wgCurRevisionId":822968538,"wgRevisionId":822968538,"wgArticleId":1438662,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Atomic physics","Plasma physics"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Saha_ionization_equation","wgRelevantArticleId":1438662,"wgRequestId":"WnNxhwpAMFUAAGpzZLQAAAAU","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Saha_equation","wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgInternalRedirectTargetUrl":"/wiki/Saha_ionization_equation","wgWikibaseItemId":"Q631222","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["mediawiki.action.view.redirect","ext.cite.a11y","ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.31.0-wmf.17" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Saha_ionization_equation" rel="alternate"/>
+  <link href="/w/index.php?title=Saha_ionization_equation&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Saha_ionization_equation&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/Saha_ionization_equation" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Saha_ionization_equation rootpage-Saha_ionization_equation skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Saha ionization equation
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+     <span class="mw-redirectedfrom">
+      (Redirected from
+      <a class="mw-redirect" href="/w/index.php?title=Saha_equation&amp;redirect=no" title="Saha equation">
+       Saha equation
+      </a>
+      )
+     </span>
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <p>
+       The
+       <b>
+        Saha ionization equation
+       </b>
+       , also known as the
+       <b>
+        Saha–Langmuir equation
+       </b>
+       , is an expression that relates the ionization state of a gas in thermal equilibrium to the temperature and pressure.
+       <sup class="reference" id="cite_ref-isbn0-521-84735-4_1-0">
+        <a href="#cite_note-isbn0-521-84735-4-1">
+         [1]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-2">
+        <a href="#cite_note-2">
+         [2]
+        </a>
+       </sup>
+       The equation is a result of combining ideas of quantum mechanics and statistical mechanics and is used to explain the spectral classification of stars. The expression was developed by the Indian astrophysicist
+       <a href="/wiki/Meghnad_Saha" title="Meghnad Saha">
+        Meghnad Saha
+       </a>
+       in 1920,
+       <sup class="reference" id="cite_ref-3">
+        <a href="#cite_note-3">
+         [3]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-4">
+        <a href="#cite_note-4">
+         [4]
+        </a>
+       </sup>
+       and later (1923) by
+       <a href="/wiki/Irving_Langmuir" title="Irving Langmuir">
+        Irving Langmuir
+       </a>
+       .
+       <sup class="reference" id="cite_ref-5">
+        <a href="#cite_note-5">
+         [5]
+        </a>
+       </sup>
+      </p>
+      <p>
+      </p>
+      <div class="toc" id="toc">
+       <div class="toctitle" dir="ltr" lang="en" xml:lang="en">
+        <h2>
+         Contents
+        </h2>
+       </div>
+       <ul>
+        <li class="toclevel-1 tocsection-1">
+         <a href="#Derivation">
+          <span class="tocnumber">
+           1
+          </span>
+          <span class="toctext">
+           Derivation
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-2">
+         <a href="#Particle_densities">
+          <span class="tocnumber">
+           2
+          </span>
+          <span class="toctext">
+           Particle densities
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-3">
+         <a href="#Stellar_atmospheres">
+          <span class="tocnumber">
+           3
+          </span>
+          <span class="toctext">
+           Stellar atmospheres
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-4">
+         <a href="#See_also">
+          <span class="tocnumber">
+           4
+          </span>
+          <span class="toctext">
+           See also
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-5">
+         <a href="#References">
+          <span class="tocnumber">
+           5
+          </span>
+          <span class="toctext">
+           References
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-6">
+         <a href="#External_links">
+          <span class="tocnumber">
+           6
+          </span>
+          <span class="toctext">
+           External links
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <p>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Derivation">
+        Derivation
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Saha_ionization_equation&amp;action=edit&amp;section=1" title="Edit section: Derivation">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       For a
+       <a href="/wiki/Gas" title="Gas">
+        gas
+       </a>
+       at a high enough
+       <a href="/wiki/Temperature" title="Temperature">
+        temperature
+       </a>
+       and/or
+       <a href="/wiki/Density" title="Density">
+        density
+       </a>
+       , the thermal collisions of the atoms will
+       <a href="/wiki/Ionization" title="Ionization">
+        ionize
+       </a>
+       some of the atoms, making an ionized gas. When several or more of the electrons that are normally bound to the atom in orbits around the atomic nucleus are freed, they form an independent electron gas cloud co-existing with the surrounding gas of atomic ions and neutral atoms. In turn, this generates an
+       <a href="/wiki/Electric_field" title="Electric field">
+        electric field
+       </a>
+       , where the motion of charges generates currents, making a localised
+       <a href="/wiki/Magnetic_field" title="Magnetic field">
+        magnetic field
+       </a>
+       , and creates the state of matter called
+       <a href="/wiki/Plasma_(physics)" title="Plasma (physics)">
+        plasma
+       </a>
+       .
+      </p>
+      <p>
+       The Saha equation describes the degree of ionization for any gas in thermal equilibrium as a function of the temperature, density, and ionization energies of the atoms. The Saha equation only holds for weakly ionized plasmas for which the
+       <a href="/wiki/Debye_length" title="Debye length">
+        Debye length
+       </a>
+       is large. This means that the screening of the Coulomb interaction of ions and electrons by other ions and electrons is negligible. The subsequent lowering of the ionization potentials and the "cutoff" of the
+       <a href="/wiki/Partition_function_(statistical_mechanics)" title="Partition function (statistical mechanics)">
+        partition function
+       </a>
+       is therefore also negligible.
+      </p>
+      <p>
+       For a gas composed of a single atomic species, the Saha equation is written:
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle {\frac {n_{i+1}n_{e}}{n_{i}}}={\frac {2}{\lambda ^{3}}}{\frac {g_{i+1}}{g_{i}}}\exp \left[-{\frac {(\epsilon _{i+1}-\epsilon _{i})}{k_{B}T}}\right]}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mrow class="MJX-TeXAtom-ORD">
+               <mfrac>
+                <mrow>
+                 <msub>
+                  <mi>
+                   n
+                  </mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mi>
+                    i
+                   </mi>
+                   <mo>
+                    +
+                   </mo>
+                   <mn>
+                    1
+                   </mn>
+                  </mrow>
+                 </msub>
+                 <msub>
+                  <mi>
+                   n
+                  </mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mi>
+                    e
+                   </mi>
+                  </mrow>
+                 </msub>
+                </mrow>
+                <msub>
+                 <mi>
+                  n
+                 </mi>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mi>
+                   i
+                  </mi>
+                 </mrow>
+                </msub>
+               </mfrac>
+              </mrow>
+              <mo>
+               =
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mfrac>
+                <mn>
+                 2
+                </mn>
+                <msup>
+                 <mi>
+                  λ
+                  <!-- λ -->
+                 </mi>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mn>
+                   3
+                  </mn>
+                 </mrow>
+                </msup>
+               </mfrac>
+              </mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mfrac>
+                <msub>
+                 <mi>
+                  g
+                 </mi>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mi>
+                   i
+                  </mi>
+                  <mo>
+                   +
+                  </mo>
+                  <mn>
+                   1
+                  </mn>
+                 </mrow>
+                </msub>
+                <msub>
+                 <mi>
+                  g
+                 </mi>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mi>
+                   i
+                  </mi>
+                 </mrow>
+                </msub>
+               </mfrac>
+              </mrow>
+              <mi>
+               exp
+              </mi>
+              <mo>
+               ⁡
+               <!-- ⁡ -->
+              </mo>
+              <mrow>
+               <mo>
+                [
+               </mo>
+               <mrow>
+                <mo>
+                 −
+                 <!-- − -->
+                </mo>
+                <mrow class="MJX-TeXAtom-ORD">
+                 <mfrac>
+                  <mrow>
+                   <mo stretchy="false">
+                    (
+                   </mo>
+                   <msub>
+                    <mi>
+                     ϵ
+                     <!-- ϵ -->
+                    </mi>
+                    <mrow class="MJX-TeXAtom-ORD">
+                     <mi>
+                      i
+                     </mi>
+                     <mo>
+                      +
+                     </mo>
+                     <mn>
+                      1
+                     </mn>
+                    </mrow>
+                   </msub>
+                   <mo>
+                    −
+                    <!-- − -->
+                   </mo>
+                   <msub>
+                    <mi>
+                     ϵ
+                     <!-- ϵ -->
+                    </mi>
+                    <mrow class="MJX-TeXAtom-ORD">
+                     <mi>
+                      i
+                     </mi>
+                    </mrow>
+                   </msub>
+                   <mo stretchy="false">
+                    )
+                   </mo>
+                  </mrow>
+                  <mrow>
+                   <msub>
+                    <mi>
+                     k
+                    </mi>
+                    <mrow class="MJX-TeXAtom-ORD">
+                     <mi>
+                      B
+                     </mi>
+                    </mrow>
+                   </msub>
+                   <mi>
+                    T
+                   </mi>
+                  </mrow>
+                 </mfrac>
+                </mrow>
+               </mrow>
+               <mo>
+                ]
+               </mo>
+              </mrow>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle {\frac {n_{i+1}n_{e}}{n_{i}}}={\frac {2}{\lambda ^{3}}}{\frac {g_{i+1}}{g_{i}}}\exp \left[-{\frac {(\epsilon _{i+1}-\epsilon _{i})}{k_{B}T}}\right]}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="{\displaystyle {\frac {n_{i+1}n_{e}}{n_{i}}}={\frac {2}{\lambda ^{3}}}{\frac {g_{i+1}}{g_{i}}}\exp \left[-{\frac {(\epsilon _{i+1}-\epsilon _{i})}{k_{B}T}}\right]}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/82bf0d3969194e82329c7038bd07064f3e38e886" style="vertical-align: -2.505ex; width:37.99ex; height:6.343ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       where:
+      </p>
+      <ul>
+       <li>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle n_{i}\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <msub>
+               <mi>
+                n
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 i
+                </mi>
+               </mrow>
+              </msub>
+              <mspace width="thinmathspace">
+              </mspace>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle n_{i}\,}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="n_i\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d636fa67ff31e695d9568062ea814cf29c47fc35" style="vertical-align: -0.671ex; width:2.581ex; height:2.009ex;"/>
+        </span>
+        is the density of atoms in the
+        <i>
+         i
+        </i>
+        -th state of ionization, that is with
+        <i>
+         i
+        </i>
+        electrons removed.
+       </li>
+       <li>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle g_{i}\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <msub>
+               <mi>
+                g
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 i
+                </mi>
+               </mrow>
+              </msub>
+              <mspace width="thinmathspace">
+              </mspace>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle g_{i}\,}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="g_{i}\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/129b851fa0c30bdec8b5f99c642de9e28df617a6" style="vertical-align: -0.671ex; width:2.296ex; height:2.009ex;"/>
+        </span>
+        is the
+        <a class="mw-redirect" href="/wiki/Degenerate_energy_level" title="Degenerate energy level">
+         degeneracy
+        </a>
+        of states for the
+        <i>
+         i
+        </i>
+        -ions
+       </li>
+       <li>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle \epsilon _{i}\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <msub>
+               <mi>
+                ϵ
+                <!-- ϵ -->
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 i
+                </mi>
+               </mrow>
+              </msub>
+              <mspace width="thinmathspace">
+              </mspace>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle \epsilon _{i}\,}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="\epsilon _{i}\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9ed9bfb964dd44eef1a6d41ae8c3e9ff60dc53dc" style="vertical-align: -0.671ex; width:2.131ex; height:2.009ex;"/>
+        </span>
+        is the energy required to remove
+        <i>
+         i
+        </i>
+        electrons from a neutral atom, creating an
+        <i>
+         i
+        </i>
+        -level ion.
+       </li>
+       <li>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle n_{e}\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <msub>
+               <mi>
+                n
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 e
+                </mi>
+               </mrow>
+              </msub>
+              <mspace width="thinmathspace">
+              </mspace>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle n_{e}\,}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="n_{e}\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/59c00743972ef1db3957670e1d051493582fbf84" style="vertical-align: -0.671ex; width:2.78ex; height:2.009ex;"/>
+        </span>
+        is the
+        <a href="/wiki/Electron_density" title="Electron density">
+         electron density
+        </a>
+       </li>
+       <li>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle \lambda \,}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mi>
+               λ
+               <!-- λ -->
+              </mi>
+              <mspace width="thinmathspace">
+              </mspace>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle \lambda \,}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="\lambda \," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/988b7b8a22b11081bc97378c30391f573535c21c" style="vertical-align: -0.338ex; width:1.742ex; height:2.176ex;"/>
+        </span>
+        is the
+        <a href="/wiki/Thermal_de_Broglie_wavelength" title="Thermal de Broglie wavelength">
+         thermal de Broglie wavelength
+        </a>
+        of an electron
+       </li>
+      </ul>
+      <dl>
+       <dd>
+        <dl>
+         <dd>
+          <span class="mwe-math-element">
+           <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+            <math alttext="{\displaystyle \lambda \ {\stackrel {\mathrm {def} }{=}}\ {\sqrt {\frac {h^{2}}{2\pi m_{e}k_{B}T}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+             <semantics>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mstyle displaystyle="true" scriptlevel="0">
+                <mi>
+                 λ
+                 <!-- λ -->
+                </mi>
+                <mtext>
+                </mtext>
+                <mrow class="MJX-TeXAtom-ORD">
+                 <mrow class="MJX-TeXAtom-REL">
+                  <mover>
+                   <mrow class="MJX-TeXAtom-OP MJX-fixedlimits">
+                    <mo>
+                     =
+                    </mo>
+                   </mrow>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mrow class="MJX-TeXAtom-ORD">
+                     <mi mathvariant="normal">
+                      d
+                     </mi>
+                     <mi mathvariant="normal">
+                      e
+                     </mi>
+                     <mi mathvariant="normal">
+                      f
+                     </mi>
+                    </mrow>
+                   </mrow>
+                  </mover>
+                 </mrow>
+                </mrow>
+                <mtext>
+                </mtext>
+                <mrow class="MJX-TeXAtom-ORD">
+                 <msqrt>
+                  <mfrac>
+                   <msup>
+                    <mi>
+                     h
+                    </mi>
+                    <mrow class="MJX-TeXAtom-ORD">
+                     <mn>
+                      2
+                     </mn>
+                    </mrow>
+                   </msup>
+                   <mrow>
+                    <mn>
+                     2
+                    </mn>
+                    <mi>
+                     π
+                     <!-- π -->
+                    </mi>
+                    <msub>
+                     <mi>
+                      m
+                     </mi>
+                     <mrow class="MJX-TeXAtom-ORD">
+                      <mi>
+                       e
+                      </mi>
+                     </mrow>
+                    </msub>
+                    <msub>
+                     <mi>
+                      k
+                     </mi>
+                     <mrow class="MJX-TeXAtom-ORD">
+                      <mi>
+                       B
+                      </mi>
+                     </mrow>
+                    </msub>
+                    <mi>
+                     T
+                    </mi>
+                   </mrow>
+                  </mfrac>
+                 </msqrt>
+                </mrow>
+               </mstyle>
+              </mrow>
+              <annotation encoding="application/x-tex">
+               {\displaystyle \lambda \ {\stackrel {\mathrm {def} }{=}}\ {\sqrt {\frac {h^{2}}{2\pi m_{e}k_{B}T}}}}
+              </annotation>
+             </semantics>
+            </math>
+           </span>
+           <img alt="{\displaystyle \lambda \ {\stackrel {\mathrm {def} }{=}}\ {\sqrt {\frac {h^{2}}{2\pi m_{e}k_{B}T}}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6b7c2cf359de720243c480b89e222df1140d97b8" style="vertical-align: -3.171ex; width:17.792ex; height:7.676ex;"/>
+          </span>
+         </dd>
+        </dl>
+       </dd>
+      </dl>
+      <ul>
+       <li>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle m_{e}\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <msub>
+               <mi>
+                m
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 e
+                </mi>
+               </mrow>
+              </msub>
+              <mspace width="thinmathspace">
+              </mspace>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle m_{e}\,}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="m_{e}\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a4757d404accce8cd95d66eabee739f3f6cbd72c" style="vertical-align: -0.671ex; width:3.426ex; height:2.009ex;"/>
+        </span>
+        is the
+        <a class="mw-redirect" href="/wiki/Mass_of_electron#Properties_and_behavior" title="Mass of electron">
+         mass of an electron
+        </a>
+       </li>
+       <li>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle T\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mi>
+               T
+              </mi>
+              <mspace width="thinmathspace">
+              </mspace>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle T\,}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="T\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/476a8389064c06ab89963a2467aef525838da0cf" style="vertical-align: -0.338ex; width:2.023ex; height:2.176ex;"/>
+        </span>
+        is the
+        <a href="/wiki/Temperature" title="Temperature">
+         temperature
+        </a>
+        of the gas
+       </li>
+       <li>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle k_{B}\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <msub>
+               <mi>
+                k
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 B
+                </mi>
+               </mrow>
+              </msub>
+              <mspace width="thinmathspace">
+              </mspace>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle k_{B}\,}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="k_B\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0cd643a7f8b267149fdbb5e47dd02914548b672f" style="vertical-align: -0.671ex; width:3.078ex; height:2.509ex;"/>
+        </span>
+        is the
+        <a href="/wiki/Boltzmann_constant" title="Boltzmann constant">
+         Boltzmann constant
+        </a>
+       </li>
+       <li>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle h\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mi>
+               h
+              </mi>
+              <mspace width="thinmathspace">
+              </mspace>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle h\,}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="h\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/cecd947e6666832fcc39909b00dbde70caa9cf8c" style="vertical-align: -0.338ex; width:1.726ex; height:2.176ex;"/>
+        </span>
+        is
+        <a class="mw-redirect" href="/wiki/Planck%27s_constant" title="Planck's constant">
+         Planck's constant
+        </a>
+       </li>
+      </ul>
+      <p>
+       The expression
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle (\epsilon _{i+1}-\epsilon _{i})}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mo stretchy="false">
+              (
+             </mo>
+             <msub>
+              <mi>
+               ϵ
+               <!-- ϵ -->
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                i
+               </mi>
+               <mo>
+                +
+               </mo>
+               <mn>
+                1
+               </mn>
+              </mrow>
+             </msub>
+             <mo>
+              −
+              <!-- − -->
+             </mo>
+             <msub>
+              <mi>
+               ϵ
+               <!-- ϵ -->
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                i
+               </mi>
+              </mrow>
+             </msub>
+             <mo stretchy="false">
+              )
+             </mo>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle (\epsilon _{i+1}-\epsilon _{i})}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="(\epsilon _{{i+1}}-\epsilon _{i})" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2de6cfdbb04fda40ca20580f919aaff6d6ee92e0" style="vertical-align: -0.838ex; width:10.238ex; height:2.843ex;"/>
+       </span>
+       is the energy required to remove the
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle (i+1)^{th}}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mo stretchy="false">
+              (
+             </mo>
+             <mi>
+              i
+             </mi>
+             <mo>
+              +
+             </mo>
+             <mn>
+              1
+             </mn>
+             <msup>
+              <mo stretchy="false">
+               )
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                t
+               </mi>
+               <mi>
+                h
+               </mi>
+              </mrow>
+             </msup>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle (i+1)^{th}}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="(i+1)^{th}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2d5b302c449ca77ccfdeffd6d15a4fcf7a7346e8" style="vertical-align: -0.838ex; width:8.387ex; height:3.176ex;"/>
+       </span>
+       electron. In the case where only one level of ionization is important, we have
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle n_{1}=n_{e}}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <msub>
+              <mi>
+               n
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mn>
+                1
+               </mn>
+              </mrow>
+             </msub>
+             <mo>
+              =
+             </mo>
+             <msub>
+              <mi>
+               n
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                e
+               </mi>
+              </mrow>
+             </msub>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle n_{1}=n_{e}}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="n_{1}=n_{e}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/034f2d8a599cbe26f17e5dc4a05263fa0b25a0fa" style="vertical-align: -0.671ex; width:7.941ex; height:2.009ex;"/>
+       </span>
+       and defining the total density
+       <i>
+        n
+       </i>
+       as
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle n=n_{0}+n_{1}}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              n
+             </mi>
+             <mo>
+              =
+             </mo>
+             <msub>
+              <mi>
+               n
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mn>
+                0
+               </mn>
+              </mrow>
+             </msub>
+             <mo>
+              +
+             </mo>
+             <msub>
+              <mi>
+               n
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mn>
+                1
+               </mn>
+              </mrow>
+             </msub>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle n=n_{0}+n_{1}}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="n=n_{0}+n_{1}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9547bc010a21f4be4a7e6b7ff3e9cc6bbea70246" style="vertical-align: -0.671ex; width:12.231ex; height:2.343ex;"/>
+       </span>
+       , the Saha equation simplifies to:
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle {\frac {n_{e}^{2}}{n-n_{e}}}={\frac {2}{\lambda ^{3}}}{\frac {g_{1}}{g_{0}}}\exp \left[{\frac {-\epsilon }{k_{B}T}}\right]}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mrow class="MJX-TeXAtom-ORD">
+               <mfrac>
+                <msubsup>
+                 <mi>
+                  n
+                 </mi>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mi>
+                   e
+                  </mi>
+                 </mrow>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mn>
+                   2
+                  </mn>
+                 </mrow>
+                </msubsup>
+                <mrow>
+                 <mi>
+                  n
+                 </mi>
+                 <mo>
+                  −
+                  <!-- − -->
+                 </mo>
+                 <msub>
+                  <mi>
+                   n
+                  </mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mi>
+                    e
+                   </mi>
+                  </mrow>
+                 </msub>
+                </mrow>
+               </mfrac>
+              </mrow>
+              <mo>
+               =
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mfrac>
+                <mn>
+                 2
+                </mn>
+                <msup>
+                 <mi>
+                  λ
+                  <!-- λ -->
+                 </mi>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mn>
+                   3
+                  </mn>
+                 </mrow>
+                </msup>
+               </mfrac>
+              </mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mfrac>
+                <msub>
+                 <mi>
+                  g
+                 </mi>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mn>
+                   1
+                  </mn>
+                 </mrow>
+                </msub>
+                <msub>
+                 <mi>
+                  g
+                 </mi>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mn>
+                   0
+                  </mn>
+                 </mrow>
+                </msub>
+               </mfrac>
+              </mrow>
+              <mi>
+               exp
+              </mi>
+              <mo>
+               ⁡
+               <!-- ⁡ -->
+              </mo>
+              <mrow>
+               <mo>
+                [
+               </mo>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mfrac>
+                 <mrow>
+                  <mo>
+                   −
+                   <!-- − -->
+                  </mo>
+                  <mi>
+                   ϵ
+                   <!-- ϵ -->
+                  </mi>
+                 </mrow>
+                 <mrow>
+                  <msub>
+                   <mi>
+                    k
+                   </mi>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mi>
+                     B
+                    </mi>
+                   </mrow>
+                  </msub>
+                  <mi>
+                   T
+                  </mi>
+                 </mrow>
+                </mfrac>
+               </mrow>
+               <mo>
+                ]
+               </mo>
+              </mrow>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle {\frac {n_{e}^{2}}{n-n_{e}}}={\frac {2}{\lambda ^{3}}}{\frac {g_{1}}{g_{0}}}\exp \left[{\frac {-\epsilon }{k_{B}T}}\right]}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="{\displaystyle {\frac {n_{e}^{2}}{n-n_{e}}}={\frac {2}{\lambda ^{3}}}{\frac {g_{1}}{g_{0}}}\exp \left[{\frac {-\epsilon }{k_{B}T}}\right]}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/bd1966e9c6b6d32679a5e190aa5593b11d8a9878" style="vertical-align: -2.505ex; width:28.366ex; height:6.176ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       where
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle \epsilon }" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              ϵ
+              <!-- ϵ -->
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle \epsilon }
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="\epsilon " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c3837cad72483d97bcdde49c85d3b7b859fb3fd2" style="vertical-align: -0.338ex; width:0.944ex; height:1.676ex;"/>
+       </span>
+       is the energy of ionization.
+      </p>
+      <h2>
+       <span class="mw-headline" id="Particle_densities">
+        Particle densities
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Saha_ionization_equation&amp;action=edit&amp;section=2" title="Edit section: Particle densities">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       The Saha equation is useful for determining the ratio of particle densities for two different ionization levels. The most useful form of the Saha equation for this purpose is
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle {\frac {Z_{i}}{N_{i}}}={\frac {Z_{i+1}Z_{e}}{N_{i+1}N_{e}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mrow class="MJX-TeXAtom-ORD">
+               <mfrac>
+                <msub>
+                 <mi>
+                  Z
+                 </mi>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mi>
+                   i
+                  </mi>
+                 </mrow>
+                </msub>
+                <msub>
+                 <mi>
+                  N
+                 </mi>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mi>
+                   i
+                  </mi>
+                 </mrow>
+                </msub>
+               </mfrac>
+              </mrow>
+              <mo>
+               =
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mfrac>
+                <mrow>
+                 <msub>
+                  <mi>
+                   Z
+                  </mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mi>
+                    i
+                   </mi>
+                   <mo>
+                    +
+                   </mo>
+                   <mn>
+                    1
+                   </mn>
+                  </mrow>
+                 </msub>
+                 <msub>
+                  <mi>
+                   Z
+                  </mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mi>
+                    e
+                   </mi>
+                  </mrow>
+                 </msub>
+                </mrow>
+                <mrow>
+                 <msub>
+                  <mi>
+                   N
+                  </mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mi>
+                    i
+                   </mi>
+                   <mo>
+                    +
+                   </mo>
+                   <mn>
+                    1
+                   </mn>
+                  </mrow>
+                 </msub>
+                 <msub>
+                  <mi>
+                   N
+                  </mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mi>
+                    e
+                   </mi>
+                  </mrow>
+                 </msub>
+                </mrow>
+               </mfrac>
+              </mrow>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle {\frac {Z_{i}}{N_{i}}}={\frac {Z_{i+1}Z_{e}}{N_{i+1}N_{e}}}}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="{\frac  {Z_{i}}{N_{i}}}={\frac  {Z_{{i+1}}Z_{e}}{N_{{i+1}}N_{e}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3a0e190b5e1612e83182547a87bbec2dbed83057" style="vertical-align: -2.338ex; width:15.068ex; height:5.843ex;"/>
+        </span>
+        ,
+       </dd>
+      </dl>
+      <p>
+       where
+       <i>
+        Z
+       </i>
+       denotes the
+       <a href="/wiki/Partition_function_(statistical_mechanics)" title="Partition function (statistical mechanics)">
+        partition function
+       </a>
+       . The Saha equation can be seen as a restatement of the equilibrium condition for the
+       <a href="/wiki/Chemical_potential" title="Chemical potential">
+        chemical potentials
+       </a>
+       :
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle \mu _{i}=\mu _{i+1}+\mu _{e}\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <msub>
+               <mi>
+                μ
+                <!-- μ -->
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 i
+                </mi>
+               </mrow>
+              </msub>
+              <mo>
+               =
+              </mo>
+              <msub>
+               <mi>
+                μ
+                <!-- μ -->
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 i
+                </mi>
+                <mo>
+                 +
+                </mo>
+                <mn>
+                 1
+                </mn>
+               </mrow>
+              </msub>
+              <mo>
+               +
+              </mo>
+              <msub>
+               <mi>
+                μ
+                <!-- μ -->
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 e
+                </mi>
+               </mrow>
+              </msub>
+              <mspace width="thinmathspace">
+              </mspace>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle \mu _{i}=\mu _{i+1}+\mu _{e}\,}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="\mu _{i}=\mu _{{i+1}}+\mu _{e}\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0adf86f322ea79e2b438e9aa85b0875e0c6ce0a3" style="vertical-align: -0.838ex; width:15.229ex; height:2.509ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       This equation simply states that the potential for an atom of ionization state
+       <i>
+        i
+       </i>
+       to ionize is the same as the potential for an electron and an atom of ionization state
+       <i>
+        i+1
+       </i>
+       ; the potentials are equal, therefore the system is in equilibrium and no
+       <i>
+        net
+       </i>
+       change of ionization will occur.
+       <br/>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Stellar_atmospheres">
+        Stellar atmospheres
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Saha_ionization_equation&amp;action=edit&amp;section=3" title="Edit section: Stellar atmospheres">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       In the early twenties
+       <a href="/wiki/Ralph_H._Fowler" title="Ralph H. Fowler">
+        Ralph H. Fowler
+       </a>
+       (in collaboration with
+       <a href="/wiki/Charles_Galton_Darwin" title="Charles Galton Darwin">
+        Charles Galton Darwin
+       </a>
+       ) developed a very powerful method in
+       <a href="/wiki/Statistical_mechanics" title="Statistical mechanics">
+        statistical mechanics
+       </a>
+       permitting a systematic exposition and working out of the equilibrium properties of matter. He used this to provide a (rigorous) derivation of the ionization formula which as described earlier Saha had obtained by extending (and justifiably) to ionization of atoms the theorem of
+       <a href="/wiki/Jacobus_Henricus_van_%27t_Hoff" title="Jacobus Henricus van 't Hoff">
+        van 't Hoff
+       </a>
+       , well known in physical chemistry for its application to molecular dissociation. Also, a significant improvement in the Saha equation introduced by Fowler was to include the effect of the excited states of atoms and ions. Further, it marked an important step forward when in 1923
+       <a href="/wiki/Edward_Arthur_Milne" title="Edward Arthur Milne">
+        Edward Arthur Milne
+       </a>
+       and R.H. Fowler in a paper in the
+       <i>
+        <a href="/wiki/Monthly_Notices_of_the_Royal_Astronomical_Society" title="Monthly Notices of the Royal Astronomical Society">
+         Monthly Notices of the Royal Astronomical Society
+        </a>
+       </i>
+       showed that the criterion of the maximum intensity of absorption lines (belonging to subordinate series of a neutral atom) was much more fruitful in giving information about physical parameters of stellar atmospheres than the criterion employed by Saha which consisted in the marginal appearance or disappearance of absorption lines. (The latter criterion requires some knowledge of the relevant pressures in the stellar atmospheres, and Saha following the generally accepted view at the time assumed a value of the order of 1 to 0.1 atmosphere.) To quote from E. A. Milne:
+      </p>
+      <blockquote>
+       <p>
+        Saha had concentrated on the marginal appearances and disappearances of absorption lines in the stellar sequence, assuming an order of magnitude for the pressure in a stellar atmosphere and calculating the temperature where increasing ionization, for example, inhibited further absorption of the line in question owing to the loss of the series electron. As Fowler and I were one day stamping round my rooms in Trinity and discussing this, it suddenly occurred to me that the maximum intensity of the
+        <a href="/wiki/Balmer_series" title="Balmer series">
+         Balmer lines of hydrogen
+        </a>
+        , for example, was readily explained by the consideration that at the lower temperatures there were too few excited atoms to give appreciable absorption, whilst at the higher temperatures there are too few neutral atoms left to give any absorption. ..That evening I did a hasty order of magnitude calculation of the effect and found that to agree with a temperature of 10000° [K] for the stars of type A0, where the Balmer lines have their maximum, a pressure of the order of 10
+        <sup>
+         −4
+        </sup>
+        atmosphere was required. This was very exciting, because standard determinations of pressures in stellar atmospheres from line shifts and line widths had been supposed to indicate a pressure of the order of one atmosphere or more, and I had begun on other grounds to disbelieve this.
+        <sup class="reference" id="cite_ref-6">
+         <a href="#cite_note-6">
+          [6]
+         </a>
+        </sup>
+       </p>
+      </blockquote>
+      <h2>
+       <span class="mw-headline" id="See_also">
+        See also
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Saha_ionization_equation&amp;action=edit&amp;section=4" title="Edit section: See also">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a class="mw-redirect" href="/wiki/List_of_plasma_(physics)_articles" title="List of plasma (physics) articles">
+         List of plasma (physics) articles
+        </a>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="References">
+        References
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Saha_ionization_equation&amp;action=edit&amp;section=5" title="Edit section: References">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="reflist" style="list-style-type: decimal;">
+       <div class="mw-references-wrap">
+        <ol class="references">
+         <li id="cite_note-isbn0-521-84735-4-1">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-isbn0-521-84735-4_1-0">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation book">
+            Alexander A. Fridman (2008).
+            <i>
+             Plasma Chemistry
+            </i>
+            . Cambridge, UK:
+            <a href="/wiki/Cambridge_University_Press" title="Cambridge University Press">
+             Cambridge University Press
+            </a>
+            . p. 94.
+            <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+             ISBN
+            </a>
+            <a href="/wiki/Special:BookSources/0-521-84735-4" title="Special:BookSources/0-521-84735-4">
+             0-521-84735-4
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Plasma+Chemistry&amp;rft.place=Cambridge%2C+UK&amp;rft.pages=94&amp;rft.pub=Cambridge+University+Press&amp;rft.date=2008&amp;rft.isbn=0-521-84735-4&amp;rft.au=Alexander+A.+Fridman&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASaha+ionization+equation">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-2">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-2">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation book">
+            <a href="/wiki/Francis_F._Chen" title="Francis F. Chen">
+             Chen, Francis F.
+            </a>
+            (2016).
+            <a class="external text" href="https://www.springer.com/us/book/9783319223087" rel="nofollow">
+             <i>
+              Introduction to Plasma Physics and controlled fusion
+             </i>
+            </a>
+            . Springer International Publishing. p. 2.
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1007%2F978-3-319-22309-4" rel="nofollow">
+             10.1007/978-3-319-22309-4
+            </a>
+            .
+            <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+             ISBN
+            </a>
+            <a href="/wiki/Special:BookSources/978-3-319-22309-4" title="Special:BookSources/978-3-319-22309-4">
+             978-3-319-22309-4
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Introduction+to+Plasma+Physics+and+controlled+fusion&amp;rft.pages=2&amp;rft.pub=Springer+International+Publishing&amp;rft.date=2016&amp;rft_id=info%3Adoi%2F10.1007%2F978-3-319-22309-4&amp;rft.isbn=978-3-319-22309-4&amp;rft.aulast=Chen&amp;rft.aufirst=Francis+F.&amp;rft_id=https%3A%2F%2Fwww.springer.com%2Fus%2Fbook%2F9783319223087&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASaha+ionization+equation">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-3">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-3">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Saha, Megh Nad (1920). "LIII.Ionization in the solar chromosphere".
+            <i>
+             Philosophical Magazine
+            </i>
+            . Series 6.
+            <b>
+             40
+            </b>
+            (238): 472.
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1080%2F14786441008636148" rel="nofollow">
+             10.1080/14786441008636148
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Philosophical+Magazine&amp;rft.atitle=LIII.Ionization+in+the+solar+chromosphere&amp;rft.volume=40&amp;rft.issue=238&amp;rft.pages=472&amp;rft.date=1920&amp;rft_id=info%3Adoi%2F10.1080%2F14786441008636148&amp;rft.aulast=Saha&amp;rft.aufirst=Megh+Nad&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASaha+ionization+equation">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-4">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-4">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Saha, M. N. (1921). "On a Physical Theory of Stellar Spectra".
+            <i>
+             Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences
+            </i>
+            .
+            <b>
+             99
+            </b>
+            (697): 135.
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/1921RSPSA..99..135S" rel="nofollow">
+             1921RSPSA..99..135S
+            </a>
+            .
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1098%2Frspa.1921.0029" rel="nofollow">
+             10.1098/rspa.1921.0029
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Proceedings+of+the+Royal+Society+A%3A+Mathematical%2C+Physical+and+Engineering+Sciences&amp;rft.atitle=On+a+Physical+Theory+of+Stellar+Spectra&amp;rft.volume=99&amp;rft.issue=697&amp;rft.pages=135&amp;rft.date=1921&amp;rft_id=info%3Adoi%2F10.1098%2Frspa.1921.0029&amp;rft_id=info%3Abibcode%2F1921RSPSA..99..135S&amp;rft.aulast=Saha&amp;rft.aufirst=M.+N.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASaha+ionization+equation">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-5">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-5">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Kingdon, K.; Langmuir, Irving (1923). "The Removal of Thorium from the Surface of a Thoriated Tungsten Filament by Positive Ion Bombardment".
+            <i>
+             Physical Review
+            </i>
+            .
+            <b>
+             22
+            </b>
+            (2): 148.
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/1923PhRv...22..148K" rel="nofollow">
+             1923PhRv...22..148K
+            </a>
+            .
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1103%2FPhysRev.22.148" rel="nofollow">
+             10.1103/PhysRev.22.148
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Physical+Review&amp;rft.atitle=The+Removal+of+Thorium+from+the+Surface+of+a+Thoriated+Tungsten+Filament+by+Positive+Ion+Bombardment&amp;rft.volume=22&amp;rft.issue=2&amp;rft.pages=148&amp;rft.date=1923&amp;rft_id=info%3Adoi%2F10.1103%2FPhysRev.22.148&amp;rft_id=info%3Abibcode%2F1923PhRv...22..148K&amp;rft.aulast=Kingdon&amp;rft.aufirst=K.&amp;rft.au=Langmuir%2C+Irving&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASaha+ionization+equation">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-6">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-6">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.saha.ac.in/web/founder/founder-life-works?showall=1&amp;limitstart=" rel="nofollow">
+             "Biographical Memoirs: Meghnad Saha"
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Biographical+Memoirs%3A+Meghnad+Saha&amp;rft_id=http%3A%2F%2Fwww.saha.ac.in%2Fweb%2Ffounder%2Ffounder-life-works%3Fshowall%3D1%26limitstart%3D&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASaha+ionization+equation">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+        </ol>
+       </div>
+      </div>
+      <h2>
+       <span class="mw-headline" id="External_links">
+        External links
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Saha_ionization_equation&amp;action=edit&amp;section=6" title="Edit section: External links">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a class="external text" href="http://www.cambridge.org/resources/0521846560/7706_Saha%20equation.pdf" rel="nofollow">
+         Derivation &amp; Discussion
+        </a>
+        by Hale Bradt
+       </li>
+       <li>
+        <a class="external text" href="http://www.physics.utah.edu/~kieda/SahaEquation.pdf" rel="nofollow">
+         A detailed derivation
+        </a>
+        from
+        <a href="/wiki/University_of_Utah" title="University of Utah">
+         University of Utah
+        </a>
+        Physics Department
+       </li>
+       <li>
+        <a class="external text" href="http://www.astro.umd.edu/~miller/teaching/astr601/" rel="nofollow">
+         Lecture notes
+        </a>
+        from
+        <a href="/wiki/University_of_Maryland,_College_Park" title="University of Maryland, College Park">
+         University of Maryland
+        </a>
+        Department of Astronomy
+       </li>
+      </ul>
+      <!-- 
+NewPP limit report
+Parsed by mw1276
+Cached time: 20180129152402
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.116 seconds
+Real time usage: 0.220 seconds
+Preprocessor visited node count: 428/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 9950/2097152 bytes
+Template argument size: 88/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 0/500
+Lua time usage: 0.042/10.000 seconds
+Lua memory usage: 2.45 MB/50 MB
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   89.681      1 Template:Reflist
+100.00%   89.681      1 -total
+ 60.76%   54.486      2 Template:Cite_book
+ 14.40%   12.913      3 Template:Cite_journal
+  4.84%    4.341      1 Template:Cite_web
+  1.88%    1.682      1 Template:Main_other
+-->
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:1438662-0!canonical!math=5 and timestamp 20180129152402 and revision id 822968538
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Saha_ionization_equation&amp;oldid=822968538">
+      https://en.wikipedia.org/w/index.php?title=Saha_ionization_equation&amp;oldid=822968538
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Atomic_physics" title="Category:Atomic physics">
+         Atomic physics
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Plasma_physics" title="Category:Plasma physics">
+         Plasma physics
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Saha+ionization+equation" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Saha+ionization+equation" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Saha_ionization_equation" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Saha_ionization_equation" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="collapsible selected" id="ca-view">
+        <span>
+         <a href="/wiki/Saha_ionization_equation">
+          Read
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Saha_ionization_equation&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Saha_ionization_equation&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Saha_ionization_equation" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Saha_ionization_equation" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Saha_ionization_equation&amp;oldid=822968538" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Saha_ionization_equation&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q631222" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Saha_ionization_equation&amp;id=822968538" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Saha+ionization+equation">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Saha+ionization+equation&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Saha_ionization_equation&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-cs">
+        <a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Sahova_rovnice" hreflang="cs" lang="cs" title="Sahova rovnice – Czech">
+         Čeština
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Saha-Gleichung" hreflang="de" lang="de" title="Saha-Gleichung – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Ecuaci%C3%B3n_de_Saha" hreflang="es" lang="es" title="Ecuación de Saha – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fa">
+        <a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D9%85%D8%B9%D8%A7%D8%AF%D9%84%D9%87_%DB%8C%D9%88%D9%86%DB%8C%D8%B2%D8%A7%D8%B3%DB%8C%D9%88%D9%86_%D8%B3%D8%A7%D9%87%D8%A7" hreflang="fa" lang="fa" title="معادله یونیزاسیون ساها – Persian">
+         فارسی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/%C3%89quation_de_Saha" hreflang="fr" lang="fr" title="Équation de Saha – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ko">
+        <a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%82%AC%ED%95%98_%EC%9D%B4%EC%98%A8%ED%99%94_%EB%B0%A9%EC%A0%95%EC%8B%9D" hreflang="ko" lang="ko" title="사하 이온화 방정식 – Korean">
+         한국어
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Equazione_di_Saha" hreflang="it" lang="it" title="Equazione di Saha – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-he">
+        <a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%9E%D7%A9%D7%95%D7%95%D7%90%D7%AA_%D7%94%D7%99%D7%99%D7%A0%D7%95%D7%9F_%D7%A9%D7%9C_%D7%A1%D7%90%D7%94%D7%90" hreflang="he" lang="he" title="משוואת היינון של סאהא – Hebrew">
+         עברית
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lt">
+        <a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Sahos_jonizacijos_formul%C4%97" hreflang="lt" lang="lt" title="Sahos jonizacijos formulė – Lithuanian">
+         Lietuvių
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%8F%E3%81%AE%E9%9B%BB%E9%9B%A2%E5%85%AC%E5%BC%8F" hreflang="ja" lang="ja" title="サハの電離公式 – Japanese">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pl">
+        <a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Wz%C3%B3r_Sahy" hreflang="pl" lang="pl" title="Wzór Sahy – Polish">
+         Polski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%A3%D1%80%D0%B0%D0%B2%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_%D0%A1%D0%B0%D1%85%D0%B0" hreflang="ru" lang="ru" title="Уравнение Саха – Russian">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sr">
+        <a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%A1%D0%B0%D1%85%D0%B0_%D1%98%D0%B5%D0%B4%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0" hreflang="sr" lang="sr" title="Саха једначина – Serbian">
+         Српски / srpski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uk">
+        <a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%86%D0%BE%D0%BD%D1%96%D0%B7%D0%B0%D1%86%D1%96%D0%B9%D0%BD%D0%B0_%D1%80%D1%96%D0%B2%D0%BD%D0%BE%D0%B2%D0%B0%D0%B3%D0%B0" hreflang="uk" lang="uk" title="Іонізаційна рівновага – Ukrainian">
+         Українська
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E8%90%A8%E5%93%88%E7%94%B5%E7%A6%BB%E6%96%B9%E7%A8%8B" hreflang="zh" lang="zh" title="萨哈电离方程 – Chinese">
+         中文
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q631222#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 29 January 2018, at 15:24.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Saha_ionization_equation&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.116","walltime":"0.220","ppvisitednodes":{"value":428,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":9950,"limit":2097152},"templateargumentsize":{"value":88,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   89.681      1 Template:Reflist","100.00%   89.681      1 -total"," 60.76%   54.486      2 Template:Cite_book"," 14.40%   12.913      3 Template:Cite_journal","  4.84%    4.341      1 Template:Cite_web","  1.88%    1.682      1 Template:Main_other"]},"scribunto":{"limitreport-timeusage":{"value":"0.042","limit":"10.000"},"limitreport-memusage":{"value":2571073,"limit":52428800}},"cachereport":{"origin":"mw1276","timestamp":"20180129152402","ttl":1900800,"transientcontent":false}}});});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":77,"wgHostname":"mw1250"});});
+  </script>
+ </body>
+</html>

@@ -1,0 +1,1690 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Lexical similarity - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Lexical_similarity","wgTitle":"Lexical similarity","wgCurRevisionId":810303062,"wgRevisionId":810303062,"wgArticleId":3904796,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Language comparison"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Lexical_similarity","wgRelevantArticleId":3904796,"wgRequestId":"WnJYfApAADkAAGHZqkkAAAAI","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q4257687","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.31.0-wmf.17" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Lexical_similarity" rel="alternate"/>
+  <link href="/w/index.php?title=Lexical_similarity&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Lexical_similarity&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/Lexical_similarity" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Lexical_similarity rootpage-Lexical_similarity skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Lexical similarity
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <p>
+       In
+       <a href="/wiki/Linguistics" title="Linguistics">
+        linguistics
+       </a>
+       ,
+       <b>
+        lexical similarity
+       </b>
+       is a measure of the degree to which the word sets of two given
+       <a href="/wiki/Language" title="Language">
+        languages
+       </a>
+       are similar. A lexical similarity of 1 (or 100%) would mean a total overlap between vocabularies, whereas 0 means there are no common words.
+      </p>
+      <p>
+       There are different ways to define the lexical similarity and the results vary accordingly. For example,
+       <a href="/wiki/Ethnologue" title="Ethnologue">
+        Ethnologue
+       </a>
+       's method of calculation consists in comparing a standardized set of wordlists and counting those forms that show similarity in both form and meaning. Using such a method,
+       <a href="/wiki/English_language" title="English language">
+        English
+       </a>
+       was evaluated to have a lexical similarity of 60% with
+       <a href="/wiki/German_language" title="German language">
+        German
+       </a>
+       and 27% with
+       <a href="/wiki/French_language" title="French language">
+        French
+       </a>
+       .
+      </p>
+      <p>
+       Lexical similarity can be used to evaluate the degree of
+       <a href="/wiki/Language_family" title="Language family">
+        genetic relationship
+       </a>
+       between two languages. Percentages higher than 85% usually indicate that the two languages being compared are likely to be related
+       <a href="/wiki/Dialect" title="Dialect">
+        dialects
+       </a>
+       .
+       <sup class="reference" id="cite_ref-1">
+        <a href="#cite_note-1">
+         [1]
+        </a>
+       </sup>
+      </p>
+      <p>
+       The lexical similarity is only one indication of the
+       <a href="/wiki/Mutual_intelligibility" title="Mutual intelligibility">
+        mutual intelligibility
+       </a>
+       of the two languages, since the latter also depends on the degree of phonetical, morphological, and syntactical similarity. It is worth noting that the variations due to differing wordlists weigh on this. For example, lexical similarity between French and English is considerable in lexical fields relating to culture, whereas their similarity is smaller as far as basic (function) words are concerned. Unlike mutual intelligibility, lexical similarity can only be symmetrical.
+      </p>
+      <p>
+      </p>
+      <div class="toc" id="toc">
+       <div class="toctitle" dir="ltr" lang="en" xml:lang="en">
+        <h2>
+         Contents
+        </h2>
+       </div>
+       <ul>
+        <li class="toclevel-1 tocsection-1">
+         <a href="#Indo-European_languages">
+          <span class="tocnumber">
+           1
+          </span>
+          <span class="toctext">
+           Indo-European languages
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-2">
+         <a href="#See_also">
+          <span class="tocnumber">
+           2
+          </span>
+          <span class="toctext">
+           See also
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-3">
+         <a href="#References">
+          <span class="tocnumber">
+           3
+          </span>
+          <span class="toctext">
+           References
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-4">
+         <a href="#Notes">
+          <span class="tocnumber">
+           4
+          </span>
+          <span class="toctext">
+           Notes
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-5">
+         <a href="#External_links">
+          <span class="tocnumber">
+           5
+          </span>
+          <span class="toctext">
+           External links
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <p>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Indo-European_languages">
+        Indo-European languages
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Lexical_similarity&amp;action=edit&amp;section=1" title="Edit section: Indo-European languages">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       The table below shows some lexical similarity values for pairs of selected Romance, Germanic, and Slavic languages, as collected and published by
+       <a href="/wiki/Ethnologue" title="Ethnologue">
+        Ethnologue
+       </a>
+       .
+       <sup class="reference" id="cite_ref-2">
+        <a href="#cite_note-2">
+         [2]
+        </a>
+       </sup>
+      </p>
+      <table class="wikitable" style="text-align:center">
+       <tr>
+        <th>
+         <small>
+          Lang.
+          <br/>
+          code
+         </small>
+        </th>
+        <th>
+         Language 1
+         <br/>
+         ↓
+        </th>
+        <th colspan="11">
+         Lexical similarity coefficients
+        </th>
+       </tr>
+       <tr>
+        <td>
+        </td>
+        <td align="left">
+        </td>
+        <td>
+         Catalan
+        </td>
+        <td>
+         English
+        </td>
+        <td>
+         French
+        </td>
+        <td>
+         German
+        </td>
+        <td>
+         Italian
+        </td>
+        <td>
+         Portuguese
+        </td>
+        <td>
+         Romanian
+        </td>
+        <td>
+         Romansh
+        </td>
+        <td>
+         Russian
+        </td>
+        <td>
+         Sardinian
+        </td>
+        <td>
+         Spanish
+        </td>
+       </tr>
+       <tr>
+        <td style="width:3em">
+         <b>
+          cat
+         </b>
+        </td>
+        <td align="left">
+         <a href="/wiki/Catalan_language" title="Catalan language">
+          Catalan
+         </a>
+        </td>
+        <td>
+         1
+        </td>
+        <td>
+         -
+        </td>
+        <td>
+         -
+        </td>
+        <td>
+         -
+        </td>
+        <td>
+         0.87
+        </td>
+        <td>
+         0.85
+        </td>
+        <td>
+         0.73
+        </td>
+        <td>
+         0.76
+        </td>
+        <td>
+         -
+        </td>
+        <td>
+         0.75
+        </td>
+        <td>
+         0.85
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <b>
+          eng
+         </b>
+        </td>
+        <td align="left">
+         <a href="/wiki/English_language" title="English language">
+          English
+         </a>
+        </td>
+        <td>
+         -
+        </td>
+        <td>
+         1
+        </td>
+        <td>
+         0.27
+        </td>
+        <td>
+         0.60
+        </td>
+        <td>
+         -
+        </td>
+        <td>
+         -
+        </td>
+        <td>
+         -
+        </td>
+        <td>
+         -
+        </td>
+        <td>
+         0.24
+        </td>
+        <td>
+         -
+        </td>
+        <td>
+         -
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <b>
+          fra
+         </b>
+        </td>
+        <td align="left">
+         <a href="/wiki/French_language" title="French language">
+          French
+         </a>
+        </td>
+        <td>
+         -
+        </td>
+        <td>
+         0.27
+        </td>
+        <td>
+         1
+        </td>
+        <td>
+         0.29
+        </td>
+        <td>
+         0.89
+        </td>
+        <td>
+         0.75
+        </td>
+        <td>
+         0.75
+        </td>
+        <td>
+         0.78
+        </td>
+        <td>
+         -
+        </td>
+        <td>
+         0.80
+        </td>
+        <td>
+         0.75
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <b>
+          deu
+         </b>
+        </td>
+        <td align="left">
+         <a href="/wiki/German_language" title="German language">
+          German
+         </a>
+        </td>
+        <td>
+         -
+        </td>
+        <td>
+         0.60
+        </td>
+        <td>
+         0.29
+        </td>
+        <td>
+         1
+        </td>
+        <td>
+         -
+        </td>
+        <td>
+         -
+        </td>
+        <td>
+         -
+        </td>
+        <td>
+         -
+        </td>
+        <td>
+         -
+        </td>
+        <td>
+         -
+        </td>
+        <td>
+         -
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <b>
+          ita
+         </b>
+        </td>
+        <td align="left">
+         <a href="/wiki/Italian_language" title="Italian language">
+          Italian
+         </a>
+        </td>
+        <td>
+         0.87
+        </td>
+        <td>
+         -
+        </td>
+        <td>
+         0.89
+        </td>
+        <td>
+         -
+        </td>
+        <td>
+         1
+        </td>
+        <td>
+         -
+        </td>
+        <td>
+         0.77
+        </td>
+        <td>
+         0.78
+        </td>
+        <td>
+         -
+        </td>
+        <td>
+         0.85
+        </td>
+        <td>
+         0.82
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <b>
+          por
+         </b>
+        </td>
+        <td align="left">
+         <a href="/wiki/Portuguese_language" title="Portuguese language">
+          Portuguese
+         </a>
+        </td>
+        <td>
+         0.85
+        </td>
+        <td>
+         -
+        </td>
+        <td>
+         0.75
+        </td>
+        <td>
+         -
+        </td>
+        <td>
+         -
+        </td>
+        <td>
+         1
+        </td>
+        <td>
+         0.72
+        </td>
+        <td>
+         0.74
+        </td>
+        <td>
+         -
+        </td>
+        <td>
+         -
+        </td>
+        <td>
+         0.89
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <b>
+          ron
+         </b>
+        </td>
+        <td align="left">
+         <a href="/wiki/Romanian_language" title="Romanian language">
+          Romanian
+         </a>
+        </td>
+        <td>
+         0.73
+        </td>
+        <td>
+         -
+        </td>
+        <td>
+         0.75
+        </td>
+        <td>
+         -
+        </td>
+        <td>
+         0.77
+        </td>
+        <td>
+         0.72
+        </td>
+        <td>
+         1
+        </td>
+        <td>
+         0.72
+        </td>
+        <td>
+         -
+        </td>
+        <td>
+         0.74
+        </td>
+        <td>
+         0.71
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <b>
+          roh
+         </b>
+        </td>
+        <td align="left">
+         <a href="/wiki/Romansh_language" title="Romansh language">
+          Romansh
+         </a>
+        </td>
+        <td>
+         0.76
+        </td>
+        <td>
+         -
+        </td>
+        <td>
+         0.78
+        </td>
+        <td>
+         -
+        </td>
+        <td>
+         0.78
+        </td>
+        <td>
+         0.74
+        </td>
+        <td>
+         0.72
+        </td>
+        <td>
+         1
+        </td>
+        <td>
+         -
+        </td>
+        <td>
+         0.74
+        </td>
+        <td>
+         0.74
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <b>
+          rus
+         </b>
+        </td>
+        <td align="left">
+         <a href="/wiki/Russian_language" title="Russian language">
+          Russian
+         </a>
+        </td>
+        <td>
+         -
+        </td>
+        <td>
+         0.24
+        </td>
+        <td>
+         -
+        </td>
+        <td>
+         -
+        </td>
+        <td>
+         -
+        </td>
+        <td>
+         -
+        </td>
+        <td>
+         -
+        </td>
+        <td>
+         -
+        </td>
+        <td>
+         1
+        </td>
+        <td>
+         -
+        </td>
+        <td>
+         -
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <b>
+          srd
+         </b>
+        </td>
+        <td align="left">
+         <a href="/wiki/Sardinian_language" title="Sardinian language">
+          Sardinian
+         </a>
+        </td>
+        <td>
+         0.75
+        </td>
+        <td>
+         -
+        </td>
+        <td>
+         0.80
+        </td>
+        <td>
+         -
+        </td>
+        <td>
+         0.85
+        </td>
+        <td>
+         -
+        </td>
+        <td>
+         0.74
+        </td>
+        <td>
+         0.74
+        </td>
+        <td>
+         -
+        </td>
+        <td>
+         1
+        </td>
+        <td>
+         0.76
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <b>
+          spa
+         </b>
+        </td>
+        <td align="left">
+         <a href="/wiki/Spanish_language" title="Spanish language">
+          Spanish
+         </a>
+        </td>
+        <td>
+         0.85
+        </td>
+        <td>
+         -
+        </td>
+        <td>
+         0.75
+        </td>
+        <td>
+         -
+        </td>
+        <td>
+         0.82
+        </td>
+        <td>
+         0.89
+        </td>
+        <td>
+         0.71
+        </td>
+        <td>
+         0.74
+        </td>
+        <td>
+         -
+        </td>
+        <td>
+         0.76
+        </td>
+        <td>
+         1
+        </td>
+       </tr>
+       <tr>
+        <td>
+        </td>
+        <td align="left">
+        </td>
+        <td>
+         Catalan
+        </td>
+        <td>
+         English
+        </td>
+        <td>
+         French
+        </td>
+        <td>
+         German
+        </td>
+        <td>
+         Italian
+        </td>
+        <td>
+         Portuguese
+        </td>
+        <td>
+         Romanian
+        </td>
+        <td>
+         Romansh
+        </td>
+        <td>
+         Russian
+        </td>
+        <td>
+         Sardinian
+        </td>
+        <td>
+         Spanish
+        </td>
+       </tr>
+       <tr>
+        <th align="right" colspan="2">
+         Language 2 →
+        </th>
+        <td style="width:3em">
+         <b>
+          cat
+         </b>
+        </td>
+        <td style="width:3em">
+         <b>
+          eng
+         </b>
+        </td>
+        <td style="width:3em">
+         <b>
+          fra
+         </b>
+        </td>
+        <td style="width:3em">
+         <b>
+          deu
+         </b>
+        </td>
+        <td style="width:3em">
+         <b>
+          ita
+         </b>
+        </td>
+        <td style="width:3em">
+         <b>
+          por
+         </b>
+        </td>
+        <td style="width:3em">
+         <b>
+          ron
+         </b>
+        </td>
+        <td style="width:3em">
+         <b>
+          roh
+         </b>
+        </td>
+        <td style="width:3em">
+         <b>
+          rus
+         </b>
+        </td>
+        <td style="width:3em">
+         <b>
+          srd
+         </b>
+        </td>
+        <td style="width:3em">
+         <b>
+          spa
+         </b>
+        </td>
+       </tr>
+      </table>
+      <p>
+       <i>
+        Notes:
+       </i>
+      </p>
+      <ul>
+       <li>
+        Language codes are from standard
+        <a href="/wiki/ISO_639-3" title="ISO 639-3">
+         ISO 639-3
+        </a>
+        .
+       </li>
+       <li>
+        Ethnologue does not specify for which
+        <a href="/wiki/Sardinian_language" title="Sardinian language">
+         Sardinian
+        </a>
+        variety the lexical similarity was calculated. The answer could drastically change the data, since Ethnologue controversially considers Sardinian to be a
+        <a class="mw-redirect" href="/wiki/Macrolanguage" title="Macrolanguage">
+         macrolanguage
+        </a>
+        by adding also two Sardo-Corsican transitional lects spoken in Sardinia (Corsican is in fact the closest lect to Tuscan and Italian of all in the Neolatin panorama). Based on the studies of Roberto Bolognesi and Wilbert Heeringa, the average divergence between the Sardinian language (without considering the aforementioned Corso-Sardinian lects) and Italian is around 48,7%, ranging from a minimum dialectal degree of divergence being 46,6% to the highest one of 51,1%.
+        <sup class="reference" id="cite_ref-Bolognesi_3-0">
+         <a href="#cite_note-Bolognesi-3">
+          [3]
+         </a>
+        </sup>
+        That would make the various dialects of Sardinian slightly more divergent from Italian than Spanish (with an average degree of divergence from Italian being around 46,0%) is.
+        <sup class="reference" id="cite_ref-Bolognesi_3-1">
+         <a href="#cite_note-Bolognesi-3">
+          [3]
+         </a>
+        </sup>
+       </li>
+       <li>
+        "-" denotes that comparison data are not available.
+       </li>
+       <li>
+        In the case of English-French lexical similarity, at least two other studies
+        <sup class="reference" id="cite_ref-4">
+         <a href="#cite_note-4">
+          [4]
+         </a>
+        </sup>
+        <sup class="reference" id="cite_ref-5">
+         <a href="#cite_note-5">
+          [5]
+         </a>
+        </sup>
+        estimate the number of English words directly inherited from French at 28.3% and 41% respectively, with respectively 28.24% and 15% of other English words derived from Latin, putting English-French lexical similarity at around 0.56, with reciprocally lower English-German lexical similarities. Another study estimates the number of English words with an Italic origin at 51%, consistent with the two previous analyses.
+        <sup class="reference" id="cite_ref-6">
+         <a href="#cite_note-6">
+          [6]
+         </a>
+        </sup>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="See_also">
+        See also
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Lexical_similarity&amp;action=edit&amp;section=2" title="Edit section: See also">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a href="/wiki/Lexis_(linguistics)" title="Lexis (linguistics)">
+         Lexis (linguistics)
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Vocabulary" title="Vocabulary">
+         Vocabulary
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Language_family" title="Language family">
+         Language family
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Dialect" title="Dialect">
+         Dialect
+        </a>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="References">
+        References
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Lexical_similarity&amp;action=edit&amp;section=3" title="Edit section: References">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a class="external text" href="https://web.archive.org/web/20011005193846/http://www.ethnologue.com/web.asp" rel="nofollow">
+         <i>
+          Ethnologue.com
+         </i>
+        </a>
+        (lexical similarity values available at some of the individual language entries)
+       </li>
+       <li>
+        <a class="external text" href="http://www.ethnologue.com/about/language-info" rel="nofollow">
+         Definition of lexical similarity at
+         <i>
+          Ethnologue.com
+         </i>
+        </a>
+       </li>
+       <li>
+        Rensch, Calvin R. 1992. "Calculating lexical similarity." In Eugene H. Casad (ed.),
+        <i>
+         Windows on bilingualism
+        </i>
+        , 13-15. (Summer Institute of Linguistics and the University of Texas at Arlington Publications in Linguistics, 110). Dallas: Summer Institute of Linguistics and the University of Texas at Arlington.
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="Notes">
+        Notes
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Lexical_similarity&amp;action=edit&amp;section=4" title="Edit section: Notes">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="mw-references-wrap">
+       <ol class="references">
+        <li id="cite_note-1">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-1">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <a class="external free" href="http://www.ethnologue.com/ethno_docs/introduction.asp" rel="nofollow">
+           http://www.ethnologue.com/ethno_docs/introduction.asp
+          </a>
+         </span>
+        </li>
+        <li id="cite_note-2">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-2">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          See, for instance, lexical similarity data for
+          <a class="external text" href="http://www.ethnologue.com/show_language.asp?code=fra" rel="nofollow">
+           French
+          </a>
+          ,
+          <a class="external text" href="http://www.ethnologue.com/show_language.asp?code=deu" rel="nofollow">
+           German
+          </a>
+          ,
+          <a class="external text" href="http://www.ethnologue.com/show_language.asp?code=eng" rel="nofollow">
+           English
+          </a>
+         </span>
+        </li>
+        <li id="cite_note-Bolognesi-3">
+         <span class="mw-cite-backlink">
+          ^
+          <a href="#cite_ref-Bolognesi_3-0">
+           <sup>
+            <i>
+             <b>
+              a
+             </b>
+            </i>
+           </sup>
+          </a>
+          <a href="#cite_ref-Bolognesi_3-1">
+           <sup>
+            <i>
+             <b>
+              b
+             </b>
+            </i>
+           </sup>
+          </a>
+         </span>
+         <span class="reference-text">
+          <a class="external text" href="http://www.sardegnadigitallibrary.it/mmt/fullsize/2010011412224500014.pdf" rel="nofollow">
+           Bolognesi, Roberto; Heeringa, Wilbert.
+           <i>
+            Sardegna fra tante lingue
+           </i>
+           , pp.123, 2005, Condaghes
+          </a>
+         </span>
+        </li>
+        <li id="cite_note-4">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-4">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation book">
+           Finkenstaedt, Thomas; Dieter Wolff (1973).
+           <i>
+            Ordered profusion; studies in dictionaries and the English lexicon
+           </i>
+           . C. Winter.
+           <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+            ISBN
+           </a>
+           <a href="/wiki/Special:BookSources/3-533-02253-6" title="Special:BookSources/3-533-02253-6">
+            3-533-02253-6
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Ordered+profusion%3B+studies+in+dictionaries+and+the+English+lexicon&amp;rft.pub=C.+Winter&amp;rft.date=1973&amp;rft.isbn=3-533-02253-6&amp;rft.aulast=Finkenstaedt&amp;rft.aufirst=Thomas&amp;rft.au=Dieter+Wolff&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALexical+similarity">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-5">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-5">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation web">
+           <a class="external text" href="https://www.amazon.com/dp/0029344700" rel="nofollow">
+            "Joseph M. Willams, Origins of the English Language at"
+           </a>
+           . Amazon.com
+           <span class="reference-accessdate">
+            . Retrieved
+            <span class="nowrap">
+             2010-04-21
+            </span>
+           </span>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Joseph+M.+Willams%2C+Origins+of+the+English+Language+at&amp;rft.pub=Amazon.com&amp;rft_id=https%3A%2F%2Fwww.amazon.com%2Fdp%2F0029344700&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALexical+similarity">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-6">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-6">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation book">
+           <a href="/wiki/Paul_Nation" title="Paul Nation">
+            Nation, I.S.P.
+           </a>
+           (2001).
+           <a class="external text" href="https://books.google.com/books?id=sKqx8k8gYTkC" rel="nofollow">
+            <i>
+             Learning Vocabulary in Another Language
+            </i>
+           </a>
+           . Cambridge University Press. p. 477.
+           <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+            ISBN
+           </a>
+           <a href="/wiki/Special:BookSources/0-521-80498-1" title="Special:BookSources/0-521-80498-1">
+            0-521-80498-1
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Learning+Vocabulary+in+Another+Language&amp;rft.pages=477&amp;rft.pub=Cambridge+University+Press&amp;rft.date=2001&amp;rft.isbn=0-521-80498-1&amp;rft.aulast=Nation&amp;rft.aufirst=I.S.P.&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DsKqx8k8gYTkC&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALexical+similarity">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+       </ol>
+      </div>
+      <h2>
+       <span class="mw-headline" id="External_links">
+        External links
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Lexical_similarity&amp;action=edit&amp;section=5" title="Edit section: External links">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a class="external text" href="http://www.ezglot.com/most-similar-languages.php" rel="nofollow">
+         Most similar languages
+        </a>
+       </li>
+      </ul>
+      <!-- 
+NewPP limit report
+Parsed by mw1241
+Cached time: 20180118115534
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.072 seconds
+Real time usage: 0.091 seconds
+Preprocessor visited node count: 183/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 4074/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 3/40
+Expensive parser function count: 0/500
+Lua time usage: 0.029/10.000 seconds
+Lua memory usage: 1.57 MB/50 MB
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   62.693      1 -total
+ 90.93%   57.006      2 Template:Cite_book
+  8.82%    5.531      1 Template:Cite_web
+-->
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:3904796-0!canonical and timestamp 20180118115534 and revision id 810303062
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Lexical_similarity&amp;oldid=810303062">
+      https://en.wikipedia.org/w/index.php?title=Lexical_similarity&amp;oldid=810303062
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Language_comparison" title="Category:Language comparison">
+         Language comparison
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Lexical+similarity" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Lexical+similarity" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Lexical_similarity" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Lexical_similarity" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="collapsible selected" id="ca-view">
+        <span>
+         <a href="/wiki/Lexical_similarity">
+          Read
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Lexical_similarity&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Lexical_similarity&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Lexical_similarity" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Lexical_similarity" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Lexical_similarity&amp;oldid=810303062" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Lexical_similarity&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q4257687" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Lexical_similarity&amp;id=810303062" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Lexical+similarity">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Lexical+similarity&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Lexical_similarity&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-ar">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%AA%D8%B4%D8%A7%D8%A8%D9%87_%D8%A7%D9%84%D9%85%D9%81%D8%B1%D8%AF%D8%A7%D8%AA" hreflang="ar" lang="ar" title="تشابه المفردات – Arabic">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cs">
+        <a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Lexik%C3%A1ln%C3%AD_podobnost" hreflang="cs" lang="cs" title="Lexikální podobnost – Czech">
+         Čeština
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Similarit%C3%A9_lexicale" hreflang="fr" lang="fr" title="Similarité lexicale – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Somiglianza_lessicale" hreflang="it" lang="it" title="Somiglianza lessicale – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E8%AA%9E%E5%BD%99%E3%81%AE%E5%85%B1%E9%80%9A%E5%BA%A6" hreflang="ja" lang="ja" title="語彙の共通度 – Japanese">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%9B%D0%B5%D0%BA%D1%81%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D1%81%D1%85%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE" hreflang="ru" lang="ru" title="Лексическое сходство – Russian">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ta">
+        <a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%9A%E0%AF%8A%E0%AE%B2%E0%AF%8D%E0%AE%B2%E0%AF%8A%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%81%E0%AE%AE%E0%AF%88" hreflang="ta" lang="ta" title="சொல்லொப்புமை – Tamil">
+         தமிழ்
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q4257687#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 14 November 2017, at 12:52.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Lexical_similarity&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.072","walltime":"0.091","ppvisitednodes":{"value":183,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":4074,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":3,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   62.693      1 -total"," 90.93%   57.006      2 Template:Cite_book","  8.82%    5.531      1 Template:Cite_web"]},"scribunto":{"limitreport-timeusage":{"value":"0.029","limit":"10.000"},"limitreport-memusage":{"value":1651014,"limit":52428800}},"cachereport":{"origin":"mw1241","timestamp":"20180118115534","ttl":1900800,"transientcontent":false}}});});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":74,"wgHostname":"mw1262"});});
+  </script>
+ </body>
+</html>

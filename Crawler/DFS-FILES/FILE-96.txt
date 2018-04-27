@@ -1,0 +1,2685 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Figure of the Earth - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Figure_of_the_Earth","wgTitle":"Figure of the Earth","wgCurRevisionId":822185101,"wgRevisionId":822185101,"wgArticleId":233668,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from January 2016","Articles with unsourced statements from January 2017","Use dmy dates from June 2011","Earth","Geodesy","Geophysics"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Figure_of_the_Earth","wgRelevantArticleId":233668,"wgRequestId":"WnA@jApAMEkAAEmu9lIAAABT","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q437882","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.31.0-wmf.17" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <meta content="https://upload.wikimedia.org/wikipedia/commons/4/4c/Azimutalprojektion-schief_kl-cropped.png" property="og:image"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Figure_of_the_Earth" rel="alternate"/>
+  <link href="/w/index.php?title=Figure_of_the_Earth&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Figure_of_the_Earth&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/Figure_of_the_Earth" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Figure_of_the_Earth rootpage-Figure_of_the_Earth skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Figure of the Earth
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <div class="hatnote navigation-not-searchable" role="note">
+       For the historical development of the concept, see
+       <a href="/wiki/Spherical_Earth" title="Spherical Earth">
+        Spherical Earth
+       </a>
+       and
+       <a href="/wiki/Flat_Earth" title="Flat Earth">
+        Flat Earth
+       </a>
+       .
+      </div>
+      <table class="vertical-navbox nowraplinks plainlist" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+       <tr>
+        <th style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em;padding-bottom:0.4em;">
+         <a href="/wiki/Geodesy" title="Geodesy">
+          Geodesy
+         </a>
+        </th>
+       </tr>
+       <tr>
+        <td style="padding:0.2em 0 0.4em">
+         <a class="image" href="/wiki/File:Azimutalprojektion-schief_kl-cropped.png">
+          <img alt="Azimutalprojektion-schief kl-cropped.png" data-file-height="240" data-file-width="242" height="149" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Azimutalprojektion-schief_kl-cropped.png/150px-Azimutalprojektion-schief_kl-cropped.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Azimutalprojektion-schief_kl-cropped.png/225px-Azimutalprojektion-schief_kl-cropped.png 1.5x, //upload.wikimedia.org/wikipedia/commons/4/4c/Azimutalprojektion-schief_kl-cropped.png 2x" width="150"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <th style="padding:0.1em;background:#c5d5a5;">
+         Fundamentals
+        </th>
+       </tr>
+       <tr>
+        <td style="padding:0 0.1em 0.4em;padding-top:0.2em;padding-bottom:0.7em;">
+         <div class="hlist">
+          <ul>
+           <li>
+            <a href="/wiki/Geodesy" title="Geodesy">
+             Geodesy
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Geodynamics" title="Geodynamics">
+             Geodynamics
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Geomatics" title="Geomatics">
+             Geomatics
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Cartography" title="Cartography">
+             Cartography
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/History_of_geodesy" title="History of geodesy">
+             History
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr>
+        <th style="padding:0.1em;background:#c5d5a5;">
+         Concepts
+        </th>
+       </tr>
+       <tr>
+        <td style="padding:0 0.1em 0.4em;padding-top:0.2em;padding-bottom:0.7em;">
+         <div class="hlist">
+          <ul>
+           <li>
+            <a href="/wiki/Geographical_distance" title="Geographical distance">
+             Geographical distance
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Geoid" title="Geoid">
+             Geoid
+            </a>
+           </li>
+           <li>
+            <a class="mw-selflink selflink">
+             Figure of the Earth
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Geodetic_datum" title="Geodetic datum">
+             Geodetic datum
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Geodesic" title="Geodesic">
+             Geodesic
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">
+             Geographic coordinate system
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Horizontal_position_representation" title="Horizontal position representation">
+             Horizontal position representation
+            </a>
+           </li>
+           <li>
+            <span class="nowrap">
+             <a href="/wiki/Latitude" title="Latitude">
+              Latitude
+             </a>
+             /
+             <a href="/wiki/Longitude" title="Longitude">
+              Longitude
+             </a>
+            </span>
+           </li>
+           <li>
+            <a href="/wiki/Map_projection" title="Map projection">
+             Map projection
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Reference_ellipsoid" title="Reference ellipsoid">
+             Reference ellipsoid
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Satellite_geodesy" title="Satellite geodesy">
+             Satellite geodesy
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Spatial_reference_system" title="Spatial reference system">
+             Spatial reference system
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr>
+        <th style="padding:0.1em;background:#c5d5a5;">
+         Technologies
+        </th>
+       </tr>
+       <tr>
+        <td style="padding:0 0.1em 0.4em;padding-top:0.2em;padding-bottom:0.7em;">
+         <ul>
+          <li>
+           <a href="/wiki/Satellite_navigation" title="Satellite navigation">
+            Global Navigation Satellite System (GNSS)
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Global_Positioning_System" title="Global Positioning System">
+            Global Positioning System (GPS)
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/GLONASS" title="GLONASS">
+            GLONASS
+            <span style="font-size:90%;">
+             (Russian)
+            </span>
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/BeiDou_Navigation_Satellite_System" title="BeiDou Navigation Satellite System">
+            BeiDou (BDS)
+            <span style="font-size:90%;">
+             (Chinese)
+            </span>
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Galileo_(satellite_navigation)" title="Galileo (satellite navigation)">
+            Galileo
+            <span style="font-size:90%;">
+             (European)
+            </span>
+           </a>
+          </li>
+          <li>
+           <div style="padding:0.2em 0.4em; line-height:1.2em;">
+            <a href="/wiki/Indian_Regional_Navigation_Satellite_System" title="Indian Regional Navigation Satellite System">
+             Indian Regional Navigation
+             <br/>
+             Satellite System (IRNSS)
+             <span style="font-size:90%;">
+              (India)
+             </span>
+            </a>
+           </div>
+          </li>
+          <li>
+           <a href="/wiki/Quasi-Zenith_Satellite_System" title="Quasi-Zenith Satellite System">
+            Quasi-Zenith Satellite System (QZSS)
+            <span style="font-size:90%;">
+             (Japan)
+            </span>
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Legenda_(satellite_system)" title="Legenda (satellite system)">
+            Legenda (satellite system)
+           </a>
+          </li>
+         </ul>
+        </td>
+       </tr>
+       <tr>
+        <th style="padding:0.1em;background:#c5d5a5;">
+         Standards (
+         <a href="/wiki/History_of_geodesy" title="History of geodesy">
+          History
+         </a>
+         )
+        </th>
+       </tr>
+       <tr>
+        <td style="padding:0 0.1em 0.4em;padding-top:0.2em;padding-bottom:0.7em;">
+         <table class="nowrap" style="width:100%;border-collapse:collapse;border-spacing:0px 0px;border:none;line-height:1.2em;">
+          <tr style="vertical-align:top">
+           <td style="text-align:left;padding-left:0.5em;">
+            <a href="/wiki/Sea_Level_Datum_of_1929" title="Sea Level Datum of 1929">
+             NGVD 29
+            </a>
+           </td>
+           <td style="text-align:right;font-size:90%;padding-right:0.55em;">
+            Sea Level Datum 1929
+           </td>
+          </tr>
+          <tr style="vertical-align:top">
+           <td style="text-align:left;padding-left:0.5em;">
+            <a class="mw-redirect" href="/wiki/OSGB36" title="OSGB36">
+             OSGB36
+            </a>
+           </td>
+           <td style="text-align:right;font-size:90%;padding-right:0.55em;">
+            Ordnance Survey Great Britain 1936
+           </td>
+          </tr>
+          <tr style="vertical-align:top">
+           <td style="text-align:left;padding-left:0.5em;">
+            <a href="/wiki/SK-42_reference_system" title="SK-42 reference system">
+             SK-42
+            </a>
+           </td>
+           <td style="text-align:right;font-size:90%;padding-right:0.55em;">
+            Systema Koordinat 1942 goda
+           </td>
+          </tr>
+          <tr style="vertical-align:top">
+           <td style="text-align:left;padding-left:0.5em;">
+            <a href="/wiki/ED50" title="ED50">
+             ED50
+            </a>
+           </td>
+           <td style="text-align:right;font-size:90%;padding-right:0.55em;">
+            European Datum 1950
+           </td>
+          </tr>
+          <tr style="vertical-align:top">
+           <td style="text-align:left;padding-left:0.5em;">
+            <a href="/wiki/South_American_Datum#SAD69" title="South American Datum">
+             SAD69
+            </a>
+           </td>
+           <td style="text-align:right;font-size:90%;padding-right:0.55em;">
+            South American Datum 1969
+           </td>
+          </tr>
+          <tr style="vertical-align:top">
+           <td style="text-align:left;padding-left:0.5em;">
+            <a href="/wiki/GRS_80" title="GRS 80">
+             GRS 80
+            </a>
+           </td>
+           <td style="text-align:right;font-size:90%;padding-right:0.55em;">
+            Geodetic Reference System 1980
+           </td>
+          </tr>
+          <tr style="vertical-align:top">
+           <td style="text-align:left;padding-left:0.5em;">
+            <a href="/wiki/North_American_Datum#North_American_Datum_of_1983" title="North American Datum">
+             NAD 83
+            </a>
+           </td>
+           <td style="text-align:right;font-size:90%;padding-right:0.55em;">
+            North American Datum 1983
+           </td>
+          </tr>
+          <tr style="vertical-align:top">
+           <td style="text-align:left;padding-left:0.5em;">
+            <a href="/wiki/World_Geodetic_System" title="World Geodetic System">
+             WGS 84
+            </a>
+           </td>
+           <td style="text-align:right;font-size:90%;padding-right:0.55em;">
+            World Geodetic System 1984
+           </td>
+          </tr>
+          <tr style="vertical-align:top">
+           <td style="text-align:left;padding-left:0.5em;">
+            <a href="/wiki/North_American_Vertical_Datum_of_1988" title="North American Vertical Datum of 1988">
+             NAVD 88
+            </a>
+           </td>
+           <td style="text-align:right;font-size:90%;padding-right:0.55em;">
+            N. American Vertical Datum 1988
+           </td>
+          </tr>
+          <tr style="vertical-align:top">
+           <td style="text-align:left;padding-left:0.5em;">
+            <a href="/wiki/European_Terrestrial_Reference_System_1989" title="European Terrestrial Reference System 1989">
+             ETRS89
+            </a>
+           </td>
+           <td style="text-align:right;font-size:90%;padding-right:0.55em;">
+            European Terrestrial Reference
+            <br/>
+            System 1989
+           </td>
+          </tr>
+          <tr style="vertical-align:top">
+           <td style="text-align:left;padding-left:0.5em;">
+            <a href="/wiki/Restrictions_on_geographic_data_in_China" title="Restrictions on geographic data in China">
+             GCJ-02
+            </a>
+           </td>
+           <td style="text-align:right;font-size:90%;padding-right:0.55em;">
+            Chinese obfuscated datum 2002
+           </td>
+          </tr>
+         </table>
+         <ul>
+          <li>
+           <a href="/wiki/International_Terrestrial_Reference_System" title="International Terrestrial Reference System">
+            International Terrestrial Reference System
+           </a>
+          </li>
+          <li>
+           <a class="mw-redirect" href="/wiki/SRID" title="SRID">
+            Spatial Reference System Identifier (SRID)
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Universal_Transverse_Mercator_coordinate_system" title="Universal Transverse Mercator coordinate system">
+            Universal Transverse Mercator (UTM)
+           </a>
+          </li>
+         </ul>
+        </td>
+       </tr>
+       <tr>
+        <td style="text-align:right;font-size:115%">
+         <div class="plainlinks hlist navbar mini">
+          <ul>
+           <li class="nv-view">
+            <a href="/wiki/Template:Geodesy" title="Template:Geodesy">
+             <abbr title="View this template">
+              v
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-talk">
+            <a href="/wiki/Template_talk:Geodesy" title="Template talk:Geodesy">
+             <abbr title="Discuss this template">
+              t
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-edit">
+            <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Geodesy&amp;action=edit">
+             <abbr title="Edit this template">
+              e
+             </abbr>
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+      </table>
+      <p>
+       The expression
+       <b>
+        figure of the Earth
+       </b>
+       has various meanings in
+       <a href="/wiki/Geodesy" title="Geodesy">
+        geodesy
+       </a>
+       according to the way it is used and the precision with which the
+       <a href="/wiki/Earth" title="Earth">
+        Earth
+       </a>
+       's size and shape is to be defined. While the
+       <a href="/wiki/Sphere" title="Sphere">
+        sphere
+       </a>
+       is a close approximation of the true figure of the Earth and satisfactory for many purposes,
+       <a class="mw-redirect" href="/wiki/Geodesist" title="Geodesist">
+        geodesists
+       </a>
+       have developed several models that more closely approximate the shape of the Earth so that coordinate systems can serve the precise needs of
+       <a href="/wiki/Navigation" title="Navigation">
+        navigation
+       </a>
+       ,
+       <a href="/wiki/Surveying" title="Surveying">
+        surveying
+       </a>
+       ,
+       <a href="/wiki/Cadastre" title="Cadastre">
+        cadastre
+       </a>
+       ,
+       <a href="/wiki/Land_use" title="Land use">
+        land use
+       </a>
+       , and various other concerns.
+      </p>
+      <p>
+      </p>
+      <div class="toc" id="toc">
+       <div class="toctitle" dir="ltr" lang="en" xml:lang="en">
+        <h2>
+         Contents
+        </h2>
+       </div>
+       <ul>
+        <li class="toclevel-1 tocsection-1">
+         <a href="#Need_for_models_of_the_figure_of_the_Earth">
+          <span class="tocnumber">
+           1
+          </span>
+          <span class="toctext">
+           Need for models of the figure of the Earth
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-2">
+         <a href="#Models_of_the_figure_of_the_Earth">
+          <span class="tocnumber">
+           2
+          </span>
+          <span class="toctext">
+           Models of the figure of the Earth
+          </span>
+         </a>
+         <ul>
+          <li class="toclevel-2 tocsection-3">
+           <a href="#Sphere">
+            <span class="tocnumber">
+             2.1
+            </span>
+            <span class="toctext">
+             Sphere
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-4">
+           <a href="#Ellipsoid_of_revolution">
+            <span class="tocnumber">
+             2.2
+            </span>
+            <span class="toctext">
+             Ellipsoid of revolution
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-5">
+           <a href="#More_complicated_shapes">
+            <span class="tocnumber">
+             2.3
+            </span>
+            <span class="toctext">
+             More complicated shapes
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-6">
+           <a href="#Geoid">
+            <span class="tocnumber">
+             2.4
+            </span>
+            <span class="toctext">
+             Geoid
+            </span>
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="toclevel-1 tocsection-7">
+         <a href="#Earth_rotation_and_Earth's_interior">
+          <span class="tocnumber">
+           3
+          </span>
+          <span class="toctext">
+           Earth rotation and Earth's interior
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-8">
+         <a href="#Global_and_regional_gravity_field">
+          <span class="tocnumber">
+           4
+          </span>
+          <span class="toctext">
+           Global and regional gravity field
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-9">
+         <a href="#Volume">
+          <span class="tocnumber">
+           5
+          </span>
+          <span class="toctext">
+           Volume
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-10">
+         <a href="#See_also">
+          <span class="tocnumber">
+           6
+          </span>
+          <span class="toctext">
+           See also
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-11">
+         <a href="#Notes_and_references">
+          <span class="tocnumber">
+           7
+          </span>
+          <span class="toctext">
+           Notes and references
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-12">
+         <a href="#External_links">
+          <span class="tocnumber">
+           8
+          </span>
+          <span class="toctext">
+           External links
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <p>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Need_for_models_of_the_figure_of_the_Earth">
+        Need for models of the figure of the Earth
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Figure_of_the_Earth&amp;action=edit&amp;section=1" title="Edit section: Need for models of the figure of the Earth">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       The actual topographic surface is most apparent with its variety of land forms and water areas. This is, in fact, the surface on which actual Earth measurements are made. However, it is not feasible for exact mathematical analysis, because the formulas which would be required to take the irregularities into account would necessitate a prohibitive amount of computation. The topographic surface is generally the concern of topographers and hydrographers.
+      </p>
+      <p>
+       The
+       <a href="/wiki/Pythagoreanism" title="Pythagoreanism">
+        Pythagorean
+       </a>
+       concept of a
+       <a href="/wiki/Spherical_Earth" title="Spherical Earth">
+        spherical Earth
+       </a>
+       offers a simple surface that is mathematically easy to deal with. Many astronomical and navigational computations use it as a surface representing the Earth. While the sphere is a close approximation of the true figure of the Earth and satisfactory for many purposes, to the geodesists interested in the measurement of long distances on the scale of continents and oceans, a more exact figure is necessary. Closer approximations range from modelling the shape of the surface of the entire Earth as an
+       <a class="mw-redirect" href="/wiki/Oblate_spheroid" title="Oblate spheroid">
+        oblate spheroid
+       </a>
+       or an oblate ellipsoid, to the use of
+       <a class="mw-redirect" href="/wiki/Spherical_harmonic" title="Spherical harmonic">
+        spherical harmonics
+       </a>
+       to approximate the geoid, or local approximations in terms of local
+       <a href="/wiki/Reference_ellipsoid" title="Reference ellipsoid">
+        reference ellipsoids
+       </a>
+       .
+      </p>
+      <p>
+       The idea of a planar or flat surface for Earth, however, is still sufficient for surveys of small areas, as the local
+       <a href="/wiki/Topography" title="Topography">
+        topography
+       </a>
+       is far more significant than the curvature. Plane-table surveys are made for relatively small areas, and no account is taken of the curvature of the Earth. A survey of a city would likely be computed as though the Earth were a plane surface the size of the city. For such small areas, nearly exact positions can be determined relative to each other without considering the size and shape of the entire Earth.
+      </p>
+      <p>
+       In the mid- to late 20th century, research across the
+       <a href="/wiki/Earth_science" title="Earth science">
+        geosciences
+       </a>
+       contributed to drastic improvements in the accuracy of the figure of the Earth. The primary utility (and the motivation for funding, mainly from the military) of this improved accuracy was to provide geographical and gravitational data for the
+       <a class="mw-redirect" href="/wiki/Inertial_guidance_system" title="Inertial guidance system">
+        inertial guidance systems
+       </a>
+       of
+       <a href="/wiki/Ballistic_missile" title="Ballistic missile">
+        ballistic missiles
+       </a>
+       . This funding also drove the expansion of geoscientific disciplines, fostering the creation and growth of various geoscience departments at many universities.
+       <sup class="reference" id="cite_ref-1">
+        <a href="#cite_note-1">
+         [1]
+        </a>
+       </sup>
+      </p>
+      <div style="clear:both;">
+      </div>
+      <h2>
+       <span class="mw-headline" id="Models_of_the_figure_of_the_Earth">
+        Models of the figure of the Earth
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Figure_of_the_Earth&amp;action=edit&amp;section=2" title="Edit section: Models of the figure of the Earth">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       The models for the figure of the Earth vary in the way they are used, in their complexity, and in the accuracy with which they represent the size and shape of the Earth.
+      </p>
+      <h3>
+       <span class="mw-headline" id="Sphere">
+        Sphere
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Figure_of_the_Earth&amp;action=edit&amp;section=3" title="Edit section: Sphere">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <div class="hatnote navigation-not-searchable" role="note">
+       Main article:
+       <a href="/wiki/Earth_radius" title="Earth radius">
+        Earth radius
+       </a>
+      </div>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:Horizon,_Valencia_(Spain).JPG">
+         <img alt="" class="thumbimage" data-file-height="1944" data-file-width="2592" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/13/Horizon%2C_Valencia_%28Spain%29.JPG/220px-Horizon%2C_Valencia_%28Spain%29.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/13/Horizon%2C_Valencia_%28Spain%29.JPG/330px-Horizon%2C_Valencia_%28Spain%29.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/13/Horizon%2C_Valencia_%28Spain%29.JPG/440px-Horizon%2C_Valencia_%28Spain%29.JPG 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Horizon,_Valencia_(Spain).JPG" title="Enlarge">
+          </a>
+         </div>
+         A view across a 20-km-wide bay in the coast of
+         <a href="/wiki/Spain" title="Spain">
+          Spain
+         </a>
+         . Note the curvature of the Earth hiding the base of the buildings on the far shore.
+        </div>
+       </div>
+      </div>
+      <p>
+       The simplest model for the shape of the entire
+       <a href="/wiki/Earth" title="Earth">
+        Earth
+       </a>
+       is a
+       <a href="/wiki/Sphere" title="Sphere">
+        sphere
+       </a>
+       . The Earth's
+       <a href="/wiki/Radius" title="Radius">
+        radius
+       </a>
+       is the
+       <a href="/wiki/Distance" title="Distance">
+        distance
+       </a>
+       from Earth's center to its surface, about 6,371 kilometers (3,959 mi). While "radius" normally is a characteristic of perfect spheres, the Earth deviates from spherical by only a third of a percent, sufficiently close to treat it as a sphere in many contexts and justifying the term "the radius of the Earth".
+      </p>
+      <p>
+       The concept of a
+       <a href="/wiki/Spherical_Earth" title="Spherical Earth">
+        spherical Earth
+       </a>
+       dates back to around the 6th century BC,
+       <sup class="reference" id="cite_ref-2">
+        <a href="#cite_note-2">
+         [2]
+        </a>
+       </sup>
+       but remained a matter of philosophical speculation until the 3rd century BC. The first scientific estimation of the radius of the earth was given by
+       <a href="/wiki/Eratosthenes" title="Eratosthenes">
+        Eratosthenes
+       </a>
+       about 240 BC, with estimates of the accuracy of Eratosthenes’s measurement ranging from 2% to 15%.
+      </p>
+      <p>
+       The Earth is only approximately spherical, so no single value serves as its natural radius. Distances from points on the surface to the center range from 6,353 km to 6,384 km (3,947 – 3,968 mi). Several different ways of modeling the Earth as a sphere each yield a mean radius of 6,371 kilometers (3,959 mi). Regardless of the model, any radius falls between the polar minimum of about 6,357 km and the equatorial maximum of about 6,378 km (3,950 – 3,963 mi). The difference 21 kilometers (13 mi) correspond to the polar radius being approximately 0.3% shorter than the equator radius.
+      </p>
+      <h3>
+       <span class="mw-headline" id="Ellipsoid_of_revolution">
+        Ellipsoid of revolution
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Figure_of_the_Earth&amp;action=edit&amp;section=4" title="Edit section: Ellipsoid of revolution">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:OblateSpheroid.PNG">
+         <img alt="" class="thumbimage" data-file-height="426" data-file-width="503" height="186" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/OblateSpheroid.PNG/220px-OblateSpheroid.PNG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/OblateSpheroid.PNG/330px-OblateSpheroid.PNG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b5/OblateSpheroid.PNG/440px-OblateSpheroid.PNG 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:OblateSpheroid.PNG" title="Enlarge">
+          </a>
+         </div>
+         An
+         <a class="mw-redirect" href="/wiki/Oblate_spheroid" title="Oblate spheroid">
+          oblate spheroid
+         </a>
+         , highly exaggerated relative to the actual Earth
+        </div>
+       </div>
+      </div>
+      <div class="hatnote navigation-not-searchable" role="note">
+       Main article:
+       <a href="/wiki/Earth_ellipsoid" title="Earth ellipsoid">
+        Earth ellipsoid
+       </a>
+      </div>
+      <div class="hatnote navigation-not-searchable" role="note">
+       Further information:
+       <a href="/wiki/Reference_ellipsoid" title="Reference ellipsoid">
+        Reference ellipsoid
+       </a>
+      </div>
+      <p>
+       Since the Earth is
+       <a href="/wiki/Flattening" title="Flattening">
+        flattened
+       </a>
+       at the poles and bulges at the equator, geodesy represents the shape of the Earth with an oblate spheroid. The oblate spheroid, or
+       <a class="mw-redirect" href="/wiki/Oblate_ellipsoid" title="Oblate ellipsoid">
+        oblate ellipsoid
+       </a>
+       , is an
+       <a class="mw-redirect" href="/wiki/Ellipsoid_of_revolution" title="Ellipsoid of revolution">
+        ellipsoid of revolution
+       </a>
+       obtained by rotating an ellipse about its shorter axis. It is the regular geometric shape that most nearly approximates the shape of the Earth. A spheroid describing the figure of the Earth or other
+       <a class="mw-redirect" href="/wiki/Celestial_body" title="Celestial body">
+        celestial body
+       </a>
+       is called a
+       <a href="/wiki/Reference_ellipsoid" title="Reference ellipsoid">
+        reference ellipsoid
+       </a>
+       . The reference ellipsoid for Earth is called an
+       <a href="/wiki/Earth_ellipsoid" title="Earth ellipsoid">
+        Earth ellipsoid
+       </a>
+       .
+      </p>
+      <p>
+       An ellipsoid of revolution is uniquely defined by two quantities. Several conventions for expressing the two quantities are used in geodesy, but they are all equivalent to and convertible with each other:
+      </p>
+      <ul>
+       <li>
+        Equatorial radius
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle a}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mi>
+               a
+              </mi>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle a}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="a" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ffd2487510aa438433a2579450ab2b3d557e5edc" style="vertical-align: -0.338ex; width:1.23ex; height:1.676ex;"/>
+        </span>
+        (called
+        <i>
+         semimajor axis
+        </i>
+        ), and polar radius
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle b}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mi>
+               b
+              </mi>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle b}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="b" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f11423fbb2e967f986e36804a8ae4271734917c3" style="vertical-align: -0.338ex; width:0.998ex; height:2.176ex;"/>
+        </span>
+        (called
+        <i>
+         semiminor axis
+        </i>
+        );
+       </li>
+       <li>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle a}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mi>
+               a
+              </mi>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle a}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="a" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ffd2487510aa438433a2579450ab2b3d557e5edc" style="vertical-align: -0.338ex; width:1.23ex; height:1.676ex;"/>
+        </span>
+        and
+        <a href="/wiki/Eccentricity_(mathematics)" title="Eccentricity (mathematics)">
+         eccentricity
+        </a>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle e}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mi>
+               e
+              </mi>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle e}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="e" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/cd253103f0876afc68ebead27a5aa9867d927467" style="vertical-align: -0.338ex; width:1.083ex; height:1.676ex;"/>
+        </span>
+        ;
+       </li>
+       <li>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle a}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mi>
+               a
+              </mi>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle a}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="a" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ffd2487510aa438433a2579450ab2b3d557e5edc" style="vertical-align: -0.338ex; width:1.23ex; height:1.676ex;"/>
+        </span>
+        and
+        <a href="/wiki/Flattening" title="Flattening">
+         flattening
+        </a>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle f}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mi>
+               f
+              </mi>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle f}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="f" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/132e57acb643253e7810ee9702d9581f159a1c61" style="vertical-align: -0.671ex; width:1.279ex; height:2.509ex;"/>
+        </span>
+        .
+       </li>
+      </ul>
+      <p>
+       Eccentricity and flattening are different ways of expressing how squashed the ellipsoid is. When flattening appears as one of the defining quantities in geodesy, generally it is expressed by its reciprocal. For example, in the
+       <a href="/wiki/World_Geodetic_System#WGS84" title="World Geodetic System">
+        WGS 84
+       </a>
+       spheroid used by today's GPS systems, the reciprocal of the flattening
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle 1/f}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mn>
+              1
+             </mn>
+             <mrow class="MJX-TeXAtom-ORD">
+              <mo>
+               /
+              </mo>
+             </mrow>
+             <mi>
+              f
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle 1/f}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="1/f" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e9cd0e60c02ddf533da2abed825389fe5a94b7d0" style="vertical-align: -0.838ex; width:3.603ex; height:2.843ex;"/>
+       </span>
+       is set to be exactly
+       <span style="white-space:nowrap">
+        298.257
+        <span style="margin-left:0.25em">
+         223
+        </span>
+        <span style="margin-left:0.25em">
+         563
+        </span>
+       </span>
+       .
+      </p>
+      <div class="thumb tleft">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:Earth_oblateness_to_scale.svg">
+         <img alt="" class="thumbimage" data-file-height="512" data-file-width="512" height="220" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Earth_oblateness_to_scale.svg/220px-Earth_oblateness_to_scale.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Earth_oblateness_to_scale.svg/330px-Earth_oblateness_to_scale.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Earth_oblateness_to_scale.svg/440px-Earth_oblateness_to_scale.svg.png 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Earth_oblateness_to_scale.svg" title="Enlarge">
+          </a>
+         </div>
+         Scale diagram of the
+         <a href="/wiki/Flattening" title="Flattening">
+          oblateness
+         </a>
+         of the 2003
+         <a class="mw-redirect" href="/wiki/IERS" title="IERS">
+          IERS
+         </a>
+         reference
+         <a href="/wiki/Ellipsoid" title="Ellipsoid">
+          ellipsoid
+         </a>
+         , with north at the top. The outer edge of the dark blue curve is an
+         <a href="/wiki/Ellipse" title="Ellipse">
+          ellipse
+         </a>
+         with the same
+         <a href="/wiki/Eccentricity_(mathematics)" title="Eccentricity (mathematics)">
+          eccentricity
+         </a>
+         as that of Earth. For comparison, the light blue circle within has a diameter equal to the ellipse's
+         <a class="mw-redirect" href="/wiki/Minor_axis" title="Minor axis">
+          minor axis
+         </a>
+         . The red curve represents the
+         <a class="mw-redirect" href="/wiki/Karman_line" title="Karman line">
+          Karman line
+         </a>
+         100 km (62 mi) above
+         <a href="/wiki/Sea_level" title="Sea level">
+          sea level
+         </a>
+         , while the yellow band denotes the altitude range of the
+         <a href="/wiki/International_Space_Station" title="International Space Station">
+          International Space Station
+         </a>
+         in
+         <a href="/wiki/Low_Earth_orbit" title="Low Earth orbit">
+          low Earth orbit
+         </a>
+         .
+        </div>
+       </div>
+      </div>
+      <p>
+       The difference between a sphere and a reference ellipsoid for Earth is small, only about one part in 300. Historically, flattening was computed from
+       <a href="/wiki/Grade_measurement" title="Grade measurement">
+        grade measurements
+       </a>
+       . Nowadays, geodetic networks and
+       <a href="/wiki/Satellite_geodesy" title="Satellite geodesy">
+        satellite geodesy
+       </a>
+       are used. In practice, many reference ellipsoids have been developed over the centuries from different surveys. The flattening value varies slightly from one reference ellipsoid to another, reflecting local conditions and whether the reference ellipsoid is intended to model the entire Earth or only some portion of it.
+      </p>
+      <p>
+       A sphere has a single
+       <a class="mw-redirect" href="/wiki/Radius_of_curvature_(applications)" title="Radius of curvature (applications)">
+        radius of curvature
+       </a>
+       , which is simply the radius of the sphere. More complex surfaces have radii of curvature that vary over the surface. The radius of curvature describes the radius of the sphere that best approximates the surface at that point. Oblate ellipsoids have constant radius of curvature east to west along
+       <a class="mw-redirect" href="/wiki/Parallel_(latitude)" title="Parallel (latitude)">
+        parallels
+       </a>
+       , if a
+       <a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">
+        graticule
+       </a>
+       is drawn on the surface, but varying curvature in any other direction. For an oblate ellipsoid, the polar radius of curvature
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle r_{p}}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <msub>
+              <mi>
+               r
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                p
+               </mi>
+              </mrow>
+             </msub>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle r_{p}}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="r_{p}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d02ec163fac8837ac757005d783b375e52808b97" style="vertical-align: -1.005ex; width:2.108ex; height:2.343ex;"/>
+       </span>
+       is larger than the equatorial
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle r_{p}={\frac {a^{2}}{b}},}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <msub>
+               <mi>
+                r
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 p
+                </mi>
+               </mrow>
+              </msub>
+              <mo>
+               =
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mfrac>
+                <msup>
+                 <mi>
+                  a
+                 </mi>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mn>
+                   2
+                  </mn>
+                 </mrow>
+                </msup>
+                <mi>
+                 b
+                </mi>
+               </mfrac>
+              </mrow>
+              <mo>
+               ,
+              </mo>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle r_{p}={\frac {a^{2}}{b}},}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="r_{p}={\frac {a^{2}}{b}}," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8e51f65461181d5c178d61abfaef681a2df326e7" style="vertical-align: -2.005ex; width:8.973ex; height:5.843ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       because the pole is flattened: the flatter the surface, the larger the sphere must be to approximate it. Conversely, the ellipsoid's north-south radius of curvature at the equator
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle r_{e}}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <msub>
+              <mi>
+               r
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                e
+               </mi>
+              </mrow>
+             </msub>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle r_{e}}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="r_{e}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c652979f43cb2855b9a028560d7e228aa2f9bb1d" style="vertical-align: -0.671ex; width:2.047ex; height:2.009ex;"/>
+       </span>
+       is smaller than the polar
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle r_{e}={\frac {b^{2}}{a}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <msub>
+               <mi>
+                r
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 e
+                </mi>
+               </mrow>
+              </msub>
+              <mo>
+               =
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mfrac>
+                <msup>
+                 <mi>
+                  b
+                 </mi>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mn>
+                   2
+                  </mn>
+                 </mrow>
+                </msup>
+                <mi>
+                 a
+                </mi>
+               </mfrac>
+              </mrow>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle r_{e}={\frac {b^{2}}{a}}}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="r_{e}={\frac {b^{2}}{a}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4bcb822ca7b2a745f348db5c9aa30a90949df136" style="vertical-align: -1.838ex; width:8.033ex; height:5.676ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       where
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle a}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              a
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle a}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="a" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ffd2487510aa438433a2579450ab2b3d557e5edc" style="vertical-align: -0.338ex; width:1.23ex; height:1.676ex;"/>
+       </span>
+       is the distance from the center of the ellipsoid to the equator (semi-major axis), and
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle b}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              b
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle b}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="b" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f11423fbb2e967f986e36804a8ae4271734917c3" style="vertical-align: -0.338ex; width:0.998ex; height:2.176ex;"/>
+       </span>
+       is the distance from the center to the pole. (semi-minor axis)
+      </p>
+      <h3>
+       <span class="mw-headline" id="More_complicated_shapes">
+        More complicated shapes
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Figure_of_the_Earth&amp;action=edit&amp;section=5" title="Edit section: More complicated shapes">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       The possibility that the Earth's equator is an ellipse rather than a circle and therefore that the ellipsoid is triaxial has been a matter of scientific controversy for many years.
+       <sup class="reference" id="cite_ref-3">
+        <a href="#cite_note-3">
+         [3]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-4">
+        <a href="#cite_note-4">
+         [4]
+        </a>
+       </sup>
+       Modern technological developments have furnished new and rapid methods for data collection and, since the launch of
+       <i>
+        <a href="/wiki/Sputnik_1" title="Sputnik 1">
+         Sputnik 1
+        </a>
+       </i>
+       , orbital data have been used to investigate the theory of ellipticity.
+      </p>
+      <p>
+       A second theory, more complicated than triaxiality, proposed that observed long periodic orbital variations of the first Earth satellites indicate an additional depression at the south pole accompanied by a bulge of the same degree at the north pole. It is also contended that the northern middle latitudes were slightly flattened and the southern middle latitudes bulged in a similar amount. This concept suggested a slightly pear-shaped Earth and was the subject of much public discussion.
+       <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+        [
+        <i>
+         <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+          <span title="This claim needs references to reliable sources. (January 2016)">
+           citation needed
+          </span>
+         </a>
+        </i>
+        ]
+       </sup>
+       Modern geodesy tends to retain the ellipsoid of revolution and treat triaxiality and pear shape as a part of the
+       <a href="/wiki/Geoid" title="Geoid">
+        geoid
+       </a>
+       figure: they are represented by the spherical harmonic coefficients
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle C_{22},S_{22}}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <msub>
+              <mi>
+               C
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mn>
+                22
+               </mn>
+              </mrow>
+             </msub>
+             <mo>
+              ,
+             </mo>
+             <msub>
+              <mi>
+               S
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mn>
+                22
+               </mn>
+              </mrow>
+             </msub>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle C_{22},S_{22}}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="C_{{22}},S_{{22}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b72658f13ab6ee103442a2d66bcc1f0ac8fe364c" style="vertical-align: -0.671ex; width:7.873ex; height:2.509ex;"/>
+       </span>
+       and
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle C_{30}}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <msub>
+              <mi>
+               C
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mn>
+                30
+               </mn>
+              </mrow>
+             </msub>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle C_{30}}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="C_{{30}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/33c1c71ece6cf8dc641c8a903f002337e7df12be" style="vertical-align: -0.671ex; width:3.538ex; height:2.509ex;"/>
+       </span>
+       , respectively, corresponding to degree and order numbers 2.2 for the triaxiality and 3.0 for the pear shape.
+      </p>
+      <h3>
+       <span class="mw-headline" id="Geoid">
+        Geoid
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Figure_of_the_Earth&amp;action=edit&amp;section=6" title="Edit section: Geoid">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <div class="hatnote navigation-not-searchable" role="note">
+       Main article:
+       <a href="/wiki/Geoid" title="Geoid">
+        Geoid
+       </a>
+      </div>
+      <p>
+       It was stated earlier that measurements are made on the apparent or topographic surface of the Earth and it has just been explained that computations are performed on an ellipsoid. One other surface is involved in geodetic measurement: the
+       <a href="/wiki/Geoid" title="Geoid">
+        geoid
+       </a>
+       . In geodetic surveying, the computation of the geodetic coordinates of points is commonly performed on a
+       <a href="/wiki/Reference_ellipsoid" title="Reference ellipsoid">
+        reference ellipsoid
+       </a>
+       closely approximating the size and shape of the Earth in the area of the survey. The actual measurements made on the surface of the Earth with certain instruments are however referred to the geoid. The ellipsoid is a mathematically defined regular surface with specific dimensions. The geoid, on the other hand, coincides with that surface to which the oceans would conform over the entire Earth if free to adjust to the combined effect of the Earth's mass attraction (
+       <a class="mw-redirect" href="/wiki/Gravitation" title="Gravitation">
+        gravitation
+       </a>
+       ) and the centrifugal force of the
+       <a href="/wiki/Earth%27s_rotation" title="Earth's rotation">
+        Earth's rotation
+       </a>
+       . As a result of the uneven distribution of the Earth's mass, the geoidal surface is irregular and, since the ellipsoid is a regular surface, the separations between the two, referred to as
+       <a class="mw-redirect" href="/wiki/Geoid_undulation" title="Geoid undulation">
+        geoid undulations
+       </a>
+       , geoid heights, or geoid separations, will be irregular as well.
+      </p>
+      <p>
+       The geoid is a surface along which the gravity potential is everywhere equal and to which the direction of gravity is always perpendicular (see
+       <a class="mw-redirect" href="/wiki/Equipotential_surface" title="Equipotential surface">
+        equipotential surface
+       </a>
+       ). The latter is particularly important because optical instruments containing gravity-reference leveling devices are commonly used to make geodetic measurements. When properly adjusted, the vertical axis of the instrument coincides with the direction of gravity and is, therefore, perpendicular to the geoid. The angle between the
+       <a class="mw-redirect" href="/wiki/Plumb_line" title="Plumb line">
+        plumb line
+       </a>
+       which is perpendicular to the geoid (sometimes called "the vertical") and the perpendicular to the ellipsoid (sometimes called "the ellipsoidal normal") is defined as the
+       <a href="/wiki/Vertical_deflection" title="Vertical deflection">
+        deflection of the vertical
+       </a>
+       . It has two components: an east-west and a north-south component.
+       <sup class="reference" id="cite_ref-5">
+        <a href="#cite_note-5">
+         [5]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span id="Earth_rotation_and_Earth.27s_interior">
+       </span>
+       <span class="mw-headline" id="Earth_rotation_and_Earth's_interior">
+        Earth rotation and Earth's interior
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Figure_of_the_Earth&amp;action=edit&amp;section=7" title="Edit section: Earth rotation and Earth's interior">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       Determining the exact figure of the Earth is not only a geodetic operation or a task of
+       <a href="/wiki/Geometry" title="Geometry">
+        geometry
+       </a>
+       , but is also related to
+       <a href="/wiki/Geophysics" title="Geophysics">
+        geophysics
+       </a>
+       . Without any idea of the
+       <a class="mw-redirect" href="/wiki/Earth%27s_interior" title="Earth's interior">
+        Earth's interior
+       </a>
+       , we can state a "constant density" of 5.515 g/cm³ and, according to theoretical arguments (see
+       <a href="/wiki/Leonhard_Euler" title="Leonhard Euler">
+        Leonhard Euler
+       </a>
+       ,
+       <a class="mw-redirect" href="/wiki/Albert_Wangerin" title="Albert Wangerin">
+        Albert Wangerin
+       </a>
+       , etc.), such a body rotating like the Earth would have a
+       <a href="/wiki/Flattening" title="Flattening">
+        flattening
+       </a>
+       of 1:230.
+      </p>
+      <p>
+       In fact, the measured flattening is 1:298.25, which is more similar to a sphere and a strong argument that the
+       <a href="/wiki/Inner_core" title="Inner core">
+        Earth's core
+       </a>
+       is
+       <i>
+        very compact
+       </i>
+       . Therefore, the
+       <a href="/wiki/Density" title="Density">
+        density
+       </a>
+       must be a function of the depth, reaching from about 2.7 g/cm³ at the surface (rock density of
+       <a href="/wiki/Granite" title="Granite">
+        granite
+       </a>
+       , limestone etc. – see regional
+       <a href="/wiki/Geology" title="Geology">
+        geology
+       </a>
+       ) up to approximately 15 within the inner core. Modern
+       <a href="/wiki/Seismology" title="Seismology">
+        seismology
+       </a>
+       yields a value of 16 g/cm³ at the center of the Earth.
+       <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+        [
+        <i>
+         <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+          <span title="This claim needs references to reliable sources. (January 2017)">
+           citation needed
+          </span>
+         </a>
+        </i>
+        ]
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Global_and_regional_gravity_field">
+        Global and regional gravity field
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Figure_of_the_Earth&amp;action=edit&amp;section=8" title="Edit section: Global and regional gravity field">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       Also with implications for the physical exploration of the Earth's interior is the
+       <a href="/wiki/Gravitational_field" title="Gravitational field">
+        gravitational field
+       </a>
+       , which can be measured very accurately at the surface and remotely by
+       <a href="/wiki/Satellite" title="Satellite">
+        satellites
+       </a>
+       . True
+       <a class="mw-redirect" href="/wiki/Vertical_direction" title="Vertical direction">
+        vertical
+       </a>
+       generally does not correspond to theoretical vertical (
+       <a href="/wiki/Deflection_(physics)" title="Deflection (physics)">
+        deflection
+       </a>
+       ranges up to 50") because
+       <a href="/wiki/Topography" title="Topography">
+        topography
+       </a>
+       and all
+       <i>
+        geological masses
+       </i>
+       disturb the gravitational field. Therefore, the gross structure of the
+       <a class="mw-redirect" href="/wiki/Earth%27s_crust" title="Earth's crust">
+        earth's crust
+       </a>
+       and mantle can be determined by geodetic-geophysical models of the subsurface.
+      </p>
+      <h2>
+       <span class="mw-headline" id="Volume">
+        Volume
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Figure_of_the_Earth&amp;action=edit&amp;section=9" title="Edit section: Volume">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       Earth's volume is approximately 1,083,210,000,000
+       <a class="mw-redirect" href="/wiki/Cubic_kilometre" title="Cubic kilometre">
+        km
+        <sup>
+         3
+        </sup>
+       </a>
+       (2.5988
+       <span style="margin:0 .15em 0 .25em">
+        ×
+       </span>
+       10
+       <sup>
+        11
+       </sup>
+       <a href="/wiki/Cubic_mile" title="Cubic mile">
+        cu mi
+       </a>
+       ).
+       <sup class="reference" id="cite_ref-earth_fact_sheet_6-0">
+        <a href="#cite_note-earth_fact_sheet-6">
+         [6]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="See_also">
+        See also
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Figure_of_the_Earth&amp;action=edit&amp;section=10" title="Edit section: See also">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a href="/wiki/Clairaut%27s_theorem" title="Clairaut's theorem">
+         Clairaut's theorem
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/EGM96" title="EGM96">
+         EGM96
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Meridian_arc" title="Meridian arc">
+         Meridian arc
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Theoretical_gravity" title="Theoretical gravity">
+         Theoretical gravity
+        </a>
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/Gravity_formula" title="Gravity formula">
+         Gravity formula
+        </a>
+       </li>
+       <li>
+        History
+        <ul>
+         <li>
+          <a href="/wiki/Flat_Earth" title="Flat Earth">
+           Flat Earth
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/Pierre_Bouguer" title="Pierre Bouguer">
+           Pierre Bouguer
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/Friedrich_Robert_Helmert" title="Friedrich Robert Helmert">
+           Friedrich Robert Helmert
+          </a>
+         </li>
+        </ul>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="Notes_and_references">
+        Notes and references
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Figure_of_the_Earth&amp;action=edit&amp;section=11" title="Edit section: Notes and references">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="reflist" style="list-style-type: decimal;">
+       <div class="mw-references-wrap">
+        <ol class="references">
+         <li id="cite_note-1">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-1">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Cloud, John (2000). "Crossing the Olentangy River: The Figure of the Earth and the Military-Industrial-Academic Complex, 1947–1972".
+            <i>
+             Studies in the History and Philosophy of Modern Physics
+            </i>
+            .
+            <b>
+             31
+            </b>
+            (3): 371–404.
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/2000SHPMP..31..371C" rel="nofollow">
+             2000SHPMP..31..371C
+            </a>
+            .
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1016%2FS1355-2198%2800%2900017-4" rel="nofollow">
+             10.1016/S1355-2198(00)00017-4
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Studies+in+the+History+and+Philosophy+of+Modern+Physics&amp;rft.atitle=Crossing+the+Olentangy+River%3A+The+Figure+of+the+Earth+and+the+Military-Industrial-Academic+Complex%2C+1947%E2%80%931972&amp;rft.volume=31&amp;rft.issue=3&amp;rft.pages=371-404&amp;rft.date=2000&amp;rft_id=info%3Adoi%2F10.1016%2FS1355-2198%2800%2900017-4&amp;rft_id=info%3Abibcode%2F2000SHPMP..31..371C&amp;rft.aulast=Cloud&amp;rft.aufirst=John&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFigure+of+the+Earth">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-2">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-2">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation book">
+            Dicks, D.R. (1970).
+            <i>
+             Early Greek Astronomy to Aristotle
+            </i>
+            . Ithaca, N.Y.:
+            <a href="/wiki/Cornell_University_Press" title="Cornell University Press">
+             Cornell University Press
+            </a>
+            . pp. 72–198.
+            <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+             ISBN
+            </a>
+            <a href="/wiki/Special:BookSources/978-0-8014-0561-7" title="Special:BookSources/978-0-8014-0561-7">
+             978-0-8014-0561-7
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Early+Greek+Astronomy+to+Aristotle&amp;rft.place=Ithaca%2C+N.Y.&amp;rft.pages=72-198&amp;rft.pub=Cornell+University+Press&amp;rft.date=1970&amp;rft.isbn=978-0-8014-0561-7&amp;rft.aulast=Dicks&amp;rft.aufirst=D.R.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFigure+of+the+Earth">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-3">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-3">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Heiskanen, W. A. (1962). "Is the Earth a triaxial ellipsoid?".
+            <i>
+             Journal of Geophysical Research
+            </i>
+            .
+            <b>
+             67
+            </b>
+            (1): 321–327.
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/1962JGR....67..321H" rel="nofollow">
+             1962JGR....67..321H
+            </a>
+            .
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1029%2FJZ067i001p00321" rel="nofollow">
+             10.1029/JZ067i001p00321
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Geophysical+Research&amp;rft.atitle=Is+the+Earth+a+triaxial+ellipsoid%3F&amp;rft.volume=67&amp;rft.issue=1&amp;rft.pages=321-327&amp;rft.date=1962&amp;rft_id=info%3Adoi%2F10.1029%2FJZ067i001p00321&amp;rft_id=info%3Abibcode%2F1962JGR....67..321H&amp;rft.aulast=Heiskanen&amp;rft.aufirst=W.+A.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFigure+of+the+Earth">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-4">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-4">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Burša, Milan (1993). "Parameters of the Earth's tri-axial level ellipsoid".
+            <i>
+             Studia Geophysica et Geodaetica
+            </i>
+            .
+            <b>
+             37
+            </b>
+            (1): 1–13.
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/1993StGG...37....1B" rel="nofollow">
+             1993StGG...37....1B
+            </a>
+            .
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1007%2FBF01613918" rel="nofollow">
+             10.1007/BF01613918
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Studia+Geophysica+et+Geodaetica&amp;rft.atitle=Parameters+of+the+Earth%27s+tri-axial+level+ellipsoid&amp;rft.volume=37&amp;rft.issue=1&amp;rft.pages=1-13&amp;rft.date=1993&amp;rft_id=info%3Adoi%2F10.1007%2FBF01613918&amp;rft_id=info%3Abibcode%2F1993StGG...37....1B&amp;rft.aulast=Bur%C5%A1a&amp;rft.aufirst=Milan&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFigure+of+the+Earth">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-5">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-5">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           This section is a close paraphrase of Defense Mapping Agency 1983, page 9 of the PDF.
+          </span>
+         </li>
+         <li id="cite_note-earth_fact_sheet-6">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-earth_fact_sheet_6-0">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            Williams, David R. (2004-09-01).
+            <a class="external text" href="http://nssdc.gsfc.nasa.gov/planetary/factsheet/earthfact.html" rel="nofollow">
+             "Earth Fact Sheet"
+            </a>
+            .
+            <a href="/wiki/NASA" title="NASA">
+             NASA
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              2007-03-17
+             </span>
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Earth+Fact+Sheet&amp;rft.pub=NASA&amp;rft.date=2004-09-01&amp;rft.aulast=Williams&amp;rft.aufirst=David+R.&amp;rft_id=http%3A%2F%2Fnssdc.gsfc.nasa.gov%2Fplanetary%2Ffactsheet%2Fearthfact.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFigure+of+the+Earth">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+        </ol>
+       </div>
+      </div>
+      <ul>
+       <li>
+        <a class="new" href="/w/index.php?title=Guy_Bomford&amp;action=edit&amp;redlink=1" title="Guy Bomford (page does not exist)">
+         Guy Bomford
+        </a>
+        ,
+        <i>
+         Geodesy
+        </i>
+        ,
+        <a href="/wiki/Oxford" title="Oxford">
+         Oxford
+        </a>
+        1962 and 1880.
+       </li>
+       <li>
+        Guy Bomford,
+        <i>
+         Determination of the European geoid by means of
+         <a href="/wiki/Vertical_deflection" title="Vertical deflection">
+          vertical deflections
+         </a>
+        </i>
+        . Rpt of Comm. 14,
+        <a class="mw-redirect" href="/wiki/IUGG" title="IUGG">
+         IUGG
+        </a>
+        10th Gen. Ass., Rome 1954.
+       </li>
+       <li>
+        <a href="/wiki/Karl_Ledersteger" title="Karl Ledersteger">
+         Karl Ledersteger
+        </a>
+        and
+        <a class="new" href="/w/index.php?title=Gottfried_Gerstbach&amp;action=edit&amp;redlink=1" title="Gottfried Gerstbach (page does not exist)">
+         Gottfried Gerstbach
+        </a>
+        ,
+        <i>
+         Die horizontale
+         <a href="/wiki/Isostasy" title="Isostasy">
+          Isostasie
+         </a>
+         / Das isostatische Geoid 31. Ordnung
+        </i>
+        . Geowissenschaftliche Mitteilungen Band 5,
+        <a href="/wiki/TU_Wien" title="TU Wien">
+         TU Wien
+        </a>
+        1975.
+       </li>
+       <li>
+        <a class="new" href="/w/index.php?title=Helmut_Moritz&amp;action=edit&amp;redlink=1" title="Helmut Moritz (page does not exist)">
+         Helmut Moritz
+        </a>
+        and
+        <a class="new" href="/w/index.php?title=Bernhard_Hofmann-Wellenhof&amp;action=edit&amp;redlink=1" title="Bernhard Hofmann-Wellenhof (page does not exist)">
+         Bernhard Hofmann
+        </a>
+        ,
+        <i>
+         Physical Geodesy
+        </i>
+        .
+        <a href="/wiki/Springer_Science%2BBusiness_Media" title="Springer Science+Business Media">
+         Springer
+        </a>
+        , Wien &amp; New York 2005.
+       </li>
+       <li>
+        <i>
+         Geodesy for the Layman
+        </i>
+        ,
+        <a class="mw-redirect" href="/wiki/Defense_Mapping_Agency" title="Defense Mapping Agency">
+         Defense Mapping Agency
+        </a>
+        , St. Louis, 1983.
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="External_links">
+        External links
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Figure_of_the_Earth&amp;action=edit&amp;section=12" title="Edit section: External links">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a class="external text" href="https://web.archive.org/web/20051023083444/http://www.pcigeomatics.com/cgi-bin/pcihlp/PROJ%7CEARTH+MODELS%7CELLIPSOIDS%7CELLIPSOID+CODES" rel="nofollow">
+         Reference Ellipsoids (PCI Geomatics)
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://www.google.com/search?q=cache:TjusGxmrm4EJ:www.scanex.ru" rel="nofollow">
+         Reference Ellipsoids (ScanEx)
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://www.nasa.gov/centers/goddard/earthandsun/earthshape.html" rel="nofollow">
+         Changes in earth shape due to climate changes
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://www.josleys.com/show_gallery.php?galid=313" rel="nofollow">
+         Jos Leys "The shape of Planet Earth"
+        </a>
+       </li>
+      </ul>
+      <!-- 
+NewPP limit report
+Parsed by mw1222
+Cached time: 20180124220605
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.344 seconds
+Real time usage: 0.479 seconds
+Preprocessor visited node count: 1153/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 38786/2097152 bytes
+Template argument size: 2378/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 3/500
+Lua time usage: 0.157/10.000 seconds
+Lua memory usage: 5.08 MB/50 MB
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  341.133      1 -total
+ 27.00%   92.105      1 Template:Reflist
+ 20.37%   69.482      2 Template:Citation_needed
+ 18.21%   62.134      2 Template:Fix
+ 17.29%   58.990      3 Template:Cite_journal
+ 14.87%   50.741      5 Template:Convert
+ 12.85%   43.851      1 Template:Geodesy
+ 11.79%   40.211      1 Template:Sidebar
+ 10.53%   35.932      4 Template:Category_handler
+ 10.34%   35.258      1 Template:For
+-->
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:233668-0!canonical!math=5 and timestamp 20180124220605 and revision id 822185101
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Figure_of_the_Earth&amp;oldid=822185101">
+      https://en.wikipedia.org/w/index.php?title=Figure_of_the_Earth&amp;oldid=822185101
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Earth" title="Category:Earth">
+         Earth
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Geodesy" title="Category:Geodesy">
+         Geodesy
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Geophysics" title="Category:Geophysics">
+         Geophysics
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">
+         All articles with unsourced statements
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_with_unsourced_statements_from_January_2016" title="Category:Articles with unsourced statements from January 2016">
+         Articles with unsourced statements from January 2016
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_with_unsourced_statements_from_January_2017" title="Category:Articles with unsourced statements from January 2017">
+         Articles with unsourced statements from January 2017
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Use_dmy_dates_from_June_2011" title="Category:Use dmy dates from June 2011">
+         Use dmy dates from June 2011
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Figure+of+the+Earth" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Figure+of+the+Earth" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Figure_of_the_Earth" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Figure_of_the_Earth" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="collapsible selected" id="ca-view">
+        <span>
+         <a href="/wiki/Figure_of_the_Earth">
+          Read
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Figure_of_the_Earth&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Figure_of_the_Earth&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Figure_of_the_Earth" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Figure_of_the_Earth" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Figure_of_the_Earth&amp;oldid=822185101" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Figure_of_the_Earth&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q437882" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Figure_of_the_Earth&amp;id=822185101" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Figure+of+the+Earth">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Figure+of+the+Earth&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Figure_of_the_Earth&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-ar">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%B5%D9%88%D8%B1%D8%A9_%D8%A7%D9%84%D8%A3%D8%B1%D8%B6" hreflang="ar" lang="ar" title="صورة الأرض – Arabic">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bn">
+        <a class="interlanguage-link-target" href="https://bn.wikipedia.org/wiki/%E0%A6%AA%E0%A7%83%E0%A6%A5%E0%A6%BF%E0%A6%AC%E0%A7%80%E0%A6%B0_%E0%A6%86%E0%A6%95%E0%A6%BE%E0%A6%B0" hreflang="bn" lang="bn" title="পৃথিবীর আকার – Bangla">
+         বাংলা
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-be">
+        <a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%A4%D1%96%D0%B3%D1%83%D1%80%D0%B0_%D0%97%D1%8F%D0%BC%D0%BB%D1%96" hreflang="be" lang="be" title="Фігура Зямлі – Belarusian">
+         Беларуская
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bg">
+        <a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%A4%D0%BE%D1%80%D0%BC%D0%B0_%D0%BD%D0%B0_%D0%97%D0%B5%D0%BC%D1%8F%D1%82%D0%B0" hreflang="bg" lang="bg" title="Форма на Земята – Bulgarian">
+         Български
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Figura_de_la_Terra" hreflang="ca" lang="ca" title="Figura de la Terra – Catalan">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Erdfigur" hreflang="de" lang="de" title="Erdfigur – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-et">
+        <a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Maa_kuju" hreflang="et" lang="et" title="Maa kuju – Estonian">
+         Eesti
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Forma_de_la_Tierra" hreflang="es" lang="es" title="Forma de la Tierra – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Figure_de_la_Terre" hreflang="fr" lang="fr" title="Figure de la Terre – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Figura_della_Terra" hreflang="it" lang="it" title="Figura della Terra – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hu">
+        <a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/A_F%C3%B6ld_alakja" hreflang="hu" lang="hu" title="A Föld alakja – Hungarian">
+         Magyar
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nl">
+        <a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Vorm_van_de_Aarde" hreflang="nl" lang="nl" title="Vorm van de Aarde – Dutch">
+         Nederlands
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Figura_da_Terra" hreflang="pt" lang="pt" title="Figura da Terra – Portuguese">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ro">
+        <a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Forma_P%C4%83m%C3%A2ntului" hreflang="ro" lang="ro" title="Forma Pământului – Romanian">
+         Română
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%A4%D0%B8%D0%B3%D1%83%D1%80%D0%B0_%D0%97%D0%B5%D0%BC%D0%BB%D0%B8" hreflang="ru" lang="ru" title="Фигура Земли – Russian">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sl">
+        <a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Oblika_Zemlje" hreflang="sl" lang="sl" title="Oblika Zemlje – Slovenian">
+         Slovenščina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uk">
+        <a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%A4%D1%96%D0%B3%D1%83%D1%80%D0%B0_%D0%97%D0%B5%D0%BC%D0%BB%D1%96" hreflang="uk" lang="uk" title="Фігура Землі – Ukrainian">
+         Українська
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q437882#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 24 January 2018, at 22:06.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Figure_of_the_Earth&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.344","walltime":"0.479","ppvisitednodes":{"value":1153,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":38786,"limit":2097152},"templateargumentsize":{"value":2378,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  341.133      1 -total"," 27.00%   92.105      1 Template:Reflist"," 20.37%   69.482      2 Template:Citation_needed"," 18.21%   62.134      2 Template:Fix"," 17.29%   58.990      3 Template:Cite_journal"," 14.87%   50.741      5 Template:Convert"," 12.85%   43.851      1 Template:Geodesy"," 11.79%   40.211      1 Template:Sidebar"," 10.53%   35.932      4 Template:Category_handler"," 10.34%   35.258      1 Template:For"]},"scribunto":{"limitreport-timeusage":{"value":"0.157","limit":"10.000"},"limitreport-memusage":{"value":5330066,"limit":52428800}},"cachereport":{"origin":"mw1222","timestamp":"20180124220605","ttl":1900800,"transientcontent":false}}});});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":67,"wgHostname":"mw1238"});});
+  </script>
+ </body>
+</html>

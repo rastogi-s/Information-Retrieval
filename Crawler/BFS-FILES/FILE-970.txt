@@ -1,0 +1,4758 @@
+https://en.wikipedia.org/wiki/Boltzmann_constant
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Boltzmann constant - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Boltzmann_constant","wgTitle":"Boltzmann constant","wgCurRevisionId":822607434,"wgRevisionId":822607434,"wgArticleId":53702,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 errors: dates","CS1 French-language sources (fr)","Use dmy dates from June 2013","Statistical mechanics","Thermodynamics","Fundamental constants","Physical constants"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Boltzmann_constant","wgRelevantArticleId":53702,"wgRequestId":"WnXc4QpAME8AAGsco20AAABY","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q5962","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.31.0-wmf.17" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Boltzmann_constant" rel="alternate"/>
+  <link href="/w/index.php?title=Boltzmann_constant&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Boltzmann_constant&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/Boltzmann_constant" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Boltzmann_constant rootpage-Boltzmann_constant skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Boltzmann constant
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <div class="hatnote navigation-not-searchable" role="note">
+       Not to be confused with
+       <a href="/wiki/Stefan%E2%80%93Boltzmann_constant" title="Stefan–Boltzmann constant">
+        Stefan–Boltzmann constant
+       </a>
+       .
+      </div>
+      <table class="wikitable" style="float: right;">
+       <tr>
+        <th>
+         Values of
+         <span class="texhtml mvar" style="font-style:italic;">
+          k
+         </span>
+         <sup class="reference" id="cite_ref-2014_CODATA_1-0">
+          <a href="#cite_note-2014_CODATA-1">
+           [1]
+          </a>
+         </sup>
+        </th>
+        <th>
+         Units
+        </th>
+       </tr>
+       <tr>
+        <td>
+         <span class="nowrap">
+          <span class="sortkey" style="display:none">
+           6977138064851999999♠
+          </span>
+          1.380
+          <span style="margin-left:.25em;">
+           648
+          </span>
+          <span style="margin-left:.25em;">
+           52
+          </span>
+          (79)
+          <span style="margin-left:0.25em;margin-right:0.15em;">
+           ×
+          </span>
+          10
+          <sup>
+           −23
+          </sup>
+         </span>
+        </td>
+        <td>
+         <a href="/wiki/Joule" title="Joule">
+          J
+         </a>
+         ⋅
+         <a href="/wiki/Kelvin" title="Kelvin">
+          K
+         </a>
+         <sup>
+          −1
+         </sup>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <span class="nowrap">
+          <span class="sortkey" style="display:none">
+           6995861733030000000♠
+          </span>
+          8.617
+          <span style="margin-left:.25em;">
+           3303
+          </span>
+          (50)
+          <span style="margin-left:0.25em;margin-right:0.15em;">
+           ×
+          </span>
+          10
+          <sup>
+           −5
+          </sup>
+         </span>
+        </td>
+        <td>
+         <a href="/wiki/Electronvolt" title="Electronvolt">
+          eV
+         </a>
+         ⋅K
+         <sup>
+          −1
+         </sup>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <span class="nowrap">
+          <span class="sortkey" style="display:none">
+           6984138064852000000♠
+          </span>
+          1.380
+          <span style="margin-left:.25em;">
+           648
+          </span>
+          <span style="margin-left:.25em;">
+           52
+          </span>
+          (79)
+          <span style="margin-left:0.25em;margin-right:0.15em;">
+           ×
+          </span>
+          10
+          <sup>
+           −16
+          </sup>
+         </span>
+        </td>
+        <td>
+         <a href="/wiki/Erg" title="Erg">
+          erg
+         </a>
+         ⋅K
+         <sup>
+          −1
+         </sup>
+        </td>
+       </tr>
+       <tr>
+        <td colspan="2">
+         <small>
+          For details, see
+          <a href="#Value_in_different_units">
+           § Value in different units
+          </a>
+          below.
+         </small>
+        </td>
+       </tr>
+      </table>
+      <p>
+       The
+       <b>
+        Boltzmann constant
+       </b>
+       (
+       <span class="texhtml">
+        <i>
+         k
+        </i>
+        <sub>
+         B
+        </sub>
+       </span>
+       or
+       <span class="texhtml mvar" style="font-style:italic;">
+        k
+       </span>
+       ), which is named after
+       <a href="/wiki/Ludwig_Boltzmann" title="Ludwig Boltzmann">
+        Ludwig Boltzmann
+       </a>
+       , is a
+       <a href="/wiki/Physical_constant" title="Physical constant">
+        physical constant
+       </a>
+       relating the average
+       <a href="/wiki/Kinetic_energy" title="Kinetic energy">
+        kinetic energy
+       </a>
+       of
+       <a href="/wiki/Particle" title="Particle">
+        particles
+       </a>
+       in a
+       <a href="/wiki/Ideal_gas" title="Ideal gas">
+        gas
+       </a>
+       with the
+       <a href="/wiki/Temperature" title="Temperature">
+        temperature
+       </a>
+       of the gas.
+       <sup class="reference" id="cite_ref-Feynman1Ch39-10_2-0">
+        <a href="#cite_note-Feynman1Ch39-10-2">
+         [2]
+        </a>
+       </sup>
+       It is the
+       <a href="/wiki/Gas_constant" title="Gas constant">
+        gas constant
+       </a>
+       <span class="texhtml mvar" style="font-style:italic;">
+        R
+       </span>
+       divided by the
+       <a href="/wiki/Avogadro_constant" title="Avogadro constant">
+        Avogadro constant
+       </a>
+       <span class="texhtml">
+        <i>
+         N
+        </i>
+        <sub>
+         A
+        </sub>
+       </span>
+       :
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle k={\frac {R}{N_{\text{A}}}}.\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mi>
+               k
+              </mi>
+              <mo>
+               =
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mfrac>
+                <mi>
+                 R
+                </mi>
+                <msub>
+                 <mi>
+                  N
+                 </mi>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mtext>
+                   A
+                  </mtext>
+                 </mrow>
+                </msub>
+               </mfrac>
+              </mrow>
+              <mo>
+               .
+              </mo>
+              <mspace width="thinmathspace">
+              </mspace>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle k={\frac {R}{N_{\text{A}}}}.\,}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="k={\frac {R}{N_{\text{A}}}}.\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ed165d8e56718cdaf406c67d917db0e4ce11ea18" style="vertical-align: -2.338ex; width:9.511ex; height:5.676ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       The Boltzmann constant has the
+       <a href="/wiki/Dimensional_analysis" title="Dimensional analysis">
+        dimension
+       </a>
+       energy divided by temperature, the same as
+       <a href="/wiki/Entropy" title="Entropy">
+        entropy
+       </a>
+       . As of 2017, its value in
+       <a class="mw-redirect" href="/wiki/SI_units" title="SI units">
+        SI units
+       </a>
+       is a measured quantity. The recommended value (as of 2015, with
+       <a class="mw-redirect" href="/wiki/Standard_uncertainty" title="Standard uncertainty">
+        standard uncertainty
+       </a>
+       in brackets) is
+       <span class="nowrap">
+        <span class="sortkey" style="display:none">
+         6977138064851999999♠
+        </span>
+        1.380
+        <span style="margin-left:.25em;">
+         648
+        </span>
+        <span style="margin-left:.25em;">
+         52
+        </span>
+        (79)
+        <span style="margin-left:0.25em;margin-right:0.15em;">
+         ×
+        </span>
+        10
+        <sup>
+         −23
+        </sup>
+        <a href="/wiki/Joule" title="Joule">
+         J
+        </a>
+        /
+        <a href="/wiki/Kelvin" title="Kelvin">
+         K
+        </a>
+       </span>
+       .
+      </p>
+      <p>
+       Current measurements of the Boltzmann constant depend on the definition of the
+       <a href="/wiki/Kelvin" title="Kelvin">
+        kelvin
+       </a>
+       in terms of the
+       <a class="mw-redirect" href="/wiki/Triple_point_of_water" title="Triple point of water">
+        triple point of water
+       </a>
+       . In the
+       <a href="/wiki/Proposed_redefinition_of_SI_base_units" title="Proposed redefinition of SI base units">
+        proposed redefinition of SI base units
+       </a>
+       scheduled
+       <sup class="reference" id="cite_ref-3">
+        <a href="#cite_note-3">
+         [3]
+        </a>
+       </sup>
+       for adoption at the 26th
+       <a href="/wiki/General_Conference_on_Weights_and_Measures" title="General Conference on Weights and Measures">
+        General Conference on Weights and Measures
+       </a>
+       (CGPM) on 16 November 2018,
+       <sup class="reference" id="cite_ref-Minutes2014_4-0">
+        <a href="#cite_note-Minutes2014-4">
+         [4]
+        </a>
+       </sup>
+       the definition of the kelvin will be changed to one based on a fixed, exact numerical value of the Boltzmann constant, similar to the way that the
+       <a href="/wiki/Speed_of_light" title="Speed of light">
+        speed of light
+       </a>
+       was given an exact numerical value at the 17th CGPM in 1983.
+       <sup class="reference" id="cite_ref-draft_5-0">
+        <a href="#cite_note-draft-5">
+         [5]
+        </a>
+       </sup>
+       The proposed final value (based on the 2017 CODATA adjusted value of
+       <span class="nowrap">
+        <span class="sortkey" style="display:none">
+         6977138064903000000♠
+        </span>
+        1.380
+        <span style="margin-left:.25em;">
+         649
+        </span>
+        <span style="margin-left:.25em;">
+         03
+        </span>
+        (51)
+        <span style="margin-left:0.25em;margin-right:0.15em;">
+         ×
+        </span>
+        10
+        <sup>
+         −23
+        </sup>
+        J/K
+       </span>
+       ) is
+       <span class="nowrap">
+        <span class="sortkey" style="display:none">
+         6977138064900000000♠
+        </span>
+        1.380
+        <span style="margin-left:.25em;">
+         649
+        </span>
+        <span style="margin-left:0.25em;margin-right:0.15em;">
+         ×
+        </span>
+        10
+        <sup>
+         −23
+        </sup>
+        J/K
+       </span>
+       .
+       <sup class="reference" id="cite_ref-codata_2017_6-0">
+        <a href="#cite_note-codata_2017-6">
+         [6]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-cipm_106_7-0">
+        <a href="#cite_note-cipm_106-7">
+         [7]
+        </a>
+       </sup>
+      </p>
+      <p>
+      </p>
+      <div class="toc" id="toc">
+       <div class="toctitle" dir="ltr" lang="en" xml:lang="en">
+        <h2>
+         Contents
+        </h2>
+       </div>
+       <ul>
+        <li class="toclevel-1 tocsection-1">
+         <a href="#Bridge_from_macroscopic_to_microscopic_physics">
+          <span class="tocnumber">
+           1
+          </span>
+          <span class="toctext">
+           Bridge from macroscopic to microscopic physics
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-2">
+         <a href="#Role_in_the_equipartition_of_energy">
+          <span class="tocnumber">
+           2
+          </span>
+          <span class="toctext">
+           Role in the equipartition of energy
+          </span>
+         </a>
+         <ul>
+          <li class="toclevel-2 tocsection-3">
+           <a href="#Application_to_simple_gas_thermodynamics">
+            <span class="tocnumber">
+             2.1
+            </span>
+            <span class="toctext">
+             Application to simple gas thermodynamics
+            </span>
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="toclevel-1 tocsection-4">
+         <a href="#Role_in_Boltzmann_factors">
+          <span class="tocnumber">
+           3
+          </span>
+          <span class="toctext">
+           Role in Boltzmann factors
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-5">
+         <a href="#Role_in_the_statistical_definition_of_entropy">
+          <span class="tocnumber">
+           4
+          </span>
+          <span class="toctext">
+           Role in the statistical definition of entropy
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-6">
+         <a href="#Role_in_semiconductor_physics:_the_thermal_voltage">
+          <span class="tocnumber">
+           5
+          </span>
+          <span class="toctext">
+           Role in semiconductor physics: the thermal voltage
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-7">
+         <a href="#History">
+          <span class="tocnumber">
+           6
+          </span>
+          <span class="toctext">
+           History
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-8">
+         <a href="#Value_in_different_units">
+          <span class="tocnumber">
+           7
+          </span>
+          <span class="toctext">
+           Value in different units
+          </span>
+         </a>
+         <ul>
+          <li class="toclevel-2 tocsection-9">
+           <a href="#Planck_units">
+            <span class="tocnumber">
+             7.1
+            </span>
+            <span class="toctext">
+             Planck units
+            </span>
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="toclevel-1 tocsection-10">
+         <a href="#See_also">
+          <span class="tocnumber">
+           8
+          </span>
+          <span class="toctext">
+           See also
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-11">
+         <a href="#References">
+          <span class="tocnumber">
+           9
+          </span>
+          <span class="toctext">
+           References
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-12">
+         <a href="#External_links">
+          <span class="tocnumber">
+           10
+          </span>
+          <span class="toctext">
+           External links
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <p>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Bridge_from_macroscopic_to_microscopic_physics">
+        Bridge from macroscopic to microscopic physics
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Boltzmann_constant&amp;action=edit&amp;section=1" title="Edit section: Bridge from macroscopic to microscopic physics">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       The Boltzmann constant,
+       <span class="texhtml mvar" style="font-style:italic;">
+        k
+       </span>
+       , is a bridge between
+       <a href="/wiki/Macroscopic_scale" title="Macroscopic scale">
+        macroscopic
+       </a>
+       and microscopic physics. Macroscopically, the
+       <a href="/wiki/Ideal_gas_law" title="Ideal gas law">
+        ideal gas law
+       </a>
+       states that, for an
+       <a href="/wiki/Ideal_gas" title="Ideal gas">
+        ideal gas
+       </a>
+       , the product of
+       <a href="/wiki/Pressure" title="Pressure">
+        pressure
+       </a>
+       <span class="texhtml mvar" style="font-style:italic;">
+        p
+       </span>
+       and
+       <a href="/wiki/Volume" title="Volume">
+        volume
+       </a>
+       <span class="texhtml mvar" style="font-style:italic;">
+        V
+       </span>
+       is proportional to the product of
+       <a href="/wiki/Amount_of_substance" title="Amount of substance">
+        amount of substance
+       </a>
+       <span class="texhtml mvar" style="font-style:italic;">
+        n
+       </span>
+       (in
+       <a href="/wiki/Mole_(unit)" title="Mole (unit)">
+        moles
+       </a>
+       ) and
+       <a class="mw-redirect" href="/wiki/Absolute_temperature" title="Absolute temperature">
+        absolute temperature
+       </a>
+       <span class="texhtml mvar" style="font-style:italic;">
+        T
+       </span>
+       :
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle pV=nRT\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mi>
+               p
+              </mi>
+              <mi>
+               V
+              </mi>
+              <mo>
+               =
+              </mo>
+              <mi>
+               n
+              </mi>
+              <mi>
+               R
+              </mi>
+              <mi>
+               T
+              </mi>
+              <mspace width="thinmathspace">
+              </mspace>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle pV=nRT\,}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="pV=nRT\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/773cc9cc46ce127b2b18187051902a525bb16188" style="vertical-align: -0.671ex; margin-left: -0.089ex; width:11.327ex; height:2.509ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       where
+       <span class="texhtml mvar" style="font-style:italic;">
+        R
+       </span>
+       is the
+       <a href="/wiki/Gas_constant" title="Gas constant">
+        gas constant
+       </a>
+       (
+       <span class="nowrap">
+        <span class="sortkey" style="display:none">
+         7000831445980000000♠
+        </span>
+        8.314
+        <span style="margin-left:.25em;">
+         4598
+        </span>
+        (48) J⋅K
+        <sup>
+         −1
+        </sup>
+        ⋅mol
+        <sup>
+         −1
+        </sup>
+       </span>
+       <sup class="reference" id="cite_ref-2014_CODATA_1-1">
+        <a href="#cite_note-2014_CODATA-1">
+         [1]
+        </a>
+       </sup>
+       ). Introducing the Boltzmann constant transforms the ideal gas law into an alternative form:
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle pV=NkT,}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mi>
+               p
+              </mi>
+              <mi>
+               V
+              </mi>
+              <mo>
+               =
+              </mo>
+              <mi>
+               N
+              </mi>
+              <mi>
+               k
+              </mi>
+              <mi>
+               T
+              </mi>
+              <mo>
+               ,
+              </mo>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle pV=NkT,}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="pV=NkT," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f1efe84d5ec485bd2f904ff8acfeff93fd1184df" style="vertical-align: -0.671ex; margin-left: -0.089ex; width:11.702ex; height:2.509ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       where
+       <span class="texhtml mvar" style="font-style:italic;">
+        N
+       </span>
+       is the
+       <a class="mw-redirect" href="/wiki/Number_of_particles" title="Number of particles">
+        number of molecules
+       </a>
+       of gas. For
+       <span class="nowrap">
+        <span class="texhtml mvar" style="font-style:italic;">
+         n
+        </span>
+        = 1
+        <a href="/wiki/Mole_(unit)" title="Mole (unit)">
+         mol
+        </a>
+       </span>
+       ,
+       <span class="texhtml mvar" style="font-style:italic;">
+        N
+       </span>
+       is equal to the number of particles in one mole (
+       <a class="mw-redirect" href="/wiki/Avogadro%27s_number" title="Avogadro's number">
+        Avogadro's number
+       </a>
+       ).
+      </p>
+      <h2>
+       <span class="mw-headline" id="Role_in_the_equipartition_of_energy">
+        Role in the equipartition of energy
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Boltzmann_constant&amp;action=edit&amp;section=2" title="Edit section: Role in the equipartition of energy">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="hatnote navigation-not-searchable" role="note">
+       Main article:
+       <a class="mw-redirect" href="/wiki/Equipartition_of_energy" title="Equipartition of energy">
+        Equipartition of energy
+       </a>
+      </div>
+      <p>
+       Given a
+       <a href="/wiki/Thermodynamics" title="Thermodynamics">
+        thermodynamic
+       </a>
+       system at an
+       <a href="/wiki/Thermodynamic_temperature" title="Thermodynamic temperature">
+        absolute temperature
+       </a>
+       <span class="texhtml mvar" style="font-style:italic;">
+        T
+       </span>
+       , the average thermal energy carried by each microscopic degree of freedom in the system is on the
+       <a href="/wiki/Order_of_magnitude" title="Order of magnitude">
+        order of magnitude
+       </a>
+       of
+       <span class="texhtml">
+        <span class="sfrac nowrap" style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;">
+         <span style="display:block; line-height:1em; margin:0 0.1em;">
+          1
+         </span>
+         <span class="visualhide">
+          /
+         </span>
+         <span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;">
+          2
+         </span>
+        </span>
+        <i>
+         kT
+        </i>
+       </span>
+       (i.e., about
+       <span class="nowrap">
+        <span class="sortkey" style="display:none">
+         6979206999999999999♠
+        </span>
+        2.07
+        <span style="margin-left:0.25em;margin-right:0.15em;">
+         ×
+        </span>
+        10
+        <sup>
+         −21
+        </sup>
+        J
+       </span>
+       , or
+       <span class="nowrap">
+        <span class="sortkey" style="display:none">
+         6979208282943310000♠
+        </span>
+        0.013
+        <a href="/wiki/Electronvolt" title="Electronvolt">
+         eV
+        </a>
+       </span>
+       , at room temperature).
+      </p>
+      <h3>
+       <span class="mw-headline" id="Application_to_simple_gas_thermodynamics">
+        Application to simple gas thermodynamics
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Boltzmann_constant&amp;action=edit&amp;section=3" title="Edit section: Application to simple gas thermodynamics">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       In
+       <a href="/wiki/Classical_mechanics" title="Classical mechanics">
+        classical
+       </a>
+       <a href="/wiki/Statistical_mechanics" title="Statistical mechanics">
+        statistical mechanics
+       </a>
+       , this average is predicted to hold exactly for homogeneous
+       <a href="/wiki/Ideal_gas" title="Ideal gas">
+        ideal gases
+       </a>
+       . Monatomic ideal gases possess three
+       <a href="/wiki/Degrees_of_freedom_(physics_and_chemistry)" title="Degrees of freedom (physics and chemistry)">
+        degrees of freedom
+       </a>
+       per atom, corresponding to the three spatial directions, which means a thermal energy of
+       <span class="texhtml">
+        <span class="sfrac nowrap" style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;">
+         <span style="display:block; line-height:1em; margin:0 0.1em;">
+          3
+         </span>
+         <span class="visualhide">
+          /
+         </span>
+         <span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;">
+          2
+         </span>
+        </span>
+        <i>
+         kT
+        </i>
+       </span>
+       per atom. This corresponds very well with experimental data. The thermal energy can be used to calculate the
+       <a href="/wiki/Root-mean-square_speed" title="Root-mean-square speed">
+        root-mean-square speed
+       </a>
+       of the atoms, which turns out to be inversely proportional to the square root of the
+       <a href="/wiki/Atomic_mass" title="Atomic mass">
+        atomic mass
+       </a>
+       . The root mean square speeds found at room temperature accurately reflect this, ranging from
+       <span class="nowrap">
+        <span class="sortkey" style="display:none">
+         7003137000000000000♠
+        </span>
+        1370 m/s
+       </span>
+       for
+       <a href="/wiki/Helium" title="Helium">
+        helium
+       </a>
+       , down to
+       <span class="nowrap">
+        <span class="sortkey" style="display:none">
+         7002240000000000000♠
+        </span>
+        240 m/s
+       </span>
+       for
+       <a href="/wiki/Xenon" title="Xenon">
+        xenon
+       </a>
+       .
+      </p>
+      <p>
+       <a href="/wiki/Kinetic_theory_of_gases#Pressure" title="Kinetic theory of gases">
+        Kinetic theory
+       </a>
+       gives the average pressure
+       <span class="texhtml mvar" style="font-style:italic;">
+        p
+       </span>
+       for an ideal gas as
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle p={\frac {1}{3}}{\frac {N}{V}}m{\overline {v^{2}}}.}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mi>
+               p
+              </mi>
+              <mo>
+               =
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mfrac>
+                <mn>
+                 1
+                </mn>
+                <mn>
+                 3
+                </mn>
+               </mfrac>
+              </mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mfrac>
+                <mi>
+                 N
+                </mi>
+                <mi>
+                 V
+                </mi>
+               </mfrac>
+              </mrow>
+              <mi>
+               m
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mover>
+                <msup>
+                 <mi>
+                  v
+                 </mi>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mn>
+                   2
+                  </mn>
+                 </mrow>
+                </msup>
+                <mo accent="false">
+                 ¯
+                 <!-- ¯ -->
+                </mo>
+               </mover>
+              </mrow>
+              <mo>
+               .
+              </mo>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle p={\frac {1}{3}}{\frac {N}{V}}m{\overline {v^{2}}}.}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="p={\frac {1}{3}}{\frac {N}{V}}m{\overline {v^{2}}}." aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6a8e12138aa2fb5c20185362a8ddf781c804bd59" style="vertical-align: -2.005ex; margin-left: -0.089ex; width:14.24ex; height:5.343ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       Combination with the ideal gas law
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle pV=NkT}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mi>
+               p
+              </mi>
+              <mi>
+               V
+              </mi>
+              <mo>
+               =
+              </mo>
+              <mi>
+               N
+              </mi>
+              <mi>
+               k
+              </mi>
+              <mi>
+               T
+              </mi>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle pV=NkT}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="pV=NkT" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8a3da361ed1d92bf6756007a3e2226744eb5798d" style="vertical-align: -0.671ex; margin-left: -0.089ex; width:11.056ex; height:2.509ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       shows that the average translational kinetic energy is
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle {\tfrac {1}{2}}m{\overline {v^{2}}}={\tfrac {3}{2}}kT.}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mrow class="MJX-TeXAtom-ORD">
+               <mstyle displaystyle="false" scriptlevel="0">
+                <mfrac>
+                 <mn>
+                  1
+                 </mn>
+                 <mn>
+                  2
+                 </mn>
+                </mfrac>
+               </mstyle>
+              </mrow>
+              <mi>
+               m
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mover>
+                <msup>
+                 <mi>
+                  v
+                 </mi>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mn>
+                   2
+                  </mn>
+                 </mrow>
+                </msup>
+                <mo accent="false">
+                 ¯
+                 <!-- ¯ -->
+                </mo>
+               </mover>
+              </mrow>
+              <mo>
+               =
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mstyle displaystyle="false" scriptlevel="0">
+                <mfrac>
+                 <mn>
+                  3
+                 </mn>
+                 <mn>
+                  2
+                 </mn>
+                </mfrac>
+               </mstyle>
+              </mrow>
+              <mi>
+               k
+              </mi>
+              <mi>
+               T
+              </mi>
+              <mo>
+               .
+              </mo>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle {\tfrac {1}{2}}m{\overline {v^{2}}}={\tfrac {3}{2}}kT.}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="{\tfrac {1}{2}}m{\overline {v^{2}}}={\tfrac {3}{2}}kT." aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/62595e846c20af33efebdf09248ab478785d707a" style="vertical-align: -1.171ex; width:14.246ex; height:4.176ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       Considering that the translational motion velocity vector
+       <span class="texhtml">
+        <b>
+         v
+        </b>
+       </span>
+       has three degrees of freedom (one for each dimension) gives the average energy per degree of freedom equal to one third of that, i.e.
+       <span class="texhtml">
+        <span class="sfrac nowrap" style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;">
+         <span style="display:block; line-height:1em; margin:0 0.1em;">
+          1
+         </span>
+         <span class="visualhide">
+          /
+         </span>
+         <span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;">
+          2
+         </span>
+        </span>
+        <i>
+         kT
+        </i>
+       </span>
+       .
+      </p>
+      <p>
+       The ideal gas equation is also obeyed closely by molecular gases; but the form for the heat capacity is more complicated, because the molecules possess additional internal degrees of freedom, as well as the three degrees of freedom for movement of the molecule as a whole. Diatomic gases, for example, possess a total of six degrees of simple freedom per molecule that are related to atomic motion (three translational, two rotational, and one vibrational). At lower temperatures, not all these degrees of freedom may fully participate in the gas heat capacity, due to quantum mechanical limits on the availability of excited states at the relevant thermal energy per molecule.
+      </p>
+      <h2>
+       <span class="mw-headline" id="Role_in_Boltzmann_factors">
+        Role in Boltzmann factors
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Boltzmann_constant&amp;action=edit&amp;section=4" title="Edit section: Role in Boltzmann factors">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       More generally, systems in equilibrium at temperature
+       <span class="texhtml mvar" style="font-style:italic;">
+        T
+       </span>
+       have probability
+       <span class="texhtml mvar" style="font-style:italic;">
+        P
+        <sub>
+         i
+        </sub>
+       </span>
+       of occupying a state
+       <span class="texhtml mvar" style="font-style:italic;">
+        i
+       </span>
+       with energy
+       <span class="texhtml mvar" style="font-style:italic;">
+        E
+       </span>
+       weighted by the corresponding
+       <a class="mw-redirect" href="/wiki/Boltzmann_factor" title="Boltzmann factor">
+        Boltzmann factor
+       </a>
+       :
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle P_{i}\propto {\frac {\exp \left(-{\frac {E}{kT}}\right)}{Z}},}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <msub>
+               <mi>
+                P
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 i
+                </mi>
+               </mrow>
+              </msub>
+              <mo>
+               ∝
+               <!-- ∝ -->
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mfrac>
+                <mrow>
+                 <mi>
+                  exp
+                 </mi>
+                 <mo>
+                  ⁡
+                  <!-- ⁡ -->
+                 </mo>
+                 <mrow>
+                  <mo>
+                   (
+                  </mo>
+                  <mrow>
+                   <mo>
+                    −
+                    <!-- − -->
+                   </mo>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mfrac>
+                     <mi>
+                      E
+                     </mi>
+                     <mrow>
+                      <mi>
+                       k
+                      </mi>
+                      <mi>
+                       T
+                      </mi>
+                     </mrow>
+                    </mfrac>
+                   </mrow>
+                  </mrow>
+                  <mo>
+                   )
+                  </mo>
+                 </mrow>
+                </mrow>
+                <mi>
+                 Z
+                </mi>
+               </mfrac>
+              </mrow>
+              <mo>
+               ,
+              </mo>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle P_{i}\propto {\frac {\exp \left(-{\frac {E}{kT}}\right)}{Z}},}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="P_{i}\propto {\frac {\exp \left(-{\frac {E}{kT}}\right)}{Z}}," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/693154403490b4a04b4a29983f850819a5dcb1bc" style="vertical-align: -1.838ex; width:17.859ex; height:7.509ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       where
+       <span class="texhtml mvar" style="font-style:italic;">
+        Z
+       </span>
+       is the
+       <a href="/wiki/Partition_function_(statistical_mechanics)" title="Partition function (statistical mechanics)">
+        partition function
+       </a>
+       . Again, it is the energy-like quantity
+       <a href="/wiki/KT_(energy)" title="KT (energy)">
+        <span class="texhtml mvar" style="font-style:italic;">
+         kT
+        </span>
+       </a>
+       that takes central importance.
+      </p>
+      <p>
+       Consequences of this include (in addition to the results for ideal gases above) the
+       <a href="/wiki/Arrhenius_equation" title="Arrhenius equation">
+        Arrhenius equation
+       </a>
+       in
+       <a href="/wiki/Chemical_kinetics" title="Chemical kinetics">
+        chemical kinetics
+       </a>
+       .
+      </p>
+      <h2>
+       <span class="mw-headline" id="Role_in_the_statistical_definition_of_entropy">
+        Role in the statistical definition of entropy
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Boltzmann_constant&amp;action=edit&amp;section=5" title="Edit section: Role in the statistical definition of entropy">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="hatnote navigation-not-searchable" role="note">
+       Further information:
+       <a href="/wiki/Entropy_(statistical_thermodynamics)" title="Entropy (statistical thermodynamics)">
+        Entropy (statistical thermodynamics)
+       </a>
+      </div>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:202px;">
+        <a class="image" href="/wiki/File:Zentralfriedhof_Vienna_-_Boltzmann.JPG">
+         <img alt="" class="thumbimage" data-file-height="2560" data-file-width="1920" height="267" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Zentralfriedhof_Vienna_-_Boltzmann.JPG/200px-Zentralfriedhof_Vienna_-_Boltzmann.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Zentralfriedhof_Vienna_-_Boltzmann.JPG/300px-Zentralfriedhof_Vienna_-_Boltzmann.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/63/Zentralfriedhof_Vienna_-_Boltzmann.JPG/400px-Zentralfriedhof_Vienna_-_Boltzmann.JPG 2x" width="200"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Zentralfriedhof_Vienna_-_Boltzmann.JPG" title="Enlarge">
+          </a>
+         </div>
+         Boltzmann's grave in the
+         <a class="mw-redirect" href="/wiki/Zentralfriedhof" title="Zentralfriedhof">
+          Zentralfriedhof
+         </a>
+         , Vienna, with bust and entropy formula.
+        </div>
+       </div>
+      </div>
+      <p>
+       In statistical mechanics, the
+       <a href="/wiki/Entropy" title="Entropy">
+        entropy
+       </a>
+       <span class="texhtml mvar" style="font-style:italic;">
+        S
+       </span>
+       of an
+       <a href="/wiki/Isolated_system" title="Isolated system">
+        isolated system
+       </a>
+       at
+       <a href="/wiki/Thermodynamic_equilibrium" title="Thermodynamic equilibrium">
+        thermodynamic equilibrium
+       </a>
+       is defined as the
+       <a href="/wiki/Natural_logarithm" title="Natural logarithm">
+        natural logarithm
+       </a>
+       of
+       <span class="texhtml mvar" style="font-style:italic;">
+        W
+       </span>
+       , the number of distinct microscopic states available to the system given the macroscopic constraints (such as a fixed total energy
+       <span class="texhtml mvar" style="font-style:italic;">
+        E
+       </span>
+       ):
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle S=k\,\ln W.}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mi>
+               S
+              </mi>
+              <mo>
+               =
+              </mo>
+              <mi>
+               k
+              </mi>
+              <mspace width="thinmathspace">
+              </mspace>
+              <mi>
+               ln
+              </mi>
+              <mo>
+               ⁡
+               <!-- ⁡ -->
+              </mo>
+              <mi>
+               W
+              </mi>
+              <mo>
+               .
+              </mo>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle S=k\,\ln W.}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="S=k\,\ln W." aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/bf29694d93d7686ada0fbc1b0df588978bbcef8b" style="vertical-align: -0.338ex; width:11.992ex; height:2.176ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       This equation, which relates the microscopic details, or microstates, of the system (via
+       <span class="texhtml mvar" style="font-style:italic;">
+        W
+       </span>
+       ) to its macroscopic state (via the entropy
+       <span class="texhtml mvar" style="font-style:italic;">
+        S
+       </span>
+       ), is the central idea of statistical mechanics. Such is its importance that it is inscribed on Boltzmann's tombstone.
+      </p>
+      <p>
+       The constant of proportionality
+       <span class="texhtml mvar" style="font-style:italic;">
+        k
+       </span>
+       serves to make the statistical mechanical entropy equal to the classical thermodynamic entropy of Clausius:
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle \Delta S=\int {\frac {{\rm {d}}Q}{T}}.}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mi mathvariant="normal">
+               Δ
+               <!-- Δ -->
+              </mi>
+              <mi>
+               S
+              </mi>
+              <mo>
+               =
+              </mo>
+              <mo>
+               ∫
+               <!-- ∫ -->
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mfrac>
+                <mrow>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mi mathvariant="normal">
+                    d
+                   </mi>
+                  </mrow>
+                 </mrow>
+                 <mi>
+                  Q
+                 </mi>
+                </mrow>
+                <mi>
+                 T
+                </mi>
+               </mfrac>
+              </mrow>
+              <mo>
+               .
+              </mo>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle \Delta S=\int {\frac {{\rm {d}}Q}{T}}.}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="\Delta S=\int {\frac {{\rm {d}}Q}{T}}." aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/763f502a6b24c250c24db5ee31d00ba51ae5f060" style="vertical-align: -2.338ex; width:13.728ex; height:5.843ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       One could choose instead a rescaled
+       <a class="mw-redirect" href="/wiki/Dimensionless" title="Dimensionless">
+        dimensionless
+       </a>
+       entropy in microscopic terms such that
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle {S'=\ln W},\quad \Delta S'=\int {\frac {\mathrm {d} Q}{kT}}.}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mrow class="MJX-TeXAtom-ORD">
+               <msup>
+                <mi>
+                 S
+                </mi>
+                <mo>
+                 ′
+                </mo>
+               </msup>
+               <mo>
+                =
+               </mo>
+               <mi>
+                ln
+               </mi>
+               <mo>
+                ⁡
+                <!-- ⁡ -->
+               </mo>
+               <mi>
+                W
+               </mi>
+              </mrow>
+              <mo>
+               ,
+              </mo>
+              <mspace width="1em">
+              </mspace>
+              <mi mathvariant="normal">
+               Δ
+               <!-- Δ -->
+              </mi>
+              <msup>
+               <mi>
+                S
+               </mi>
+               <mo>
+                ′
+               </mo>
+              </msup>
+              <mo>
+               =
+              </mo>
+              <mo>
+               ∫
+               <!-- ∫ -->
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mfrac>
+                <mrow>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mi mathvariant="normal">
+                   d
+                  </mi>
+                 </mrow>
+                 <mi>
+                  Q
+                 </mi>
+                </mrow>
+                <mrow>
+                 <mi>
+                  k
+                 </mi>
+                 <mi>
+                  T
+                 </mi>
+                </mrow>
+               </mfrac>
+              </mrow>
+              <mo>
+               .
+              </mo>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle {S'=\ln W},\quad \Delta S'=\int {\frac {\mathrm {d} Q}{kT}}.}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="{S'=\ln W},\quad \Delta S'=\int {\frac {\mathrm {d} Q}{kT}}." aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/845bc1395be5677f059c36eb9e42f9e7f328f3d2" style="vertical-align: -2.338ex; width:27.858ex; height:5.843ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       This is a more natural form and this rescaled entropy exactly corresponds to Shannon's subsequent
+       <a class="mw-redirect" href="/wiki/Information_entropy" title="Information entropy">
+        information entropy
+       </a>
+       .
+      </p>
+      <p>
+       The characteristic energy
+       <span class="texhtml mvar" style="font-style:italic;">
+        kT
+       </span>
+       is thus the energy required to increase the rescaled entropy by one
+       <a href="/wiki/Nat_(unit)" title="Nat (unit)">
+        nat
+       </a>
+       .
+      </p>
+      <h2>
+       <span class="mw-headline" id="Role_in_semiconductor_physics:_the_thermal_voltage">
+        Role in semiconductor physics: the thermal voltage
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Boltzmann_constant&amp;action=edit&amp;section=6" title="Edit section: Role in semiconductor physics: the thermal voltage">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       In
+       <a class="mw-redirect" href="/wiki/Semiconductors" title="Semiconductors">
+        semiconductors
+       </a>
+       , the
+       <a href="/wiki/Shockley_diode_equation" title="Shockley diode equation">
+        Shockley diode equation
+       </a>
+       —the relationship between the flow of
+       <a href="/wiki/Electric_current" title="Electric current">
+        electric current
+       </a>
+       and the
+       <a class="mw-redirect" href="/wiki/Electrostatic_potential" title="Electrostatic potential">
+        electrostatic potential
+       </a>
+       across a
+       <a href="/wiki/P%E2%80%93n_junction" title="P–n junction">
+        p–n junction
+       </a>
+       —depends on a characteristic voltage called the
+       <b>
+        thermal voltage
+       </b>
+       , denoted
+       <span class="texhtml">
+        <i>
+         V
+        </i>
+        <sub>
+         T
+        </sub>
+       </span>
+       . The thermal voltage depends on absolute temperature
+       <span class="texhtml mvar" style="font-style:italic;">
+        T
+       </span>
+       as
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle V_{\mathrm {T} }={kT \over q},}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <msub>
+               <mi>
+                V
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mrow class="MJX-TeXAtom-ORD">
+                 <mi mathvariant="normal">
+                  T
+                 </mi>
+                </mrow>
+               </mrow>
+              </msub>
+              <mo>
+               =
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mfrac>
+                <mrow>
+                 <mi>
+                  k
+                 </mi>
+                 <mi>
+                  T
+                 </mi>
+                </mrow>
+                <mi>
+                 q
+                </mi>
+               </mfrac>
+              </mrow>
+              <mo>
+               ,
+              </mo>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle V_{\mathrm {T} }={kT \over q},}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="V_{\mathrm {T} }={kT \over q}," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2ecdbbee5097db5129a6e5e4f8ed52c80004d522" style="vertical-align: -2.338ex; width:10.203ex; height:5.843ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       where
+       <span class="texhtml mvar" style="font-style:italic;">
+        q
+       </span>
+       is the magnitude of the
+       <a href="/wiki/Elementary_charge" title="Elementary charge">
+        electrical charge on the electron
+       </a>
+       with a value
+       <span class="nowrap">
+        <span class="sortkey" style="display:none">
+         6981160217662079999♠
+        </span>
+        1.602
+        <span style="margin-left:.25em;">
+         176
+        </span>
+        <span style="margin-left:.25em;">
+         6208
+        </span>
+        (98)
+        <span style="margin-left:0.25em;margin-right:0.15em;">
+         ×
+        </span>
+        10
+        <sup>
+         −19
+        </sup>
+        <a href="/wiki/Coulomb" title="Coulomb">
+         C
+        </a>
+       </span>
+       <sup class="reference" id="cite_ref-2014_CODATA_1-2">
+        <a href="#cite_note-2014_CODATA-1">
+         [1]
+        </a>
+       </sup>
+       and
+       <span class="texhtml mvar" style="font-style:italic;">
+        k
+       </span>
+       is the Boltzmann constant,
+       <span class="nowrap">
+        <span class="sortkey" style="display:none">
+         6977138064851999999♠
+        </span>
+        1.380
+        <span style="margin-left:.25em;">
+         648
+        </span>
+        <span style="margin-left:.25em;">
+         52
+        </span>
+        (79)
+        <span style="margin-left:0.25em;margin-right:0.15em;">
+         ×
+        </span>
+        10
+        <sup>
+         −23
+        </sup>
+        J/K
+       </span>
+       . In
+       <a href="/wiki/Electronvolt" title="Electronvolt">
+        electronvolts
+       </a>
+       , the Boltzmann constant is
+       <span class="nowrap">
+        <span class="sortkey" style="display:none">
+         6977138064839873726♠
+        </span>
+        8.617
+        <span style="margin-left:.25em;">
+         3303
+        </span>
+        (50)
+        <span style="margin-left:0.25em;margin-right:0.15em;">
+         ×
+        </span>
+        10
+        <sup>
+         −5
+        </sup>
+        eV/K
+       </span>
+       ,
+       <sup class="reference" id="cite_ref-2014_CODATA_1-3">
+        <a href="#cite_note-2014_CODATA-1">
+         [1]
+        </a>
+       </sup>
+       making it easy to calculate that at
+       <a href="/wiki/Room_temperature" title="Room temperature">
+        room temperature
+       </a>
+       (≈
+       <span class="nowrap">
+        <span class="sortkey" style="display:none">
+         7002300000000000000♠
+        </span>
+        300 K
+       </span>
+       ), the value of the thermal voltage is approximately 25.85 millivolts ≈
+       <span class="nowrap">
+        <span class="sortkey" style="display:none">
+         6998260000000000000♠
+        </span>
+        26 mV
+       </span>
+       .
+       <sup class="reference" id="cite_ref-8">
+        <a href="#cite_note-8">
+         [8]
+        </a>
+       </sup>
+       The thermal voltage is also important in plasmas and electrolyte solutions; in both cases it provides a measure of how much the spatial distribution of electrons or ions is affected by a boundary held at a fixed voltage.
+       <sup class="reference" id="cite_ref-Kirby_9-0">
+        <a href="#cite_note-Kirby-9">
+         [9]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-Tabeling_10-0">
+        <a href="#cite_note-Tabeling-10">
+         [10]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="History">
+        History
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Boltzmann_constant&amp;action=edit&amp;section=7" title="Edit section: History">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       Although Boltzmann first linked entropy and probability in 1877, it seems the relation was never expressed with a specific constant until
+       <a href="/wiki/Max_Planck" title="Max Planck">
+        Max Planck
+       </a>
+       first introduced
+       <span class="texhtml mvar" style="font-style:italic;">
+        k
+       </span>
+       , and gave a precise value for it (
+       <span class="nowrap">
+        <span class="sortkey" style="display:none">
+         6977134600000000000♠
+        </span>
+        1.346
+        <span style="margin-left:0.25em;margin-right:0.15em;">
+         ×
+        </span>
+        10
+        <sup>
+         −23
+        </sup>
+        J/K
+       </span>
+       , about 2.5% lower than today's figure), in his derivation of the
+       <a href="/wiki/Planck%27s_law" title="Planck's law">
+        law of black body radiation
+       </a>
+       in 1900–1901.
+       <sup class="reference" id="cite_ref-Planck01_11-0">
+        <a href="#cite_note-Planck01-11">
+         [11]
+        </a>
+       </sup>
+       Before 1900, equations involving Boltzmann factors were not written using the energies per molecule and the Boltzmann constant, but rather using a form of the
+       <a href="/wiki/Gas_constant" title="Gas constant">
+        gas constant
+       </a>
+       <span class="texhtml mvar" style="font-style:italic;">
+        R
+       </span>
+       , and macroscopic energies for macroscopic quantities of the substance. The iconic terse form of the equation
+       <span class="texhtml">
+        <i>
+         S
+        </i>
+        =
+        <i>
+         k
+        </i>
+        ln
+        <i>
+         W
+        </i>
+       </span>
+       on Boltzmann's tombstone is in fact due to Planck, not Boltzmann. Planck actually introduced it in the same work as his
+       <a href="/wiki/Planck_constant" title="Planck constant">
+        eponymous
+        <span class="texhtml mvar" style="font-style:italic;">
+         h
+        </span>
+       </a>
+       .
+       <sup class="reference" id="cite_ref-12">
+        <a href="#cite_note-12">
+         [12]
+        </a>
+       </sup>
+      </p>
+      <p>
+       In 1920, Planck wrote in his
+       <a href="/wiki/Nobel_Prize" title="Nobel Prize">
+        Nobel Prize
+       </a>
+       lecture:
+       <sup class="reference" id="cite_ref-PlanckNobel_13-0">
+        <a href="#cite_note-PlanckNobel-13">
+         [13]
+        </a>
+       </sup>
+      </p>
+      <blockquote class="templatequote">
+       <p>
+        This constant is often referred to as Boltzmann's constant, although, to my knowledge, Boltzmann himself never introduced it — a peculiar state of affairs, which can be explained by the fact that Boltzmann, as appears from his occasional utterances, never gave thought to the possibility of carrying out an exact measurement of the constant.
+       </p>
+      </blockquote>
+      <p>
+       This
+       <i>
+        "peculiar state of affairs"
+       </i>
+       is illustrated by reference to one of the great scientific debates of the time. There was considerable disagreement in the second half of the nineteenth century as to whether atoms and molecules were real or whether they were simply a
+       <a href="/wiki/Heuristic" title="Heuristic">
+        heuristic
+       </a>
+       tool for solving problems. There was no agreement whether
+       <i>
+        chemical
+       </i>
+       molecules, as measured by
+       <a class="mw-redirect" href="/wiki/Atomic_weight" title="Atomic weight">
+        atomic weights
+       </a>
+       , were the same as
+       <i>
+        physical
+       </i>
+       molecules, as measured by
+       <a href="/wiki/Kinetic_theory_of_gases" title="Kinetic theory of gases">
+        kinetic theory
+       </a>
+       . Planck's 1920 lecture continued:
+       <sup class="reference" id="cite_ref-PlanckNobel_13-1">
+        <a href="#cite_note-PlanckNobel-13">
+         [13]
+        </a>
+       </sup>
+      </p>
+      <blockquote class="templatequote">
+       <p>
+        Nothing can better illustrate the positive and hectic pace of progress which the art of experimenters has made over the past twenty years, than the fact that since that time, not only one, but a great number of methods have been discovered for measuring the mass of a molecule with practically the same accuracy as that attained for a planet.
+       </p>
+      </blockquote>
+      <p>
+       In 2013 the UK
+       <a href="/wiki/National_Physical_Laboratory_(United_Kingdom)" title="National Physical Laboratory (United Kingdom)">
+        National Physical Laboratory
+       </a>
+       used microwave and acoustic resonance measurements to determine the speed of sound of a monatomic gas in a triaxial ellipsoid chamber to determine a more accurate value for the constant as a part of the revision of the
+       <a href="/wiki/International_System_of_Units" title="International System of Units">
+        International System of Units
+       </a>
+       . The new value was calculated as
+       <span class="nowrap">
+        <span class="sortkey" style="display:none">
+         6977138065156000000♠
+        </span>
+        1.380
+        <span style="margin-left:.25em;">
+         651
+        </span>
+        <span style="margin-left:.25em;">
+         56
+        </span>
+        (98)
+        <span style="margin-left:0.25em;margin-right:0.15em;">
+         ×
+        </span>
+        10
+        <sup>
+         −23
+        </sup>
+        J⋅K
+        <sup>
+         −1
+        </sup>
+       </span>
+       . In 2016 the CODATA accepted value was
+       <span class="nowrap">
+        <span class="sortkey" style="display:none">
+         6977138064851999999♠
+        </span>
+        1.380
+        <span style="margin-left:.25em;">
+         648
+        </span>
+        <span style="margin-left:.25em;">
+         52
+        </span>
+        (79)
+        <span style="margin-left:0.25em;margin-right:0.15em;">
+         ×
+        </span>
+        10
+        <sup>
+         −23
+        </sup>
+        J⋅K
+        <sup>
+         −1
+        </sup>
+       </span>
+       and is expected to be accepted by the
+       <a href="/wiki/International_System_of_Units" title="International System of Units">
+        International System of Units
+       </a>
+       following a review.
+       <sup class="reference" id="cite_ref-14">
+        <a href="#cite_note-14">
+         [14]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Value_in_different_units">
+        Value in different units
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Boltzmann_constant&amp;action=edit&amp;section=8" title="Edit section: Value in different units">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="hatnote navigation-not-searchable" role="note">
+       See also:
+       <a class="mw-redirect" href="/wiki/New_SI_definitions" title="New SI definitions">
+        New SI definitions
+       </a>
+      </div>
+      <table class="wikitable">
+       <tr>
+        <th>
+         Values of
+         <span class="texhtml mvar" style="font-style:italic;">
+          k
+         </span>
+        </th>
+        <th>
+         Units
+        </th>
+        <th>
+         Comments
+        </th>
+       </tr>
+       <tr>
+        <td>
+         <span class="nowrap">
+          <span class="sortkey" style="display:none">
+           6977138064851999999♠
+          </span>
+          1.380
+          <span style="margin-left:.25em;">
+           648
+          </span>
+          <span style="margin-left:.25em;">
+           52
+          </span>
+          (79)
+          <span style="margin-left:0.25em;margin-right:0.15em;">
+           ×
+          </span>
+          10
+          <sup>
+           −23
+          </sup>
+         </span>
+        </td>
+        <td>
+         <a href="/wiki/Joule" title="Joule">
+          J
+         </a>
+         /
+         <a href="/wiki/Kelvin" title="Kelvin">
+          K
+         </a>
+        </td>
+        <td>
+         <a class="mw-redirect" href="/wiki/SI" title="SI">
+          SI
+         </a>
+         units, 2014
+         <a class="mw-redirect" href="/wiki/CODATA" title="CODATA">
+          CODATA
+         </a>
+         value, J/K = m
+         <sup>
+          2
+         </sup>
+         ⋅kg/(s
+         <sup>
+          2
+         </sup>
+         ⋅K) in SI base units
+         <sup class="reference" id="cite_ref-2014_CODATA_1-4">
+          <a href="#cite_note-2014_CODATA-1">
+           [1]
+          </a>
+         </sup>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <span class="nowrap">
+          <span class="sortkey" style="display:none">
+           6995861733030000000♠
+          </span>
+          8.617
+          <span style="margin-left:.25em;">
+           3303
+          </span>
+          (50)
+          <span style="margin-left:0.25em;margin-right:0.15em;">
+           ×
+          </span>
+          10
+          <sup>
+           −5
+          </sup>
+         </span>
+        </td>
+        <td>
+         <a href="/wiki/Electronvolt" title="Electronvolt">
+          eV
+         </a>
+         /K
+        </td>
+        <td>
+         2014
+         <a class="mw-redirect" href="/wiki/CODATA" title="CODATA">
+          CODATA
+         </a>
+         value
+         <sup class="reference" id="cite_ref-2014_CODATA_1-5">
+          <a href="#cite_note-2014_CODATA-1">
+           [1]
+          </a>
+         </sup>
+         <br/>
+         1
+         <a href="/wiki/Electronvolt" title="Electronvolt">
+          electronvolt
+         </a>
+         =
+         <a class="mw-redirect" href="/wiki/1_E-19_J" title="1 E-19 J">
+          <span class="nowrap">
+           <span class="sortkey" style="display:none">
+            6981160217662079999♠
+           </span>
+           1.602
+           <span style="margin-left:.25em;">
+            176
+           </span>
+           <span style="margin-left:.25em;">
+            6208
+           </span>
+           (98)
+           <span style="margin-left:0.25em;margin-right:0.15em;">
+            ×
+           </span>
+           10
+           <sup>
+            −19
+           </sup>
+           J
+          </span>
+         </a>
+         <sup class="reference" id="cite_ref-2014_CODATA_1-6">
+          <a href="#cite_note-2014_CODATA-1">
+           [1]
+          </a>
+         </sup>
+         <p>
+          <span class="texhtml">
+           <span class="sfrac nowrap" style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;">
+            <span style="display:block; line-height:1em; margin:0 0.1em;">
+             1
+            </span>
+            <span class="visualhide">
+             /
+            </span>
+            <span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;">
+             <i>
+              k
+             </i>
+            </span>
+           </span>
+          </span>
+          =
+          <span class="nowrap">
+           <span class="sortkey" style="display:none">
+            7022724297172886921♠
+           </span>
+           11
+           <span style="margin-left:.25em;">
+            604
+           </span>
+           .519(11) K/eV
+          </span>
+         </p>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <span class="nowrap">
+          <span class="sortkey" style="display:none">
+           7010208366120000000♠
+          </span>
+          2.083
+          <span style="margin-left:.25em;">
+           6612
+          </span>
+          (12)
+          <span style="margin-left:0.25em;margin-right:0.15em;">
+           ×
+          </span>
+          10
+          <sup>
+           10
+          </sup>
+         </span>
+        </td>
+        <td>
+         <a href="/wiki/Hertz" title="Hertz">
+          Hz
+         </a>
+         /K
+        </td>
+        <td>
+         2014
+         <a class="mw-redirect" href="/wiki/CODATA" title="CODATA">
+          CODATA
+         </a>
+         value
+         <sup class="reference" id="cite_ref-2014_CODATA_1-7">
+          <a href="#cite_note-2014_CODATA-1">
+           [1]
+          </a>
+         </sup>
+         <br/>
+         <span class="nowrap">
+          <span class="sortkey" style="display:none">
+           7000100000000000000♠
+          </span>
+          1 Hz
+         </span>
+         ⋅
+         <a href="/wiki/Planck_constant" title="Planck constant">
+          <span class="texhtml mvar" style="font-style:italic;">
+           h
+          </span>
+         </a>
+         =
+         <span class="nowrap">
+          <span class="sortkey" style="display:none">
+           6966662607004000000♠
+          </span>
+          6.626
+          <span style="margin-left:.25em;">
+           070
+          </span>
+          <span style="margin-left:.25em;">
+           040
+          </span>
+          (81)
+          <span style="margin-left:0.25em;margin-right:0.15em;">
+           ×
+          </span>
+          10
+          <sup>
+           −34
+          </sup>
+          J
+         </span>
+         <sup class="reference" id="cite_ref-2014_CODATA_1-8">
+          <a href="#cite_note-2014_CODATA-1">
+           [1]
+          </a>
+         </sup>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <span class="nowrap">
+          <span class="sortkey" style="display:none">
+           6994316681140000000♠
+          </span>
+          3.166
+          <span style="margin-left:.25em;">
+           8114
+          </span>
+          (29)
+          <span style="margin-left:0.25em;margin-right:0.15em;">
+           ×
+          </span>
+          10
+          <sup>
+           −6
+          </sup>
+         </span>
+        </td>
+        <td>
+         <a href="/wiki/Hartree" title="Hartree">
+          <span class="texhtml">
+           <i>
+            E
+           </i>
+           <sub>
+            H
+           </sub>
+          </span>
+         </a>
+         /K
+        </td>
+        <td>
+         <span class="texhtml">
+          <i>
+           E
+          </i>
+          <sub>
+           H
+          </sub>
+          = 2
+          <a href="/wiki/Rydberg_constant" title="Rydberg constant">
+           <i>
+            R
+           </i>
+           <sub>
+            ∞
+           </sub>
+          </a>
+          <i>
+           hc
+          </i>
+         </span>
+         =
+         <span class="nowrap">
+          <span class="sortkey" style="display:none">
+           6982435974465000000♠
+          </span>
+          4.359
+          <span style="margin-left:.25em;">
+           744
+          </span>
+          <span style="margin-left:.25em;">
+           650
+          </span>
+          (54)
+          <span style="margin-left:0.25em;margin-right:0.15em;">
+           ×
+          </span>
+          10
+          <sup>
+           −18
+          </sup>
+          J
+         </span>
+         <sup class="reference" id="cite_ref-2014_CODATA_1-9">
+          <a href="#cite_note-2014_CODATA-1">
+           [1]
+          </a>
+         </sup>
+         <br/>
+         =
+         <span class="nowrap">
+          <span class="sortkey" style="display:none">
+           7000657968392072900♠
+          </span>
+          6.579
+          <span style="margin-left:.25em;">
+           683
+          </span>
+          <span style="margin-left:.25em;">
+           920
+          </span>
+          <span style="margin-left:.25em;">
+           729
+          </span>
+          (33) Hz
+         </span>
+         ⋅
+         <i>
+          h
+         </i>
+         <sup class="reference" id="cite_ref-2014_CODATA_1-10">
+          <a href="#cite_note-2014_CODATA-1">
+           [1]
+          </a>
+         </sup>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <span class="nowrap">
+          <span class="sortkey" style="display:none">
+           7000100000000000000♠
+          </span>
+          1.0
+         </span>
+        </td>
+        <td>
+         Atomic units
+        </td>
+        <td>
+         by definition
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <span class="nowrap">
+          <span class="sortkey" style="display:none">
+           6984138064852000000♠
+          </span>
+          1.380
+          <span style="margin-left:.25em;">
+           648
+          </span>
+          <span style="margin-left:.25em;">
+           52
+          </span>
+          (79)
+          <span style="margin-left:0.25em;margin-right:0.15em;">
+           ×
+          </span>
+          10
+          <sup>
+           −16
+          </sup>
+         </span>
+        </td>
+        <td>
+         <a href="/wiki/Erg" title="Erg">
+          erg
+         </a>
+         /K
+        </td>
+        <td>
+         <a href="/wiki/Centimetre%E2%80%93gram%E2%80%93second_system_of_units" title="Centimetre–gram–second system of units">
+          CGS
+         </a>
+         system, 1
+         <a href="/wiki/Erg" title="Erg">
+          erg
+         </a>
+         =
+         <span class="nowrap">
+          <span class="sortkey" style="display:none">
+           6993100000000000000♠
+          </span>
+          1
+          <span style="margin-left:0.25em;margin-right:0.15em;">
+           ×
+          </span>
+          10
+          <sup>
+           −7
+          </sup>
+          J
+         </span>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <span class="nowrap">
+          <span class="sortkey" style="display:none">
+           6976329762300000000♠
+          </span>
+          3.297
+          <span style="margin-left:.25em;">
+           6230
+          </span>
+          (30)
+          <span style="margin-left:0.25em;margin-right:0.15em;">
+           ×
+          </span>
+          10
+          <sup>
+           −24
+          </sup>
+         </span>
+        </td>
+        <td>
+         <a href="/wiki/Calorie" title="Calorie">
+          cal
+         </a>
+         /K
+        </td>
+        <td>
+         1
+         <a class="mw-redirect" href="/wiki/Steam_table" title="Steam table">
+          steam table
+         </a>
+         <a href="/wiki/Calorie" title="Calorie">
+          calorie
+         </a>
+         =
+         <span class="nowrap">
+          <span class="sortkey" style="display:none">
+           7000418680000000000♠
+          </span>
+          4.1868 J
+         </span>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <span class="nowrap">
+          <span class="sortkey" style="display:none">
+           6976183201279999999♠
+          </span>
+          1.832
+          <span style="margin-left:.25em;">
+           0128
+          </span>
+          (17)
+          <span style="margin-left:0.25em;margin-right:0.15em;">
+           ×
+          </span>
+          10
+          <sup>
+           −24
+          </sup>
+         </span>
+        </td>
+        <td>
+         cal/
+         <a href="/wiki/Rankine_scale" title="Rankine scale">
+          °R
+         </a>
+        </td>
+        <td>
+         1
+         <a href="/wiki/Rankine_scale" title="Rankine scale">
+          degree Rankine
+         </a>
+         =
+         <span class="sfrac nowrap" style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;">
+          <span style="display:block; line-height:1em; margin:0 0.1em;">
+           5
+          </span>
+          <span class="visualhide">
+           /
+          </span>
+          <span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;">
+           9
+          </span>
+         </span>
+         K
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <span class="nowrap">
+          <span class="sortkey" style="display:none">
+           6976565730160000000♠
+          </span>
+          5.657
+          <span style="margin-left:.25em;">
+           3016
+          </span>
+          (51)
+          <span style="margin-left:0.25em;margin-right:0.15em;">
+           ×
+          </span>
+          10
+          <sup>
+           −24
+          </sup>
+         </span>
+        </td>
+        <td>
+         <a class="mw-redirect" href="/wiki/Foot-pound_force" title="Foot-pound force">
+          ft lb
+         </a>
+         /°R
+        </td>
+        <td>
+         1
+         <a class="mw-redirect" href="/wiki/Foot-pound_force" title="Foot-pound force">
+          foot-pound force
+         </a>
+         =
+         <span class="nowrap">
+          <span class="sortkey" style="display:none">
+           7000135581794833140♠
+          </span>
+          1.355
+          <span style="margin-left:.25em;">
+           817
+          </span>
+          <span style="margin-left:.25em;">
+           948
+          </span>
+          <span style="margin-left:.25em;">
+           331
+          </span>
+          <span style="margin-left:.25em;">
+           4004
+          </span>
+          J
+         </span>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <span class="nowrap">
+          <span class="sortkey" style="display:none">
+           6999695034760000000♠
+          </span>
+          0.695
+          <span style="margin-left:.25em;">
+           034
+          </span>
+          <span style="margin-left:.25em;">
+           76
+          </span>
+          (63)
+         </span>
+        </td>
+        <td>
+         <a href="/wiki/Wavenumber" title="Wavenumber">
+          cm
+          <sup>
+           −1
+          </sup>
+         </a>
+         /K
+        </td>
+        <td>
+         2010
+         <a class="mw-redirect" href="/wiki/CODATA" title="CODATA">
+          CODATA
+         </a>
+         value
+         <sup class="reference" id="cite_ref-2014_CODATA_1-11">
+          <a href="#cite_note-2014_CODATA-1">
+           [1]
+          </a>
+         </sup>
+         <br/>
+         1 cm
+         <sup>
+          −1
+         </sup>
+         ⋅
+         <span class="texhtml mvar" style="font-style:italic;">
+          hc
+         </span>
+         =
+         <span class="nowrap">
+          <span class="sortkey" style="display:none">
+           6977198644568300000♠
+          </span>
+          1.986
+          <span style="margin-left:.25em;">
+           445
+          </span>
+          <span style="margin-left:.25em;">
+           683
+          </span>
+          (87)
+          <span style="margin-left:0.25em;margin-right:0.15em;">
+           ×
+          </span>
+          10
+          <sup>
+           −23
+          </sup>
+          J
+         </span>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <span class="nowrap">
+          <span class="sortkey" style="display:none">
+           6997198720409999999♠
+          </span>
+          0.001
+          <span style="margin-left:.25em;">
+           987
+          </span>
+          <span style="margin-left:.25em;">
+           2041
+          </span>
+          (18)
+         </span>
+        </td>
+        <td>
+         kcal/(
+         <a href="/wiki/Mole_(unit)" title="Mole (unit)">
+          mol
+         </a>
+         ⋅K)
+        </td>
+        <td>
+         per mole form often used in statistical mechanics—using thermochemical calorie = 4.184 joule
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <span class="nowrap">
+          <span class="sortkey" style="display:none">
+           6997831446210000000♠
+          </span>
+          0.008
+          <span style="margin-left:.25em;">
+           314
+          </span>
+          <span style="margin-left:.25em;">
+           4621
+          </span>
+          (75)
+         </span>
+        </td>
+        <td>
+         kJ/(mol⋅K)
+        </td>
+        <td>
+         per mole form often used in statistical mechanics
+        </td>
+       </tr>
+       <tr>
+        <td>
+         4.10
+        </td>
+        <td>
+         pN⋅nm
+        </td>
+        <td>
+         <span class="texhtml mvar" style="font-style:italic;">
+          kT
+         </span>
+         in piconewton nanometer at
+         <span class="nowrap">
+          <span class="sortkey" style="display:none">
+           7002297150000000000♠
+          </span>
+          24 °C
+         </span>
+         , used in biophysics
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <span class="nowrap">
+          <span class="sortkey" style="display:none">
+           2997771400832200000♠
+          </span>
+          −228.599
+          <span style="margin-left:.25em;">
+           1678
+          </span>
+          (40)
+         </span>
+        </td>
+        <td>
+         dBW/(K⋅Hz)
+        </td>
+        <td>
+         in
+         <a href="/wiki/Decibel_watt" title="Decibel watt">
+          decibel watts
+         </a>
+         , used in telecommunications (see
+         <a href="/wiki/Johnson%E2%80%93Nyquist_noise" title="Johnson–Nyquist noise">
+          Johnson–Nyquist noise
+         </a>
+         )
+        </td>
+       </tr>
+       <tr>
+        <td>
+         1.442 695 041...
+        </td>
+        <td>
+         Sh
+        </td>
+        <td>
+         in
+         <a href="/wiki/Shannon_(unit)" title="Shannon (unit)">
+          shannons
+         </a>
+         (logarithm base 2), used in
+         <a class="mw-redirect" href="/wiki/Information_entropy" title="Information entropy">
+          information entropy
+         </a>
+         (exact value
+         <span class="sfrac nowrap" style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;">
+          <span style="display:block; line-height:1em; margin:0 0.1em;">
+           1
+          </span>
+          <span class="visualhide">
+           /
+          </span>
+          <span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;">
+           ln(2)
+          </span>
+         </span>
+         )
+        </td>
+       </tr>
+       <tr>
+        <td>
+         1
+        </td>
+        <td>
+         <a href="/wiki/Nat_(unit)" title="Nat (unit)">
+          nat
+         </a>
+        </td>
+        <td>
+         in nats (logarithm base
+         <span class="texhtml mvar" style="font-style:italic;">
+          e
+         </span>
+         ), used in
+         <a class="mw-redirect" href="/wiki/Information_entropy" title="Information entropy">
+          information entropy
+         </a>
+         (see Planck units, below)
+        </td>
+       </tr>
+      </table>
+      <p>
+       Since
+       <span class="texhtml mvar" style="font-style:italic;">
+        k
+       </span>
+       is a
+       <a href="/wiki/Physical_constant" title="Physical constant">
+        physical constant
+       </a>
+       of proportionality between temperature and energy, its numerical value depends on the choice of units for energy and temperature. The small numerical value of the Boltzmann constant in
+       <a class="mw-redirect" href="/wiki/SI" title="SI">
+        SI
+       </a>
+       units means a change in temperature by
+       <a href="/wiki/Kelvin" title="Kelvin">
+        1 K
+       </a>
+       only changes a particle's energy by a small amount. A change of
+       <span class="nowrap">
+        <span class="sortkey" style="display:none">
+         7002274149999999999♠
+        </span>
+        1
+        <a href="/wiki/Celsius" title="Celsius">
+         °C
+        </a>
+       </span>
+       is defined to be the same as a change of
+       <span class="nowrap">
+        <span class="sortkey" style="display:none">
+         7000100000000000000♠
+        </span>
+        1 K
+       </span>
+       . The characteristic energy
+       <span class="texhtml mvar" style="font-style:italic;">
+        kT
+       </span>
+       is a term encountered in many physical relationships.
+      </p>
+      <p>
+       The Boltzmann constant sets up a relationship between wavelength and temperature (dividing
+       <i>
+        hc
+       </i>
+       /
+       <i>
+        k
+       </i>
+       by a wavelength gives a temperature) with one micrometer being related to 14 387.770 K, and also a relationship between voltage and temperature (multiplying the voltage by
+       <i>
+        k
+       </i>
+       in units of eV/K) with one volt being related to 11 604.519 K. The ratio of these two temperatures, 14 387.770 K/11 604.519 K ≈ 1.239842, is the numerical value of
+       <i>
+        hc
+       </i>
+       in units of eV⋅μm.
+      </p>
+      <h3>
+       <span class="mw-headline" id="Planck_units">
+        Planck units
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Boltzmann_constant&amp;action=edit&amp;section=9" title="Edit section: Planck units">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       The Boltzmann constant provides a mapping from this characteristic microscopic energy
+       <span class="texhtml mvar" style="font-style:italic;">
+        E
+       </span>
+       to the macroscopic temperature scale
+       <span class="texhtml">
+        <i>
+         T
+        </i>
+        =
+        <span class="sfrac nowrap" style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;">
+         <span style="display:block; line-height:1em; margin:0 0.1em;">
+          <i>
+           E
+          </i>
+         </span>
+         <span class="visualhide">
+          /
+         </span>
+         <span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;">
+          <i>
+           k
+          </i>
+         </span>
+        </span>
+       </span>
+       . In physics research another definition is often encountered in setting
+       <span class="texhtml mvar" style="font-style:italic;">
+        k
+       </span>
+       to unity, resulting in the
+       <a href="/wiki/Planck_units" title="Planck units">
+        Planck units
+       </a>
+       or
+       <a href="/wiki/Natural_units" title="Natural units">
+        natural units
+       </a>
+       for temperature and energy. In this context temperature is measured effectively in units of energy and the Boltzmann constant is not explicitly needed.
+       <sup class="reference" id="cite_ref-15">
+        <a href="#cite_note-15">
+         [15]
+        </a>
+       </sup>
+      </p>
+      <p>
+       The equipartition formula for the energy associated with each classical degree of freedom then becomes
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle E_{\mathrm {dof} }={\tfrac {1}{2}}T\ }" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <msub>
+               <mi>
+                E
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mrow class="MJX-TeXAtom-ORD">
+                 <mi mathvariant="normal">
+                  d
+                 </mi>
+                 <mi mathvariant="normal">
+                  o
+                 </mi>
+                 <mi mathvariant="normal">
+                  f
+                 </mi>
+                </mrow>
+               </mrow>
+              </msub>
+              <mo>
+               =
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mstyle displaystyle="false" scriptlevel="0">
+                <mfrac>
+                 <mn>
+                  1
+                 </mn>
+                 <mn>
+                  2
+                 </mn>
+                </mfrac>
+               </mstyle>
+              </mrow>
+              <mi>
+               T
+              </mi>
+              <mtext>
+              </mtext>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle E_{\mathrm {dof} }={\tfrac {1}{2}}T\ }
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="{\displaystyle E_{\mathrm {dof} }={\tfrac {1}{2}}T\ }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/86897524e5367cce2aca3ec46418dc40a6b51286" style="vertical-align: -1.171ex; width:11.269ex; height:3.509ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       The use of natural units simplifies many physical relationships; in this form the definition of thermodynamic entropy coincides with the form of
+       <a class="mw-redirect" href="/wiki/Information_entropy" title="Information entropy">
+        information entropy
+       </a>
+       :
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle S=-\sum P_{i}\ln P_{i}.}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mi>
+               S
+              </mi>
+              <mo>
+               =
+              </mo>
+              <mo>
+               −
+               <!-- − -->
+              </mo>
+              <mo>
+               ∑
+               <!-- ∑ -->
+              </mo>
+              <msub>
+               <mi>
+                P
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 i
+                </mi>
+               </mrow>
+              </msub>
+              <mi>
+               ln
+              </mi>
+              <mo>
+               ⁡
+               <!-- ⁡ -->
+              </mo>
+              <msub>
+               <mi>
+                P
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 i
+                </mi>
+               </mrow>
+              </msub>
+              <mo>
+               .
+              </mo>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle S=-\sum P_{i}\ln P_{i}.}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="S=-\sum P_{i}\ln P_{i}." aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/74fe470f615111497881f199c899f05bc38efd18" style="vertical-align: -1.338ex; width:18.479ex; height:3.843ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       where
+       <span class="texhtml mvar" style="font-style:italic;">
+        P
+        <sub>
+         i
+        </sub>
+       </span>
+       is the probability of each
+       <a href="/wiki/Microstate_(statistical_mechanics)" title="Microstate (statistical mechanics)">
+        microstate
+       </a>
+       .
+      </p>
+      <p>
+       The value chosen for a unit of the
+       <a href="/wiki/Planck_temperature" title="Planck temperature">
+        Planck temperature
+       </a>
+       is that corresponding to the energy of the
+       <a href="/wiki/Planck_mass" title="Planck mass">
+        Planck mass
+       </a>
+       or
+       <span class="nowrap">
+        <span class="sortkey" style="display:none">
+         7032141680800000000♠
+        </span>
+        1.416
+        <span style="margin-left:.25em;">
+         808
+        </span>
+        (33)
+        <span style="margin-left:0.25em;margin-right:0.15em;">
+         ×
+        </span>
+        10
+        <sup>
+         32
+        </sup>
+        K
+       </span>
+       .
+       <sup class="reference" id="cite_ref-2014_CODATA_1-12">
+        <a href="#cite_note-2014_CODATA-1">
+         [1]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="See_also">
+        See also
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Boltzmann_constant&amp;action=edit&amp;section=10" title="Edit section: See also">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a class="mw-redirect" href="/wiki/CODATA_2018" title="CODATA 2018">
+         CODATA 2018
+        </a>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="References">
+        References
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Boltzmann_constant&amp;action=edit&amp;section=11" title="Edit section: References">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="reflist" style="list-style-type: decimal;">
+       <div class="mw-references-wrap mw-references-columns">
+        <ol class="references">
+         <li id="cite_note-2014_CODATA-1">
+          <span class="mw-cite-backlink">
+           ^
+           <a href="#cite_ref-2014_CODATA_1-0">
+            <sup>
+             <i>
+              <b>
+               a
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-2014_CODATA_1-1">
+            <sup>
+             <i>
+              <b>
+               b
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-2014_CODATA_1-2">
+            <sup>
+             <i>
+              <b>
+               c
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-2014_CODATA_1-3">
+            <sup>
+             <i>
+              <b>
+               d
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-2014_CODATA_1-4">
+            <sup>
+             <i>
+              <b>
+               e
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-2014_CODATA_1-5">
+            <sup>
+             <i>
+              <b>
+               f
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-2014_CODATA_1-6">
+            <sup>
+             <i>
+              <b>
+               g
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-2014_CODATA_1-7">
+            <sup>
+             <i>
+              <b>
+               h
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-2014_CODATA_1-8">
+            <sup>
+             <i>
+              <b>
+               i
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-2014_CODATA_1-9">
+            <sup>
+             <i>
+              <b>
+               j
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-2014_CODATA_1-10">
+            <sup>
+             <i>
+              <b>
+               k
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-2014_CODATA_1-11">
+            <sup>
+             <i>
+              <b>
+               l
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-2014_CODATA_1-12">
+            <sup>
+             <i>
+              <b>
+               m
+              </b>
+             </i>
+            </sup>
+           </a>
+          </span>
+          <span class="reference-text">
+           Barry N. Taylor of the Data Center in close collaboration with Peter J. Mohr of the Physical Measurement Laboratory's Atomic Physics Division, Termed the "2014 CODATA recommended values," they are generally recognized worldwide for use in all fields of science and technology. The values became available on 25 June 2015 and replaced the 2010 CODATA set. They are based on all of the data available through 31 December 2014. Available:
+           <a class="external text" href="http://physics.nist.gov/cgi-bin/cuu/Value?k" rel="nofollow">
+            http://physics.nist.gov
+           </a>
+          </span>
+         </li>
+         <li id="cite_note-Feynman1Ch39-10-2">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-Feynman1Ch39-10_2-0">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation book">
+            Richard Feynman (1970).
+            <a class="external text" href="http://www.feynmanlectures.caltech.edu/I_39.html" rel="nofollow">
+             <i>
+              The Feynman Lectures on Physics Vol I
+             </i>
+            </a>
+            . Addison Wesley Longman.
+            <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+             ISBN
+            </a>
+            <a href="/wiki/Special:BookSources/978-0-201-02115-8" title="Special:BookSources/978-0-201-02115-8">
+             978-0-201-02115-8
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Feynman+Lectures+on+Physics+Vol+I&amp;rft.pub=Addison+Wesley+Longman&amp;rft.date=1970&amp;rft.isbn=978-0-201-02115-8&amp;rft.au=Richard+Feynman&amp;rft_id=http%3A%2F%2Fwww.feynmanlectures.caltech.edu%2FI_39.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABoltzmann+constant">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-3">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-3">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            Wood, B. (3–4 November 2014).
+            <a class="external text" href="http://www.bipm.org/cc/TGFC/Allowed/Minutes/CODATA_Minutes_14-BIPM-public.pdf#page=7" rel="nofollow">
+             "Report on the Meeting of the CODATA Task Group on Fundamental Constants"
+            </a>
+            <span style="font-size:85%;">
+             (PDF)
+            </span>
+            .
+            <a class="mw-redirect" href="/wiki/BIPM" title="BIPM">
+             BIPM
+            </a>
+            . p. 7.
+            <q>
+             [BIPM director Martin] Milton responded to a question about what would happen if ... the CIPM or the CGPM voted not to move forward with the redefinition of the SI. He responded that he felt that by that time the decision to move forward should be seen as a foregone conclusion.
+            </q>
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Report+on+the+Meeting+of+the+CODATA+Task+Group+on+Fundamental+Constants&amp;rft.place=BIPM&amp;rft.pages=7&amp;rft.date=2014-11-03%2F2014-11-04&amp;rft.aulast=Wood&amp;rft.aufirst=B.&amp;rft_id=http%3A%2F%2Fwww.bipm.org%2Fcc%2FTGFC%2FAllowed%2FMinutes%2FCODATA_Minutes_14-BIPM-public.pdf%23page%3D7&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABoltzmann+constant">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-Minutes2014-4">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-Minutes2014_4-0">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation conference">
+            Milton, Martin (14 November 2016).
+            <a class="external text" href="http://www.sim-metrologia.org.br/docs/2016Presentations/BIPM%202016.pdf#page=10" rel="nofollow">
+             <i>
+              Highlights in the work of the BIPM in 2016
+             </i>
+            </a>
+            <span style="font-size:85%;">
+             (PDF)
+            </span>
+            .
+            <a class="external text" href="http://www.sim-metrologia.org.br/docs/2016Presentations/" rel="nofollow">
+             SIM XXII General Assembly
+            </a>
+            . Montevideo, Uruguay. p. 10.
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=conference&amp;rft.btitle=Highlights+in+the+work+of+the+BIPM+in+2016&amp;rft.place=Montevideo%2C+Uruguay&amp;rft.pages=10&amp;rft.date=2016-11-14&amp;rft.aulast=Milton&amp;rft.aufirst=Martin&amp;rft_id=http%3A%2F%2Fwww.sim-metrologia.org.br%2Fdocs%2F2016Presentations%2FBIPM%25202016.pdf%23page%3D10&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABoltzmann+constant">
+            <span style="display:none;">
+            </span>
+           </span>
+           The conference runs from 13–16 November; the redefinition is scheduled for the morning of the last day.
+          </span>
+         </li>
+         <li id="cite_note-draft-5">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-draft_5-0">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            Mills, Ian (29 September 2010).
+            <a class="external text" href="http://www.bipm.org/utils/en/pdf/si_brochure_draft_ch2.pdf" rel="nofollow">
+             "Draft Chapter 2 for SI Brochure, following redefinitions of the base units"
+            </a>
+            <span style="font-size:85%;">
+             (PDF)
+            </span>
+            . CCU
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              2011-01-01
+             </span>
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Draft+Chapter+2+for+SI+Brochure%2C+following+redefinitions+of+the+base+units&amp;rft.pub=CCU&amp;rft.date=2010-09-29&amp;rft.aulast=Mills&amp;rft.aufirst=Ian&amp;rft_id=http%3A%2F%2Fwww.bipm.org%2Futils%2Fen%2Fpdf%2Fsi_brochure_draft_ch2.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABoltzmann+constant">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-codata_2017-6">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-codata_2017_6-0">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Newell, David B.; Cabiati, F.; Fischer, J.; Fujii, K.; Karshenboim, S. G.; Margolis, H. S.; de Mirandés, E.; Mohr, P. J.; Nez, F.; Pachucki, K.; Quinn, T. J.; Taylor, B. N.; Wang, M.; Wood, B. M.; Zhang, Z.; et al. (Committee on Data for Science and Technology (CODATA) Task Group on Fundamental Constants (TGFC)) (20 October 2017).
+            <a class="external text" href="http://iopscience.iop.org/article/10.1088/1681-7575/aa950a/pdf" rel="nofollow">
+             "The CODATA 2017 Values of
+             <i>
+              h
+             </i>
+             ,
+             <i>
+              e
+             </i>
+             ,
+             <i>
+              k
+             </i>
+             , and
+             <i>
+              N
+             </i>
+             <sub>
+              A
+             </sub>
+             for the Revision of the SI"
+            </a>
+            .
+            <i>
+             Metrologia (in press)
+            </i>
+            .
+            <a href="/wiki/Institute_of_Physics" title="Institute of Physics">
+             Institute of Physics
+            </a>
+            .
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <span class="plainlinks">
+             <a class="external text" href="//doi.org/10.1088%2F1681-7575%2Faa950a" rel="nofollow">
+              10.1088/1681-7575/aa950a
+             </a>
+             <img alt="Freely accessible" data-file-height="813" data-file-width="512" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" title="Freely accessible" width="9"/>
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Metrologia+%28in+press%29&amp;rft.atitle=The+CODATA+2017+Values+of+h%2C+e%2C+k%2C+and+N%3Csub%3EA%3C%2Fsub%3E+for+the+Revision+of+the+SI&amp;rft.date=2017-10-20&amp;rft_id=info%3Adoi%2F10.1088%2F1681-7575%2Faa950a&amp;rft.aulast=Newell&amp;rft.aufirst=David+B.&amp;rft.au=Cabiati%2C+F.&amp;rft.au=Fischer%2C+J.&amp;rft.au=Fujii%2C+K.&amp;rft.au=Karshenboim%2C+S.+G.&amp;rft.au=Margolis%2C+H.+S.&amp;rft.au=de+Mirand%C3%A9s%2C+E.&amp;rft.au=Mohr%2C+P.+J.&amp;rft.au=Nez%2C+F.&amp;rft.au=Pachucki%2C+K.&amp;rft.au=Quinn%2C+T.+J.&amp;rft.au=Taylor%2C+B.+N.&amp;rft.au=Wang%2C+M.&amp;rft.au=Wood%2C+B.+M.&amp;rft.au=Zhang%2C+Z.&amp;rft_id=http%3A%2F%2Fiopscience.iop.org%2Farticle%2F10.1088%2F1681-7575%2Faa950a%2Fpdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABoltzmann+constant">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-cipm_106-7">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-cipm_106_7-0">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation conference">
+            <a class="external text" href="https://www.bipm.org/utils/en/pdf/CIPM/CIPM2017-EN.pdf?page=23" rel="nofollow">
+             <i>
+              Proceedings of the 106th meeting
+             </i>
+            </a>
+            <span style="font-size:85%;">
+             (PDF)
+            </span>
+            .
+            <a class="external text" href="https://www.bipm.org/en/committees/cipm/meeting/106.html" rel="nofollow">
+             International Committee for Weights and Measures
+            </a>
+            . Sèvres. 16–17 and 20 October 2017. pp. 17–23.
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=conference&amp;rft.btitle=Proceedings+of+the+106th+meeting&amp;rft.place=S%C3%A8vres&amp;rft.pages=17-23&amp;rft_id=https%3A%2F%2Fwww.bipm.org%2Futils%2Fen%2Fpdf%2FCIPM%2FCIPM2017-EN.pdf%3Fpage%3D23&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABoltzmann+constant">
+            <span style="display:none;">
+            </span>
+           </span>
+           <span class="error citation-comment" style="font-size:100%">
+            Check date values in:
+            <code style="color:inherit; border:inherit; padding:inherit;">
+             |date=
+            </code>
+            (
+            <a href="/wiki/Help:CS1_errors#bad_date" title="Help:CS1 errors">
+             help
+            </a>
+            )
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-8">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-8">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.google.com/search?hl=en&amp;q=300+kelvin+*+k+/+elementary+charge+in+millivolts" rel="nofollow">
+             "300 kelvin * k / elementary charge in millivolts - Google Search"
+            </a>
+            .
+            <i>
+             www.google.com
+            </i>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.google.com&amp;rft.atitle=300+kelvin+%2A+k+%2F+elementary+charge+in+millivolts+-+Google+Search&amp;rft_id=http%3A%2F%2Fwww.google.com%2Fsearch%3Fhl%3Den%26q%3D300%2Bkelvin%2B%2A%2Bk%2B%2F%2Belementary%2Bcharge%2Bin%2Bmillivolts&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABoltzmann+constant">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-Kirby-9">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-Kirby_9-0">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation book">
+            Kirby, Brian J. (2009).
+            <a class="external text" href="http://www.kirbyresearch.com/textbook" rel="nofollow">
+             <i>
+              Micro- and Nanoscale Fluid Mechanics: Transport in Microfluidic Devices
+             </i>
+            </a>
+            . Cambridge University Press.
+            <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+             ISBN
+            </a>
+            <a href="/wiki/Special:BookSources/0-521-11903-0" title="Special:BookSources/0-521-11903-0">
+             0-521-11903-0
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Micro-+and+Nanoscale+Fluid+Mechanics%3A+Transport+in+Microfluidic+Devices&amp;rft.pub=Cambridge+University+Press&amp;rft.date=2009&amp;rft.isbn=0-521-11903-0&amp;rft.aulast=Kirby&amp;rft.aufirst=Brian+J.&amp;rft_id=http%3A%2F%2Fwww.kirbyresearch.com%2Ftextbook&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABoltzmann+constant">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-Tabeling-10">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-Tabeling_10-0">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation book">
+            Tabeling, Patrick (2006).
+            <i>
+             Introduction to Microfluidics
+            </i>
+            . Oxford University Press.
+            <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+             ISBN
+            </a>
+            <a href="/wiki/Special:BookSources/0-19-856864-9" title="Special:BookSources/0-19-856864-9">
+             0-19-856864-9
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Introduction+to+Microfluidics&amp;rft.pub=Oxford+University+Press&amp;rft.date=2006&amp;rft.isbn=0-19-856864-9&amp;rft.aulast=Tabeling&amp;rft.aufirst=Patrick&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABoltzmann+constant">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-Planck01-11">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-Planck01_11-0">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation" id="CITEREFPlanck1901">
+            <a href="/wiki/Max_Planck" title="Max Planck">
+             Planck, Max
+            </a>
+            (1901),
+            <a class="external text" href="https://web.archive.org/web/20120610124128/http://www.physik.uni-augsburg.de/annalen/history/historic-papers/1901_309_553-563.pdf" rel="nofollow">
+             "Ueber das Gesetz der Energieverteilung im Normalspectrum"
+            </a>
+            <span style="font-size:85%;">
+             (PDF)
+            </span>
+            ,
+            <i>
+             <a href="/wiki/Annalen_der_Physik" title="Annalen der Physik">
+              Ann. Phys.
+             </a>
+            </i>
+            ,
+            <b>
+             309
+            </b>
+            (3): 553–63,
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/1901AnP...309..553P" rel="nofollow">
+             1901AnP...309..553P
+            </a>
+            ,
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1002%2Fandp.19013090310" rel="nofollow">
+             10.1002/andp.19013090310
+            </a>
+            , archived from
+            <a class="external text" href="http://www.physik.uni-augsburg.de/annalen/history/historic-papers/1901_309_553-563.pdf" rel="nofollow">
+             the original
+            </a>
+            <span style="font-size:85%;">
+             (PDF)
+            </span>
+            on 10 June 2012
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Ann.+Phys.&amp;rft.atitle=Ueber+das+Gesetz+der+Energieverteilung+im+Normalspectrum&amp;rft.volume=309&amp;rft.issue=3&amp;rft.pages=553-63&amp;rft.date=1901&amp;rft_id=info%3Adoi%2F10.1002%2Fandp.19013090310&amp;rft_id=info%3Abibcode%2F1901AnP...309..553P&amp;rft.aulast=Planck&amp;rft.aufirst=Max&amp;rft_id=http%3A%2F%2Fwww.physik.uni-augsburg.de%2Fannalen%2Fhistory%2Fhistoric-papers%2F1901_309_553-563.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABoltzmann+constant">
+            <span style="display:none;">
+            </span>
+           </span>
+           . English translation:
+           <cite class="citation web">
+            <a class="external text" href="https://web.archive.org/web/20081217042934/http://dbhs.wvusd.k12.ca.us/webdocs/Chem-History/Planck-1901/Planck-1901.html" rel="nofollow">
+             "On the Law of Distribution of Energy in the Normal Spectrum"
+            </a>
+            . Archived from
+            <a class="external text" href="http://dbhs.wvusd.k12.ca.us/webdocs/Chem-History/Planck-1901/Planck-1901.html" rel="nofollow">
+             the original
+            </a>
+            on 2008-12-17.
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=On+the+Law+of+Distribution+of+Energy+in+the+Normal+Spectrum&amp;rft_id=http%3A%2F%2Fdbhs.wvusd.k12.ca.us%2Fwebdocs%2FChem-History%2FPlanck-1901%2FPlanck-1901.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABoltzmann+constant">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-12">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-12">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Duplantier, Bertrand (2005).
+            <a class="external text" href="http://www.bourbaphy.fr/duplantier2.pdf" rel="nofollow">
+             "Le mouvement brownien, 'divers et ondoyant
+             <span style="padding-right:0.2em;">
+              '
+             </span>
+             "
+            </a>
+            [Brownian motion, 'diverse and undulating']
+            <span style="font-size:85%;">
+             (PDF)
+            </span>
+            .
+            <i>
+             Séminaire Poincaré 1
+            </i>
+            (in French): 155–212.
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=S%C3%A9minaire+Poincar%C3%A9+1&amp;rft.atitle=Le+mouvement+brownien%2C+%27divers+et+ondoyant%27&amp;rft.pages=155-212&amp;rft.date=2005&amp;rft.aulast=Duplantier&amp;rft.aufirst=Bertrand&amp;rft_id=http%3A%2F%2Fwww.bourbaphy.fr%2Fduplantier2.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABoltzmann+constant">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-PlanckNobel-13">
+          <span class="mw-cite-backlink">
+           ^
+           <a href="#cite_ref-PlanckNobel_13-0">
+            <sup>
+             <i>
+              <b>
+               a
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-PlanckNobel_13-1">
+            <sup>
+             <i>
+              <b>
+               b
+              </b>
+             </i>
+            </sup>
+           </a>
+          </span>
+          <span class="reference-text">
+           <cite class="citation" id="CITEREFPlanck1920">
+            <a href="/wiki/Max_Planck" title="Max Planck">
+             Planck, Max
+            </a>
+            (2 June 1920),
+            <a class="external text" href="http://nobelprize.org/nobel_prizes/physics/laureates/1918/planck-lecture.html" rel="nofollow">
+             <i>
+              The Genesis and Present State of Development of the Quantum Theory (Nobel Lecture)
+             </i>
+            </a>
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Genesis+and+Present+State+of+Development+of+the+Quantum+Theory+%28Nobel+Lecture%29&amp;rft.date=1920-06-02&amp;rft.aulast=Planck&amp;rft.aufirst=Max&amp;rft_id=http%3A%2F%2Fnobelprize.org%2Fnobel_prizes%2Fphysics%2Flaureates%2F1918%2Fplanck-lecture.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABoltzmann+constant">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-14">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-14">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            de Podesta, Michael; Underwood, Robin; et al. (11 July 2013).
+            <a class="external text" href="https://www.researchgate.net/profile/Graham_Machin/publication/258263470_A_low-uncertainty_measurement_of_the_Boltzmann_constant/links/546a39f50cf2397f783014c5.pdf" rel="nofollow">
+             "A low-uncertainty measurement of the Boltzmann constant"
+            </a>
+            <span style="font-size:85%;">
+             (PDF)
+            </span>
+            .
+            <i>
+             Metrologia
+            </i>
+            .
+            <b>
+             50
+            </b>
+            (4): 354–375.
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/2013Metro..50..354D" rel="nofollow">
+             2013Metro..50..354D
+            </a>
+            .
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1088%2F0026-1394%2F50%2F4%2F354" rel="nofollow">
+             10.1088/0026-1394/50/4/354
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Metrologia&amp;rft.atitle=A+low-uncertainty+measurement+of+the+Boltzmann+constant&amp;rft.volume=50&amp;rft.issue=4&amp;rft.pages=354-375&amp;rft.date=2013-07-11&amp;rft_id=info%3Adoi%2F10.1088%2F0026-1394%2F50%2F4%2F354&amp;rft_id=info%3Abibcode%2F2013Metro..50..354D&amp;rft.aulast=de+Podesta&amp;rft.aufirst=Michael&amp;rft.au=Underwood%2C+Robin&amp;rft.au=Sutton%2C+Gavin&amp;rft.au=Morantz%2C+Paul&amp;rft.au=Harris%2C+Peter&amp;rft.au=Mark%2C+Darren+F.&amp;rft.au=Stuart%2C+Finlay+M.&amp;rft.au=Vargha%2C+Gergely&amp;rft.au=Machin%2C+Graham&amp;rft_id=https%3A%2F%2Fwww.researchgate.net%2Fprofile%2FGraham_Machin%2Fpublication%2F258263470_A_low-uncertainty_measurement_of_the_Boltzmann_constant%2Flinks%2F546a39f50cf2397f783014c5.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABoltzmann+constant">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-15">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-15">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation" id="CITEREFKalinin,_MKononogov,_S2005">
+            Kalinin, M; Kononogov, S (2005), "Boltzmann's Constant, the Energy Meaning of Temperature, and Thermodynamic Irreversibility",
+            <i>
+             Measurement Techniques
+            </i>
+            ,
+            <b>
+             48
+            </b>
+            (7): 632–36,
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1007%2Fs11018-005-0195-9" rel="nofollow">
+             10.1007/s11018-005-0195-9
+            </a>
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Measurement+Techniques&amp;rft.atitle=Boltzmann%27s+Constant%2C+the+Energy+Meaning+of+Temperature%2C+and+Thermodynamic+Irreversibility&amp;rft.volume=48&amp;rft.issue=7&amp;rft.pages=632-36&amp;rft.date=2005&amp;rft_id=info%3Adoi%2F10.1007%2Fs11018-005-0195-9&amp;rft.au=Kalinin%2C+M&amp;rft.au=Kononogov%2C+S&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABoltzmann+constant">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+        </ol>
+       </div>
+      </div>
+      <h2>
+       <span class="mw-headline" id="External_links">
+        External links
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Boltzmann_constant&amp;action=edit&amp;section=12" title="Edit section: External links">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a class="external text" href="http://www.bipm.org/utils/common/pdf/si_brochure_draft_ch2.pdf" rel="nofollow">
+         Draft Chapter 2 for SI Brochure, following redefinitions of the base units
+        </a>
+        (prepared by the Consultative Committee for Units)
+       </li>
+       <li>
+        <a class="external text" href="http://www.sciencedaily.com/releases/2011/09/110920075520.htm" rel="nofollow">
+         Big Step Towards Redefining the Kelvin: Scientists Find New Way to Determine Boltzmann Constant
+        </a>
+       </li>
+      </ul>
+      <!-- 
+NewPP limit report
+Parsed by mw1333
+Cached time: 20180127114300
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.388 seconds
+Real time usage: 0.774 seconds
+Preprocessor visited node count: 2576/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 62955/2097152 bytes
+Template argument size: 2855/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 1/500
+Lua time usage: 0.186/10.000 seconds
+Lua memory usage: 6.31 MB/50 MB
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  358.362      1 -total
+ 42.06%  150.726      1 Template:Reflist
+ 27.23%   97.584     46 Template:Val
+ 12.00%   43.007      3 Template:Cite_book
+  7.12%   25.522      3 Template:Cite_journal
+  7.07%   25.340      1 Template:Distinguish
+  6.00%   21.500      4 Template:Cite_web
+  4.83%   17.305      3 Template:Citation
+  4.24%   15.178      1 Template:Use_dmy_dates
+  3.85%   13.790      2 Template:Quotation
+-->
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:53702-0!canonical!math=5 and timestamp 20180127114300 and revision id 822607434
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Boltzmann_constant&amp;oldid=822607434">
+      https://en.wikipedia.org/w/index.php?title=Boltzmann_constant&amp;oldid=822607434
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Statistical_mechanics" title="Category:Statistical mechanics">
+         Statistical mechanics
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Thermodynamics" title="Category:Thermodynamics">
+         Thermodynamics
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Fundamental_constants" title="Category:Fundamental constants">
+         Fundamental constants
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Physical_constants" title="Category:Physical constants">
+         Physical constants
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:CS1_errors:_dates" title="Category:CS1 errors: dates">
+         CS1 errors: dates
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:CS1_French-language_sources_(fr)" title="Category:CS1 French-language sources (fr)">
+         CS1 French-language sources (fr)
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Use_dmy_dates_from_June_2013" title="Category:Use dmy dates from June 2013">
+         Use dmy dates from June 2013
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Boltzmann+constant" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Boltzmann+constant" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Boltzmann_constant" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Boltzmann_constant" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="collapsible selected" id="ca-view">
+        <span>
+         <a href="/wiki/Boltzmann_constant">
+          Read
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Boltzmann_constant&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Boltzmann_constant&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Boltzmann_constant" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Boltzmann_constant" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Boltzmann_constant&amp;oldid=822607434" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Boltzmann_constant&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q5962" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Boltzmann_constant&amp;id=822607434" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Boltzmann+constant">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Boltzmann+constant&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Boltzmann_constant&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-af">
+        <a class="interlanguage-link-target" href="https://af.wikipedia.org/wiki/Konstante_van_Boltzmann" hreflang="af" lang="af" title="Konstante van Boltzmann – Afrikaans">
+         Afrikaans
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ar">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%AB%D8%A7%D8%A8%D8%AA_%D8%A8%D9%88%D9%84%D8%AA%D8%B2%D9%85%D8%A7%D9%86" hreflang="ar" lang="ar" title="ثابت بولتزمان – Arabic">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bn">
+        <a class="interlanguage-link-target" href="https://bn.wikipedia.org/wiki/%E0%A6%AC%E0%A7%8B%E0%A6%B2%E0%A6%9F%E0%A7%8D%E0%A6%9C%E0%A6%AE%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8_%E0%A6%A7%E0%A7%8D%E0%A6%B0%E0%A7%81%E0%A6%AC%E0%A6%95" hreflang="bn" lang="bn" title="বোলট্জম্যান ধ্রুবক – Bangla">
+         বাংলা
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh-min-nan">
+        <a class="interlanguage-link-target" href="https://zh-min-nan.wikipedia.org/wiki/Boltzmann_si%C3%B4ng-s%C3%B2%CD%98" hreflang="zh-min-nan" lang="zh-min-nan" title="Boltzmann siông-sò͘ – Chinese (Min Nan)">
+         Bân-lâm-gú
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-be">
+        <a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%9F%D0%B0%D1%81%D1%82%D0%B0%D1%8F%D0%BD%D0%BD%D0%B0%D1%8F_%D0%91%D0%BE%D0%BB%D1%8C%D1%86%D0%BC%D0%B0%D0%BD%D0%B0" hreflang="be" lang="be" title="Пастаянная Больцмана – Belarusian">
+         Беларуская
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bg">
+        <a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B0_%D0%BD%D0%B0_%D0%91%D0%BE%D0%BB%D1%86%D0%BC%D0%B0%D0%BD" hreflang="bg" lang="bg" title="Константа на Болцман – Bulgarian">
+         Български
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bs">
+        <a class="interlanguage-link-target" href="https://bs.wikipedia.org/wiki/Boltzmannova_konstanta" hreflang="bs" lang="bs" title="Boltzmannova konstanta – Bosnian">
+         Bosanski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-br">
+        <a class="interlanguage-link-target" href="https://br.wikipedia.org/wiki/Digemmenn_Boltzmann" hreflang="br" lang="br" title="Digemmenn Boltzmann – Breton">
+         Brezhoneg
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Constant_de_Boltzmann" hreflang="ca" lang="ca" title="Constant de Boltzmann – Catalan">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cs">
+        <a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Boltzmannova_konstanta" hreflang="cs" lang="cs" title="Boltzmannova konstanta – Czech">
+         Čeština
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-da">
+        <a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Boltzmanns_konstant" hreflang="da" lang="da" title="Boltzmanns konstant – Danish">
+         Dansk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Boltzmann-Konstante" hreflang="de" lang="de" title="Boltzmann-Konstante – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-et">
+        <a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Boltzmanni_konstant" hreflang="et" lang="et" title="Boltzmanni konstant – Estonian">
+         Eesti
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Constante_de_Boltzmann" hreflang="es" lang="es" title="Constante de Boltzmann – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eo">
+        <a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Konstanto_de_Boltzmann" hreflang="eo" lang="eo" title="Konstanto de Boltzmann – Esperanto">
+         Esperanto
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eu">
+        <a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Boltzmannen_konstantea" hreflang="eu" lang="eu" title="Boltzmannen konstantea – Basque">
+         Euskara
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fa">
+        <a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%AB%D8%A7%D8%A8%D8%AA_%D8%A8%D9%88%D9%84%D8%AA%D8%B3%D9%85%D8%A7%D9%86" hreflang="fa" lang="fa" title="ثابت بولتسمان – Persian">
+         فارسی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Constante_de_Boltzmann" hreflang="fr" lang="fr" title="Constante de Boltzmann – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ga">
+        <a class="interlanguage-link-target" href="https://ga.wikipedia.org/wiki/Tairiseach_Boltzmann" hreflang="ga" lang="ga" title="Tairiseach Boltzmann – Irish">
+         Gaeilge
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-gl">
+        <a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Constante_de_Boltzmann" hreflang="gl" lang="gl" title="Constante de Boltzmann – Galician">
+         Galego
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-gu">
+        <a class="interlanguage-link-target" href="https://gu.wikipedia.org/wiki/%E0%AA%AC%E0%AB%8B%E0%AA%B2%E0%AB%8D%E0%AA%9F%E0%AB%8D%E0%AA%9D%E0%AA%AE%E0%AB%87%E0%AA%A8_%E0%AA%85%E0%AA%9A%E0%AA%B3%E0%AA%BE%E0%AA%82%E0%AA%95" hreflang="gu" lang="gu" title="બોલ્ટ્ઝમેન અચળાંક – Gujarati">
+         ગુજરાતી
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ko">
+        <a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EB%B3%BC%EC%B8%A0%EB%A7%8C_%EC%83%81%EC%88%98" hreflang="ko" lang="ko" title="볼츠만 상수 – Korean">
+         한국어
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hy">
+        <a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D4%B2%D5%B8%D5%AC%D6%81%D5%B4%D5%A1%D5%B6%D5%AB_%D5%B0%D5%A1%D5%BD%D5%BF%D5%A1%D5%BF%D5%B8%D6%82%D5%B6" hreflang="hy" lang="hy" title="Բոլցմանի հաստատուն – Armenian">
+         Հայերեն
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hi">
+        <a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%AC%E0%A5%8B%E0%A4%B2%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B8%E0%A4%AE%E0%A4%BE%E0%A4%A8_%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%A4%E0%A4%BE%E0%A4%82%E0%A4%95" hreflang="hi" lang="hi" title="बोल्ट्समान नियतांक – Hindi">
+         हिन्दी
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hr">
+        <a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Boltzmannova_konstanta" hreflang="hr" lang="hr" title="Boltzmannova konstanta – Croatian">
+         Hrvatski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-id">
+        <a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Konstanta_Boltzmann" hreflang="id" lang="id" title="Konstanta Boltzmann – Indonesian">
+         Bahasa Indonesia
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Costante_di_Boltzmann" hreflang="it" lang="it" title="Costante di Boltzmann – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-he">
+        <a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%A7%D7%91%D7%95%D7%A2_%D7%91%D7%95%D7%9C%D7%A6%D7%9E%D7%9F" hreflang="he" lang="he" title="קבוע בולצמן – Hebrew">
+         עברית
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ka">
+        <a class="interlanguage-link-target" href="https://ka.wikipedia.org/wiki/%E1%83%91%E1%83%9D%E1%83%9A%E1%83%AA%E1%83%9B%E1%83%90%E1%83%9C%E1%83%98%E1%83%A1_%E1%83%9B%E1%83%A3%E1%83%93%E1%83%9B%E1%83%98%E1%83%95%E1%83%90" hreflang="ka" lang="ka" title="ბოლცმანის მუდმივა – Georgian">
+         ქართული
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lt">
+        <a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Bolcmano_konstanta" hreflang="lt" lang="lt" title="Bolcmano konstanta – Lithuanian">
+         Lietuvių
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hu">
+        <a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Boltzmann-%C3%A1lland%C3%B3" hreflang="hu" lang="hu" title="Boltzmann-állandó – Hungarian">
+         Magyar
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-mk">
+        <a class="interlanguage-link-target" href="https://mk.wikipedia.org/wiki/%D0%91%D0%BE%D0%BB%D1%82%D1%86%D0%BC%D0%B0%D0%BD%D0%BE%D0%B2%D0%B0_%D0%BA%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B0" hreflang="mk" lang="mk" title="Болтцманова константа – Macedonian">
+         Македонски
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ml">
+        <a class="interlanguage-link-target" href="https://ml.wikipedia.org/wiki/%E0%B4%AC%E0%B5%8B%E0%B5%BE%E0%B4%9F%E0%B5%8D%E0%B4%B8%E0%B5%8D%E0%B4%AE%E0%B4%BE%E0%B5%BB_%E0%B4%B8%E0%B5%8D%E0%B4%A5%E0%B4%BF%E0%B4%B0%E0%B4%BE%E0%B4%99%E0%B5%8D%E0%B4%95%E0%B4%82" hreflang="ml" lang="ml" title="ബോൾട്സ്മാൻ സ്ഥിരാങ്കം – Malayalam">
+         മലയാളം
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-mn">
+        <a class="interlanguage-link-target" href="https://mn.wikipedia.org/wiki/%D0%91%D0%BE%D0%BB%D1%8C%D1%86%D0%BC%D0%B0%D0%BD%D1%8B_%D1%82%D0%BE%D0%B3%D1%82%D0%BC%D0%BE%D0%BB" hreflang="mn" lang="mn" title="Больцманы тогтмол – Mongolian">
+         Монгол
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nl">
+        <a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Boltzmannconstante" hreflang="nl" lang="nl" title="Boltzmannconstante – Dutch">
+         Nederlands
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%83%9C%E3%83%AB%E3%83%84%E3%83%9E%E3%83%B3%E5%AE%9A%E6%95%B0" hreflang="ja" lang="ja" title="ボルツマン定数 – Japanese">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-no">
+        <a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Boltzmanns_konstant" hreflang="no" lang="no" title="Boltzmanns konstant – Norwegian">
+         Norsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nn">
+        <a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Boltzmannkonstanten" hreflang="nn" lang="nn" title="Boltzmannkonstanten – Norwegian Nynorsk">
+         Norsk nynorsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-oc">
+        <a class="interlanguage-link-target" href="https://oc.wikipedia.org/wiki/Constanta_de_Boltzmann" hreflang="oc" lang="oc" title="Constanta de Boltzmann – Occitan">
+         Occitan
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uz">
+        <a class="interlanguage-link-target" href="https://uz.wikipedia.org/wiki/Bolsman_doimiysi" hreflang="uz" lang="uz" title="Bolsman doimiysi – Uzbek">
+         Oʻzbekcha/ўзбекча
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pcd">
+        <a class="interlanguage-link-target" href="https://pcd.wikipedia.org/wiki/Constante_d%27Boltzmann" hreflang="pcd" lang="pcd" title="Constante d'Boltzmann – Picard">
+         Picard
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pl">
+        <a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Sta%C5%82a_Boltzmanna" hreflang="pl" lang="pl" title="Stała Boltzmanna – Polish">
+         Polski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Constante_de_Boltzmann" hreflang="pt" lang="pt" title="Constante de Boltzmann – Portuguese">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ro">
+        <a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Constanta_Boltzmann" hreflang="ro" lang="ro" title="Constanta Boltzmann – Romanian">
+         Română
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%BD%D0%B0%D1%8F_%D0%91%D0%BE%D0%BB%D1%8C%D1%86%D0%BC%D0%B0%D0%BD%D0%B0" hreflang="ru" lang="ru" title="Постоянная Больцмана – Russian">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sco">
+        <a class="interlanguage-link-target" href="https://sco.wikipedia.org/wiki/Boltzmann_constant" hreflang="sco" lang="sco" title="Boltzmann constant – Scots">
+         Scots
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-simple">
+        <a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Boltzmann_constant" hreflang="simple" lang="simple" title="Boltzmann constant – Simple English">
+         Simple English
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sk">
+        <a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Boltzmannova_kon%C5%A1tanta" hreflang="sk" lang="sk" title="Boltzmannova konštanta – Slovak">
+         Slovenčina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sl">
+        <a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Boltzmannova_konstanta" hreflang="sl" lang="sl" title="Boltzmannova konstanta – Slovenian">
+         Slovenščina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sr">
+        <a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%91%D0%BE%D0%BB%D1%86%D0%BC%D0%B0%D0%BD%D0%BE%D0%B2%D0%B0_%D0%BA%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B0" hreflang="sr" lang="sr" title="Болцманова константа – Serbian">
+         Српски / srpski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sh">
+        <a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Boltzmannova_konstanta" hreflang="sh" lang="sh" title="Boltzmannova konstanta – Serbo-Croatian">
+         Srpskohrvatski / српскохрватски
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fi">
+        <a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Boltzmannin_vakio" hreflang="fi" lang="fi" title="Boltzmannin vakio – Finnish">
+         Suomi
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sv">
+        <a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Boltzmanns_konstant" hreflang="sv" lang="sv" title="Boltzmanns konstant – Swedish">
+         Svenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tt">
+        <a class="interlanguage-link-target" href="https://tt.wikipedia.org/wiki/Boltsman_daimie" hreflang="tt" lang="tt" title="Boltsman daimie – Tatar">
+         Татарча/tatarça
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-th">
+        <a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B8%84%E0%B9%88%E0%B8%B2%E0%B8%84%E0%B8%87%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%82%E0%B8%9A%E0%B8%A5%E0%B8%97%E0%B8%8B%E0%B9%8C%E0%B8%A1%E0%B8%B1%E0%B8%99%E0%B8%99%E0%B9%8C" hreflang="th" lang="th" title="ค่าคงที่โบลทซ์มันน์ – Thai">
+         ไทย
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tr">
+        <a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Boltzmann_sabiti" hreflang="tr" lang="tr" title="Boltzmann sabiti – Turkish">
+         Türkçe
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uk">
+        <a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%A1%D1%82%D0%B0%D0%BB%D0%B0_%D0%91%D0%BE%D0%BB%D1%8C%D1%86%D0%BC%D0%B0%D0%BD%D0%B0" hreflang="uk" lang="uk" title="Стала Больцмана – Ukrainian">
+         Українська
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-vi">
+        <a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/H%E1%BA%B1ng_s%E1%BB%91_Boltzmann" hreflang="vi" lang="vi" title="Hằng số Boltzmann – Vietnamese">
+         Tiếng Việt
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh-yue">
+        <a class="interlanguage-link-target" href="https://zh-yue.wikipedia.org/wiki/%E6%B3%A2%E8%8C%B2%E6%9B%BC%E5%B8%B8%E6%95%B8" hreflang="zh-yue" lang="zh-yue" title="波茲曼常數 – Cantonese">
+         粵語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E6%B3%A2%E8%8C%B2%E6%9B%BC%E5%B8%B8%E6%95%B8" hreflang="zh" lang="zh" title="波茲曼常數 – Chinese">
+         中文
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q5962#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 27 January 2018, at 11:43.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Boltzmann_constant&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.388","walltime":"0.774","ppvisitednodes":{"value":2576,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":62955,"limit":2097152},"templateargumentsize":{"value":2855,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  358.362      1 -total"," 42.06%  150.726      1 Template:Reflist"," 27.23%   97.584     46 Template:Val"," 12.00%   43.007      3 Template:Cite_book","  7.12%   25.522      3 Template:Cite_journal","  7.07%   25.340      1 Template:Distinguish","  6.00%   21.500      4 Template:Cite_web","  4.83%   17.305      3 Template:Citation","  4.24%   15.178      1 Template:Use_dmy_dates","  3.85%   13.790      2 Template:Quotation"]},"scribunto":{"limitreport-timeusage":{"value":"0.186","limit":"10.000"},"limitreport-memusage":{"value":6613980,"limit":52428800}},"cachereport":{"origin":"mw1333","timestamp":"20180127114300","ttl":1900800,"transientcontent":false}}});});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":75,"wgHostname":"mw1244"});});
+  </script>
+ </body>
+</html>

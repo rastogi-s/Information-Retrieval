@@ -1,0 +1,1653 @@
+https://en.wikipedia.org/wiki/Coronagraph
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Coronagraph - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Coronagraph","wgTitle":"Coronagraph","wgCurRevisionId":823915538,"wgRevisionId":823915538,"wgArticleId":889722,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Telescopes","Optical devices"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Coronagraph","wgRelevantArticleId":889722,"wgRequestId":"WnaY1ApAICIAAJ3WQL0AAABF","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q835032","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.31.0-wmf.17" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <meta content="https://upload.wikimedia.org/wikipedia/commons/1/18/Cp22liberationdaytransient.png" property="og:image"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Coronagraph" rel="alternate"/>
+  <link href="/w/index.php?title=Coronagraph&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Coronagraph&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/Coronagraph" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Coronagraph rootpage-Coronagraph skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Coronagraph
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <p>
+       A
+       <b>
+        coronagraph
+       </b>
+       is a
+       <a href="/wiki/Telescope" title="Telescope">
+        telescopic
+       </a>
+       attachment designed to block out the direct light from a
+       <a href="/wiki/Star" title="Star">
+        star
+       </a>
+       so that nearby objects – which otherwise would be hidden in the star's bright
+       <a href="/wiki/Glare_(vision)" title="Glare (vision)">
+        glare
+       </a>
+       – can be resolved. Most coronagraphs are intended to view the
+       <a href="/wiki/Corona" title="Corona">
+        corona
+       </a>
+       of the
+       <a href="/wiki/Sun" title="Sun">
+        Sun
+       </a>
+       , but a new class of conceptually similar instruments (called
+       <i>
+        stellar coronagraphs
+       </i>
+       to distinguish them from
+       <i>
+        solar coronagraphs
+       </i>
+       ) are being used to find
+       <a class="mw-redirect" href="/wiki/Extrasolar_planet" title="Extrasolar planet">
+        extrasolar planets
+       </a>
+       and
+       <a class="mw-redirect" href="/wiki/Circumstellar_disk" title="Circumstellar disk">
+        circumstellar disks
+       </a>
+       around nearby stars.
+      </p>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:202px;">
+        <a class="image" href="/wiki/File:Cp22liberationdaytransient.png">
+         <img alt="" class="thumbimage" data-file-height="722" data-file-width="935" height="154" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/18/Cp22liberationdaytransient.png/200px-Cp22liberationdaytransient.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/18/Cp22liberationdaytransient.png/300px-Cp22liberationdaytransient.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/18/Cp22liberationdaytransient.png/400px-Cp22liberationdaytransient.png 2x" width="200"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Cp22liberationdaytransient.png" title="Enlarge">
+          </a>
+         </div>
+         Coronagraph image of the Sun
+        </div>
+       </div>
+      </div>
+      <p>
+      </p>
+      <div class="toc" id="toc">
+       <div class="toctitle" dir="ltr" lang="en" xml:lang="en">
+        <h2>
+         Contents
+        </h2>
+       </div>
+       <ul>
+        <li class="toclevel-1 tocsection-1">
+         <a href="#Invention">
+          <span class="tocnumber">
+           1
+          </span>
+          <span class="toctext">
+           Invention
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-2">
+         <a href="#Design">
+          <span class="tocnumber">
+           2
+          </span>
+          <span class="toctext">
+           Design
+          </span>
+         </a>
+         <ul>
+          <li class="toclevel-2 tocsection-3">
+           <a href="#Band-limited_coronagraph">
+            <span class="tocnumber">
+             2.1
+            </span>
+            <span class="toctext">
+             Band-limited coronagraph
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-4">
+           <a href="#Phase-mask_coronagraph">
+            <span class="tocnumber">
+             2.2
+            </span>
+            <span class="toctext">
+             Phase-mask coronagraph
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-5">
+           <a href="#Optical_vortex_coronagraph">
+            <span class="tocnumber">
+             2.3
+            </span>
+            <span class="toctext">
+             Optical vortex coronagraph
+            </span>
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="toclevel-1 tocsection-6">
+         <a href="#Satellite-based_coronagraphs">
+          <span class="tocnumber">
+           3
+          </span>
+          <span class="toctext">
+           Satellite-based coronagraphs
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-7">
+         <a href="#Extrasolar_planets">
+          <span class="tocnumber">
+           4
+          </span>
+          <span class="toctext">
+           Extrasolar planets
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-8">
+         <a href="#See_also">
+          <span class="tocnumber">
+           5
+          </span>
+          <span class="toctext">
+           See also
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-9">
+         <a href="#References">
+          <span class="tocnumber">
+           6
+          </span>
+          <span class="toctext">
+           References
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-10">
+         <a href="#External_links">
+          <span class="tocnumber">
+           7
+          </span>
+          <span class="toctext">
+           External links
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <p>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Invention">
+        Invention
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Coronagraph&amp;action=edit&amp;section=1" title="Edit section: Invention">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       The coronagraph was introduced in 1931 by the French astronomer
+       <a href="/wiki/Bernard_Lyot" title="Bernard Lyot">
+        Bernard Lyot
+       </a>
+       ; since then, coronagraphs have been used at many
+       <a href="/wiki/Solar_observatory" title="Solar observatory">
+        solar observatories
+       </a>
+       . Coronagraphs operating within
+       <a class="mw-redirect" href="/wiki/Earth%27s_atmosphere" title="Earth's atmosphere">
+        Earth's atmosphere
+       </a>
+       suffer from scattered light in the
+       <a href="/wiki/Sky" title="Sky">
+        sky
+       </a>
+       itself, due primarily to
+       <a href="/wiki/Rayleigh_scattering" title="Rayleigh scattering">
+        Rayleigh scattering
+       </a>
+       of sunlight in the upper atmosphere. At view angles close to the Sun, the sky is much brighter than the background corona even at high altitude sites on clear, dry days. Ground based coronagraphs, such as the
+       <a href="/wiki/High_Altitude_Observatory" title="High Altitude Observatory">
+        High Altitude Observatory
+       </a>
+       's
+       <a class="new" href="/w/index.php?title=Mark_IV_Coronagraph&amp;action=edit&amp;redlink=1" title="Mark IV Coronagraph (page does not exist)">
+        Mark IV Coronagraph
+       </a>
+       on top of
+       <a href="/wiki/Mauna_Loa" title="Mauna Loa">
+        Mauna Loa
+       </a>
+       , use
+       <a href="/wiki/Polarization_(waves)" title="Polarization (waves)">
+        polarization
+       </a>
+       to distinguish sky brightness from the image of the corona: both coronal light and
+       <a href="/wiki/Sky_brightness" title="Sky brightness">
+        sky brightness
+       </a>
+       are scattered
+       <a href="/wiki/Sunlight" title="Sunlight">
+        sunlight
+       </a>
+       and have similar spectral properties, but the coronal light is
+       <a class="mw-redirect" href="/wiki/Thomson-scattered" title="Thomson-scattered">
+        Thomson-scattered
+       </a>
+       at nearly a
+       <a href="/wiki/Right_angle" title="Right angle">
+        right angle
+       </a>
+       and therefore undergoes
+       <a href="/wiki/Polarization_(waves)#Propagation,_reflection_and_scattering" title="Polarization (waves)">
+        scattering polarization
+       </a>
+       , while the superimposed light from the sky near the Sun is scattered at only a glancing angle and hence remains nearly unpolarized.
+      </p>
+      <h2>
+       <span class="mw-headline" id="Design">
+        Design
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Coronagraph&amp;action=edit&amp;section=2" title="Edit section: Design">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:Wendelstein_Solar_Telescope.jpg">
+         <img alt="" class="thumbimage" data-file-height="1536" data-file-width="2048" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Wendelstein_Solar_Telescope.jpg/220px-Wendelstein_Solar_Telescope.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Wendelstein_Solar_Telescope.jpg/330px-Wendelstein_Solar_Telescope.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Wendelstein_Solar_Telescope.jpg/440px-Wendelstein_Solar_Telescope.jpg 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Wendelstein_Solar_Telescope.jpg" title="Enlarge">
+          </a>
+         </div>
+         Coronagraph at the
+         <a href="/wiki/Wendelstein_(mountain)#Mountain_weather_station_and_observatory" title="Wendelstein (mountain)">
+          Wendelstein Observatory
+         </a>
+        </div>
+       </div>
+      </div>
+      <p>
+       Coronagraph instruments are extreme examples of
+       <a href="/wiki/Stray_light" title="Stray light">
+        stray light
+       </a>
+       rejection and precise
+       <a href="/wiki/Photometry_(astronomy)" title="Photometry (astronomy)">
+        photometry
+       </a>
+       because the total brightness from the solar corona is less than one millionth (10
+       <sup>
+        −6
+       </sup>
+       ) the brightness of the Sun. The apparent surface brightness is even fainter because, in addition to delivering less total light, the corona has a much greater apparent size than the Sun itself.
+      </p>
+      <p>
+       During a
+       <a href="/wiki/Solar_eclipse" title="Solar eclipse">
+        total solar eclipse
+       </a>
+       , the
+       <a href="/wiki/Moon" title="Moon">
+        Moon
+       </a>
+       acts as an occluding disk and any camera in the eclipse path may be operated as a coronagraph until the eclipse is over. More common is an arrangement where the sky is imaged onto an intermediate
+       <a class="mw-redirect" href="/wiki/Focal_plane" title="Focal plane">
+        focal plane
+       </a>
+       containing an opaque spot; this focal plane is reimaged onto a detector. Another arrangement is to image the sky onto a mirror with a small hole: the desired light is reflected and eventually reimaged, but the unwanted light from the star goes through the hole and does not reach the detector. Either way, the instrument design must take into account scattering and
+       <a href="/wiki/Diffraction" title="Diffraction">
+        diffraction
+       </a>
+       to make sure that as little unwanted light as possible reaches the final detector. Lyot's key invention was an arrangement of lenses with stops, known as
+       <a href="/wiki/Lyot_stop" title="Lyot stop">
+        Lyot stops
+       </a>
+       , and baffles such that light scattered by diffraction was focused on the stops and baffles, where it could be absorbed, while light needed for a useful image missed them.
+       <sup class="reference" id="cite_ref-1">
+        <a href="#cite_note-1">
+         [1]
+        </a>
+       </sup>
+      </p>
+      <p>
+       As an example, imaging instruments on the
+       <a href="/wiki/Hubble_Space_Telescope" title="Hubble Space Telescope">
+        Hubble Space Telescope
+       </a>
+       offer coronagraphic capability.
+      </p>
+      <h3>
+       <span class="mw-headline" id="Band-limited_coronagraph">
+        Band-limited coronagraph
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Coronagraph&amp;action=edit&amp;section=3" title="Edit section: Band-limited coronagraph">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       A
+       <i>
+        band-limited coronagraph
+       </i>
+       uses a special kind of mask called a
+       <i>
+        band-limited mask
+       </i>
+       .
+       <sup class="reference" id="cite_ref-band-limited_2-0">
+        <a href="#cite_note-band-limited-2">
+         [2]
+        </a>
+       </sup>
+       This mask is designed to block light and also manage diffraction effects caused by removal of the light. The band-limited coronagraph has served as the baseline design for the canceled
+       <a href="/wiki/Terrestrial_Planet_Finder" title="Terrestrial Planet Finder">
+        Terrestrial Planet Finder
+       </a>
+       coronagraph. Band-limited masks will also be available on the
+       <a href="/wiki/James_Webb_Space_Telescope" title="James Webb Space Telescope">
+        James Webb Space Telescope
+       </a>
+       .
+      </p>
+      <p>
+       See also:
+       <a class="external autonumber" href="http://www.nature.com/nature/journal/v446/n7137/abs/nature05729.html" rel="nofollow">
+        [2]
+       </a>
+      </p>
+      <h3>
+       <span class="mw-headline" id="Phase-mask_coronagraph">
+        Phase-mask coronagraph
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Coronagraph&amp;action=edit&amp;section=4" title="Edit section: Phase-mask coronagraph">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       A phase-mask coronagraph (such as the so-called four-quadrant phase-mask coronagraph) uses a transparent mask to shift the phase of the stellar light in order to create a self-destructive interference, rather than a simple opaque disc to block it. See also:
+       <a class="external autonumber" href="http://www.journals.uchicago.edu/doi/abs/10.1086/317707" rel="nofollow">
+        [3]
+       </a>
+       <a class="external autonumber" href="http://www.laserfocusworld.com/articles/2010/10/exoplanet-hunters.html" rel="nofollow">
+        [4]
+       </a>
+      </p>
+      <h3>
+       <span class="mw-headline" id="Optical_vortex_coronagraph">
+        Optical vortex coronagraph
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Coronagraph&amp;action=edit&amp;section=5" title="Edit section: Optical vortex coronagraph">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <div class="hatnote navigation-not-searchable" role="note">
+       Main article:
+       <a href="/wiki/Vortex_coronagraph" title="Vortex coronagraph">
+        Vortex coronagraph
+       </a>
+      </div>
+      <p>
+       An
+       <a href="/wiki/Optical_vortex" title="Optical vortex">
+        optical vortex
+       </a>
+       coronagraph uses a phase-mask in which the phase-shift varies azimuthally around the center. Several varieties of optical vortex coronagraphs exist:
+      </p>
+      <ul>
+       <li>
+        the
+        <i>
+         scalar
+        </i>
+        optical vortex coronagraph based on a phase ramp directly etched in a dielectric material, like fused silica.
+        <sup class="reference" id="cite_ref-3">
+         <a href="#cite_note-3">
+          [3]
+         </a>
+        </sup>
+        <sup class="reference" id="cite_ref-4">
+         <a href="#cite_note-4">
+          [4]
+         </a>
+        </sup>
+       </li>
+       <li>
+        the
+        <i>
+         vector(ial)
+        </i>
+        vortex coronagraph employs a mask that rotates the angle of polarization of photons, and ramping this angle of rotation has the same effect as ramping a phase-shift. A mask of this kind can be synthesized by various technologies, ranging from
+        <a class="mw-redirect" href="/wiki/Liquid_crystal_polymer" title="Liquid crystal polymer">
+         liquid crystal polymer
+        </a>
+        (same technology as in
+        <a href="/wiki/3D_television" title="3D television">
+         3D television
+        </a>
+        ), and micro-structured surfaces (using
+        <a href="/wiki/Microfabrication" title="Microfabrication">
+         microfabrication
+        </a>
+        technologies from the
+        <a href="/wiki/Microelectronics" title="Microelectronics">
+         microelectronics
+        </a>
+        industry). Such a vector vortex coronagraph made out of liquid crystal polymers is currently in use at the 200-inch
+        <a class="mw-redirect" href="/wiki/Hale_telescope" title="Hale telescope">
+         Hale telescope
+        </a>
+        at the
+        <a href="/wiki/Palomar_Observatory" title="Palomar Observatory">
+         Palomar Observatory
+        </a>
+        . It has recently been operated with
+        <a href="/wiki/Adaptive_optics" title="Adaptive optics">
+         adaptive optics
+        </a>
+        to image
+        <a class="mw-redirect" href="/wiki/Extrasolar_planets" title="Extrasolar planets">
+         extrasolar planets
+        </a>
+        .
+       </li>
+      </ul>
+      <p>
+       This works with stars other than the sun because they are so far away their light is, for this purpose, a spatially coherent plane wave. The coronagraph using interference masks out the light along the center axis of the telescope, but allows the light from off axis objects through.
+      </p>
+      <h2>
+       <span class="mw-headline" id="Satellite-based_coronagraphs">
+        Satellite-based coronagraphs
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Coronagraph&amp;action=edit&amp;section=6" title="Edit section: Satellite-based coronagraphs">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       Coronagraphs in
+       <a href="/wiki/Outer_space" title="Outer space">
+        outer space
+       </a>
+       are much more effective than the same instruments would be if located on the ground. This is because the complete absence of atmospheric scattering eliminates the largest source of glare present in a terrestrial coronagraph. Several space missions such as
+       <a href="/wiki/NASA" title="NASA">
+        NASA
+       </a>
+       -
+       <a class="mw-redirect" href="/wiki/ESA" title="ESA">
+        ESA
+       </a>
+       's
+       <a href="/wiki/Solar_and_Heliospheric_Observatory" title="Solar and Heliospheric Observatory">
+        SOHO
+       </a>
+       , and NASA's SPARTAN,
+       <a href="/wiki/Solar_Maximum_Mission" title="Solar Maximum Mission">
+        Solar Maximum Mission
+       </a>
+       , and
+       <a href="/wiki/Skylab" title="Skylab">
+        Skylab
+       </a>
+       have used coronagraphs to study the outer reaches of the solar corona. The
+       <a href="/wiki/Hubble_Space_Telescope" title="Hubble Space Telescope">
+        Hubble Space Telescope
+       </a>
+       (HST) is able to perform coronagraphy using the
+       <a href="/wiki/Near_Infrared_Camera_and_Multi-Object_Spectrometer" title="Near Infrared Camera and Multi-Object Spectrometer">
+        Near Infrared Camera and Multi-Object Spectrometer
+       </a>
+       (NICMOS),
+       <sup class="reference" id="cite_ref-5">
+        <a href="#cite_note-5">
+         [5]
+        </a>
+       </sup>
+       and there are plans to have this capability on the
+       <a href="/wiki/James_Webb_Space_Telescope" title="James Webb Space Telescope">
+        James Webb Space Telescope
+       </a>
+       (JWST) using its Near Infrared Camera (
+       <a href="/wiki/NIRCam" title="NIRCam">
+        NIRCam
+       </a>
+       ) and Mid Infrared Instrument (MIRI).
+      </p>
+      <p>
+       While space-based coronagraphs such as
+       <a href="/wiki/Solar_and_Heliospheric_Observatory#Instruments" title="Solar and Heliospheric Observatory">
+        LASCO
+       </a>
+       avoid the sky brightness problem, they face design challenges in stray light management under the stringent size and weight requirements of space flight. Any sharp edge (such as the edge of an occulting disk or optical aperture) causes
+       <a href="/wiki/Fresnel_diffraction" title="Fresnel diffraction">
+        Fresnel diffraction
+       </a>
+       of incoming light around the edge, which means that the smaller instruments that one would want on a satellite unavoidably leak more light than larger ones would. The LASCO C-3 coronagraph uses both an external occulter (which casts shadow on the instrument) and an internal occulter (which blocks stray light that is Fresnel-diffracted around the external occulter) to reduce this "leakage", and a complicated system of baffles to eliminate stray light scattering off the internal surfaces of the instrument itself.
+      </p>
+      <h2>
+       <span class="mw-headline" id="Extrasolar_planets">
+        Extrasolar planets
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Coronagraph&amp;action=edit&amp;section=7" title="Edit section: Extrasolar planets">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       The coronagraph has recently been adapted to the challenging task of finding planets around nearby stars. While stellar and solar coronagraphs are similar in concept, they are quite different in practice because the object to be occulted differs by a factor of a million in linear apparent size. (The Sun has an apparent size of about 1900
+       <a class="mw-redirect" href="/wiki/Arcsecond" title="Arcsecond">
+        arcseconds
+       </a>
+       , while a typical nearby star might have an apparent size of 0.0005 and 0.002 arcseconds.) Earth-like exoplanet detection requires 10
+       <sup>
+        −10
+       </sup>
+       contrast
+       <a class="external autonumber" href="http://spie.org/Publications/Proceedings/Paper/10.1117/12.2188371?origin_id=x4323&amp;start_year=1963" rel="nofollow">
+        [5]
+       </a>
+       . To achieve such contrast requires extreme
+       <a href="/wiki/Optothermal_stability" title="Optothermal stability">
+        optothermal stability
+       </a>
+       .
+      </p>
+      <p>
+       A stellar coronagraph concept was studied for flight on the canceled
+       <a href="/wiki/Terrestrial_Planet_Finder" title="Terrestrial Planet Finder">
+        Terrestrial Planet Finder
+       </a>
+       mission. On ground-based telescopes, a stellar coronagraph can be combined with
+       <a href="/wiki/Adaptive_optics" title="Adaptive optics">
+        adaptive optics
+       </a>
+       to search for planets around nearby stars
+       <a class="external autonumber" href="http://www.adaptiveoptics.org/News_0805_1.html" rel="nofollow">
+        [6]
+       </a>
+       .
+      </p>
+      <p>
+       <a class="external text" href="http://hubblesite.org/newscenter/archive/releases/2003/02/image/a" rel="nofollow">
+        This link
+       </a>
+       shows an HST image of a dust disk surrounding a bright star with the star hidden by the coronagraph.
+      </p>
+      <p>
+       In November 2008, NASA announced that a planet was directly observed orbiting the nearby star
+       <a href="/wiki/Fomalhaut" title="Fomalhaut">
+        Fomalhaut
+       </a>
+       . The planet could be seen clearly on images taken by Hubble's Advanced Camera for Surveys' coronagraph in 2004 and 2006
+       <a class="external autonumber" href="http://www.nasa.gov/mission_pages/hubble/science/fomalhaut.html" rel="nofollow">
+        [7]
+       </a>
+       . The dark area hidden by the coronagraph mask can be seen on the images, though a bright dot has been added to show where the star would have been.
+      </p>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:252px;">
+        <a class="image" href="/wiki/File:444226main_exoplanet20100414-a-full.jpg">
+         <img alt="" class="thumbimage" data-file-height="768" data-file-width="1024" height="188" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/444226main_exoplanet20100414-a-full.jpg/250px-444226main_exoplanet20100414-a-full.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/444226main_exoplanet20100414-a-full.jpg/375px-444226main_exoplanet20100414-a-full.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/97/444226main_exoplanet20100414-a-full.jpg/500px-444226main_exoplanet20100414-a-full.jpg 2x" width="250"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:444226main_exoplanet20100414-a-full.jpg" title="Enlarge">
+          </a>
+         </div>
+         Direct image of
+         <a href="/wiki/Exoplanet" title="Exoplanet">
+          exoplanets
+         </a>
+         around the star
+         <a class="mw-redirect" href="/wiki/HR8799" title="HR8799">
+          HR8799
+         </a>
+         using a
+         <a class="mw-redirect" href="/wiki/Vector_vortex_coronagraph" title="Vector vortex coronagraph">
+          vector vortex coronagraph
+         </a>
+         on a 1.5m portion of the
+         <a class="mw-redirect" href="/wiki/Hale_telescope" title="Hale telescope">
+          Hale telescope
+         </a>
+        </div>
+       </div>
+      </div>
+      <p>
+       Up until the year 2010,
+       <a href="/wiki/Telescope#Research_telescopes" title="Telescope">
+        telescopes
+       </a>
+       could only
+       <a class="mw-redirect" href="/wiki/Methods_of_detecting_extrasolar_planets#Direct_imaging" title="Methods of detecting extrasolar planets">
+        directly image
+       </a>
+       exoplanets under exceptional circumstances. Specifically, it is easier to obtain images when the planet is especially large (considerably larger than
+       <a href="/wiki/Jupiter" title="Jupiter">
+        Jupiter
+       </a>
+       ), widely separated from its parent star, and hot so that it emits intense infrared radiation. However, in 2010 a team from
+       <a href="/wiki/NASA" title="NASA">
+        NASAs
+       </a>
+       <a href="/wiki/Jet_Propulsion_Laboratory" title="Jet Propulsion Laboratory">
+        Jet Propulsion Laboratory
+       </a>
+       demonstrated that a vector vortex coronagraph could enable small telescopes to directly image planets.
+       <sup class="reference" id="cite_ref-6">
+        <a href="#cite_note-6">
+         [6]
+        </a>
+       </sup>
+       They did this by imaging the previously imaged
+       <a href="/wiki/HR_8799" title="HR 8799">
+        HR 8799
+       </a>
+       planets using just a 1.5 m portion of the
+       <a href="/wiki/Hale_Telescope" title="Hale Telescope">
+        Hale Telescope
+       </a>
+       .
+      </p>
+      <h2>
+       <span class="mw-headline" id="See_also">
+        See also
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Coronagraph&amp;action=edit&amp;section=8" title="Edit section: See also">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a href="/wiki/List_of_solar_telescopes" title="List of solar telescopes">
+         List of solar telescopes
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/New_Worlds_Mission" title="New Worlds Mission">
+         New Worlds Mission
+        </a>
+        – A proposed external coronagraph
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="References">
+        References
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Coronagraph&amp;action=edit&amp;section=9" title="Edit section: References">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="mw-references-wrap">
+       <ol class="references">
+        <li id="cite_note-1">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-1">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <a class="external autonumber" href="http://umbra.gsfc.nasa.gov/spartan/coronagraphs.html" rel="nofollow">
+           [1]
+          </a>
+          NASA page with diagrams of coronagraphs
+         </span>
+        </li>
+        <li id="cite_note-band-limited-2">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-band-limited_2-0">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation journal">
+           Kuchner and Traub (2002).
+           <a class="external text" href="http://www.iop.org/EJ/article/0004-637X/570/2/900/54598.html" rel="nofollow">
+            "A Coronagraph with a Band-limited Mask for Finding Terrestrial Planets"
+           </a>
+           .
+           <i>
+            The
+            <a class="mw-redirect" href="/wiki/Astrophysical_Journal" title="Astrophysical Journal">
+             Astrophysical Journal
+            </a>
+           </i>
+           .
+           <b>
+            570
+           </b>
+           (2): 900–908.
+           <a href="/wiki/ArXiv" title="ArXiv">
+            arXiv
+           </a>
+           :
+           <span class="plainlinks">
+            <a class="external text" href="//arxiv.org/abs/astro-ph/0203455" rel="nofollow">
+             astro-ph/0203455
+            </a>
+            <img alt="Freely accessible" data-file-height="813" data-file-width="512" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" title="Freely accessible" width="9"/>
+           </span>
+           .
+           <a href="/wiki/Bibcode" title="Bibcode">
+            Bibcode
+           </a>
+           :
+           <a class="external text" href="http://adsabs.harvard.edu/abs/2002ApJ...570..900K" rel="nofollow">
+            2002ApJ...570..900K
+           </a>
+           .
+           <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+            doi
+           </a>
+           :
+           <a class="external text" href="//doi.org/10.1086%2F339625" rel="nofollow">
+            10.1086/339625
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Astrophysical+Journal&amp;rft.atitle=A+Coronagraph+with+a+Band-limited+Mask+for+Finding+Terrestrial+Planets&amp;rft.volume=570&amp;rft.issue=2&amp;rft.pages=900-908&amp;rft.date=2002&amp;rft_id=info%3Aarxiv%2Fastro-ph%2F0203455&amp;rft_id=info%3Adoi%2F10.1086%2F339625&amp;rft_id=info%3Abibcode%2F2002ApJ...570..900K&amp;rft.au=Kuchner+and+Traub&amp;rft_id=http%3A%2F%2Fwww.iop.org%2FEJ%2Farticle%2F0004-637X%2F570%2F2%2F900%2F54598.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoronagraph">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-3">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-3">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <a class="external text" href="http://www.cis.rit.edu/~grovers/Doc/Publications/OVC.pdf" rel="nofollow">
+           optical vortex coronagraph
+          </a>
+         </span>
+        </li>
+        <li id="cite_note-4">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-4">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <a class="external text" href="http://www.u.arizona.edu/~grovers/ovc.html" rel="nofollow">
+           Optical vortex coronagraph
+          </a>
+          <a class="external text" href="https://web.archive.org/web/20060903215113/http://www.u.arizona.edu/~grovers/ovc.html" rel="nofollow">
+           Archived
+          </a>
+          2006-09-03 at the
+          <a href="/wiki/Wayback_Machine" title="Wayback Machine">
+           Wayback Machine
+          </a>
+          .
+         </span>
+        </li>
+        <li id="cite_note-5">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-5">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <a class="external text" href="http://www.stsci.edu/hst/nicmos/performance/coronagraphy" rel="nofollow">
+           NICMOS Coronagraphy
+          </a>
+         </span>
+        </li>
+        <li id="cite_note-6">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-6">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <a class="external text" href="http://www.msnbc.msn.com/id/36528711/ns/technology_and_science-space/" rel="nofollow">
+           New method could image Earth-like planets
+          </a>
+         </span>
+        </li>
+       </ol>
+      </div>
+      <h2>
+       <span class="mw-headline" id="External_links">
+        External links
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Coronagraph&amp;action=edit&amp;section=10" title="Edit section: External links">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+       <tr>
+        <td class="mbox-image">
+         <img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/>
+        </td>
+        <td class="mbox-text plainlist">
+         Wikimedia Commons has media related to
+         <i>
+          <b>
+           <a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Coronagraph/Polarimeter" title="commons:Category:Coronagraph/Polarimeter">
+            Coronagraph/Polarimeter
+           </a>
+          </b>
+         </i>
+         .
+        </td>
+       </tr>
+      </table>
+      <ul>
+       <li>
+        <a class="external text" href="http://exep.jpl.nasa.gov/files/exep/TechnologyAstro2010WP-VisiblePlanetImagingFinal.pdf" rel="nofollow">
+         Overview of Technologies for Direct Optical Imaging of Exoplanets
+        </a>
+        , Marie Levine, Rémi Soummer, 2009
+       </li>
+       <li>
+        <a class="external text" href="https://books.google.com/books?id=8dwDAAAAMBAJ&amp;pg=PA140&amp;dq=1954+Popular+Mechanics+January&amp;hl=en&amp;sa=X&amp;ei=lYK0T7T1Es2dgQe5iMgH&amp;ved=0CDoQ6AEwAjgy#v=onepage&amp;q&amp;f=true" rel="nofollow">
+         "Sun Gazer's Telescope."
+        </a>
+        <i>
+         Popular Mechanics
+        </i>
+        , February 1952, pp. 140–141. Cut-away drawing of first Coronagraph type used in 1952.
+       </li>
+       <li>
+        <a class="external text" href="http://www.opticsinfobase.org/abstract.cfm?URI=oe-17-3-1902" rel="nofollow">
+         Optical Vectorial Vortex Coronagraphs using Liquid Crystal Polymers: theory, manufacturing and laboratory demonstration
+        </a>
+        Optics Infobase
+       </li>
+       <li>
+        <a class="external text" href="http://iopscience.iop.org/0004-637X/709/1/53/" rel="nofollow">
+         THE VECTOR VORTEX CORONAGRAPH: LABORATORY RESULTS AND FIRST LIGHT AT PALOMAR OBSERVATORY
+        </a>
+        IopScience
+       </li>
+       <li>
+        <a class="external text" href="http://iopscience.iop.org/0004-637X/633/2/1191/" rel="nofollow">
+         Annular Groove Phase Mask Coronagraph
+        </a>
+        IopScience
+       </li>
+      </ul>
+      <!-- 
+NewPP limit report
+Parsed by mw1300
+Cached time: 20180204052013
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.144 seconds
+Real time usage: 0.183 seconds
+Preprocessor visited node count: 302/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 5253/2097152 bytes
+Template argument size: 318/2097152 bytes
+Highest expansion depth: 9/40
+Expensive parser function count: 0/500
+Lua time usage: 0.037/10.000 seconds
+Lua memory usage: 1.5 MB/50 MB
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  144.804      1 -total
+ 30.19%   43.710      1 Template:Cite_journal
+ 22.63%   32.768      1 Template:Commons_category
+ 16.03%   23.216      1 Template:Main
+  8.09%   11.722      1 Template:Commons
+  6.98%   10.101      1 Template:Sister_project
+  5.11%    7.395      1 Template:Webarchive
+  4.85%    7.024      1 Template:Side_box
+-->
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:889722-0!canonical and timestamp 20180204052013 and revision id 823915538
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Coronagraph&amp;oldid=823915538">
+      https://en.wikipedia.org/w/index.php?title=Coronagraph&amp;oldid=823915538
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Telescopes" title="Category:Telescopes">
+         Telescopes
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Optical_devices" title="Category:Optical devices">
+         Optical devices
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">
+         Webarchive template wayback links
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Coronagraph" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Coronagraph" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Coronagraph" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Coronagraph" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="collapsible selected" id="ca-view">
+        <span>
+         <a href="/wiki/Coronagraph">
+          Read
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Coronagraph&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Coronagraph&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Coronagraph" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Coronagraph" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Coronagraph&amp;oldid=823915538" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Coronagraph&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q835032" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Coronagraph&amp;id=823915538" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Coronagraph">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Coronagraph&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Coronagraph&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+     <h3 id="p-wikibase-otherprojects-label">
+      In other projects
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="wb-otherproject-link wb-otherproject-commons">
+        <a href="https://commons.wikimedia.org/wiki/Category:Coronagraph/Polarimeter" hreflang="en">
+         Wikimedia Commons
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-ar">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%85%D8%B1%D8%B3%D8%A7%D9%85_%D8%A7%D9%84%D8%A5%D9%83%D9%84%D9%8A%D9%84" hreflang="ar" lang="ar" title="مرسام الإكليل – Arabic">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Coron%C3%B2graf" hreflang="ca" lang="ca" title="Coronògraf – Catalan">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cs">
+        <a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Koronograf" hreflang="cs" lang="cs" title="Koronograf – Czech">
+         Čeština
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-da">
+        <a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Koronagraf" hreflang="da" lang="da" title="Koronagraf – Danish">
+         Dansk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Koronograf" hreflang="de" lang="de" title="Koronograf – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-et">
+        <a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Koronograaf" hreflang="et" lang="et" title="Koronograaf – Estonian">
+         Eesti
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Coron%C3%B3grafo" hreflang="es" lang="es" title="Coronógrafo – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Coronographie" hreflang="fr" lang="fr" title="Coronographie – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ga">
+        <a class="interlanguage-link-target" href="https://ga.wikipedia.org/wiki/Cor%C3%B3nagraf" hreflang="ga" lang="ga" title="Corónagraf – Irish">
+         Gaeilge
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hr">
+        <a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Koronagraf" hreflang="hr" lang="hr" title="Koronagraf – Croatian">
+         Hrvatski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Coronografo" hreflang="it" lang="it" title="Coronografo – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ky">
+        <a class="interlanguage-link-target" href="https://ky.wikipedia.org/wiki/%D0%9A%D0%BE%D1%80%D0%BE%D0%BD%D0%BE%D0%B3%D1%80%D0%B0%D1%84" hreflang="ky" lang="ky" title="Коронограф – Kyrgyz">
+         Кыргызча
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lb">
+        <a class="interlanguage-link-target" href="https://lb.wikipedia.org/wiki/Koronograph" hreflang="lb" lang="lb" title="Koronograph – Luxembourgish">
+         Lëtzebuergesch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lt">
+        <a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Koronografas" hreflang="lt" lang="lt" title="Koronografas – Lithuanian">
+         Lietuvių
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nl">
+        <a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Coronagraaf" hreflang="nl" lang="nl" title="Coronagraaf – Dutch">
+         Nederlands
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AD%E3%83%8A%E3%82%B0%E3%83%A9%E3%83%95" hreflang="ja" lang="ja" title="コロナグラフ – Japanese">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-no">
+        <a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Koronagraf" hreflang="no" lang="no" title="Koronagraf – Norwegian">
+         Norsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nn">
+        <a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Koronagraf" hreflang="nn" lang="nn" title="Koronagraf – Norwegian Nynorsk">
+         Norsk nynorsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uz">
+        <a class="interlanguage-link-target" href="https://uz.wikipedia.org/wiki/Koronograf" hreflang="uz" lang="uz" title="Koronograf – Uzbek">
+         Oʻzbekcha/ўзбекча
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pl">
+        <a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Koronograf" hreflang="pl" lang="pl" title="Koronograf – Polish">
+         Polski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Coron%C3%B3grafo" hreflang="pt" lang="pt" title="Coronógrafo – Portuguese">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ro">
+        <a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Coronograf" hreflang="ro" lang="ro" title="Coronograf – Romanian">
+         Română
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%80%D0%BE%D0%BD%D0%BE%D0%B3%D1%80%D0%B0%D1%84" hreflang="ru" lang="ru" title="Коронограф – Russian">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-simple">
+        <a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Coronagraph" hreflang="simple" lang="simple" title="Coronagraph – Simple English">
+         Simple English
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sk">
+        <a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Koronograf" hreflang="sk" lang="sk" title="Koronograf – Slovak">
+         Slovenčina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sr">
+        <a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/Koronograf" hreflang="sr" lang="sr" title="Koronograf – Serbian">
+         Српски / srpski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fi">
+        <a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Koronagrafi" hreflang="fi" lang="fi" title="Koronagrafi – Finnish">
+         Suomi
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sv">
+        <a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Koronagraf" hreflang="sv" lang="sv" title="Koronagraf – Swedish">
+         Svenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E6%97%A5%E5%86%95%E4%BB%AA" hreflang="zh" lang="zh" title="日冕仪 – Chinese">
+         中文
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q835032#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 4 February 2018, at 05:20.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Coronagraph&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.144","walltime":"0.183","ppvisitednodes":{"value":302,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":5253,"limit":2097152},"templateargumentsize":{"value":318,"limit":2097152},"expansiondepth":{"value":9,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  144.804      1 -total"," 30.19%   43.710      1 Template:Cite_journal"," 22.63%   32.768      1 Template:Commons_category"," 16.03%   23.216      1 Template:Main","  8.09%   11.722      1 Template:Commons","  6.98%   10.101      1 Template:Sister_project","  5.11%    7.395      1 Template:Webarchive","  4.85%    7.024      1 Template:Side_box"]},"scribunto":{"limitreport-timeusage":{"value":"0.037","limit":"10.000"},"limitreport-memusage":{"value":1572720,"limit":52428800}},"cachereport":{"origin":"mw1300","timestamp":"20180204052013","ttl":1900800,"transientcontent":false}}});});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":72,"wgHostname":"mw1332"});});
+  </script>
+ </body>
+</html>

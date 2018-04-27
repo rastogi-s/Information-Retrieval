@@ -1,0 +1,4133 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Phonology - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Phonology","wgTitle":"Phonology","wgCurRevisionId":819352374,"wgRevisionId":819352374,"wgArticleId":23247,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles containing Ancient Greek-language text","Articles with inconsistent citation formats","Articles with DMOZ links","Use dmy dates from July 2011","Wikipedia articles with GND identifiers","Phonology"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Phonology","wgRelevantArticleId":23247,"wgRequestId":"WnNu@wpAICEAAIRQbKoAAAAF","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q40998","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.31.0-wmf.17" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Phonology" rel="alternate"/>
+  <link href="/w/index.php?title=Phonology&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Phonology&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/Phonology" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Phonology rootpage-Phonology skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Phonology
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <div class="hatnote navigation-not-searchable" role="note">
+       For the journal, see
+       <a href="/wiki/Phonology_(journal)" title="Phonology (journal)">
+        Phonology (journal)
+       </a>
+       .
+      </div>
+      <table class="vertical-navbox nowraplinks plainlist" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+       <tr>
+        <th style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em;padding-bottom:0.5em;">
+         <a href="/wiki/Linguistics" title="Linguistics">
+          Linguistics
+         </a>
+        </th>
+       </tr>
+       <tr>
+        <th style="padding:0.1em;background:#ddf;">
+         <a href="/wiki/Theoretical_linguistics" title="Theoretical linguistics">
+          Theoretical
+         </a>
+        </th>
+       </tr>
+       <tr>
+        <td style="padding:0 0.1em 0.4em;padding:0.2em 0.5em 0.8em;">
+         <div class="hlist">
+          <ul>
+           <li>
+            <a href="/wiki/Cognitive_linguistics" title="Cognitive linguistics">
+             Cognitive
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Constraint-based_grammar" title="Constraint-based grammar">
+             Constraint-based
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Generative_grammar" title="Generative grammar">
+             Generative
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Structural_linguistics" title="Structural linguistics">
+             Structuralist
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Quantitative_linguistics" title="Quantitative linguistics">
+             Quantitative
+            </a>
+           </li>
+          </ul>
+         </div>
+         <ul>
+          <li>
+           <a href="/wiki/Functional_theories_of_grammar" title="Functional theories of grammar">
+            Functional theories of grammar
+           </a>
+          </li>
+         </ul>
+         <div class="hlist">
+          <ul>
+           <li>
+            <a class="mw-selflink selflink">
+             Phonology
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Morphology_(linguistics)" title="Morphology (linguistics)">
+             Morphology
+            </a>
+           </li>
+           <li>
+            <br/>
+            <a href="/wiki/Morphophonology" title="Morphophonology">
+             Morphophonology
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Syntax" title="Syntax">
+             Syntax
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Lexis_(linguistics)" title="Lexis (linguistics)">
+             Lexis
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Semantics" title="Semantics">
+             Semantics
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Pragmatics" title="Pragmatics">
+             Pragmatics
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Graphemics" title="Graphemics">
+             Graphemics
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Orthography" title="Orthography">
+             Orthography
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Semiotics" title="Semiotics">
+             Semiotics
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr>
+        <th style="padding:0.1em;background:#ddf;">
+         <a href="/wiki/Linguistic_description" title="Linguistic description">
+          Descriptive
+         </a>
+        </th>
+       </tr>
+       <tr>
+        <td style="padding:0 0.1em 0.4em;padding:0.2em 0.5em 0.8em;">
+         <div class="hlist">
+          <ul>
+           <li>
+            <a href="/wiki/Anthropological_linguistics" title="Anthropological linguistics">
+             Anthropological
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Comparative_linguistics" title="Comparative linguistics">
+             Comparative
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Historical_linguistics" title="Historical linguistics">
+             Historical
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Etymology" title="Etymology">
+             Etymology
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Graphetics" title="Graphetics">
+             Graphetics
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Phonetics" title="Phonetics">
+             Phonetics
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sociolinguistics" title="Sociolinguistics">
+             Sociolinguistics
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Cherology" title="Cherology">
+             Cherology
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr>
+        <th style="padding:0.1em;background:#ddf;">
+         <a href="/wiki/Applied_linguistics" title="Applied linguistics">
+          Applied
+         </a>
+         and experimental
+        </th>
+       </tr>
+       <tr>
+        <td style="padding:0 0.1em 0.4em;padding:0.2em 0.5em 0.8em;">
+         <div class="hlist">
+          <ul>
+           <li>
+            <a href="/wiki/Computational_linguistics" title="Computational linguistics">
+             Computational
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Contrastive_linguistics" title="Contrastive linguistics">
+             Contrastive
+            </a>
+           </li>
+           <li>
+            <br/>
+            <a href="/wiki/Evolutionary_linguistics" title="Evolutionary linguistics">
+             Evolutionary
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Forensic_linguistics" title="Forensic linguistics">
+             Forensic
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Internet_linguistics" title="Internet linguistics">
+             Internet
+            </a>
+           </li>
+          </ul>
+         </div>
+         <ul>
+          <li>
+           <a href="/wiki/Language_acquisition" title="Language acquisition">
+            Language acquisition
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Second-language_acquisition" title="Second-language acquisition">
+            Second-language acquisition
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Language_assessment" title="Language assessment">
+            Language assessment
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Language_development" title="Language development">
+            Language development
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Language_education" title="Language education">
+            Language education
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Linguistic_anthropology" title="Linguistic anthropology">
+            Linguistic anthropology
+           </a>
+          </li>
+         </ul>
+         <div class="hlist">
+          <ul>
+           <li>
+            <a href="/wiki/Neurolinguistics" title="Neurolinguistics">
+             Neurolinguistics
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Psycholinguistics" title="Psycholinguistics">
+             Psycholinguistics
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr>
+        <th style="padding:0.1em;background:#ddf;">
+         Related articles
+        </th>
+       </tr>
+       <tr>
+        <td style="padding:0 0.1em 0.4em;padding:0.2em 0.5em 0.8em;">
+         <ul>
+          <li>
+           <a href="/wiki/History_of_linguistics" title="History of linguistics">
+            History of linguistics
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Linguistic_prescription" title="Linguistic prescription">
+            Linguistic prescription
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/List_of_linguists" title="List of linguists">
+            List of linguists
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/List_of_unsolved_problems_in_linguistics" title="List of unsolved problems in linguistics">
+            Unsolved linguistics problems
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Origin_of_language" title="Origin of language">
+            Origin of language
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Origin_of_speech" title="Origin of speech">
+            Origin of speech
+           </a>
+          </li>
+         </ul>
+        </td>
+       </tr>
+       <tr>
+        <td style="padding:0.3em 0.4em 0.3em;font-weight:bold;background:#ddf;">
+         <a href="/wiki/Portal:Linguistics" title="Portal:Linguistics">
+          Linguistics portal
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td style="text-align:right;font-size:115%">
+         <div class="plainlinks hlist navbar mini">
+          <ul>
+           <li class="nv-view">
+            <a href="/wiki/Template:Linguistics" title="Template:Linguistics">
+             <abbr title="View this template">
+              v
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-talk">
+            <a href="/wiki/Template_talk:Linguistics" title="Template talk:Linguistics">
+             <abbr title="Discuss this template">
+              t
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-edit">
+            <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Linguistics&amp;action=edit">
+             <abbr title="Edit this template">
+              e
+             </abbr>
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+      </table>
+      <p>
+       <b>
+        Phonology
+       </b>
+       is a branch of
+       <a href="/wiki/Linguistics" title="Linguistics">
+        linguistics
+       </a>
+       concerned with the systematic organization of
+       <a href="/wiki/Sound" title="Sound">
+        sounds
+       </a>
+       in languages. It has traditionally focused largely on the study of the
+       <a href="/wiki/System" title="System">
+        systems
+       </a>
+       of
+       <a href="/wiki/Phoneme" title="Phoneme">
+        phonemes
+       </a>
+       in particular
+       <a href="/wiki/Language" title="Language">
+        languages
+       </a>
+       (and therefore used to be also called
+       <i>
+        phonemics
+       </i>
+       , or
+       <i>
+        phonematics
+       </i>
+       ), but it may also cover any
+       <a class="mw-redirect" href="/wiki/Linguistic_analysis" title="Linguistic analysis">
+        linguistic analysis
+       </a>
+       either at a level beneath the word (including
+       <a href="/wiki/Syllable" title="Syllable">
+        syllable
+       </a>
+       , onset and
+       <a class="mw-redirect" href="/wiki/Syllable_rime" title="Syllable rime">
+        rime
+       </a>
+       ,
+       <a href="/wiki/Articulatory_gestures" title="Articulatory gestures">
+        articulatory gestures
+       </a>
+       , articulatory features,
+       <a href="/wiki/Mora_(linguistics)" title="Mora (linguistics)">
+        mora
+       </a>
+       , etc.) or at all levels of language where
+       <a href="/wiki/Sound" title="Sound">
+        sound
+       </a>
+       is considered to be structured for conveying
+       <a class="mw-redirect" href="/wiki/Linguistic_meaning" title="Linguistic meaning">
+        linguistic meaning
+       </a>
+       .
+      </p>
+      <p>
+       Phonology also includes the study of equivalent non-oral languages such as
+       <a class="mw-redirect" href="/wiki/ASL" title="ASL">
+        ASL
+       </a>
+       or other
+       <a href="/wiki/Sign_language" title="Sign language">
+        sign languages
+       </a>
+       .
+      </p>
+      <p>
+      </p>
+      <div class="toc" id="toc">
+       <div class="toctitle" dir="ltr" lang="en" xml:lang="en">
+        <h2>
+         Contents
+        </h2>
+       </div>
+       <ul>
+        <li class="toclevel-1 tocsection-1">
+         <a href="#Terminology">
+          <span class="tocnumber">
+           1
+          </span>
+          <span class="toctext">
+           Terminology
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-2">
+         <a href="#Derivation_and_definitions">
+          <span class="tocnumber">
+           2
+          </span>
+          <span class="toctext">
+           Derivation and definitions
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-3">
+         <a href="#History">
+          <span class="tocnumber">
+           3
+          </span>
+          <span class="toctext">
+           History
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-4">
+         <a href="#Analysis_of_phonemes">
+          <span class="tocnumber">
+           4
+          </span>
+          <span class="toctext">
+           Analysis of phonemes
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-5">
+         <a href="#Other_topics_in_phonology">
+          <span class="tocnumber">
+           5
+          </span>
+          <span class="toctext">
+           Other topics in phonology
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-6">
+         <a href="#See_also">
+          <span class="tocnumber">
+           6
+          </span>
+          <span class="toctext">
+           See also
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-7">
+         <a href="#Notes">
+          <span class="tocnumber">
+           7
+          </span>
+          <span class="toctext">
+           Notes
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-8">
+         <a href="#Bibliography">
+          <span class="tocnumber">
+           8
+          </span>
+          <span class="toctext">
+           Bibliography
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-9">
+         <a href="#External_links">
+          <span class="tocnumber">
+           9
+          </span>
+          <span class="toctext">
+           External links
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <p>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Terminology">
+        Terminology
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Phonology&amp;action=edit&amp;section=1" title="Edit section: Terminology">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       The word 'phonology' (as in
+       <i>
+        <a href="/wiki/English_phonology" title="English phonology">
+         the phonology of English
+        </a>
+       </i>
+       ) can also refer to the phonological system (sound system) of a given language. This is one of the fundamental systems which a language is considered to comprise, like its
+       <a href="/wiki/Syntax" title="Syntax">
+        syntax
+       </a>
+       and its
+       <a href="/wiki/Vocabulary" title="Vocabulary">
+        vocabulary
+       </a>
+       .
+      </p>
+      <p>
+       Phonology is often distinguished from
+       <i>
+        <a href="/wiki/Phonetics" title="Phonetics">
+         phonetics
+        </a>
+       </i>
+       . While phonetics concerns the physical production, acoustic transmission and
+       <a href="/wiki/Perception" title="Perception">
+        perception
+       </a>
+       of the sounds of speech,
+       <sup class="reference" id="cite_ref-Lass1998_1-0">
+        <a href="#cite_note-Lass1998-1">
+         [1]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-Carr2003_2-0">
+        <a href="#cite_note-Carr2003-2">
+         [2]
+        </a>
+       </sup>
+       phonology describes the way sounds function within a given language or across languages to encode meaning. For many linguists, phonetics belongs to
+       <a class="mw-redirect" href="/wiki/Descriptive_linguistics" title="Descriptive linguistics">
+        descriptive linguistics
+       </a>
+       , and phonology to
+       <a href="/wiki/Theoretical_linguistics" title="Theoretical linguistics">
+        theoretical linguistics
+       </a>
+       , although establishing the phonological system of a language is necessarily an application of theoretical principles to analysis of phonetic evidence. Note that this distinction was not always made, particularly before the development of the modern concept of the
+       <a href="/wiki/Phoneme" title="Phoneme">
+        phoneme
+       </a>
+       in the mid 20th century. Some subfields of modern phonology have a crossover with phonetics in descriptive disciplines such as
+       <a href="/wiki/Psycholinguistics" title="Psycholinguistics">
+        psycholinguistics
+       </a>
+       and
+       <a href="/wiki/Speech_perception" title="Speech perception">
+        speech perception
+       </a>
+       , resulting in specific areas like
+       <a href="/wiki/Articulatory_phonology" title="Articulatory phonology">
+        articulatory phonology
+       </a>
+       or
+       <a href="/wiki/Laboratory_phonology" title="Laboratory phonology">
+        laboratory phonology
+       </a>
+       .
+      </p>
+      <h2>
+       <span class="mw-headline" id="Derivation_and_definitions">
+        Derivation and definitions
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Phonology&amp;action=edit&amp;section=2" title="Edit section: Derivation and definitions">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       The word
+       <i>
+        phonology
+       </i>
+       comes from
+       <a href="/wiki/Ancient_Greek" title="Ancient Greek">
+        Ancient Greek
+       </a>
+       <span lang="grc" xml:lang="grc">
+        φωνή
+       </span>
+       ,
+       <i>
+        phōnḗ
+       </i>
+       , "voice, sound," and the suffix
+       <i>
+        <a href="/wiki/-logy" title="-logy">
+         -logy
+        </a>
+       </i>
+       (which is from Greek
+       <span lang="grc" xml:lang="grc">
+        λόγος
+       </span>
+       ,
+       <i>
+        lógos
+       </i>
+       , "word, speech, subject of discussion"). Definitions of the term vary.
+       <a href="/wiki/Nikolai_Trubetzkoy" title="Nikolai Trubetzkoy">
+        Nikolai Trubetzkoy
+       </a>
+       in
+       <i>
+        Grundzüge der Phonologie
+       </i>
+       (1939) defines phonology as "the study of sound pertaining to the system of language," as opposed to phonetics, which is "the study of sound pertaining to the act of speech" (the distinction between
+       <i>
+        language
+       </i>
+       and
+       <i>
+        speech
+       </i>
+       being basically
+       <a href="/wiki/Ferdinand_de_Saussure" title="Ferdinand de Saussure">
+        Saussure
+       </a>
+       's distinction between
+       <a href="/wiki/Langue_and_parole" title="Langue and parole">
+        <i>
+         langue
+        </i>
+        and
+        <i>
+         parole
+        </i>
+       </a>
+       ).
+       <sup class="reference" id="cite_ref-GdP_3-0">
+        <a href="#cite_note-GdP-3">
+         [3]
+        </a>
+       </sup>
+       More recently, Lass (1998) writes that phonology refers broadly to the subdiscipline of linguistics concerned with the sounds of language, while in more narrow terms, "phonology proper is concerned with the function, behavior and organization of sounds as linguistic items."
+       <sup class="reference" id="cite_ref-Lass1998_1-1">
+        <a href="#cite_note-Lass1998-1">
+         [1]
+        </a>
+       </sup>
+       According to Clark
+       <i>
+        et al.
+       </i>
+       (2007), it means the systematic use of
+       <a href="/wiki/Sound" title="Sound">
+        sound
+       </a>
+       to encode meaning in any spoken
+       <a class="mw-redirect" href="/wiki/Human_language" title="Human language">
+        human language
+       </a>
+       , or the field of linguistics studying this use.
+       <sup class="reference" id="cite_ref-ClarkEtal2007_4-0">
+        <a href="#cite_note-ClarkEtal2007-4">
+         [4]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="History">
+        History
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Phonology&amp;action=edit&amp;section=3" title="Edit section: History">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       Early evidence for a systematic study of the sounds in a language appears in the 4th century BCE
+       <i>
+        <a class="mw-redirect" href="/wiki/Ashtadhyayi" title="Ashtadhyayi">
+         Ashtadhyayi
+        </a>
+       </i>
+       , a
+       <a href="/wiki/Sanskrit" title="Sanskrit">
+        Sanskrit
+       </a>
+       grammar composed by Pāṇini. In particular the
+       <i>
+        <a href="/wiki/Shiva_Sutras" title="Shiva Sutras">
+         Shiva Sutras
+        </a>
+       </i>
+       , an auxiliary text to the
+       <i>
+        Ashtadhyayi
+       </i>
+       , introduces what may be considered a list of the phonemes of the Sanskrit language, with a notational system for them that is used throughout the main text, which deals with matters of
+       <a href="/wiki/Morphology_(linguistics)" title="Morphology (linguistics)">
+        morphology
+       </a>
+       ,
+       <a href="/wiki/Syntax" title="Syntax">
+        syntax
+       </a>
+       and
+       <a href="/wiki/Semantics" title="Semantics">
+        semantics
+       </a>
+       .
+      </p>
+      <p>
+       The study of phonology as it exists today is defined by the formative studies of the 19th-century Polish scholar
+       <a href="/wiki/Jan_Baudouin_de_Courtenay" title="Jan Baudouin de Courtenay">
+        Jan Baudouin de Courtenay
+       </a>
+       , who (together with his students
+       <a href="/wiki/Miko%C5%82aj_Kruszewski" title="Mikołaj Kruszewski">
+        Mikołaj Kruszewski
+       </a>
+       and
+       <a href="/wiki/Lev_Shcherba" title="Lev Shcherba">
+        Lev Shcherba
+       </a>
+       ) shaped the modern usage of the term
+       <i>
+        <a href="/wiki/Phoneme" title="Phoneme">
+         phoneme
+        </a>
+       </i>
+       in a series of lectures in 1876-1877. The word
+       <i>
+        phoneme
+       </i>
+       had been coined a few years earlier in 1873 by the French linguist
+       <a class="mw-redirect" href="/wiki/A._Dufriche-Desgenettes" title="A. Dufriche-Desgenettes">
+        A. Dufriche-Desgenettes
+       </a>
+       . In a paper read at the 24th of May meeting of the
+       <a href="/wiki/Soci%C3%A9t%C3%A9_de_Linguistique_de_Paris" title="Société de Linguistique de Paris">
+        Société de Linguistique de Paris
+       </a>
+       ,
+       <sup class="reference" id="cite_ref-5">
+        <a href="#cite_note-5">
+         [5]
+        </a>
+       </sup>
+       Dufriche-Desgenettes proposed that
+       <i>
+        phoneme
+       </i>
+       serve as a one-word equivalent for the German
+       <i>
+        Sprachlaut
+       </i>
+       .
+       <sup class="reference" id="cite_ref-6">
+        <a href="#cite_note-6">
+         [6]
+        </a>
+       </sup>
+       Baudouin de Courtenay's subsequent work, though often unacknowledged, is considered to be the starting point of modern phonology. He also worked on the theory of phonetic alternations (what is now called
+       <a class="mw-redirect" href="/wiki/Allophony" title="Allophony">
+        allophony
+       </a>
+       and
+       <a href="/wiki/Morphophonology" title="Morphophonology">
+        morphophonology
+       </a>
+       ), and may have had an influence on the work of Saussure according to
+       <a href="/wiki/E._F._K._Koerner" title="E. F. K. Koerner">
+        E. F. K. Koerner
+       </a>
+       .
+       <sup class="reference" id="cite_ref-7">
+        <a href="#cite_note-7">
+         [7]
+        </a>
+       </sup>
+      </p>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:162px;">
+        <a class="image" href="/wiki/File:Nikolai_Trubetzkoy.jpg">
+         <img alt="" class="thumbimage" data-file-height="350" data-file-width="250" height="224" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Nikolai_Trubetzkoy.jpg/160px-Nikolai_Trubetzkoy.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Nikolai_Trubetzkoy.jpg/240px-Nikolai_Trubetzkoy.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/4/47/Nikolai_Trubetzkoy.jpg 2x" width="160"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Nikolai_Trubetzkoy.jpg" title="Enlarge">
+          </a>
+         </div>
+         Nikolai Trubetzkoy, 1920s
+        </div>
+       </div>
+      </div>
+      <p>
+       An influential school of phonology in the interwar period was the
+       <a class="mw-redirect" href="/wiki/Prague_school" title="Prague school">
+        Prague school
+       </a>
+       . One of its leading members was Prince
+       <a href="/wiki/Nikolai_Trubetzkoy" title="Nikolai Trubetzkoy">
+        Nikolai Trubetzkoy
+       </a>
+       , whose
+       <i>
+        Grundzüge der Phonologie
+       </i>
+       (
+       <i>
+        Principles of Phonology
+       </i>
+       ),
+       <sup class="reference" id="cite_ref-GdP_3-1">
+        <a href="#cite_note-GdP-3">
+         [3]
+        </a>
+       </sup>
+       published posthumously in 1939, is among the most important works in the field from this period. Directly influenced by Baudouin de Courtenay, Trubetzkoy is considered the founder of
+       <a href="/wiki/Morphophonology" title="Morphophonology">
+        morphophonology
+       </a>
+       , although this concept had also been recognized by de Courtenay. Trubetzkoy also developed the concept of the
+       <i>
+        <a class="mw-redirect" href="/wiki/Archiphoneme" title="Archiphoneme">
+         archiphoneme
+        </a>
+       </i>
+       . Another important figure in the Prague school was
+       <a href="/wiki/Roman_Jakobson" title="Roman Jakobson">
+        Roman Jakobson
+       </a>
+       , who was one of the most prominent linguists of the 20th century.
+      </p>
+      <p>
+       In 1968
+       <a href="/wiki/Noam_Chomsky" title="Noam Chomsky">
+        Noam Chomsky
+       </a>
+       and
+       <a href="/wiki/Morris_Halle" title="Morris Halle">
+        Morris Halle
+       </a>
+       published
+       <i>
+        <a href="/wiki/The_Sound_Pattern_of_English" title="The Sound Pattern of English">
+         The Sound Pattern of English
+        </a>
+       </i>
+       (SPE), the basis for
+       <a class="mw-redirect" href="/wiki/Generative_phonology" title="Generative phonology">
+        generative phonology
+       </a>
+       . In this view, phonological representations are sequences of
+       <a href="/wiki/Segment_(linguistics)" title="Segment (linguistics)">
+        segments
+       </a>
+       made up of
+       <a href="/wiki/Distinctive_feature" title="Distinctive feature">
+        distinctive features
+       </a>
+       . These features were an expansion of earlier work by Roman Jakobson,
+       <a href="/wiki/Gunnar_Fant" title="Gunnar Fant">
+        Gunnar Fant
+       </a>
+       , and Morris Halle. The features describe aspects of articulation and perception, are from a universally fixed set, and have the binary values + or −. There are at least two levels of representation:
+       <a href="/wiki/Underlying_representation" title="Underlying representation">
+        underlying representation
+       </a>
+       and surface phonetic representation. Ordered phonological rules govern how
+       <a href="/wiki/Underlying_representation" title="Underlying representation">
+        underlying representation
+       </a>
+       is transformed into the actual pronunciation (the so-called surface form). An important consequence of the influence SPE had on phonological theory was the downplaying of the syllable and the emphasis on segments. Furthermore, the generativists folded
+       <a href="/wiki/Morphophonology" title="Morphophonology">
+        morphophonology
+       </a>
+       into phonology, which both solved and created problems.
+      </p>
+      <p>
+       Natural phonology is a theory based on the publications of its proponent David Stampe in 1969 and (more explicitly) in 1979. In this view, phonology is based on a set of universal
+       <a class="mw-redirect" href="/wiki/Phonological_process" title="Phonological process">
+        phonological processes
+       </a>
+       that interact with one another; which ones are active and which are suppressed is language-specific. Rather than acting on segments, phonological processes act on
+       <a href="/wiki/Distinctive_feature" title="Distinctive feature">
+        distinctive features
+       </a>
+       within prosodic groups. Prosodic groups can be as small as a part of a syllable or as large as an entire utterance. Phonological processes are unordered with respect to each other and apply simultaneously (though the output of one process may be the input to another). The second most prominent natural phonologist is
+       <a class="new" href="/w/index.php?title=Patricia_Donegan&amp;action=edit&amp;redlink=1" title="Patricia Donegan (page does not exist)">
+        Patricia Donegan
+       </a>
+       (Stampe's wife); there are many natural phonologists in Europe, and a few in the U.S., such as Geoffrey Nathan. The principles of natural phonology were extended to
+       <a href="/wiki/Morphology_(linguistics)" title="Morphology (linguistics)">
+        morphology
+       </a>
+       by
+       <a href="/wiki/Wolfgang_U._Dressler" title="Wolfgang U. Dressler">
+        Wolfgang U. Dressler
+       </a>
+       , who founded natural morphology.
+      </p>
+      <p>
+       In 1976,
+       <a href="/wiki/John_Goldsmith_(linguist)" title="John Goldsmith (linguist)">
+        John Goldsmith
+       </a>
+       introduced
+       <a href="/wiki/Autosegmental_phonology" title="Autosegmental phonology">
+        autosegmental phonology
+       </a>
+       . Phonological phenomena are no longer seen as operating on
+       <i>
+        one
+       </i>
+       linear sequence of segments, called phonemes or feature combinations, but rather as involving
+       <i>
+        some parallel sequences
+       </i>
+       of features which reside on multiple tiers. Autosegmental phonology later evolved into
+       <a href="/wiki/Feature_geometry" title="Feature geometry">
+        feature geometry
+       </a>
+       , which became the standard theory of representation for theories of the organization of phonology as different as lexical phonology and
+       <a class="mw-redirect" href="/wiki/Optimality_theory" title="Optimality theory">
+        optimality theory
+       </a>
+       .
+      </p>
+      <p>
+       <a href="/wiki/Government_phonology" title="Government phonology">
+        Government phonology
+       </a>
+       , which originated in the early 1980s as an attempt to unify theoretical notions of syntactic and phonological structures, is based on the notion that all languages necessarily follow a small set of
+       <a href="/wiki/Principle" title="Principle">
+        principles
+       </a>
+       and vary according to their selection of certain binary
+       <a href="/wiki/Parameter" title="Parameter">
+        parameters
+       </a>
+       . That is, all languages' phonological structures are essentially the same, but there is restricted variation that accounts for differences in surface realizations. Principles are held to be inviolable, though parameters may sometimes come into conflict. Prominent figures in this field include
+       <a href="/wiki/Jonathan_Kaye_(linguist)" title="Jonathan Kaye (linguist)">
+        Jonathan Kaye
+       </a>
+       , Jean Lowenstamm, Jean-Roger Vergnaud, Monik Charette, and John Harris.
+      </p>
+      <p>
+       In a course at the LSA summer institute in 1991,
+       <a href="/wiki/Alan_Prince" title="Alan Prince">
+        Alan Prince
+       </a>
+       and
+       <a href="/wiki/Paul_Smolensky" title="Paul Smolensky">
+        Paul Smolensky
+       </a>
+       developed
+       <a class="mw-redirect" href="/wiki/Optimality_theory" title="Optimality theory">
+        optimality theory
+       </a>
+       —an overall architecture for phonology according to which languages choose a pronunciation of a word that best satisfies a list of constraints ordered by importance; a lower-ranked constraint can be violated when the violation is necessary in order to obey a higher-ranked constraint. The approach was soon extended to morphology by
+       <a href="/wiki/John_McCarthy_(linguist)" title="John McCarthy (linguist)">
+        John McCarthy
+       </a>
+       and
+       <a href="/wiki/Alan_Prince" title="Alan Prince">
+        Alan Prince
+       </a>
+       , and has become a dominant trend in phonology. The appeal to phonetic grounding of constraints and representational elements (e.g. features) in various approaches has been criticized by proponents of 'substance-free phonology', especially by
+       <a href="/wiki/Mark_Hale" title="Mark Hale">
+        Mark Hale
+       </a>
+       and
+       <a href="/wiki/Charles_Reiss" title="Charles Reiss">
+        Charles Reiss
+       </a>
+       .
+       <sup class="reference" id="cite_ref-HaleReiss2008_8-0">
+        <a href="#cite_note-HaleReiss2008-8">
+         [8]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-HaleReiss2000_9-0">
+        <a href="#cite_note-HaleReiss2000-9">
+         [9]
+        </a>
+       </sup>
+      </p>
+      <p>
+       An integrated approach to phonological theory that combines synchronic and diachronic accounts to sound patterns was initiated with
+       <a class="mw-redirect" href="/wiki/Evolutionary_Phonology" title="Evolutionary Phonology">
+        Evolutionary Phonology
+       </a>
+       in recent years.
+       <sup class="reference" id="cite_ref-10">
+        <a href="#cite_note-10">
+         [10]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Analysis_of_phonemes">
+        Analysis of phonemes
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Phonology&amp;action=edit&amp;section=4" title="Edit section: Analysis of phonemes">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       An important part of traditional, pre-generative schools of phonology is studying which sounds can be grouped into distinctive units within a language; these units are known as
+       <a href="/wiki/Phoneme" title="Phoneme">
+        phonemes
+       </a>
+       . For example, in English, the "p" sound in
+       <i>
+        pot
+       </i>
+       is
+       <a class="mw-redirect" href="/wiki/Aspiration_(phonetics)" title="Aspiration (phonetics)">
+        aspirated
+       </a>
+       (pronounced
+       <span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)">
+        [pʰ]
+       </span>
+       ) while that in
+       <i>
+        spot
+       </i>
+       is not aspirated (pronounced
+       <span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)">
+        [p]
+       </span>
+       ). However, English speakers intuitively treat both sounds as variations (
+       <a href="/wiki/Allophone" title="Allophone">
+        allophones
+       </a>
+       ) of the same phonological category, that is of the phoneme
+       <span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)">
+        /p/
+       </span>
+       . (Traditionally, it would be argued that if an aspirated
+       <span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)">
+        [pʰ]
+       </span>
+       were interchanged with the unaspirated
+       <span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)">
+        [p]
+       </span>
+       in
+       <i>
+        spot
+       </i>
+       , native speakers of English would still hear the same words; that is, the two sounds are perceived as "the same"
+       <span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)">
+        /p/
+       </span>
+       .) In some other languages, however, these two sounds are perceived as different, and they are consequently assigned to different phonemes. For example, in
+       <a href="/wiki/Thai_language" title="Thai language">
+        Thai
+       </a>
+       ,
+       <a href="/wiki/Hindi" title="Hindi">
+        Hindi
+       </a>
+       , and
+       <a class="mw-redirect" href="/wiki/Quechua_languages" title="Quechua languages">
+        Quechua
+       </a>
+       , there are
+       <a href="/wiki/Minimal_pair" title="Minimal pair">
+        minimal pairs
+       </a>
+       of words for which aspiration is the only contrasting feature (two words can have different meanings but with the only difference in pronunciation being that one has an aspirated sound where the other has an unaspirated one).
+      </p>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:258px;">
+        <a class="image" href="/wiki/File:Phonological_Diagram_of_modern_Arabic_and_Hebrew_vowels.png">
+         <img alt="" class="thumbimage" data-file-height="320" data-file-width="384" height="213" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Phonological_Diagram_of_modern_Arabic_and_Hebrew_vowels.png/256px-Phonological_Diagram_of_modern_Arabic_and_Hebrew_vowels.png" srcset="//upload.wikimedia.org/wikipedia/commons/c/c3/Phonological_Diagram_of_modern_Arabic_and_Hebrew_vowels.png 1.5x" width="256"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Phonological_Diagram_of_modern_Arabic_and_Hebrew_vowels.png" title="Enlarge">
+          </a>
+         </div>
+         The vowels of modern (Standard)
+         <a href="/wiki/Arabic" title="Arabic">
+          Arabic
+         </a>
+         and (Israeli)
+         <a class="mw-redirect" href="/wiki/Hebrew" title="Hebrew">
+          Hebrew
+         </a>
+         from the phonemic point of view. Note the intersection of the two circles—the distinction between short
+         <i>
+          a
+         </i>
+         ,
+         <i>
+          i
+         </i>
+         and
+         <i>
+          u
+         </i>
+         is made by both speakers, but Arabic lacks the mid articulation of short vowels, while Hebrew lacks the distinction of vowel length.
+        </div>
+       </div>
+      </div>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:258px;">
+        <a class="image" href="/wiki/File:Phonetic_Diagram_of_modern_Arabic_and_Hebrew_vowels.png">
+         <img alt="" class="thumbimage" data-file-height="320" data-file-width="576" height="142" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Phonetic_Diagram_of_modern_Arabic_and_Hebrew_vowels.png/256px-Phonetic_Diagram_of_modern_Arabic_and_Hebrew_vowels.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Phonetic_Diagram_of_modern_Arabic_and_Hebrew_vowels.png/384px-Phonetic_Diagram_of_modern_Arabic_and_Hebrew_vowels.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Phonetic_Diagram_of_modern_Arabic_and_Hebrew_vowels.png/512px-Phonetic_Diagram_of_modern_Arabic_and_Hebrew_vowels.png 2x" width="256"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Phonetic_Diagram_of_modern_Arabic_and_Hebrew_vowels.png" title="Enlarge">
+          </a>
+         </div>
+         The vowels of modern (Standard) Arabic and (Israeli) Hebrew from the phonetic point of view. Note that the two circles are totally separate—none of the vowel-sounds made by speakers of one language is made by speakers of the other.
+        </div>
+       </div>
+      </div>
+      <p>
+       Part of the phonological study of a language therefore involves looking at data (phonetic
+       <a href="/wiki/Transcription_(linguistics)" title="Transcription (linguistics)">
+        transcriptions
+       </a>
+       of the speech of
+       <a class="mw-redirect" href="/wiki/Native_speaker" title="Native speaker">
+        native speakers
+       </a>
+       ) and trying to deduce what the underlying
+       <a href="/wiki/Phoneme" title="Phoneme">
+        phonemes
+       </a>
+       are and what the sound inventory of the language is. The presence or absence of minimal pairs, as mentioned above, is a frequently used criterion for deciding whether two sounds should be assigned to the same phoneme. However, other considerations often need to be taken into account as well.
+      </p>
+      <p>
+       The particular contrasts which are phonemic in a language can change over time. At one time,
+       <span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)">
+        [f]
+       </span>
+       and
+       <span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)">
+        [v]
+       </span>
+       , two sounds that have the same place and manner of articulation and differ in voicing only, were
+       <a class="mw-redirect" href="/wiki/Allophones" title="Allophones">
+        allophones
+       </a>
+       of the same phoneme in English, but later came to belong to separate phonemes. This is one of the main factors of historical change of languages as described in
+       <a href="/wiki/Historical_linguistics" title="Historical linguistics">
+        historical linguistics
+       </a>
+       .
+      </p>
+      <p>
+       The findings and insights of speech perception and articulation research complicate the traditional and somewhat intuitive idea of interchangeable allophones being perceived as the same phoneme. First, interchanged allophones of the same phoneme can result in unrecognizable words. Second, actual speech, even at a word level, is highly co-articulated, so it is problematic to expect to be able to splice words into simple segments without affecting speech perception.
+      </p>
+      <p>
+       Different linguists therefore take different approaches to the problem of assigning sounds to phonemes. For example, they differ in the extent to which they require allophones to be phonetically similar. There are also differing ideas as to whether this grouping of sounds is purely a tool for linguistic analysis, or reflects an actual process in the way the human brain processes a language.
+      </p>
+      <p>
+       Since the early 1960s, theoretical linguists have moved away from the traditional concept of a phoneme, preferring to consider basic units at a more abstract level, as a component of
+       <a href="/wiki/Morpheme" title="Morpheme">
+        morphemes
+       </a>
+       ; these units can be called
+       <i>
+        morphophonemes
+       </i>
+       , and analysis using this approach is called
+       <a href="/wiki/Morphophonology" title="Morphophonology">
+        morphophonology
+       </a>
+       .
+      </p>
+      <h2>
+       <span class="mw-headline" id="Other_topics_in_phonology">
+        Other topics in phonology
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Phonology&amp;action=edit&amp;section=5" title="Edit section: Other topics in phonology">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       In addition to the minimal units that can serve the purpose of differentiating meaning (the
+       <a href="/wiki/Phoneme" title="Phoneme">
+        phonemes
+       </a>
+       ), phonology studies how sounds alternate, i.e. replace one another in different forms of the same morpheme (
+       <a href="/wiki/Allomorph" title="Allomorph">
+        allomorphs
+       </a>
+       ), as well as, for example,
+       <a href="/wiki/Syllable" title="Syllable">
+        syllable
+       </a>
+       structure,
+       <a href="/wiki/Stress_(linguistics)" title="Stress (linguistics)">
+        stress
+       </a>
+       ,
+       <a href="/wiki/Feature_geometry" title="Feature geometry">
+        feature geometry
+       </a>
+       ,
+       <a class="mw-redirect" href="/wiki/Accent_(phonetics)" title="Accent (phonetics)">
+        accent
+       </a>
+       , and
+       <a href="/wiki/Intonation_(linguistics)" title="Intonation (linguistics)">
+        intonation
+       </a>
+       .
+      </p>
+      <p>
+       Phonology also includes topics such as
+       <a href="/wiki/Phonotactics" title="Phonotactics">
+        phonotactics
+       </a>
+       (the phonological constraints on what sounds can appear in what positions in a given language) and
+       <a href="/wiki/Alternation_(linguistics)" title="Alternation (linguistics)">
+        phonological alternation
+       </a>
+       (how the pronunciation of a sound changes through the application of
+       <a href="/wiki/Phonological_rule" title="Phonological rule">
+        phonological rules
+       </a>
+       , sometimes in a given order which can be
+       <a href="/wiki/Feeding_order" title="Feeding order">
+        feeding
+       </a>
+       or
+       <a href="/wiki/Bleeding_order" title="Bleeding order">
+        bleeding
+       </a>
+       ,
+       <sup class="reference" id="cite_ref-11">
+        <a href="#cite_note-11">
+         [11]
+        </a>
+       </sup>
+       ) as well as
+       <a href="/wiki/Prosody_(linguistics)" title="Prosody (linguistics)">
+        prosody
+       </a>
+       , the study of
+       <a class="mw-redirect" href="/wiki/Suprasegmental" title="Suprasegmental">
+        suprasegmentals
+       </a>
+       and topics such as
+       <a href="/wiki/Stress_(linguistics)" title="Stress (linguistics)">
+        stress
+       </a>
+       and
+       <a href="/wiki/Intonation_(linguistics)" title="Intonation (linguistics)">
+        intonation
+       </a>
+       .
+      </p>
+      <p>
+       The principles of phonological analysis can be applied independently of
+       <a href="/wiki/Modality_(semiotics)" title="Modality (semiotics)">
+        modality
+       </a>
+       because they are designed to serve as general analytical tools, not language-specific ones. The same principles have been applied to the analysis of
+       <a href="/wiki/Sign_language" title="Sign language">
+        sign languages
+       </a>
+       (see
+       <a href="/wiki/Phoneme#Phonemes_in_sign_languages" title="Phoneme">
+        Phonemes in sign languages
+       </a>
+       ), even though the sub-lexical units are not instantiated as speech sounds.
+      </p>
+      <h2>
+       <span class="mw-headline" id="See_also">
+        See also
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Phonology&amp;action=edit&amp;section=6" title="Edit section: See also">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a href="/wiki/Absolute_neutralisation" title="Absolute neutralisation">
+         Absolute neutralisation
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Cherology" title="Cherology">
+         Cherology
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/English_phonology" title="English phonology">
+         English phonology
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/List_of_phonologists" title="List of phonologists">
+         List of phonologists
+        </a>
+        (also
+        <a href="/wiki/Category:Phonologists" title="Category:Phonologists">
+         Category: Phonologists
+        </a>
+        )
+       </li>
+       <li>
+        <a href="/wiki/Morphophonology" title="Morphophonology">
+         Morphophonology
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Phoneme" title="Phoneme">
+         Phoneme
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Phonological_development" title="Phonological development">
+         Phonological development
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Phonological_hierarchy" title="Phonological hierarchy">
+         Phonological hierarchy
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Prosody_(linguistics)" title="Prosody (linguistics)">
+         Prosody (linguistics)
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Phonotactics" title="Phonotactics">
+         Phonotactics
+        </a>
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/Second_language_phonology" title="Second language phonology">
+         Second language phonology
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Phonological_rule" title="Phonological rule">
+         Phonological rule
+        </a>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="Notes">
+        Notes
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Phonology&amp;action=edit&amp;section=7" title="Edit section: Notes">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+       <ol class="references">
+        <li id="cite_note-Lass1998-1">
+         <span class="mw-cite-backlink">
+          ^
+          <a href="#cite_ref-Lass1998_1-0">
+           <sup>
+            <i>
+             <b>
+              a
+             </b>
+            </i>
+           </sup>
+          </a>
+          <a href="#cite_ref-Lass1998_1-1">
+           <sup>
+            <i>
+             <b>
+              b
+             </b>
+            </i>
+           </sup>
+          </a>
+         </span>
+         <span class="reference-text">
+          <cite class="citation journal">
+           Lass, Roger (1998).
+           <a class="external text" href="https://books.google.com/books?id=aTsAt3D6H58C&amp;printsec=frontcover&amp;dq=phonology#v=onepage&amp;q&amp;f=false" rel="nofollow">
+            "Phonology: An Introduction to Basic Concepts"
+           </a>
+           . Cambridge, UK; New York; Melbourne, Australia:
+           <a href="/wiki/Cambridge_University_Press" title="Cambridge University Press">
+            Cambridge University Press
+           </a>
+           : 1.
+           <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+            ISBN
+           </a>
+           <a href="/wiki/Special:BookSources/0-521-23728-9" title="Special:BookSources/0-521-23728-9">
+            0-521-23728-9
+           </a>
+           <span class="reference-accessdate">
+            . Retrieved
+            <span class="nowrap">
+             8 January
+            </span>
+            2011
+           </span>
+           Paperback
+           <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+            ISBN
+           </a>
+           <a href="/wiki/Special:BookSources/0-521-28183-0" title="Special:BookSources/0-521-28183-0">
+            0-521-28183-0
+           </a>
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Phonology%3A+An+Introduction+to+Basic+Concepts&amp;rft.pages=1&amp;rft.date=1998&amp;rft.isbn=0-521-23728-9&amp;rft.au=Lass%2C+Roger&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DaTsAt3D6H58C%26printsec%3Dfrontcover%26dq%3Dphonology%23v%3Donepage%26q%26f%3Dfalse&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhonology">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-Carr2003-2">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-Carr2003_2-0">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation book">
+           Carr, Philip (2003).
+           <a class="external text" href="https://books.google.com/books?id=p5a7mmpqbt0C&amp;printsec=frontcover&amp;dq=introduction+phonetics+phonology#v=onepage&amp;q&amp;f=false" rel="nofollow">
+            <i>
+             English Phonetics and Phonology: An Introduction
+            </i>
+           </a>
+           . Massachusetts, USA; Oxford, UK; Victoria, Australia; Berlin, Germany: Blackwell Publishing.
+           <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+            ISBN
+           </a>
+           <a href="/wiki/Special:BookSources/0-631-19775-3" title="Special:BookSources/0-631-19775-3">
+            0-631-19775-3
+           </a>
+           <span class="reference-accessdate">
+            . Retrieved
+            <span class="nowrap">
+             8 January
+            </span>
+            2011
+           </span>
+           Paperback
+           <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+            ISBN
+           </a>
+           <a href="/wiki/Special:BookSources/0-631-19776-1" title="Special:BookSources/0-631-19776-1">
+            0-631-19776-1
+           </a>
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=English+Phonetics+and+Phonology%3A+An+Introduction&amp;rft.place=Massachusetts%2C+USA%3B+Oxford%2C+UK%3B+Victoria%2C+Australia%3B+Berlin%2C+Germany&amp;rft.pub=Blackwell+Publishing&amp;rft.date=2003&amp;rft.isbn=0-631-19775-3&amp;rft.au=Carr%2C+Philip&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3Dp5a7mmpqbt0C%26printsec%3Dfrontcover%26dq%3Dintroduction%2Bphonetics%2Bphonology%23v%3Donepage%26q%26f%3Dfalse&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhonology">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-GdP-3">
+         <span class="mw-cite-backlink">
+          ^
+          <a href="#cite_ref-GdP_3-0">
+           <sup>
+            <i>
+             <b>
+              a
+             </b>
+            </i>
+           </sup>
+          </a>
+          <a href="#cite_ref-GdP_3-1">
+           <sup>
+            <i>
+             <b>
+              b
+             </b>
+            </i>
+           </sup>
+          </a>
+         </span>
+         <span class="reference-text">
+          Trubetzkoy N.,
+          <i>
+           Grundzüge der Phonologie
+          </i>
+          (published 1939), translated by C. Baltaxe as
+          <i>
+           <a class="external text" href="https://books.google.com/books?id=Ej6ENdUGS-UC&amp;dq=%22Grundz%C3%BCge+der+Phonologie%22&amp;hl=pl&amp;source=gbs_navlinks_s" rel="nofollow">
+            Principles of Phonology
+           </a>
+          </i>
+          , University of California Press, 1969
+         </span>
+        </li>
+        <li id="cite_note-ClarkEtal2007-4">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-ClarkEtal2007_4-0">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation book">
+           Clark, John; Yallop, Colin; Fletcher, Janet (2007).
+           <a class="external text" href="https://books.google.com/books?id=dX5P5mxtYYIC&amp;printsec=frontcover&amp;dq=introduction+phonetics+phonology#v=onepage&amp;q&amp;f=false" rel="nofollow">
+            <i>
+             An Introduction to Phonetics and Phonology
+            </i>
+           </a>
+           (3rd ed.). Massachusetts, USA; Oxford, UK; Victoria, Australia:
+           <a href="/wiki/Wiley-Blackwell" title="Wiley-Blackwell">
+            Blackwell Publishing
+           </a>
+           .
+           <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+            ISBN
+           </a>
+           <a href="/wiki/Special:BookSources/978-1-4051-3083-7" title="Special:BookSources/978-1-4051-3083-7">
+            978-1-4051-3083-7
+           </a>
+           <span class="reference-accessdate">
+            . Retrieved
+            <span class="nowrap">
+             8 January
+            </span>
+            2011
+           </span>
+           Alternative
+           <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+            ISBN
+           </a>
+           <a href="/wiki/Special:BookSources/1-4051-3083-0" title="Special:BookSources/1-4051-3083-0">
+            1-4051-3083-0
+           </a>
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=An+Introduction+to+Phonetics+and+Phonology&amp;rft.place=Massachusetts%2C+USA%3B+Oxford%2C+UK%3B+Victoria%2C+Australia&amp;rft.edition=3rd&amp;rft.pub=Blackwell+Publishing&amp;rft.date=2007&amp;rft.isbn=978-1-4051-3083-7&amp;rft.au=Clark%2C+John&amp;rft.au=Yallop%2C+Colin&amp;rft.au=Fletcher%2C+Janet&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DdX5P5mxtYYIC%26printsec%3Dfrontcover%26dq%3Dintroduction%2Bphonetics%2Bphonology%23v%3Donepage%26q%26f%3Dfalse&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhonology">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-5">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-5">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          Anon (probably
+          <a href="/wiki/Louis_Havet" title="Louis Havet">
+           Louis Havet
+          </a>
+          ). (1873) "Sur la nature des consonnes nasales".
+          <i>
+           Revue critique d'histoire et de littérature
+          </i>
+          13, No. 23, p. 368.
+         </span>
+        </li>
+        <li id="cite_note-6">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-6">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <a href="/wiki/Roman_Jakobson" title="Roman Jakobson">
+           Roman Jakobson
+          </a>
+          ,
+          <i>
+           Selected Writings: Word and Language
+          </i>
+          , Volume 2, Walter de Gruyter, 1971, p. 396.
+         </span>
+        </li>
+        <li id="cite_note-7">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-7">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <a href="/wiki/E._F._K._Koerner" title="E. F. K. Koerner">
+           E. F. K. Koerner
+          </a>
+          ,
+          <i>
+           Ferdinand de Saussure: Origin and Development of His Linguistic Thought in Western Studies of Language. A contribution to the history and theory of linguistics
+          </i>
+          , Braunschweig: Friedrich Vieweg &amp; Sohn [Oxford &amp; Elmsford, N.Y.: Pergamon Press], 1973.
+         </span>
+        </li>
+        <li id="cite_note-HaleReiss2008-8">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-HaleReiss2008_8-0">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation book">
+           Hale, Mark; Reiss, Charles (2008).
+           <i>
+            The Phonological Enterprise
+           </i>
+           . Oxford, UK: Oxford University Press.
+           <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+            ISBN
+           </a>
+           <a href="/wiki/Special:BookSources/0-19-953397-0" title="Special:BookSources/0-19-953397-0">
+            0-19-953397-0
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Phonological+Enterprise&amp;rft.place=Oxford%2C+UK&amp;rft.pub=Oxford+University+Press&amp;rft.date=2008&amp;rft.isbn=0-19-953397-0&amp;rft.au=Hale%2C+Mark&amp;rft.au=Reiss%2C+Charles&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhonology">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-HaleReiss2000-9">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-HaleReiss2000_9-0">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation journal">
+           Hale, Mark; Reiss, Charles (2000). "Substance abuse and dysfunctionalism: Current trends in phonology.
+           <i>
+            Linguistic Inquiry
+           </i>
+           31: 157-169 (2000)".
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Substance+abuse+and+dysfunctionalism%3A+Current+trends+in+phonology.+Linguistic+Inquiry+31%3A+157-169+%282000%29.&amp;rft.date=2000&amp;rft.au=Hale%2C+Mark&amp;rft.au=Reiss%2C+Charles&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhonology">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-10">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-10">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          Blevins, Juliette. 2004.
+          <i>
+           Evolutionary phonology: The emergence of sound patterns
+          </i>
+          . Cambridge University Press.
+         </span>
+        </li>
+        <li id="cite_note-11">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-11">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          Goldsmith 1995:1.
+         </span>
+        </li>
+       </ol>
+      </div>
+      <h2>
+       <span class="mw-headline" id="Bibliography">
+        Bibliography
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Phonology&amp;action=edit&amp;section=8" title="Edit section: Bibliography">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        Anderson, John M.; and Ewen, Colin J. (1987).
+        <i>
+         Principles of dependency phonology
+        </i>
+        . Cambridge: Cambridge University Press.
+       </li>
+       <li>
+        <cite class="citation journal">
+         Bloch, Bernard (1941). "Phonemic overlapping".
+         <i>
+          American Speech
+         </i>
+         .
+         <b>
+          16
+         </b>
+         (4): 278–284.
+         <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+          doi
+         </a>
+         :
+         <a class="external text" href="//doi.org/10.2307%2F486567" rel="nofollow">
+          10.2307/486567
+         </a>
+         .
+         <a href="/wiki/JSTOR" title="JSTOR">
+          JSTOR
+         </a>
+         <a class="external text" href="//www.jstor.org/stable/486567" rel="nofollow">
+          486567
+         </a>
+         .
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=American+Speech&amp;rft.atitle=Phonemic+overlapping&amp;rft.volume=16&amp;rft.issue=4&amp;rft.pages=278-284&amp;rft.date=1941&amp;rft_id=info%3Adoi%2F10.2307%2F486567&amp;rft_id=%2F%2Fwww.jstor.org%2Fstable%2F486567&amp;rft.aulast=Bloch&amp;rft.aufirst=Bernard&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhonology">
+         <span style="display:none;">
+         </span>
+        </span>
+       </li>
+       <li>
+        <a href="/wiki/Leonard_Bloomfield" title="Leonard Bloomfield">
+         Bloomfield, Leonard
+        </a>
+        . (1933).
+        <i>
+         Language
+        </i>
+        . New York: H. Holt and Company. (Revised version of Bloomfield's 1914
+        <i>
+         An introduction to the study of language
+        </i>
+        ).
+       </li>
+       <li>
+        Brentari, Diane (1998).
+        <i>
+         A prosodic model of sign language phonology.
+        </i>
+        Cambridge, MA:
+        <a href="/wiki/MIT_Press" title="MIT Press">
+         MIT Press
+        </a>
+        .
+       </li>
+       <li>
+        <a href="/wiki/Noam_Chomsky" title="Noam Chomsky">
+         Chomsky, Noam
+        </a>
+        . (1964). Current issues in linguistic theory. In J. A. Fodor and J. J. Katz (Eds.),
+        <i>
+         The structure of language: Readings in the philosophy language
+        </i>
+        (pp. 91–112). Englewood Cliffs, NJ: Prentice-Hall.
+       </li>
+       <li>
+        Chomsky, Noam; and
+        <a href="/wiki/Morris_Halle" title="Morris Halle">
+         Halle, Morris
+        </a>
+        . (1968).
+        <i>
+         The sound pattern of English
+        </i>
+        . New York: Harper &amp; Row.
+       </li>
+       <li>
+        <cite class="citation journal">
+         <a class="mw-redirect" href="/wiki/George_N._Clements" title="George N. Clements">
+          Clements, George N.
+         </a>
+         (1985). "The geometry of phonological features".
+         <i>
+          Phonology Yearbook
+         </i>
+         .
+         <b>
+          2
+         </b>
+         : 225–252.
+         <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+          doi
+         </a>
+         :
+         <a class="external text" href="//doi.org/10.1017%2FS0952675700000440" rel="nofollow">
+          10.1017/S0952675700000440
+         </a>
+         .
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Phonology+Yearbook&amp;rft.atitle=The+geometry+of+phonological+features&amp;rft.volume=2&amp;rft.pages=225-252&amp;rft.date=1985&amp;rft_id=info%3Adoi%2F10.1017%2FS0952675700000440&amp;rft.aulast=Clements&amp;rft.aufirst=George+N.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhonology">
+         <span style="display:none;">
+         </span>
+        </span>
+       </li>
+       <li>
+        Clements, George N.; and Samuel J. Keyser. (1983).
+        <i>
+         CV phonology: A generative theory of the syllable
+        </i>
+        . Linguistic inquiry monographs (No. 9). Cambridge, MA: MIT Press.
+        <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+         ISBN
+        </a>
+        <a href="/wiki/Special:BookSources/0-262-53047-3" title="Special:BookSources/0-262-53047-3">
+         0-262-53047-3
+        </a>
+        (pbk);
+        <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+         ISBN
+        </a>
+        <a href="/wiki/Special:BookSources/0-262-03098-5" title="Special:BookSources/0-262-03098-5">
+         0-262-03098-5
+        </a>
+        (hbk).
+       </li>
+       <li>
+        <cite class="citation book">
+         de Lacy, Paul, ed. (2007).
+         <a class="external text" href="https://books.google.com/?id=7sxLaeZAhOAC&amp;printsec=frontcover&amp;dq=Cambridge+Handbook+of+Phonology#v=onepage&amp;q&amp;f=false" rel="nofollow">
+          <i>
+           The Cambridge Handbook of Phonology
+          </i>
+         </a>
+         . Cambridge University Press.
+         <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+          ISBN
+         </a>
+         <a href="/wiki/Special:BookSources/0-521-84879-2" title="Special:BookSources/0-521-84879-2">
+          0-521-84879-2
+         </a>
+         <span class="reference-accessdate">
+          . Retrieved
+          <span class="nowrap">
+           8 January
+          </span>
+          2011
+         </span>
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Cambridge+Handbook+of+Phonology&amp;rft.pub=Cambridge+University+Press&amp;rft.date=2007&amp;rft.isbn=0-521-84879-2&amp;rft_id=https%3A%2F%2Fbooks.google.com%2F%3Fid%3D7sxLaeZAhOAC%26printsec%3Dfrontcover%26dq%3DCambridge%2BHandbook%2Bof%2BPhonology%23v%3Donepage%26q%26f%3Dfalse&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhonology">
+         <span style="display:none;">
+         </span>
+        </span>
+       </li>
+       <li>
+        Donegan, Patricia. (1985). On the Natural Phonology of Vowels. New York: Garland.
+        <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+         ISBN
+        </a>
+        <a href="/wiki/Special:BookSources/0-8240-5424-5" title="Special:BookSources/0-8240-5424-5">
+         0-8240-5424-5
+        </a>
+        .
+       </li>
+       <li>
+        <cite class="citation journal">
+         <a class="mw-redirect" href="/wiki/J._R._Firth" title="J. R. Firth">
+          Firth, J. R.
+         </a>
+         (1948). "Sounds and prosodies".
+         <i>
+          Transactions of the Philological Society
+         </i>
+         .
+         <b>
+          47
+         </b>
+         (1): 127–152.
+         <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+          doi
+         </a>
+         :
+         <a class="external text" href="//doi.org/10.1111%2Fj.1467-968X.1948.tb00556.x" rel="nofollow">
+          10.1111/j.1467-968X.1948.tb00556.x
+         </a>
+         .
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Transactions+of+the+Philological+Society&amp;rft.atitle=Sounds+and+prosodies&amp;rft.volume=47&amp;rft.issue=1&amp;rft.pages=127-152&amp;rft.date=1948&amp;rft_id=info%3Adoi%2F10.1111%2Fj.1467-968X.1948.tb00556.x&amp;rft.aulast=Firth&amp;rft.aufirst=J.+R.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhonology">
+         <span style="display:none;">
+         </span>
+        </span>
+       </li>
+       <li>
+        <cite class="citation journal">
+         Gilbers, Dicky; de Hoop, Helen (1998). "Conflicting constraints: An introduction to optimality theory".
+         <i>
+          Lingua
+         </i>
+         .
+         <b>
+          104
+         </b>
+         : 1–12.
+         <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+          doi
+         </a>
+         :
+         <a class="external text" href="//doi.org/10.1016%2FS0024-3841%2897%2900021-1" rel="nofollow">
+          10.1016/S0024-3841(97)00021-1
+         </a>
+         .
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Lingua&amp;rft.atitle=Conflicting+constraints%3A+An+introduction+to+optimality+theory&amp;rft.volume=104&amp;rft.pages=1-12&amp;rft.date=1998&amp;rft_id=info%3Adoi%2F10.1016%2FS0024-3841%2897%2900021-1&amp;rft.aulast=Gilbers&amp;rft.aufirst=Dicky&amp;rft.au=de+Hoop%2C+Helen&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhonology">
+         <span style="display:none;">
+         </span>
+        </span>
+       </li>
+       <li>
+        <a href="/wiki/John_Goldsmith_(linguist)" title="John Goldsmith (linguist)">
+         Goldsmith, John A.
+        </a>
+        (1979). The aims of
+        <a href="/wiki/Autosegmental_phonology" title="Autosegmental phonology">
+         autosegmental phonology
+        </a>
+        . In D. A. Dinnsen (Ed.),
+        <i>
+         Current approaches to phonological theory
+        </i>
+        (pp. 202–222). Bloomington: Indiana University Press.
+       </li>
+       <li>
+        Goldsmith, John A. (1989).
+        <i>
+         Autosegmental and metrical phonology: A new synthesis
+        </i>
+        . Oxford: Basil Blackwell.
+       </li>
+       <li>
+        <cite class="citation book">
+         <a href="/wiki/John_Goldsmith_(linguist)" title="John Goldsmith (linguist)">
+          Goldsmith, John A.
+         </a>
+         (1995). "Phonological Theory". In John A. Goldsmith.
+         <i>
+          The Handbook of Phonological Theory
+         </i>
+         . Blackwell Handbooks in Linguistics. Blackwell Publishers.
+         <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+          ISBN
+         </a>
+         <a href="/wiki/Special:BookSources/1-4051-5768-2" title="Special:BookSources/1-4051-5768-2">
+          1-4051-5768-2
+         </a>
+         .
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Phonological+Theory&amp;rft.btitle=The+Handbook+of+Phonological+Theory&amp;rft.series=Blackwell+Handbooks+in+Linguistics&amp;rft.pub=Blackwell+Publishers&amp;rft.date=1995&amp;rft.isbn=1-4051-5768-2&amp;rft.aulast=Goldsmith&amp;rft.aufirst=John+A.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhonology">
+         <span style="display:none;">
+         </span>
+        </span>
+       </li>
+       <li>
+        Gussenhoven, Carlos &amp; Jacobs, Haike. "Understanding Phonology", Hodder &amp; Arnold, 1998. 2nd edition 2005.
+       </li>
+       <li>
+        <cite class="citation book">
+         Hale, Mark; Reiss, Charles (2008).
+         <i>
+          The Phonological Enterprise
+         </i>
+         . Oxford, UK: Oxford University Press.
+         <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+          ISBN
+         </a>
+         <a href="/wiki/Special:BookSources/0-19-953397-0" title="Special:BookSources/0-19-953397-0">
+          0-19-953397-0
+         </a>
+         .
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Phonological+Enterprise&amp;rft.place=Oxford%2C+UK&amp;rft.pub=Oxford+University+Press&amp;rft.date=2008&amp;rft.isbn=0-19-953397-0&amp;rft.au=Hale%2C+Mark&amp;rft.au=Reiss%2C+Charles&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhonology">
+         <span style="display:none;">
+         </span>
+        </span>
+       </li>
+       <li>
+        <cite class="citation journal">
+         Halle, Morris (1954). "The strategy of phonemics".
+         <i>
+          Word
+         </i>
+         .
+         <b>
+          10
+         </b>
+         : 197–209.
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Word&amp;rft.atitle=The+strategy+of+phonemics&amp;rft.volume=10&amp;rft.pages=197-209&amp;rft.date=1954&amp;rft.aulast=Halle&amp;rft.aufirst=Morris&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhonology">
+         <span style="display:none;">
+         </span>
+        </span>
+       </li>
+       <li>
+        Halle, Morris. (1959).
+        <i>
+         The sound pattern of Russian
+        </i>
+        . The Hague: Mouton.
+       </li>
+       <li>
+        Harris, Zellig. (1951).
+        <i>
+         Methods in structural linguistics
+        </i>
+        . Chicago: Chicago University Press.
+       </li>
+       <li>
+        Hockett, Charles F. (1955).
+        <i>
+         A manual of phonology
+        </i>
+        . Indiana University publications in anthropology and linguistics, memoirs II. Baltimore: Waverley Press.
+       </li>
+       <li>
+        <cite class="citation book">
+         <a href="/wiki/Joan_Bybee" title="Joan Bybee">
+          Hooper, Joan B.
+         </a>
+         (1976).
+         <i>
+          An introduction to natural generative phonology
+         </i>
+         . New York: Academic Press.
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=An+introduction+to+natural+generative+phonology&amp;rft.place=New+York&amp;rft.pub=Academic+Press&amp;rft.date=1976&amp;rft.aulast=Hooper&amp;rft.aufirst=Joan+B.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhonology">
+         <span style="display:none;">
+         </span>
+        </span>
+       </li>
+       <li>
+        <cite class="citation journal">
+         Jakobson, Roman (1949). "On the identification of phonemic entities".
+         <i>
+          Travaux du Cercle Linguistique de Copenhague
+         </i>
+         .
+         <b>
+          5
+         </b>
+         : 205–213.
+         <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+          doi
+         </a>
+         :
+         <a class="external text" href="//doi.org/10.1080%2F01050206.1949.10416304" rel="nofollow">
+          10.1080/01050206.1949.10416304
+         </a>
+         .
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Travaux+du+Cercle+Linguistique+de+Copenhague&amp;rft.atitle=On+the+identification+of+phonemic+entities&amp;rft.volume=5&amp;rft.pages=205-213&amp;rft.date=1949&amp;rft_id=info%3Adoi%2F10.1080%2F01050206.1949.10416304&amp;rft.aulast=Jakobson&amp;rft.aufirst=Roman&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhonology">
+         <span style="display:none;">
+         </span>
+        </span>
+       </li>
+       <li>
+        <a href="/wiki/Roman_Jakobson" title="Roman Jakobson">
+         Jakobson, Roman
+        </a>
+        ; Fant, Gunnar; and Halle, Morris. (1952).
+        <i>
+         Preliminaries to speech analysis: The distinctive features and their correlates
+        </i>
+        . Cambridge, MA: MIT Press.
+       </li>
+       <li>
+        Kaisse, Ellen M.; and Shaw, Patricia A. (1985). On the theory of lexical phonology. In E. Colin and J. Anderson (Eds.),
+        <i>
+         Phonology Yearbook 2
+        </i>
+        (pp. 1–30).
+       </li>
+       <li>
+        <a href="/wiki/Michael_Kenstowicz" title="Michael Kenstowicz">
+         Kenstowicz, Michael
+        </a>
+        .
+        <i>
+         Phonology in generative grammar
+        </i>
+        . Oxford: Basil Blackwell.
+       </li>
+       <li>
+        Ladefoged, Peter. (1982).
+        <i>
+         A course in phonetics
+        </i>
+        (2nd ed.). London: Harcourt Brace Jovanovich.
+       </li>
+       <li>
+        <cite class="citation book">
+         <a href="/wiki/Andr%C3%A9_Martinet" title="André Martinet">
+          Martinet, André
+         </a>
+         (1949).
+         <i>
+          Phonology as functional phonetics
+         </i>
+         . Oxford:: Blackwell.
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Phonology+as+functional+phonetics&amp;rft.place=Oxford%3A&amp;rft.pub=Blackwell&amp;rft.date=1949&amp;rft.aulast=Martinet&amp;rft.aufirst=Andr%C3%A9&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhonology">
+         <span style="display:none;">
+         </span>
+        </span>
+       </li>
+       <li>
+        <cite class="citation book">
+         <a href="/wiki/Andr%C3%A9_Martinet" title="André Martinet">
+          Martinet, André
+         </a>
+         (1955).
+         <i>
+          Économie des changements phonétiques: Traité de phonologie diachronique
+         </i>
+         . Berne: A. Francke S.A.
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=%C3%89conomie+des+changements+phon%C3%A9tiques%3A+Trait%C3%A9+de+phonologie+diachronique&amp;rft.place=Berne&amp;rft.pub=A.+Francke+S.A.&amp;rft.date=1955&amp;rft.aulast=Martinet&amp;rft.aufirst=Andr%C3%A9&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhonology">
+         <span style="display:none;">
+         </span>
+        </span>
+       </li>
+       <li>
+        Napoli, Donna Jo (1996).
+        <i>
+         Linguistics: An Introduction
+        </i>
+        . New York: Oxford University Press.
+       </li>
+       <li>
+        <cite class="citation book">
+         <a href="/wiki/Kenneth_Lee_Pike" title="Kenneth Lee Pike">
+          Pike, Kenneth Lee
+         </a>
+         (1947).
+         <i>
+          Phonemics: A technique for reducing languages to writing
+         </i>
+         . Ann Arbor: University of Michigan Press.
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Phonemics%3A+A+technique+for+reducing+languages+to+writing&amp;rft.place=Ann+Arbor&amp;rft.pub=University+of+Michigan+Press&amp;rft.date=1947&amp;rft.aulast=Pike&amp;rft.aufirst=Kenneth+Lee&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhonology">
+         <span style="display:none;">
+         </span>
+        </span>
+       </li>
+       <li>
+        Sandler, Wendy and Lillo-Martin, Diane. 2006.
+        <i>
+         Sign language and linguistic universals
+        </i>
+        . Cambridge: Cambridge University Press
+       </li>
+       <li>
+        <cite class="citation journal">
+         <a href="/wiki/Edward_Sapir" title="Edward Sapir">
+          Sapir, Edward
+         </a>
+         (1925). "Sound patterns in language".
+         <i>
+          Language
+         </i>
+         .
+         <b>
+          1
+         </b>
+         (2): 37–51.
+         <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+          doi
+         </a>
+         :
+         <a class="external text" href="//doi.org/10.2307%2F409004" rel="nofollow">
+          10.2307/409004
+         </a>
+         .
+         <a href="/wiki/JSTOR" title="JSTOR">
+          JSTOR
+         </a>
+         <a class="external text" href="//www.jstor.org/stable/409004" rel="nofollow">
+          409004
+         </a>
+         .
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Language&amp;rft.atitle=Sound+patterns+in+language&amp;rft.volume=1&amp;rft.issue=2&amp;rft.pages=37-51&amp;rft.date=1925&amp;rft_id=info%3Adoi%2F10.2307%2F409004&amp;rft_id=%2F%2Fwww.jstor.org%2Fstable%2F409004&amp;rft.aulast=Sapir&amp;rft.aufirst=Edward&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhonology">
+         <span style="display:none;">
+         </span>
+        </span>
+       </li>
+       <li>
+        <cite class="citation journal">
+         Sapir, Edward (1933). "La réalité psychologique des phonémes".
+         <i>
+          Journal de Psychologie Normale et Pathologique
+         </i>
+         .
+         <b>
+          30
+         </b>
+         : 247–265.
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+de+Psychologie+Normale+et+Pathologique&amp;rft.atitle=La+r%C3%A9alit%C3%A9+psychologique+des+phon%C3%A9mes&amp;rft.volume=30&amp;rft.pages=247-265&amp;rft.date=1933&amp;rft.aulast=Sapir&amp;rft.aufirst=Edward&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhonology">
+         <span style="display:none;">
+         </span>
+        </span>
+       </li>
+       <li>
+        <a href="/wiki/Ferdinand_de_Saussure" title="Ferdinand de Saussure">
+         de Saussure, Ferdinand
+        </a>
+        . (1916).
+        <i>
+         Cours de linguistique générale
+        </i>
+        . Paris: Payot.
+       </li>
+       <li>
+        Stampe, David. (1979).
+        <i>
+         A dissertation on natural phonology
+        </i>
+        . New York: Garland.
+       </li>
+       <li>
+        <cite class="citation journal">
+         <a href="/wiki/Morris_Swadesh" title="Morris Swadesh">
+          Swadesh, Morris
+         </a>
+         (1934). "The phonemic principle".
+         <i>
+          Language
+         </i>
+         .
+         <b>
+          10
+         </b>
+         (2): 117–129.
+         <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+          doi
+         </a>
+         :
+         <a class="external text" href="//doi.org/10.2307%2F409603" rel="nofollow">
+          10.2307/409603
+         </a>
+         .
+         <a href="/wiki/JSTOR" title="JSTOR">
+          JSTOR
+         </a>
+         <a class="external text" href="//www.jstor.org/stable/409603" rel="nofollow">
+          409603
+         </a>
+         .
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Language&amp;rft.atitle=The+phonemic+principle&amp;rft.volume=10&amp;rft.issue=2&amp;rft.pages=117-129&amp;rft.date=1934&amp;rft_id=info%3Adoi%2F10.2307%2F409603&amp;rft_id=%2F%2Fwww.jstor.org%2Fstable%2F409603&amp;rft.aulast=Swadesh&amp;rft.aufirst=Morris&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhonology">
+         <span style="display:none;">
+         </span>
+        </span>
+       </li>
+       <li>
+        <cite class="citation journal">
+         Trager, George L.; Bloch, Bernard (1941). "The syllabic phonemes of English".
+         <i>
+          Language
+         </i>
+         .
+         <b>
+          17
+         </b>
+         (3): 223–246.
+         <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+          doi
+         </a>
+         :
+         <a class="external text" href="//doi.org/10.2307%2F409203" rel="nofollow">
+          10.2307/409203
+         </a>
+         .
+         <a href="/wiki/JSTOR" title="JSTOR">
+          JSTOR
+         </a>
+         <a class="external text" href="//www.jstor.org/stable/409203" rel="nofollow">
+          409203
+         </a>
+         .
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Language&amp;rft.atitle=The+syllabic+phonemes+of+English&amp;rft.volume=17&amp;rft.issue=3&amp;rft.pages=223-246&amp;rft.date=1941&amp;rft_id=info%3Adoi%2F10.2307%2F409203&amp;rft_id=%2F%2Fwww.jstor.org%2Fstable%2F409203&amp;rft.aulast=Trager&amp;rft.aufirst=George+L.&amp;rft.au=Bloch%2C+Bernard&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhonology">
+         <span style="display:none;">
+         </span>
+        </span>
+       </li>
+       <li>
+        <a href="/wiki/Nikolai_Trubetzkoy" title="Nikolai Trubetzkoy">
+         Trubetzkoy, Nikolai
+        </a>
+        . (1939).
+        <i>
+         Grundzüge der Phonologie
+        </i>
+        . Travaux du Cercle Linguistique de Prague 7.
+       </li>
+       <li>
+        Twaddell, William F. (1935). On defining the phoneme. Language monograph no. 16.
+        <i>
+         Language
+        </i>
+        .
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="External_links">
+        External links
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Phonology&amp;action=edit&amp;section=9" title="Edit section: External links">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a class="external text" href="https://curlie.org/Science/Social_Sciences/Linguistics/Phonetics_and_Phonology/" rel="nofollow">
+         Phonetics and phonology
+        </a>
+        at Curlie (based on
+        <a href="/wiki/DMOZ" title="DMOZ">
+         DMOZ
+        </a>
+        )
+       </li>
+      </ul>
+      <div aria-labelledby="Phonologies_of_the_world&amp;#039;s_languages" class="navbox" role="navigation" style="padding:3px">
+       <table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tr>
+         <th class="navbox-title" colspan="2" scope="col">
+          <div class="plainlinks hlist navbar mini">
+           <ul>
+            <li class="nv-view">
+             <a href="/wiki/Template:Language_phonologies" title="Template:Language phonologies">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">
+               v
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-talk">
+             <a href="/wiki/Template_talk:Language_phonologies" title="Template talk:Language phonologies">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">
+               t
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-edit">
+             <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Language_phonologies&amp;action=edit">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">
+               e
+              </abbr>
+             </a>
+            </li>
+           </ul>
+          </div>
+          <div id="Phonologies_of_the_world&amp;#039;s_languages" style="font-size:114%;margin:0 4em">
+           <a class="mw-selflink selflink">
+            Phonologies
+           </a>
+           of the
+           <a href="/wiki/Lists_of_languages" title="Lists of languages">
+            world's languages
+           </a>
+          </div>
+         </th>
+        </tr>
+        <tr>
+         <td class="navbox-list navbox-odd hlist" colspan="2" style="width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Abkhaz_phonology" title="Abkhaz phonology">
+              Abkhaz
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Acehnese_phonology" title="Acehnese phonology">
+              Acehnese
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Afrikaans_phonology" title="Afrikaans phonology">
+              Afrikaans
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/American_Sign_Language_phonology" title="American Sign Language phonology">
+              ASL
+             </a>
+            </li>
+            <li>
+             Arabic
+             <ul>
+              <li>
+               <a href="/wiki/Arabic_phonology" title="Arabic phonology">
+                Modern Standard
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Egyptian_Arabic_phonology" title="Egyptian Arabic phonology">
+                Egyptian
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Hejazi_Arabic_phonology" title="Hejazi Arabic phonology">
+                Hejazi
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Levantine_Arabic_phonology" title="Levantine Arabic phonology">
+                Levantine
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Tunisian_Arabic_phonology" title="Tunisian Arabic phonology">
+                Tunisian
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Avestan_phonology" title="Avestan phonology">
+              Avestan
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Belarusian_phonology" title="Belarusian phonology">
+              Belarusian
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Bengali_phonology" title="Bengali phonology">
+              Bengali
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Bulgarian_phonology" title="Bulgarian phonology">
+              Bulgarian
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Catalan_phonology" title="Catalan phonology">
+              Catalan
+             </a>
+            </li>
+            <li>
+             Chinese
+             <ul>
+              <li>
+               <a href="/wiki/Standard_Chinese_phonology" title="Standard Chinese phonology">
+                Mandarin
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Cantonese_phonology" title="Cantonese phonology">
+                Cantonese
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Old_Chinese_phonology" title="Old Chinese phonology">
+                Old
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Historical_Chinese_phonology" title="Historical Chinese phonology">
+                Historical
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Czech_phonology" title="Czech phonology">
+              Czech
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Danish_phonology" title="Danish phonology">
+              Danish
+             </a>
+            </li>
+            <li>
+             Dutch
+             <ul>
+              <li>
+               <a href="/wiki/Dutch_phonology" title="Dutch phonology">
+                Standard
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Orsmaal-Gussenhoven_dialect_phonology" title="Orsmaal-Gussenhoven dialect phonology">
+                Orsmaal-Gussenhoven dialect
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/English_phonology" title="English phonology">
+              English
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Australian_English_phonology" title="Australian English phonology">
+                Australian
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/General_American" title="General American">
+                General American
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/New_Zealand_English_phonology" title="New Zealand English phonology">
+                New Zealand
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/North_American_English_regional_phonology" title="North American English regional phonology">
+                Regional North American
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Received_Pronunciation" title="Received Pronunciation">
+                Received Pronunciation
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/South_African_English_phonology" title="South African English phonology">
+                South African
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Standard_Canadian_English" title="Standard Canadian English">
+                Standard Canadian
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Old_English_phonology" title="Old English phonology">
+                Old
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Middle_English_phonology" title="Middle English phonology">
+                Middle
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Esperanto_phonology" title="Esperanto phonology">
+              Esperanto
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Estonian_phonology" title="Estonian phonology">
+              Estonian
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Faroese_phonology" title="Faroese phonology">
+              Faroese
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Finnish_phonology" title="Finnish phonology">
+              Finnish
+             </a>
+            </li>
+            <li>
+             French
+             <ul>
+              <li>
+               <a href="/wiki/French_phonology" title="French phonology">
+                Parisian
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Quebec_French_phonology" title="Quebec French phonology">
+                Quebec
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Galician_phonology" title="Galician phonology">
+              Galician
+             </a>
+            </li>
+            <li>
+             German
+             <ul>
+              <li>
+               <a href="/wiki/Standard_German_phonology" title="Standard German phonology">
+                Standard
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Bernese_German_phonology" title="Bernese German phonology">
+                Bernese
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Chemnitz_dialect_phonology" title="Chemnitz dialect phonology">
+                Chemnitz dialect
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             Greek
+             <ul>
+              <li>
+               <a href="/wiki/Modern_Greek_phonology" title="Modern Greek phonology">
+                Standard Modern
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Ancient_Greek_phonology" title="Ancient Greek phonology">
+                Ancient
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Koine_Greek_phonology" title="Koine Greek phonology">
+                Koine
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Gujarati_phonology" title="Gujarati phonology">
+              Gujarati
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Hawaiian_phonology" title="Hawaiian phonology">
+              Hawaiian
+             </a>
+            </li>
+            <li>
+             Hebrew (
+             <a href="/wiki/Modern_Hebrew_phonology" title="Modern Hebrew phonology">
+              Modern
+             </a>
+             )
+            </li>
+            <li>
+             <a href="/wiki/Hindustani_phonology" title="Hindustani phonology">
+              Hindustani
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Hungarian_phonology" title="Hungarian phonology">
+              Hungarian
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Icelandic_phonology" title="Icelandic phonology">
+              Icelandic
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Inuit_phonology" title="Inuit phonology">
+              Inuit
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Irish_phonology" title="Irish phonology">
+              Irish
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Italian_phonology" title="Italian phonology">
+              Italian
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Japanese_phonology" title="Japanese phonology">
+              Japanese
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Kiowa_phonology" title="Kiowa phonology">
+              Kiowa
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Konkani_phonology" title="Konkani phonology">
+              Konkani
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Korean_phonology" title="Korean phonology">
+              Korean
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Kurdish_phonology" title="Kurdish phonology">
+              Kurdish
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Kyrgyz_phonology" title="Kyrgyz phonology">
+              Kyrgyz
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Latgalian_phonology" title="Latgalian phonology">
+              Latgalian
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Latin_spelling_and_pronunciation" title="Latin spelling and pronunciation">
+              Latin
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Latvian_phonology" title="Latvian phonology">
+              Latvian
+             </a>
+            </li>
+            <li>
+             Limburgish
+             <ul>
+              <li>
+               <a href="/wiki/Hamont_dialect_phonology" title="Hamont dialect phonology">
+                Hamont
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Lithuanian_phonology" title="Lithuanian phonology">
+              Lithuanian
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Luxembourgish_phonology" title="Luxembourgish phonology">
+              Luxembourgish
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Macedonian_phonology" title="Macedonian phonology">
+              Macedonian
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Malay_phonology" title="Malay phonology">
+              Malay
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Maldivian_phonology" title="Maldivian phonology">
+              Maldivian
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/M%C4%81ori_phonology" title="Māori phonology">
+              Māori
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Marathi_phonology" title="Marathi phonology">
+              Marathi
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Massachusett_phonology" title="Massachusett phonology">
+              Massachusett
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Navajo_phonology" title="Navajo phonology">
+              Navajo
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Nepali_phonology" title="Nepali phonology">
+              Nepali
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Norwegian_phonology" title="Norwegian phonology">
+              Norwegian
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Occitan_phonology" title="Occitan phonology">
+              Occitan
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Odia_phonology" title="Odia phonology">
+              Odia
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Ojibwe_phonology" title="Ojibwe phonology">
+              Ojibwe
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Old_Saxon_phonology" title="Old Saxon phonology">
+              Old Saxon
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Oromo_phonology" title="Oromo phonology">
+              Oromo
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Ottawa_phonology" title="Ottawa phonology">
+              Ottawa
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Pashto_phonology" title="Pashto phonology">
+              Pashto
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Persian_phonology" title="Persian phonology">
+              Persian
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Polish_phonology" title="Polish phonology">
+              Polish
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Portuguese_phonology" title="Portuguese phonology">
+              Portuguese
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Proto-Indo-European_phonology" title="Proto-Indo-European phonology">
+              Proto-Indo-European
+             </a>
+            </li>
+            <li>
+             Ripuarian
+             <ul>
+              <li>
+               <a href="/wiki/Colognian_phonology" title="Colognian phonology">
+                Colognian
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Romanian_phonology" title="Romanian phonology">
+              Romanian
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Russian_phonology" title="Russian phonology">
+              Russian
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Phonological_history_of_Scots" title="Phonological history of Scots">
+              Scots
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Scottish_Gaelic_phonology" title="Scottish Gaelic phonology">
+              Scottish Gaelic
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Serbo-Croatian_phonology" title="Serbo-Croatian phonology">
+              Serbo-Croatian
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Slovak_phonology" title="Slovak phonology">
+              Slovak
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Slovene_phonology" title="Slovene phonology">
+              Slovene
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Somali_phonology" title="Somali phonology">
+              Somali
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Sotho_phonology" title="Sotho phonology">
+              Sotho
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Spanish_phonology" title="Spanish phonology">
+              Spanish
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Spanish_dialects_and_varieties" title="Spanish dialects and varieties">
+                Spanish dialects and varieties
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Swedish_phonology" title="Swedish phonology">
+              Swedish
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Tagalog_phonology" title="Tagalog phonology">
+              Tagalog
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Tamil_phonology" title="Tamil phonology">
+              Tamil
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Taos_phonology" title="Taos phonology">
+              Taos
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Turkish_phonology" title="Turkish phonology">
+              Turkish
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Ubykh_phonology" title="Ubykh phonology">
+              Ubykh
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Ukrainian_phonology" title="Ukrainian phonology">
+              Ukrainian
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Upper_Sorbian_phonology" title="Upper Sorbian phonology">
+              Upper Sorbian
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Uyghur_phonology" title="Uyghur phonology">
+              Uyghur
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Vietnamese_phonology" title="Vietnamese phonology">
+              Vietnamese
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Welsh_phonology" title="Welsh phonology">
+              Welsh
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/West_Frisian_phonology" title="West Frisian phonology">
+              West Frisian
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Yiddish_phonology" title="Yiddish phonology">
+              Yiddish
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Zuni_phonology" title="Zuni phonology">
+              Zuni
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+       </table>
+      </div>
+      <div aria-label="Navbox" class="navbox" role="navigation" style="padding:3px">
+       <table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          <a href="/wiki/Help:Authority_control" title="Help:Authority control">
+           Authority control
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <span class="nowrap">
+              <a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">
+               GND
+              </a>
+              :
+              <span class="uid">
+               <a class="external text" href="https://d-nb.info/gnd/4045836-2" rel="nofollow">
+                4045836-2
+               </a>
+              </span>
+             </span>
+            </li>
+            <li>
+             <span class="nowrap">
+              <a href="/wiki/National_Diet_Library" title="National Diet Library">
+               NDL
+              </a>
+              :
+              <span class="uid">
+               <a class="external text" href="https://id.ndl.go.jp/auth/ndlna/00568880" rel="nofollow">
+                00568880
+               </a>
+              </span>
+             </span>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+       </table>
+      </div>
+      <!-- 
+NewPP limit report
+Parsed by mw1269
+Cached time: 20180201194646
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.384 seconds
+Real time usage: 0.468 seconds
+Preprocessor visited node count: 2729/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 69632/2097152 bytes
+Template argument size: 2912/2097152 bytes
+Highest expansion depth: 17/40
+Expensive parser function count: 1/500
+Lua time usage: 0.229/10.000 seconds
+Lua memory usage: 12.94 MB/50 MB
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  396.960      1 -total
+ 30.29%  120.246      2 Template:Lang
+ 25.00%   99.254      1 Template:Reflist
+ 24.17%   95.940     12 Template:Cite_journal
+ 12.06%   47.877     10 Template:Cite_book
+ 11.08%   43.980      6 Template:ISBN
+  5.76%   22.851      1 Template:Authority_control
+  5.32%   21.110      1 Template:For
+  4.55%   18.053      1 Template:Linguistics
+  4.33%   17.183      6 Template:Catalog_lookup_link
+-->
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:23247-0!canonical and timestamp 20180201194645 and revision id 819352374
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Phonology&amp;oldid=819352374">
+      https://en.wikipedia.org/w/index.php?title=Phonology&amp;oldid=819352374
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Phonology" title="Category:Phonology">
+         Phonology
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:Articles_containing_Ancient_Greek-language_text" title="Category:Articles containing Ancient Greek-language text">
+         Articles containing Ancient Greek-language text
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_with_inconsistent_citation_formats" title="Category:Articles with inconsistent citation formats">
+         Articles with inconsistent citation formats
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_with_DMOZ_links" title="Category:Articles with DMOZ links">
+         Articles with DMOZ links
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Use_dmy_dates_from_July_2011" title="Category:Use dmy dates from July 2011">
+         Use dmy dates from July 2011
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">
+         Wikipedia articles with GND identifiers
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Phonology" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Phonology" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Phonology" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Phonology" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="collapsible selected" id="ca-view">
+        <span>
+         <a href="/wiki/Phonology">
+          Read
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Phonology&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Phonology&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Phonology" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Phonology" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Phonology&amp;oldid=819352374" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Phonology&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q40998" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Phonology&amp;id=819352374" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Phonology">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Phonology&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Phonology&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+     <h3 id="p-wikibase-otherprojects-label">
+      In other projects
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="wb-otherproject-link wb-otherproject-commons">
+        <a href="https://commons.wikimedia.org/wiki/Category:Phonology" hreflang="en">
+         Wikimedia Commons
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-ace">
+        <a class="interlanguage-link-target" href="https://ace.wikipedia.org/wiki/Fonologi" hreflang="ace" lang="ace" title="Fonologi – Achinese">
+         Acèh
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-af">
+        <a class="interlanguage-link-target" href="https://af.wikipedia.org/wiki/Fonologie" hreflang="af" lang="af" title="Fonologie – Afrikaans">
+         Afrikaans
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ar">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%86%D8%B7%D9%82%D9%8A%D8%A7%D8%AA" hreflang="ar" lang="ar" title="نطقيات – Arabic">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ast">
+        <a class="interlanguage-link-target" href="https://ast.wikipedia.org/wiki/Fonolox%C3%ADa" hreflang="ast" lang="ast" title="Fonoloxía – Asturian">
+         Asturianu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bn">
+        <a class="interlanguage-link-target" href="https://bn.wikipedia.org/wiki/%E0%A6%A7%E0%A7%8D%E0%A6%AC%E0%A6%A8%E0%A6%BF%E0%A6%A4%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%AC" hreflang="bn" lang="bn" title="ধ্বনিতত্ত্ব – Bangla">
+         বাংলা
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-be">
+        <a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%A4%D0%B0%D0%BD%D0%B0%D0%BB%D0%BE%D0%B3%D1%96%D1%8F" hreflang="be" lang="be" title="Фаналогія – Belarusian">
+         Беларуская
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-be-x-old">
+        <a class="interlanguage-link-target" href="https://be-x-old.wikipedia.org/wiki/%D0%A4%D0%B0%D0%BD%D0%B0%D0%BB%D1%91%D0%B3%D1%96%D1%8F" hreflang="be-x-old" lang="be-x-old" title="Фаналёгія – Belarusian (Taraškievica orthography)">
+         Беларуская (тарашкевіца)‎
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bg">
+        <a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%A4%D0%BE%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" hreflang="bg" lang="bg" title="Фонология – Bulgarian">
+         Български
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bs">
+        <a class="interlanguage-link-target" href="https://bs.wikipedia.org/wiki/Fonologija" hreflang="bs" lang="bs" title="Fonologija – Bosnian">
+         Bosanski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-br">
+        <a class="interlanguage-link-target" href="https://br.wikipedia.org/wiki/Fonologiezh" hreflang="br" lang="br" title="Fonologiezh – Breton">
+         Brezhoneg
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Fonologia" hreflang="ca" lang="ca" title="Fonologia – Catalan">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cv">
+        <a class="interlanguage-link-target" href="https://cv.wikipedia.org/wiki/%D0%A4%D0%BE%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8" hreflang="cv" lang="cv" title="Фонологи – Chuvash">
+         Чӑвашла
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cs">
+        <a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Fonologie" hreflang="cs" lang="cs" title="Fonologie – Czech">
+         Čeština
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cy">
+        <a class="interlanguage-link-target" href="https://cy.wikipedia.org/wiki/Ffonoleg" hreflang="cy" lang="cy" title="Ffonoleg – Welsh">
+         Cymraeg
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-da">
+        <a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Fonologi" hreflang="da" lang="da" title="Fonologi – Danish">
+         Dansk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Phonologie" hreflang="de" lang="de" title="Phonologie – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-et">
+        <a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Fonoloogia" hreflang="et" lang="et" title="Fonoloogia – Estonian">
+         Eesti
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-el">
+        <a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%A6%CF%89%CE%BD%CE%BF%CE%BB%CE%BF%CE%B3%CE%AF%CE%B1" hreflang="el" lang="el" title="Φωνολογία – Greek">
+         Ελληνικά
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Fonolog%C3%ADa" hreflang="es" lang="es" title="Fonología – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eo">
+        <a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Fonologio" hreflang="eo" lang="eo" title="Fonologio – Esperanto">
+         Esperanto
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eu">
+        <a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Fonologia" hreflang="eu" lang="eu" title="Fonologia – Basque">
+         Euskara
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fa">
+        <a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D9%88%D8%A7%D8%AC%E2%80%8C%D8%B4%D9%86%D8%A7%D8%B3%DB%8C" hreflang="fa" lang="fa" title="واج‌شناسی – Persian">
+         فارسی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Phonologie" hreflang="fr" lang="fr" title="Phonologie – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fy">
+        <a class="interlanguage-link-target" href="https://fy.wikipedia.org/wiki/Fonology" hreflang="fy" lang="fy" title="Fonology – Western Frisian">
+         Frysk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-gv">
+        <a class="interlanguage-link-target" href="https://gv.wikipedia.org/wiki/Sheeanchoryssaghtys" hreflang="gv" lang="gv" title="Sheeanchoryssaghtys – Manx">
+         Gaelg
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-gl">
+        <a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Fonolox%C3%ADa" hreflang="gl" lang="gl" title="Fonoloxía – Galician">
+         Galego
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ko">
+        <a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%9D%8C%EC%9A%B4%EB%A1%A0" hreflang="ko" lang="ko" title="음운론 – Korean">
+         한국어
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hy">
+        <a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D5%80%D5%B6%D5%B9%D5%B8%D6%82%D5%B5%D5%A9%D5%A1%D5%A2%D5%A1%D5%B6%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6" hreflang="hy" lang="hy" title="Հնչույթաբանություն – Armenian">
+         Հայերեն
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hi">
+        <a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A4%A8%E0%A4%BF%E0%A4%AE%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE%E0%A4%A8" hreflang="hi" lang="hi" title="स्वनिमविज्ञान – Hindi">
+         हिन्दी
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hr">
+        <a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Fonologija" hreflang="hr" lang="hr" title="Fonologija – Croatian">
+         Hrvatski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-io">
+        <a class="interlanguage-link-target" href="https://io.wikipedia.org/wiki/Fonologio" hreflang="io" lang="io" title="Fonologio – Ido">
+         Ido
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-id">
+        <a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Fonologi" hreflang="id" lang="id" title="Fonologi – Indonesian">
+         Bahasa Indonesia
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ia">
+        <a class="interlanguage-link-target" href="https://ia.wikipedia.org/wiki/Phonologia" hreflang="ia" lang="ia" title="Phonologia – Interlingua">
+         Interlingua
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Fonologia" hreflang="it" lang="it" title="Fonologia – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-he">
+        <a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%A4%D7%95%D7%A0%D7%95%D7%9C%D7%95%D7%92%D7%99%D7%94" hreflang="he" lang="he" title="פונולוגיה – Hebrew">
+         עברית
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-jv">
+        <a class="interlanguage-link-target" href="https://jv.wikipedia.org/wiki/Fonologi" hreflang="jv" lang="jv" title="Fonologi – Javanese">
+         Basa Jawa
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ka">
+        <a class="interlanguage-link-target" href="https://ka.wikipedia.org/wiki/%E1%83%A4%E1%83%9D%E1%83%9C%E1%83%9D%E1%83%9A%E1%83%9D%E1%83%92%E1%83%98%E1%83%90" hreflang="ka" lang="ka" title="ფონოლოგია – Georgian">
+         ქართული
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-kk">
+        <a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/%D0%A4%D0%BE%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" hreflang="kk" lang="kk" title="Фонология – Kazakh">
+         Қазақша
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sw">
+        <a class="interlanguage-link-target" href="https://sw.wikipedia.org/wiki/Fonolojia" hreflang="sw" lang="sw" title="Fonolojia – Swahili">
+         Kiswahili
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ky">
+        <a class="interlanguage-link-target" href="https://ky.wikipedia.org/wiki/%D0%A4%D0%BE%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" hreflang="ky" lang="ky" title="Фонология – Kyrgyz">
+         Кыргызча
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-la">
+        <a class="interlanguage-link-target" href="https://la.wikipedia.org/wiki/Phonologia" hreflang="la" lang="la" title="Phonologia – Latin">
+         Latina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lv">
+        <a class="interlanguage-link-target" href="https://lv.wikipedia.org/wiki/Fonolo%C4%A3ija" hreflang="lv" lang="lv" title="Fonoloģija – Latvian">
+         Latviešu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lb">
+        <a class="interlanguage-link-target" href="https://lb.wikipedia.org/wiki/Phonologie" hreflang="lb" lang="lb" title="Phonologie – Luxembourgish">
+         Lëtzebuergesch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lt">
+        <a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Fonologija" hreflang="lt" lang="lt" title="Fonologija – Lithuanian">
+         Lietuvių
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-li">
+        <a class="interlanguage-link-target" href="https://li.wikipedia.org/wiki/Fonologie" hreflang="li" lang="li" title="Fonologie – Limburgish">
+         Limburgs
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-jbo">
+        <a class="interlanguage-link-target" href="https://jbo.wikipedia.org/wiki/snage%27a" hreflang="jbo" lang="jbo" title="snage'a – Lojban">
+         La .lojban.
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lmo">
+        <a class="interlanguage-link-target" href="https://lmo.wikipedia.org/wiki/Funulugia" hreflang="lmo" lang="lmo" title="Funulugia – Lombard">
+         Lumbaart
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hu">
+        <a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Fonol%C3%B3gia" hreflang="hu" lang="hu" title="Fonológia – Hungarian">
+         Magyar
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-mk">
+        <a class="interlanguage-link-target" href="https://mk.wikipedia.org/wiki/%D0%A4%D0%BE%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%98%D0%B0" hreflang="mk" lang="mk" title="Фонологија – Macedonian">
+         Македонски
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-mt">
+        <a class="interlanguage-link-target" href="https://mt.wikipedia.org/wiki/Fonolo%C4%A1ija" hreflang="mt" lang="mt" title="Fonoloġija – Maltese">
+         Malti
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-mr">
+        <a class="interlanguage-link-target" href="https://mr.wikipedia.org/wiki/%E0%A4%89%E0%A4%9A%E0%A5%8D%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A4%B6%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8D%E0%A4%B0" hreflang="mr" lang="mr" title="उच्चारशास्त्र – Marathi">
+         मराठी
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ms">
+        <a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Fonologi" hreflang="ms" lang="ms" title="Fonologi – Malay">
+         Bahasa Melayu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nl">
+        <a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Fonologie" hreflang="nl" lang="nl" title="Fonologie – Dutch">
+         Nederlands
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E9%9F%B3%E9%9F%BB%E8%AB%96" hreflang="ja" lang="ja" title="音韻論 – Japanese">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-no">
+        <a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Fonologi" hreflang="no" lang="no" title="Fonologi – Norwegian">
+         Norsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nn">
+        <a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Fonologi" hreflang="nn" lang="nn" title="Fonologi – Norwegian Nynorsk">
+         Norsk nynorsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nov">
+        <a class="interlanguage-link-target" href="https://nov.wikipedia.org/wiki/Fonologia" hreflang="nov" lang="nov" title="Fonologia – Novial">
+         Novial
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-oc">
+        <a class="interlanguage-link-target" href="https://oc.wikipedia.org/wiki/Fonologia" hreflang="oc" lang="oc" title="Fonologia – Occitan">
+         Occitan
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pa">
+        <a class="interlanguage-link-target" href="https://pa.wikipedia.org/wiki/%E0%A8%A7%E0%A9%81%E0%A8%A8%E0%A9%80_%E0%A8%B5%E0%A8%BF%E0%A8%89%E0%A8%82%E0%A8%A4" hreflang="pa" lang="pa" title="ਧੁਨੀ ਵਿਉਂਤ – Punjabi">
+         ਪੰਜਾਬੀ
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pap">
+        <a class="interlanguage-link-target" href="https://pap.wikipedia.org/wiki/Fonologico" hreflang="pap" lang="pap" title="Fonologico – Papiamento">
+         Papiamentu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ps">
+        <a class="interlanguage-link-target" href="https://ps.wikipedia.org/wiki/%D8%BA%DA%96%D9%BE%D9%88%D9%87%D9%86%D9%87" hreflang="ps" lang="ps" title="غږپوهنه – Pashto">
+         پښتو
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pl">
+        <a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Fonologia" hreflang="pl" lang="pl" title="Fonologia – Polish">
+         Polski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Fonologia" hreflang="pt" lang="pt" title="Fonologia – Portuguese">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ro">
+        <a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Fonologie" hreflang="ro" lang="ro" title="Fonologie – Romanian">
+         Română
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-rm">
+        <a class="interlanguage-link-target" href="https://rm.wikipedia.org/wiki/Fonologia" hreflang="rm" lang="rm" title="Fonologia – Romansh">
+         Rumantsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%A4%D0%BE%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" hreflang="ru" lang="ru" title="Фонология – Russian">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-stq">
+        <a class="interlanguage-link-target" href="https://stq.wikipedia.org/wiki/Phonologie" hreflang="stq" lang="stq" title="Phonologie – Saterland Frisian">
+         Seeltersk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-scn">
+        <a class="interlanguage-link-target" href="https://scn.wikipedia.org/wiki/Fonolugg%C3%ACa" hreflang="scn" lang="scn" title="Fonoluggìa – Sicilian">
+         Sicilianu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-simple">
+        <a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Phonology" hreflang="simple" lang="simple" title="Phonology – Simple English">
+         Simple English
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sd">
+        <a class="interlanguage-link-target" href="https://sd.wikipedia.org/wiki/%D8%B5%D9%88%D8%AA%D9%8A%D8%A7%D8%AA" hreflang="sd" lang="sd" title="صوتيات – Sindhi">
+         سنڌي
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sk">
+        <a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Fonol%C3%B3gia" hreflang="sk" lang="sk" title="Fonológia – Slovak">
+         Slovenčina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sl">
+        <a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Fonologija" hreflang="sl" lang="sl" title="Fonologija – Slovenian">
+         Slovenščina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ckb">
+        <a class="interlanguage-link-target" href="https://ckb.wikipedia.org/wiki/%D9%81%DB%86%D9%86%DB%86%D9%84%DB%86%D8%AC%DB%8C" hreflang="ckb" lang="ckb" title="فۆنۆلۆجی – Central Kurdish">
+         کوردی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sr">
+        <a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%A4%D0%BE%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%98%D0%B0" hreflang="sr" lang="sr" title="Фонологија – Serbian">
+         Српски / srpski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sh">
+        <a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Fonologija" hreflang="sh" lang="sh" title="Fonologija – Serbo-Croatian">
+         Srpskohrvatski / српскохрватски
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fi">
+        <a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Fonologia" hreflang="fi" lang="fi" title="Fonologia – Finnish">
+         Suomi
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sv">
+        <a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Fonologi" hreflang="sv" lang="sv" title="Fonologi – Swedish">
+         Svenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tl">
+        <a class="interlanguage-link-target" href="https://tl.wikipedia.org/wiki/Ponolohiya" hreflang="tl" lang="tl" title="Ponolohiya – Tagalog">
+         Tagalog
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ta">
+        <a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%92%E0%AE%B2%E0%AE%BF%E0%AE%AF%E0%AE%A9%E0%AE%BF%E0%AE%AF%E0%AE%B2%E0%AF%8D" hreflang="ta" lang="ta" title="ஒலியனியல் – Tamil">
+         தமிழ்
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-th">
+        <a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B8%AA%E0%B8%B1%E0%B8%97%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B8%B2" hreflang="th" lang="th" title="สัทวิทยา – Thai">
+         ไทย
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tr">
+        <a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Sesbilim" hreflang="tr" lang="tr" title="Sesbilim – Turkish">
+         Türkçe
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uk">
+        <a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%A4%D0%BE%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D1%96%D1%8F" hreflang="uk" lang="uk" title="Фонологія – Ukrainian">
+         Українська
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-vi">
+        <a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/%C3%82m_v%E1%BB%8B_h%E1%BB%8Dc" hreflang="vi" lang="vi" title="Âm vị học – Vietnamese">
+         Tiếng Việt
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-war">
+        <a class="interlanguage-link-target" href="https://war.wikipedia.org/wiki/Ponolohiya" hreflang="war" lang="war" title="Ponolohiya – Waray">
+         Winaray
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh-yue">
+        <a class="interlanguage-link-target" href="https://zh-yue.wikipedia.org/wiki/%E8%81%B2%E9%9F%BB%E5%AD%B8" hreflang="zh-yue" lang="zh-yue" title="聲韻學 – Cantonese">
+         粵語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-diq">
+        <a class="interlanguage-link-target" href="https://diq.wikipedia.org/wiki/Veng%C5%9F%C4%B1nasiye" hreflang="diq" lang="diq" title="Vengşınasiye – Zazaki">
+         Zazaki
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E9%9F%B3%E4%BD%8D%E5%AD%B8" hreflang="zh" lang="zh" title="音位學 – Chinese">
+         中文
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q40998#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 8 January 2018, at 22:20.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Phonology&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.384","walltime":"0.468","ppvisitednodes":{"value":2729,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":69632,"limit":2097152},"templateargumentsize":{"value":2912,"limit":2097152},"expansiondepth":{"value":17,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  396.960      1 -total"," 30.29%  120.246      2 Template:Lang"," 25.00%   99.254      1 Template:Reflist"," 24.17%   95.940     12 Template:Cite_journal"," 12.06%   47.877     10 Template:Cite_book"," 11.08%   43.980      6 Template:ISBN","  5.76%   22.851      1 Template:Authority_control","  5.32%   21.110      1 Template:For","  4.55%   18.053      1 Template:Linguistics","  4.33%   17.183      6 Template:Catalog_lookup_link"]},"scribunto":{"limitreport-timeusage":{"value":"0.229","limit":"10.000"},"limitreport-memusage":{"value":13573562,"limit":52428800}},"cachereport":{"origin":"mw1269","timestamp":"20180201194646","ttl":1900800,"transientcontent":false}}});});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":95,"wgHostname":"mw1331"});});
+  </script>
+ </body>
+</html>

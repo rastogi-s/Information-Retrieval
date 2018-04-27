@@ -1,0 +1,2402 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Gravitational field - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Gravitational_field","wgTitle":"Gravitational field","wgCurRevisionId":817187083,"wgRevisionId":817187083,"wgArticleId":174782,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia articles needing page number citations from October 2017","Pages using div col with deprecated parameters","Theories of gravitation","Gravitation","Geodesy","General relativity"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Gravitational_field","wgRelevantArticleId":174782,"wgRequestId":"WnKjggpAAEUAADAwalQAAACU","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q558066","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.31.0-wmf.17" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Gravitational_field" rel="alternate"/>
+  <link href="/w/index.php?title=Gravitational_field&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Gravitational_field&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/Gravitational_field" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Gravitational_field rootpage-Gravitational_field skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Gravitational field
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <p>
+       In
+       <a href="/wiki/Physics" title="Physics">
+        physics
+       </a>
+       , a
+       <b>
+        gravitational field
+       </b>
+       is a
+       <a class="mw-redirect" href="/wiki/Scientific_model" title="Scientific model">
+        model
+       </a>
+       used to explain the influence that a massive body extends into the space around itself, producing a force on another massive body.
+       <sup class="reference" id="cite_ref-1">
+        <a href="#cite_note-1">
+         [1]
+        </a>
+       </sup>
+       Thus, a gravitational
+       <a href="/wiki/Field_(physics)" title="Field (physics)">
+        field
+       </a>
+       is used to explain
+       <a href="/wiki/Gravity" title="Gravity">
+        gravitational
+       </a>
+       phenomena, and is measured in
+       <a href="/wiki/Newton_(unit)" title="Newton (unit)">
+        newtons
+       </a>
+       per
+       <a href="/wiki/Kilogram" title="Kilogram">
+        kilogram
+       </a>
+       (N/kg). In its original concept,
+       <a href="/wiki/Gravity" title="Gravity">
+        gravity
+       </a>
+       was a
+       <a href="/wiki/Force" title="Force">
+        force
+       </a>
+       between point
+       <a href="/wiki/Mass" title="Mass">
+        masses
+       </a>
+       . Following
+       <a href="/wiki/Isaac_Newton" title="Isaac Newton">
+        Isaac Newton
+       </a>
+       ,
+       <a href="/wiki/Pierre-Simon_Laplace" title="Pierre-Simon Laplace">
+        Pierre-Simon Laplace
+       </a>
+       attempted to model gravity as some kind of
+       <a href="/wiki/Radiation" title="Radiation">
+        radiation
+       </a>
+       field or
+       <a href="/wiki/Fluid" title="Fluid">
+        fluid
+       </a>
+       , and since the 19th century explanations for gravity have usually been taught in terms of a field model, rather than a point attraction.
+      </p>
+      <p>
+       In a field model, rather than two particles attracting each other, the particles distort
+       <a href="/wiki/Spacetime" title="Spacetime">
+        spacetime
+       </a>
+       via their mass, and this distortion is what is perceived and measured as a "force". In such a model one states that matter moves in certain ways in response to the curvature of spacetime,
+       <sup class="reference" id="cite_ref-2">
+        <a href="#cite_note-2">
+         [2]
+        </a>
+       </sup>
+       and that there is either
+       <i>
+        no gravitational force
+       </i>
+       ,
+       <sup class="reference" id="cite_ref-3">
+        <a href="#cite_note-3">
+         [3]
+        </a>
+       </sup>
+       or that gravity is a
+       <a href="/wiki/Fictitious_force" title="Fictitious force">
+        fictitious force
+       </a>
+       .
+       <sup class="reference" id="cite_ref-4">
+        <a href="#cite_note-4">
+         [4]
+        </a>
+       </sup>
+      </p>
+      <p>
+      </p>
+      <div class="toc" id="toc">
+       <div class="toctitle" dir="ltr" lang="en" xml:lang="en">
+        <h2>
+         Contents
+        </h2>
+       </div>
+       <ul>
+        <li class="toclevel-1 tocsection-1">
+         <a href="#Classical_mechanics">
+          <span class="tocnumber">
+           1
+          </span>
+          <span class="toctext">
+           Classical mechanics
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-2">
+         <a href="#General_relativity">
+          <span class="tocnumber">
+           2
+          </span>
+          <span class="toctext">
+           General relativity
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-3">
+         <a href="#See_also">
+          <span class="tocnumber">
+           3
+          </span>
+          <span class="toctext">
+           See also
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-4">
+         <a href="#Notes">
+          <span class="tocnumber">
+           4
+          </span>
+          <span class="toctext">
+           Notes
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <p>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Classical_mechanics">
+        Classical mechanics
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Gravitational_field&amp;action=edit&amp;section=1" title="Edit section: Classical mechanics">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       In
+       <a href="/wiki/Classical_mechanics" title="Classical mechanics">
+        classical mechanics
+       </a>
+       as in
+       <a href="/wiki/Physics" title="Physics">
+        physics
+       </a>
+       , a gravitational field is a physical quantity.
+       <sup class="reference" id="cite_ref-5">
+        <a href="#cite_note-5">
+         [5]
+        </a>
+       </sup>
+       A gravitational field can be defined using
+       <a href="/wiki/Newton%27s_law_of_universal_gravitation" title="Newton's law of universal gravitation">
+        Newton's law of universal gravitation
+       </a>
+       . Determined in this way, the gravitational field
+       <span class="texhtml">
+        <b>
+         g
+        </b>
+       </span>
+       around a single particle of mass
+       <span class="texhtml">
+        <i>
+         M
+        </i>
+       </span>
+       is a
+       <a href="/wiki/Vector_field" title="Vector field">
+        vector field
+       </a>
+       consisting at every point of a
+       <a class="mw-redirect" href="/wiki/Vector_(geometry)" title="Vector (geometry)">
+        vector
+       </a>
+       pointing directly towards the particle. The magnitude of the field at every point is calculated applying the universal law, and represents the force per unit mass on any object at that point in space. Because the force field is conservative, there is a scalar potential energy per unit mass,
+       <span class="texhtml">
+        <i>
+         Φ
+        </i>
+       </span>
+       , at each point in space associated with the force fields; this is called
+       <a href="/wiki/Gravitational_potential" title="Gravitational potential">
+        gravitational potential
+       </a>
+       .
+       <sup class="reference" id="cite_ref-6">
+        <a href="#cite_note-6">
+         [6]
+        </a>
+       </sup>
+       The gravitational field equation is
+       <sup class="reference" id="cite_ref-7">
+        <a href="#cite_note-7">
+         [7]
+        </a>
+       </sup>
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle \mathbf {g} ={\frac {\mathbf {F} }{m}}=-{\frac {\mathrm {d} ^{2}\mathbf {R} }{\mathrm {d} t^{2}}}=-GM{\frac {\mathbf {\hat {R}} }{\left|\mathbf {R} \right|^{2}}}=-\nabla \Phi }" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi mathvariant="bold">
+                g
+               </mi>
+              </mrow>
+              <mo>
+               =
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mfrac>
+                <mrow class="MJX-TeXAtom-ORD">
+                 <mi mathvariant="bold">
+                  F
+                 </mi>
+                </mrow>
+                <mi>
+                 m
+                </mi>
+               </mfrac>
+              </mrow>
+              <mo>
+               =
+              </mo>
+              <mo>
+               −
+               <!-- − -->
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mfrac>
+                <mrow>
+                 <msup>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mi mathvariant="normal">
+                    d
+                   </mi>
+                  </mrow>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mn>
+                    2
+                   </mn>
+                  </mrow>
+                 </msup>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mi mathvariant="bold">
+                   R
+                  </mi>
+                 </mrow>
+                </mrow>
+                <mrow>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mi mathvariant="normal">
+                   d
+                  </mi>
+                 </mrow>
+                 <msup>
+                  <mi>
+                   t
+                  </mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mn>
+                    2
+                   </mn>
+                  </mrow>
+                 </msup>
+                </mrow>
+               </mfrac>
+              </mrow>
+              <mo>
+               =
+              </mo>
+              <mo>
+               −
+               <!-- − -->
+              </mo>
+              <mi>
+               G
+              </mi>
+              <mi>
+               M
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mfrac>
+                <mrow class="MJX-TeXAtom-ORD">
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mover>
+                   <mi mathvariant="bold">
+                    R
+                   </mi>
+                   <mo mathvariant="bold" stretchy="false">
+                    ^
+                    <!-- ^ -->
+                   </mo>
+                  </mover>
+                 </mrow>
+                </mrow>
+                <msup>
+                 <mrow>
+                  <mo>
+                   |
+                  </mo>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mi mathvariant="bold">
+                    R
+                   </mi>
+                  </mrow>
+                  <mo>
+                   |
+                  </mo>
+                 </mrow>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mn>
+                   2
+                  </mn>
+                 </mrow>
+                </msup>
+               </mfrac>
+              </mrow>
+              <mo>
+               =
+              </mo>
+              <mo>
+               −
+               <!-- − -->
+              </mo>
+              <mi mathvariant="normal">
+               ∇
+               <!-- ∇ -->
+              </mi>
+              <mi mathvariant="normal">
+               Φ
+               <!-- Φ -->
+              </mi>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle \mathbf {g} ={\frac {\mathbf {F} }{m}}=-{\frac {\mathrm {d} ^{2}\mathbf {R} }{\mathrm {d} t^{2}}}=-GM{\frac {\mathbf {\hat {R}} }{\left|\mathbf {R} \right|^{2}}}=-\nabla \Phi }
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="{\displaystyle \mathbf {g} ={\frac {\mathbf {F} }{m}}=-{\frac {\mathrm {d} ^{2}\mathbf {R} }{\mathrm {d} t^{2}}}=-GM{\frac {\mathbf {\hat {R}} }{\left|\mathbf {R} \right|^{2}}}=-\nabla \Phi }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/57af6027217e1d8e59ef37da735316433bde1615" style="vertical-align: -3.005ex; width:40.288ex; height:7.009ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       where
+       <span class="texhtml">
+        <b>
+         F
+        </b>
+       </span>
+       is the
+       <a class="mw-redirect" href="/wiki/Gravitational_force" title="Gravitational force">
+        gravitational force
+       </a>
+       ,
+       <span class="texhtml">
+        <i>
+         m
+        </i>
+       </span>
+       is the mass of the
+       <a class="mw-redirect" href="/wiki/Test_mass" title="Test mass">
+        test particle
+       </a>
+       ,
+       <span class="texhtml">
+        <b>
+         R
+        </b>
+       </span>
+       is the position of the test particle,
+       <span class="texhtml">
+        <b>
+         R̂
+        </b>
+       </span>
+       is a
+       <a href="/wiki/Unit_vector" title="Unit vector">
+        unit vector
+       </a>
+       in the direction of
+       <span class="texhtml">
+        <b>
+         R
+        </b>
+       </span>
+       ,
+       <span class="texhtml">
+        <i>
+         t
+        </i>
+       </span>
+       is
+       <a href="/wiki/Time" title="Time">
+        time
+       </a>
+       ,
+       <span class="texhtml">
+        <i>
+         G
+        </i>
+       </span>
+       is the
+       <a href="/wiki/Gravitational_constant" title="Gravitational constant">
+        gravitational constant
+       </a>
+       , and
+       <span class="texhtml">
+        ∇
+       </span>
+       is the
+       <a class="mw-redirect" href="/wiki/Del_operator" title="Del operator">
+        del operator
+       </a>
+       .
+      </p>
+      <p>
+       This includes
+       <a href="/wiki/Newton%27s_law_of_universal_gravitation" title="Newton's law of universal gravitation">
+        Newton's law of universal gravitation
+       </a>
+       , and the relation between gravitational potential and field acceleration. Note that
+       <span class="texhtml">
+        <span class="sfrac nowrap" style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;">
+         <span style="display:block; line-height:1em; margin:0 0.1em;">
+          d
+          <sup>
+           2
+          </sup>
+          <b>
+           R
+          </b>
+         </span>
+         <span class="visualhide">
+          /
+         </span>
+         <span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;">
+          d
+          <i>
+           t
+          </i>
+          <sup>
+           2
+          </sup>
+         </span>
+        </span>
+       </span>
+       and
+       <span class="texhtml">
+        <span class="sfrac nowrap" style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;">
+         <span style="display:block; line-height:1em; margin:0 0.1em;">
+          <b>
+           F
+          </b>
+         </span>
+         <span class="visualhide">
+          /
+         </span>
+         <span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;">
+          <i>
+           m
+          </i>
+         </span>
+        </span>
+       </span>
+       are both equal to the
+       <a href="/wiki/Gravitational_acceleration" title="Gravitational acceleration">
+        gravitational acceleration
+       </a>
+       <span class="texhtml">
+        <b>
+         g
+        </b>
+       </span>
+       (equivalent to the inertial acceleration, so same mathematical form, but also defined as gravitational force per unit mass
+       <sup class="reference" id="cite_ref-8">
+        <a href="#cite_note-8">
+         [8]
+        </a>
+       </sup>
+       ). The negative signs are inserted since the force acts antiparallel to the displacement. The equivalent field equation in terms of mass
+       <a href="/wiki/Density" title="Density">
+        density
+       </a>
+       <span class="texhtml">
+        <i>
+         ρ
+        </i>
+       </span>
+       of the attracting mass is:
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle -\nabla \cdot \mathbf {g} =\nabla ^{2}\Phi =4\pi G\rho }" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mo>
+               −
+               <!-- − -->
+              </mo>
+              <mi mathvariant="normal">
+               ∇
+               <!-- ∇ -->
+              </mi>
+              <mo>
+               ⋅
+               <!-- ⋅ -->
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi mathvariant="bold">
+                g
+               </mi>
+              </mrow>
+              <mo>
+               =
+              </mo>
+              <msup>
+               <mi mathvariant="normal">
+                ∇
+                <!-- ∇ -->
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mn>
+                 2
+                </mn>
+               </mrow>
+              </msup>
+              <mi mathvariant="normal">
+               Φ
+               <!-- Φ -->
+              </mi>
+              <mo>
+               =
+              </mo>
+              <mn>
+               4
+              </mn>
+              <mi>
+               π
+               <!-- π -->
+              </mi>
+              <mi>
+               G
+              </mi>
+              <mi>
+               ρ
+               <!-- ρ -->
+              </mi>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle -\nabla \cdot \mathbf {g} =\nabla ^{2}\Phi =4\pi G\rho }
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="{\displaystyle -\nabla \cdot \mathbf {g} =\nabla ^{2}\Phi =4\pi G\rho }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/667679cbf7d220bcfcdb3af2d32d3224bfd2e36f" style="vertical-align: -0.838ex; width:23.148ex; height:3.176ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       which contains
+       <a href="/wiki/Gauss%27s_law_for_gravity" title="Gauss's law for gravity">
+        Gauss's law for gravity
+       </a>
+       , and
+       <a href="/wiki/Poisson%27s_equation#Newtonian_gravity" title="Poisson's equation">
+        Poisson's equation for gravity
+       </a>
+       . Newton's and Gauss's law are mathematically equivalent, and are related by the
+       <a href="/wiki/Divergence_theorem" title="Divergence theorem">
+        divergence theorem
+       </a>
+       . Poisson's equation is obtained by taking the
+       <a href="/wiki/Divergence" title="Divergence">
+        divergence
+       </a>
+       of both sides of the previous equation. These classical equations are
+       <a href="/wiki/Differential_equation" title="Differential equation">
+        differential
+       </a>
+       <a href="/wiki/Equations_of_motion" title="Equations of motion">
+        equations of motion
+       </a>
+       for a test particle in the presence of a gravitational field, i.e. setting up and solving these equations allows the motion of a test mass to be determined and described.
+      </p>
+      <p>
+       The field around multiple particles is simply the
+       <a class="mw-redirect" href="/wiki/Vector_(geometry)#Addition_and_subtraction" title="Vector (geometry)">
+        vector sum
+       </a>
+       of the fields around each individual particle. An object in such a field will experience a force that equals the vector sum of the forces it would experience in these individual fields. This is mathematically
+       <sup class="reference" id="cite_ref-9">
+        <a href="#cite_note-9">
+         [9]
+        </a>
+       </sup>
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle \mathbf {g} _{j}^{\text{(net)}}=\sum _{i\neq j}\mathbf {g} _{i}={\frac {1}{m_{j}}}\sum _{i\neq j}\mathbf {F} _{i}=-G\sum _{i\neq j}m_{i}{\frac {\mathbf {\hat {R}} _{ij}}{\left|\mathbf {R} _{i}-\mathbf {R} _{j}\right|^{2}}}=-\sum _{i\neq j}\nabla \Phi _{i}}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <msubsup>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi mathvariant="bold">
+                 g
+                </mi>
+               </mrow>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 j
+                </mi>
+               </mrow>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mtext>
+                 (net)
+                </mtext>
+               </mrow>
+              </msubsup>
+              <mo>
+               =
+              </mo>
+              <munder>
+               <mo>
+                ∑
+                <!-- ∑ -->
+               </mo>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 i
+                </mi>
+                <mo>
+                 ≠
+                 <!-- ≠ -->
+                </mo>
+                <mi>
+                 j
+                </mi>
+               </mrow>
+              </munder>
+              <msub>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi mathvariant="bold">
+                 g
+                </mi>
+               </mrow>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 i
+                </mi>
+               </mrow>
+              </msub>
+              <mo>
+               =
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mfrac>
+                <mn>
+                 1
+                </mn>
+                <msub>
+                 <mi>
+                  m
+                 </mi>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mi>
+                   j
+                  </mi>
+                 </mrow>
+                </msub>
+               </mfrac>
+              </mrow>
+              <munder>
+               <mo>
+                ∑
+                <!-- ∑ -->
+               </mo>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 i
+                </mi>
+                <mo>
+                 ≠
+                 <!-- ≠ -->
+                </mo>
+                <mi>
+                 j
+                </mi>
+               </mrow>
+              </munder>
+              <msub>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi mathvariant="bold">
+                 F
+                </mi>
+               </mrow>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 i
+                </mi>
+               </mrow>
+              </msub>
+              <mo>
+               =
+              </mo>
+              <mo>
+               −
+               <!-- − -->
+              </mo>
+              <mi>
+               G
+              </mi>
+              <munder>
+               <mo>
+                ∑
+                <!-- ∑ -->
+               </mo>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 i
+                </mi>
+                <mo>
+                 ≠
+                 <!-- ≠ -->
+                </mo>
+                <mi>
+                 j
+                </mi>
+               </mrow>
+              </munder>
+              <msub>
+               <mi>
+                m
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 i
+                </mi>
+               </mrow>
+              </msub>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mfrac>
+                <msub>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mover>
+                    <mi mathvariant="bold">
+                     R
+                    </mi>
+                    <mo mathvariant="bold" stretchy="false">
+                     ^
+                     <!-- ^ -->
+                    </mo>
+                   </mover>
+                  </mrow>
+                 </mrow>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mi>
+                   i
+                  </mi>
+                  <mi>
+                   j
+                  </mi>
+                 </mrow>
+                </msub>
+                <msup>
+                 <mrow>
+                  <mo>
+                   |
+                  </mo>
+                  <mrow>
+                   <msub>
+                    <mrow class="MJX-TeXAtom-ORD">
+                     <mi mathvariant="bold">
+                      R
+                     </mi>
+                    </mrow>
+                    <mrow class="MJX-TeXAtom-ORD">
+                     <mi>
+                      i
+                     </mi>
+                    </mrow>
+                   </msub>
+                   <mo>
+                    −
+                    <!-- − -->
+                   </mo>
+                   <msub>
+                    <mrow class="MJX-TeXAtom-ORD">
+                     <mi mathvariant="bold">
+                      R
+                     </mi>
+                    </mrow>
+                    <mrow class="MJX-TeXAtom-ORD">
+                     <mi>
+                      j
+                     </mi>
+                    </mrow>
+                   </msub>
+                  </mrow>
+                  <mo>
+                   |
+                  </mo>
+                 </mrow>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mn>
+                   2
+                  </mn>
+                 </mrow>
+                </msup>
+               </mfrac>
+              </mrow>
+              <mo>
+               =
+              </mo>
+              <mo>
+               −
+               <!-- − -->
+              </mo>
+              <munder>
+               <mo>
+                ∑
+                <!-- ∑ -->
+               </mo>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 i
+                </mi>
+                <mo>
+                 ≠
+                 <!-- ≠ -->
+                </mo>
+                <mi>
+                 j
+                </mi>
+               </mrow>
+              </munder>
+              <mi mathvariant="normal">
+               ∇
+               <!-- ∇ -->
+              </mi>
+              <msub>
+               <mi mathvariant="normal">
+                Φ
+                <!-- Φ -->
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 i
+                </mi>
+               </mrow>
+              </msub>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle \mathbf {g} _{j}^{\text{(net)}}=\sum _{i\neq j}\mathbf {g} _{i}={\frac {1}{m_{j}}}\sum _{i\neq j}\mathbf {F} _{i}=-G\sum _{i\neq j}m_{i}{\frac {\mathbf {\hat {R}} _{ij}}{\left|\mathbf {R} _{i}-\mathbf {R} _{j}\right|^{2}}}=-\sum _{i\neq j}\nabla \Phi _{i}}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="{\displaystyle \mathbf {g} _{j}^{\text{(net)}}=\sum _{i\neq j}\mathbf {g} _{i}={\frac {1}{m_{j}}}\sum _{i\neq j}\mathbf {F} _{i}=-G\sum _{i\neq j}m_{i}{\frac {\mathbf {\hat {R}} _{ij}}{\left|\mathbf {R} _{i}-\mathbf {R} _{j}\right|^{2}}}=-\sum _{i\neq j}\nabla \Phi _{i}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/76b4700e4a7665d2d81394de9481b2c18fdd3bbd" style="vertical-align: -3.505ex; width:66.497ex; height:7.843ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       i.e. the gravitational field on mass
+       <span class="texhtml">
+        <i>
+         m
+         <sub>
+          j
+         </sub>
+        </i>
+       </span>
+       is the sum of all gravitational fields due to all other masses
+       <i>
+        m
+        <sub>
+         i
+        </sub>
+       </i>
+       , except the mass
+       <span class="texhtml">
+        <i>
+         m
+         <sub>
+          j
+         </sub>
+        </i>
+       </span>
+       itself. The unit vector
+       <span class="texhtml">
+        <b>
+         R̂
+        </b>
+        <sub>
+         <i>
+          ij
+         </i>
+        </sub>
+       </span>
+       is in the direction of
+       <span class="texhtml">
+        <b>
+         R
+        </b>
+        <sub>
+         <i>
+          i
+         </i>
+        </sub>
+        −
+        <b>
+         R
+        </b>
+        <sub>
+         <i>
+          j
+         </i>
+        </sub>
+       </span>
+       .
+      </p>
+      <h2>
+       <span class="mw-headline" id="General_relativity">
+        General relativity
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Gravitational_field&amp;action=edit&amp;section=2" title="Edit section: General relativity">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="hatnote navigation-not-searchable" role="note">
+       See also:
+       <a href="/wiki/Gravitational_acceleration#General_relativity" title="Gravitational acceleration">
+        Gravitational acceleration § General relativity
+       </a>
+       , and
+       <a href="/wiki/Gravitational_potential#General_relativity" title="Gravitational potential">
+        Gravitational potential § General relativity
+       </a>
+      </div>
+      <p>
+       In
+       <a href="/wiki/General_relativity" title="General relativity">
+        general relativity
+       </a>
+       , the
+       <a href="/wiki/Christoffel_symbols" title="Christoffel symbols">
+        Christoffel symbols
+       </a>
+       play the role of the gravitational force field and the
+       <a href="/wiki/Metric_tensor_(general_relativity)" title="Metric tensor (general relativity)">
+        metric tensor
+       </a>
+       plays the role of the gravitational potential.
+      </p>
+      <p>
+       In general relativity, the gravitational field is determined by solving the
+       <a href="/wiki/Einstein_field_equations" title="Einstein field equations">
+        Einstein field equations
+       </a>
+       <sup class="reference" id="cite_ref-10">
+        <a href="#cite_note-10">
+         [10]
+        </a>
+       </sup>
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle \mathbf {G} ={\frac {8\pi G}{c^{4}}}\mathbf {T} }" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi mathvariant="bold">
+                G
+               </mi>
+              </mrow>
+              <mo>
+               =
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mfrac>
+                <mrow>
+                 <mn>
+                  8
+                 </mn>
+                 <mi>
+                  π
+                  <!-- π -->
+                 </mi>
+                 <mi>
+                  G
+                 </mi>
+                </mrow>
+                <msup>
+                 <mi>
+                  c
+                 </mi>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mn>
+                   4
+                  </mn>
+                 </mrow>
+                </msup>
+               </mfrac>
+              </mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi mathvariant="bold">
+                T
+               </mi>
+              </mrow>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle \mathbf {G} ={\frac {8\pi G}{c^{4}}}\mathbf {T} }
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="{\displaystyle \mathbf {G} ={\frac {8\pi G}{c^{4}}}\mathbf {T} }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fa193b07a46d514b28a6c81398314a32de7523a4" style="vertical-align: -2.171ex; width:12.216ex; height:5.676ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       Here
+       <span class="texhtml">
+        <b>
+         T
+        </b>
+       </span>
+       is the
+       <a href="/wiki/Stress%E2%80%93energy_tensor" title="Stress–energy tensor">
+        stress–energy tensor
+       </a>
+       ,
+       <span class="texhtml">
+        <b>
+         G
+        </b>
+       </span>
+       is the
+       <a href="/wiki/Einstein_tensor" title="Einstein tensor">
+        Einstein tensor
+       </a>
+       , and
+       <span class="texhtml">
+        <i>
+         c
+        </i>
+       </span>
+       is the
+       <a href="/wiki/Speed_of_light" title="Speed of light">
+        speed of light
+       </a>
+       ,
+      </p>
+      <p>
+       These equations are dependent on the distribution of matter and energy in a region of space, unlike Newtonian gravity, which is dependent only on the distribution of matter. The fields themselves in general relativity represent the
+       <a href="/wiki/General_relativity#Spacetime_as_a_curved_Lorentzian_manifold" title="General relativity">
+        curvature of spacetime
+       </a>
+       . General relativity states that being in a region of curved space is
+       <a href="/wiki/Equivalence_principle#The_Einstein_equivalence_principle" title="Equivalence principle">
+        equivalent
+       </a>
+       to
+       <a href="/wiki/Acceleration" title="Acceleration">
+        accelerating
+       </a>
+       up the
+       <a href="/wiki/Gradient" title="Gradient">
+        gradient
+       </a>
+       of the field. By
+       <a href="/wiki/Newton%27s_laws_of_motion#Newton's_second_law" title="Newton's laws of motion">
+        Newton's second law
+       </a>
+       , this will cause an object to experience a
+       <a href="/wiki/Fictitious_force" title="Fictitious force">
+        fictitious force
+       </a>
+       if it is held still with respect to the field. This is why a person will feel himself pulled down by the force of gravity while standing still on the Earth's surface. In general the gravitational fields predicted by general relativity differ in their effects only slightly from those predicted by classical mechanics, but there are a number of easily verifiable
+       <a href="/wiki/General_relativity#Predictions_of_general_relativity" title="General relativity">
+        differences
+       </a>
+       , one of the most well known being the
+       <a href="/wiki/General_relativity#bending_of_light" title="General relativity">
+        bending of light
+       </a>
+       in such fields.
+      </p>
+      <h2>
+       <span class="mw-headline" id="See_also">
+        See also
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Gravitational_field&amp;action=edit&amp;section=3" title="Edit section: See also">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="div-col columns column-width" style="-moz-column-width: 20em; -webkit-column-width: 20em; column-width: 20em;">
+       <ul>
+        <li>
+         <a href="/wiki/Classical_mechanics" title="Classical mechanics">
+          Classical mechanics
+         </a>
+        </li>
+        <li>
+         <a class="mw-redirect" href="/wiki/Gravitation" title="Gravitation">
+          Gravitation
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Gravitational_potential" title="Gravitational potential">
+          Gravitational potential
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Gravitational_wave" title="Gravitational wave">
+          Gravitational wave
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Newton%27s_law_of_universal_gravitation" title="Newton's law of universal gravitation">
+          Newton's law of universal gravitation
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Newton%27s_laws_of_motion" title="Newton's laws of motion">
+          Newton's laws of motion
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Potential_energy" title="Potential energy">
+          Potential energy
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Speed_of_gravity" title="Speed of gravity">
+          Speed of gravity
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Tests_of_general_relativity" title="Tests of general relativity">
+          Tests of general relativity
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Defining_equation_(physics)" title="Defining equation (physics)">
+          Defining equation (physics)
+         </a>
+        </li>
+       </ul>
+      </div>
+      <h2>
+       <span class="mw-headline" id="Notes">
+        Notes
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Gravitational_field&amp;action=edit&amp;section=4" title="Edit section: Notes">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+       <ol class="references">
+        <li id="cite_note-1">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-1">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation book">
+           <a href="/wiki/Richard_Feynman" title="Richard Feynman">
+            Feynman, Richard
+           </a>
+           (1970).
+           <a class="external text" href="http://www.feynmanlectures.caltech.edu/I_07.html" rel="nofollow">
+            <i>
+             The Feynman Lectures on Physics
+            </i>
+           </a>
+           .
+           <b>
+            I
+           </b>
+           . Addison Wesley Longman.
+           <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+            ISBN
+           </a>
+           <a href="/wiki/Special:BookSources/978-0-201-02115-8" title="Special:BookSources/978-0-201-02115-8">
+            978-0-201-02115-8
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Feynman+Lectures+on+Physics&amp;rft.pub=Addison+Wesley+Longman&amp;rft.date=1970&amp;rft.isbn=978-0-201-02115-8&amp;rft.aulast=Feynman&amp;rft.aufirst=Richard&amp;rft_id=http%3A%2F%2Fwww.feynmanlectures.caltech.edu%2FI_07.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGravitational+field">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-2">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-2">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation book">
+           Geroch, Robert (1981).
+           <a class="external text" href="https://books.google.com/books?id=UkxPpqHs0RkC&amp;pg=PA181" rel="nofollow">
+            <i>
+             General Relativity from A to B
+            </i>
+           </a>
+           .
+           <a href="/wiki/University_of_Chicago_Press" title="University of Chicago Press">
+            University of Chicago Press
+           </a>
+           . p. 181.
+           <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+            ISBN
+           </a>
+           <a href="/wiki/Special:BookSources/0-226-28864-1" title="Special:BookSources/0-226-28864-1">
+            0-226-28864-1
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=General+Relativity+from+A+to+B&amp;rft.pages=181&amp;rft.pub=University+of+Chicago+Press&amp;rft.date=1981&amp;rft.isbn=0-226-28864-1&amp;rft.aulast=Geroch&amp;rft.aufirst=Robert&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DUkxPpqHs0RkC%26pg%3DPA181&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGravitational+field">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-3">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-3">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation book">
+           Grøn, Øyvind; Hervik, Sigbjørn (2007).
+           <a class="external text" href="https://books.google.com/books?id=IyJhCHAryuUC&amp;pg=PA256" rel="nofollow">
+            <i>
+             Einstein's General Theory of Relativity: with Modern Applications in Cosmology
+            </i>
+           </a>
+           . Springer Japan. p. 256.
+           <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+            ISBN
+           </a>
+           <a href="/wiki/Special:BookSources/0-387-69199-5" title="Special:BookSources/0-387-69199-5">
+            0-387-69199-5
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Einstein%27s+General+Theory+of+Relativity%3A+with+Modern+Applications+in+Cosmology&amp;rft.pages=256&amp;rft.pub=Springer+Japan&amp;rft.date=2007&amp;rft.isbn=0-387-69199-5&amp;rft.aulast=Gr%C3%B8n&amp;rft.aufirst=%C3%98yvind&amp;rft.au=Hervik%2C+Sigbj%C3%B8rn&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DIyJhCHAryuUC%26pg%3DPA256&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGravitational+field">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-4">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-4">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation book">
+           Foster, J.; Nightingale, J. D. (2006).
+           <a class="external text" href="https://books.google.com/books?id=wtoKZODmoVsC&amp;pg=PA55" rel="nofollow">
+            <i>
+             A Short Course in General Relativity
+            </i>
+           </a>
+           (3 ed.). Springer Science &amp; Business. p. 55.
+           <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+            ISBN
+           </a>
+           <a href="/wiki/Special:BookSources/0-387-26078-1" title="Special:BookSources/0-387-26078-1">
+            0-387-26078-1
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=A+Short+Course+in+General+Relativity&amp;rft.pages=55&amp;rft.edition=3&amp;rft.pub=Springer+Science+%26+Business&amp;rft.date=2006&amp;rft.isbn=0-387-26078-1&amp;rft.aulast=Foster&amp;rft.aufirst=J.&amp;rft.au=Nightingale%2C+J.+D.&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DwtoKZODmoVsC%26pg%3DPA55&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGravitational+field">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-5">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-5">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation book">
+           <a href="/wiki/Richard_Feynman" title="Richard Feynman">
+            Feynman, Richard
+           </a>
+           (1970).
+           <a class="external text" href="http://www.feynmanlectures.caltech.edu/II_01.html#Ch1-S2" rel="nofollow">
+            <i>
+             The Feynman Lectures on Physics
+            </i>
+           </a>
+           .
+           <b>
+            II
+           </b>
+           . Addison Wesley Longman.
+           <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+            ISBN
+           </a>
+           <a href="/wiki/Special:BookSources/978-0-201-02115-8" title="Special:BookSources/978-0-201-02115-8">
+            978-0-201-02115-8
+           </a>
+           .
+           <q>
+            A “field” is any physical quantity which takes on different values at different points in space.
+           </q>
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Feynman+Lectures+on+Physics&amp;rft.pub=Addison+Wesley+Longman&amp;rft.date=1970&amp;rft.isbn=978-0-201-02115-8&amp;rft.aulast=Feynman&amp;rft.aufirst=Richard&amp;rft_id=http%3A%2F%2Fwww.feynmanlectures.caltech.edu%2FII_01.html%23Ch1-S2&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGravitational+field">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-6">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-6">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation book">
+           Forshaw, J. R.; Smith, A. G. (2009).
+           <i>
+            Dynamics and Relativity
+           </i>
+           . Wiley.
+           <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+            ISBN
+           </a>
+           <a href="/wiki/Special:BookSources/978-0-470-01460-8" title="Special:BookSources/978-0-470-01460-8">
+            978-0-470-01460-8
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Dynamics+and+Relativity&amp;rft.pub=Wiley&amp;rft.date=2009&amp;rft.isbn=978-0-470-01460-8&amp;rft.aulast=Forshaw&amp;rft.aufirst=J.+R.&amp;rft.au=Smith%2C+A.+G.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGravitational+field">
+           <span style="display:none;">
+           </span>
+          </span>
+          <sup class="noprint Inline-Template" style="white-space:nowrap;">
+           [
+           <i>
+            <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">
+             <span title="This citation requires a reference to the specific page or range of pages in which the material appears. (October 2017)">
+              page needed
+             </span>
+            </a>
+           </i>
+           ]
+          </sup>
+         </span>
+        </li>
+        <li id="cite_note-7">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-7">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation book">
+           Lerner, R. G.; Trigg, G. L., eds. (1991).
+           <i>
+            Encyclopaedia of Physics
+           </i>
+           (2nd ed.).
+           <a href="/wiki/Wiley-VCH" title="Wiley-VCH">
+            Wiley-VCH
+           </a>
+           .
+           <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+            ISBN
+           </a>
+           <a href="/wiki/Special:BookSources/978-0-89573-752-6" title="Special:BookSources/978-0-89573-752-6">
+            978-0-89573-752-6
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Encyclopaedia+of+Physics&amp;rft.edition=2nd&amp;rft.pub=Wiley-VCH&amp;rft.date=1991&amp;rft.isbn=978-0-89573-752-6&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGravitational+field">
+           <span style="display:none;">
+           </span>
+          </span>
+          <sup class="noprint Inline-Template" style="white-space:nowrap;">
+           [
+           <i>
+            <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">
+             <span title="This citation requires a reference to the specific page or range of pages in which the material appears. (October 2017)">
+              page needed
+             </span>
+            </a>
+           </i>
+           ]
+          </sup>
+         </span>
+        </li>
+        <li id="cite_note-8">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-8">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation book">
+           Whelan, P. M.; Hodgeson, M. J. (1978).
+           <i>
+            Essential Principles of Physics
+           </i>
+           (2nd ed.). John Murray.
+           <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+            ISBN
+           </a>
+           <a href="/wiki/Special:BookSources/0-7195-3382-1" title="Special:BookSources/0-7195-3382-1">
+            0-7195-3382-1
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Essential+Principles+of+Physics&amp;rft.edition=2nd&amp;rft.pub=John+Murray&amp;rft.date=1978&amp;rft.isbn=0-7195-3382-1&amp;rft.aulast=Whelan&amp;rft.aufirst=P.+M.&amp;rft.au=Hodgeson%2C+M.+J.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGravitational+field">
+           <span style="display:none;">
+           </span>
+          </span>
+          <sup class="noprint Inline-Template" style="white-space:nowrap;">
+           [
+           <i>
+            <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">
+             <span title="This citation requires a reference to the specific page or range of pages in which the material appears. (October 2017)">
+              page needed
+             </span>
+            </a>
+           </i>
+           ]
+          </sup>
+         </span>
+        </li>
+        <li id="cite_note-9">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-9">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation book">
+           Kibble, T. W. B. (1973).
+           <i>
+            Classical Mechanics
+           </i>
+           . European Physics Series (2nd ed.). UK:
+           <a class="mw-redirect" href="/wiki/McGraw_Hill" title="McGraw Hill">
+            McGraw Hill
+           </a>
+           .
+           <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+            ISBN
+           </a>
+           <a href="/wiki/Special:BookSources/0-07-084018-0" title="Special:BookSources/0-07-084018-0">
+            0-07-084018-0
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Classical+Mechanics&amp;rft.place=UK&amp;rft.series=European+Physics+Series&amp;rft.edition=2nd&amp;rft.pub=McGraw+Hill&amp;rft.date=1973&amp;rft.isbn=0-07-084018-0&amp;rft.aulast=Kibble&amp;rft.aufirst=T.+W.+B.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGravitational+field">
+           <span style="display:none;">
+           </span>
+          </span>
+          <sup class="noprint Inline-Template" style="white-space:nowrap;">
+           [
+           <i>
+            <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">
+             <span title="This citation requires a reference to the specific page or range of pages in which the material appears. (October 2017)">
+              page needed
+             </span>
+            </a>
+           </i>
+           ]
+          </sup>
+         </span>
+        </li>
+        <li id="cite_note-10">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-10">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation book">
+           Wheeler, J. A.; Misner, C.; Thorne, K. S. (1973).
+           <i>
+            Gravitation
+           </i>
+           . W. H. Freeman &amp; Co.
+           <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+            ISBN
+           </a>
+           <a href="/wiki/Special:BookSources/0-7167-0344-0" title="Special:BookSources/0-7167-0344-0">
+            0-7167-0344-0
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Gravitation&amp;rft.pub=W.+H.+Freeman+%26+Co&amp;rft.date=1973&amp;rft.isbn=0-7167-0344-0&amp;rft.aulast=Wheeler&amp;rft.aufirst=J.+A.&amp;rft.au=Misner%2C+C.&amp;rft.au=Thorne%2C+K.+S.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGravitational+field">
+           <span style="display:none;">
+           </span>
+          </span>
+          <sup class="noprint Inline-Template" style="white-space:nowrap;">
+           [
+           <i>
+            <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">
+             <span title="This citation requires a reference to the specific page or range of pages in which the material appears. (October 2017)">
+              page needed
+             </span>
+            </a>
+           </i>
+           ]
+          </sup>
+         </span>
+        </li>
+       </ol>
+      </div>
+      <!-- 
+NewPP limit report
+Parsed by mw1252
+Cached time: 20180115191408
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.224 seconds
+Real time usage: 0.297 seconds
+Preprocessor visited node count: 1573/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 29102/2097152 bytes
+Template argument size: 3670/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 1/500
+Lua time usage: 0.135/10.000 seconds
+Lua memory usage: 3.21 MB/50 MB
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  235.847      1 -total
+ 81.80%  192.923      1 Template:Reflist
+ 42.16%   99.438      5 Template:Page_needed
+ 39.57%   93.321      5 Template:Fix
+ 31.49%   74.269     10 Template:Cite_book
+ 23.48%   55.378      5 Template:Delink
+ 14.09%   33.238     10 Template:Category_handler
+  7.55%   17.805     22 Template:Math
+  6.13%   14.456      2 Template:Sfrac
+  4.21%    9.933      1 Template:Div_col
+-->
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:174782-0!canonical!math=5 and timestamp 20180115191408 and revision id 817187083
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Gravitational_field&amp;oldid=817187083">
+      https://en.wikipedia.org/w/index.php?title=Gravitational_field&amp;oldid=817187083
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Theories_of_gravitation" title="Category:Theories of gravitation">
+         Theories of gravitation
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Gravitation" title="Category:Gravitation">
+         Gravitation
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Geodesy" title="Category:Geodesy">
+         Geodesy
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:General_relativity" title="Category:General relativity">
+         General relativity
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:Wikipedia_articles_needing_page_number_citations_from_October_2017" title="Category:Wikipedia articles needing page number citations from October 2017">
+         Wikipedia articles needing page number citations from October 2017
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Pages_using_div_col_with_deprecated_parameters" title="Category:Pages using div col with deprecated parameters">
+         Pages using div col with deprecated parameters
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Gravitational+field" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Gravitational+field" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Gravitational_field" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Gravitational_field" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="collapsible selected" id="ca-view">
+        <span>
+         <a href="/wiki/Gravitational_field">
+          Read
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Gravitational_field&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Gravitational_field&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Gravitational_field" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Gravitational_field" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Gravitational_field&amp;oldid=817187083" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Gravitational_field&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q558066" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Gravitational_field&amp;id=817187083" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Gravitational+field">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Gravitational+field&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Gravitational_field&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-ar">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%AD%D9%82%D9%84_%D8%AC%D8%A7%D8%B0%D8%A8%D9%8A%D8%A9" hreflang="ar" lang="ar" title="حقل جاذبية – Arabic">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-az">
+        <a class="interlanguage-link-target" href="https://az.wikipedia.org/wiki/Qravitasiya_sah%C9%99si" hreflang="az" lang="az" title="Qravitasiya sahəsi – Azerbaijani">
+         Azərbaycanca
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh-min-nan">
+        <a class="interlanguage-link-target" href="https://zh-min-nan.wikipedia.org/wiki/Ti%C5%8Dng-le%CC%8Dk-ti%C3%BB%E2%81%BF" hreflang="zh-min-nan" lang="zh-min-nan" title="Tiōng-le̍k-tiûⁿ – Chinese (Min Nan)">
+         Bân-lâm-gú
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-be">
+        <a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%93%D1%80%D0%B0%D0%B2%D1%96%D1%82%D0%B0%D1%86%D1%8B%D0%B9%D0%BD%D0%B0%D0%B5_%D0%BF%D0%BE%D0%BB%D0%B5" hreflang="be" lang="be" title="Гравітацыйнае поле – Belarusian">
+         Беларуская
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bg">
+        <a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%93%D1%80%D0%B0%D0%B2%D0%B8%D1%82%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%BE_%D0%BF%D0%BE%D0%BB%D0%B5" hreflang="bg" lang="bg" title="Гравитационно поле – Bulgarian">
+         Български
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Camp_gravitatori" hreflang="ca" lang="ca" title="Camp gravitatori – Catalan">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Gravitationsfeld" hreflang="de" lang="de" title="Gravitationsfeld – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-et">
+        <a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Gravitatsiooniv%C3%A4li" hreflang="et" lang="et" title="Gravitatsiooniväli – Estonian">
+         Eesti
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-el">
+        <a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%92%CE%B1%CF%81%CF%85%CF%84%CE%B9%CE%BA%CF%8C_%CF%80%CE%B5%CE%B4%CE%AF%CE%BF" hreflang="el" lang="el" title="Βαρυτικό πεδίο – Greek">
+         Ελληνικά
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Campo_gravitatorio" hreflang="es" lang="es" title="Campo gravitatorio – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eu">
+        <a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Grabitazio-eremu" hreflang="eu" lang="eu" title="Grabitazio-eremu – Basque">
+         Euskara
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fa">
+        <a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D9%85%DB%8C%D8%AF%D8%A7%D9%86_%DA%AF%D8%B1%D8%A7%D9%86%D8%B4%DB%8C" hreflang="fa" lang="fa" title="میدان گرانشی – Persian">
+         فارسی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Champ_gravitationnel" hreflang="fr" lang="fr" title="Champ gravitationnel – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-gl">
+        <a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Campo_gravitatorio" hreflang="gl" lang="gl" title="Campo gravitatorio – Galician">
+         Galego
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ko">
+        <a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%A4%91%EB%A0%A5%EC%9E%A5" hreflang="ko" lang="ko" title="중력장 – Korean">
+         한국어
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hy">
+        <a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D4%B3%D6%80%D5%A1%D5%BE%D5%AB%D5%BF%D5%A1%D6%81%D5%AB%D5%B8%D5%B6_%D5%A4%D5%A1%D5%B7%D5%BF" hreflang="hy" lang="hy" title="Գրավիտացիոն դաշտ – Armenian">
+         Հայերեն
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hr">
+        <a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Gravitacijsko_polje" hreflang="hr" lang="hr" title="Gravitacijsko polje – Croatian">
+         Hrvatski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-is">
+        <a class="interlanguage-link-target" href="https://is.wikipedia.org/wiki/%C3%9Eyngdarsvi%C3%B0" hreflang="is" lang="is" title="Þyngdarsvið – Icelandic">
+         Íslenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Campo_gravitazionale" hreflang="it" lang="it" title="Campo gravitazionale – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-kk">
+        <a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/%D0%93%D1%80%D0%B0%D0%B2%D0%B8%D1%82%D0%B0%D1%86%D0%B8%D1%8F%D0%BB%D1%8B%D2%9B_%D3%A9%D1%80%D1%96%D1%81" hreflang="kk" lang="kk" title="Гравитациялық өріс – Kazakh">
+         Қазақша
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ht">
+        <a class="interlanguage-link-target" href="https://ht.wikipedia.org/wiki/Chan_gravitasyon" hreflang="ht" lang="ht" title="Chan gravitasyon – Haitian Creole">
+         Kreyòl ayisyen
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lv">
+        <a class="interlanguage-link-target" href="https://lv.wikipedia.org/wiki/Gravit%C4%81cijas_lauks" hreflang="lv" lang="lv" title="Gravitācijas lauks – Latvian">
+         Latviešu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-li">
+        <a class="interlanguage-link-target" href="https://li.wikipedia.org/wiki/Zwaordjekrachsveldj" hreflang="li" lang="li" title="Zwaordjekrachsveldj – Limburgish">
+         Limburgs
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hu">
+        <a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Gravit%C3%A1ci%C3%B3s_t%C3%A9r" hreflang="hu" lang="hu" title="Gravitációs tér – Hungarian">
+         Magyar
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-mr">
+        <a class="interlanguage-link-target" href="https://mr.wikipedia.org/wiki/%E0%A4%97%E0%A5%81%E0%A4%B0%E0%A5%81%E0%A4%A4%E0%A5%8D%E0%A4%B5_%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A5%87%E0%A4%A4%E0%A5%8D%E0%A4%B0" hreflang="mr" lang="mr" title="गुरुत्व क्षेत्र – Marathi">
+         मराठी
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nl">
+        <a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Zwaartekrachtsveld" hreflang="nl" lang="nl" title="Zwaartekrachtsveld – Dutch">
+         Nederlands
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ne">
+        <a class="interlanguage-link-target" href="https://ne.wikipedia.org/wiki/%E0%A4%97%E0%A5%81%E0%A4%B0%E0%A5%82%E0%A4%A4%E0%A5%8D%E0%A4%B5%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A5%87%E0%A4%A4%E0%A5%8D%E0%A4%B0" hreflang="ne" lang="ne" title="गुरूत्वक्षेत्र – Nepali">
+         नेपाली
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E9%87%8D%E5%8A%9B%E5%A0%B4" hreflang="ja" lang="ja" title="重力場 – Japanese">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-no">
+        <a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Gravitasjonsfelt" hreflang="no" lang="no" title="Gravitasjonsfelt – Norwegian">
+         Norsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nn">
+        <a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Gravitasjonsfelt" hreflang="nn" lang="nn" title="Gravitasjonsfelt – Norwegian Nynorsk">
+         Norsk nynorsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pa">
+        <a class="interlanguage-link-target" href="https://pa.wikipedia.org/wiki/%E0%A8%97%E0%A9%8D%E0%A8%B0%E0%A9%88%E0%A8%B5%E0%A9%80%E0%A8%9F%E0%A9%87%E0%A8%B8%E0%A8%BC%E0%A8%A8%E0%A8%B2_%E0%A8%AB%E0%A9%80%E0%A8%B2%E0%A8%A1" hreflang="pa" lang="pa" title="ਗ੍ਰੈਵੀਟੇਸ਼ਨਲ ਫੀਲਡ – Punjabi">
+         ਪੰਜਾਬੀ
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pl">
+        <a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Pole_grawitacyjne" hreflang="pl" lang="pl" title="Pole grawitacyjne – Polish">
+         Polski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Campo_gravitacional" hreflang="pt" lang="pt" title="Campo gravitacional – Portuguese">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ro">
+        <a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/C%C3%A2mp_gravita%C8%9Bional" hreflang="ro" lang="ro" title="Câmp gravitațional – Romanian">
+         Română
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%93%D1%80%D0%B0%D0%B2%D0%B8%D1%82%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BF%D0%BE%D0%BB%D0%B5" hreflang="ru" lang="ru" title="Гравитационное поле – Russian">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-simple">
+        <a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Gravitational_field" hreflang="simple" lang="simple" title="Gravitational field – Simple English">
+         Simple English
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sk">
+        <a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Gravita%C4%8Dn%C3%A9_pole" hreflang="sk" lang="sk" title="Gravitačné pole – Slovak">
+         Slovenčina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sl">
+        <a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Gravitacijsko_polje" hreflang="sl" lang="sl" title="Gravitacijsko polje – Slovenian">
+         Slovenščina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sr">
+        <a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%93%D1%80%D0%B0%D0%B2%D0%B8%D1%82%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BE_%D0%BF%D0%BE%D1%99%D0%B5" hreflang="sr" lang="sr" title="Гравитационо поље – Serbian">
+         Српски / srpski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sh">
+        <a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Gravitaciono_polje" hreflang="sh" lang="sh" title="Gravitaciono polje – Serbo-Croatian">
+         Srpskohrvatski / српскохрватски
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ta">
+        <a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%88%E0%AE%B0%E0%AF%8D%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%81%E0%AE%AA%E0%AF%8D_%E0%AE%AA%E0%AF%81%E0%AE%B2%E0%AE%AE%E0%AF%8D" hreflang="ta" lang="ta" title="ஈர்ப்புப் புலம் – Tamil">
+         தமிழ்
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tr">
+        <a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Yer%C3%A7ekimi_alan%C4%B1" hreflang="tr" lang="tr" title="Yerçekimi alanı – Turkish">
+         Türkçe
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uk">
+        <a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%93%D1%80%D0%B0%D0%B2%D1%96%D1%82%D0%B0%D1%86%D1%96%D0%B9%D0%BD%D0%B5_%D0%BF%D0%BE%D0%BB%D0%B5" hreflang="uk" lang="uk" title="Гравітаційне поле – Ukrainian">
+         Українська
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ur">
+        <a class="interlanguage-link-target" href="https://ur.wikipedia.org/wiki/%D8%AB%D9%82%D8%A7%D9%84%D8%AA%DB%8C_%D9%85%DB%8C%D8%AF%D8%A7%D9%86" hreflang="ur" lang="ur" title="ثقالتی میدان – Urdu">
+         اردو
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-vi">
+        <a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/Tr%C6%B0%E1%BB%9Dng_h%E1%BA%A5p_d%E1%BA%ABn" hreflang="vi" lang="vi" title="Trường hấp dẫn – Vietnamese">
+         Tiếng Việt
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%BC%95%E5%8A%9B%E5%A0%B4" hreflang="zh" lang="zh" title="引力場 – Chinese">
+         中文
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q558066#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 26 December 2017, at 19:27.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Gravitational_field&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.224","walltime":"0.297","ppvisitednodes":{"value":1573,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":29102,"limit":2097152},"templateargumentsize":{"value":3670,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  235.847      1 -total"," 81.80%  192.923      1 Template:Reflist"," 42.16%   99.438      5 Template:Page_needed"," 39.57%   93.321      5 Template:Fix"," 31.49%   74.269     10 Template:Cite_book"," 23.48%   55.378      5 Template:Delink"," 14.09%   33.238     10 Template:Category_handler","  7.55%   17.805     22 Template:Math","  6.13%   14.456      2 Template:Sfrac","  4.21%    9.933      1 Template:Div_col"]},"scribunto":{"limitreport-timeusage":{"value":"0.135","limit":"10.000"},"limitreport-memusage":{"value":3361879,"limit":52428800}},"cachereport":{"origin":"mw1252","timestamp":"20180115191408","ttl":1900800,"transientcontent":false}}});});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":77,"wgHostname":"mw1274"});});
+  </script>
+ </body>
+</html>

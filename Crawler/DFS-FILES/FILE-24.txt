@@ -1,0 +1,3218 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Coordinate system - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Coordinate_system","wgTitle":"Coordinate system","wgCurRevisionId":816663645,"wgRevisionId":816663645,"wgArticleId":81931,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia articles with GND identifiers","Coordinate systems","Analytic geometry"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Coordinate_system","wgRelevantArticleId":81931,"wgRequestId":"WnBk0gpAICwAAKINwpAAAADU","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q11210","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.31.0-wmf.17" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/3D_Spherical.svg/1200px-3D_Spherical.svg.png" property="og:image"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Coordinate_system" rel="alternate"/>
+  <link href="/w/index.php?title=Coordinate_system&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Coordinate_system&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/Coordinate_system" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Coordinate_system rootpage-Coordinate_system skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Coordinate system
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <div class="hatnote navigation-not-searchable" role="note">
+       "Coordinate" redirects here. For other uses, see
+       <a class="mw-disambig" href="/wiki/Coordinate_(disambiguation)" title="Coordinate (disambiguation)">
+        Coordinate (disambiguation)
+       </a>
+       .
+      </div>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:302px;">
+        <a class="image" href="/wiki/File:3D_Spherical.svg">
+         <img alt="" class="thumbimage" data-file-height="516" data-file-width="558" height="277" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/3D_Spherical.svg/300px-3D_Spherical.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/3D_Spherical.svg/450px-3D_Spherical.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4f/3D_Spherical.svg/600px-3D_Spherical.svg.png 2x" width="300"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:3D_Spherical.svg" title="Enlarge">
+          </a>
+         </div>
+         The
+         <a href="/wiki/Spherical_coordinate_system" title="Spherical coordinate system">
+          spherical coordinate system
+         </a>
+         is commonly used in
+         <i>
+          physics
+         </i>
+         . It assigns three numbers (known as coordinates) to every point in
+         <a href="/wiki/Euclidean_space" title="Euclidean space">
+          Euclidean space
+         </a>
+         : radial distance
+         <i>
+          r
+         </i>
+         , polar angle
+         <i>
+          θ
+         </i>
+         (
+         <a href="/wiki/Theta" title="Theta">
+          theta
+         </a>
+         ), and azimuthal angle
+         <i>
+          φ
+         </i>
+         (
+         <a href="/wiki/Phi" title="Phi">
+          phi
+         </a>
+         ). The symbol
+         <i>
+          ρ
+         </i>
+         (
+         <a href="/wiki/Rho" title="Rho">
+          rho
+         </a>
+         ) is often used instead of
+         <i>
+          r
+         </i>
+         .
+        </div>
+       </div>
+      </div>
+      <p>
+       In
+       <a href="/wiki/Geometry" title="Geometry">
+        geometry
+       </a>
+       , a
+       <b>
+        coordinate system
+       </b>
+       is a system which uses one or more
+       <a href="/wiki/Number" title="Number">
+        numbers
+       </a>
+       , or
+       <b>
+        coordinates
+       </b>
+       , to uniquely determine the position of the
+       <a href="/wiki/Point_(geometry)" title="Point (geometry)">
+        points
+       </a>
+       or other geometric elements on a
+       <a href="/wiki/Manifold" title="Manifold">
+        manifold
+       </a>
+       such as
+       <a href="/wiki/Euclidean_space" title="Euclidean space">
+        Euclidean space
+       </a>
+       .
+       <sup class="reference" id="cite_ref-1">
+        <a href="#cite_note-1">
+         [1]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-2">
+        <a href="#cite_note-2">
+         [2]
+        </a>
+       </sup>
+       The order of the coordinates is significant, and they are sometimes identified by their position in an ordered
+       <a href="/wiki/Tuple" title="Tuple">
+        tuple
+       </a>
+       and sometimes by a letter, as in "the
+       <i>
+        x
+       </i>
+       -coordinate". The coordinates are taken to be
+       <a href="/wiki/Real_number" title="Real number">
+        real numbers
+       </a>
+       in
+       <a href="/wiki/Elementary_mathematics" title="Elementary mathematics">
+        elementary mathematics
+       </a>
+       , but may be
+       <a href="/wiki/Complex_number" title="Complex number">
+        complex numbers
+       </a>
+       or elements of a more abstract system such as a
+       <a href="/wiki/Commutative_ring" title="Commutative ring">
+        commutative ring
+       </a>
+       . The use of a coordinate system allows problems in geometry to be translated into problems about numbers and
+       <i>
+        vice versa
+       </i>
+       ; this is the basis of
+       <a href="/wiki/Analytic_geometry" title="Analytic geometry">
+        analytic geometry
+       </a>
+       .
+       <sup class="reference" id="cite_ref-3">
+        <a href="#cite_note-3">
+         [3]
+        </a>
+       </sup>
+      </p>
+      <p>
+      </p>
+      <div class="toc" id="toc">
+       <div class="toctitle" dir="ltr" lang="en" xml:lang="en">
+        <h2>
+         Contents
+        </h2>
+       </div>
+       <ul>
+        <li class="toclevel-1 tocsection-1">
+         <a href="#Common_coordinate_systems">
+          <span class="tocnumber">
+           1
+          </span>
+          <span class="toctext">
+           Common coordinate systems
+          </span>
+         </a>
+         <ul>
+          <li class="toclevel-2 tocsection-2">
+           <a href="#Number_line">
+            <span class="tocnumber">
+             1.1
+            </span>
+            <span class="toctext">
+             Number line
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-3">
+           <a href="#Cartesian_coordinate_system">
+            <span class="tocnumber">
+             1.2
+            </span>
+            <span class="toctext">
+             Cartesian coordinate system
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-4">
+           <a href="#Polar_coordinate_system">
+            <span class="tocnumber">
+             1.3
+            </span>
+            <span class="toctext">
+             Polar coordinate system
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-5">
+           <a href="#Cylindrical_and_spherical_coordinate_systems">
+            <span class="tocnumber">
+             1.4
+            </span>
+            <span class="toctext">
+             Cylindrical and spherical coordinate systems
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-6">
+           <a href="#Homogeneous_coordinate_system">
+            <span class="tocnumber">
+             1.5
+            </span>
+            <span class="toctext">
+             Homogeneous coordinate system
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-7">
+           <a href="#Other_commonly_used_systems">
+            <span class="tocnumber">
+             1.6
+            </span>
+            <span class="toctext">
+             Other commonly used systems
+            </span>
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="toclevel-1 tocsection-8">
+         <a href="#Coordinates_of_geometric_objects">
+          <span class="tocnumber">
+           2
+          </span>
+          <span class="toctext">
+           Coordinates of geometric objects
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-9">
+         <a href="#Transformations">
+          <span class="tocnumber">
+           3
+          </span>
+          <span class="toctext">
+           Transformations
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-10">
+         <a href="#Coordinate_lines/curves_and_planes/surfaces">
+          <span class="tocnumber">
+           4
+          </span>
+          <span class="toctext">
+           Coordinate lines/curves and planes/surfaces
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-11">
+         <a href="#Coordinate_maps">
+          <span class="tocnumber">
+           5
+          </span>
+          <span class="toctext">
+           Coordinate maps
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-12">
+         <a href="#Orientation-based_coordinates">
+          <span class="tocnumber">
+           6
+          </span>
+          <span class="toctext">
+           Orientation-based coordinates
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-13">
+         <a href="#See_also">
+          <span class="tocnumber">
+           7
+          </span>
+          <span class="toctext">
+           See also
+          </span>
+         </a>
+         <ul>
+          <li class="toclevel-2 tocsection-14">
+           <a href="#Relativistic_Coordinate_Systems">
+            <span class="tocnumber">
+             7.1
+            </span>
+            <span class="toctext">
+             Relativistic Coordinate Systems
+            </span>
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="toclevel-1 tocsection-15">
+         <a href="#Notes">
+          <span class="tocnumber">
+           8
+          </span>
+          <span class="toctext">
+           Notes
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-16">
+         <a href="#References">
+          <span class="tocnumber">
+           9
+          </span>
+          <span class="toctext">
+           References
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-17">
+         <a href="#External_links">
+          <span class="tocnumber">
+           10
+          </span>
+          <span class="toctext">
+           External links
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <p>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Common_coordinate_systems">
+        Common coordinate systems
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Coordinate_system&amp;action=edit&amp;section=1" title="Edit section: Common coordinate systems">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <h3>
+       <span class="mw-headline" id="Number_line">
+        Number line
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Coordinate_system&amp;action=edit&amp;section=2" title="Edit section: Number line">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <div class="hatnote navigation-not-searchable" role="note">
+       Main article:
+       <a href="/wiki/Number_line" title="Number line">
+        Number line
+       </a>
+      </div>
+      <p>
+       <span id="Number_line">
+       </span>
+       The simplest example of a coordinate system is the identification of points on a line with real numbers using the
+       <i>
+        number line
+       </i>
+       . In this system, an arbitrary point
+       <i>
+        O
+       </i>
+       (the
+       <i>
+        origin
+       </i>
+       ) is chosen on a given line. The coordinate of a point
+       <i>
+        P
+       </i>
+       is defined as the signed distance from
+       <i>
+        O
+       </i>
+       to
+       <i>
+        P
+       </i>
+       , where the signed distance is the distance taken as positive or negative depending on which side of the line
+       <i>
+        P
+       </i>
+       lies. Each point is given a unique coordinate and each real number is the coordinate of a unique point.
+       <sup class="reference" id="cite_ref-4">
+        <a href="#cite_note-4">
+         [4]
+        </a>
+       </sup>
+      </p>
+      <div class="center">
+       <div class="floatnone">
+        <a class="image" href="/wiki/File:Number-line.svg" title="The number line">
+         <img alt="The number line" data-file-height="50" data-file-width="750" height="50" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Number-line.svg/750px-Number-line.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Number-line.svg/1125px-Number-line.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/93/Number-line.svg/1500px-Number-line.svg.png 2x" width="750"/>
+        </a>
+       </div>
+      </div>
+      <h3>
+       <span class="mw-headline" id="Cartesian_coordinate_system">
+        Cartesian coordinate system
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Coordinate_system&amp;action=edit&amp;section=3" title="Edit section: Cartesian coordinate system">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <div class="hatnote navigation-not-searchable" role="note">
+       Main article:
+       <a href="/wiki/Cartesian_coordinate_system" title="Cartesian coordinate system">
+        Cartesian coordinate system
+       </a>
+      </div>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:252px;">
+        <a class="image" href="/wiki/File:Cartesian-coordinate-system.svg">
+         <img alt="" class="thumbimage" data-file-height="354" data-file-width="354" height="250" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Cartesian-coordinate-system.svg/250px-Cartesian-coordinate-system.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Cartesian-coordinate-system.svg/375px-Cartesian-coordinate-system.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Cartesian-coordinate-system.svg/500px-Cartesian-coordinate-system.svg.png 2x" width="250"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Cartesian-coordinate-system.svg" title="Enlarge">
+          </a>
+         </div>
+         The
+         <a href="/wiki/Cartesian_coordinate_system" title="Cartesian coordinate system">
+          Cartesian coordinate system
+         </a>
+         in the plane.
+        </div>
+       </div>
+      </div>
+      <p>
+       The prototypical example of a coordinate system is the Cartesian coordinate system. In the
+       <a href="/wiki/Plane_(geometry)" title="Plane (geometry)">
+        plane
+       </a>
+       , two
+       <a href="/wiki/Perpendicular" title="Perpendicular">
+        perpendicular
+       </a>
+       lines are chosen and the coordinates of a point are taken to be the signed distances to the lines.
+      </p>
+      <div class="thumb tleft">
+       <div class="thumbinner" style="width:252px;">
+        <a class="image" href="/wiki/File:Rectangular_coordinates.svg">
+         <img alt="Rectangular coordinates.svg" class="thumbimage" data-file-height="425" data-file-width="429" height="248" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Rectangular_coordinates.svg/250px-Rectangular_coordinates.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Rectangular_coordinates.svg/375px-Rectangular_coordinates.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Rectangular_coordinates.svg/500px-Rectangular_coordinates.svg.png 2x" width="250"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Rectangular_coordinates.svg" title="Enlarge">
+          </a>
+         </div>
+        </div>
+       </div>
+      </div>
+      <p>
+       In three dimensions, three perpendicular planes are chosen and the three coordinates of a point are the signed distances to each of the planes.
+       <sup class="reference" id="cite_ref-5">
+        <a href="#cite_note-5">
+         [5]
+        </a>
+       </sup>
+       This can be generalized to create
+       <i>
+        n
+       </i>
+       coordinates for any point in
+       <i>
+        n
+       </i>
+       -dimensional
+       <a href="/wiki/Euclidean_space" title="Euclidean space">
+        Euclidean space
+       </a>
+       .
+      </p>
+      <p>
+       Depending on the direction and order of the coordinate axis the system may be a
+       <a href="/wiki/Right-hand_rule" title="Right-hand rule">
+        right-hand
+       </a>
+       or a left-hand system. This is one of many coordinate systems.
+      </p>
+      <div style="clear:both;">
+      </div>
+      <h3>
+       <span class="mw-headline" id="Polar_coordinate_system">
+        Polar coordinate system
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Coordinate_system&amp;action=edit&amp;section=4" title="Edit section: Polar coordinate system">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <div class="hatnote navigation-not-searchable" role="note">
+       Main article:
+       <a href="/wiki/Polar_coordinate_system" title="Polar coordinate system">
+        Polar coordinate system
+       </a>
+      </div>
+      <p>
+       Another common coordinate system for the plane is the
+       <i>
+        polar coordinate system
+       </i>
+       .
+       <sup class="reference" id="cite_ref-6">
+        <a href="#cite_note-6">
+         [6]
+        </a>
+       </sup>
+       A point is chosen as the
+       <i>
+        pole
+       </i>
+       and a ray from this point is taken as the
+       <i>
+        polar axis
+       </i>
+       . For a given angle θ, there is a single line through the pole whose angle with the polar axis is θ (measured counterclockwise from the axis to the line). Then there is a unique point on this line whose signed distance from the origin is
+       <i>
+        r
+       </i>
+       for given number
+       <i>
+        r
+       </i>
+       . For a given pair of coordinates (
+       <i>
+        r
+       </i>
+       , θ) there is a single point, but any point is represented by many pairs of coordinates. For example, (
+       <i>
+        r
+       </i>
+       , θ), (
+       <i>
+        r
+       </i>
+       , θ+2π) and (−
+       <i>
+        r
+       </i>
+       , θ+π) are all polar coordinates for the same point. The pole is represented by (0, θ) for any value of θ.
+      </p>
+      <div style="clear:both;">
+      </div>
+      <h3>
+       <span class="mw-headline" id="Cylindrical_and_spherical_coordinate_systems">
+        Cylindrical and spherical coordinate systems
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Coordinate_system&amp;action=edit&amp;section=5" title="Edit section: Cylindrical and spherical coordinate systems">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <div class="hatnote navigation-not-searchable" role="note">
+       Main articles:
+       <a href="/wiki/Cylindrical_coordinate_system" title="Cylindrical coordinate system">
+        Cylindrical coordinate system
+       </a>
+       and
+       <a href="/wiki/Spherical_coordinate_system" title="Spherical coordinate system">
+        Spherical coordinate system
+       </a>
+      </div>
+      <p>
+       There are two common methods for extending the polar coordinate system to three dimensions. In the
+       <b>
+        cylindrical coordinate system
+       </b>
+       , a
+       <i>
+        z
+       </i>
+       -coordinate with the same meaning as in Cartesian coordinates is added to the
+       <i>
+        r
+       </i>
+       and
+       <i>
+        θ
+       </i>
+       polar coordinates giving a triple (
+       <i>
+        r
+       </i>
+       ,
+       <i>
+        θ
+       </i>
+       ,
+       <i>
+        z
+       </i>
+       ).
+       <sup class="reference" id="cite_ref-7">
+        <a href="#cite_note-7">
+         [7]
+        </a>
+       </sup>
+       Spherical coordinates take this a step further by converting the pair of cylindrical coordinates (
+       <i>
+        r
+       </i>
+       ,
+       <i>
+        z
+       </i>
+       ) to polar coordinates (
+       <i>
+        ρ
+       </i>
+       ,
+       <i>
+        φ
+       </i>
+       ) giving a triple (
+       <i>
+        ρ
+       </i>
+       ,
+       <i>
+        θ
+       </i>
+       ,
+       <i>
+        φ
+       </i>
+       ).
+       <sup class="reference" id="cite_ref-8">
+        <a href="#cite_note-8">
+         [8]
+        </a>
+       </sup>
+      </p>
+      <h3>
+       <span class="mw-headline" id="Homogeneous_coordinate_system">
+        Homogeneous coordinate system
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Coordinate_system&amp;action=edit&amp;section=6" title="Edit section: Homogeneous coordinate system">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <div class="hatnote navigation-not-searchable" role="note">
+       Main article:
+       <a href="/wiki/Homogeneous_coordinates" title="Homogeneous coordinates">
+        Homogeneous coordinates
+       </a>
+      </div>
+      <p>
+       A point in the plane may be represented in
+       <i>
+        homogeneous coordinates
+       </i>
+       by a triple (
+       <i>
+        x
+       </i>
+       ,
+       <i>
+        y
+       </i>
+       ,
+       <i>
+        z
+       </i>
+       ) where
+       <i>
+        x
+       </i>
+       /
+       <i>
+        z
+       </i>
+       and
+       <i>
+        y
+       </i>
+       /
+       <i>
+        z
+       </i>
+       are the Cartesian coordinates of the point.
+       <sup class="reference" id="cite_ref-9">
+        <a href="#cite_note-9">
+         [9]
+        </a>
+       </sup>
+       This introduces an "extra" coordinate since only two are needed to specify a point on the plane, but this system is useful in that it represents any point on the
+       <a href="/wiki/Projective_plane" title="Projective plane">
+        projective plane
+       </a>
+       without the use of
+       <a href="/wiki/Infinity" title="Infinity">
+        infinity
+       </a>
+       . In general, a homogeneous coordinate system is one where only the ratios of the coordinates are significant and not the actual values.
+      </p>
+      <h3>
+       <span class="mw-headline" id="Other_commonly_used_systems">
+        Other commonly used systems
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Coordinate_system&amp;action=edit&amp;section=7" title="Edit section: Other commonly used systems">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       Some other common coordinate systems are the following:
+      </p>
+      <ul>
+       <li>
+        <a href="/wiki/Curvilinear_coordinates" title="Curvilinear coordinates">
+         Curvilinear coordinates
+        </a>
+        are a generalization of coordinate systems generally; the system is based on the intersection of curves.
+        <ul>
+         <li>
+          <a href="/wiki/Orthogonal_coordinates" title="Orthogonal coordinates">
+           Orthogonal coordinates
+          </a>
+          :
+          <a class="mw-redirect" href="/wiki/Coordinate_surfaces" title="Coordinate surfaces">
+           coordinate surfaces
+          </a>
+          meet at right angles
+         </li>
+         <li>
+          <a href="/wiki/Skew_coordinates" title="Skew coordinates">
+           Skew coordinates
+          </a>
+          :
+          <a class="mw-redirect" href="/wiki/Coordinate_surfaces" title="Coordinate surfaces">
+           coordinate surfaces
+          </a>
+          are not orthogonal
+         </li>
+        </ul>
+       </li>
+       <li>
+        The
+        <a href="/wiki/Log-polar_coordinates" title="Log-polar coordinates">
+         log-polar coordinate system
+        </a>
+        represents a point in the plane by the logarithm of the distance from the origin and an angle measured from a reference line intersecting the origin.
+       </li>
+       <li>
+        <a href="/wiki/Pl%C3%BCcker_coordinates" title="Plücker coordinates">
+         Plücker coordinates
+        </a>
+        are a way of representing lines in 3D Euclidean space using a six-tuple of numbers as
+        <a href="/wiki/Homogeneous_coordinates" title="Homogeneous coordinates">
+         homogeneous coordinates
+        </a>
+        .
+       </li>
+       <li>
+        <a href="/wiki/Generalized_coordinates" title="Generalized coordinates">
+         Generalized coordinates
+        </a>
+        are used in the
+        <a href="/wiki/Lagrangian_mechanics" title="Lagrangian mechanics">
+         Lagrangian
+        </a>
+        treatment of mechanics.
+       </li>
+       <li>
+        <a href="/wiki/Canonical_coordinates" title="Canonical coordinates">
+         Canonical coordinates
+        </a>
+        are used in the
+        <a href="/wiki/Hamiltonian_mechanics" title="Hamiltonian mechanics">
+         Hamiltonian
+        </a>
+        treatment of mechanics.
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/Barycentric_coordinates_(mathematics)" title="Barycentric coordinates (mathematics)">
+         Barycentric coordinates
+        </a>
+        as used for
+        <a href="/wiki/Ternary_plot" title="Ternary plot">
+         ternary plots
+        </a>
+        and more generally in the analysis of
+        <a href="/wiki/Triangle" title="Triangle">
+         triangles
+        </a>
+        .
+       </li>
+       <li>
+        <a href="/wiki/Trilinear_coordinates" title="Trilinear coordinates">
+         Trilinear coordinates
+        </a>
+        are used in the context of triangles.
+       </li>
+      </ul>
+      <p>
+       There are ways of describing curves without coordinates, using
+       <a href="/wiki/Intrinsic_equation" title="Intrinsic equation">
+        intrinsic equations
+       </a>
+       that use invariant quantities such as
+       <a href="/wiki/Curvature" title="Curvature">
+        curvature
+       </a>
+       and
+       <a href="/wiki/Arc_length" title="Arc length">
+        arc length
+       </a>
+       . These include:
+      </p>
+      <ul>
+       <li>
+        The
+        <a href="/wiki/Whewell_equation" title="Whewell equation">
+         Whewell equation
+        </a>
+        relates arc length and the
+        <a href="/wiki/Tangential_angle" title="Tangential angle">
+         tangential angle
+        </a>
+        .
+       </li>
+       <li>
+        The
+        <a href="/wiki/Ces%C3%A0ro_equation" title="Cesàro equation">
+         Cesàro equation
+        </a>
+        relates arc length and curvature.
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="Coordinates_of_geometric_objects">
+        Coordinates of geometric objects
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Coordinate_system&amp;action=edit&amp;section=8" title="Edit section: Coordinates of geometric objects">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       Coordinates systems are often used to specify the position of a point, but they may also be used to specify the position of more complex figures such as lines, planes, circles or spheres. For example,
+       <a href="/wiki/Pl%C3%BCcker_coordinates" title="Plücker coordinates">
+        Plücker coordinates
+       </a>
+       are used to determine the position of a line in space.
+       <sup class="reference" id="cite_ref-10">
+        <a href="#cite_note-10">
+         [10]
+        </a>
+       </sup>
+       When there is a need, the type of figure being described is used to distinguish the type of coordinate system, for example the term
+       <i>
+        <a href="/wiki/Line_coordinates" title="Line coordinates">
+         line coordinates
+        </a>
+       </i>
+       is used for any coordinate system that specifies the position of a line.
+      </p>
+      <p>
+       It may occur that systems of coordinates for two different sets of geometric figures are equivalent in terms of their analysis. An example of this is the systems of homogeneous coordinates for points and lines in the projective plane. The two systems in a case like this are said to be
+       <i>
+        dualistic
+       </i>
+       . Dualistic systems have the property that results from one system can be carried over to the other since these results are only different interpretations of the same analytical result; this is known as the
+       <i>
+        principle of
+        <a href="/wiki/Duality_(mathematics)" title="Duality (mathematics)">
+         duality
+        </a>
+       </i>
+       .
+       <sup class="reference" id="cite_ref-11">
+        <a href="#cite_note-11">
+         [11]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Transformations">
+        Transformations
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Coordinate_system&amp;action=edit&amp;section=9" title="Edit section: Transformations">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="hatnote navigation-not-searchable" role="note">
+       See also:
+       <a href="/wiki/Active_and_passive_transformation" title="Active and passive transformation">
+        Active and passive transformation
+       </a>
+      </div>
+      <div class="hatnote navigation-not-searchable" role="note">
+       Main article:
+       <a href="/wiki/List_of_common_coordinate_transformations" title="List of common coordinate transformations">
+        List of common coordinate transformations
+       </a>
+      </div>
+      <p>
+       Because there are often many different possible coordinate systems for describing geometrical figures, it is important to understand how they are related. Such relations are described by
+       <i>
+        coordinate transformations
+       </i>
+       which give formulas for the coordinates in one system in terms of the coordinates in another system. For example, in the plane, if Cartesian coordinates (
+       <i>
+        x
+       </i>
+       ,
+       <i>
+        y
+       </i>
+       ) and polar coordinates (
+       <i>
+        r
+       </i>
+       ,
+       <i>
+        θ
+       </i>
+       ) have the same origin, and the polar axis is the positive
+       <i>
+        x
+       </i>
+       axis, then the coordinate transformation from polar to Cartesian coordinates is given by
+       <i>
+        x
+       </i>
+       =
+       <i>
+        r
+       </i>
+       cos
+       <i>
+        θ
+       </i>
+       and
+       <i>
+        y
+       </i>
+       =
+       <i>
+        r
+       </i>
+       sin
+       <i>
+        θ
+       </i>
+       .
+      </p>
+      <p>
+       With every
+       <a href="/wiki/Bijection" title="Bijection">
+        bijection
+       </a>
+       from the space to itself two coordinate transformations can be associated:
+      </p>
+      <ul>
+       <li>
+        such that the new coordinates of the image of each point are the same as the old coordinates of the original point (the formulas for the mapping are the inverse of those for the coordinate transformation)
+       </li>
+       <li>
+        such that the old coordinates of the image of each point are the same as the new coordinates of the original point (the formulas for the mapping are the same as those for the coordinate transformation)
+       </li>
+      </ul>
+      <p>
+       For example, in
+       <a href="/wiki/Dimension" title="Dimension">
+        1D
+       </a>
+       , if the mapping is a translation of 3 to the right, the first moves the origin from 0 to 3, so that the coordinate of each point becomes 3 less, while the second moves the origin from 0 to −3, so that the coordinate of each point becomes 3 more.
+      </p>
+      <h2>
+       <span id="Coordinate_lines.2Fcurves_and_planes.2Fsurfaces">
+       </span>
+       <span class="mw-headline" id="Coordinate_lines/curves_and_planes/surfaces">
+        <span id="Coordinate_line">
+        </span>
+        <span id="Coordinate_curve">
+        </span>
+        <span id="Coordinate_plane">
+        </span>
+        <span id="Coordinate_surface">
+        </span>
+        Coordinate lines/curves and planes/surfaces
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Coordinate_system&amp;action=edit&amp;section=10" title="Edit section: Coordinate lines/curves and planes/surfaces">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="hatnote navigation-not-searchable" role="note">
+       "Coordinate line" redirects here. It is not to be confused with
+       <a href="/wiki/Line_coordinates" title="Line coordinates">
+        Line coordinates
+       </a>
+       .
+      </div>
+      <div class="hatnote navigation-not-searchable" role="note">
+       "Coordinate plane" redirects here. It is not to be confused with
+       <a class="mw-redirect" href="/wiki/Plane_coordinates" title="Plane coordinates">
+        Plane coordinates
+       </a>
+       .
+      </div>
+      <p>
+       In two dimensions, if one of the coordinates in a point coordinate system is held constant and the other coordinate is allowed to vary, then the resulting curve is called a
+       <b>
+        coordinate curve
+       </b>
+       . In the Cartesian coordinate system the coordinate curves are, in fact,
+       <a class="mw-redirect" href="/wiki/Straight_line" title="Straight line">
+        straight lines
+       </a>
+       , thus
+       <b>
+        coordinate lines
+       </b>
+       . Specifically, they are the lines parallel to one of the coordinate axes. For other coordinate systems the coordinates curves may be general curves. For example, the coordinate curves in polar coordinates obtained by holding
+       <i>
+        r
+       </i>
+       constant are the circles with center at the origin. Coordinates systems for Euclidean space other than the Cartesian coordinate system are called
+       <a href="/wiki/Curvilinear_coordinates" title="Curvilinear coordinates">
+        curvilinear coordinate systems
+       </a>
+       .
+       <sup class="reference" id="cite_ref-12">
+        <a href="#cite_note-12">
+         [12]
+        </a>
+       </sup>
+       This procedure does not always make sense, for example there are no coordinate curves in a
+       <a class="mw-redirect" href="/wiki/Homogeneous_coordinate_system" title="Homogeneous coordinate system">
+        homogeneous coordinate system
+       </a>
+       .
+      </p>
+      <div class="thumb tleft">
+       <div class="thumbinner" style="width:192px;">
+        <a class="image" href="/wiki/File:Parabolic_coordinates_3D.png">
+         <img alt="" class="thumbimage" data-file-height="598" data-file-width="560" height="203" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Parabolic_coordinates_3D.png/190px-Parabolic_coordinates_3D.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Parabolic_coordinates_3D.png/285px-Parabolic_coordinates_3D.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Parabolic_coordinates_3D.png/380px-Parabolic_coordinates_3D.png 2x" width="190"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Parabolic_coordinates_3D.png" title="Enlarge">
+          </a>
+         </div>
+         Coordinate surfaces of the three-dimensional paraboloidal coordinates.
+        </div>
+       </div>
+      </div>
+      <p>
+       In three-dimensional space, if one coordinate is held constant and the other two are allowed to vary, then the resulting surface is called a
+       <b>
+        coordinate surface
+       </b>
+       . For example, the coordinate surfaces obtained by holding ρ constant in the
+       <a href="/wiki/Spherical_coordinate_system" title="Spherical coordinate system">
+        spherical coordinate system
+       </a>
+       are the spheres with center at the origin. In three-dimensional space the intersection of two coordinate surfaces is a coordinate curve. In the Cartesian coordinate system we may speak of
+       <b>
+        coordinate planes
+       </b>
+       .
+      </p>
+      <p>
+       Similarly,
+       <b>
+        coordinate hypersurfaces
+       </b>
+       are the
+       <span class="nowrap">
+        (
+        <i>
+         n
+        </i>
+        − 1)
+       </span>
+       -dimensional spaces resulting from fixing a single coordinate of an
+       <i>
+        n
+       </i>
+       -dimensional coordinate system.
+       <sup class="reference" id="cite_ref-13">
+        <a href="#cite_note-13">
+         [13]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Coordinate_maps">
+        Coordinate maps
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Coordinate_system&amp;action=edit&amp;section=11" title="Edit section: Coordinate maps">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="hatnote navigation-not-searchable" role="note">
+       Main article:
+       <a class="mw-redirect" href="/wiki/Coordinate_map" title="Coordinate map">
+        Coordinate map
+       </a>
+      </div>
+      <div class="hatnote navigation-not-searchable" role="note">
+       Further information:
+       <a href="/wiki/Manifold" title="Manifold">
+        Manifold
+       </a>
+      </div>
+      <p>
+       The concept of a
+       <i>
+        coordinate map
+       </i>
+       , or
+       <i>
+        coordinate chart
+       </i>
+       is central to the theory of manifolds. A coordinate map is essentially a coordinate system for a subset of a given space with the property that each point has exactly one set of coordinates. More precisely, a coordinate map is a
+       <a href="/wiki/Homeomorphism" title="Homeomorphism">
+        homeomorphism
+       </a>
+       from an open subset of a space
+       <i>
+        X
+       </i>
+       to an open subset of
+       <b>
+        R
+       </b>
+       <sup>
+        <i>
+         n
+        </i>
+       </sup>
+       .
+       <sup class="reference" id="cite_ref-14">
+        <a href="#cite_note-14">
+         [14]
+        </a>
+       </sup>
+       It is often not possible to provide one consistent coordinate system for an entire space. In this case, a collection of coordinate maps are put together to form an
+       <a href="/wiki/Atlas_(topology)" title="Atlas (topology)">
+        atlas
+       </a>
+       covering the space. A space equipped with such an atlas is called a
+       <i>
+        manifold
+       </i>
+       and additional structure can be defined on a manifold if the structure is consistent where the coordinate maps overlap. For example, a
+       <a href="/wiki/Differentiable_manifold" title="Differentiable manifold">
+        differentiable manifold
+       </a>
+       is a manifold where the change of coordinates from one coordinate map to another is always a differentiable function.
+      </p>
+      <h2>
+       <span class="mw-headline" id="Orientation-based_coordinates">
+        Orientation-based coordinates
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Coordinate_system&amp;action=edit&amp;section=12" title="Edit section: Orientation-based coordinates">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       In
+       <a href="/wiki/Geometry" title="Geometry">
+        geometry
+       </a>
+       and
+       <a href="/wiki/Kinematics" title="Kinematics">
+        kinematics
+       </a>
+       , coordinate systems are used not only to describe the (linear) position of points, but also to describe the
+       <a href="/wiki/Orientation_(geometry)" title="Orientation (geometry)">
+        angular position
+       </a>
+       of axes, planes, and
+       <a class="mw-redirect" href="/wiki/Rigid_bodies" title="Rigid bodies">
+        rigid bodies
+       </a>
+       .
+       <sup class="reference" id="cite_ref-15">
+        <a href="#cite_note-15">
+         [15]
+        </a>
+       </sup>
+       In the latter case, the orientation of a second (typically referred to as "local") coordinate system, fixed to the node, is defined based on the first (typically referred to as "global" or "world" coordinate system). For instance, the orientation of a rigid body can be represented by an orientation
+       <a href="/wiki/Matrix_(mathematics)" title="Matrix (mathematics)">
+        matrix
+       </a>
+       , which includes, in its three columns, the
+       <a class="mw-redirect" href="/wiki/Cartesian_coordinates" title="Cartesian coordinates">
+        Cartesian coordinates
+       </a>
+       of three points. These points are used to define the orientation of the axes of the local system; they are the tips of three
+       <a class="mw-redirect" href="/wiki/Unit_vectors" title="Unit vectors">
+        unit vectors
+       </a>
+       aligned with those axes.
+      </p>
+      <h2>
+       <span class="mw-headline" id="See_also">
+        See also
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Coordinate_system&amp;action=edit&amp;section=13" title="Edit section: See also">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a href="/wiki/Absolute_angular_momentum" title="Absolute angular momentum">
+         Absolute angular momentum
+        </a>
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/Alpha-numeric_grid" title="Alpha-numeric grid">
+         Alpha-numeric grid
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Analytic_geometry" title="Analytic geometry">
+         Analytic geometry
+        </a>
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/Astronomical_coordinate_systems" title="Astronomical coordinate systems">
+         Astronomical coordinate systems
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Axes_conventions" title="Axes conventions">
+         Axes conventions
+        </a>
+        in engineering
+       </li>
+       <li>
+        <a href="/wiki/Coordinate-free" title="Coordinate-free">
+         Coordinate-free
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Fractional_coordinates" title="Fractional coordinates">
+         Fractional coordinates
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Frame_of_reference" title="Frame of reference">
+         Frame of reference
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Galilean_transformation" title="Galilean transformation">
+         Galilean transformation
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">
+         Geographic coordinate system
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Nomogram" title="Nomogram">
+         Nomogram
+        </a>
+        , graphical representations of different coordinate systems
+       </li>
+       <li>
+        <a href="/wiki/Rotation_of_axes" title="Rotation of axes">
+         Rotation of axes
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Translation_of_axes" title="Translation of axes">
+         Translation of axes
+        </a>
+       </li>
+      </ul>
+      <h3>
+       <span class="mw-headline" id="Relativistic_Coordinate_Systems">
+        Relativistic Coordinate Systems
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Coordinate_system&amp;action=edit&amp;section=14" title="Edit section: Relativistic Coordinate Systems">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <ul>
+       <li>
+        <a href="/wiki/Eddington%E2%80%93Finkelstein_coordinates" title="Eddington–Finkelstein coordinates">
+         Eddington–Finkelstein coordinates
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Gaussian_polar_coordinates" title="Gaussian polar coordinates">
+         Gaussian polar coordinates
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Gullstrand%E2%80%93Painlev%C3%A9_coordinates" title="Gullstrand–Painlevé coordinates">
+         Gullstrand–Painlevé coordinates
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Isotropic_coordinates" title="Isotropic coordinates">
+         Isotropic coordinates
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Kruskal%E2%80%93Szekeres_coordinates" title="Kruskal–Szekeres coordinates">
+         Kruskal–Szekeres coordinates
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Schwarzschild_coordinates" title="Schwarzschild coordinates">
+         Schwarzschild coordinates
+        </a>
+       </li>
+      </ul>
+      <div aria-labelledby="Orthogonal_coordinate_systems" class="navbox" role="navigation" style="padding:3px">
+       <table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tr>
+         <th class="navbox-title" colspan="2" scope="col">
+          <div class="plainlinks hlist navbar mini">
+           <ul>
+            <li class="nv-view">
+             <a href="/wiki/Template:Orthogonal_coordinate_systems" title="Template:Orthogonal coordinate systems">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">
+               v
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-talk">
+             <a href="/wiki/Template_talk:Orthogonal_coordinate_systems" title="Template talk:Orthogonal coordinate systems">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">
+               t
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-edit">
+             <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Orthogonal_coordinate_systems&amp;action=edit">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">
+               e
+              </abbr>
+             </a>
+            </li>
+           </ul>
+          </div>
+          <div id="Orthogonal_coordinate_systems" style="font-size:114%;margin:0 4em">
+           <a class="mw-redirect" href="/wiki/Orthogonal_coordinate_system" title="Orthogonal coordinate system">
+            Orthogonal coordinate systems
+           </a>
+          </div>
+         </th>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          Two dimensional
+         </th>
+         <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Cartesian_coordinate_system" title="Cartesian coordinate system">
+              Cartesian coordinate system
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Polar_coordinate_system" title="Polar coordinate system">
+              Polar coordinate system
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Parabolic_coordinates" title="Parabolic coordinates">
+              Parabolic coordinate system
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Bipolar_coordinates" title="Bipolar coordinates">
+              Bipolar coordinates
+             </a>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/Elliptic_coordinates" title="Elliptic coordinates">
+              Elliptic coordinates
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          Three dimensional
+         </th>
+         <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Cartesian_coordinate_system" title="Cartesian coordinate system">
+              Cartesian coordinate system
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Cylindrical_coordinate_system" title="Cylindrical coordinate system">
+              Cylindrical coordinate system
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Spherical_coordinate_system" title="Spherical coordinate system">
+              Spherical coordinate system
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Parabolic_cylindrical_coordinates" title="Parabolic cylindrical coordinates">
+              Parabolic cylindrical coordinates
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Paraboloidal_coordinates" title="Paraboloidal coordinates">
+              Paraboloidal coordinates
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Oblate_spheroidal_coordinates" title="Oblate spheroidal coordinates">
+              Oblate spheroidal coordinates
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Prolate_spheroidal_coordinates" title="Prolate spheroidal coordinates">
+              Prolate spheroidal coordinates
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Ellipsoidal_coordinates" title="Ellipsoidal coordinates">
+              Ellipsoidal coordinates
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Elliptic_cylindrical_coordinates" title="Elliptic cylindrical coordinates">
+              Elliptic cylindrical coordinates
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Toroidal_coordinates" title="Toroidal coordinates">
+              Toroidal coordinates
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Bispherical_coordinates" title="Bispherical coordinates">
+              Bispherical coordinates
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Bipolar_cylindrical_coordinates" title="Bipolar cylindrical coordinates">
+              Bipolar cylindrical coordinates
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Conical_coordinates" title="Conical coordinates">
+              Conical coordinates
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/6-sphere_coordinates" title="6-sphere coordinates">
+              6-sphere coordinates
+             </a>
+            </li>
+            <li>
+             Flat-ring cyclide coordinates
+            </li>
+            <li>
+             Flat-disk cyclide coordinates
+            </li>
+            <li>
+             Bi-cyclide coordinates
+            </li>
+            <li>
+             Cap-cyclide coordinates
+            </li>
+            <li>
+             Concave bi-sinusoidal single-centered coordinates
+            </li>
+            <li>
+             Concave bi-sinusoidal double-centered coordinates
+            </li>
+            <li>
+             Convex inverted-sinusoidal spherically aligned coordinates
+            </li>
+            <li>
+             Quasi-random-intersection cartesian coordinates
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+       </table>
+      </div>
+      <h2>
+       <span class="mw-headline" id="Notes">
+        Notes
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Coordinate_system&amp;action=edit&amp;section=15" title="Edit section: Notes">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="mw-references-wrap mw-references-columns">
+       <ol class="references">
+        <li id="cite_note-1">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-1">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          Woods p. 1
+         </span>
+        </li>
+        <li id="cite_note-2">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-2">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <span class="citation mathworld" id="Reference-Mathworld-Coordinate_System">
+           <cite class="citation web">
+            <a href="/wiki/Eric_W._Weisstein" title="Eric W. Weisstein">
+             Weisstein, Eric W.
+            </a>
+            <a class="external text" href="http://mathworld.wolfram.com/CoordinateSystem.html" rel="nofollow">
+             "Coordinate System"
+            </a>
+            .
+            <i>
+             <a href="/wiki/MathWorld" title="MathWorld">
+              MathWorld
+             </a>
+            </i>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=MathWorld&amp;rft.atitle=Coordinate+System&amp;rft.au=Weisstein%2C+Eric+W.&amp;rft_id=http%3A%2F%2Fmathworld.wolfram.com%2FCoordinateSystem.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoordinate+system">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-3">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-3">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <span class="citation mathworld" id="Reference-Mathworld-Coordinates">
+           <cite class="citation web">
+            <a href="/wiki/Eric_W._Weisstein" title="Eric W. Weisstein">
+             Weisstein, Eric W.
+            </a>
+            <a class="external text" href="http://mathworld.wolfram.com/Coordinates.html" rel="nofollow">
+             "Coordinates"
+            </a>
+            .
+            <i>
+             <a href="/wiki/MathWorld" title="MathWorld">
+              MathWorld
+             </a>
+            </i>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=MathWorld&amp;rft.atitle=Coordinates&amp;rft.au=Weisstein%2C+Eric+W.&amp;rft_id=http%3A%2F%2Fmathworld.wolfram.com%2FCoordinates.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoordinate+system">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-4">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-4">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation book">
+           <a href="/wiki/James_Stewart_(mathematician)" title="James Stewart (mathematician)">
+            Stewart, James B.
+           </a>
+           ; Redlin, Lothar; Watson, Saleem (2008).
+           <i>
+            College Algebra
+           </i>
+           (5th ed.).
+           <a class="mw-redirect" href="/wiki/Brooks_Cole" title="Brooks Cole">
+            Brooks Cole
+           </a>
+           . pp. 13–19.
+           <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+            ISBN
+           </a>
+           <a href="/wiki/Special:BookSources/0-495-56521-0" title="Special:BookSources/0-495-56521-0">
+            0-495-56521-0
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=College+Algebra&amp;rft.pages=13-19&amp;rft.edition=5th&amp;rft.pub=Brooks+Cole&amp;rft.date=2008&amp;rft.isbn=0-495-56521-0&amp;rft.aulast=Stewart&amp;rft.aufirst=James+B.&amp;rft.au=Redlin%2C+Lothar&amp;rft.au=Watson%2C+Saleem&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoordinate+system">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-5">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-5">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation book">
+           Moon P, Spencer DE (1988). "Rectangular Coordinates (x, y, z)".
+           <i>
+            Field Theory Handbook, Including Coordinate Systems, Differential Equations, and Their Solutions
+           </i>
+           (corrected 2nd, 3rd print ed.). New York: Springer-Verlag. pp. 9–11 (Table 1.01).
+           <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+            ISBN
+           </a>
+           <a href="/wiki/Special:BookSources/978-0-387-18430-2" title="Special:BookSources/978-0-387-18430-2">
+            978-0-387-18430-2
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Rectangular+Coordinates+%28x%2C+y%2C+z%29&amp;rft.btitle=Field+Theory+Handbook%2C+Including+Coordinate+Systems%2C+Differential+Equations%2C+and+Their+Solutions&amp;rft.place=New+York&amp;rft.pages=9-11+%28Table+1.01%29&amp;rft.edition=corrected+2nd%2C+3rd+print&amp;rft.pub=Springer-Verlag&amp;rft.date=1988&amp;rft.isbn=978-0-387-18430-2&amp;rft.aulast=Moon&amp;rft.aufirst=P&amp;rft.au=Spencer%2C+DE&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoordinate+system">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-6">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-6">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation book">
+           Finney, Ross; George Thomas; Franklin Demana; Bert Waits (June 1994).
+           <i>
+            Calculus: Graphical, Numerical, Algebraic
+           </i>
+           (Single Variable Version ed.). Addison-Wesley Publishing Co.
+           <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+            ISBN
+           </a>
+           <a href="/wiki/Special:BookSources/0-201-55478-X" title="Special:BookSources/0-201-55478-X">
+            0-201-55478-X
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Calculus%3A+Graphical%2C+Numerical%2C+Algebraic&amp;rft.edition=Single+Variable+Version&amp;rft.pub=Addison-Wesley+Publishing+Co.&amp;rft.date=1994-06&amp;rft.isbn=0-201-55478-X&amp;rft.aulast=Finney&amp;rft.aufirst=Ross&amp;rft.au=George+Thomas&amp;rft.au=Franklin+Demana&amp;rft.au=Bert+Waits&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoordinate+system">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-7">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-7">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation book">
+           <a href="/wiki/Henry_Margenau" title="Henry Margenau">
+            Margenau, Henry
+           </a>
+           ; Murphy, George M. (1956).
+           <i>
+            The Mathematics of Physics and Chemistry
+           </i>
+           . New York City: D. van Nostrand. p. 178.
+           <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+            ISBN
+           </a>
+           <a href="/wiki/Special:BookSources/9780882754239" title="Special:BookSources/9780882754239">
+            9780882754239
+           </a>
+           .
+           <a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">
+            LCCN
+           </a>
+           <a class="external text" href="//lccn.loc.gov/55010911" rel="nofollow">
+            55010911
+           </a>
+           .
+           <a href="/wiki/OCLC" title="OCLC">
+            OCLC
+           </a>
+           <a class="external text" href="//www.worldcat.org/oclc/3017486" rel="nofollow">
+            3017486
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Mathematics+of+Physics+and+Chemistry&amp;rft.place=New+York+City&amp;rft.pages=178&amp;rft.pub=D.+van+Nostrand&amp;rft.date=1956&amp;rft_id=info%3Aoclcnum%2F3017486&amp;rft_id=info%3Alccn%2F55010911&amp;rft.isbn=9780882754239&amp;rft.aulast=Margenau&amp;rft.aufirst=Henry&amp;rft.au=Murphy%2C+George+M.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoordinate+system">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-8">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-8">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation book">
+           <a href="/wiki/Philip_M._Morse" title="Philip M. Morse">
+            Morse PM
+           </a>
+           ,
+           <a href="/wiki/Herman_Feshbach" title="Herman Feshbach">
+            Feshbach H
+           </a>
+           (1953).
+           <i>
+            Methods of Theoretical Physics, Part I
+           </i>
+           . New York: McGraw-Hill. p. 658.
+           <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+            ISBN
+           </a>
+           <a href="/wiki/Special:BookSources/0-07-043316-X" title="Special:BookSources/0-07-043316-X">
+            0-07-043316-X
+           </a>
+           .
+           <a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">
+            LCCN
+           </a>
+           <a class="external text" href="//lccn.loc.gov/52011515" rel="nofollow">
+            52011515
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Methods+of+Theoretical+Physics%2C+Part+I&amp;rft.place=New+York&amp;rft.pages=658&amp;rft.pub=McGraw-Hill&amp;rft.date=1953&amp;rft_id=info%3Alccn%2F52011515&amp;rft.isbn=0-07-043316-X&amp;rft.au=Morse+PM%2C+Feshbach+H&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoordinate+system">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-9">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-9">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation book">
+           Jones, Alfred Clement (1912).
+           <i>
+            An Introduction to Algebraical Geometry
+           </i>
+           . Clarendon.
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=An+Introduction+to+Algebraical+Geometry&amp;rft.pub=Clarendon&amp;rft.date=1912&amp;rft.aulast=Jones&amp;rft.aufirst=Alfred+Clement&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoordinate+system">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-10">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-10">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation book">
+           <a href="/wiki/W._V._D._Hodge" title="W. V. D. Hodge">
+            Hodge, W. V. D.
+           </a>
+           ;
+           <a class="mw-redirect" href="/wiki/D._Pedoe" title="D. Pedoe">
+            D. Pedoe
+           </a>
+           (1994) [1947].
+           <i>
+            Methods of Algebraic Geometry, Volume I (Book II)
+           </i>
+           .
+           <a href="/wiki/Cambridge_University_Press" title="Cambridge University Press">
+            Cambridge University Press
+           </a>
+           .
+           <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+            ISBN
+           </a>
+           <a href="/wiki/Special:BookSources/978-0-521-46900-5" title="Special:BookSources/978-0-521-46900-5">
+            978-0-521-46900-5
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Methods+of+Algebraic+Geometry%2C+Volume+I+%28Book+II%29&amp;rft.pub=Cambridge+University+Press&amp;rft.date=1994&amp;rft.isbn=978-0-521-46900-5&amp;rft.aulast=Hodge&amp;rft.aufirst=W.+V.+D.&amp;rft.au=D.+Pedoe&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoordinate+system">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-11">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-11">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          Woods p. 2
+         </span>
+        </li>
+        <li id="cite_note-12">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-12">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation book">
+           Tang, K. T. (2006).
+           <i>
+            Mathematical Methods for Engineers and Scientists
+           </i>
+           .
+           <b>
+            2
+           </b>
+           . Springer. p. 13.
+           <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+            ISBN
+           </a>
+           <a href="/wiki/Special:BookSources/3-540-30268-9" title="Special:BookSources/3-540-30268-9">
+            3-540-30268-9
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Mathematical+Methods+for+Engineers+and+Scientists&amp;rft.pages=13&amp;rft.pub=Springer&amp;rft.date=2006&amp;rft.isbn=3-540-30268-9&amp;rft.aulast=Tang&amp;rft.aufirst=K.+T.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoordinate+system">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-13">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-13">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation book">
+           Liseikin, Vladimir D. (2007).
+           <i>
+            A Computational Differential Geometry Approach to Grid Generation
+           </i>
+           . Springer. p. 38.
+           <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+            ISBN
+           </a>
+           <a href="/wiki/Special:BookSources/3-540-34235-4" title="Special:BookSources/3-540-34235-4">
+            3-540-34235-4
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=A+Computational+Differential+Geometry+Approach+to+Grid+Generation&amp;rft.pages=38&amp;rft.pub=Springer&amp;rft.date=2007&amp;rft.isbn=3-540-34235-4&amp;rft.aulast=Liseikin&amp;rft.aufirst=Vladimir+D.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoordinate+system">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-14">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-14">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          Munkres, James R. (2000)
+          <i>
+           Topology
+          </i>
+          . Prentice Hall.
+          <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+           ISBN
+          </a>
+          <a href="/wiki/Special:BookSources/0-13-181629-2" title="Special:BookSources/0-13-181629-2">
+           0-13-181629-2
+          </a>
+          .
+         </span>
+        </li>
+        <li id="cite_note-15">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-15">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation book">
+           Hanspeter Schaub; John L. Junkins (2003). "Rigid body kinematics".
+           <a class="external text" href="https://books.google.com/books?id=qXvESNWrfpUC&amp;pg=PA71" rel="nofollow">
+            <i>
+             Analytical Mechanics of Space Systems
+            </i>
+           </a>
+           . American Institute of Aeronautics and Astronautics. p. 71.
+           <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+            ISBN
+           </a>
+           <a href="/wiki/Special:BookSources/1-56347-563-4" title="Special:BookSources/1-56347-563-4">
+            1-56347-563-4
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Rigid+body+kinematics&amp;rft.btitle=Analytical+Mechanics+of+Space+Systems&amp;rft.pages=71&amp;rft.pub=American+Institute+of+Aeronautics+and+Astronautics&amp;rft.date=2003&amp;rft.isbn=1-56347-563-4&amp;rft.au=Hanspeter+Schaub&amp;rft.au=John+L.+Junkins&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DqXvESNWrfpUC%26pg%3DPA71&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoordinate+system">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+       </ol>
+      </div>
+      <h2>
+       <span class="mw-headline" id="References">
+        References
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Coordinate_system&amp;action=edit&amp;section=16" title="Edit section: References">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <cite class="citation" id="CITEREFVoitsekhovskiiIvanov2001">
+         Voitsekhovskii, M.I.; Ivanov, A.B. (2001) [1994],
+         <a class="external text" href="https://www.encyclopediaofmath.org/index.php?title=C/c026470" rel="nofollow">
+          "Coordinates"
+         </a>
+         , in
+         <a href="/wiki/Michiel_Hazewinkel" title="Michiel Hazewinkel">
+          Hazewinkel, Michiel
+         </a>
+         ,
+         <i>
+          <a href="/wiki/Encyclopedia_of_Mathematics" title="Encyclopedia of Mathematics">
+           Encyclopedia of Mathematics
+          </a>
+         </i>
+         , Springer Science+Business Media B.V. / Kluwer Academic Publishers,
+         <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+          ISBN
+         </a>
+         <a href="/wiki/Special:BookSources/978-1-55608-010-4" title="Special:BookSources/978-1-55608-010-4">
+          978-1-55608-010-4
+         </a>
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Coordinates&amp;rft.btitle=Encyclopedia+of+Mathematics&amp;rft.pub=Springer+Science%2BBusiness+Media+B.V.+%2F+Kluwer+Academic+Publishers&amp;rft.date=2001&amp;rft.isbn=978-1-55608-010-4&amp;rft.aulast=Voitsekhovskii&amp;rft.aufirst=M.I.&amp;rft.au=Ivanov%2C+A.B.&amp;rft_id=https%3A%2F%2Fwww.encyclopediaofmath.org%2Findex.php%3Ftitle%3DC%2Fc026470&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoordinate+system">
+         <span style="display:none;">
+         </span>
+        </span>
+       </li>
+       <li>
+        <cite class="citation book">
+         Woods, Frederick S. (1922).
+         <a class="external text" href="https://books.google.com/books?id=3ZULAAAAYAAJ&amp;pg=PA1#v=onepage&amp;q&amp;f=false" rel="nofollow">
+          <i>
+           Higher Geometry
+          </i>
+         </a>
+         . Ginn and Co. pp. 1ff.
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Higher+Geometry&amp;rft.pages=1ff&amp;rft.pub=Ginn+and+Co.&amp;rft.date=1922&amp;rft.aulast=Woods&amp;rft.aufirst=Frederick+S.&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D3ZULAAAAYAAJ%26pg%3DPA1%23v%3Donepage%26q%26f%3Dfalse&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoordinate+system">
+         <span style="display:none;">
+         </span>
+        </span>
+       </li>
+       <li>
+        <cite class="citation book">
+         Shigeyuki Morita; Teruko Nagase;
+         <a href="/wiki/Katsumi_Nomizu" title="Katsumi Nomizu">
+          Katsumi Nomizu
+         </a>
+         (2001).
+         <a class="external text" href="https://books.google.com/books?id=5N33Of2RzjsC&amp;pg=PA12" rel="nofollow">
+          <i>
+           Geometry of Differential Forms
+          </i>
+         </a>
+         . AMS Bookstore. p. 12.
+         <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+          ISBN
+         </a>
+         <a href="/wiki/Special:BookSources/0-8218-1045-6" title="Special:BookSources/0-8218-1045-6">
+          0-8218-1045-6
+         </a>
+         .
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Geometry+of+Differential+Forms&amp;rft.pages=12&amp;rft.pub=AMS+Bookstore&amp;rft.date=2001&amp;rft.isbn=0-8218-1045-6&amp;rft.au=Shigeyuki+Morita&amp;rft.au=Teruko+Nagase&amp;rft.au=Katsumi+Nomizu&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D5N33Of2RzjsC%26pg%3DPA12&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoordinate+system">
+         <span style="display:none;">
+         </span>
+        </span>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="External_links">
+        External links
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Coordinate_system&amp;action=edit&amp;section=17" title="Edit section: External links">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+       <tr>
+        <td class="mbox-image">
+         <img alt="" class="noviewer" data-file-height="391" data-file-width="391" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/40px-Wiktionary-logo-en-v2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/60px-Wiktionary-logo-en-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/80px-Wiktionary-logo-en-v2.svg.png 2x" width="40"/>
+        </td>
+        <td class="mbox-text plainlist">
+         Look up
+         <i>
+          <b>
+           <a class="extiw" href="https://en.wiktionary.org/wiki/coordinate" title="wiktionary:coordinate">
+            coordinate
+           </a>
+          </b>
+         </i>
+         in Wiktionary, the free dictionary.
+        </td>
+       </tr>
+      </table>
+      <table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+       <tr>
+        <td class="mbox-image">
+         <img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/>
+        </td>
+        <td class="mbox-text plainlist">
+         Wikimedia Commons has media related to
+         <i>
+          <b>
+           <a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Coordinate_systems" title="commons:Category:Coordinate systems">
+            Coordinate systems
+           </a>
+          </b>
+         </i>
+         .
+        </td>
+       </tr>
+      </table>
+      <ul>
+       <li>
+        <a class="external text" href="http://homepages.inf.ed.ac.uk/rbf/CVonline/LOCAL_COPIES/AV0405/MARTIN/Hex.pdf" rel="nofollow">
+         Hexagonal Coordinate Systems
+        </a>
+       </li>
+      </ul>
+      <div aria-label="Navbox" class="navbox" role="navigation" style="padding:3px">
+       <table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          <a href="/wiki/Help:Authority_control" title="Help:Authority control">
+           Authority control
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <span class="nowrap">
+              <a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">
+               GND
+              </a>
+              :
+              <span class="uid">
+               <a class="external text" href="https://d-nb.info/gnd/4165251-4" rel="nofollow">
+                4165251-4
+               </a>
+              </span>
+             </span>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+       </table>
+      </div>
+      <!-- 
+NewPP limit report
+Parsed by mw1262
+Cached time: 20180130120450
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.264 seconds
+Real time usage: 0.346 seconds
+Preprocessor visited node count: 1415/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 42960/2097152 bytes
+Template argument size: 934/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 3/500
+Lua time usage: 0.113/10.000 seconds
+Lua memory usage: 3.97 MB/50 MB
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  292.491      1 -total
+ 15.94%   46.618      2 Template:MathWorld
+ 15.21%   44.490      2 Template:Cite_web
+ 14.20%   41.532     12 Template:Cite_book
+ 12.78%   37.380      1 Template:Redirect
+  8.60%   25.163      1 Template:ISBN
+  7.58%   22.173      1 Template:Commons_category
+  5.33%   15.581      1 Template:Authority_control
+  4.79%   14.009      1 Template:Orthogonal_coordinate_systems
+  4.01%   11.725      7 Template:Main
+-->
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:81931-0!canonical and timestamp 20180130120450 and revision id 816663645
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Coordinate_system&amp;oldid=816663645">
+      https://en.wikipedia.org/w/index.php?title=Coordinate_system&amp;oldid=816663645
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Coordinate_systems" title="Category:Coordinate systems">
+         Coordinate systems
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Analytic_geometry" title="Category:Analytic geometry">
+         Analytic geometry
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">
+         Wikipedia articles with GND identifiers
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Coordinate+system" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Coordinate+system" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Coordinate_system" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Coordinate_system" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="collapsible selected" id="ca-view">
+        <span>
+         <a href="/wiki/Coordinate_system">
+          Read
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Coordinate_system&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Coordinate_system&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Coordinate_system" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Coordinate_system" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Coordinate_system&amp;oldid=816663645" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Coordinate_system&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q11210" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Coordinate_system&amp;id=816663645" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Coordinate+system">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Coordinate+system&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Coordinate_system&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+     <h3 id="p-wikibase-otherprojects-label">
+      In other projects
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="wb-otherproject-link wb-otherproject-commons">
+        <a href="https://commons.wikimedia.org/wiki/Category:Coordinate_systems" hreflang="en">
+         Wikimedia Commons
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-af">
+        <a class="interlanguage-link-target" href="https://af.wikipedia.org/wiki/Ko%C3%B6rdinatestelsel" hreflang="af" lang="af" title="Koördinatestelsel – Afrikaans">
+         Afrikaans
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-als">
+        <a class="interlanguage-link-target" href="https://als.wikipedia.org/wiki/Koordinatensystem" hreflang="als" lang="als" title="Koordinatensystem – Alemannisch">
+         Alemannisch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ar">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%86%D8%B8%D8%A7%D9%85_%D8%A5%D8%AD%D8%AF%D8%A7%D8%AB%D9%8A" hreflang="ar" lang="ar" title="نظام إحداثي – Arabic">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-an">
+        <a class="interlanguage-link-target" href="https://an.wikipedia.org/wiki/Sistema_de_coordenatas" hreflang="an" lang="an" title="Sistema de coordenatas – Aragonese">
+         Aragonés
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ast">
+        <a class="interlanguage-link-target" href="https://ast.wikipedia.org/wiki/Coordenada" hreflang="ast" lang="ast" title="Coordenada – Asturian">
+         Asturianu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bn">
+        <a class="interlanguage-link-target" href="https://bn.wikipedia.org/wiki/%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%99%E0%A7%8D%E0%A6%95_%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE" hreflang="bn" lang="bn" title="স্থানাঙ্ক ব্যবস্থা – Bangla">
+         বাংলা
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh-min-nan">
+        <a class="interlanguage-link-target" href="https://zh-min-nan.wikipedia.org/wiki/Ch%C5%8D-piau-h%C4%93" hreflang="zh-min-nan" lang="zh-min-nan" title="Chō-piau-hē – Chinese (Min Nan)">
+         Bân-lâm-gú
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ba">
+        <a class="interlanguage-link-target" href="https://ba.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BE%D1%80%D0%B4%D0%B8%D0%BD%D0%B0%D1%82%D0%B0%D0%BB%D0%B0%D1%80_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%D2%BB%D1%8B" hreflang="ba" lang="ba" title="Координаталар системаһы – Bashkir">
+         Башҡортса
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-be">
+        <a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%A1%D1%96%D1%81%D1%82%D1%8D%D0%BC%D0%B0_%D0%BA%D0%B0%D0%B0%D1%80%D0%B4%D1%8B%D0%BD%D0%B0%D1%82" hreflang="be" lang="be" title="Сістэма каардынат – Belarusian">
+         Беларуская
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-be-x-old">
+        <a class="interlanguage-link-target" href="https://be-x-old.wikipedia.org/wiki/%D0%A1%D1%8B%D1%81%D1%82%D1%8D%D0%BC%D0%B0_%D0%BA%D0%B0%D0%B0%D1%80%D0%B4%D1%8B%D0%BD%D0%B0%D1%82" hreflang="be-x-old" lang="be-x-old" title="Сыстэма каардынат – Belarusian (Taraškievica orthography)">
+         Беларуская (тарашкевіца)‎
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bg">
+        <a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BE%D1%80%D0%B4%D0%B8%D0%BD%D0%B0%D1%82%D0%B0" hreflang="bg" lang="bg" title="Координата – Bulgarian">
+         Български
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bs">
+        <a class="interlanguage-link-target" href="https://bs.wikipedia.org/wiki/Koordinatni_sistem" hreflang="bs" lang="bs" title="Koordinatni sistem – Bosnian">
+         Bosanski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Sistema_de_coordenades" hreflang="ca" lang="ca" title="Sistema de coordenades – Catalan">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cs">
+        <a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Soustava_sou%C5%99adnic" hreflang="cs" lang="cs" title="Soustava souřadnic – Czech">
+         Čeština
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sn">
+        <a class="interlanguage-link-target" href="https://sn.wikipedia.org/wiki/Zviringani" hreflang="sn" lang="sn" title="Zviringani – Shona">
+         ChiShona
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cy">
+        <a class="interlanguage-link-target" href="https://cy.wikipedia.org/wiki/System_cyfesurynnau" hreflang="cy" lang="cy" title="System cyfesurynnau – Welsh">
+         Cymraeg
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-da">
+        <a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Koordinatsystem" hreflang="da" lang="da" title="Koordinatsystem – Danish">
+         Dansk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Koordinatensystem" hreflang="de" lang="de" title="Koordinatensystem – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-et">
+        <a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Koordinaadis%C3%BCsteem" hreflang="et" lang="et" title="Koordinaadisüsteem – Estonian">
+         Eesti
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-el">
+        <a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%A3%CF%8D%CF%83%CF%84%CE%B7%CE%BC%CE%B1_%CE%B1%CE%BD%CE%B1%CF%86%CE%BF%CF%81%CE%AC%CF%82" hreflang="el" lang="el" title="Σύστημα αναφοράς – Greek">
+         Ελληνικά
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Sistema_de_coordenadas" hreflang="es" lang="es" title="Sistema de coordenadas – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eo">
+        <a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Koordinatsistemo" hreflang="eo" lang="eo" title="Koordinatsistemo – Esperanto">
+         Esperanto
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eu">
+        <a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Koordenatu_sistema" hreflang="eu" lang="eu" title="Koordenatu sistema – Basque">
+         Euskara
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fa">
+        <a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87_%D9%85%D8%AE%D8%AA%D8%B5%D8%A7%D8%AA" hreflang="fa" lang="fa" title="دستگاه مختصات – Persian">
+         فارسی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Syst%C3%A8me_de_coordonn%C3%A9es" hreflang="fr" lang="fr" title="Système de coordonnées – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-gd">
+        <a class="interlanguage-link-target" href="https://gd.wikipedia.org/wiki/Siostaman_cho-chomharran" hreflang="gd" lang="gd" title="Siostaman cho-chomharran – Scottish Gaelic">
+         Gàidhlig
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-gl">
+        <a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Sistema_de_coordenadas" hreflang="gl" lang="gl" title="Sistema de coordenadas – Galician">
+         Galego
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-gan">
+        <a class="interlanguage-link-target" href="https://gan.wikipedia.org/wiki/%E5%BA%A7%E6%A8%99" hreflang="gan" lang="gan" title="座標 – Gan Chinese">
+         贛語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ko">
+        <a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%A2%8C%ED%91%9C%EA%B3%84" hreflang="ko" lang="ko" title="좌표계 – Korean">
+         한국어
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hy">
+        <a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D4%BF%D5%B8%D5%B8%D6%80%D5%A4%D5%AB%D5%B6%D5%A1%D5%BF%D5%B6%D5%A5%D6%80" hreflang="hy" lang="hy" title="Կոորդինատներ – Armenian">
+         Հայերեն
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hi">
+        <a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%A8%E0%A4%BF%E0%A4%B0%E0%A5%8D%E0%A4%A6%E0%A5%87%E0%A4%B6%E0%A4%BE%E0%A4%82%E0%A4%95_%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF" hreflang="hi" lang="hi" title="निर्देशांक पद्धति – Hindi">
+         हिन्दी
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hr">
+        <a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Koordinatni_sustav" hreflang="hr" lang="hr" title="Koordinatni sustav – Croatian">
+         Hrvatski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-id">
+        <a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Sistem_koordinat" hreflang="id" lang="id" title="Sistem koordinat – Indonesian">
+         Bahasa Indonesia
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-is">
+        <a class="interlanguage-link-target" href="https://is.wikipedia.org/wiki/Hnit_(st%C3%A6r%C3%B0fr%C3%A6%C3%B0i)" hreflang="is" lang="is" title="Hnit (stærðfræði) – Icelandic">
+         Íslenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Sistema_di_coordinate" hreflang="it" lang="it" title="Sistema di coordinate – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-he">
+        <a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%A7%D7%95%D7%90%D7%95%D7%A8%D7%93%D7%99%D7%A0%D7%98%D7%95%D7%AA" hreflang="he" lang="he" title="קואורדינטות – Hebrew">
+         עברית
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-kk">
+        <a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BE%D1%80%D0%B4%D0%B8%D0%BD%D0%B0%D1%82%D1%82%D0%B0%D1%80_%D0%B6%D2%AF%D0%B9%D0%B5%D1%81%D1%96" hreflang="kk" lang="kk" title="Координаттар жүйесі – Kazakh">
+         Қазақша
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sw">
+        <a class="interlanguage-link-target" href="https://sw.wikipedia.org/wiki/Mfumo_majira" hreflang="sw" lang="sw" title="Mfumo majira – Swahili">
+         Kiswahili
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ht">
+        <a class="interlanguage-link-target" href="https://ht.wikipedia.org/wiki/Sist%C3%A8m_kouw%C3%B2done" hreflang="ht" lang="ht" title="Sistèm kouwòdone – Haitian Creole">
+         Kreyòl ayisyen
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ky">
+        <a class="interlanguage-link-target" href="https://ky.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BE%D1%80%D0%B4%D0%B8%D0%BD%D0%B0%D1%82%D0%B0%D0%BB%D0%B0%D1%80" hreflang="ky" lang="ky" title="Координаталар – Kyrgyz">
+         Кыргызча
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-la">
+        <a class="interlanguage-link-target" href="https://la.wikipedia.org/wiki/Systema_coordinatarum" hreflang="la" lang="la" title="Systema coordinatarum – Latin">
+         Latina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lv">
+        <a class="interlanguage-link-target" href="https://lv.wikipedia.org/wiki/Koordin%C4%81tu_sist%C4%93ma" hreflang="lv" lang="lv" title="Koordinātu sistēma – Latvian">
+         Latviešu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lb">
+        <a class="interlanguage-link-target" href="https://lb.wikipedia.org/wiki/Koordinatesystem" hreflang="lb" lang="lb" title="Koordinatesystem – Luxembourgish">
+         Lëtzebuergesch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lt">
+        <a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Koordina%C4%8Di%C5%B3_sistema" hreflang="lt" lang="lt" title="Koordinačių sistema – Lithuanian">
+         Lietuvių
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hu">
+        <a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Koordin%C3%A1ta-rendszer" hreflang="hu" lang="hu" title="Koordináta-rendszer – Hungarian">
+         Magyar
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-mk">
+        <a class="interlanguage-link-target" href="https://mk.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BE%D1%80%D0%B4%D0%B8%D0%BD%D0%B0%D1%82%D0%B5%D0%BD_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC" hreflang="mk" lang="mk" title="Координатен систем – Macedonian">
+         Македонски
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ml">
+        <a class="interlanguage-link-target" href="https://ml.wikipedia.org/wiki/%E0%B4%A8%E0%B4%BF%E0%B5%BC%E0%B4%A6%E0%B5%87%E0%B4%B6%E0%B4%BE%E0%B4%99%E0%B5%8D%E0%B4%95%E0%B4%B5%E0%B5%8D%E0%B4%AF%E0%B4%B5%E0%B4%B8%E0%B5%8D%E0%B4%A5" hreflang="ml" lang="ml" title="നിർദേശാങ്കവ്യവസ്ഥ – Malayalam">
+         മലയാളം
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ms">
+        <a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Sistem_koordinat" hreflang="ms" lang="ms" title="Sistem koordinat – Malay">
+         Bahasa Melayu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nl">
+        <a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Co%C3%B6rdinatenstelsel" hreflang="nl" lang="nl" title="Coördinatenstelsel – Dutch">
+         Nederlands
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E5%BA%A7%E6%A8%99" hreflang="ja" lang="ja" title="座標 – Japanese">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-no">
+        <a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Koordinatsystem" hreflang="no" lang="no" title="Koordinatsystem – Norwegian">
+         Norsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nn">
+        <a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Koordinatsystem" hreflang="nn" lang="nn" title="Koordinatsystem – Norwegian Nynorsk">
+         Norsk nynorsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-oc">
+        <a class="interlanguage-link-target" href="https://oc.wikipedia.org/wiki/Sist%C3%A8ma_de_coordenadas" hreflang="oc" lang="oc" title="Sistèma de coordenadas – Occitan">
+         Occitan
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pa">
+        <a class="interlanguage-link-target" href="https://pa.wikipedia.org/wiki/%E0%A8%97%E0%A9%81%E0%A8%A3%E0%A8%95_%E0%A8%AA%E0%A9%8D%E0%A8%B0%E0%A8%AC%E0%A9%B0%E0%A8%A7" hreflang="pa" lang="pa" title="ਗੁਣਕ ਪ੍ਰਬੰਧ – Punjabi">
+         ਪੰਜਾਬੀ
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pnb">
+        <a class="interlanguage-link-target" href="https://pnb.wikipedia.org/wiki/%DA%A9%D9%88%D8%A2%D8%B1%DA%88%DB%8C%D9%86%DB%8C%D9%B9_%D9%BE%D8%B1%D8%A8%D9%86%D8%AF%DA%BE" hreflang="pnb" lang="pnb" title="کوآرڈینیٹ پربندھ – Western Punjabi">
+         پنجابی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-jam">
+        <a class="interlanguage-link-target" href="https://jam.wikipedia.org/wiki/Kwaadinet_(matimatix)" hreflang="jam" lang="jam" title="Kwaadinet (matimatix) – Jamaican Creole English">
+         Patois
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pms">
+        <a class="interlanguage-link-target" href="https://pms.wikipedia.org/wiki/Coordin%C3%A0" hreflang="pms" lang="pms" title="Coordinà – Piedmontese">
+         Piemontèis
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pl">
+        <a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Uk%C5%82ad_wsp%C3%B3%C5%82rz%C4%99dnych" hreflang="pl" lang="pl" title="Układ współrzędnych – Polish">
+         Polski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Sistema_de_coordenadas" hreflang="pt" lang="pt" title="Sistema de coordenadas – Portuguese">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ro">
+        <a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Sistem_de_coordonate" hreflang="ro" lang="ro" title="Sistem de coordonate – Romanian">
+         Română
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D0%BA%D0%BE%D0%BE%D1%80%D0%B4%D0%B8%D0%BD%D0%B0%D1%82" hreflang="ru" lang="ru" title="Система координат – Russian">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sco">
+        <a class="interlanguage-link-target" href="https://sco.wikipedia.org/wiki/Coordinate_seestem" hreflang="sco" lang="sco" title="Coordinate seestem – Scots">
+         Scots
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sq">
+        <a class="interlanguage-link-target" href="https://sq.wikipedia.org/wiki/Sistemi_koordinativ" hreflang="sq" lang="sq" title="Sistemi koordinativ – Albanian">
+         Shqip
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-simple">
+        <a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Coordinate_system" hreflang="simple" lang="simple" title="Coordinate system – Simple English">
+         Simple English
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sk">
+        <a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/S%C3%BAstava_s%C3%BAradn%C3%ADc" hreflang="sk" lang="sk" title="Sústava súradníc – Slovak">
+         Slovenčina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sl">
+        <a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Koordinatni_sistem" hreflang="sl" lang="sl" title="Koordinatni sistem – Slovenian">
+         Slovenščina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-szl">
+        <a class="interlanguage-link-target" href="https://szl.wikipedia.org/wiki/Uk%C5%82od_wsp%C5%AF%C5%82rzyndnych" hreflang="szl" lang="szl" title="Ukłod wspůłrzyndnych – Silesian">
+         Ślůnski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ckb">
+        <a class="interlanguage-link-target" href="https://ckb.wikipedia.org/wiki/%D8%B3%DB%8C%D8%B3%D8%AA%D9%85%DB%8C_%D9%BE%DB%86%D8%AA%D8%A7%D9%86%DB%95%DA%A9%D8%A7%D9%86" hreflang="ckb" lang="ckb" title="سیستمی پۆتانەکان – Central Kurdish">
+         کوردی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sr">
+        <a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BE%D1%80%D0%B4%D0%B8%D0%BD%D0%B0%D1%82%D0%B5" hreflang="sr" lang="sr" title="Координате – Serbian">
+         Српски / srpski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sh">
+        <a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Koordinate" hreflang="sh" lang="sh" title="Koordinate – Serbo-Croatian">
+         Srpskohrvatski / српскохрватски
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fi">
+        <a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Koordinaatisto" hreflang="fi" lang="fi" title="Koordinaatisto – Finnish">
+         Suomi
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sv">
+        <a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Koordinatsystem" hreflang="sv" lang="sv" title="Koordinatsystem – Swedish">
+         Svenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tl">
+        <a class="interlanguage-link-target" href="https://tl.wikipedia.org/wiki/Sistema_ng_tugmaang_pampook" hreflang="tl" lang="tl" title="Sistema ng tugmaang pampook – Tagalog">
+         Tagalog
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ta">
+        <a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%86%E0%AE%B3%E0%AF%8D%E0%AE%95%E0%AF%82%E0%AE%B1%E0%AF%8D%E0%AE%B1%E0%AF%81_%E0%AE%AE%E0%AF%81%E0%AE%B1%E0%AF%88%E0%AE%AE%E0%AF%88" hreflang="ta" lang="ta" title="ஆள்கூற்று முறைமை – Tamil">
+         தமிழ்
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-th">
+        <a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%9A%E0%B8%9E%E0%B8%B4%E0%B8%81%E0%B8%B1%E0%B8%94" hreflang="th" lang="th" title="ระบบพิกัด – Thai">
+         ไทย
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tr">
+        <a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Koordinat_sistemi" hreflang="tr" lang="tr" title="Koordinat sistemi – Turkish">
+         Türkçe
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uk">
+        <a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D0%BA%D0%BE%D0%BE%D1%80%D0%B4%D0%B8%D0%BD%D0%B0%D1%82" hreflang="uk" lang="uk" title="Система координат – Ukrainian">
+         Українська
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ur">
+        <a class="interlanguage-link-target" href="https://ur.wikipedia.org/wiki/%D9%85%D8%AA%D9%86%D8%A7%D8%B3%D9%82_%D9%86%D8%B8%D8%A7%D9%85" hreflang="ur" lang="ur" title="متناسق نظام – Urdu">
+         اردو
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-vi">
+        <a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/H%E1%BB%87_t%E1%BB%8Da_%C4%91%E1%BB%99" hreflang="vi" lang="vi" title="Hệ tọa độ – Vietnamese">
+         Tiếng Việt
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-war">
+        <a class="interlanguage-link-target" href="https://war.wikipedia.org/wiki/Sistema_coordinata" hreflang="war" lang="war" title="Sistema coordinata – Waray">
+         Winaray
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-yi">
+        <a class="interlanguage-link-target" href="https://yi.wikipedia.org/wiki/%D7%A7%D7%90%D7%90%D7%A8%D7%93%D7%99%D7%A0%D7%90%D7%98%D7%9F_%D7%A1%D7%99%D7%A1%D7%98%D7%A2%D7%9D" hreflang="yi" lang="yi" title="קאארדינאטן סיסטעם – Yiddish">
+         ייִדיש
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh-yue">
+        <a class="interlanguage-link-target" href="https://zh-yue.wikipedia.org/wiki/%E5%9D%90%E6%A8%99" hreflang="zh-yue" lang="zh-yue" title="坐標 – Cantonese">
+         粵語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%9D%90%E6%A8%99%E7%B3%BB" hreflang="zh" lang="zh" title="坐標系 – Chinese">
+         中文
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q11210#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 22 December 2017, at 21:21.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Coordinate_system&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.264","walltime":"0.346","ppvisitednodes":{"value":1415,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":42960,"limit":2097152},"templateargumentsize":{"value":934,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  292.491      1 -total"," 15.94%   46.618      2 Template:MathWorld"," 15.21%   44.490      2 Template:Cite_web"," 14.20%   41.532     12 Template:Cite_book"," 12.78%   37.380      1 Template:Redirect","  8.60%   25.163      1 Template:ISBN","  7.58%   22.173      1 Template:Commons_category","  5.33%   15.581      1 Template:Authority_control","  4.79%   14.009      1 Template:Orthogonal_coordinate_systems","  4.01%   11.725      7 Template:Main"]},"scribunto":{"limitreport-timeusage":{"value":"0.113","limit":"10.000"},"limitreport-memusage":{"value":4158399,"limit":52428800}},"cachereport":{"origin":"mw1262","timestamp":"20180130120450","ttl":1900800,"transientcontent":false}}});});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":89,"wgHostname":"mw1323"});});
+  </script>
+ </body>
+</html>

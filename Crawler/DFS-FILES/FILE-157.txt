@@ -1,0 +1,4684 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Geostationary orbit - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Geostationary_orbit","wgTitle":"Geostationary orbit","wgCurRevisionId":821618214,"wgRevisionId":821618214,"wgArticleId":41210,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","All articles with unsourced statements","Articles with unsourced statements from January 2018","Wikipedia articles incorporating text from the Federal Standard 1037C","Wikipedia articles incorporating text from MIL-STD-188","Astrodynamics","Earth orbits","Artificial satellites in geosynchronous orbit"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Geostationary_orbit","wgRelevantArticleId":41210,"wgRequestId":"Wm6e-gpAICsAAKc1GxwAAACH","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Geostationary","wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgInternalRedirectTargetUrl":"/wiki/Geostationary_orbit","wgWikibaseItemId":"Q192316","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["mediawiki.action.view.redirect","ext.cite.a11y","ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.31.0-wmf.17" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <meta content="https://upload.wikimedia.org/wikipedia/commons/5/50/Geostationaryjava3D.gif" property="og:image"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Geostationary_orbit" rel="alternate"/>
+  <link href="/w/index.php?title=Geostationary_orbit&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Geostationary_orbit&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/Geostationary_orbit" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Geostationary_orbit rootpage-Geostationary_orbit skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Geostationary orbit
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+     <span class="mw-redirectedfrom">
+      (Redirected from
+      <a class="mw-redirect" href="/w/index.php?title=Geostationary&amp;redirect=no" title="Geostationary">
+       Geostationary
+      </a>
+      )
+     </span>
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:Geostationaryjava3D.gif">
+         <img alt="" class="thumbimage" data-file-height="220" data-file-width="220" height="220" src="//upload.wikimedia.org/wikipedia/commons/5/50/Geostationaryjava3D.gif" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Geostationaryjava3D.gif" title="Enlarge">
+          </a>
+         </div>
+         Two geostationary satellites in same orbit
+        </div>
+       </div>
+      </div>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:Geosats_compilation.jpg">
+         <img alt="" class="thumbimage" data-file-height="1274" data-file-width="960" height="292" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Geosats_compilation.jpg/220px-Geosats_compilation.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Geosats_compilation.jpg/330px-Geosats_compilation.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Geosats_compilation.jpg/440px-Geosats_compilation.jpg 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Geosats_compilation.jpg" title="Enlarge">
+          </a>
+         </div>
+         A 5 × 6 degree view of a part of the geostationary belt, showing several geostationary satellites. Those with inclination 0° form a diagonal belt across the image; a few objects with small inclinations to the
+         <a href="/wiki/Equator" title="Equator">
+          equator
+         </a>
+         are visible above this line. The satellites are pinpoint, while stars have created small trails due to the
+         <a href="/wiki/Earth%27s_rotation" title="Earth's rotation">
+          Earth's rotation
+         </a>
+         .
+        </div>
+       </div>
+      </div>
+      <div class="hatnote navigation-not-searchable" role="note">
+       For orbits that have a period of one day, see
+       <a href="/wiki/Geosynchronous_orbit" title="Geosynchronous orbit">
+        geosynchronous orbit
+       </a>
+       .
+      </div>
+      <p>
+       A
+       <b>
+        geostationary orbit
+       </b>
+       ,
+       <b>
+        geostationary Earth orbit
+       </b>
+       (often loosely referred to as
+       <b>
+        geosynchronous equatorial orbit
+       </b>
+       <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+        [
+        <i>
+         <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+          <span title="This claim needs references to reliable sources. (January 2018)">
+           citation needed
+          </span>
+         </a>
+        </i>
+        ]
+       </sup>
+       )
+       <sup class="reference" id="cite_ref-1">
+        <a href="#cite_note-1">
+         [1]
+        </a>
+       </sup>
+       (
+       <b>
+        GEO
+       </b>
+       ) is a circular
+       <a href="/wiki/Geosynchronous_orbit" title="Geosynchronous orbit">
+        geosynchronous orbit
+       </a>
+       35,786 kilometres (22,236 mi) above the Earth's
+       <a href="/wiki/Equator" title="Equator">
+        equator
+       </a>
+       and following the direction of the Earth's rotation. An object in such an orbit appears motionless, at a fixed position in the sky, to ground observers.
+       <a href="/wiki/Communications_satellite" title="Communications satellite">
+        Communications satellites
+       </a>
+       and
+       <a href="/wiki/Weather_satellite" title="Weather satellite">
+        weather satellites
+       </a>
+       are often placed in geostationary orbits, so that the
+       <a class="mw-redirect" href="/wiki/Satellite_antenna" title="Satellite antenna">
+        satellite antennas
+       </a>
+       (located on
+       <a href="/wiki/Earth" title="Earth">
+        Earth
+       </a>
+       ) that communicate with them do not have to rotate to track them, but can be pointed permanently at the position in the sky where the satellites are located. Using this characteristic, ocean color satellites with visible and near-infrared light sensors (e.g. the
+       <a href="/wiki/Geostationary_Ocean_Color_Imager" title="Geostationary Ocean Color Imager">
+        Geostationary Ocean Color Imager
+       </a>
+       (GOCI)) can also be operated in geostationary orbit in order to monitor sensitive changes of ocean environments.
+      </p>
+      <p>
+       A
+       <a class="mw-redirect" href="/wiki/Geostationary" title="Geostationary">
+        geostationary
+       </a>
+       orbit is a particular type of geosynchronous orbit, which is an orbit which has an
+       <a href="/wiki/Orbital_period" title="Orbital period">
+        orbital period
+       </a>
+       equal to the Earth's rotational period (one
+       <a class="mw-redirect" href="/wiki/Sidereal_day" title="Sidereal day">
+        sidereal day
+       </a>
+       ) and thus the distinction being that while an object in geosynchronous orbit returns to the same point in the sky at the same time each day, an object in geostationary orbit never leaves that position. Geosynchronous orbits move around relative to a point on the earth's surface, because while geostationary orbits have an
+       <a class="mw-redirect" href="/wiki/Inclination" title="Inclination">
+        inclination
+       </a>
+       of 0 degrees relative to the
+       <a href="/wiki/Equator" title="Equator">
+        equator
+       </a>
+       , geosynchronous orbits have varying inclinations and eccentricities.
+      </p>
+      <p>
+      </p>
+      <div class="toc" id="toc">
+       <div class="toctitle" dir="ltr" lang="en" xml:lang="en">
+        <h2>
+         Contents
+        </h2>
+       </div>
+       <ul>
+        <li class="toclevel-1 tocsection-1">
+         <a href="#History">
+          <span class="tocnumber">
+           1
+          </span>
+          <span class="toctext">
+           History
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-2">
+         <a href="#Practical_uses">
+          <span class="tocnumber">
+           2
+          </span>
+          <span class="toctext">
+           Practical uses
+          </span>
+         </a>
+         <ul>
+          <li class="toclevel-2 tocsection-3">
+           <a href="#Communications">
+            <span class="tocnumber">
+             2.1
+            </span>
+            <span class="toctext">
+             Communications
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-4">
+           <a href="#Orbit_allocation">
+            <span class="tocnumber">
+             2.2
+            </span>
+            <span class="toctext">
+             Orbit allocation
+            </span>
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="toclevel-1 tocsection-5">
+         <a href="#Orbital_stability">
+          <span class="tocnumber">
+           3
+          </span>
+          <span class="toctext">
+           Orbital stability
+          </span>
+         </a>
+         <ul>
+          <li class="toclevel-2 tocsection-6">
+           <a href="#Limitations_to_usable_life_of_geostationary_satellites">
+            <span class="tocnumber">
+             3.1
+            </span>
+            <span class="toctext">
+             Limitations to usable life of geostationary satellites
+            </span>
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="toclevel-1 tocsection-7">
+         <a href="#Derivation_of_geostationary_altitude">
+          <span class="tocnumber">
+           4
+          </span>
+          <span class="toctext">
+           Derivation of geostationary altitude
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-8">
+         <a href="#See_also">
+          <span class="tocnumber">
+           5
+          </span>
+          <span class="toctext">
+           See also
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-9">
+         <a href="#Notes">
+          <span class="tocnumber">
+           6
+          </span>
+          <span class="toctext">
+           Notes
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-10">
+         <a href="#References">
+          <span class="tocnumber">
+           7
+          </span>
+          <span class="toctext">
+           References
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-11">
+         <a href="#External_links">
+          <span class="tocnumber">
+           8
+          </span>
+          <span class="toctext">
+           External links
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <p>
+      </p>
+      <h2>
+       <span class="mw-headline" id="History">
+        History
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Geostationary_orbit&amp;action=edit&amp;section=1" title="Edit section: History">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       The first appearance of a geostationary
+       <a href="/wiki/Orbit" title="Orbit">
+        orbit
+       </a>
+       in popular literature was in the first
+       <a href="/wiki/Venus_Equilateral" title="Venus Equilateral">
+        Venus Equilateral
+       </a>
+       story by
+       <a href="/wiki/George_O._Smith" title="George O. Smith">
+        George O. Smith
+       </a>
+       ,
+       <sup class="reference" id="cite_ref-VE_2-0">
+        <a href="#cite_note-VE-2">
+         [2]
+        </a>
+       </sup>
+       but Smith did not go into details. British
+       <a class="mw-redirect" href="/wiki/Science_fiction_author" title="Science fiction author">
+        science fiction author
+       </a>
+       <a href="/wiki/Arthur_C._Clarke" title="Arthur C. Clarke">
+        Arthur C. Clarke
+       </a>
+       disseminated the idea widely, with more details on how it would work, in a 1945 paper entitled "Extra-Terrestrial Relays — Can Rocket Stations Give Worldwide Radio Coverage?", published in
+       <i>
+        <a class="mw-redirect" href="/wiki/Wireless_World" title="Wireless World">
+         Wireless World
+        </a>
+       </i>
+       magazine. Clarke acknowledged the connection in his introduction to
+       <i>
+        The Complete Venus Equilateral
+       </i>
+       .
+       <sup class="reference" id="cite_ref-VEintro_3-0">
+        <a href="#cite_note-VEintro-3">
+         [3]
+        </a>
+       </sup>
+       The orbit, which Clarke first described as useful for broadcast and relay communications satellites,
+       <sup class="reference" id="cite_ref-4">
+        <a href="#cite_note-4">
+         [4]
+        </a>
+       </sup>
+       is sometimes called the
+       <b>
+        Clarke Orbit
+       </b>
+       .
+       <sup class="reference" id="cite_ref-5">
+        <a href="#cite_note-5">
+         [5]
+        </a>
+       </sup>
+       Similarly, the
+       <b>
+        Clarke Belt
+       </b>
+       is the part of space about 35,786 km (22,236 mi) above
+       <a class="mw-redirect" href="/wiki/Mean_sea_level" title="Mean sea level">
+        sea level
+       </a>
+       , in the plane of the equator, where near-geostationary orbits may be implemented. The Clarke Orbit is about 265,000 km (165,000 mi) in circumference.
+      </p>
+      <h2>
+       <span class="mw-headline" id="Practical_uses">
+        Practical uses
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Geostationary_orbit&amp;action=edit&amp;section=2" title="Edit section: Practical uses">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="hatnote navigation-not-searchable" role="note">
+       See also:
+       <a href="/wiki/Geosynchronous_satellite" title="Geosynchronous satellite">
+        Geosynchronous satellite
+       </a>
+      </div>
+      <p>
+       Most commercial
+       <a href="/wiki/Communications_satellite" title="Communications satellite">
+        communications satellites
+       </a>
+       ,
+       <a class="mw-redirect" href="/wiki/Broadcast_satellite" title="Broadcast satellite">
+        broadcast satellites
+       </a>
+       and
+       <a class="mw-redirect" href="/wiki/SBAS" title="SBAS">
+        SBAS
+       </a>
+       satellites operate in geostationary orbits. A
+       <a class="mw-redirect" href="/wiki/Geosynchronous_transfer_orbit" title="Geosynchronous transfer orbit">
+        geostationary transfer orbit
+       </a>
+       is used to move a satellite from
+       <a href="/wiki/Low_Earth_orbit" title="Low Earth orbit">
+        low Earth orbit
+       </a>
+       (LEO) into a geostationary orbit. The first satellite placed into a geostationary orbit was the
+       <a href="/wiki/Syncom" title="Syncom">
+        Syncom
+       </a>
+       -3, launched by a
+       <a href="/wiki/Delta_(rocket_family)#Delta_D" title="Delta (rocket family)">
+        Delta D rocket
+       </a>
+       in 1964.
+      </p>
+      <p>
+       A worldwide network of operational geostationary meteorological satellites is used to provide visible and infrared images of Earth's surface and atmosphere. These satellite systems include:
+      </p>
+      <ul>
+       <li>
+        the United States
+        <a class="mw-redirect" href="/wiki/GOES" title="GOES">
+         GOES
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Meteosat" title="Meteosat">
+         Meteosat
+        </a>
+        , launched by the
+        <a href="/wiki/European_Space_Agency" title="European Space Agency">
+         European Space Agency
+        </a>
+        and operated by the European Weather Satellite Organization,
+        <a href="/wiki/EUMETSAT" title="EUMETSAT">
+         EUMETSAT
+        </a>
+       </li>
+       <li>
+        the
+        <a href="/wiki/Japan" title="Japan">
+         Japanese
+        </a>
+        <a href="/wiki/Himawari_(satellite)" title="Himawari (satellite)">
+         Himawari
+        </a>
+       </li>
+       <li>
+        Chinese
+        <a href="/wiki/Fengyun" title="Fengyun">
+         Fengyun
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/India" title="India">
+         India
+        </a>
+        's
+        <a class="mw-redirect" href="/wiki/INSAT" title="INSAT">
+         INSAT
+        </a>
+        series
+       </li>
+      </ul>
+      <p>
+       A
+       <a href="/wiki/Statite" title="Statite">
+        statite
+       </a>
+       , a hypothetical satellite that uses a
+       <a href="/wiki/Solar_sail" title="Solar sail">
+        solar sail
+       </a>
+       to modify its orbit, could theoretically hold itself in a geostationary "orbit" with different altitude and/or inclination from the "traditional" equatorial geostationary orbit.
+       <sup class="reference" id="cite_ref-6">
+        <a href="#cite_note-6">
+         [6]
+        </a>
+       </sup>
+      </p>
+      <h3>
+       <span class="mw-headline" id="Communications">
+        Communications
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Geostationary_orbit&amp;action=edit&amp;section=3" title="Edit section: Communications">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       Satellites in geostationary orbits are far enough away from Earth that communication latency becomes significant — about a quarter of a second for a trip from one ground-based transmitter to the satellite and back to another ground-based transmitter; close to half a second for a round-trip communication from one Earth station to another and then back to the first.
+      </p>
+      <p>
+       For example, for ground stations at
+       <a class="mw-redirect" href="/wiki/Latitudes" title="Latitudes">
+        latitudes
+       </a>
+       of
+       <i>
+        φ
+       </i>
+       = ±45° on the same
+       <a href="/wiki/Meridian_(geography)" title="Meridian (geography)">
+        meridian
+       </a>
+       as the satellite, the time taken for a signal to pass from Earth to the satellite and back again can be computed using the
+       <a href="/wiki/Law_of_cosines" title="Law of cosines">
+        cosine rule
+       </a>
+       , given the geostationary orbital radius
+       <i>
+        r
+       </i>
+       (derived below), the
+       <a class="mw-redirect" href="/wiki/Earth%27s_radius" title="Earth's radius">
+        Earth's radius
+       </a>
+       <i>
+        R
+       </i>
+       and the
+       <a href="/wiki/Speed_of_light" title="Speed of light">
+        speed of light
+       </a>
+       <i>
+        c
+       </i>
+       , as
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle \Delta t={\frac {2}{c}}{\sqrt {R^{2}+r^{2}-2Rr\cos \varphi }}\approx 253~{\text{ms}}.}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mi mathvariant="normal">
+               Δ
+               <!-- Δ -->
+              </mi>
+              <mi>
+               t
+              </mi>
+              <mo>
+               =
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mfrac>
+                <mn>
+                 2
+                </mn>
+                <mi>
+                 c
+                </mi>
+               </mfrac>
+              </mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+               <msqrt>
+                <msup>
+                 <mi>
+                  R
+                 </mi>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mn>
+                   2
+                  </mn>
+                 </mrow>
+                </msup>
+                <mo>
+                 +
+                </mo>
+                <msup>
+                 <mi>
+                  r
+                 </mi>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mn>
+                   2
+                  </mn>
+                 </mrow>
+                </msup>
+                <mo>
+                 −
+                 <!-- − -->
+                </mo>
+                <mn>
+                 2
+                </mn>
+                <mi>
+                 R
+                </mi>
+                <mi>
+                 r
+                </mi>
+                <mi>
+                 cos
+                </mi>
+                <mo>
+                 ⁡
+                 <!-- ⁡ -->
+                </mo>
+                <mi>
+                 φ
+                 <!-- φ -->
+                </mi>
+               </msqrt>
+              </mrow>
+              <mo>
+               ≈
+               <!-- ≈ -->
+              </mo>
+              <mn>
+               253
+              </mn>
+              <mtext>
+              </mtext>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mtext>
+                ms
+               </mtext>
+              </mrow>
+              <mo>
+               .
+              </mo>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle \Delta t={\frac {2}{c}}{\sqrt {R^{2}+r^{2}-2Rr\cos \varphi }}\approx 253~{\text{ms}}.}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="{\displaystyle \Delta t={\frac {2}{c}}{\sqrt {R^{2}+r^{2}-2Rr\cos \varphi }}\approx 253~{\text{ms}}.}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8c94b89124d65446a7e536616be43b3d2ba7334c" style="vertical-align: -1.838ex; width:40.844ex; height:5.176ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       (Note that
+       <i>
+        r
+       </i>
+       is the orbital radius, the distance from the centre of the Earth, not the height above the equator.)
+      </p>
+      <p>
+       This delay presents problems for latency-sensitive applications such as voice communication.
+       <sup class="reference" id="cite_ref-7">
+        <a href="#cite_note-7">
+         [7]
+        </a>
+       </sup>
+      </p>
+      <p>
+       Geostationary satellites are directly overhead at the equator and become lower in the sky the further north or south one travels. As the observer's latitude increases, communication becomes more difficult due to factors such as atmospheric refraction, Earth's thermal emission, line-of-sight obstructions, and signal reflections from the ground or nearby structures. At latitudes above about 81°, geostationary satellites are below the horizon and cannot be seen at all.
+       <sup class="reference" id="cite_ref-8">
+        <a href="#cite_note-8">
+         [8]
+        </a>
+       </sup>
+       Because of this, some
+       <a href="/wiki/Russia" title="Russia">
+        Russian
+       </a>
+       communication satellites have used
+       <a href="/wiki/Elliptic_orbit" title="Elliptic orbit">
+        elliptical
+       </a>
+       <a href="/wiki/Molniya_orbit" title="Molniya orbit">
+        Molniya
+       </a>
+       and
+       <a href="/wiki/Tundra_orbit" title="Tundra orbit">
+        Tundra
+       </a>
+       orbits, which have excellent visibility at high latitudes.
+      </p>
+      <h3>
+       <span class="mw-headline" id="Orbit_allocation">
+        Orbit allocation
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Geostationary_orbit&amp;action=edit&amp;section=4" title="Edit section: Orbit allocation">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       Satellites in geostationary orbit must all occupy a single ring above the
+       <a href="/wiki/Equator" title="Equator">
+        equator
+       </a>
+       . The requirement to space these satellites apart to avoid harmful radio-frequency interference during operations means that there are a limited number of orbital "slots" available, and thus only a limited number of satellites can be operated in geostationary orbit. This has led to conflict between different countries wishing access to the same orbital slots (countries near the same
+       <a href="/wiki/Longitude" title="Longitude">
+        longitude
+       </a>
+       but differing
+       <a class="mw-redirect" href="/wiki/Latitudes" title="Latitudes">
+        latitudes
+       </a>
+       ) and radio frequencies. These disputes are addressed through the
+       <a href="/wiki/International_Telecommunication_Union" title="International Telecommunication Union">
+        International Telecommunication Union
+       </a>
+       's allocation mechanism.
+       <sup class="reference" id="cite_ref-9">
+        <a href="#cite_note-9">
+         [9]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-10">
+        <a href="#cite_note-10">
+         [10]
+        </a>
+       </sup>
+       In the 1976 Bogotá Declaration, eight countries located on the Earth's equator claimed sovereignty over the geostationary orbits above their territory, but the claims gained no international recognition.
+       <sup class="reference" id="cite_ref-11">
+        <a href="#cite_note-11">
+         [11]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Orbital_stability">
+        Orbital stability
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Geostationary_orbit&amp;action=edit&amp;section=5" title="Edit section: Orbital stability">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       A geostationary orbit can be achieved only at an altitude very close to 35,786 km (22,236 mi) and directly above the equator. This equates to an orbital velocity of 3.07 km/s (1.91 mi/s) and an orbital period of 1,436 minutes, which equates to almost exactly one
+       <a class="mw-redirect" href="/wiki/Sidereal_day" title="Sidereal day">
+        sidereal day
+       </a>
+       (23.934461223 hours). This ensures that the satellite will match the Earth's rotational period and has a stationary
+       <a href="/wiki/Footprint_(satellite)" title="Footprint (satellite)">
+        footprint
+       </a>
+       on the ground. All geostationary satellites have to be located on this ring.
+      </p>
+      <p>
+       A combination of
+       <a href="/wiki/Moon" title="Moon">
+        lunar
+       </a>
+       gravity,
+       <a href="/wiki/Sun" title="Sun">
+        solar
+       </a>
+       gravity, and the flattening of the Earth at its poles causes a
+       <a href="/wiki/Precession" title="Precession">
+        precession
+       </a>
+       motion of the orbital plane of any geostationary object, with an
+       <a href="/wiki/Orbital_period" title="Orbital period">
+        orbital period
+       </a>
+       of about 53 years and an initial inclination gradient of about 0.85° per year, achieving a maximal inclination of 15° after 26.5 years.
+       <sup class="reference" id="cite_ref-Anderson2015_12-0">
+        <a href="#cite_note-Anderson2015-12">
+         [12]
+        </a>
+       </sup>
+       To correct for this
+       <a href="/wiki/Perturbation_(astronomy)" title="Perturbation (astronomy)">
+        orbital perturbation
+       </a>
+       , regular
+       <a class="mw-redirect" href="/wiki/Orbital_stationkeeping" title="Orbital stationkeeping">
+        orbital stationkeeping
+       </a>
+       manoeuvres are necessary, amounting to a
+       <a href="/wiki/Delta-v" title="Delta-v">
+        delta-v
+       </a>
+       of approximately 50 m/s per year.
+      </p>
+      <p>
+       A second effect to be taken into account is the longitudinal drift, caused by the asymmetry of the Earth – the equator is slightly elliptical. There are two stable (at 75.3°E and 252°E) and two unstable (at 165.3°E and 14.7°W) equilibrium points. Any geostationary object placed between the equilibrium points would (without any action) be slowly accelerated towards the stable equilibrium position, causing a periodic longitude variation.
+       <sup class="reference" id="cite_ref-Anderson2015_12-1">
+        <a href="#cite_note-Anderson2015-12">
+         [12]
+        </a>
+       </sup>
+       The correction of this effect requires
+       <a href="/wiki/Orbital_station-keeping#Station-keeping_in_geostationary_orbit" title="Orbital station-keeping">
+        station-keeping maneuvers
+       </a>
+       with a maximal delta-v of about 2 m/s per year, depending on the desired longitude.
+      </p>
+      <p>
+       <a href="/wiki/Solar_wind" title="Solar wind">
+        Solar wind
+       </a>
+       and
+       <a href="/wiki/Radiation_pressure" title="Radiation pressure">
+        radiation pressure
+       </a>
+       also exert small forces on satellites; over time, these cause them to slowly drift away from their prescribed orbits.
+      </p>
+      <p>
+       In the absence of servicing missions from the Earth or a renewable propulsion method, the consumption of thruster propellant for station keeping places a limitation on the lifetime of the satellite.
+       <a href="/wiki/Hall-effect_thruster" title="Hall-effect thruster">
+        Hall-effect thrusters
+       </a>
+       , which are currently in use, have the potential to prolong the service life of a satellite by providing high-efficiency
+       <a href="/wiki/Electrically_powered_spacecraft_propulsion" title="Electrically powered spacecraft propulsion">
+        electric propulsion
+       </a>
+       .
+      </p>
+      <h3>
+       <span class="mw-headline" id="Limitations_to_usable_life_of_geostationary_satellites">
+        Limitations to usable life of geostationary satellites
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Geostationary_orbit&amp;action=edit&amp;section=6" title="Edit section: Limitations to usable life of geostationary satellites">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       When they run out of thruster fuel, the satellites are at the end of their service life, as they are no longer able to stay in their allocated orbital position. The transponders and other onboard systems generally outlive the thruster fuel and, by stopping N–S station keeping, some satellites can continue to be used in
+       <a href="/wiki/Inclined_orbit" title="Inclined orbit">
+        inclined orbits
+       </a>
+       (where the orbital track appears to follow a
+       <a href="/wiki/Analemma#Analemmas_of_geosynchronous_satellites" title="Analemma">
+        figure-eight loop centred on the equator
+       </a>
+       ),
+       <sup class="reference" id="cite_ref-13">
+        <a href="#cite_note-13">
+         [13]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-14">
+        <a href="#cite_note-14">
+         [14]
+        </a>
+       </sup>
+       or else be elevated to a "graveyard"
+       <a href="/wiki/Graveyard_orbit" title="Graveyard orbit">
+        disposal orbit
+       </a>
+       .
+      </p>
+      <h2>
+       <span class="mw-headline" id="Derivation_of_geostationary_altitude">
+        Derivation of geostationary altitude
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Geostationary_orbit&amp;action=edit&amp;section=7" title="Edit section: Derivation of geostationary altitude">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:251px;">
+        <a class="image" href="/wiki/File:Comparison_satellite_navigation_orbits.svg">
+         <img alt="" class="thumbimage" data-file-height="512" data-file-width="512" height="249" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Comparison_satellite_navigation_orbits.svg/249px-Comparison_satellite_navigation_orbits.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Comparison_satellite_navigation_orbits.svg/374px-Comparison_satellite_navigation_orbits.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Comparison_satellite_navigation_orbits.svg/498px-Comparison_satellite_navigation_orbits.svg.png 2x" width="249"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Comparison_satellite_navigation_orbits.svg" title="Enlarge">
+          </a>
+         </div>
+         Comparison of geostationary Earth orbit with
+         <a class="mw-redirect" href="/wiki/GPS" title="GPS">
+          GPS
+         </a>
+         ,
+         <a href="/wiki/GLONASS" title="GLONASS">
+          GLONASS
+         </a>
+         ,
+         <a href="/wiki/Galileo_(satellite_navigation)" title="Galileo (satellite navigation)">
+          Galileo
+         </a>
+         and
+         <a class="mw-redirect" href="/wiki/Compass_navigation_system" title="Compass navigation system">
+          Compass (medium Earth orbit)
+         </a>
+         <a class="mw-redirect" href="/wiki/Satellite_navigation_system" title="Satellite navigation system">
+          satellite navigation system
+         </a>
+         orbits with the
+         <a href="/wiki/International_Space_Station" title="International Space Station">
+          International Space Station
+         </a>
+         ,
+         <a href="/wiki/Hubble_Space_Telescope" title="Hubble Space Telescope">
+          Hubble Space Telescope
+         </a>
+         and
+         <a class="mw-redirect" href="/wiki/Iridium_constellation" title="Iridium constellation">
+          Iridium constellation
+         </a>
+         orbits, and the nominal size of the
+         <a href="/wiki/Earth" title="Earth">
+          Earth
+         </a>
+         .
+         <sup class="reference" id="cite_ref-15">
+          <a href="#cite_note-15">
+           [a]
+          </a>
+         </sup>
+         The
+         <a href="/wiki/Moon" title="Moon">
+          Moon
+         </a>
+         's orbit is around 9 times larger (in radius and length) than geostationary orbit.
+         <sup class="reference" id="cite_ref-16">
+          <a href="#cite_note-16">
+           [b]
+          </a>
+         </sup>
+        </div>
+       </div>
+      </div>
+      <p>
+       In any circular orbit, the
+       <a href="/wiki/Centripetal_force" title="Centripetal force">
+        centripetal force
+       </a>
+       required to maintain the orbit (
+       <b>
+        F
+       </b>
+       <sub>
+        c
+       </sub>
+       ) is provided by the gravitational force on the satellite (
+       <b>
+        F
+       </b>
+       <sub>
+        g
+       </sub>
+       ). To calculate the geostationary orbit altitude, one begins with this equivalence:
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle \mathbf {F} _{\text{c}}=\mathbf {F} _{\text{g}}.}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <msub>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi mathvariant="bold">
+                 F
+                </mi>
+               </mrow>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mtext>
+                 c
+                </mtext>
+               </mrow>
+              </msub>
+              <mo>
+               =
+              </mo>
+              <msub>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi mathvariant="bold">
+                 F
+                </mi>
+               </mrow>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mtext>
+                 g
+                </mtext>
+               </mrow>
+              </msub>
+              <mo>
+               .
+              </mo>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle \mathbf {F} _{\text{c}}=\mathbf {F} _{\text{g}}.}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="{\displaystyle \mathbf {F} _{\text{c}}=\mathbf {F} _{\text{g}}.}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1326b80de372b7f2a0980327a40161d1f4ec747f" style="vertical-align: -1.005ex; width:9.127ex; height:2.843ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       By
+       <a class="mw-redirect" href="/wiki/Newton%27s_second_law" title="Newton's second law">
+        Newton's second law
+       </a>
+       of motion,
+       <sup class="reference" id="cite_ref-17">
+        <a href="#cite_note-17">
+         [15]
+        </a>
+       </sup>
+       we can replace the forces
+       <b>
+        F
+       </b>
+       with the
+       <a href="/wiki/Mass" title="Mass">
+        mass
+       </a>
+       <i>
+        m
+       </i>
+       of the object multiplied by the
+       <a href="/wiki/Acceleration" title="Acceleration">
+        acceleration
+       </a>
+       felt by the object due to that force:
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle m\mathbf {a} _{\text{c}}=m\mathbf {g} .}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mi>
+               m
+              </mi>
+              <msub>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi mathvariant="bold">
+                 a
+                </mi>
+               </mrow>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mtext>
+                 c
+                </mtext>
+               </mrow>
+              </msub>
+              <mo>
+               =
+              </mo>
+              <mi>
+               m
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi mathvariant="bold">
+                g
+               </mi>
+              </mrow>
+              <mo>
+               .
+              </mo>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle m\mathbf {a} _{\text{c}}=m\mathbf {g} .}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="{\displaystyle m\mathbf {a} _{\text{c}}=m\mathbf {g} .}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/47cf1bfffd03a314be7847a7fa19affd355970c4" style="vertical-align: -0.671ex; width:11.425ex; height:2.009ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       We note that the mass of the satellite
+       <i>
+        m
+       </i>
+       appears on both sides — geostationary orbit is independent of the mass of the satellite.
+       <sup class="reference" id="cite_ref-18">
+        <a href="#cite_note-18">
+         [c]
+        </a>
+       </sup>
+       Calculating the geostationary altitude, therefore, simplifies down to calculating the altitude where the magnitudes of the
+       <a class="mw-redirect" href="/wiki/Centripetal_acceleration" title="Centripetal acceleration">
+        centripetal acceleration
+       </a>
+       required for orbital motion and the
+       <a href="/wiki/Gravitational_acceleration" title="Gravitational acceleration">
+        gravitational acceleration
+       </a>
+       provided by Earth's gravity are equal.
+      </p>
+      <p>
+       The centripetal acceleration's magnitude is:
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle |\mathbf {a} _{\text{c}}|=\omega ^{2}r,}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mrow class="MJX-TeXAtom-ORD">
+               <mo stretchy="false">
+                |
+               </mo>
+              </mrow>
+              <msub>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi mathvariant="bold">
+                 a
+                </mi>
+               </mrow>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mtext>
+                 c
+                </mtext>
+               </mrow>
+              </msub>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mo stretchy="false">
+                |
+               </mo>
+              </mrow>
+              <mo>
+               =
+              </mo>
+              <msup>
+               <mi>
+                ω
+                <!-- ω -->
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mn>
+                 2
+                </mn>
+               </mrow>
+              </msup>
+              <mi>
+               r
+              </mi>
+              <mo>
+               ,
+              </mo>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle |\mathbf {a} _{\text{c}}|=\omega ^{2}r,}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="{\displaystyle |\mathbf {a} _{\text{c}}|=\omega ^{2}r,}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ae83698f81ed00bd2473915f19c68876dd0d988e" style="vertical-align: -0.838ex; width:10.849ex; height:3.176ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       where
+       <i>
+        ω
+       </i>
+       is the
+       <a class="mw-redirect" href="/wiki/Angular_speed" title="Angular speed">
+        angular speed
+       </a>
+       , and
+       <i>
+        r
+       </i>
+       is the orbital radius as measured from the Earth's center of mass.
+      </p>
+      <p>
+       The magnitude of the gravitational acceleration is:
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle |\mathbf {g} |={\frac {GM}{r^{2}}},}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mrow class="MJX-TeXAtom-ORD">
+               <mo stretchy="false">
+                |
+               </mo>
+              </mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi mathvariant="bold">
+                g
+               </mi>
+              </mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mo stretchy="false">
+                |
+               </mo>
+              </mrow>
+              <mo>
+               =
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mfrac>
+                <mrow>
+                 <mi>
+                  G
+                 </mi>
+                 <mi>
+                  M
+                 </mi>
+                </mrow>
+                <msup>
+                 <mi>
+                  r
+                 </mi>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mn>
+                   2
+                  </mn>
+                 </mrow>
+                </msup>
+               </mfrac>
+              </mrow>
+              <mo>
+               ,
+              </mo>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle |\mathbf {g} |={\frac {GM}{r^{2}}},}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="{\displaystyle |\mathbf {g} |={\frac {GM}{r^{2}}},}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0bda25724312466aa911eb6d649a70f303ad0b2d" style="vertical-align: -2.171ex; width:11.481ex; height:5.676ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       where
+       <i>
+        M
+       </i>
+       is the mass of Earth,
+       <span class="nowrap">
+        5.9736 × 10
+        <sup>
+         24
+        </sup>
+        kg
+       </span>
+       , and
+       <i>
+        G
+       </i>
+       is the
+       <a href="/wiki/Gravitational_constant" title="Gravitational constant">
+        gravitational constant
+       </a>
+       ,
+       <span class="nowrap">
+        (6.67428 ± 0.00067) × 10
+        <sup>
+         −11
+        </sup>
+        m
+        <sup>
+         3
+        </sup>
+        kg
+        <sup>
+         −1
+        </sup>
+        s
+        <sup>
+         −2
+        </sup>
+       </span>
+       .
+      </p>
+      <p>
+       Equating the two accelerations gives:
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle r^{3}={\frac {GM}{\omega ^{2}}}\to r={\sqrt[{3}]{\frac {GM}{\omega ^{2}}}}.}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <msup>
+               <mi>
+                r
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mn>
+                 3
+                </mn>
+               </mrow>
+              </msup>
+              <mo>
+               =
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mfrac>
+                <mrow>
+                 <mi>
+                  G
+                 </mi>
+                 <mi>
+                  M
+                 </mi>
+                </mrow>
+                <msup>
+                 <mi>
+                  ω
+                  <!-- ω -->
+                 </mi>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mn>
+                   2
+                  </mn>
+                 </mrow>
+                </msup>
+               </mfrac>
+              </mrow>
+              <mo stretchy="false">
+               →
+               <!-- → -->
+              </mo>
+              <mi>
+               r
+              </mi>
+              <mo>
+               =
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mroot>
+                <mfrac>
+                 <mrow>
+                  <mi>
+                   G
+                  </mi>
+                  <mi>
+                   M
+                  </mi>
+                 </mrow>
+                 <msup>
+                  <mi>
+                   ω
+                   <!-- ω -->
+                  </mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mn>
+                    2
+                   </mn>
+                  </mrow>
+                 </msup>
+                </mfrac>
+                <mrow class="MJX-TeXAtom-ORD">
+                 <mn>
+                  3
+                 </mn>
+                </mrow>
+               </mroot>
+              </mrow>
+              <mo>
+               .
+              </mo>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle r^{3}={\frac {GM}{\omega ^{2}}}\to r={\sqrt[{3}]{\frac {GM}{\omega ^{2}}}}.}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="{\displaystyle r^{3}={\frac {GM}{\omega ^{2}}}\to r={\sqrt[{3}]{\frac {GM}{\omega ^{2}}}}.}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a0eb8e41e53da87aa60fdac8bd788776d9695b09" style="vertical-align: -2.171ex; width:26.143ex; height:6.343ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       The product
+       <i>
+        GM
+       </i>
+       is known with much greater precision than either factor alone; it is known as the
+       <a class="mw-redirect" href="/wiki/Geocentric_gravitational_constant" title="Geocentric gravitational constant">
+        geocentric gravitational constant
+       </a>
+       <i>
+        μ
+       </i>
+       =
+       <span class="nowrap">
+        398,600.4418 ± 0.0008 km
+        <sup>
+         3
+        </sup>
+        s
+        <sup>
+         −2
+        </sup>
+       </span>
+       . Hence
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle r={\sqrt[{3}]{\frac {\mu }{\omega ^{2}}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mi>
+               r
+              </mi>
+              <mo>
+               =
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mroot>
+                <mfrac>
+                 <mi>
+                  μ
+                  <!-- μ -->
+                 </mi>
+                 <msup>
+                  <mi>
+                   ω
+                   <!-- ω -->
+                  </mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mn>
+                    2
+                   </mn>
+                  </mrow>
+                 </msup>
+                </mfrac>
+                <mrow class="MJX-TeXAtom-ORD">
+                 <mn>
+                  3
+                 </mn>
+                </mrow>
+               </mroot>
+              </mrow>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle r={\sqrt[{3}]{\frac {\mu }{\omega ^{2}}}}}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="r = \sqrt[3]{\frac\mu{\omega^2}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/86fc9c7797f74da609ad17740a92d557e33af69e" style="vertical-align: -2.671ex; width:9.807ex; height:6.176ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       The angular speed
+       <i>
+        ω
+       </i>
+       is found by dividing the angle travelled in one revolution (360° = 2π
+       <a href="/wiki/Radian" title="Radian">
+        rad
+       </a>
+       ) by the orbital period (the time it takes to make one full revolution). In the case of a geostationary orbit, the orbital period is one
+       <a class="mw-redirect" href="/wiki/Sidereal_day" title="Sidereal day">
+        sidereal day
+       </a>
+       , or
+       <span class="nowrap">
+        <span class="sortkey" style="display:none">
+         7004861640905400000♠
+        </span>
+        86
+        <span style="margin-left:.25em;">
+         164
+        </span>
+        .090
+        <span style="margin-left:.25em;">
+         54
+        </span>
+        s
+       </span>
+       ).
+       <sup class="reference" id="cite_ref-19">
+        <a href="#cite_note-19">
+         [16]
+        </a>
+       </sup>
+       This gives
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle \omega \approx {\frac {2\pi ~{\text{rad}}}{86\,164~{\text{s}}}}\approx 7.2921\times 10^{-5}~{\text{rad/s}}.}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mi>
+               ω
+               <!-- ω -->
+              </mi>
+              <mo>
+               ≈
+               <!-- ≈ -->
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mfrac>
+                <mrow>
+                 <mn>
+                  2
+                 </mn>
+                 <mi>
+                  π
+                  <!-- π -->
+                 </mi>
+                 <mtext>
+                 </mtext>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mtext>
+                   rad
+                  </mtext>
+                 </mrow>
+                </mrow>
+                <mrow>
+                 <mn>
+                  86
+                 </mn>
+                 <mspace width="thinmathspace">
+                 </mspace>
+                 <mn>
+                  164
+                 </mn>
+                 <mtext>
+                 </mtext>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mtext>
+                   s
+                  </mtext>
+                 </mrow>
+                </mrow>
+               </mfrac>
+              </mrow>
+              <mo>
+               ≈
+               <!-- ≈ -->
+              </mo>
+              <mn>
+               7.2921
+              </mn>
+              <mo>
+               ×
+               <!-- × -->
+              </mo>
+              <msup>
+               <mn>
+                10
+               </mn>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mo>
+                 −
+                 <!-- − -->
+                </mo>
+                <mn>
+                 5
+                </mn>
+               </mrow>
+              </msup>
+              <mtext>
+              </mtext>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mtext>
+                rad/s
+               </mtext>
+              </mrow>
+              <mo>
+               .
+              </mo>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle \omega \approx {\frac {2\pi ~{\text{rad}}}{86\,164~{\text{s}}}}\approx 7.2921\times 10^{-5}~{\text{rad/s}}.}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="{\displaystyle \omega \approx {\frac {2\pi ~{\text{rad}}}{86\,164~{\text{s}}}}\approx 7.2921\times 10^{-5}~{\text{rad/s}}.}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7f9815750c662380d386a0ebc2430fbc1bf905b2" style="vertical-align: -2.005ex; width:36.805ex; height:5.509ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       The resulting orbital radius is 42,164 kilometres (26,199 mi). Subtracting the
+       <a href="/wiki/Earth_radius" title="Earth radius">
+        Earth's equatorial radius
+       </a>
+       , 6,378 kilometres (3,963 mi), gives the altitude of
+       <b>
+        35,786 kilometres (22,236 mi)
+       </b>
+       .
+      </p>
+      <p>
+       Orbital speed is calculated by multiplying the angular speed by the orbital radius:
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle v=\omega r\approx 3.0746~{\text{km/s}}\approx 11\,068~{\text{km/h}}\approx 6877.8~{\text{mph}}.}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mi>
+               v
+              </mi>
+              <mo>
+               =
+              </mo>
+              <mi>
+               ω
+               <!-- ω -->
+              </mi>
+              <mi>
+               r
+              </mi>
+              <mo>
+               ≈
+               <!-- ≈ -->
+              </mo>
+              <mn>
+               3.0746
+              </mn>
+              <mtext>
+              </mtext>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mtext>
+                km/s
+               </mtext>
+              </mrow>
+              <mo>
+               ≈
+               <!-- ≈ -->
+              </mo>
+              <mn>
+               11
+              </mn>
+              <mspace width="thinmathspace">
+              </mspace>
+              <mn>
+               068
+              </mn>
+              <mtext>
+              </mtext>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mtext>
+                km/h
+               </mtext>
+              </mrow>
+              <mo>
+               ≈
+               <!-- ≈ -->
+              </mo>
+              <mn>
+               6877.8
+              </mn>
+              <mtext>
+              </mtext>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mtext>
+                mph
+               </mtext>
+              </mrow>
+              <mo>
+               .
+              </mo>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle v=\omega r\approx 3.0746~{\text{km/s}}\approx 11\,068~{\text{km/h}}\approx 6877.8~{\text{mph}}.}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="{\displaystyle v=\omega r\approx 3.0746~{\text{km/s}}\approx 11\,068~{\text{km/h}}\approx 6877.8~{\text{mph}}.}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d7c5b32d89413405d3cbc31db628b7a811b95f0f" style="vertical-align: -0.838ex; width:52.904ex; height:2.843ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       By the same formula, we can find the geostationary-type orbit of an object in relation to
+       <a href="/wiki/Mars" title="Mars">
+        Mars
+       </a>
+       (this type of orbit above is referred to as an
+       <a href="/wiki/Areostationary_orbit" title="Areostationary orbit">
+        areostationary orbit
+       </a>
+       if it is above Mars). The
+       <a class="mw-redirect" href="/wiki/Geocentric_gravitational_constant" title="Geocentric gravitational constant">
+        geocentric gravitational constant
+       </a>
+       <i>
+        GM
+       </i>
+       (which is
+       <i>
+        μ
+       </i>
+       ) for Mars has the value of 42,828 km
+       <sup>
+        3
+       </sup>
+       s
+       <sup>
+        −2
+       </sup>
+       , and the known
+       <a class="mw-redirect" href="/wiki/Rotational_period" title="Rotational period">
+        rotational period
+       </a>
+       (
+       <i>
+        T
+       </i>
+       ) of Mars is 88,642.66 seconds. Since
+       <i>
+        ω
+       </i>
+       = 2
+       <span class="texhtml">
+        π
+       </span>
+       /
+       <i>
+        T
+       </i>
+       , using the formula above, the value of
+       <i>
+        ω
+       </i>
+       is found to be approx 7.088218×10
+       <sup>
+        −5
+       </sup>
+       s
+       <sup>
+        −1
+       </sup>
+       . Thus
+       <i>
+        r
+       </i>
+       <sup>
+        3
+       </sup>
+       = 8.5243×10
+       <sup>
+        12
+       </sup>
+       km
+       <sup>
+        3
+       </sup>
+       , whose cube root is 20,427 km; subtracting the equatorial radius of Mars (3396.2 km), we have 17,031 km.
+      </p>
+      <h2>
+       <span class="mw-headline" id="See_also">
+        See also
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Geostationary_orbit&amp;action=edit&amp;section=8" title="Edit section: See also">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+       <ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+        <li style="display:table-row">
+         <span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center">
+          <img alt="" class="noviewer" data-file-height="128" data-file-width="128" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/RocketSunIcon.svg/28px-RocketSunIcon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/RocketSunIcon.svg/42px-RocketSunIcon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d6/RocketSunIcon.svg/56px-RocketSunIcon.svg.png 2x" width="28"/>
+         </span>
+         <span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle">
+          <a href="/wiki/Portal:Spaceflight" title="Portal:Spaceflight">
+           Spaceflight portal
+          </a>
+         </span>
+        </li>
+       </ul>
+      </div>
+      <ul>
+       <li>
+        <a href="/wiki/Graveyard_orbit" title="Graveyard orbit">
+         Graveyard orbit
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/List_of_orbits" title="List of orbits">
+         List of orbits
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/List_of_satellites_in_geosynchronous_orbit" title="List of satellites in geosynchronous orbit">
+         List of satellites in geosynchronous orbit
+        </a>
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/Orbital_stationkeeping" title="Orbital stationkeeping">
+         Orbital stationkeeping
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Space_elevator" title="Space elevator">
+         Space elevator
+        </a>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="Notes">
+        Notes
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Geostationary_orbit&amp;action=edit&amp;section=9" title="Edit section: Notes">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="reflist" style="list-style-type: lower-alpha;">
+       <div class="mw-references-wrap">
+        <ol class="references">
+         <li id="cite_note-15">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-15">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           Orbital periods and speeds are calculated using the relations 4π²
+           <i>
+            R
+           </i>
+           ³ =
+           <i>
+            T
+           </i>
+           ²
+           <i>
+            GM
+           </i>
+           and
+           <i>
+            V
+           </i>
+           ²
+           <i>
+            R
+           </i>
+           =
+           <i>
+            GM
+           </i>
+           , where
+           <i>
+            R
+           </i>
+           = radius of orbit in metres,
+           <i>
+            T
+           </i>
+           = orbital period in seconds,
+           <i>
+            V
+           </i>
+           = orbital speed in m/s,
+           <i>
+            G
+           </i>
+           = gravitational constant ≈ 6.673
+           <span style="margin:0 .15em 0 .25em">
+            ×
+           </span>
+           10
+           <sup>
+            −
+            <span style="white-space:nowrap">
+             11
+            </span>
+           </sup>
+           Nm²/kg²,
+           <i>
+            M
+           </i>
+           = mass of Earth ≈ 5.98
+           <span style="margin:0 .15em 0 .25em">
+            ×
+           </span>
+           10
+           <sup>
+            <span style="white-space:nowrap">
+             24
+            </span>
+           </sup>
+           kg.
+          </span>
+         </li>
+         <li id="cite_note-16">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-16">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           Approximately 8.6 times when the moon is nearest (363 104 km ÷ 42 164 km) to 9.6 times when the moon is farthest (405 696 km ÷ 42 164 km).
+          </span>
+         </li>
+         <li id="cite_note-18">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-18">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           In the
+           <a class="mw-redirect" href="/wiki/Geocentric_gravitational_constant#Small_body_orbiting_a_central_body" title="Geocentric gravitational constant">
+            small-body approximation
+           </a>
+           , the geostationary orbit is independent of the satellite's mass. For satellites having a mass less than
+           <i>
+            M
+           </i>
+           <i>
+            μ
+            <sub>
+             err
+            </sub>
+           </i>
+           /
+           <i>
+            μ
+           </i>
+           ≈ 10
+           <sup>
+            15
+           </sup>
+           kg, that is, over a billion times that of the
+           <a class="mw-redirect" href="/wiki/ISS" title="ISS">
+            ISS
+           </a>
+           , the error due to the approximation is smaller than the error on the universal
+           <a class="mw-redirect" href="/wiki/Geocentric_gravitational_constant" title="Geocentric gravitational constant">
+            geocentric gravitational constant
+           </a>
+           (and thus negligible).
+          </span>
+         </li>
+        </ol>
+       </div>
+      </div>
+      <h2>
+       <span class="mw-headline" id="References">
+        References
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Geostationary_orbit&amp;action=edit&amp;section=10" title="Edit section: References">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="reflist columns references-column-width" style="-moz-column-width: 35em; -webkit-column-width: 35em; column-width: 35em; list-style-type: decimal;">
+       <ol class="references">
+        <li id="cite_note-1">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-1">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation web">
+           <a class="external text" href="https://web.archive.org/web/20131004215844/http://www.arianespace.com/launch-services-ariane5/Ariane5_users_manual_Issue5_July2011.pdf" rel="nofollow">
+            "Ariane 5 User's Manual Issue 5 Revision 1"
+           </a>
+           <span style="font-size:85%;">
+            (PDF)
+           </span>
+           .
+           <i>
+            arianespace
+           </i>
+           . July 2011. Archived from
+           <a class="external text" href="http://www.arianespace.com/launch-services-ariane5/Ariane5_users_manual_Issue5_July2011.pdf" rel="nofollow">
+            the original
+           </a>
+           <span style="font-size:85%;">
+            (PDF)
+           </span>
+           on 4 October 2013
+           <span class="reference-accessdate">
+            . Retrieved
+            <span class="nowrap">
+             28 July
+            </span>
+            2013
+           </span>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=arianespace&amp;rft.atitle=Ariane+5+User%27s+Manual+Issue+5+Revision+1&amp;rft.date=2011-07&amp;rft_id=http%3A%2F%2Fwww.arianespace.com%2Flaunch-services-ariane5%2FAriane5_users_manual_Issue5_July2011.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGeostationary+orbit">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-VE-2">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-VE_2-0">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          "(Korvus's message is sent) to a small, squat building at the outskirts of Northern Landing. It was hurled at the sky. … It … arrived at the relay station tired and worn, … when it reached a space station only five hundred miles above the city of North Landing."
+          <cite class="citation book">
+           Smith, George O. (1976).
+           <i>
+            The Complete Venus Equilateral
+           </i>
+           . New York:
+           <a href="/wiki/Ballantine_Books" title="Ballantine Books">
+            Ballantine Books
+           </a>
+           . pp. 3–4.
+           <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+            ISBN
+           </a>
+           <a href="/wiki/Special:BookSources/978-0-345-28953-7" title="Special:BookSources/978-0-345-28953-7">
+            978-0-345-28953-7
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Complete+Venus+Equilateral&amp;rft.place=New+York&amp;rft.pages=3-4&amp;rft.pub=Ballantine+Books&amp;rft.date=1976&amp;rft.isbn=978-0-345-28953-7&amp;rft.aulast=Smith&amp;rft.aufirst=George+O.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGeostationary+orbit">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-VEintro-3">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-VEintro_3-0">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          "It is therefore quite possible that these stories influenced me subconsciously when … I worked out the principles of synchronous communications satellistes …", op. cit, p. x
+         </span>
+        </li>
+        <li id="cite_note-4">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-4">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation web">
+           <a class="external text" href="https://web.archive.org/web/20090318000548/http://www.clarkefoundation.org/docs/ClarkeWirelessWorldArticle.pdf" rel="nofollow">
+            "Extra-Terrestrial Relays — Can Rocket Stations Give Worldwide Radio Coverage?"
+           </a>
+           <span style="font-size:85%;">
+            (PDF)
+           </span>
+           . Arthur C. Clarke. October 1945. Archived from
+           <a class="external text" href="http://www.clarkefoundation.org/docs/ClarkeWirelessWorldArticle.pdf" rel="nofollow">
+            the original
+           </a>
+           <span style="font-size:85%;">
+            (PDF)
+           </span>
+           on 18 March 2009
+           <span class="reference-accessdate">
+            . Retrieved
+            <span class="nowrap">
+             4 March
+            </span>
+            2009
+           </span>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Extra-Terrestrial+Relays+%E2%80%94+Can+Rocket+Stations+Give+Worldwide+Radio+Coverage%3F&amp;rft.pub=Arthur+C.+Clarke&amp;rft.date=1945-10&amp;rft_id=http%3A%2F%2Fwww.clarkefoundation.org%2Fdocs%2FClarkeWirelessWorldArticle.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGeostationary+orbit">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-5">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-5">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation web">
+           <a class="external text" href="http://www2.jpl.nasa.gov/basics/bsf5-1.php" rel="nofollow">
+            "Basics of Space Flight Section 1 Part 5, Geostationary Orbits"
+           </a>
+           .
+           <a href="/wiki/NASA" title="NASA">
+            NASA
+           </a>
+           <span class="reference-accessdate">
+            . Retrieved
+            <span class="nowrap">
+             21 June
+            </span>
+            2009
+           </span>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Basics+of+Space+Flight+Section+1+Part+5%2C+Geostationary+Orbits&amp;rft.pub=NASA&amp;rft_id=http%3A%2F%2Fwww2.jpl.nasa.gov%2Fbasics%2Fbsf5-1.php&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGeostationary+orbit">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-6">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-6">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <span class="citation patent" id="CITEREFForward2018">
+           <a class="external text" href="https://worldwide.espacenet.com/textdoc?DB=EPODOC&amp;IDX=US5183225" rel="nofollow">
+            US patent 5183225
+           </a>
+           , Forward, Robert, "STATITE: SPACECRAFT THAT UTILIZES SIGHT PRESSURE AND METHOD OF USE", published 1993-02-02
+          </span>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Apatent&amp;rft.number=5183225&amp;rft.cc=US&amp;rft.title=STATITE%3A+SPACECRAFT+THAT+UTILIZES+SIGHT+PRESSURE+AND+METHOD+OF+USE&amp;rft.inventor=Forward&amp;rft.pubdate=1993-02-02&amp;rft.prioritydate=1989-01-09">
+           <span style="display: none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-7">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-7">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <a class="external text" href="http://www.isoc.org/inet96/proceedings/g1/g1_3.htm" rel="nofollow">
+           The Teledesic Network: Using Low-Earth-Orbit Satellites to Provide Broadband, Wireless, Real-Time Internet Access Worldwide
+          </a>
+          .
+         </span>
+        </li>
+        <li id="cite_note-8">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-8">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <a class="external text" href="http://www.ngs.noaa.gov/CORS/Articles/SolerEisemannJSE.pdf" rel="nofollow">
+           p. 123
+          </a>
+          .
+         </span>
+        </li>
+        <li id="cite_note-9">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-9">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <a class="external autonumber" href="http://www.itu.int/ITU-R/conferences/seminars/mexico-2001/docs/06-procedure-mechanism.doc" rel="nofollow">
+           [1]
+          </a>
+          <a class="external text" href="https://web.archive.org/web/20090327092830/http://www.itu.int/ITU-R/conferences/seminars/mexico-2001/docs/06-procedure-mechanism.doc" rel="nofollow">
+           Archived
+          </a>
+          March 27, 2009, at the
+          <a href="/wiki/Wayback_Machine" title="Wayback Machine">
+           Wayback Machine
+          </a>
+          .
+         </span>
+        </li>
+        <li id="cite_note-10">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-10">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <a class="external text" href="http://www.itu.int/ITU-R/go/space/en" rel="nofollow">
+           ITU Space Services Division
+          </a>
+          .
+         </span>
+        </li>
+        <li id="cite_note-11">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-11">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          Oduntan, Gbenga.
+          <cite class="citation web">
+           <a class="external text" href="http://www.herts.ac.uk/__data/assets/pdf_file/0010/38629/HLJ_V1I2_Oduntan.pdf" rel="nofollow">
+            "The Never Ending Dispute: Legal Theories on the Spatial Demarcation Boundary Plane between Airspace and Outer Space"
+           </a>
+           <span style="font-size:85%;">
+            (PDF)
+           </span>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Never+Ending+Dispute%3A+Legal+Theories+on+the+Spatial+Demarcation+Boundary+Plane+between+Airspace+and+Outer+Space&amp;rft_id=http%3A%2F%2Fwww.herts.ac.uk%2F__data%2Fassets%2Fpdf_file%2F0010%2F38629%2FHLJ_V1I2_Oduntan.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGeostationary+orbit">
+           <span style="display:none;">
+           </span>
+          </span>
+          Hertfordshire Law Journal, 1(2), p. 75.
+         </span>
+        </li>
+        <li id="cite_note-Anderson2015-12">
+         <span class="mw-cite-backlink">
+          ^
+          <a href="#cite_ref-Anderson2015_12-0">
+           <sup>
+            <i>
+             <b>
+              a
+             </b>
+            </i>
+           </sup>
+          </a>
+          <a href="#cite_ref-Anderson2015_12-1">
+           <sup>
+            <i>
+             <b>
+              b
+             </b>
+            </i>
+           </sup>
+          </a>
+         </span>
+         <span class="reference-text">
+          <a class="external text" href="http://hanspeterschaub.info/Papers/Anderson2015c.pdf" rel="nofollow">
+           OPERATIONAL CONSIDERATIONS OF GEO DEBRIS SYNCHRONIZATION DYNAMICS. Anderson
+          </a>
+         </span>
+        </li>
+        <li id="cite_note-13">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-13">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          Shi Hu-Li, Han Yan-Ben, Ma Li-Hua, Pei Jun, Yin Zhi-Qiang and Ji Hai-Fu (2010). Beyond Life-Cycle Utilization of Geostationary Communication Satellites in End-of-Life, Satellite Communications, Nazzareno Diodato (Ed.),
+          <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+           ISBN
+          </a>
+          <a href="/wiki/Special:BookSources/978-953-307-135-0" title="Special:BookSources/978-953-307-135-0">
+           978-953-307-135-0
+          </a>
+          , InTech,
+          <cite class="citation web">
+           <a class="external text" href="http://www.intechopen.com/articles/show/title/multi-life-cycles-utilization-of-retired-satellites" rel="nofollow">
+            "Beyond Life-Cycle Utilization of Geostationary Communication Satellites in End-of-Life"
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Beyond+Life-Cycle+Utilization+of+Geostationary+Communication+Satellites+in+End-of-Life&amp;rft_id=http%3A%2F%2Fwww.intechopen.com%2Farticles%2Fshow%2Ftitle%2Fmulti-life-cycles-utilization-of-retired-satellites&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGeostationary+orbit">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-14">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-14">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation web">
+           <a class="external text" href="http://www.satsig.net/satellite/inclined-orbit-operation.htm" rel="nofollow">
+            "Inclined orbit operation"
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Inclined+orbit+operation&amp;rft_id=http%3A%2F%2Fwww.satsig.net%2Fsatellite%2Finclined-orbit-operation.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGeostationary+orbit">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-17">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-17">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation web">
+           <a class="external text" href="http://www.physicsclassroom.com/class/newtlaws/u2l3a.cfm" rel="nofollow">
+            "Newton's Second Law"
+           </a>
+           .
+           <i>
+            The Physics Classroom
+           </i>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Physics+Classroom&amp;rft.atitle=Newton%27s+Second+Law&amp;rft_id=http%3A%2F%2Fwww.physicsclassroom.com%2Fclass%2Fnewtlaws%2Fu2l3a.cfm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGeostationary+orbit">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-19">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-19">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          Edited by P. Kenneth Seidelmann, "Explanatory Supplement to the Astronomical Almanac", University Science Books,1992, p. 700.
+         </span>
+        </li>
+       </ol>
+      </div>
+      <p>
+       <img alt="" data-file-height="196" data-file-width="196" height="12" src="//upload.wikimedia.org/wikipedia/en/thumb/6/62/PD-icon.svg/12px-PD-icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/6/62/PD-icon.svg/18px-PD-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/6/62/PD-icon.svg/24px-PD-icon.svg.png 2x" width="12"/>
+       This article incorporates
+       <a href="/wiki/Copyright_status_of_work_by_the_U.S._government" title="Copyright status of work by the U.S. government">
+        public domain material
+       </a>
+       from the
+       <a href="/wiki/General_Services_Administration" title="General Services Administration">
+        General Services Administration
+       </a>
+       document
+       <a class="external text" href="http://www.its.bldrdoc.gov/fs-1037/fs-1037c.htm" rel="nofollow">
+        "Federal Standard 1037C"
+       </a>
+       (in support of
+       <a href="/wiki/MIL-STD-188" title="MIL-STD-188">
+        MIL-STD-188
+       </a>
+       ).
+      </p>
+      <h2>
+       <span class="mw-headline" id="External_links">
+        External links
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Geostationary_orbit&amp;action=edit&amp;section=11" title="Edit section: External links">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a class="external text" href="http://www.braeunig.us/space/orbmech.htm" rel="nofollow">
+         Orbital Mechanics
+        </a>
+        (Rocket and Space Technology)
+       </li>
+       <li>
+        <a class="external text" href="http://www.satsig.net/sslist.htm" rel="nofollow">
+         List of satellites in geostationary orbit
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="https://web.archive.org/web/20060626002953/http://www.golombek.com/sat/" rel="nofollow">
+         Clarke Belt Snapshot Calculator
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="https://web.archive.org/web/20130904234835/http://science1.nasa.gov/realtime/jtrack/3d/JTrack3D.html/" rel="nofollow">
+         3D Real Time Satellite Tracking
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://www.radio-electronics.com/info/satellite/satellite-orbits/geostationary-earth-orbit.php" rel="nofollow">
+         Geostationary satellite orbit overview
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://www.p-l-a.net" rel="nofollow">
+         Daily animation of the Earth, made by geostationary satellite 'Electro L' photos
+        </a>
+        Satellite shoots 48 images of the planet every day.
+       </li>
+      </ul>
+      <div aria-labelledby="Gravitational_orbits" class="navbox" role="navigation" style="padding:3px">
+       <table class="nowraplinks hlist collapsible expanded navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tr>
+         <th class="navbox-title" colspan="2" scope="col">
+          <div class="plainlinks hlist navbar mini">
+           <ul>
+            <li class="nv-view">
+             <a href="/wiki/Template:Orbits" title="Template:Orbits">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">
+               v
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-talk">
+             <a href="/wiki/Template_talk:Orbits" title="Template talk:Orbits">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">
+               t
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-edit">
+             <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Orbits&amp;action=edit">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">
+               e
+              </abbr>
+             </a>
+            </li>
+           </ul>
+          </div>
+          <div id="Gravitational_orbits" style="font-size:114%;margin:0 4em">
+           Gravitational
+           <a href="/wiki/Orbit" title="Orbit">
+            orbits
+           </a>
+          </div>
+         </th>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          <a href="/wiki/Orbit" title="Orbit">
+           Types
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+          </div>
+          <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+           <tr>
+            <th class="navbox-group" scope="row" style="width:9em">
+             General
+            </th>
+            <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <a href="/wiki/Box_orbit" title="Box orbit">
+                 Box
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Parabolic_trajectory" title="Parabolic trajectory">
+                 Capture
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Circular_orbit" title="Circular orbit">
+                 Circular
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Elliptic_orbit" title="Elliptic orbit">
+                 Elliptical
+                </a>
+                /
+                <a href="/wiki/Highly_elliptical_orbit" title="Highly elliptical orbit">
+                 Highly elliptical
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Parabolic_trajectory" title="Parabolic trajectory">
+                 Escape
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Graveyard_orbit" title="Graveyard orbit">
+                 Graveyard
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Horseshoe_orbit" title="Horseshoe orbit">
+                 Horseshoe
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Hyperbolic_trajectory" title="Hyperbolic trajectory">
+                 Hyperbolic trajectory
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Inclined_orbit" title="Inclined orbit">
+                 Inclined
+                </a>
+                /
+                <a href="/wiki/Non-inclined_orbit" title="Non-inclined orbit">
+                 Non-inclined
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Osculating_orbit" title="Osculating orbit">
+                 Osculating
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Parabolic_trajectory" title="Parabolic trajectory">
+                 Parabolic trajectory
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Parking_orbit" title="Parking orbit">
+                 Parking
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Synchronous_orbit" title="Synchronous orbit">
+                 Synchronous
+                </a>
+                <ul>
+                 <li>
+                  <a href="/wiki/Semi-synchronous_orbit" title="Semi-synchronous orbit">
+                   semi
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/wiki/Subsynchronous_orbit" title="Subsynchronous orbit">
+                   sub
+                  </a>
+                 </li>
+                </ul>
+               </li>
+               <li>
+                <a href="/wiki/Hohmann_transfer_orbit" title="Hohmann transfer orbit">
+                 Transfer orbit
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+           <tr>
+            <th class="navbox-group" scope="row" style="width:9em">
+             <a href="/wiki/Geocentric_orbit" title="Geocentric orbit">
+              Geocentric
+             </a>
+            </th>
+            <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <a href="/wiki/Geosynchronous_orbit" title="Geosynchronous orbit">
+                 Geosynchronous
+                </a>
+               </li>
+               <li>
+                <a class="mw-selflink selflink">
+                 Geostationary
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Sun-synchronous_orbit" title="Sun-synchronous orbit">
+                 Sun-synchronous
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Low_Earth_orbit" title="Low Earth orbit">
+                 Low Earth
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Medium_Earth_orbit" title="Medium Earth orbit">
+                 Medium Earth
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/High_Earth_orbit" title="High Earth orbit">
+                 High Earth
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Molniya_orbit" title="Molniya orbit">
+                 Molniya
+                </a>
+               </li>
+               <li>
+                <a class="mw-redirect" href="/wiki/Near_equatorial_orbit" title="Near equatorial orbit">
+                 Near-equatorial
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Orbit_of_the_Moon" title="Orbit of the Moon">
+                 Orbit of the Moon
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Polar_orbit" title="Polar orbit">
+                 Polar
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Tundra_orbit" title="Tundra orbit">
+                 Tundra
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+           <tr>
+            <th class="navbox-group" scope="row" style="width:9em">
+             About other points
+            </th>
+            <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <a href="/wiki/Areosynchronous_orbit" title="Areosynchronous orbit">
+                 Areosynchronous
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Areostationary_orbit" title="Areostationary orbit">
+                 Areostationary
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Halo_orbit" title="Halo orbit">
+                 Halo
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Lissajous_orbit" title="Lissajous orbit">
+                 Lissajous
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Lunar_orbit" title="Lunar orbit">
+                 Lunar
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Heliocentric_orbit" title="Heliocentric orbit">
+                 Heliocentric
+                </a>
+               </li>
+               <li>
+                <a class="mw-redirect" href="/wiki/Heliosynchronous_orbit" title="Heliosynchronous orbit">
+                 Heliosynchronous
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+          </table>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          <a href="/wiki/Orbital_elements" title="Orbital elements">
+           Parameters
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+          </div>
+          <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+           <tr>
+            <th class="navbox-group" scope="row" style="width:9em">
+             <div class="hlist hlist-separated">
+              <ul>
+               <li>
+                Shape
+               </li>
+               <li>
+                Size
+               </li>
+              </ul>
+             </div>
+            </th>
+            <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <span class="texhtml mvar" style="font-style:italic;">
+                 e
+                </span>
+                <a href="/wiki/Orbital_eccentricity" title="Orbital eccentricity">
+                 Eccentricity
+                </a>
+               </li>
+               <li>
+                <span class="texhtml mvar" style="font-style:italic;">
+                 a
+                </span>
+                <a class="mw-redirect" href="/wiki/Semi-major_axis" title="Semi-major axis">
+                 Semi-major axis
+                </a>
+               </li>
+               <li>
+                <span class="texhtml mvar" style="font-style:italic;">
+                 b
+                </span>
+                <a class="mw-redirect" href="/wiki/Semi-minor_axis" title="Semi-minor axis">
+                 Semi-minor axis
+                </a>
+               </li>
+               <li>
+                <span class="texhtml mvar" style="font-style:italic;">
+                 Q
+                </span>
+                ,
+                <span class="texhtml mvar" style="font-style:italic;">
+                 q
+                </span>
+                <a href="/wiki/Apsis" title="Apsis">
+                 Apsides
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+           <tr>
+            <th class="navbox-group" scope="row" style="width:9em">
+             Orientation
+            </th>
+            <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <span class="texhtml mvar" style="font-style:italic;">
+                 i
+                </span>
+                <a class="mw-redirect" href="/wiki/Inclination" title="Inclination">
+                 Inclination
+                </a>
+               </li>
+               <li>
+                <span class="texhtml mvar" style="font-style:italic;">
+                 Ω
+                </span>
+                <a href="/wiki/Longitude_of_the_ascending_node" title="Longitude of the ascending node">
+                 Longitude of the ascending node
+                </a>
+               </li>
+               <li>
+                <span class="texhtml mvar" style="font-style:italic;">
+                 ω
+                </span>
+                <a href="/wiki/Argument_of_periapsis" title="Argument of periapsis">
+                 Argument of periapsis
+                </a>
+               </li>
+               <li>
+                <span class="texhtml mvar" style="font-style:italic;">
+                 ϖ
+                </span>
+                <a href="/wiki/Longitude_of_the_periapsis" title="Longitude of the periapsis">
+                 Longitude of the periapsis
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+           <tr>
+            <th class="navbox-group" scope="row" style="width:9em">
+             Position
+            </th>
+            <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <span class="texhtml mvar" style="font-style:italic;">
+                 M
+                </span>
+                <a href="/wiki/Mean_anomaly" title="Mean anomaly">
+                 Mean anomaly
+                </a>
+               </li>
+               <li>
+                <span class="texhtml mvar" style="font-style:italic;">
+                 ν
+                </span>
+                ,
+                <span class="texhtml mvar" style="font-style:italic;">
+                 θ
+                </span>
+                ,
+                <span class="texhtml mvar" style="font-style:italic;">
+                 f
+                </span>
+                <a href="/wiki/True_anomaly" title="True anomaly">
+                 True anomaly
+                </a>
+               </li>
+               <li>
+                <span class="texhtml mvar" style="font-style:italic;">
+                 E
+                </span>
+                <a href="/wiki/Eccentric_anomaly" title="Eccentric anomaly">
+                 Eccentric anomaly
+                </a>
+               </li>
+               <li>
+                <span class="texhtml mvar" style="font-style:italic;">
+                 L
+                </span>
+                <a href="/wiki/Mean_longitude" title="Mean longitude">
+                 Mean longitude
+                </a>
+               </li>
+               <li>
+                <span class="texhtml mvar" style="font-style:italic;">
+                 l
+                </span>
+                <a href="/wiki/True_longitude" title="True longitude">
+                 True longitude
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+           <tr>
+            <th class="navbox-group" scope="row" style="width:9em">
+             Variation
+            </th>
+            <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <span class="texhtml mvar" style="font-style:italic;">
+                 T
+                </span>
+                <a href="/wiki/Orbital_period" title="Orbital period">
+                 Orbital period
+                </a>
+               </li>
+               <li>
+                <span class="texhtml mvar" style="font-style:italic;">
+                 n
+                </span>
+                <a href="/wiki/Mean_motion" title="Mean motion">
+                 Mean motion
+                </a>
+               </li>
+               <li>
+                <span class="texhtml mvar" style="font-style:italic;">
+                 v
+                </span>
+                <a href="/wiki/Orbital_speed" title="Orbital speed">
+                 Orbital speed
+                </a>
+               </li>
+               <li>
+                <span class="texhtml">
+                 <i>
+                  t
+                 </i>
+                 <sub>
+                  0
+                 </sub>
+                </span>
+                <a href="/wiki/Epoch_(astronomy)" title="Epoch (astronomy)">
+                 Epoch
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+          </table>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          <a href="/wiki/Orbital_maneuver" title="Orbital maneuver">
+           Maneuvers
+          </a>
+         </th>
+         <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Collision_avoidance_(spacecraft)" title="Collision avoidance (spacecraft)">
+              Collision avoidance (spacecraft)
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Delta-v" title="Delta-v">
+              Delta-v
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Delta-v_budget" title="Delta-v budget">
+              Delta-v budget
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Bi-elliptic_transfer" title="Bi-elliptic transfer">
+              Bi-elliptic transfer
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Geostationary_transfer_orbit" title="Geostationary transfer orbit">
+              Geostationary transfer
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Gravity_assist" title="Gravity assist">
+              Gravity assist
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Gravity_turn" title="Gravity turn">
+              Gravity turn
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Hohmann_transfer_orbit" title="Hohmann transfer orbit">
+              Hohmann transfer
+             </a>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/Low_energy_transfer" title="Low energy transfer">
+              Low energy transfer
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Oberth_effect" title="Oberth effect">
+              Oberth effect
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Orbital_inclination_change" title="Orbital inclination change">
+              Inclination change
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Orbit_phasing" title="Orbit phasing">
+              Phasing
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Tsiolkovsky_rocket_equation" title="Tsiolkovsky rocket equation">
+              Rocket equation
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Space_rendezvous" title="Space rendezvous">
+              Rendezvous
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Transposition,_docking,_and_extraction" title="Transposition, docking, and extraction">
+              Transposition, docking, and extraction
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          <a href="/wiki/Orbital_mechanics" title="Orbital mechanics">
+           Orbital mechanics
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Celestial_coordinate_system" title="Celestial coordinate system">
+              Celestial coordinate system
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Characteristic_energy" title="Characteristic energy">
+              Characteristic energy
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Escape_velocity" title="Escape velocity">
+              Escape velocity
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Ephemeris" title="Ephemeris">
+              Ephemeris
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Equatorial_coordinate_system" title="Equatorial coordinate system">
+              Equatorial coordinate system
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Ground_track" title="Ground track">
+              Ground track
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Hill_sphere" title="Hill sphere">
+              Hill sphere
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Interplanetary_Transport_Network" title="Interplanetary Transport Network">
+              Interplanetary Transport Network
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Kepler%27s_laws_of_planetary_motion" title="Kepler's laws of planetary motion">
+              Kepler's laws of planetary motion
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Lagrangian_point" title="Lagrangian point">
+              Lagrangian point
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/N-body_problem" title="N-body problem">
+              <i>
+               n
+              </i>
+              -body problem
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Orbit_equation" title="Orbit equation">
+              Orbit equation
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Orbital_state_vectors" title="Orbital state vectors">
+              Orbital state vectors
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Perturbation_(astronomy)" title="Perturbation (astronomy)">
+              Perturbation
+             </a>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/Retrograde_motion" title="Retrograde motion">
+              Retrograde motion
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Specific_orbital_energy" title="Specific orbital energy">
+              Specific orbital energy
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Specific_relative_angular_momentum" title="Specific relative angular momentum">
+              Specific relative angular momentum
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Two-line_element_set" title="Two-line element set">
+              Two-line elements
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <td class="navbox-abovebelow" colspan="2">
+          <div>
+           <ul>
+            <li>
+             <b>
+              <a href="/wiki/List_of_orbits" title="List of orbits">
+               List of orbits
+              </a>
+             </b>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+       </table>
+      </div>
+      <div aria-labelledby="Arthur_C._Clarke" class="navbox" role="navigation" style="padding:3px">
+       <table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tr>
+         <th class="navbox-title" colspan="2" scope="col">
+          <div class="plainlinks hlist navbar mini">
+           <ul>
+            <li class="nv-view">
+             <a href="/wiki/Template:Arthur_C._Clarke" title="Template:Arthur C. Clarke">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">
+               v
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-talk">
+             <a href="/wiki/Template_talk:Arthur_C._Clarke" title="Template talk:Arthur C. Clarke">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">
+               t
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-edit">
+             <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Arthur_C._Clarke&amp;action=edit">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">
+               e
+              </abbr>
+             </a>
+            </li>
+           </ul>
+          </div>
+          <div id="Arthur_C._Clarke" style="font-size:114%;margin:0 4em">
+           <a href="/wiki/Arthur_C._Clarke" title="Arthur C. Clarke">
+            Arthur C. Clarke
+           </a>
+          </div>
+         </th>
+        </tr>
+        <tr>
+         <td class="navbox-abovebelow" colspan="2">
+          <div>
+           <ul>
+            <li>
+             <a href="/wiki/Arthur_C._Clarke_bibliography" title="Arthur C. Clarke bibliography">
+              Bibliography
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          Novels
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <i>
+              <a href="/wiki/Prelude_to_Space" title="Prelude to Space">
+               Prelude to Space
+              </a>
+             </i>
+            </li>
+            <li>
+             <i>
+              <a href="/wiki/The_Sands_of_Mars" title="The Sands of Mars">
+               The Sands of Mars
+              </a>
+             </i>
+            </li>
+            <li>
+             <i>
+              <a href="/wiki/Islands_in_the_Sky" title="Islands in the Sky">
+               Islands in the Sky
+              </a>
+             </i>
+            </li>
+            <li>
+             <i>
+              <a href="/wiki/Against_the_Fall_of_Night" title="Against the Fall of Night">
+               Against the Fall of Night
+              </a>
+             </i>
+            </li>
+            <li>
+             <i>
+              <a href="/wiki/Childhood%27s_End" title="Childhood's End">
+               Childhood's End
+              </a>
+             </i>
+            </li>
+            <li>
+             <i>
+              <a href="/wiki/Earthlight" title="Earthlight">
+               Earthlight
+              </a>
+             </i>
+            </li>
+            <li>
+             <i>
+              <a href="/wiki/The_City_and_the_Stars" title="The City and the Stars">
+               The City and the Stars
+              </a>
+             </i>
+            </li>
+            <li>
+             <i>
+              <a href="/wiki/The_Deep_Range" title="The Deep Range">
+               The Deep Range
+              </a>
+             </i>
+            </li>
+            <li>
+             <i>
+              <a href="/wiki/A_Fall_of_Moondust" title="A Fall of Moondust">
+               A Fall of Moondust
+              </a>
+             </i>
+            </li>
+            <li>
+             <i>
+              <a href="/wiki/Dolphin_Island_(novel)" title="Dolphin Island (novel)">
+               Dolphin Island
+              </a>
+             </i>
+            </li>
+            <li>
+             <i>
+              <a href="/wiki/Glide_Path" title="Glide Path">
+               Glide Path
+              </a>
+             </i>
+            </li>
+            <li>
+             <i>
+              <a href="/wiki/Imperial_Earth" title="Imperial Earth">
+               Imperial Earth
+              </a>
+             </i>
+            </li>
+            <li>
+             <i>
+              <a href="/wiki/The_Fountains_of_Paradise" title="The Fountains of Paradise">
+               The Fountains of Paradise
+              </a>
+             </i>
+            </li>
+            <li>
+             <i>
+              <a href="/wiki/The_Songs_of_Distant_Earth" title="The Songs of Distant Earth">
+               The Songs of Distant Earth
+              </a>
+             </i>
+            </li>
+            <li>
+             <i>
+              <a href="/wiki/Cradle_(novel)" title="Cradle (novel)">
+               Cradle
+              </a>
+             </i>
+             (with
+             <a href="/wiki/Gentry_Lee" title="Gentry Lee">
+              Gentry Lee
+             </a>
+             )
+            </li>
+            <li>
+             <i>
+              <a href="/wiki/The_Ghost_from_the_Grand_Banks" title="The Ghost from the Grand Banks">
+               The Ghost from the Grand Banks
+              </a>
+             </i>
+            </li>
+            <li>
+             <i>
+              <a href="/wiki/The_Hammer_of_God_(Clarke_novel)" title="The Hammer of God (Clarke novel)">
+               The Hammer of God
+              </a>
+             </i>
+            </li>
+            <li>
+             <i>
+              <a href="/wiki/Richter_10" title="Richter 10">
+               Richter 10
+              </a>
+             </i>
+             (with
+             <a href="/wiki/Mike_McQuay" title="Mike McQuay">
+              Mike McQuay
+             </a>
+             )
+            </li>
+            <li>
+             <i>
+              <a href="/wiki/The_Trigger" title="The Trigger">
+               The Trigger
+              </a>
+             </i>
+             (with
+             <a href="/wiki/Michael_P._Kube-McDowell" title="Michael P. Kube-McDowell">
+              Michael Kube-McDowell
+             </a>
+             )
+            </li>
+            <li>
+             <i>
+              <a href="/wiki/The_Light_of_Other_Days" title="The Light of Other Days">
+               The Light of Other Days
+              </a>
+             </i>
+             (with
+             <a href="/wiki/Stephen_Baxter_(author)" title="Stephen Baxter (author)">
+              Stephen Baxter
+             </a>
+             )
+            </li>
+            <li>
+             <i>
+              <a href="/wiki/The_Last_Theorem" title="The Last Theorem">
+               The Last Theorem
+              </a>
+             </i>
+             (with
+             <a href="/wiki/Frederik_Pohl" title="Frederik Pohl">
+              Frederik Pohl
+             </a>
+             )
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          Novel series
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+          </div>
+          <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+           <tr>
+            <th class="navbox-group" scope="row" style="width:1%">
+             <i>
+              <a href="/wiki/Space_Odyssey" title="Space Odyssey">
+               Space Odyssey
+              </a>
+             </i>
+            </th>
+            <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <i>
+                 <a href="/wiki/2001:_A_Space_Odyssey_(novel)" title="2001: A Space Odyssey (novel)">
+                  2001: A Space Odyssey
+                 </a>
+                </i>
+               </li>
+               <li>
+                <i>
+                 <a href="/wiki/2010:_Odyssey_Two" title="2010: Odyssey Two">
+                  2010: Odyssey Two
+                 </a>
+                </i>
+               </li>
+               <li>
+                <i>
+                 <a href="/wiki/2061:_Odyssey_Three" title="2061: Odyssey Three">
+                  2061: Odyssey Three
+                 </a>
+                </i>
+               </li>
+               <li>
+                <i>
+                 <a href="/wiki/3001:_The_Final_Odyssey" title="3001: The Final Odyssey">
+                  3001: The Final Odyssey
+                 </a>
+                </i>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+           <tr>
+            <th class="navbox-group" scope="row" style="width:1%">
+             Rama series
+            </th>
+            <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <i>
+                 <a href="/wiki/Rendezvous_with_Rama" title="Rendezvous with Rama">
+                  Rendezvous with Rama
+                 </a>
+                </i>
+               </li>
+               <li>
+                <i>
+                 <a href="/wiki/Rama_II_(novel)" title="Rama II (novel)">
+                  Rama II
+                 </a>
+                </i>
+                (with
+                <a href="/wiki/Gentry_Lee" title="Gentry Lee">
+                 Gentry Lee
+                </a>
+                )
+               </li>
+               <li>
+                <i>
+                 <a href="/wiki/The_Garden_of_Rama" title="The Garden of Rama">
+                  The Garden of Rama
+                 </a>
+                </i>
+                (with
+                <a href="/wiki/Gentry_Lee" title="Gentry Lee">
+                 Gentry Lee
+                </a>
+                )
+               </li>
+               <li>
+                <i>
+                 <a href="/wiki/Rama_Revealed" title="Rama Revealed">
+                  Rama Revealed
+                 </a>
+                </i>
+                (with
+                <a href="/wiki/Gentry_Lee" title="Gentry Lee">
+                 Gentry Lee
+                </a>
+                )
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+           <tr>
+            <th class="navbox-group" scope="row" style="width:1%">
+             <i>
+              <a href="/wiki/A_Time_Odyssey" title="A Time Odyssey">
+               A Time Odyssey
+              </a>
+             </i>
+            </th>
+            <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <i>
+                 <a href="/wiki/Time%27s_Eye_(novel)" title="Time's Eye (novel)">
+                  Time's Eye
+                 </a>
+                </i>
+                (with
+                <a href="/wiki/Stephen_Baxter_(author)" title="Stephen Baxter (author)">
+                 Stephen Baxter
+                </a>
+                )
+               </li>
+               <li>
+                <i>
+                 <a href="/wiki/Sunstorm_(novel)" title="Sunstorm (novel)">
+                  Sunstorm
+                 </a>
+                </i>
+                (with
+                <a href="/wiki/Stephen_Baxter_(author)" title="Stephen Baxter (author)">
+                 Stephen Baxter
+                </a>
+                )
+               </li>
+               <li>
+                <i>
+                 <a href="/wiki/Firstborn_(Clarke_and_Baxter_novel)" title="Firstborn (Clarke and Baxter novel)">
+                  Firstborn
+                 </a>
+                </i>
+                (with
+                <a href="/wiki/Stephen_Baxter_(author)" title="Stephen Baxter (author)">
+                 Stephen Baxter
+                </a>
+                )
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+          </table>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          Short story
+          <br/>
+          collections
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <i>
+              <a href="/wiki/Expedition_to_Earth" title="Expedition to Earth">
+               Expedition to Earth
+              </a>
+             </i>
+            </li>
+            <li>
+             <i>
+              <a href="/wiki/Reach_for_Tomorrow" title="Reach for Tomorrow">
+               Reach for Tomorrow
+              </a>
+             </i>
+            </li>
+            <li>
+             <i>
+              <a href="/wiki/Tales_from_the_White_Hart" title="Tales from the White Hart">
+               Tales from the White Hart
+              </a>
+             </i>
+            </li>
+            <li>
+             <i>
+              <a href="/wiki/The_Other_Side_of_the_Sky" title="The Other Side of the Sky">
+               The Other Side of the Sky
+              </a>
+             </i>
+            </li>
+            <li>
+             <i>
+              <a href="/wiki/Tales_of_Ten_Worlds" title="Tales of Ten Worlds">
+               Tales of Ten Worlds
+              </a>
+             </i>
+            </li>
+            <li>
+             <i>
+              <a href="/wiki/The_Nine_Billion_Names_of_God_(collection)" title="The Nine Billion Names of God (collection)">
+               The Nine Billion Names of God
+              </a>
+             </i>
+            </li>
+            <li>
+             <i>
+              <a href="/wiki/Of_Time_and_Stars" title="Of Time and Stars">
+               Of Time and Stars
+              </a>
+             </i>
+            </li>
+            <li>
+             <i>
+              <a href="/wiki/The_Wind_from_the_Sun" title="The Wind from the Sun">
+               The Wind from the Sun
+              </a>
+             </i>
+            </li>
+            <li>
+             <i>
+              <a href="/wiki/The_Best_of_Arthur_C._Clarke" title="The Best of Arthur C. Clarke">
+               The Best of Arthur C. Clarke
+              </a>
+             </i>
+            </li>
+            <li>
+             <i>
+              <a href="/wiki/The_Sentinel_(anthology)" title="The Sentinel (anthology)">
+               The Sentinel
+              </a>
+             </i>
+            </li>
+            <li>
+             <i>
+              <a href="/wiki/Tales_from_Planet_Earth" title="Tales from Planet Earth">
+               Tales from Planet Earth
+              </a>
+             </i>
+            </li>
+            <li>
+             <i>
+              <a href="/wiki/More_Than_One_Universe" title="More Than One Universe">
+               More Than One Universe
+              </a>
+             </i>
+            </li>
+            <li>
+             <i>
+              <a href="/wiki/The_Collected_Stories_of_Arthur_C._Clarke" title="The Collected Stories of Arthur C. Clarke">
+               The Collected Stories of Arthur C. Clarke
+              </a>
+             </i>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          Non-fiction
+         </th>
+         <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <i>
+              <a href="/wiki/Interplanetary_Flight:_An_Introduction_to_Astronautics" title="Interplanetary Flight: An Introduction to Astronautics">
+               Interplanetary Flight: An Introduction to Astronautics
+              </a>
+             </i>
+            </li>
+            <li>
+             <i>
+              <a href="/wiki/The_Lost_Worlds_of_2001" title="The Lost Worlds of 2001">
+               The Lost Worlds of 2001
+              </a>
+             </i>
+            </li>
+            <li>
+             <i>
+              <a href="/wiki/The_View_from_Serendip" title="The View from Serendip">
+               The View from Serendip
+              </a>
+             </i>
+            </li>
+            <li>
+             <i>
+              <a href="/wiki/2010_(film)" title="2010 (film)">
+               The Odyssey File: The Making of 2010
+              </a>
+             </i>
+            </li>
+            <li>
+             <i>
+              <a href="/wiki/How_the_World_Was_One" title="How the World Was One">
+               How the World Was One: Beyond the Global Village
+              </a>
+             </i>
+            </li>
+            <li>
+             <i>
+              <a href="/wiki/An_Encyclopedia_of_Claims,_Frauds,_and_Hoaxes_of_the_Occult_and_Supernatural" title="An Encyclopedia of Claims, Frauds, and Hoaxes of the Occult and Supernatural">
+               An Encyclopedia of Claims, Frauds, and Hoaxes of the Occult and Supernatural
+              </a>
+             </i>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          Adaptations
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/2001:_A_Space_Odyssey_(film)" title="2001: A Space Odyssey (film)">
+              <i>
+               2001: A Space Odyssey
+              </i>
+              (film)
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/2001:_A_Space_Odyssey_(comics)" title="2001: A Space Odyssey (comics)">
+              <i>
+               2001: A Space Odyssey
+              </i>
+              (comics)
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/2010_(film)" title="2010 (film)">
+              <i>
+               2010
+              </i>
+              (film)
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/The_Star_(The_Twilight_Zone)" title="The Star (The Twilight Zone)">
+              "The Star" (TV episode)
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Rendezvous_with_Rama" title="Rendezvous with Rama">
+              <i>
+               Rendezvous with Rama
+              </i>
+              (video game)
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/The_Songs_of_Distant_Earth_(album)" title="The Songs of Distant Earth (album)">
+              <i>
+               The Songs of Distant Earth
+              </i>
+              (album)
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Rama_(video_game)" title="Rama (video game)">
+              <i>
+               Rama
+              </i>
+              (video game)
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Childhood%27s_End_(miniseries)" title="Childhood's End (miniseries)">
+              <i>
+               Childhood's End
+              </i>
+              (TV miniseries)
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          Related
+         </th>
+         <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Arthur_C._Clarke_in_media" title="Arthur C. Clarke in media">
+              Arthur C. Clarke in media
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Sir_Arthur_Clarke_Award" title="Sir Arthur Clarke Award">
+              Sir Arthur Clarke Award
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Arthur_C._Clarke_Award" title="Arthur C. Clarke Award">
+              Arthur C. Clarke Award
+             </a>
+            </li>
+            <li>
+             <a class="mw-selflink selflink">
+              Geostationary orbit
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Clarke%27s_three_laws" title="Clarke's three laws">
+              Clarke's three laws
+             </a>
+            </li>
+            <li>
+             <i>
+              <a href="/wiki/Arthur_C._Clarke%27s_Mysterious_World" title="Arthur C. Clarke's Mysterious World">
+               Arthur C. Clarke's Mysterious World
+              </a>
+             </i>
+            </li>
+            <li>
+             <i>
+              <a href="/wiki/Arthur_C._Clarke%27s_World_of_Strange_Powers" title="Arthur C. Clarke's World of Strange Powers">
+               Arthur C. Clarke's World of Strange Powers
+              </a>
+             </i>
+            </li>
+            <li>
+             <i>
+              <a href="/wiki/Arthur_C._Clarke%27s_Mysterious_Universe" title="Arthur C. Clarke's Mysterious Universe">
+               Arthur C. Clarke's Mysterious Universe
+              </a>
+             </i>
+            </li>
+            <li>
+             <a href="/wiki/Arthur_C._Clarke_Institute_for_Modern_Technologies" title="Arthur C. Clarke Institute for Modern Technologies">
+              Arthur C. Clarke Institute for Modern Technologies
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Great_Basses_wreck" title="Great Basses wreck">
+              Great Basses wreck
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/4923_Clarke" title="4923 Clarke">
+              4923 Clarke
+             </a>
+            </li>
+            <li>
+             <i>
+              <a href="/wiki/Serendipaceratops" title="Serendipaceratops">
+               Serendipaceratops
+              </a>
+             </i>
+            </li>
+            <li>
+             <a href="/wiki/GRB_080319B" title="GRB 080319B">
+              GRB 080319B
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+       </table>
+      </div>
+      <!-- 
+NewPP limit report
+Parsed by mw1252
+Cached time: 20180123084853
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.332 seconds
+Real time usage: 0.474 seconds
+Preprocessor visited node count: 2064/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 84104/2097152 bytes
+Template argument size: 2520/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 2/500
+Lua time usage: 0.131/10.000 seconds
+Lua memory usage: 5.86 MB/50 MB
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  356.661      1 -total
+ 44.91%  160.182      2 Template:Reflist
+ 17.30%   61.690      7 Template:Cite_web
+ 15.34%   54.717      5 Template:Navbox
+ 10.83%   38.637      1 Template:Cn
+ 10.76%   38.390      8 Template:Convert
+  9.21%   32.850      1 Template:Notes
+  8.93%   31.833      1 Template:Fix
+  8.73%   31.119      1 Template:Orbits
+  8.19%   29.228      1 Template:For
+-->
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:41210-0!canonical!math=5 and timestamp 20180123084853 and revision id 821618214
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Geostationary_orbit&amp;oldid=821618214">
+      https://en.wikipedia.org/w/index.php?title=Geostationary_orbit&amp;oldid=821618214
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Astrodynamics" title="Category:Astrodynamics">
+         Astrodynamics
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Earth_orbits" title="Category:Earth orbits">
+         Earth orbits
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Artificial_satellites_in_geosynchronous_orbit" title="Category:Artificial satellites in geosynchronous orbit">
+         Artificial satellites in geosynchronous orbit
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">
+         Webarchive template wayback links
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">
+         All articles with unsourced statements
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_with_unsourced_statements_from_January_2018" title="Category:Articles with unsourced statements from January 2018">
+         Articles with unsourced statements from January 2018
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Wikipedia_articles_incorporating_text_from_the_Federal_Standard_1037C" title="Category:Wikipedia articles incorporating text from the Federal Standard 1037C">
+         Wikipedia articles incorporating text from the Federal Standard 1037C
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Wikipedia_articles_incorporating_text_from_MIL-STD-188" title="Category:Wikipedia articles incorporating text from MIL-STD-188">
+         Wikipedia articles incorporating text from MIL-STD-188
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Geostationary+orbit" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Geostationary+orbit" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Geostationary_orbit" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Geostationary_orbit" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="collapsible selected" id="ca-view">
+        <span>
+         <a href="/wiki/Geostationary_orbit">
+          Read
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Geostationary_orbit&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Geostationary_orbit&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Geostationary_orbit" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Geostationary_orbit" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Geostationary_orbit&amp;oldid=821618214" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Geostationary_orbit&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q192316" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Geostationary_orbit&amp;id=821618214" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Geostationary+orbit">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Geostationary+orbit&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Geostationary_orbit&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-ar">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%85%D8%AF%D8%A7%D8%B1_%D8%A7%D9%84%D8%AC%D8%BA%D8%B1%D8%A7%D9%81%D9%8A_%D8%A7%D9%84%D8%AB%D8%A7%D8%A8%D8%AA" hreflang="ar" lang="ar" title="المدار الجغرافي الثابت – Arabic">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-az">
+        <a class="interlanguage-link-target" href="https://az.wikipedia.org/wiki/Geostasionar_orbit" hreflang="az" lang="az" title="Geostasionar orbit – Azerbaijani">
+         Azərbaycanca
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bn">
+        <a class="interlanguage-link-target" href="https://bn.wikipedia.org/wiki/%E0%A6%AD%E0%A7%82%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BF%E0%A6%B0_%E0%A6%95%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%AA%E0%A6%A5" hreflang="bn" lang="bn" title="ভূস্থির কক্ষপথ – Bangla">
+         বাংলা
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-be">
+        <a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%93%D0%B5%D0%B0%D1%81%D1%82%D0%B0%D1%86%D1%8B%D1%8F%D0%BD%D0%B0%D1%80%D0%BD%D0%B0%D1%8F_%D0%B0%D1%80%D0%B1%D1%96%D1%82%D0%B0" hreflang="be" lang="be" title="Геастацыянарная арбіта – Belarusian">
+         Беларуская
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-be-x-old">
+        <a class="interlanguage-link-target" href="https://be-x-old.wikipedia.org/wiki/%D0%93%D0%B5%D0%B0%D1%81%D1%82%D0%B0%D1%86%D1%8B%D1%8F%D0%BD%D0%B0%D1%80%D0%BD%D0%B0%D1%8F_%D0%B0%D1%80%D0%B1%D1%96%D1%82%D0%B0" hreflang="be-x-old" lang="be-x-old" title="Геастацыянарная арбіта – Belarusian (Taraškievica orthography)">
+         Беларуская (тарашкевіца)‎
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bg">
+        <a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%93%D0%B5%D0%BE%D1%81%D1%82%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D1%80%D0%BD%D0%B0_%D0%BE%D1%80%D0%B1%D0%B8%D1%82%D0%B0" hreflang="bg" lang="bg" title="Геостационарна орбита – Bulgarian">
+         Български
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bs">
+        <a class="interlanguage-link-target" href="https://bs.wikipedia.org/wiki/Geostacionarna_orbita" hreflang="bs" lang="bs" title="Geostacionarna orbita – Bosnian">
+         Bosanski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-br">
+        <a class="interlanguage-link-target" href="https://br.wikipedia.org/wiki/Orbitenn_geoarsavel" hreflang="br" lang="br" title="Orbitenn geoarsavel – Breton">
+         Brezhoneg
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/%C3%92rbita_geoestacion%C3%A0ria" hreflang="ca" lang="ca" title="Òrbita geoestacionària – Catalan">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cs">
+        <a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Geostacion%C3%A1rn%C3%AD_dr%C3%A1ha" hreflang="cs" lang="cs" title="Geostacionární dráha – Czech">
+         Čeština
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-da">
+        <a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Geostation%C3%A6re_bane" hreflang="da" lang="da" title="Geostationære bane – Danish">
+         Dansk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Geosynchrone_Umlaufbahn#Geostationäre_Umlaufbahn" hreflang="de" lang="de" title="Geosynchrone Umlaufbahn – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-et">
+        <a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Geostatsionaarne_orbiit" hreflang="et" lang="et" title="Geostatsionaarne orbiit – Estonian">
+         Eesti
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-el">
+        <a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%93%CE%B5%CF%89%CF%83%CF%8D%CE%B3%CF%87%CF%81%CE%BF%CE%BD%CE%B7_%CF%84%CF%81%CE%BF%CF%87%CE%B9%CE%AC" hreflang="el" lang="el" title="Γεωσύγχρονη τροχιά – Greek">
+         Ελληνικά
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/%C3%93rbita_geoestacionaria" hreflang="es" lang="es" title="Órbita geoestacionaria – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fa">
+        <a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D9%85%D8%AF%D8%A7%D8%B1_%D8%B2%D9%85%DB%8C%D9%86%E2%80%8C%D8%AB%D8%A7%D8%A8%D8%AA" hreflang="fa" lang="fa" title="مدار زمین‌ثابت – Persian">
+         فارسی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Orbite_g%C3%A9ostationnaire" hreflang="fr" lang="fr" title="Orbite géostationnaire – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-gl">
+        <a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/%C3%93rbita_xeoestacionaria" hreflang="gl" lang="gl" title="Órbita xeoestacionaria – Galician">
+         Galego
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ko">
+        <a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%A0%95%EC%A7%80_%EA%B6%A4%EB%8F%84" hreflang="ko" lang="ko" title="정지 궤도 – Korean">
+         한국어
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hi">
+        <a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%AD%E0%A5%82%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BF%E0%A4%B0_%E0%A4%95%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%BE" hreflang="hi" lang="hi" title="भूस्थिर कक्षा – Hindi">
+         हिन्दी
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-id">
+        <a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Orbit_geostasioner" hreflang="id" lang="id" title="Orbit geostasioner – Indonesian">
+         Bahasa Indonesia
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Orbita_geostazionaria" hreflang="it" lang="it" title="Orbita geostazionaria – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-he">
+        <a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C_%D7%92%D7%90%D7%95%D7%A1%D7%98%D7%A6%D7%99%D7%95%D7%A0%D7%A8%D7%99" hreflang="he" lang="he" title="מסלול גאוסטציונרי – Hebrew">
+         עברית
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ka">
+        <a class="interlanguage-link-target" href="https://ka.wikipedia.org/wiki/%E1%83%92%E1%83%94%E1%83%9D%E1%83%A1%E1%83%A2%E1%83%90%E1%83%AA%E1%83%98%E1%83%9D%E1%83%9C%E1%83%90%E1%83%A0%E1%83%A3%E1%83%9A%E1%83%98_%E1%83%9D%E1%83%A0%E1%83%91%E1%83%98%E1%83%A2%E1%83%90" hreflang="ka" lang="ka" title="გეოსტაციონარული ორბიტა – Georgian">
+         ქართული
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-kk">
+        <a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/%D0%93%D0%B5%D0%BE%D1%81%D1%82%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D1%80%D0%BB%D1%8B%D2%9B_%D0%BE%D1%80%D0%B1%D0%B8%D1%82%D0%B0" hreflang="kk" lang="kk" title="Геостационарлық орбита – Kazakh">
+         Қазақша
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lv">
+        <a class="interlanguage-link-target" href="https://lv.wikipedia.org/wiki/%C4%A2eostacion%C4%81r%C4%81_orb%C4%ABta" hreflang="lv" lang="lv" title="Ģeostacionārā orbīta – Latvian">
+         Latviešu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hu">
+        <a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Geostacion%C3%A1rius_p%C3%A1lya" hreflang="hu" lang="hu" title="Geostacionárius pálya – Hungarian">
+         Magyar
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nl">
+        <a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Geostationaire_baan" hreflang="nl" lang="nl" title="Geostationaire baan – Dutch">
+         Nederlands
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E9%9D%99%E6%AD%A2%E8%BB%8C%E9%81%93" hreflang="ja" lang="ja" title="静止軌道 – Japanese">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-no">
+        <a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Geostasjon%C3%A6r_bane" hreflang="no" lang="no" title="Geostasjonær bane – Norwegian">
+         Norsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nn">
+        <a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Geostasjon%C3%A6r_bane" hreflang="nn" lang="nn" title="Geostasjonær bane – Norwegian Nynorsk">
+         Norsk nynorsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pl">
+        <a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Orbita_geostacjonarna" hreflang="pl" lang="pl" title="Orbita geostacjonarna – Polish">
+         Polski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/%C3%93rbita_geoestacion%C3%A1ria" hreflang="pt" lang="pt" title="Órbita geoestacionária – Portuguese">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%93%D0%B5%D0%BE%D1%81%D1%82%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D1%80%D0%BD%D0%B0%D1%8F_%D0%BE%D1%80%D0%B1%D0%B8%D1%82%D0%B0" hreflang="ru" lang="ru" title="Геостационарная орбита – Russian">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-simple">
+        <a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Geostationary_orbit" hreflang="simple" lang="simple" title="Geostationary orbit – Simple English">
+         Simple English
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sk">
+        <a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Geostacion%C3%A1rna_dr%C3%A1ha" hreflang="sk" lang="sk" title="Geostacionárna dráha – Slovak">
+         Slovenčina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sl">
+        <a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Geostacionarna_orbita" hreflang="sl" lang="sl" title="Geostacionarna orbita – Slovenian">
+         Slovenščina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sr">
+        <a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%93%D0%B5%D0%BE%D1%81%D1%82%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D1%80%D0%BD%D0%B0_%D0%BE%D1%80%D0%B1%D0%B8%D1%82%D0%B0" hreflang="sr" lang="sr" title="Геостационарна орбита – Serbian">
+         Српски / srpski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sh">
+        <a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Geostacionarna_orbita" hreflang="sh" lang="sh" title="Geostacionarna orbita – Serbo-Croatian">
+         Srpskohrvatski / српскохрватски
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-su">
+        <a class="interlanguage-link-target" href="https://su.wikipedia.org/wiki/Orbit_G%C3%A9osetasion%C3%A9r" hreflang="su" lang="su" title="Orbit Géosetasionér – Sundanese">
+         Basa Sunda
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fi">
+        <a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Geostationaarinen_kiertorata" hreflang="fi" lang="fi" title="Geostationaarinen kiertorata – Finnish">
+         Suomi
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sv">
+        <a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Geostation%C3%A4r_omloppsbana" hreflang="sv" lang="sv" title="Geostationär omloppsbana – Swedish">
+         Svenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ta">
+        <a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%AA%E0%AF%81%E0%AE%B5%E0%AE%BF%E0%AE%A8%E0%AE%BF%E0%AE%B2%E0%AF%88%E0%AE%9A%E0%AF%8D_%E0%AE%9A%E0%AF%81%E0%AE%B1%E0%AF%8D%E0%AE%B1%E0%AF%81%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%BE%E0%AE%A4%E0%AF%88" hreflang="ta" lang="ta" title="புவிநிலைச் சுற்றுப்பாதை – Tamil">
+         தமிழ்
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-te">
+        <a class="interlanguage-link-target" href="https://te.wikipedia.org/wiki/%E0%B0%AD%E0%B1%82_%E0%B0%B8%E0%B1%8D%E0%B0%A5%E0%B0%BF%E0%B0%B0_%E0%B0%95%E0%B0%95%E0%B1%8D%E0%B0%B7%E0%B1%8D%E0%B0%AF" hreflang="te" lang="te" title="భూ స్థిర కక్ష్య – Telugu">
+         తెలుగు
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-th">
+        <a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%87%E0%B9%82%E0%B8%84%E0%B8%88%E0%B8%A3%E0%B8%84%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%9F%E0%B9%89%E0%B8%B2" hreflang="th" lang="th" title="วงโคจรค้างฟ้า – Thai">
+         ไทย
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tr">
+        <a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Jeostatik_y%C3%B6r%C3%BCnge" hreflang="tr" lang="tr" title="Jeostatik yörünge – Turkish">
+         Türkçe
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uk">
+        <a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%93%D0%B5%D0%BE%D1%81%D1%82%D0%B0%D1%86%D1%96%D0%BE%D0%BD%D0%B0%D1%80%D0%BD%D0%B0_%D0%BE%D1%80%D0%B1%D1%96%D1%82%D0%B0" hreflang="uk" lang="uk" title="Геостаціонарна орбіта – Ukrainian">
+         Українська
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-vi">
+        <a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/Qu%E1%BB%B9_%C4%91%E1%BA%A1o_%C4%91%E1%BB%8Ba_t%C4%A9nh" hreflang="vi" lang="vi" title="Quỹ đạo địa tĩnh – Vietnamese">
+         Tiếng Việt
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%9C%B0%E7%90%83%E9%9D%9C%E6%AD%A2%E8%BB%8C%E9%81%93" hreflang="zh" lang="zh" title="地球靜止軌道 – Chinese">
+         中文
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q192316#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 21 January 2018, at 16:15.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Geostationary_orbit&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.332","walltime":"0.474","ppvisitednodes":{"value":2064,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":84104,"limit":2097152},"templateargumentsize":{"value":2520,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  356.661      1 -total"," 44.91%  160.182      2 Template:Reflist"," 17.30%   61.690      7 Template:Cite_web"," 15.34%   54.717      5 Template:Navbox"," 10.83%   38.637      1 Template:Cn"," 10.76%   38.390      8 Template:Convert","  9.21%   32.850      1 Template:Notes","  8.93%   31.833      1 Template:Fix","  8.73%   31.119      1 Template:Orbits","  8.19%   29.228      1 Template:For"]},"scribunto":{"limitreport-timeusage":{"value":"0.131","limit":"10.000"},"limitreport-memusage":{"value":6146053,"limit":52428800}},"cachereport":{"origin":"mw1252","timestamp":"20180123084853","ttl":1900800,"transientcontent":false}}});});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":93,"wgHostname":"mw1322"});});
+  </script>
+ </body>
+</html>

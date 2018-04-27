@@ -1,0 +1,1591 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Axes conventions - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Axes_conventions","wgTitle":"Axes conventions","wgCurRevisionId":786586479,"wgRevisionId":786586479,"wgArticleId":29119741,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Euclidean symmetries","Rotation in three dimensions"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Axes_conventions","wgRelevantArticleId":29119741,"wgRequestId":"WnMu@QpAAEYAAAd2Xz4AAACE","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"East_north_up","wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgInternalRedirectTargetUrl":"/wiki/Axes_conventions","wgWikibaseItemId":"Q4830418","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["mediawiki.action.view.redirect","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.31.0-wmf.17" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Plane.svg/1200px-Plane.svg.png" property="og:image"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Axes_conventions" rel="alternate"/>
+  <link href="/w/index.php?title=Axes_conventions&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Axes_conventions&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/Axes_conventions" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Axes_conventions rootpage-Axes_conventions skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Axes conventions
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+     <span class="mw-redirectedfrom">
+      (Redirected from
+      <a class="mw-redirect" href="/w/index.php?title=East_north_up&amp;redirect=no" title="East north up">
+       East north up
+      </a>
+      )
+     </span>
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:Plane.svg">
+         <img alt="" class="thumbimage" data-file-height="775" data-file-width="687" height="248" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Plane.svg/220px-Plane.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Plane.svg/330px-Plane.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/67/Plane.svg/440px-Plane.svg.png 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Plane.svg" title="Enlarge">
+          </a>
+         </div>
+         Heading, elevation and bank angles (Z-Y’-X’’) for an aircraft. The aircraft's pitch and yaw axes Y and Z are not shown, and its fixed reference frame xyz has been shifted backwards from its center of gravity (preserving angles) for clarity. Axes named according to the air norm
+         <a href="/wiki/Deutsches_Institut_f%C3%BCr_Normung" title="Deutsches Institut für Normung">
+          DIN
+         </a>
+         9300
+        </div>
+       </div>
+      </div>
+      <p>
+       In
+       <a href="/wiki/Ballistics" title="Ballistics">
+        ballistics
+       </a>
+       and
+       <a href="/wiki/Flight_dynamics" title="Flight dynamics">
+        flight dynamics
+       </a>
+       ,
+       <b>
+        axes conventions
+       </b>
+       are standardized ways of establishing the location and orientation of
+       <a class="mw-redirect" href="/wiki/Coordinate_axes" title="Coordinate axes">
+        coordinate axes
+       </a>
+       for use as a
+       <a href="/wiki/Frame_of_reference" title="Frame of reference">
+        frame of reference
+       </a>
+       . Mobile objects are normally tracked from an external frame considered fixed. Other frames can be defined on those mobile objects to deal with relative positions for other objects. Finally, attitudes or
+       <a href="/wiki/Orientation_(geometry)" title="Orientation (geometry)">
+        orientations
+       </a>
+       can be described by a relationship between the external frame and the one defined over the mobile object.
+      </p>
+      <p>
+       The orientation of a vehicle is normally referred to as
+       <i>
+        attitude
+       </i>
+       . It is described normally by the
+       <a href="/wiki/Orientation_(geometry)" title="Orientation (geometry)">
+        orientation
+       </a>
+       of a frame fixed in the body relative to a fixed reference frame. The attitude is described by
+       <i>
+        attitude coordinates
+       </i>
+       , and consists of at least three coordinates.
+       <sup class="reference" id="cite_ref-Schaub_1-0">
+        <a href="#cite_note-Schaub-1">
+         [1]
+        </a>
+       </sup>
+      </p>
+      <p>
+       While from a geometrical point of view the different methods to describe orientations are defined using only some reference frames, in engineering applications it is important also to describe how these frames are attached to the lab and the body in motion.
+      </p>
+      <p>
+       Due to the special importance of international conventions in air vehicles, several organizations have published standards to be followed. For example, German DIN has published the
+       <a href="/wiki/Deutsches_Institut_f%C3%BCr_Normung" title="Deutsches Institut für Normung">
+        DIN
+       </a>
+       9300 norm for aircraft
+       <sup class="reference" id="cite_ref-2">
+        <a href="#cite_note-2">
+         [2]
+        </a>
+       </sup>
+       (adopted by ISO as ISO 1151–2:1985).
+      </p>
+      <p>
+      </p>
+      <div class="toc" id="toc">
+       <div class="toctitle" dir="ltr" lang="en" xml:lang="en">
+        <h2>
+         Contents
+        </h2>
+       </div>
+       <ul>
+        <li class="toclevel-1 tocsection-1">
+         <a href="#Earth_bounded_axes_conventions">
+          <span class="tocnumber">
+           1
+          </span>
+          <span class="toctext">
+           Earth bounded axes conventions
+          </span>
+         </a>
+         <ul>
+          <li class="toclevel-2 tocsection-2">
+           <a href="#Ground_reference_frames:_ENU_and_NED">
+            <span class="tocnumber">
+             1.1
+            </span>
+            <span class="toctext">
+             Ground reference frames: ENU and NED
+            </span>
+           </a>
+           <ul>
+            <li class="toclevel-3 tocsection-3">
+             <a href="#Ground_reference_frames_for_attitude_description">
+              <span class="tocnumber">
+               1.1.1
+              </span>
+              <span class="toctext">
+               Ground reference frames for attitude description
+              </span>
+             </a>
+            </li>
+           </ul>
+          </li>
+          <li class="toclevel-2 tocsection-4">
+           <a href="#Frames_mounted_on_vehicles">
+            <span class="tocnumber">
+             1.2
+            </span>
+            <span class="toctext">
+             Frames mounted on vehicles
+            </span>
+           </a>
+           <ul>
+            <li class="toclevel-3 tocsection-5">
+             <a href="#Conventions_for_land_vehicles">
+              <span class="tocnumber">
+               1.2.1
+              </span>
+              <span class="toctext">
+               Conventions for land vehicles
+              </span>
+             </a>
+            </li>
+            <li class="toclevel-3 tocsection-6">
+             <a href="#Conventions_for_sea_vehicles">
+              <span class="tocnumber">
+               1.2.2
+              </span>
+              <span class="toctext">
+               Conventions for sea vehicles
+              </span>
+             </a>
+            </li>
+            <li class="toclevel-3 tocsection-7">
+             <a href="#Conventions_for_aircraft_local_reference_frames">
+              <span class="tocnumber">
+               1.2.3
+              </span>
+              <span class="toctext">
+               Conventions for aircraft local reference frames
+              </span>
+             </a>
+            </li>
+           </ul>
+          </li>
+         </ul>
+        </li>
+        <li class="toclevel-1 tocsection-8">
+         <a href="#Frames_for_space_navigation">
+          <span class="tocnumber">
+           2
+          </span>
+          <span class="toctext">
+           Frames for space navigation
+          </span>
+         </a>
+         <ul>
+          <li class="toclevel-2 tocsection-9">
+           <a href="#Local_conventions_for_space_ships_as_satellites">
+            <span class="tocnumber">
+             2.1
+            </span>
+            <span class="toctext">
+             Local conventions for space ships as satellites
+            </span>
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="toclevel-1 tocsection-10">
+         <a href="#Frames_used_to_describe_altitudes">
+          <span class="tocnumber">
+           3
+          </span>
+          <span class="toctext">
+           Frames used to describe altitudes
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-11">
+         <a href="#See_also">
+          <span class="tocnumber">
+           4
+          </span>
+          <span class="toctext">
+           See also
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-12">
+         <a href="#References">
+          <span class="tocnumber">
+           5
+          </span>
+          <span class="toctext">
+           References
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <p>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Earth_bounded_axes_conventions">
+        Earth bounded axes conventions
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Axes_conventions&amp;action=edit&amp;section=1" title="Edit section: Earth bounded axes conventions">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:Sphere_wireframe.svg">
+         <img alt="" class="thumbimage" data-file-height="400" data-file-width="400" height="220" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/Sphere_wireframe.svg/220px-Sphere_wireframe.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/Sphere_wireframe.svg/330px-Sphere_wireframe.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/08/Sphere_wireframe.svg/440px-Sphere_wireframe.svg.png 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Sphere_wireframe.svg" title="Enlarge">
+          </a>
+         </div>
+         Representation of the earth with parallels and meridians
+        </div>
+       </div>
+      </div>
+      <h3>
+       <span class="mw-headline" id="Ground_reference_frames:_ENU_and_NED">
+        Ground reference frames: ENU and NED
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Axes_conventions&amp;action=edit&amp;section=2" title="Edit section: Ground reference frames: ENU and NED">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       Basically, as lab frame or reference frame, there are two kinds of conventions for the frames (sometimes named LVLH, local vertical, local horizontal):
+      </p>
+      <ul>
+       <li>
+        East, North, Up, referred as ENU
+       </li>
+       <li>
+        North, East, Down, referred as NED, used specially in aerospace
+       </li>
+      </ul>
+      <p>
+       These frames are location dependent. For movements around the globe, like air or sea navigation, the frames are defined as tangent to the lines of coordinates.
+      </p>
+      <ul>
+       <li>
+        East-West tangent to
+        <a href="/wiki/Circle_of_latitude" title="Circle of latitude">
+         parallels
+        </a>
+        ,
+       </li>
+       <li>
+        North-South tangent to
+        <a href="/wiki/Meridian_(geography)" title="Meridian (geography)">
+         meridians
+        </a>
+        , and
+       </li>
+       <li>
+        Up-Down in the direction to the center of the earth (when using a
+        <a class="mw-redirect" href="/wiki/Spherical" title="Spherical">
+         spherical
+        </a>
+        Earth simplification), or in the direction normal to the local tangent plane (using an
+        <a class="mw-redirect" href="/wiki/Oblate_spheroid" title="Oblate spheroid">
+         oblate spheroidal
+        </a>
+        or
+        <a class="mw-redirect" href="/wiki/Geodetic_system" title="Geodetic system">
+         geodetic
+        </a>
+        <a class="mw-redirect" href="/wiki/Ellipsoidal" title="Ellipsoidal">
+         ellipsoidal
+        </a>
+        model of the earth) which does not generally pass through the center of the Earth.
+       </li>
+      </ul>
+      <h4>
+       <span class="mw-headline" id="Ground_reference_frames_for_attitude_description">
+        Ground reference frames for attitude description
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Axes_conventions&amp;action=edit&amp;section=3" title="Edit section: Ground reference frames for attitude description">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h4>
+      <p>
+       To establish a standard convention to describe attitudes, it is required to establish at least the axes of the reference system and the axes of the rigid body or vehicle. When an ambiguous notation system is used (such as Euler angles) also the used convention should be stated. Nevertheless, most used notations (matrices and quaternions) are unambiguous.
+      </p>
+      <div class="thumb tleft">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:ECEF_ENU_Longitude_Latitude_relationships.svg">
+         <img alt="" class="thumbimage" data-file-height="500" data-file-width="520" height="212" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/ECEF_ENU_Longitude_Latitude_relationships.svg/220px-ECEF_ENU_Longitude_Latitude_relationships.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/ECEF_ENU_Longitude_Latitude_relationships.svg/330px-ECEF_ENU_Longitude_Latitude_relationships.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/ECEF_ENU_Longitude_Latitude_relationships.svg/440px-ECEF_ENU_Longitude_Latitude_relationships.svg.png 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:ECEF_ENU_Longitude_Latitude_relationships.svg" title="Enlarge">
+          </a>
+         </div>
+         Earth Centred Earth Fixed and East, North, Up coordinates.
+        </div>
+       </div>
+      </div>
+      <p>
+       <a class="mw-redirect" href="/wiki/Tait%E2%80%93Bryan_angles" title="Tait–Bryan angles">
+        Tait–Bryan angles
+       </a>
+       are often used to describe a vehicle's attitude with respect to a chosen reference frame, though any other notation can be used. The positive
+       <i>
+        x
+       </i>
+       -axis in vehicles points always in the direction of movement. For positive
+       <i>
+        y
+       </i>
+       - and
+       <i>
+        z
+       </i>
+       -axis, we have to face two different conventions:
+      </p>
+      <ul>
+       <li>
+        In case of land vehicles like cars, tanks etc., which use the ENU-system (East-North-Up) as external reference (
+        <i>
+         world frame
+        </i>
+        ), the vehicle's positive
+        <i>
+         y
+        </i>
+        - or pitch axis always points to its left, and the positive
+        <i>
+         z
+        </i>
+        - or yaw axis always points up.
+        <sup class="reference" id="cite_ref-3">
+         <a href="#cite_note-3">
+          [3]
+         </a>
+        </sup>
+       </li>
+       <li>
+        By contrast, in case of air and sea vehicles like submarines, ships, airplanes etc., which use the NED-system (North-East-Down) as external reference (
+        <i>
+         world frame
+        </i>
+        ), the vehicle's positive
+        <i>
+         y
+        </i>
+        - or pitch axis always points to its right, and its positive
+        <i>
+         z
+        </i>
+        - or yaw axis always points down.
+       </li>
+       <li>
+        Finally, in case of space vehicles like space shuttles etc., a modification of the latter convention is used, where the vehicle's positive
+        <i>
+         y
+        </i>
+        - or pitch axis again always points to its right, and its positive z- or yaw axis always points down, but “down” now may have two different meanings: If a so-called
+        <i>
+         local frame
+        </i>
+        is used as external reference, its positive z-axis points “down” to the center of the earth as it does in case of the earlier mentioned NED-system,
+        <sup class="reference" id="cite_ref-4">
+         <a href="#cite_note-4">
+          [4]
+         </a>
+        </sup>
+        but if the
+        <i>
+         inertial frame
+        </i>
+        is used as reference, its positive z-axis will point now to the
+        <a class="mw-redirect" href="/wiki/North_Celestial_Pole" title="North Celestial Pole">
+         North Celestial Pole
+        </a>
+        , and its positive x-axis to the
+        <a class="mw-redirect" href="/wiki/Vernal_Equinox" title="Vernal Equinox">
+         Vernal Equinox
+        </a>
+        <sup class="reference" id="cite_ref-5">
+         <a href="#cite_note-5">
+          [5]
+         </a>
+        </sup>
+        or some other reference meridian.
+       </li>
+      </ul>
+      <h3>
+       <span class="mw-headline" id="Frames_mounted_on_vehicles">
+        Frames mounted on vehicles
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Axes_conventions&amp;action=edit&amp;section=4" title="Edit section: Frames mounted on vehicles">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       Specially for aircraft, these frames do not need to agree with the earth-bound frames in the up-down line. It must be agreed what ENU and NED mean in this context.
+      </p>
+      <h4>
+       <span class="mw-headline" id="Conventions_for_land_vehicles">
+        Conventions for land vehicles
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Axes_conventions&amp;action=edit&amp;section=5" title="Edit section: Conventions for land vehicles">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h4>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:RPY_angles_of_cars.png">
+         <img alt="" class="thumbimage" data-file-height="316" data-file-width="532" height="131" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/RPY_angles_of_cars.png/220px-RPY_angles_of_cars.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/RPY_angles_of_cars.png/330px-RPY_angles_of_cars.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f5/RPY_angles_of_cars.png/440px-RPY_angles_of_cars.png 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:RPY_angles_of_cars.png" title="Enlarge">
+          </a>
+         </div>
+         RPY angles of cars and other land vehicles
+        </div>
+       </div>
+      </div>
+      <p>
+       For land vehicles it is rare to describe their complete orientation, except when speaking about
+       <a href="/wiki/Electronic_stability_control" title="Electronic stability control">
+        electronic stability control
+       </a>
+       or
+       <a href="/wiki/Satellite_navigation" title="Satellite navigation">
+        satellite navigation
+       </a>
+       . In this case, the convention is normally the one of the adjacent drawing, where RPY stands for
+       <a class="mw-redirect" href="/wiki/Roll-pitch-yaw" title="Roll-pitch-yaw">
+        roll-pitch-yaw
+       </a>
+       .
+      </p>
+      <h4>
+       <span class="mw-headline" id="Conventions_for_sea_vehicles">
+        Conventions for sea vehicles
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Axes_conventions&amp;action=edit&amp;section=6" title="Edit section: Conventions for sea vehicles">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h4>
+      <div class="thumb tleft">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:RPY_angles_of_ships.png">
+         <img alt="" class="thumbimage" data-file-height="348" data-file-width="532" height="144" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/RPY_angles_of_ships.png/220px-RPY_angles_of_ships.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/RPY_angles_of_ships.png/330px-RPY_angles_of_ships.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/83/RPY_angles_of_ships.png/440px-RPY_angles_of_ships.png 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:RPY_angles_of_ships.png" title="Enlarge">
+          </a>
+         </div>
+         RPY angles of ships and other sea vehicles
+        </div>
+       </div>
+      </div>
+      <p>
+       As well as aircraft, the same terminology is used for the
+       <a href="/wiki/Ship_motions" title="Ship motions">
+        motion of ships and boats
+       </a>
+       . It is interesting to note that some words commonly used were introduced in maritime navigation. For example, the
+       <i>
+        yaw
+       </i>
+       angle or heading, has a
+       <a href="/wiki/Navigation" title="Navigation">
+        nautical
+       </a>
+       origin, with the meaning of "bending out of the course". Etymologically, it is related with the verb 'to go'.
+       <sup class="reference" id="cite_ref-6">
+        <a href="#cite_note-6">
+         [6]
+        </a>
+       </sup>
+       It is related to the concept of
+       <a href="/wiki/Bearing_(navigation)" title="Bearing (navigation)">
+        bearing
+       </a>
+       . It is typically assigned the shorthand notation
+       <span class="texhtml mvar" style="font-style:italic;">
+        ψ
+       </span>
+       .
+       <sup class="reference" id="cite_ref-7">
+        <a href="#cite_note-7">
+         [7]
+        </a>
+       </sup>
+      </p>
+      <h4>
+       <span class="mw-headline" id="Conventions_for_aircraft_local_reference_frames">
+        Conventions for aircraft local reference frames
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Axes_conventions&amp;action=edit&amp;section=7" title="Edit section: Conventions for aircraft local reference frames">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h4>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:RPY_angles_of_airplanes.png">
+         <img alt="" class="thumbimage" data-file-height="364" data-file-width="531" height="151" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/RPY_angles_of_airplanes.png/220px-RPY_angles_of_airplanes.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/RPY_angles_of_airplanes.png/330px-RPY_angles_of_airplanes.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2f/RPY_angles_of_airplanes.png/440px-RPY_angles_of_airplanes.png 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:RPY_angles_of_airplanes.png" title="Enlarge">
+          </a>
+         </div>
+         RPY angles of airplanes and other air vehicles
+        </div>
+       </div>
+      </div>
+      <div class="hatnote navigation-not-searchable" role="note">
+       Main article:
+       <a href="/wiki/Aircraft_principal_axes" title="Aircraft principal axes">
+        aircraft principal axes
+       </a>
+      </div>
+      <p>
+       Coordinates to describe an aircraft attitude (Heading, Elevation and Bank) are normally given relative to a reference control frame located in a control tower, and therefore ENU, relative to the position of the control tower on the earth surface.
+      </p>
+      <p>
+       Coordinates to describe observations made from an aircraft are normally given relative to its intrinsic axes, but normally using as positive the coordinate pointing downwards, where the interesting points are located. Therefore, they are normally NED.
+      </p>
+      <p>
+       These axes are normally taken so that X axis is the longitudinal axis pointing ahead, Z axis is the vertical axis pointing downwards, and the Y axis is the lateral one, pointing in such a way that the frame is right handed.
+      </p>
+      <p>
+       The
+       <i>
+        motion
+       </i>
+       of an aircraft is often described in terms of rotation about these axes, so rotation about the
+       <i>
+        X
+       </i>
+       -axis is called rolling, rotation about the
+       <i>
+        Y
+       </i>
+       -axis is called pitching, and rotation about the
+       <i>
+        Z
+       </i>
+       -axis is called yawing.
+      </p>
+      <h2>
+       <span class="mw-headline" id="Frames_for_space_navigation">
+        Frames for space navigation
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Axes_conventions&amp;action=edit&amp;section=8" title="Edit section: Frames for space navigation">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="hatnote navigation-not-searchable" role="note">
+       Main article:
+       <a href="/wiki/Celestial_coordinate_system" title="Celestial coordinate system">
+        Celestial coordinate system
+       </a>
+      </div>
+      <div class="thumb tleft">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:Celestial.png">
+         <img alt="" class="thumbimage" data-file-height="373" data-file-width="416" height="197" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Celestial.png/220px-Celestial.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Celestial.png/330px-Celestial.png 1.5x, //upload.wikimedia.org/wikipedia/commons/f/fc/Celestial.png 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Celestial.png" title="Enlarge">
+          </a>
+         </div>
+         Different reference systems for coordinates in space
+        </div>
+       </div>
+      </div>
+      <p>
+       For satellites orbiting the earth it is normal to use the
+       <a href="/wiki/Equatorial_coordinate_system" title="Equatorial coordinate system">
+        Equatorial coordinate system
+       </a>
+       . The projection of the Earth's equator onto the celestial sphere is called the
+       <a href="/wiki/Celestial_equator" title="Celestial equator">
+        celestial equator
+       </a>
+       . Similarly, the projections of the Earth's north and south geographic poles become the north and south
+       <a href="/wiki/Celestial_pole" title="Celestial pole">
+        celestial poles
+       </a>
+       , respectively.
+      </p>
+      <p>
+       Deep space satellites use other
+       <a href="/wiki/Celestial_coordinate_system" title="Celestial coordinate system">
+        Celestial coordinate system
+       </a>
+       , like the
+       <a href="/wiki/Ecliptic_coordinate_system" title="Ecliptic coordinate system">
+        Ecliptic coordinate system
+       </a>
+       .
+      </p>
+      <h3>
+       <span class="mw-headline" id="Local_conventions_for_space_ships_as_satellites">
+        Local conventions for space ships as satellites
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Axes_conventions&amp;action=edit&amp;section=9" title="Edit section: Local conventions for space ships as satellites">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <div class="thumb tmulti tright">
+       <div class="thumbinner" style="width:388px;max-width:388px">
+        <div class="tsingle" style="float:left;margin:1px;width:182px;max-width:182px">
+         <div class="thumbimage">
+          <a class="image" href="/wiki/File:RPY_angles_of_spaceships_(local_frame).png">
+           <img alt="" data-file-height="380" data-file-width="532" height="129" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/RPY_angles_of_spaceships_%28local_frame%29.png/180px-RPY_angles_of_spaceships_%28local_frame%29.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/RPY_angles_of_spaceships_%28local_frame%29.png/270px-RPY_angles_of_spaceships_%28local_frame%29.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b1/RPY_angles_of_spaceships_%28local_frame%29.png/360px-RPY_angles_of_spaceships_%28local_frame%29.png 2x" width="180"/>
+          </a>
+         </div>
+        </div>
+        <div class="tsingle" style="float:left;margin:1px;width:202px;max-width:202px">
+         <div class="thumbimage">
+          <a class="image" href="/wiki/File:RPY_angles_of_spaceships_(inertial_frame).png">
+           <img alt="" data-file-height="348" data-file-width="532" height="131" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/RPY_angles_of_spaceships_%28inertial_frame%29.png/200px-RPY_angles_of_spaceships_%28inertial_frame%29.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/RPY_angles_of_spaceships_%28inertial_frame%29.png/300px-RPY_angles_of_spaceships_%28inertial_frame%29.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/RPY_angles_of_spaceships_%28inertial_frame%29.png/400px-RPY_angles_of_spaceships_%28inertial_frame%29.png 2x" width="200"/>
+          </a>
+         </div>
+        </div>
+        <div style="clear:left">
+        </div>
+        <div class="thumbcaption" style="clear:left;text-align:left;background-color:transparent">
+         RPY angles of space shuttles and other space vehicles, first using a local frame as reference and second using an inertial frame as reference.
+        </div>
+       </div>
+      </div>
+      <p>
+       If the goal is to keep the shuttle during its orbits in a constant attitude with respect to the sky, e.g. in order to perform certain astronomical observations, the preferred reference is the
+       <i>
+        inertial frame
+       </i>
+       , and the RPY angle vector (0|0|0) describes an attitude then, where the shuttle's wings are kept permanently parallel to the earth's equator, its nose points permanently to the
+       <a class="mw-redirect" href="/wiki/Vernal_equinox" title="Vernal equinox">
+        vernal equinox
+       </a>
+       , and its belly towards the northern
+       <a class="mw-redirect" href="/wiki/Polar_star" title="Polar star">
+        polar star
+       </a>
+       (see picture). (Note that rockets and missiles more commonly follow the conventions for aircraft where the RPY angle vector (0|0|0) points north, rather than toward the vernal equinox).
+      </p>
+      <p>
+       On the other hand, if the goal is to keep the shuttle during its orbits in a constant attitude with respect to the surface of the earth, the preferred reference will be the
+       <i>
+        local frame
+       </i>
+       , with the RPY angle vector (0|0|0) describing an attitude where the shuttle's wings are parallel to the earth's surface, its nose points to its heading, and its belly down towards the centre of the earth (see picture).
+      </p>
+      <h2>
+       <span class="mw-headline" id="Frames_used_to_describe_altitudes">
+        Frames used to describe altitudes
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Axes_conventions&amp;action=edit&amp;section=10" title="Edit section: Frames used to describe altitudes">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:Plane_with_ENU_embedded_axes.svg">
+         <img alt="" class="thumbimage" data-file-height="775" data-file-width="687" height="248" src="//upload.wikimedia.org/wikipedia/en/thumb/3/30/Plane_with_ENU_embedded_axes.svg/220px-Plane_with_ENU_embedded_axes.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/3/30/Plane_with_ENU_embedded_axes.svg/330px-Plane_with_ENU_embedded_axes.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/3/30/Plane_with_ENU_embedded_axes.svg/440px-Plane_with_ENU_embedded_axes.svg.png 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Plane_with_ENU_embedded_axes.svg" title="Enlarge">
+          </a>
+         </div>
+         Heading, elevation and bank angles (Z-Y’-X’’) for an aircraft using onboard ENU axes both onboard and for the ground tracking station. The fixed reference frame x-y-z represents such a tracking station. Onboard axes Y and Z are not shown. X shown in green color.
+        </div>
+       </div>
+      </div>
+      <p>
+       Normally the frames used to describe a vehicle's local observations are the same frames used to describe its attitude respect the ground tracking stations. i.e. if an ENU frame is used in a tracking station, also ENU frames are used onboard and these frames are also used to refer local observations.
+      </p>
+      <p>
+       An important case in which this does not apply is aircraft. Aircraft observations are performed downwards and therefore normally NED axes convention applies. Nevertheless, when attitudes respect ground stations are given, a relationship between the local earth-bound frame and the onboard ENU frame is used.
+      </p>
+      <h2>
+       <span class="mw-headline" id="See_also">
+        See also
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Axes_conventions&amp;action=edit&amp;section=11" title="Edit section: See also">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a class="mw-redirect" href="/wiki/Attitude_dynamics_and_control" title="Attitude dynamics and control">
+         Attitude dynamics and control
+        </a>
+        (spacecraft)
+       </li>
+       <li>
+        <a href="/wiki/Euler%27s_rotation_theorem" title="Euler's rotation theorem">
+         Euler's rotation theorem
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Gyroscope" title="Gyroscope">
+         Gyroscope
+        </a>
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/Triad_Method" title="Triad Method">
+         Triad Method
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Rotation_formalisms_in_three_dimensions" title="Rotation formalisms in three dimensions">
+         Rotation formalisms in three dimensions
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">
+         Geographic coordinate system
+        </a>
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/Astronomical_coordinate_systems" title="Astronomical coordinate systems">
+         Astronomical coordinate systems
+        </a>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="References">
+        References
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Axes_conventions&amp;action=edit&amp;section=12" title="Edit section: References">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="mw-references-wrap">
+       <ol class="references">
+        <li id="cite_note-Schaub-1">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-Schaub_1-0">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation book">
+           Hanspeter Schaub, John L. Junkins (2003). "Rigid body kinematics".
+           <a class="external text" href="https://books.google.com/books?id=qXvESNWrfpUC&amp;pg=PA71&amp;dq=attitude+%22rigid+body%22&amp;lr=&amp;as_drrb_is=q&amp;as_minm_is=0&amp;as_miny_is=&amp;as_maxm_is=0&amp;as_maxy_is=&amp;as_brr=0&amp;cd=9#v=onepage&amp;q=attitude%20%22rigid%20body%22&amp;f=false" rel="nofollow">
+            <i>
+             Analytical mechanics of space systems
+            </i>
+           </a>
+           . American Institute of Aeronautics and Astronautics. p. 71.
+           <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+            ISBN
+           </a>
+           <a href="/wiki/Special:BookSources/1-56347-563-4" title="Special:BookSources/1-56347-563-4">
+            1-56347-563-4
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Rigid+body+kinematics&amp;rft.btitle=Analytical+mechanics+of+space+systems&amp;rft.pages=71&amp;rft.pub=American+Institute+of+Aeronautics+and+Astronautics&amp;rft.date=2003&amp;rft.isbn=1-56347-563-4&amp;rft.au=Hanspeter+Schaub%2C+John+L.+Junkins&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DqXvESNWrfpUC%26pg%3DPA71%26dq%3Dattitude%2B%2522rigid%2Bbody%2522%26lr%3D%26as_drrb_is%3Dq%26as_minm_is%3D0%26as_miny_is%3D%26as_maxm_is%3D0%26as_maxy_is%3D%26as_brr%3D0%26cd%3D9%23v%3Donepage%26q%3Dattitude%2520%2522rigid%2520body%2522%26f%3Dfalse&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAxes+conventions">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-2">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-2">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          Luft- und Raumfahrt; Begriffe, Größen und Formelzeichen der Flugmechanik; Bewegungen des Luftfahrzeugs und der Atmosphäre gegenüber der Erde
+          <a class="external autonumber" href="http://www.beuth.de/langanzeige/DIN-9300-2/de/1608720.html" rel="nofollow">
+           [1]
+          </a>
+         </span>
+        </li>
+        <li id="cite_note-3">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-3">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <i>
+           NavCommand. Software to Operate and Configure iMAR Inertial Measuring and Surveying Systems. Operation and User Instructions. St.Ingbert 2007, str.11–12.
+          </i>
+          <a class="external free" href="http://www.imar-navigation.de/download/nav_command_en.pdf" rel="nofollow">
+           http://www.imar-navigation.de/download/nav_command_en.pdf
+          </a>
+         </span>
+        </li>
+        <li id="cite_note-4">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-4">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <i>
+           Exploration: Local Reference Orbiter Attitude
+          </i>
+          (September 18, 1995)
+          <cite class="citation web">
+           <a class="external text" href="https://web.archive.org/web/20070714231221/http://liftoff.msfc.nasa.gov/Academy/ROCKET_SCI/SHUTTLE/ATTITUDE/LVLH.HTML" rel="nofollow">
+            "Archived copy"
+           </a>
+           . Archived from
+           <a class="external text" href="http://liftoff.msfc.nasa.gov/academy/rocket_sci/shuttle/attitude/lvlh.html" rel="nofollow">
+            the original
+           </a>
+           on 2007-07-14
+           <span class="reference-accessdate">
+            . Retrieved
+            <span class="nowrap">
+             2010-10-08
+            </span>
+           </span>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Archived+copy&amp;rft_id=http%3A%2F%2Fliftoff.msfc.nasa.gov%2Facademy%2Frocket_sci%2Fshuttle%2Fattitude%2Flvlh.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAxes+conventions">
+           <span style="display:none;">
+           </span>
+          </span>
+          (article no more available since 2007)
+         </span>
+        </li>
+        <li id="cite_note-5">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-5">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <i>
+           Exploration: Inertial Reference Orbiter Attitude
+          </i>
+          (October 3, 1995)
+          <cite class="citation web">
+           <a class="external text" href="https://web.archive.org/web/20070714231308/http://liftoff.msfc.nasa.gov/Academy/ROCKET_SCI/SHUTTLE/ATTITUDE/INERTIAL.HTML" rel="nofollow">
+            "Archived copy"
+           </a>
+           . Archived from
+           <a class="external text" href="http://liftoff.msfc.nasa.gov/academy/rocket_sci/shuttle/attitude/inertial.html" rel="nofollow">
+            the original
+           </a>
+           on 2007-07-14
+           <span class="reference-accessdate">
+            . Retrieved
+            <span class="nowrap">
+             2010-10-08
+            </span>
+           </span>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Archived+copy&amp;rft_id=http%3A%2F%2Fliftoff.msfc.nasa.gov%2Facademy%2Frocket_sci%2Fshuttle%2Fattitude%2Finertial.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAxes+conventions">
+           <span style="display:none;">
+           </span>
+          </span>
+          (article no more available since 2007)
+         </span>
+        </li>
+        <li id="cite_note-6">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-6">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <a class="external text" href="http://www.20kweb.com/etymology_dictionary_Y/origin_of_the_word_yaw.htm" rel="nofollow">
+           Etymology online dictionary
+          </a>
+          <a class="external text" href="https://web.archive.org/web/20101115071345/http://www.20kweb.com/etymology_dictionary_Y/origin_of_the_word_yaw.htm" rel="nofollow">
+           Archived
+          </a>
+          November 15, 2010, at the
+          <a href="/wiki/Wayback_Machine" title="Wayback Machine">
+           Wayback Machine
+          </a>
+          .
+         </span>
+        </li>
+        <li id="cite_note-7">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-7">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation book">
+           Hurt, H. H., Jr. (January 1965) [1960].
+           <i>
+            Aerodynamics for Naval Aviators
+           </i>
+           . U.S. Government Printing Office, Washington D.C.: U.S. Navy, Aviation Training Division. p. 284. NAVWEPS 00-80T-80.
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Aerodynamics+for+Naval+Aviators&amp;rft.place=U.S.+Government+Printing+Office%2C+Washington+D.C.&amp;rft.pages=284&amp;rft.pub=U.S.+Navy%2C+Aviation+Training+Division&amp;rft.date=1965-01&amp;rft.aulast=Hurt&amp;rft.aufirst=H.+H.%2C+Jr.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAxes+conventions">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+       </ol>
+      </div>
+      <!-- 
+NewPP limit report
+Parsed by mw1272
+Cached time: 20180119103542
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.096 seconds
+Real time usage: 0.131 seconds
+Preprocessor visited node count: 310/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 9213/2097152 bytes
+Template argument size: 2/2097152 bytes
+Highest expansion depth: 3/40
+Expensive parser function count: 0/500
+Lua time usage: 0.036/10.000 seconds
+Lua memory usage: 2.24 MB/50 MB
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   86.322      1 -total
+ 41.46%   35.793      2 Template:Cite_book
+ 28.28%   24.408      2 Template:Main_article
+  8.87%    7.659      2 Template:Cite_web
+  8.30%    7.161      1 Template:Multiple_image
+  7.83%    6.755      1 Template:Webarchive
+  1.46%    1.260      1 Template:Mvar
+-->
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:29119741-0!canonical and timestamp 20180119103542 and revision id 786586479
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Axes_conventions&amp;oldid=786586479">
+      https://en.wikipedia.org/w/index.php?title=Axes_conventions&amp;oldid=786586479
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Euclidean_symmetries" title="Category:Euclidean symmetries">
+         Euclidean symmetries
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Rotation_in_three_dimensions" title="Category:Rotation in three dimensions">
+         Rotation in three dimensions
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">
+         Webarchive template wayback links
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Axes+conventions" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Axes+conventions" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Axes_conventions" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Axes_conventions" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="collapsible selected" id="ca-view">
+        <span>
+         <a href="/wiki/Axes_conventions">
+          Read
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Axes_conventions&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Axes_conventions&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Axes_conventions" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Axes_conventions" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Axes_conventions&amp;oldid=786586479" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Axes_conventions&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q4830418" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Axes_conventions&amp;id=786586479" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Axes+conventions">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Axes+conventions&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Axes_conventions&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Fahrzeugkoordinatensystem" hreflang="de" lang="de" title="Fahrzeugkoordinatensystem – German">
+         Deutsch
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q4830418#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 20 June 2017, at 10:46.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Axes_conventions&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.096","walltime":"0.131","ppvisitednodes":{"value":310,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":9213,"limit":2097152},"templateargumentsize":{"value":2,"limit":2097152},"expansiondepth":{"value":3,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   86.322      1 -total"," 41.46%   35.793      2 Template:Cite_book"," 28.28%   24.408      2 Template:Main_article","  8.87%    7.659      2 Template:Cite_web","  8.30%    7.161      1 Template:Multiple_image","  7.83%    6.755      1 Template:Webarchive","  1.46%    1.260      1 Template:Mvar"]},"scribunto":{"limitreport-timeusage":{"value":"0.036","limit":"10.000"},"limitreport-memusage":{"value":2352899,"limit":52428800}},"cachereport":{"origin":"mw1272","timestamp":"20180119103542","ttl":1900800,"transientcontent":false}}});});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":78,"wgHostname":"mw1275"});});
+  </script>
+ </body>
+</html>

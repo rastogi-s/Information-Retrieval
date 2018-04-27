@@ -1,0 +1,4611 @@
+https://en.wikipedia.org/wiki/Seismology
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Seismology - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Seismology","wgTitle":"Seismology","wgCurRevisionId":823602496,"wgRevisionId":823602496,"wgArticleId":28935,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 errors: external links","Articles needing additional references from June 2016","All articles needing additional references","Articles with specifically marked weasel-worded phrases from October 2011","Pages using div col with deprecated parameters","Wikipedia articles with LCCN identifiers","Wikipedia articles with GND identifiers","Seismology","Earthquake engineering"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Seismology","wgRelevantArticleId":28935,"wgRequestId":"WnQRbwpAMF0AADmBPhYAAAAR","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q83371","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.31.0-wmf.17" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Seismology" rel="alternate"/>
+  <link href="/w/index.php?title=Seismology&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Seismology&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/Seismology" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Seismology rootpage-Seismology skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Seismology
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <table class="vertical-navbox nowraplinks plainlist" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;width:auto;">
+       <tr>
+        <td style="padding-top:0.4em;line-height:1.2em">
+         Part of
+         <a href="/wiki/Category:Earthquakes" title="Category:Earthquakes">
+          a series
+         </a>
+         on
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-title" style="padding:0.2em 0.4em 0.2em;padding-top:0;font-size:145%;line-height:1.2em;padding-top:0.2em;font-size:200%;font-weight:normal;">
+         <a href="/wiki/Earthquake" title="Earthquake">
+          Earthquakes
+         </a>
+        </th>
+       </tr>
+       <tr>
+        <th class="navbox-abovebelow" style="padding:0.1em">
+         <a href="/wiki/Types_of_earthquake" title="Types of earthquake">
+          Types
+         </a>
+        </th>
+       </tr>
+       <tr>
+        <td style="padding:0 0.1em 0.4em;padding-bottom:0.6em;">
+         <ul>
+          <li>
+           <div class="hlist hlist-separated">
+            <ul>
+             <li>
+              <a href="/wiki/Foreshock" title="Foreshock">
+               Foreshock
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Aftershock" title="Aftershock">
+               Aftershock
+              </a>
+             </li>
+            </ul>
+           </div>
+          </li>
+          <li>
+           <div class="hlist hlist-separated">
+            <ul>
+             <li>
+              <a href="/wiki/Blind_thrust_earthquake" title="Blind thrust earthquake">
+               Blind thrust
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Doublet_earthquake" title="Doublet earthquake">
+               Doublet
+              </a>
+             </li>
+            </ul>
+           </div>
+          </li>
+          <li>
+           <div class="hlist hlist-separated">
+            <ul>
+             <li>
+              <a href="/wiki/Interplate_earthquake" title="Interplate earthquake">
+               Interplate
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Intraplate_earthquake" title="Intraplate earthquake">
+               Intraplate
+              </a>
+             </li>
+            </ul>
+           </div>
+          </li>
+          <li>
+           <div class="hlist hlist-separated">
+            <ul>
+             <li>
+              <a href="/wiki/Megathrust_earthquake" title="Megathrust earthquake">
+               Megathrust
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Remotely_triggered_earthquakes" title="Remotely triggered earthquakes">
+               Remotely triggered
+              </a>
+             </li>
+            </ul>
+           </div>
+          </li>
+          <li>
+           <div class="hlist hlist-separated">
+            <ul>
+             <li>
+              <a href="/wiki/Slow_earthquake" title="Slow earthquake">
+               Slow
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Submarine_earthquake" title="Submarine earthquake">
+               Submarine
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Supershear_earthquake" title="Supershear earthquake">
+               Supershear
+              </a>
+             </li>
+            </ul>
+           </div>
+          </li>
+          <li>
+           <div class="hlist hlist-separated">
+            <ul>
+             <li>
+              <a href="/wiki/Tsunami_earthquake" title="Tsunami earthquake">
+               Tsunami
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Earthquake_swarm" title="Earthquake swarm">
+               Earthquake swarm
+              </a>
+             </li>
+            </ul>
+           </div>
+          </li>
+         </ul>
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-abovebelow" style="padding:0.1em">
+         Causes
+        </th>
+       </tr>
+       <tr>
+        <td style="padding:0 0.1em 0.4em;padding-bottom:0.6em;">
+         <ul>
+          <li>
+           <div class="hlist hlist-separated">
+            <ul>
+             <li>
+              <a href="/wiki/Fault_(geology)" title="Fault (geology)">
+               Fault movement
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Volcano_tectonic_earthquake" title="Volcano tectonic earthquake">
+               Volcanism
+              </a>
+             </li>
+            </ul>
+           </div>
+          </li>
+          <li>
+           <a href="/wiki/Induced_seismicity" title="Induced seismicity">
+            Induced seismicity
+           </a>
+          </li>
+         </ul>
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-abovebelow" style="padding:0.1em">
+         Characteristics
+        </th>
+       </tr>
+       <tr>
+        <td style="padding:0 0.1em 0.4em;padding-bottom:0.6em;">
+         <ul>
+          <li>
+           <div class="hlist hlist-separated">
+            <ul>
+             <li>
+              <a href="/wiki/Epicenter" title="Epicenter">
+               Epicenter
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Hypocenter" title="Hypocenter">
+               Hypocenter
+              </a>
+             </li>
+            </ul>
+           </div>
+          </li>
+          <li>
+           <div class="hlist hlist-separated">
+            <ul>
+             <li>
+              <a href="/wiki/Shadow_zone" title="Shadow zone">
+               Shadow zone
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Seismic_wave" title="Seismic wave">
+               Seismic waves
+              </a>
+             </li>
+            </ul>
+           </div>
+          </li>
+          <li>
+           <div class="hlist hlist-separated">
+            <ul>
+             <li>
+              <a href="/wiki/P-wave" title="P-wave">
+               P-wave
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/S-wave" title="S-wave">
+               S-wave
+              </a>
+             </li>
+            </ul>
+           </div>
+          </li>
+         </ul>
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-abovebelow" style="padding:0.1em">
+         Measurement
+        </th>
+       </tr>
+       <tr>
+        <td style="padding:0 0.1em 0.4em;padding-bottom:0.6em;">
+         <ul>
+          <li>
+           <a href="/wiki/Seismometer" title="Seismometer">
+            Seismometer
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Seismic_magnitude_scales" title="Seismic magnitude scales">
+            Seismic magnitude scales
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Seismic_intensity_scales" title="Seismic intensity scales">
+            Seismic intensity scales
+           </a>
+          </li>
+         </ul>
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-abovebelow" style="padding:0.1em">
+         <a href="/wiki/Earthquake_prediction" title="Earthquake prediction">
+          Prediction
+         </a>
+        </th>
+       </tr>
+       <tr>
+        <td style="padding:0 0.1em 0.4em;padding-bottom:0.6em;">
+         <ul>
+          <li>
+           <div style="padding:0.2em 0.4em; line-height:1.2em; line-height:1.25em;">
+            <a href="/wiki/Coordinating_Committee_for_Earthquake_Prediction" title="Coordinating Committee for Earthquake Prediction">
+             Coordinating Committee for
+             <br/>
+             Earthquake Prediction
+            </a>
+           </div>
+          </li>
+          <li>
+           <a href="/wiki/Earthquake_forecasting" title="Earthquake forecasting">
+            Forecasting
+           </a>
+          </li>
+         </ul>
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-abovebelow" style="padding:0.1em">
+         Other topics
+        </th>
+       </tr>
+       <tr>
+        <td style="padding:0 0.1em 0.4em;padding-bottom:0.6em;">
+         <ul>
+          <li>
+           <a href="/wiki/Shear_wave_splitting" title="Shear wave splitting">
+            Shear wave splitting
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Adams%E2%80%93Williamson_equation" title="Adams–Williamson equation">
+            Adams–Williamson equation
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Flinn%E2%80%93Engdahl_regions" title="Flinn–Engdahl regions">
+            Flinn–Engdahl regions
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Earthquake_engineering" title="Earthquake engineering">
+            Earthquake engineering
+           </a>
+          </li>
+          <li>
+           <div class="hlist hlist-separated">
+            <ul>
+             <li>
+              <a href="/wiki/Seismite" title="Seismite">
+               Seismite
+              </a>
+             </li>
+             <li>
+              <a class="mw-selflink selflink">
+               Seismology
+              </a>
+             </li>
+            </ul>
+           </div>
+          </li>
+         </ul>
+        </td>
+       </tr>
+       <tr>
+        <td style="padding:0.3em 0.4em 0.3em;font-weight:bold">
+         <a href="/wiki/Portal:Earth_sciences" title="Portal:Earth sciences">
+          Earth Sciences Portal
+         </a>
+         <br/>
+         <a href="/wiki/Category:Earthquakes" title="Category:Earthquakes">
+          Category
+         </a>
+         •
+         <a href="/wiki/Index_of_geology_articles" title="Index of geology articles">
+          Related topics
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td style="text-align:right;font-size:115%;border-top:1px solid #aaa;">
+         <div class="plainlinks hlist navbar mini">
+          <ul>
+           <li class="nv-view">
+            <a href="/wiki/Template:Earthquakes" title="Template:Earthquakes">
+             <abbr title="View this template">
+              v
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-talk">
+            <a href="/wiki/Template_talk:Earthquakes" title="Template talk:Earthquakes">
+             <abbr title="Discuss this template">
+              t
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-edit">
+            <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Earthquakes&amp;action=edit">
+             <abbr title="Edit this template">
+              e
+             </abbr>
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+      </table>
+      <p>
+       <b>
+        Seismology
+       </b>
+       (
+       <span class="nowrap">
+        <span class="IPA nopopups noexcerpt">
+         <a href="/wiki/Help:IPA/English" title="Help:IPA/English">
+          /
+          <span style="border-bottom:1px dotted">
+           <span title="'s' in 'sigh'">
+            s
+           </span>
+           <span title="/aɪ/: 'i' in 'tide'">
+            aɪ
+           </span>
+           <span title="'z' in 'zoom'">
+            z
+           </span>
+           <span title="/ˈ/: primary stress follows">
+            ˈ
+           </span>
+           <span title="'m' in 'my'">
+            m
+           </span>
+           <span title="/ɒ/: 'o' in 'body'">
+            ɒ
+           </span>
+           <span title="'l' in 'lie'">
+            l
+           </span>
+           <span title="/ə/: 'a' in 'about'">
+            ə
+           </span>
+           <span title="/dʒ/: 'j' in 'jam'">
+            dʒ
+           </span>
+           <span title="/i/: 'y' in 'happy'">
+            i
+           </span>
+          </span>
+          /
+         </a>
+        </span>
+       </span>
+       ; from
+       <a href="/wiki/Ancient_Greek" title="Ancient Greek">
+        Ancient Greek
+       </a>
+       σεισμός (
+       <i>
+        seismós
+       </i>
+       ) meaning "earthquake" and -λογία (
+       <i>
+        -logía
+       </i>
+       ) meaning "study of") is the scientific study of
+       <a href="/wiki/Earthquake" title="Earthquake">
+        earthquakes
+       </a>
+       and the propagation of
+       <a href="/wiki/Linear_elasticity#Elastic_wave" title="Linear elasticity">
+        elastic waves
+       </a>
+       through the
+       <a href="/wiki/Earth" title="Earth">
+        Earth
+       </a>
+       or through other planet-like bodies. The field also includes studies of
+       <a href="/wiki/Earthquake_environmental_effects" title="Earthquake environmental effects">
+        earthquake environmental effects
+       </a>
+       such as
+       <a class="mw-redirect" href="/wiki/Tsunamis" title="Tsunamis">
+        tsunamis
+       </a>
+       as well as diverse
+       <a href="/wiki/Seismic_source" title="Seismic source">
+        seismic sources
+       </a>
+       such as volcanic, tectonic, oceanic, atmospheric, and artificial processes such as explosions. A related field that uses
+       <a href="/wiki/Geology" title="Geology">
+        geology
+       </a>
+       to infer information regarding past earthquakes is
+       <a href="/wiki/Paleoseismology" title="Paleoseismology">
+        paleoseismology
+       </a>
+       . A recording of earth motion as a function of time is called a
+       <a href="/wiki/Seismogram" title="Seismogram">
+        seismogram
+       </a>
+       . A seismologist is a scientist who does research in seismology.
+      </p>
+      <p>
+      </p>
+      <div class="toc" id="toc">
+       <div class="toctitle" dir="ltr" lang="en" xml:lang="en">
+        <h2>
+         Contents
+        </h2>
+       </div>
+       <ul>
+        <li class="toclevel-1 tocsection-1">
+         <a href="#History">
+          <span class="tocnumber">
+           1
+          </span>
+          <span class="toctext">
+           History
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-2">
+         <a href="#Types_of_seismic_wave">
+          <span class="tocnumber">
+           2
+          </span>
+          <span class="toctext">
+           Types of seismic wave
+          </span>
+         </a>
+         <ul>
+          <li class="toclevel-2 tocsection-3">
+           <a href="#Body_waves">
+            <span class="tocnumber">
+             2.1
+            </span>
+            <span class="toctext">
+             Body waves
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-4">
+           <a href="#Surface_waves">
+            <span class="tocnumber">
+             2.2
+            </span>
+            <span class="toctext">
+             Surface waves
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-5">
+           <a href="#Normal_modes">
+            <span class="tocnumber">
+             2.3
+            </span>
+            <span class="toctext">
+             Normal modes
+            </span>
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="toclevel-1 tocsection-6">
+         <a href="#Earthquakes">
+          <span class="tocnumber">
+           3
+          </span>
+          <span class="toctext">
+           Earthquakes
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-7">
+         <a href="#Controlled_seismic_sources">
+          <span class="tocnumber">
+           4
+          </span>
+          <span class="toctext">
+           Controlled seismic sources
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-8">
+         <a href="#Detection_of_seismic_waves">
+          <span class="tocnumber">
+           5
+          </span>
+          <span class="toctext">
+           Detection of seismic waves
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-9">
+         <a href="#Mapping_the_earth's_interior">
+          <span class="tocnumber">
+           6
+          </span>
+          <span class="toctext">
+           Mapping the earth's interior
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-10">
+         <a href="#Seismology_and_society">
+          <span class="tocnumber">
+           7
+          </span>
+          <span class="toctext">
+           Seismology and society
+          </span>
+         </a>
+         <ul>
+          <li class="toclevel-2 tocsection-11">
+           <a href="#Earthquake_prediction">
+            <span class="tocnumber">
+             7.1
+            </span>
+            <span class="toctext">
+             Earthquake prediction
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-12">
+           <a href="#Engineering_seismology">
+            <span class="tocnumber">
+             7.2
+            </span>
+            <span class="toctext">
+             Engineering seismology
+            </span>
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="toclevel-1 tocsection-13">
+         <a href="#Tools">
+          <span class="tocnumber">
+           8
+          </span>
+          <span class="toctext">
+           Tools
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-14">
+         <a href="#Notable_seismologists">
+          <span class="tocnumber">
+           9
+          </span>
+          <span class="toctext">
+           Notable seismologists
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-15">
+         <a href="#See_also">
+          <span class="tocnumber">
+           10
+          </span>
+          <span class="toctext">
+           See also
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-16">
+         <a href="#Notes">
+          <span class="tocnumber">
+           11
+          </span>
+          <span class="toctext">
+           Notes
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-17">
+         <a href="#References">
+          <span class="tocnumber">
+           12
+          </span>
+          <span class="toctext">
+           References
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-18">
+         <a href="#External_links">
+          <span class="tocnumber">
+           13
+          </span>
+          <span class="toctext">
+           External links
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <p>
+      </p>
+      <h2>
+       <span class="mw-headline" id="History">
+        History
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Seismology&amp;action=edit&amp;section=1" title="Edit section: History">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+       <tr>
+        <td class="mbox-image">
+         <div style="width:52px">
+          <a class="image" href="/wiki/File:Question_book-new.svg">
+           <img alt="" data-file-height="399" data-file-width="512" height="39" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" width="50"/>
+          </a>
+         </div>
+        </td>
+        <td class="mbox-text">
+         <div class="mbox-text-span">
+          This section
+          <b>
+           needs additional citations for
+           <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">
+            verification
+           </a>
+          </b>
+          .
+          <span class="hide-when-compact">
+           Please help
+           <a class="external text" href="//en.wikipedia.org/w/index.php?title=Seismology&amp;action=edit">
+            improve this article
+           </a>
+           by
+           <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">
+            adding citations to reliable sources
+           </a>
+           . Unsourced material may be challenged and removed.
+          </span>
+          <small>
+           <i>
+            (June 2016)
+           </i>
+          </small>
+          <small class="hide-when-compact">
+           <i>
+            (
+            <a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">
+             Learn how and when to remove this template message
+            </a>
+            )
+           </i>
+          </small>
+         </div>
+        </td>
+       </tr>
+      </table>
+      <p>
+       Scholarly interest in earthquakes can be traced back to antiquity. Early speculations on the natural causes of earthquakes were included in the writings of
+       <a class="mw-redirect" href="/wiki/Thales" title="Thales">
+        Thales
+       </a>
+       of Miletus (c. 585 BCE),
+       <a href="/wiki/Anaximenes_of_Miletus" title="Anaximenes of Miletus">
+        Anaximenes
+       </a>
+       of Miletus (c. 550 BCE),
+       <a href="/wiki/Aristotle" title="Aristotle">
+        Aristotle
+       </a>
+       (c. 340 BCE) and
+       <a href="/wiki/Zhang_Heng" title="Zhang Heng">
+        Zhang Heng
+       </a>
+       (132 CE).
+      </p>
+      <p>
+       In 132 CE,
+       <a href="/wiki/Zhang_Heng" title="Zhang Heng">
+        Zhang Heng
+       </a>
+       of China's
+       <a href="/wiki/Han_dynasty" title="Han dynasty">
+        Han dynasty
+       </a>
+       designed the first known seismoscope.
+      </p>
+      <p>
+       In 1664,
+       <a href="/wiki/Athanasius_Kircher" title="Athanasius Kircher">
+        Athanasius Kircher
+       </a>
+       argued that earthquakes were caused by the movement of fire within a system of channels inside the Earth.
+      </p>
+      <p>
+       In 1703,
+       <a href="/wiki/Martin_Lister" title="Martin Lister">
+        Martin Lister
+       </a>
+       (1638 to 1712) and
+       <a href="/wiki/Nicolas_Lemery" title="Nicolas Lemery">
+        Nicolas Lemery
+       </a>
+       (1645 to 1715) proposed that earthquakes were caused by chemical explosions within the earth.
+      </p>
+      <p>
+       The
+       <a href="/wiki/1755_Lisbon_earthquake" title="1755 Lisbon earthquake">
+        Lisbon earthquake of 1755
+       </a>
+       , coinciding with the general flowering of science in Europe, set in motion intensified scientific attempts to understand the behaviour and causation of earthquakes. The earliest responses include work by
+       <a href="/wiki/John_Bevis" title="John Bevis">
+        John Bevis
+       </a>
+       (1757) and
+       <a class="mw-redirect" href="/wiki/John_Michell" title="John Michell">
+        John Michell
+       </a>
+       (1761). Michell determined that earthquakes originate within the Earth and were waves of movement caused by "shifting masses of rock miles below the surface."
+       <sup class="reference" id="cite_ref-1">
+        <a href="#cite_note-1">
+         [1]
+        </a>
+       </sup>
+      </p>
+      <p>
+       From 1857,
+       <a href="/wiki/Robert_Mallet" title="Robert Mallet">
+        Robert Mallet
+       </a>
+       laid the foundation of instrumental seismology and carried out seismological experiments using explosives. He is also responsible for coining the word "seismology".
+       <sup class="reference" id="cite_ref-2">
+        <a href="#cite_note-2">
+         [2]
+        </a>
+       </sup>
+      </p>
+      <p>
+       In 1897,
+       <a href="/wiki/Emil_Wiechert" title="Emil Wiechert">
+        Emil Wiechert
+       </a>
+       's theoretical calculations led him to conclude that the
+       <a href="/wiki/Structure_of_the_Earth" title="Structure of the Earth">
+        Earth's interior
+       </a>
+       consists of a mantle of silicates, surrounding a core of iron.
+       <sup class="reference" id="cite_ref-3">
+        <a href="#cite_note-3">
+         [3]
+        </a>
+       </sup>
+      </p>
+      <p>
+       In 1906
+       <a href="/wiki/Richard_Dixon_Oldham" title="Richard Dixon Oldham">
+        Richard Dixon Oldham
+       </a>
+       identified the separate arrival of P-waves, S-waves and surface waves on seismograms and found the first clear evidence that the Earth has a central core.
+       <sup class="reference" id="cite_ref-4">
+        <a href="#cite_note-4">
+         [4]
+        </a>
+       </sup>
+      </p>
+      <p>
+       In 1910, after studying the April
+       <a href="/wiki/1906_San_Francisco_earthquake" title="1906 San Francisco earthquake">
+        1906 San Francisco earthquake
+       </a>
+       ,
+       <a href="/wiki/Harry_Fielding_Reid" title="Harry Fielding Reid">
+        Harry Fielding Reid
+       </a>
+       put forward the "
+       <a href="/wiki/Elastic-rebound_theory" title="Elastic-rebound theory">
+        elastic rebound theory
+       </a>
+       " which remains the foundation for modern tectonic studies. The development of this theory depended on the considerable progress of earlier independent streams of work on the behaviour of elastic materials and in mathematics.
+       <sup class="reference" id="cite_ref-5">
+        <a href="#cite_note-5">
+         [5]
+        </a>
+       </sup>
+      </p>
+      <p>
+       In 1926,
+       <a href="/wiki/Harold_Jeffreys" title="Harold Jeffreys">
+        Harold Jeffreys
+       </a>
+       was the first to claim, based on his study of earthquake waves, that below the mantle, the core of the Earth is liquid.
+       <sup class="reference" id="cite_ref-6">
+        <a href="#cite_note-6">
+         [6]
+        </a>
+       </sup>
+      </p>
+      <p>
+       In 1937,
+       <a href="/wiki/Inge_Lehmann" title="Inge Lehmann">
+        Inge Lehmann
+       </a>
+       determined that within the earth's liquid outer core there is a solid
+       <i>
+        inner
+       </i>
+       core.
+       <sup class="reference" id="cite_ref-7">
+        <a href="#cite_note-7">
+         [7]
+        </a>
+       </sup>
+      </p>
+      <p>
+       By the 1960s, earth science had developed to the point where a comprehensive theory of the causation of seismic events had come together in the now well-established theory of
+       <a href="/wiki/Plate_tectonics" title="Plate tectonics">
+        plate tectonics
+       </a>
+       .
+      </p>
+      <h2>
+       <span class="mw-headline" id="Types_of_seismic_wave">
+        Types of seismic wave
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Seismology&amp;action=edit&amp;section=2" title="Edit section: Types of seismic wave">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="hatnote navigation-not-searchable" role="note">
+       Main article:
+       <a href="/wiki/Seismic_wave" title="Seismic wave">
+        Seismic wave
+       </a>
+      </div>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:322px;">
+        <a class="image" href="/wiki/File:Seismogram.gif">
+         <img alt="Three lines with frequent vertical excursions." class="thumbimage" data-file-height="420" data-file-width="619" height="217" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Seismogram.gif/320px-Seismogram.gif" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Seismogram.gif/480px-Seismogram.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/a/a6/Seismogram.gif 2x" width="320"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Seismogram.gif" title="Enlarge">
+          </a>
+         </div>
+         Seismogram records showing the three components of ground motion. The red line marks the first arrival of P-waves; the green line, the later arrival of S-waves.
+        </div>
+       </div>
+      </div>
+      <p>
+       Seismic waves are
+       <a class="mw-redirect" href="/wiki/Elastic_waves" title="Elastic waves">
+        elastic waves
+       </a>
+       that propagate in solid or fluid materials. They can be divided into
+       <i>
+        body waves
+       </i>
+       that travel through the interior of the materials;
+       <i>
+        surface waves
+       </i>
+       that travel along surfaces or interfaces between materials; and
+       <i>
+        normal modes
+       </i>
+       , a form of standing wave.
+      </p>
+      <h3>
+       <span class="mw-headline" id="Body_waves">
+        Body waves
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Seismology&amp;action=edit&amp;section=3" title="Edit section: Body waves">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       There are two types of body waves, Pressure waves or Primary waves (
+       <a href="/wiki/P-wave" title="P-wave">
+        P-waves
+       </a>
+       ) and
+       <a href="/wiki/Shearing_(physics)" title="Shearing (physics)">
+        Shear
+       </a>
+       or Secondary waves (
+       <a href="/wiki/S-wave" title="S-wave">
+        S-waves
+       </a>
+       ).
+       <a href="/wiki/P-wave" title="P-wave">
+        P-waves
+       </a>
+       are
+       <a href="/wiki/Longitudinal_wave" title="Longitudinal wave">
+        longitudinal waves
+       </a>
+       that involve
+       <a href="/wiki/Compression_(geology)" title="Compression (geology)">
+        compression
+       </a>
+       and
+       <a href="/wiki/Rarefaction" title="Rarefaction">
+        expansion
+       </a>
+       in the direction that the wave is moving and are always the first waves to appear on a
+       <a href="/wiki/Seismogram" title="Seismogram">
+        seismogram
+       </a>
+       as they are the fastest moving waves through solids.
+       <a class="mw-redirect" href="/wiki/S-waves" title="S-waves">
+        S-waves
+       </a>
+       are
+       <a href="/wiki/Transverse_wave" title="Transverse wave">
+        transverse waves
+       </a>
+       that move perpendicular to the direction of propagation. S-waves are slower than P-waves. Therefore, they appear later than P-waves on a seismogram. Fluids cannot support perpendicular motion, so S-waves only travel in solids.
+       <sup class="reference" id="cite_ref-Gubbins1990_8-0">
+        <a href="#cite_note-Gubbins1990-8">
+         [8]
+        </a>
+       </sup>
+      </p>
+      <h3>
+       <span class="mw-headline" id="Surface_waves">
+        Surface waves
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Seismology&amp;action=edit&amp;section=4" title="Edit section: Surface waves">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       The two main surface wave types are Rayleigh waves, which have some compressional motion, and
+       <a href="/wiki/Love_wave" title="Love wave">
+        Love waves
+       </a>
+       , which do not. Rayleigh waves result from the interaction of vertically polarized P- and S-waves that satisfy the boundary conditions on the surface. Love waves can exist in the presence of a subsurface layer, and are only formed by horizontally polarized S-waves. Surface waves travel more slowly than P-waves and S-waves; however, because they are guided by the Earth's surface and their energy is thus trapped near the surface, they can be much stronger than body waves, and can be the largest signals on earthquake seismograms. Surface waves are strongly excited when their source is close to the surface, as in a shallow earthquake or a near surface explosion.
+       <sup class="reference" id="cite_ref-Gubbins1990_8-1">
+        <a href="#cite_note-Gubbins1990-8">
+         [8]
+        </a>
+       </sup>
+      </p>
+      <h3>
+       <span class="mw-headline" id="Normal_modes">
+        Normal modes
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Seismology&amp;action=edit&amp;section=5" title="Edit section: Normal modes">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <div class="hatnote navigation-not-searchable" role="note">
+       See also:
+       <a href="/wiki/Seismic_wave#Free_oscillations_of_the_Earth" title="Seismic wave">
+        Free oscillations of the Earth
+       </a>
+      </div>
+      <p>
+       Both body and surface waves are traveling waves; however, large earthquakes can also make the Earth "ring" like a bell. This ringing is a mixture of
+       <a class="mw-redirect" href="/wiki/Normal_modes" title="Normal modes">
+        normal modes
+       </a>
+       with discrete frequencies and periods of an hour or shorter. Motion caused by a large earthquake can be observed for up to a month after the event.
+       <sup class="reference" id="cite_ref-Gubbins1990_8-2">
+        <a href="#cite_note-Gubbins1990-8">
+         [8]
+        </a>
+       </sup>
+       The first observations of normal modes were made in the 1960s as the advent of higher fidelity instruments coincided with two of the largest earthquakes of the 20th century – the
+       <a href="/wiki/1960_Valdivia_earthquake" title="1960 Valdivia earthquake">
+        1960 Valdivia earthquake
+       </a>
+       and the
+       <a href="/wiki/1964_Alaska_earthquake" title="1964 Alaska earthquake">
+        1964 Alaska earthquake
+       </a>
+       . Since then, the normal modes of the Earth have given us some of the strongest constraints on the deep structure of the Earth.
+      </p>
+      <h2>
+       <span class="mw-headline" id="Earthquakes">
+        Earthquakes
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Seismology&amp;action=edit&amp;section=6" title="Edit section: Earthquakes">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="hatnote navigation-not-searchable" role="note">
+       Main articles:
+       <a href="/wiki/Earthquake" title="Earthquake">
+        Earthquake
+       </a>
+       and
+       <a href="/wiki/Lists_of_earthquakes" title="Lists of earthquakes">
+        Lists of earthquakes
+       </a>
+      </div>
+      <p>
+       One of the first attempts at the scientific study of earthquakes followed the
+       <a href="/wiki/1755_Lisbon_earthquake" title="1755 Lisbon earthquake">
+        1755 Lisbon earthquake
+       </a>
+       . Other notable earthquakes that spurred major advancements in the science of seismology include the
+       <a href="/wiki/1857_Basilicata_earthquake" title="1857 Basilicata earthquake">
+        1857 Basilicata earthquake
+       </a>
+       ,
+       <a href="/wiki/1906_San_Francisco_earthquake" title="1906 San Francisco earthquake">
+        1906 San Francisco earthquake
+       </a>
+       , the
+       <a href="/wiki/1964_Alaska_earthquake" title="1964 Alaska earthquake">
+        1964 Alaska earthquake
+       </a>
+       , the 2004
+       <a class="mw-redirect" href="/wiki/Sumatra-Andaman_earthquake" title="Sumatra-Andaman earthquake">
+        Sumatra-Andaman earthquake
+       </a>
+       , and the 2011
+       <a class="mw-redirect" href="/wiki/Tohoku_earthquake" title="Tohoku earthquake">
+        Great East Japan earthquake
+       </a>
+       .
+      </p>
+      <h2>
+       <span class="mw-headline" id="Controlled_seismic_sources">
+        Controlled seismic sources
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Seismology&amp;action=edit&amp;section=7" title="Edit section: Controlled seismic sources">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="hatnote navigation-not-searchable" role="note">
+       See also:
+       <a href="/wiki/Reflection_seismology" title="Reflection seismology">
+        Reflection seismology
+       </a>
+      </div>
+      <p>
+       Seismic waves produced by
+       <a href="/wiki/Explosion" title="Explosion">
+        explosions
+       </a>
+       or vibrating controlled sources are one of the primary methods of
+       <a href="/wiki/Exploration_geophysics" title="Exploration geophysics">
+        underground exploration in geophysics
+       </a>
+       (in addition to many different
+       <a href="/wiki/Electromagnetic_radiation" title="Electromagnetic radiation">
+        electromagnetic
+       </a>
+       methods such as
+       <a href="/wiki/Induced_polarization" title="Induced polarization">
+        induced polarization
+       </a>
+       and
+       <a href="/wiki/Magnetotellurics" title="Magnetotellurics">
+        magnetotellurics
+       </a>
+       ). Controlled-source seismology has been used to map
+       <a href="/wiki/Salt_dome" title="Salt dome">
+        salt domes
+       </a>
+       , anticlines and other geologic traps in
+       <a href="/wiki/Petroleum" title="Petroleum">
+        petroleum
+       </a>
+       -bearing
+       <a href="/wiki/Rock_(geology)" title="Rock (geology)">
+        rocks
+       </a>
+       ,
+       <a href="/wiki/Fault_(geology)" title="Fault (geology)">
+        faults
+       </a>
+       , rock types, and long-buried giant
+       <a class="mw-redirect" href="/wiki/Meteor" title="Meteor">
+        meteor
+       </a>
+       <a href="/wiki/Impact_crater" title="Impact crater">
+        craters
+       </a>
+       . For example, the
+       <a class="mw-redirect" href="/wiki/Chicxulub_Crater" title="Chicxulub Crater">
+        Chicxulub Crater
+       </a>
+       , which was caused by an impact that has been
+       <a href="/wiki/Cretaceous%E2%80%93Paleogene_extinction_event" title="Cretaceous–Paleogene extinction event">
+        implicated in the extinction
+       </a>
+       of the
+       <a href="/wiki/Dinosaur" title="Dinosaur">
+        dinosaurs
+       </a>
+       , was localized to Central America by analyzing ejecta in the
+       <a href="/wiki/Cretaceous%E2%80%93Paleogene_boundary" title="Cretaceous–Paleogene boundary">
+        Cretaceous–Paleogene boundary
+       </a>
+       , and then physically proven to exist using seismic maps from
+       <a class="mw-redirect" href="/wiki/Oil_exploration" title="Oil exploration">
+        oil exploration
+       </a>
+       .
+       <sup class="reference" id="cite_ref-Schulte2010_9-0">
+        <a href="#cite_note-Schulte2010-9">
+         [9]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Detection_of_seismic_waves">
+        Detection of seismic waves
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Seismology&amp;action=edit&amp;section=8" title="Edit section: Detection of seismic waves">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:Seismometer-iceland.JPG">
+         <img alt="" class="thumbimage" data-file-height="2304" data-file-width="3072" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Seismometer-iceland.JPG/220px-Seismometer-iceland.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Seismometer-iceland.JPG/330px-Seismometer-iceland.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/21/Seismometer-iceland.JPG/440px-Seismometer-iceland.JPG 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Seismometer-iceland.JPG" title="Enlarge">
+          </a>
+         </div>
+         Installation for a temporary seismic station, north Iceland highland.
+        </div>
+       </div>
+      </div>
+      <p>
+       <a href="/wiki/Seismometer" title="Seismometer">
+        Seismometers
+       </a>
+       are sensors that detect and record the motion of the Earth arising from elastic waves. Seismometers may be deployed at the Earth's surface, in shallow vaults, in boreholes, or
+       <a href="/wiki/Ocean-bottom_seismometer" title="Ocean-bottom seismometer">
+        underwater
+       </a>
+       . A complete instrument package that records seismic signals is called a
+       <a class="mw-redirect" href="/wiki/Seismograph" title="Seismograph">
+        seismograph
+       </a>
+       . Networks of seismographs continuously record ground motions around the world to facilitate the monitoring and analysis of global earthquakes and other sources of seismic activity. Rapid location of earthquakes makes
+       <a href="/wiki/Tsunami" title="Tsunami">
+        tsunami
+       </a>
+       warnings possible because seismic waves travel considerably faster than tsunami waves. Seismometers also record signals from non-earthquake sources ranging from explosions (nuclear and chemical), to local noise from wind
+       <sup class="reference" id="cite_ref-10">
+        <a href="#cite_note-10">
+         [10]
+        </a>
+       </sup>
+       or anthropogenic activities, to incessant signals generated at the ocean floor and coasts induced by ocean waves (the global
+       <a href="/wiki/Microseism" title="Microseism">
+        microseism
+       </a>
+       ), to
+       <a href="/wiki/Cryosphere" title="Cryosphere">
+        cryospheric
+       </a>
+       events associated with large icebergs and glaciers. Above-ocean meteor strikes with energies as high as 4.2 × 10
+       <sup>
+        13
+       </sup>
+       <a href="/wiki/Joule" title="Joule">
+        J
+       </a>
+       (equivalent to that released by an explosion of ten kilotons of TNT) have been recorded by seismographs, as have a number of industrial accidents and terrorist bombs and events (a field of study referred to as
+       <a href="/wiki/Forensic_seismology" title="Forensic seismology">
+        forensic seismology
+       </a>
+       ). A major long-term motivation for the global seismographic monitoring has been for the detection and study of
+       <a class="mw-redirect" href="/wiki/Nuclear_testing" title="Nuclear testing">
+        nuclear testing
+       </a>
+       .
+      </p>
+      <h2>
+       <span id="Mapping_the_earth.27s_interior">
+       </span>
+       <span class="mw-headline" id="Mapping_the_earth's_interior">
+        Mapping the earth's interior
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Seismology&amp;action=edit&amp;section=9" title="Edit section: Mapping the earth's interior">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="hatnote navigation-not-searchable" role="note">
+       Main article:
+       <a class="mw-redirect" href="/wiki/Earth%27s_interior" title="Earth's interior">
+        Earth's interior
+       </a>
+      </div>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:282px;">
+        <a class="image" href="/wiki/File:Earthquake_wave_paths.svg">
+         <img alt="Diagram with concentric shells and curved paths" class="thumbimage" data-file-height="250" data-file-width="300" height="233" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Earthquake_wave_paths.svg/280px-Earthquake_wave_paths.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Earthquake_wave_paths.svg/420px-Earthquake_wave_paths.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Earthquake_wave_paths.svg/560px-Earthquake_wave_paths.svg.png 2x" width="280"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Earthquake_wave_paths.svg" title="Enlarge">
+          </a>
+         </div>
+         Seismic velocities and boundaries in the interior of the
+         <a href="/wiki/Earth" title="Earth">
+          Earth
+         </a>
+         sampled by seismic waves
+        </div>
+       </div>
+      </div>
+      <p>
+       Because seismic waves commonly propagate efficiently as they interact with the internal structure of the Earth, they provide high-resolution noninvasive methods for studying the planet's interior. One of the earliest important discoveries (suggested by
+       <a href="/wiki/Richard_Dixon_Oldham" title="Richard Dixon Oldham">
+        Richard Dixon Oldham
+       </a>
+       in 1906 and definitively shown by
+       <a href="/wiki/Harold_Jeffreys" title="Harold Jeffreys">
+        Harold Jeffreys
+       </a>
+       in 1926) was that the
+       <a href="/wiki/Outer_core" title="Outer core">
+        outer core
+       </a>
+       of the earth is liquid. Since S-waves do not pass through liquids, the liquid core causes a "shadow" on the side of the planet opposite the earthquake where no direct S-waves are observed. In addition, P-waves travel much slower through the outer core than the mantle.
+      </p>
+      <p>
+       Processing readings from many seismometers using
+       <a href="/wiki/Seismic_tomography" title="Seismic tomography">
+        seismic tomography
+       </a>
+       , seismologists have mapped the mantle of the earth to a resolution of several hundred kilometers. This has enabled scientists to identify
+       <a href="/wiki/Convection_cell" title="Convection cell">
+        convection cells
+       </a>
+       and other large-scale features such as the
+       <a href="/wiki/Large_low-shear-velocity_provinces" title="Large low-shear-velocity provinces">
+        large low-shear-velocity provinces
+       </a>
+       near the
+       <a href="/wiki/Core%E2%80%93mantle_boundary" title="Core–mantle boundary">
+        core–mantle boundary
+       </a>
+       .
+       <sup class="reference" id="cite_ref-11">
+        <a href="#cite_note-11">
+         [11]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Seismology_and_society">
+        Seismology and society
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Seismology&amp;action=edit&amp;section=10" title="Edit section: Seismology and society">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <h3>
+       <span class="mw-headline" id="Earthquake_prediction">
+        Earthquake prediction
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Seismology&amp;action=edit&amp;section=11" title="Edit section: Earthquake prediction">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <div class="hatnote navigation-not-searchable" role="note">
+       Main article:
+       <a href="/wiki/Earthquake_prediction" title="Earthquake prediction">
+        Earthquake prediction
+       </a>
+      </div>
+      <p>
+       Forecasting a probable timing, location, magnitude and other important features of a forthcoming seismic event is called
+       <a href="/wiki/Earthquake_prediction" title="Earthquake prediction">
+        earthquake prediction
+       </a>
+       . Various attempts have been made by seismologists and others to create effective systems for precise earthquake predictions, including the
+       <a href="/wiki/VAN_method" title="VAN method">
+        VAN method
+       </a>
+       . Most seismologists do not believe that a system to provide timely warnings for individual earthquakes has yet been developed, and many believe that such a system would be unlikely to give useful warning of impending seismic events. However, more general forecasts routinely predict
+       <a href="/wiki/Seismic_hazard" title="Seismic hazard">
+        seismic hazard
+       </a>
+       . Such forecasts estimate the probability of an earthquake of a particular size affecting a particular location within a particular time-span, and they are routinely used in
+       <a href="/wiki/Earthquake_engineering" title="Earthquake engineering">
+        earthquake engineering
+       </a>
+       .
+      </p>
+      <p>
+       Public controversy over earthquake prediction erupted after Italian authorities
+       <a class="mw-redirect" href="/wiki/Indicted" title="Indicted">
+        indicted
+       </a>
+       six seismologists and one government official for
+       <a href="/wiki/Manslaughter" title="Manslaughter">
+        manslaughter
+       </a>
+       in connection with
+       <a href="/wiki/2009_L%27Aquila_earthquake" title="2009 L'Aquila earthquake">
+        a magnitude 6.3 earthquake in L'Aquila, Italy on April 5, 2009
+       </a>
+       . The indictment has been widely perceived
+       <sup class="noprint Inline-Template" style="white-space:nowrap;">
+        [
+        <i>
+         <a href="/wiki/Wikipedia:Manual_of_Style/Words_to_watch#Unsupported_attributions" title="Wikipedia:Manual of Style/Words to watch">
+          <span title="The material near this tag may use weasel words or too-vague attribution. (October 2011)">
+           by whom?
+          </span>
+         </a>
+        </i>
+        ]
+       </sup>
+       as an indictment for failing to predict the earthquake and has drawn condemnation from the
+       <a href="/wiki/American_Association_for_the_Advancement_of_Science" title="American Association for the Advancement of Science">
+        American Association for the Advancement of Science
+       </a>
+       and the
+       <a href="/wiki/American_Geophysical_Union" title="American Geophysical Union">
+        American Geophysical Union
+       </a>
+       . The indictment claims that, at a special meeting in L'Aquila the week before the earthquake occurred, scientists and officials were more interested in pacifying the population than providing adequate information about earthquake risk and preparedness.
+       <sup class="reference" id="cite_ref-12">
+        <a href="#cite_note-12">
+         [12]
+        </a>
+       </sup>
+      </p>
+      <h3>
+       <span class="mw-headline" id="Engineering_seismology">
+        Engineering seismology
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Seismology&amp;action=edit&amp;section=12" title="Edit section: Engineering seismology">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       Engineering seismology is the study and application of seismology for engineering purposes.
+       <sup class="reference" id="cite_ref-13">
+        <a href="#cite_note-13">
+         [13]
+        </a>
+       </sup>
+       It generally applied to the branch of seismology that deals with the assessment of the
+       <a href="/wiki/Seismic_hazard" title="Seismic hazard">
+        seismic hazard
+       </a>
+       of a site or region for the purposes of
+       <a href="/wiki/Earthquake_engineering" title="Earthquake engineering">
+        earthquake engineering
+       </a>
+       . It is, therefore, a link between
+       <a href="/wiki/Earth_science" title="Earth science">
+        earth science
+       </a>
+       and
+       <a href="/wiki/Civil_engineering" title="Civil engineering">
+        civil engineering
+       </a>
+       .
+       <sup class="reference" id="cite_ref-:0_14-0">
+        <a href="#cite_note-:0-14">
+         [14]
+        </a>
+       </sup>
+       There are two principal components of engineering seismology. Firstly, studying earthquake history (e.g. historical
+       <sup class="reference" id="cite_ref-:0_14-1">
+        <a href="#cite_note-:0-14">
+         [14]
+        </a>
+       </sup>
+       and instrumental catalogs
+       <sup class="reference" id="cite_ref-15">
+        <a href="#cite_note-15">
+         [15]
+        </a>
+       </sup>
+       of seismicity) and
+       <a href="/wiki/Tectonics" title="Tectonics">
+        tectonics
+       </a>
+       <sup class="reference" id="cite_ref-16">
+        <a href="#cite_note-16">
+         [16]
+        </a>
+       </sup>
+       to assess the
+       <a href="/wiki/Earthquake" title="Earthquake">
+        earthquakes
+       </a>
+       that could occur in a region and their characteristics and frequency of occurrence. Secondly, studying strong ground motions generated by earthquakes to assess the expected shaking from future earthquakes with similar characteristics. These strong ground motions could either be observations from
+       <a href="/wiki/Accelerometer" title="Accelerometer">
+        accelerometers
+       </a>
+       or
+       <a href="/wiki/Seismometer" title="Seismometer">
+        seismometers
+       </a>
+       or those simulated by computers using various techniques
+       <sup class="reference" id="cite_ref-17">
+        <a href="#cite_note-17">
+         [17]
+        </a>
+       </sup>
+       , which are then often used to develop ground motion prediction equations
+       <sup class="reference" id="cite_ref-18">
+        <a href="#cite_note-18">
+         [18]
+        </a>
+       </sup>
+       (or ground-motion models)
+       <a class="external autonumber" href="http://www.gmpe.org.uk/" rel="nofollow">
+        [1]
+       </a>
+       .
+      </p>
+      <h2>
+       <span class="mw-headline" id="Tools">
+        Tools
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Seismology&amp;action=edit&amp;section=13" title="Edit section: Tools">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       Seismological instruments can generate large amounts of data. Systems for processing such data include:
+      </p>
+      <ul>
+       <li>
+        CUSP (Caltech-USGS Seismic Processing)
+        <sup class="reference" id="cite_ref-19">
+         <a href="#cite_note-19">
+          [19]
+         </a>
+        </sup>
+       </li>
+       <li>
+        <a href="/wiki/RadExPro_seismic_software" title="RadExPro seismic software">
+         RadExPro seismic software
+        </a>
+       </li>
+       <li>
+        SeisComP3
+        <sup class="reference" id="cite_ref-20">
+         <a href="#cite_note-20">
+          [20]
+         </a>
+        </sup>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="Notable_seismologists">
+        Notable seismologists
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Seismology&amp;action=edit&amp;section=14" title="Edit section: Notable seismologists">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="hatnote navigation-not-searchable" role="note">
+       See also:
+       <a href="/wiki/Category:Seismologists" title="Category:Seismologists">
+        Category:Seismologists
+       </a>
+      </div>
+      <div class="div-col columns column-count column-count-5" style="-moz-column-count: 5; -webkit-column-count: 5; column-count: 5;">
+       <ul>
+        <li>
+         <a href="/wiki/Keiiti_Aki" title="Keiiti Aki">
+          Aki, Keiiti
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Don_L._Anderson" title="Don L. Anderson">
+          Don L. Anderson
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Bruce_Bolt" title="Bruce Bolt">
+          Bolt, Bruce
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Jon_Claerbout" title="Jon Claerbout">
+          Claerbout, Jon
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Adam_Dziewonski" title="Adam Dziewonski">
+          Dziewonski, Adam Marian
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Maurice_Ewing" title="Maurice Ewing">
+          Ewing, Maurice
+         </a>
+        </li>
+        <li>
+         <a class="mw-redirect" href="/wiki/Boris_Borisovich_Galitzine" title="Boris Borisovich Galitzine">
+          Galitzine, Boris Borisovich
+         </a>
+        </li>
+        <li>
+         <a class="mw-redirect" href="/wiki/Grigoriy_A._Gamburtsev" title="Grigoriy A. Gamburtsev">
+          Gamburtsev, Grigory A.
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Beno_Gutenberg" title="Beno Gutenberg">
+          Gutenberg, Beno
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Susan_Hough" title="Susan Hough">
+          Hough, Susan
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Harold_Jeffreys" title="Harold Jeffreys">
+          Jeffreys, Harold
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Lucy_Jones" title="Lucy Jones">
+          Jones, Lucy
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Hiroo_Kanamori" title="Hiroo Kanamori">
+          Kanamori, Hiroo
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Vladimir_Keilis-Borok" title="Vladimir Keilis-Borok">
+          Keilis-Borok, Vladimir
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Leon_Knopoff" title="Leon Knopoff">
+          Knopoff, Leon
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Inge_Lehmann" title="Inge Lehmann">
+          Lehmann, Inge
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Robert_Mallet" title="Robert Mallet">
+          Mallet, Robert
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Giuseppe_Mercalli" title="Giuseppe Mercalli">
+          Mercalli, Giuseppe
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/John_Milne" title="John Milne">
+          Milne, John
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Andrija_Mohorovi%C4%8Di%C4%87" title="Andrija Mohorovičić">
+          Mohorovičić, Andrija
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Richard_Dixon_Oldham" title="Richard Dixon Oldham">
+          Oldham, Richard Dixon
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Fusakichi_Omori" title="Fusakichi Omori">
+          Fusakichi Omori
+         </a>
+        </li>
+        <li>
+         <a class="mw-redirect" href="/wiki/Sebasti%C3%A3o_Jos%C3%A9_de_Carvalho_e_Melo" title="Sebastião José de Carvalho e Melo">
+          Sebastião de Melo, Marquis of Pombal
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Frank_Press" title="Frank Press">
+          Press, Frank
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Paul_G._Richards" title="Paul G. Richards">
+          Richards, Paul G.
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Charles_Francis_Richter" title="Charles Francis Richter">
+          Richter, Charles Francis
+         </a>
+        </li>
+        <li>
+         <a class="mw-redirect" href="/wiki/Seikei_Sekiya" title="Seikei Sekiya">
+          Sekiya, Seikei
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Kerry_Sieh" title="Kerry Sieh">
+          Sieh, Kerry
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Paul_Silver" title="Paul Silver">
+          Paul G. Silver
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Brian_Tucker" title="Brian Tucker">
+          Tucker, Brian
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/John_Vidale" title="John Vidale">
+          Vidale, John
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Lianxing_Wen" title="Lianxing Wen">
+          Wen, Lianxing
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/John_Winthrop_(educator)" title="John Winthrop (educator)">
+          Winthrop, John
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Zhang_Heng" title="Zhang Heng">
+          Zhang Heng
+         </a>
+        </li>
+       </ul>
+      </div>
+      <h2>
+       <span class="mw-headline" id="See_also">
+        See also
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Seismology&amp;action=edit&amp;section=15" title="Edit section: See also">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="div-col columns column-count column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2;">
+       <ul>
+        <li>
+         <a href="/wiki/Asteroseismology" title="Asteroseismology">
+          Asteroseismology
+         </a>
+         (starquakes)
+        </li>
+        <li>
+         <a href="/wiki/Comparison_of_free_geophysics_software" title="Comparison of free geophysics software">
+          Comparison of free geophysics software
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Cryoseism" title="Cryoseism">
+          Cryoseism
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Engineering_geology" title="Engineering geology">
+          Engineering geology
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Forensic_seismology" title="Forensic seismology">
+          Forensic seismology
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Harmonic_tremor" title="Harmonic tremor">
+          Harmonic tremor
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Helioseismology" title="Helioseismology">
+          Helioseismology
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/IRIS_Consortium" title="IRIS Consortium">
+          IRIS Consortium
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Isoseismal_map" title="Isoseismal map">
+          Isoseismal map
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Linear_seismic_inversion" title="Linear seismic inversion">
+          Linear seismic inversion
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Lunar_seismology" title="Lunar seismology">
+          Lunar seismology
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Quake_(natural_phenomenon)" title="Quake (natural phenomenon)">
+          Quake (natural phenomenon)
+         </a>
+         , includes planets and stars
+        </li>
+        <li>
+         <a href="/wiki/Seismic_interferometry" title="Seismic interferometry">
+          Seismic interferometry
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Seismic_loading" title="Seismic loading">
+          Seismic loading
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Seismic_migration" title="Seismic migration">
+          Seismic migration
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Seismic_noise" title="Seismic noise">
+          Seismic noise
+         </a>
+        </li>
+        <li>
+         <a class="mw-redirect" href="/wiki/Seismic_performance_analysis" title="Seismic performance analysis">
+          Seismic performance analysis
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Seismite" title="Seismite">
+          Seismite
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Seismo-electromagnetics" title="Seismo-electromagnetics">
+          Seismo-electromagnetics
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Seismotectonics" title="Seismotectonics">
+          Seismotectonics
+         </a>
+        </li>
+       </ul>
+      </div>
+      <h2>
+       <span class="mw-headline" id="Notes">
+        Notes
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Seismology&amp;action=edit&amp;section=16" title="Edit section: Notes">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="reflist" style="list-style-type: decimal;">
+       <div class="mw-references-wrap mw-references-columns">
+        <ol class="references">
+         <li id="cite_note-1">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-1">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.cambridge.org/us/academic/subjects/earth-and-environmental-science/structural-geology-tectonics-and-geodynamics/history-and-philosophy-earthquakes-accompanied-john-michells-conjectures-concerning-cause-and-observations-upon-phaenomena-earthquakes" rel="nofollow">
+             "The History and Philosophy of Earthquakes"
+            </a>
+            .
+            <i>
+             Cambridge University Press
+            </i>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              2016-07-22
+             </span>
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Cambridge+University+Press&amp;rft.atitle=The+History+and+Philosophy+of+Earthquakes&amp;rft_id=http%3A%2F%2Fwww.cambridge.org%2Fus%2Facademic%2Fsubjects%2Fearth-and-environmental-science%2Fstructural-geology-tectonics-and-geodynamics%2Fhistory-and-philosophy-earthquakes-accompanied-john-michells-conjectures-concerning-cause-and-observations-upon-phaenomena-earthquakes&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeismology">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-2">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-2">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Society, The Royal (2005-01-22).
+            <a class="external text" href="http://rsnr.royalsocietypublishing.org/content/59/1/45" rel="nofollow">
+             "Robert Mallet and the 'Great Neapolitan earthquake' of 1857"
+            </a>
+            .
+            <i>
+             Notes and Records
+            </i>
+            .
+            <b>
+             59
+            </b>
+            (1): 45–64.
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1098%2Frsnr.2004.0076" rel="nofollow">
+             10.1098/rsnr.2004.0076
+            </a>
+            .
+            <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">
+             ISSN
+            </a>
+            <a class="external text" href="//www.worldcat.org/issn/0035-9149" rel="nofollow">
+             0035-9149
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Notes+and+Records&amp;rft.atitle=Robert+Mallet+and+the+%E2%80%98Great+Neapolitan+earthquake%E2%80%99+of+1857&amp;rft.volume=59&amp;rft.issue=1&amp;rft.pages=45-64&amp;rft.date=2005-01-22&amp;rft_id=info%3Adoi%2F10.1098%2Frsnr.2004.0076&amp;rft.issn=0035-9149&amp;rft.aulast=Society&amp;rft.aufirst=The+Royal&amp;rft_id=http%3A%2F%2Frsnr.royalsocietypublishing.org%2Fcontent%2F59%2F1%2F45&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeismology">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-3">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-3">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            <a class="external text" href="http://onlinelibrary.wiley.com/store/10.1029/2012EO070002/asset/eost18389.pdf?v=1&amp;t=iqy2dgy7&amp;s=1ed7ebdc8ea0ba775b8069cb3966a9924d01257c" rel="nofollow">
+             "http://onlinelibrary.wiley.com/store/10.1029/2012EO070002/asset/eost18389.pdf?v=1&amp;t=iqy2dgy7&amp;s=1ed7ebdc8ea0ba775b8069cb3966a9924d01257c"
+            </a>
+            <span style="font-size:85%;">
+             (PDF)
+            </span>
+            .
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1029%2F2012eo070002%2Fasset%2Feost18389.pdf" rel="nofollow">
+             10.1029/2012eo070002/asset/eost18389.pdf
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=http%3A%2F%2Fonlinelibrary.wiley.com%2Fstore%2F10.1029%2F2012EO070002%2Fasset%2Feost18389.pdf%3Fv%3D1%26t%3Diqy2dgy7%26s%3D1ed7ebdc8ea0ba775b8069cb3966a9924d01257c&amp;rft_id=info%3Adoi%2F10.1029%2F2012eo070002%2Fasset%2Feost18389.pdf&amp;rft_id=http%3A%2F%2Fonlinelibrary.wiley.com%2Fstore%2F10.1029%2F2012EO070002%2Fasset%2Feost18389.pdf%3Fv%3D1%26t%3Diqy2dgy7%26s%3D1ed7ebdc8ea0ba775b8069cb3966a9924d01257c&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeismology">
+            <span style="display:none;">
+            </span>
+           </span>
+           <span class="error citation-comment" style="font-size:100%">
+            External link in
+            <code style="color:inherit; border:inherit; padding:inherit;">
+             |title=
+            </code>
+            (
+            <a href="/wiki/Help:CS1_errors#param_has_ext_link" title="Help:CS1 errors">
+             help
+            </a>
+            )
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-4">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-4">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation encyclopaedia">
+            "Oldham, Richard Dixon".
+            <i>
+             Complete Dictionary of Scientific Biography
+            </i>
+            .
+            <b>
+             10
+            </b>
+            .
+            <a href="/wiki/Charles_Scribner%27s_Sons" title="Charles Scribner's Sons">
+             Charles Scribner's Sons
+            </a>
+            . 2008. p. 203.
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Oldham%2C+Richard+Dixon&amp;rft.btitle=Complete+Dictionary+of+Scientific+Biography&amp;rft.pages=203&amp;rft.pub=Charles+Scribner%27s+Sons&amp;rft.date=2008&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeismology">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-5">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-5">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="https://earthquake.usgs.gov/regional/nca/1906/18april/reid.php" rel="nofollow">
+             "Reid's Elastic Rebound Theory"
+            </a>
+            .
+            <i>
+             earthquake.usgs.gov
+            </i>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              2016-07-22
+             </span>
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=earthquake.usgs.gov&amp;rft.atitle=Reid%27s+Elastic+Rebound+Theory&amp;rft_id=https%3A%2F%2Fearthquake.usgs.gov%2Fregional%2Fnca%2F1906%2F18april%2Freid.php&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeismology">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-6">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-6">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Jeffreys, Harold (1926-06-01).
+            <a class="external text" href="http://onlinelibrary.wiley.com/doi/10.1111/j.1365-246X.1926.tb05381.x/abstract" rel="nofollow">
+             "On the Amplitudes of Bodily Seismic Waues"
+            </a>
+            .
+            <i>
+             Geophysical Journal International
+            </i>
+            .
+            <b>
+             1
+            </b>
+            : 334–348.
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1111%2Fj.1365-246X.1926.tb05381.x" rel="nofollow">
+             10.1111/j.1365-246X.1926.tb05381.x
+            </a>
+            .
+            <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">
+             ISSN
+            </a>
+            <a class="external text" href="//www.worldcat.org/issn/1365-246X" rel="nofollow">
+             1365-246X
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Geophysical+Journal+International&amp;rft.atitle=On+the+Amplitudes+of+Bodily+Seismic+Waues.&amp;rft.volume=1&amp;rft.pages=334-348&amp;rft.date=1926-06-01&amp;rft_id=info%3Adoi%2F10.1111%2Fj.1365-246X.1926.tb05381.x&amp;rft.issn=1365-246X&amp;rft.aulast=Jeffreys&amp;rft.aufirst=Harold&amp;rft_id=http%3A%2F%2Fonlinelibrary.wiley.com%2Fdoi%2F10.1111%2Fj.1365-246X.1926.tb05381.x%2Fabstract&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeismology">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-7">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-7">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Hjortenberg, Eric (December 2009).
+            <a class="external text" href="http://www.annalsofgeophysics.eu/index.php/annals/article/viewFile/4625/4693" rel="nofollow">
+             "Inge Lehmann's work materials and seismological epistolary archive"
+            </a>
+            .
+            <i>
+             Annals of Geophysics
+            </i>
+            .
+            <b>
+             52
+            </b>
+            (6).
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Annals+of+Geophysics&amp;rft.atitle=Inge+Lehmann%E2%80%99s+work+materials+and+seismological+epistolary+archive&amp;rft.volume=52&amp;rft.issue=6&amp;rft.date=2009-12&amp;rft.aulast=Hjortenberg&amp;rft.aufirst=Eric&amp;rft_id=http%3A%2F%2Fwww.annalsofgeophysics.eu%2Findex.php%2Fannals%2Farticle%2FviewFile%2F4625%2F4693&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeismology">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-Gubbins1990-8">
+          <span class="mw-cite-backlink">
+           ^
+           <a href="#cite_ref-Gubbins1990_8-0">
+            <sup>
+             <i>
+              <b>
+               a
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-Gubbins1990_8-1">
+            <sup>
+             <i>
+              <b>
+               b
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-Gubbins1990_8-2">
+            <sup>
+             <i>
+              <b>
+               c
+              </b>
+             </i>
+            </sup>
+           </a>
+          </span>
+          <span class="reference-text">
+           <a href="#CITEREFGubbins1990">
+            Gubbins 1990
+           </a>
+          </span>
+         </li>
+         <li id="cite_note-Schulte2010-9">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-Schulte2010_9-0">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <a href="#CITEREFSchulte_et_al.2010">
+            Schulte et al. 2010
+           </a>
+          </span>
+         </li>
+         <li id="cite_note-10">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-10">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           Naderyan V, Hickey C, Raspet R.
+           <a class="external text" href="http://onlinelibrary.wiley.com/doi/10.1002/2015JB012478/full" rel="nofollow">
+            Wind-Induced Ground Motion
+           </a>
+           . Journal of Geophysical Research: Solid Earth 121.2 (2016): 917-930.
+          </span>
+         </li>
+         <li id="cite_note-11">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-11">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <a href="#CITEREFWenHelmberger1998">
+            Wen &amp; Helmberger 1998
+           </a>
+          </span>
+         </li>
+         <li id="cite_note-12">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-12">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <a href="#CITEREFHall2011">
+            Hall 2011
+           </a>
+          </span>
+         </li>
+         <li id="cite_note-13">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-13">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation book">
+            Plimer, Richard C. SelleyL. Robin M. CocksIan R., ed. (2005-01-01).
+            <a class="external text" href="http://www.sciencedirect.com/science/article/pii/B0123693969900200" rel="nofollow">
+             <i>
+              Encyclopaedia of Geology
+             </i>
+            </a>
+            . Oxford: Elsevier. pp. 499–515.
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1016%2Fb0-12-369396-9%2F90020-0" rel="nofollow">
+             10.1016/b0-12-369396-9/90020-0
+            </a>
+            .
+            <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+             ISBN
+            </a>
+            <a href="/wiki/Special:BookSources/978-0-12-369396-9" title="Special:BookSources/978-0-12-369396-9">
+             978-0-12-369396-9
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Encyclopaedia+of+Geology&amp;rft.place=Oxford&amp;rft.pages=499-515&amp;rft.pub=Elsevier&amp;rft.date=2005-01-01&amp;rft_id=info%3Adoi%2F10.1016%2Fb0-12-369396-9%2F90020-0&amp;rft.isbn=978-0-12-369396-9&amp;rft_id=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FB0123693969900200&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeismology">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-:0-14">
+          <span class="mw-cite-backlink">
+           ^
+           <a href="#cite_ref-:0_14-0">
+            <sup>
+             <i>
+              <b>
+               a
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-:0_14-1">
+            <sup>
+             <i>
+              <b>
+               b
+              </b>
+             </i>
+            </sup>
+           </a>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Ambraseys, N. N. (1988-12-01).
+            <a class="external text" href="http://onlinelibrary.wiley.com/doi/10.1002/eqe.4290170101/abstract" rel="nofollow">
+             "Engineering seismology: Part I"
+            </a>
+            .
+            <i>
+             Earthquake Engineering &amp; Structural Dynamics
+            </i>
+            .
+            <b>
+             17
+            </b>
+            (1): 1–50.
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1002%2Feqe.4290170101" rel="nofollow">
+             10.1002/eqe.4290170101
+            </a>
+            .
+            <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">
+             ISSN
+            </a>
+            <a class="external text" href="//www.worldcat.org/issn/1096-9845" rel="nofollow">
+             1096-9845
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Earthquake+Engineering+%26+Structural+Dynamics&amp;rft.atitle=Engineering+seismology%3A+Part+I&amp;rft.volume=17&amp;rft.issue=1&amp;rft.pages=1-50&amp;rft.date=1988-12-01&amp;rft_id=info%3Adoi%2F10.1002%2Feqe.4290170101&amp;rft.issn=1096-9845&amp;rft.aulast=Ambraseys&amp;rft.aufirst=N.+N.&amp;rft_id=http%3A%2F%2Fonlinelibrary.wiley.com%2Fdoi%2F10.1002%2Feqe.4290170101%2Fabstract&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeismology">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-15">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-15">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Wiemer, Stefan (2001-05-01).
+            <a class="external text" href="http://srl.geoscienceworld.org/content/72/3/373" rel="nofollow">
+             "A Software Package to Analyze Seismicity: ZMAP"
+            </a>
+            .
+            <i>
+             Seismological Research Letters
+            </i>
+            .
+            <b>
+             72
+            </b>
+            (3): 373–382.
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1785%2Fgssrl.72.3.373" rel="nofollow">
+             10.1785/gssrl.72.3.373
+            </a>
+            .
+            <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">
+             ISSN
+            </a>
+            <a class="external text" href="//www.worldcat.org/issn/0895-0695" rel="nofollow">
+             0895-0695
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Seismological+Research+Letters&amp;rft.atitle=A+Software+Package+to+Analyze+Seismicity%3A+ZMAP&amp;rft.volume=72&amp;rft.issue=3&amp;rft.pages=373-382&amp;rft.date=2001-05-01&amp;rft_id=info%3Adoi%2F10.1785%2Fgssrl.72.3.373&amp;rft.issn=0895-0695&amp;rft.aulast=Wiemer&amp;rft.aufirst=Stefan&amp;rft_id=http%3A%2F%2Fsrl.geoscienceworld.org%2Fcontent%2F72%2F3%2F373&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeismology">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-16">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-16">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Bird, Peter; Liu, Zhen (2007-01-01).
+            <a class="external text" href="http://srl.geoscienceworld.org/content/78/1/37" rel="nofollow">
+             "Seismic Hazard Inferred from Tectonics: California"
+            </a>
+            .
+            <i>
+             Seismological Research Letters
+            </i>
+            .
+            <b>
+             78
+            </b>
+            (1): 37–48.
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1785%2Fgssrl.78.1.37" rel="nofollow">
+             10.1785/gssrl.78.1.37
+            </a>
+            .
+            <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">
+             ISSN
+            </a>
+            <a class="external text" href="//www.worldcat.org/issn/0895-0695" rel="nofollow">
+             0895-0695
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Seismological+Research+Letters&amp;rft.atitle=Seismic+Hazard+Inferred+from+Tectonics%3A+California&amp;rft.volume=78&amp;rft.issue=1&amp;rft.pages=37-48&amp;rft.date=2007-01-01&amp;rft_id=info%3Adoi%2F10.1785%2Fgssrl.78.1.37&amp;rft.issn=0895-0695&amp;rft.aulast=Bird&amp;rft.aufirst=Peter&amp;rft.au=Liu%2C+Zhen&amp;rft_id=http%3A%2F%2Fsrl.geoscienceworld.org%2Fcontent%2F78%2F1%2F37&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeismology">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-17">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-17">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Douglas, John; Aochi, Hideo (2008-10-10).
+            <a class="external text" href="https://link.springer.com/article/10.1007/s10712-008-9046-y" rel="nofollow">
+             "A Survey of Techniques for Predicting Earthquake Ground Motions for Engineering Purposes"
+            </a>
+            .
+            <i>
+             Surveys in Geophysics
+            </i>
+            .
+            <b>
+             29
+            </b>
+            (3): 187–220.
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1007%2Fs10712-008-9046-y" rel="nofollow">
+             10.1007/s10712-008-9046-y
+            </a>
+            .
+            <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">
+             ISSN
+            </a>
+            <a class="external text" href="//www.worldcat.org/issn/0169-3298" rel="nofollow">
+             0169-3298
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Surveys+in+Geophysics&amp;rft.atitle=A+Survey+of+Techniques+for+Predicting+Earthquake+Ground+Motions+for+Engineering+Purposes&amp;rft.volume=29&amp;rft.issue=3&amp;rft.pages=187-220&amp;rft.date=2008-10-10&amp;rft_id=info%3Adoi%2F10.1007%2Fs10712-008-9046-y&amp;rft.issn=0169-3298&amp;rft.aulast=Douglas&amp;rft.aufirst=John&amp;rft.au=Aochi%2C+Hideo&amp;rft_id=https%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs10712-008-9046-y&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeismology">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-18">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-18">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Douglas, John; Edwards, Benjamin (2016-09-01).
+            <a class="external text" href="http://www.sciencedirect.com/science/article/pii/S0012825216301672" rel="nofollow">
+             "Recent and future developments in earthquake ground motion estimation"
+            </a>
+            .
+            <i>
+             Earth-Science Reviews
+            </i>
+            .
+            <b>
+             160
+            </b>
+            : 203–219.
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1016%2Fj.earscirev.2016.07.005" rel="nofollow">
+             10.1016/j.earscirev.2016.07.005
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Earth-Science+Reviews&amp;rft.atitle=Recent+and+future+developments+in+earthquake+ground+motion+estimation&amp;rft.volume=160&amp;rft.pages=203-219&amp;rft.date=2016-09-01&amp;rft_id=info%3Adoi%2F10.1016%2Fj.earscirev.2016.07.005&amp;rft.aulast=Douglas&amp;rft.aufirst=John&amp;rft.au=Edwards%2C+Benjamin&amp;rft_id=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS0012825216301672&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeismology">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-19">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-19">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation conference">
+            Lee, W. H. K.; S. W. Stewart (1989).
+            <a class="external text" href="https://books.google.com/books?id=yLJWcm0HXNIC" rel="nofollow">
+             "Large-Scale Processing and Analysis of Digital Waveform Data from the USGS Central California Microearthquake Network"
+            </a>
+            .
+            <i>
+             Observatory seismology: an anniversary symposium on the occasion of the centennial of the University of California at Berkeley seismographic stations
+            </i>
+            . University of California Press. p. 86
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              2011-10-12
+             </span>
+            </span>
+            .
+            <q>
+             The CUSP (Caltech-USGS Seismic Processing) System consists of on-line real-time earthquake waveform data acquisition routines, coupled with an off-line set of data reduction, timing, and archiving processes. It is a complete system for processing local earthquake data ...
+            </q>
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=conference&amp;rft.atitle=Large-Scale+Processing+and+Analysis+of+Digital+Waveform+Data+from+the+USGS+Central+California+Microearthquake+Network&amp;rft.btitle=Observatory+seismology%3A+an+anniversary+symposium+on+the+occasion+of+the+centennial+of+the+University+of+California+at+Berkeley+seismographic+stations&amp;rft.pages=86&amp;rft.pub=University+of+California+Press&amp;rft.date=1989&amp;rft.aulast=Lee&amp;rft.aufirst=W.+H.+K.&amp;rft.au=S.+W.+Stewart&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DyLJWcm0HXNIC&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeismology">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-20">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-20">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation book">
+            Akkar, Sinan; Polat, Gülkan; van Eck, Torild, eds. (2010).
+            <a class="external text" href="https://books.google.com/books?id=-VRFVONtHPsC" rel="nofollow">
+             <i>
+              Earthquake Data in Engineering Seismology: Predictive Models, Data Management and Networks
+             </i>
+            </a>
+            . Geotechnical, Geological and Earthquake Engineering.
+            <b>
+             14
+            </b>
+            . Springer. p. 194.
+            <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+             ISBN
+            </a>
+            <a href="/wiki/Special:BookSources/978-94-007-0151-9" title="Special:BookSources/978-94-007-0151-9">
+             978-94-007-0151-9
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              2011-10-19
+             </span>
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Earthquake+Data+in+Engineering+Seismology%3A+Predictive+Models%2C+Data+Management+and+Networks&amp;rft.series=Geotechnical%2C+Geological+and+Earthquake+Engineering&amp;rft.pages=194&amp;rft.pub=Springer&amp;rft.date=2010&amp;rft.isbn=978-94-007-0151-9&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D-VRFVONtHPsC&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeismology">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+        </ol>
+       </div>
+      </div>
+      <h2>
+       <span class="mw-headline" id="References">
+        References
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Seismology&amp;action=edit&amp;section=17" title="Edit section: References">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <cite class="citation encyclopaedia" id="CITEREFAllabyAllaby2003">
+         Allaby, Ailsa; Allaby, Michael, eds. (2003).
+         <i>
+          Oxford Dictionary of Earth Sciences
+         </i>
+         (Second ed.).
+         <a href="/wiki/Oxford_University_Press" title="Oxford University Press">
+          Oxford University Press
+         </a>
+         .
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Oxford+Dictionary+of+Earth+Sciences&amp;rft.edition=Second&amp;rft.pub=Oxford+University+Press&amp;rft.date=2003&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeismology">
+         <span style="display:none;">
+         </span>
+        </span>
+       </li>
+       <li>
+        <cite class="citation" id="CITEREFBen-Menahem1995">
+         Ben-Menahem, Ari (1995),
+         <a class="external text" href="https://engineering.purdue.edu/~ce597m/Handouts/ConciseHistory_BenMenahem.pdf" rel="nofollow">
+          "A Concise History of Mainstream Seismology: Origins, Legacy, and Perspectives"
+         </a>
+         <span style="font-size:85%;">
+          (PDF)
+         </span>
+         ,
+         <i>
+          Bulletin of the Seismological Society of America
+         </i>
+         ,
+         <a href="/wiki/Seismological_Society_of_America" title="Seismological Society of America">
+          Seismological Society of America
+         </a>
+         ,
+         <b>
+          85
+         </b>
+         (4): 1202–1225
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Bulletin+of+the+Seismological+Society+of+America&amp;rft.atitle=A+Concise+History+of+Mainstream+Seismology%3A+Origins%2C+Legacy%2C+and+Perspectives&amp;rft.volume=85&amp;rft.issue=4&amp;rft.pages=1202-1225&amp;rft.date=1995&amp;rft.aulast=Ben-Menahem&amp;rft.aufirst=Ari&amp;rft_id=https%3A%2F%2Fengineering.purdue.edu%2F~ce597m%2FHandouts%2FConciseHistory_BenMenahem.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeismology">
+         <span style="display:none;">
+         </span>
+        </span>
+       </li>
+       <li>
+        <cite class="citation book" id="CITEREFEwingJardetzkyPress1957">
+         Ewing, W. M.; Jardetzky, W. S.; Press, F. (1957).
+         <i>
+          Elastic Waves in Layered Media
+         </i>
+         .
+         <a class="mw-redirect" href="/wiki/McGraw-Hill_Book_Company" title="McGraw-Hill Book Company">
+          McGraw-Hill Book Company
+         </a>
+         .
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Elastic+Waves+in+Layered+Media&amp;rft.pub=McGraw-Hill+Book+Company&amp;rft.date=1957&amp;rft.aulast=Ewing&amp;rft.aufirst=W.+M.&amp;rft.au=Jardetzky%2C+W.+S.&amp;rft.au=Press%2C+F.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeismology">
+         <span style="display:none;">
+         </span>
+        </span>
+       </li>
+       <li>
+        <cite class="citation book" id="CITEREFGubbins1990">
+         Gubbins, David (1990).
+         <i>
+          Seismology and Plate Tectonics
+         </i>
+         .
+         <a href="/wiki/Cambridge_University_Press" title="Cambridge University Press">
+          Cambridge University Press
+         </a>
+         .
+         <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+          ISBN
+         </a>
+         <a href="/wiki/Special:BookSources/0-521-37141-4" title="Special:BookSources/0-521-37141-4">
+          0-521-37141-4
+         </a>
+         .
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Seismology+and+Plate+Tectonics&amp;rft.pub=Cambridge+University+Press&amp;rft.date=1990&amp;rft.isbn=0-521-37141-4&amp;rft.aulast=Gubbins&amp;rft.aufirst=David&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeismology">
+         <span style="display:none;">
+         </span>
+        </span>
+       </li>
+       <li>
+        <cite class="citation journal" id="CITEREFHall2011">
+         Hall, Stephen S. (2011). "Scientists on trial: At fault?".
+         <i>
+          <a href="/wiki/Nature_(journal)" title="Nature (journal)">
+           Nature
+          </a>
+         </i>
+         .
+         <b>
+          477
+         </b>
+         (7364): 264–269.
+         <a href="/wiki/Bibcode" title="Bibcode">
+          Bibcode
+         </a>
+         :
+         <a class="external text" href="http://adsabs.harvard.edu/abs/2011Natur.477..264H" rel="nofollow">
+          2011Natur.477..264H
+         </a>
+         .
+         <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+          doi
+         </a>
+         :
+         <a class="external text" href="//doi.org/10.1038%2F477264a" rel="nofollow">
+          10.1038/477264a
+         </a>
+         .
+         <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">
+          PMID
+         </a>
+         <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/21921895" rel="nofollow">
+          21921895
+         </a>
+         .
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Nature&amp;rft.atitle=Scientists+on+trial%3A+At+fault%3F&amp;rft.volume=477&amp;rft.issue=7364&amp;rft.pages=264-269&amp;rft.date=2011&amp;rft_id=info%3Apmid%2F21921895&amp;rft_id=info%3Adoi%2F10.1038%2F477264a&amp;rft_id=info%3Abibcode%2F2011Natur.477..264H&amp;rft.aulast=Hall&amp;rft.aufirst=Stephen+S.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeismology">
+         <span style="display:none;">
+         </span>
+        </span>
+       </li>
+       <li>
+        <cite class="citation book" id="CITEREFKanamori2003">
+         <a href="/wiki/Hiroo_Kanamori" title="Hiroo Kanamori">
+          Kanamori, Hiroo
+         </a>
+         (2003).
+         <a class="external text" href="http://www.gps.caltech.edu/uploads/File/People/kanamori/HKees03.pdf" rel="nofollow">
+          <i>
+           Earthquake prediction: An overview
+          </i>
+         </a>
+         <span style="font-size:85%;">
+          (PDF)
+         </span>
+         . International Handbook of Earthquake and Engineering Seismology.
+         <b>
+          81B
+         </b>
+         . International Association of Seismology &amp; Physics of the Earth's Interior. pp. 1205–1216.
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Earthquake+prediction%3A+An+overview&amp;rft.series=International+Handbook+of+Earthquake+and+Engineering+Seismology&amp;rft.pages=1205-1216&amp;rft.pub=International+Association+of+Seismology+%26+Physics+of+the+Earth%27s+Interior&amp;rft.date=2003&amp;rft.aulast=Kanamori&amp;rft.aufirst=Hiroo&amp;rft_id=http%3A%2F%2Fwww.gps.caltech.edu%2Fuploads%2FFile%2FPeople%2Fkanamori%2FHKees03.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeismology">
+         <span style="display:none;">
+         </span>
+        </span>
+       </li>
+       <li>
+        <cite class="citation book" id="CITEREFLay2009">
+         Lay, Thorne, ed. (2009).
+         <a class="external text" href="http://www.iris.edu/hq/lrsps/seis_plan_final.pdf" rel="nofollow">
+          <i>
+           Seismological Grand Challenges in Understanding Earth's Dynamic Systems
+          </i>
+         </a>
+         <span style="font-size:85%;">
+          (PDF)
+         </span>
+         . Report to the National Science Foundation, IRIS consortium.
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Seismological+Grand+Challenges+in+Understanding+Earth%27s+Dynamic+Systems&amp;rft.series=Report+to+the+National+Science+Foundation%2C+IRIS+consortium&amp;rft.date=2009&amp;rft_id=http%3A%2F%2Fwww.iris.edu%2Fhq%2Flrsps%2Fseis_plan_final.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeismology">
+         <span style="display:none;">
+         </span>
+        </span>
+       </li>
+       <li>
+        <cite class="citation journal" id="CITEREFSchulte_et_al.2010">
+         Schulte, Peter; Laia Alegret; Ignacio Arenillas; José A. Arz; Penny J. Barton; Paul R. Bown; Timothy J. Bralower; Gail L. Christeson; Philippe Claeys; Charles S. Cockell; Gareth S. Collins; Alexander Deutsch; Tamara J. Goldin; Kazuhisa Goto; José M. Grajales-Nishimura; Richard A. F. Grieve; Sean P. S. Gulick; Kirk R. Johnson; Wolfgang Kiessling; Christian Koeberl; David A. Kring; Kenneth G. MacLeod; Takafumi Matsui; Jay Melosh; Alessandro Montanari; Joanna V. Morgan; Clive R. Neal; Douglas J. Nichols; Richard D. Norris; Elisabetta Pierazzo; Greg Ravizza; Mario Rebolledo-Vieyra; Wolf Uwe Reimold; Eric Robin; Tobias Salge; Robert P. Speijer; Arthur R. Sweet; Jaime Urrutia-Fucugauchi; Vivi Vajda; Michael T. Whalen; Pi S. Willumsen (5 March 2010).
+         <a class="external text" href="http://www.sciencemag.org/cgi/content/abstract/327/5970/1214" rel="nofollow">
+          "The Chicxulub Asteroid Impact and Mass Extinction at the Cretaceous-Paleogene Boundary"
+         </a>
+         .
+         <i>
+          Science
+         </i>
+         . AAAS.
+         <b>
+          327
+         </b>
+         (5970): 1214–1218.
+         <a href="/wiki/Bibcode" title="Bibcode">
+          Bibcode
+         </a>
+         :
+         <a class="external text" href="http://adsabs.harvard.edu/abs/2010Sci...327.1214S" rel="nofollow">
+          2010Sci...327.1214S
+         </a>
+         .
+         <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+          doi
+         </a>
+         :
+         <a class="external text" href="//doi.org/10.1126%2Fscience.1177265" rel="nofollow">
+          10.1126/science.1177265
+         </a>
+         .
+         <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">
+          ISSN
+         </a>
+         <a class="external text" href="//www.worldcat.org/issn/1095-9203" rel="nofollow">
+          1095-9203
+         </a>
+         .
+         <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">
+          PMID
+         </a>
+         <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/20203042" rel="nofollow">
+          20203042
+         </a>
+         <span class="reference-accessdate">
+          . Retrieved
+          <span class="nowrap">
+           5 March
+          </span>
+          2010
+         </span>
+         .
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Science&amp;rft.atitle=The+Chicxulub+Asteroid+Impact+and+Mass+Extinction+at+the+Cretaceous-Paleogene+Boundary&amp;rft.volume=327&amp;rft.issue=5970&amp;rft.pages=1214-1218&amp;rft.date=2010-03-05&amp;rft_id=info%3Adoi%2F10.1126%2Fscience.1177265&amp;rft.issn=1095-9203&amp;rft_id=info%3Apmid%2F20203042&amp;rft_id=info%3Abibcode%2F2010Sci...327.1214S&amp;rft.aulast=Schulte&amp;rft.aufirst=Peter&amp;rft.au=Laia+Alegret&amp;rft.au=Ignacio+Arenillas&amp;rft.au=Jos%C3%A9+A.+Arz&amp;rft.au=Penny+J.+Barton&amp;rft.au=Paul+R.+Bown&amp;rft.au=Timothy+J.+Bralower&amp;rft.au=Gail+L.+Christeson&amp;rft.au=Philippe+Claeys&amp;rft.au=Charles+S.+Cockell&amp;rft.au=Gareth+S.+Collins&amp;rft.au=Alexander+Deutsch&amp;rft.au=Tamara+J.+Goldin&amp;rft.au=Kazuhisa+Goto&amp;rft.au=Jos%C3%A9+M.+Grajales-Nishimura&amp;rft.au=Richard+A.+F.+Grieve&amp;rft.au=Sean+P.+S.+Gulick&amp;rft.au=Kirk+R.+Johnson&amp;rft.au=Wolfgang+Kiessling&amp;rft.au=Christian+Koeberl&amp;rft.au=David+A.+Kring&amp;rft.au=Kenneth+G.+MacLeod&amp;rft.au=Takafumi+Matsui&amp;rft.au=Jay+Melosh&amp;rft.au=Alessandro+Montanari&amp;rft.au=Joanna+V.+Morgan&amp;rft.au=Clive+R.+Neal&amp;rft.au=Douglas+J.+Nichols&amp;rft.au=Richard+D.+Norris&amp;rft.au=Elisabetta+Pierazzo&amp;rft.au=Greg+Ravizza&amp;rft.au=Mario+Rebolledo-Vieyra&amp;rft.au=Wolf+Uwe+Reimold&amp;rft.au=Eric+Robin&amp;rft.au=Tobias+Salge&amp;rft.au=Robert+P.+Speijer&amp;rft.au=Arthur+R.+Sweet&amp;rft.au=Jaime+Urrutia-Fucugauchi&amp;rft.au=Vivi+Vajda&amp;rft.au=Michael+T.+Whalen&amp;rft.au=Pi+S.+Willumsen&amp;rft_id=http%3A%2F%2Fwww.sciencemag.org%2Fcgi%2Fcontent%2Fabstract%2F327%2F5970%2F1214&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeismology">
+         <span style="display:none;">
+         </span>
+        </span>
+       </li>
+       <li>
+        <cite class="citation book" id="CITEREFShearer2009">
+         Shearer, Peter M. (2009).
+         <i>
+          Introduction to Seismology
+         </i>
+         (Second ed.).
+         <a href="/wiki/Cambridge_University_Press" title="Cambridge University Press">
+          Cambridge University Press
+         </a>
+         .
+         <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+          ISBN
+         </a>
+         <a href="/wiki/Special:BookSources/978-0-521-70842-5" title="Special:BookSources/978-0-521-70842-5">
+          978-0-521-70842-5
+         </a>
+         .
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Introduction+to+Seismology&amp;rft.edition=Second&amp;rft.pub=Cambridge+University+Press&amp;rft.date=2009&amp;rft.isbn=978-0-521-70842-5&amp;rft.aulast=Shearer&amp;rft.aufirst=Peter+M.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeismology">
+         <span style="display:none;">
+         </span>
+        </span>
+       </li>
+       <li>
+        <cite class="citation book" id="CITEREFSteinWysession2002">
+         Stein, Seth; Wysession, Michael (2002).
+         <i>
+          An Introduction to Seismology, Earthquakes and Earth Structure
+         </i>
+         .
+         <a href="/wiki/Wiley-Blackwell" title="Wiley-Blackwell">
+          Wiley-Blackwell
+         </a>
+         .
+         <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+          ISBN
+         </a>
+         <a href="/wiki/Special:BookSources/978-0-86542-078-6" title="Special:BookSources/978-0-86542-078-6">
+          978-0-86542-078-6
+         </a>
+         .
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=An+Introduction+to+Seismology%2C+Earthquakes+and+Earth+Structure&amp;rft.pub=Wiley-Blackwell&amp;rft.date=2002&amp;rft.isbn=978-0-86542-078-6&amp;rft.aulast=Stein&amp;rft.aufirst=Seth&amp;rft.au=Wysession%2C+Michael&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeismology">
+         <span style="display:none;">
+         </span>
+        </span>
+       </li>
+       <li>
+        <cite class="citation journal" id="CITEREFWenHelmberger1998">
+         Wen, Lianxing; Helmberger, Donald V. (1998).
+         <a class="external text" href="http://geophysics.geo.sunysb.edu/wen/Reprints/WenHelmberger98Science.pdf" rel="nofollow">
+          "Ultra-Low Velocity Zones Near the Core-Mantle Boundary from Broadband PKP Precursors"
+         </a>
+         <span style="font-size:85%;">
+          (PDF)
+         </span>
+         .
+         <i>
+          <a href="/wiki/Science_(journal)" title="Science (journal)">
+           Science
+          </a>
+         </i>
+         .
+         <b>
+          279
+         </b>
+         (5357): 1701–1703.
+         <a href="/wiki/Bibcode" title="Bibcode">
+          Bibcode
+         </a>
+         :
+         <a class="external text" href="http://adsabs.harvard.edu/abs/1998Sci...279.1701W" rel="nofollow">
+          1998Sci...279.1701W
+         </a>
+         .
+         <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+          doi
+         </a>
+         :
+         <a class="external text" href="//doi.org/10.1126%2Fscience.279.5357.1701" rel="nofollow">
+          10.1126/science.279.5357.1701
+         </a>
+         .
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Science&amp;rft.atitle=Ultra-Low+Velocity+Zones+Near+the+Core-Mantle+Boundary+from+Broadband+PKP+Precursors&amp;rft.volume=279&amp;rft.issue=5357&amp;rft.pages=1701-1703&amp;rft.date=1998&amp;rft_id=info%3Adoi%2F10.1126%2Fscience.279.5357.1701&amp;rft_id=info%3Abibcode%2F1998Sci...279.1701W&amp;rft.aulast=Wen&amp;rft.aufirst=Lianxing&amp;rft.au=Helmberger%2C+Donald+V.&amp;rft_id=http%3A%2F%2Fgeophysics.geo.sunysb.edu%2Fwen%2FReprints%2FWenHelmberger98Science.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeismology">
+         <span style="display:none;">
+         </span>
+        </span>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="External_links">
+        External links
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Seismology&amp;action=edit&amp;section=18" title="Edit section: External links">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+       <tr>
+        <td class="mbox-image">
+         <img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/>
+        </td>
+        <td class="mbox-text plainlist">
+         Wikimedia Commons has media related to
+         <i>
+          <b>
+           <a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Seismology" title="commons:Category:Seismology">
+            Seismology
+           </a>
+          </b>
+         </i>
+         .
+        </td>
+       </tr>
+      </table>
+      <ul>
+       <li>
+        <a class="external text" href="http://www.emsc-csem.org/" rel="nofollow">
+         European-Mediterranean Seismological Center
+        </a>
+        , real-time earthquake information website.
+       </li>
+       <li>
+        <a class="external text" href="http://www.seismosoc.org/" rel="nofollow">
+         Seismological Society of America
+        </a>
+        .
+       </li>
+       <li>
+        <a class="external text" href="http://www.iris.edu/" rel="nofollow">
+         Incorporated Research Institutions for Seismology
+        </a>
+        .
+       </li>
+       <li>
+        <a class="external text" href="https://earthquake.usgs.gov/earthquakes/" rel="nofollow">
+         USGS Earthquake Hazards Program
+        </a>
+        .
+       </li>
+      </ul>
+      <div aria-labelledby="Geophysics" class="navbox" role="navigation" style="padding:3px">
+       <table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tr>
+         <th class="navbox-title" colspan="2" scope="col">
+          <div class="plainlinks hlist navbar mini">
+           <ul>
+            <li class="nv-view">
+             <a href="/wiki/Template:Geophysics_navbox" title="Template:Geophysics navbox">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">
+               v
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-talk">
+             <a href="/wiki/Template_talk:Geophysics_navbox" title="Template talk:Geophysics navbox">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">
+               t
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-edit">
+             <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Geophysics_navbox&amp;action=edit">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">
+               e
+              </abbr>
+             </a>
+            </li>
+           </ul>
+          </div>
+          <div id="Geophysics" style="font-size:114%;margin:0 4em">
+           <a href="/wiki/Geophysics" title="Geophysics">
+            Geophysics
+           </a>
+          </div>
+         </th>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          <center>
+           Overview
+          </center>
+         </th>
+         <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Outline_of_geophysics" title="Outline of geophysics">
+              Outline
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/List_of_geophysicists" title="List of geophysicists">
+              Geophysicists
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          <center>
+           Subfields
+          </center>
+         </th>
+         <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Geophysical_fluid_dynamics" title="Geophysical fluid dynamics">
+              Geophysical fluid dynamics
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Geodesy" title="Geodesy">
+              Geodesy
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Geodynamics" title="Geodynamics">
+              Geodynamics
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Earth%27s_magnetic_field" title="Earth's magnetic field">
+              Geomagnetism
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Mathematical_geophysics" title="Mathematical geophysics">
+              Mathematical geophysics
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Mineral_physics" title="Mineral physics">
+              Mineral physics
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Near-surface_geophysics" title="Near-surface geophysics">
+              Near-surface geophysics
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Paleomagnetism" title="Paleomagnetism">
+              Paleomagnetism
+             </a>
+            </li>
+            <li>
+             <a class="mw-selflink selflink">
+              Seismology
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Tectonophysics" title="Tectonophysics">
+              Tectonophysics
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          <center>
+           Physical
+           <br/>
+           phenomena
+          </center>
+         </th>
+         <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Chandler_wobble" title="Chandler wobble">
+              Chandler wobble
+             </a>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/Coriolis_effect" title="Coriolis effect">
+              Coriolis effect
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Earth%27s_magnetic_field" title="Earth's magnetic field">
+              Earth's magnetic field
+             </a>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/Geodynamo" title="Geodynamo">
+              Geodynamo
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Geothermal_gradient" title="Geothermal gradient">
+              Geothermal gradient
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Gravity_of_Earth" title="Gravity of Earth">
+              Gravity of Earth
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Mantle_convection" title="Mantle convection">
+              Mantle convection
+             </a>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/Precession_of_the_equinoxes" title="Precession of the equinoxes">
+              Precession of the equinoxes
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Seismic_wave" title="Seismic wave">
+              Seismic wave
+             </a>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/Tides" title="Tides">
+              Tides
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          <center>
+           Organizations
+          </center>
+         </th>
+         <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/American_Geophysical_Union" title="American Geophysical Union">
+              American Geophysical Union
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/American_Meteorological_Society" title="American Meteorological Society">
+              American Meteorological Society
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Canadian_Geophysical_Union" title="Canadian Geophysical Union">
+              Canadian Geophysical Union
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Environmental_and_Engineering_Geophysical_Society" title="Environmental and Engineering Geophysical Society">
+              Environmental and Engineering Geophysical Society
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/European_Association_of_Geoscientists_and_Engineers" title="European Association of Geoscientists and Engineers">
+              European Association of Geoscientists and Engineers
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/European_Geosciences_Union" title="European Geosciences Union">
+              European Geosciences Union
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/International_Association_of_Geomagnetism_and_Aeronomy" title="International Association of Geomagnetism and Aeronomy">
+              International Association of Geomagnetism and Aeronomy
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/International_Union_of_Geodesy_and_Geophysics" title="International Union of Geodesy and Geophysics">
+              International Union of Geodesy and Geophysics
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Royal_Astronomical_Society" title="Royal Astronomical Society">
+              Royal Astronomical Society
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Society_of_Exploration_Geophysicists" title="Society of Exploration Geophysicists">
+              Society of Exploration Geophysicists
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Seismological_Society_of_America" title="Seismological Society of America">
+              Seismological Society of America
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+       </table>
+      </div>
+      <div aria-labelledby="Geology" class="navbox" role="navigation" style="padding:3px">
+       <table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tr>
+         <th class="navbox-title" colspan="2" scope="col">
+          <div class="plainlinks hlist navbar mini">
+           <ul>
+            <li class="nv-view">
+             <a href="/wiki/Template:Geology" title="Template:Geology">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">
+               v
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-talk">
+             <a href="/wiki/Template_talk:Geology" title="Template talk:Geology">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">
+               t
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-edit">
+             <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Geology&amp;action=edit">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">
+               e
+              </abbr>
+             </a>
+            </li>
+           </ul>
+          </div>
+          <div id="Geology" style="font-size:114%;margin:0 4em">
+           <a href="/wiki/Geology" title="Geology">
+            Geology
+           </a>
+          </div>
+         </th>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          Overviews
+         </th>
+         <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Outline_of_geology" title="Outline of geology">
+              Outline of geology
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Index_of_geology_articles" title="Index of geology articles">
+              Index of geology articles
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          Сomposition and structure
+         </th>
+         <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Geochemistry" title="Geochemistry">
+              Geochemistry
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Crystallography" title="Crystallography">
+              Crystallography
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Mineralogy" title="Mineralogy">
+              Mineralogy
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Petrography" title="Petrography">
+              Petrography
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Petrology" title="Petrology">
+              Petrology
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          <a href="/wiki/Historical_geology" title="Historical geology">
+           Historical geology
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Stratigraphy" title="Stratigraphy">
+              Stratigraphy
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Paleontology" title="Paleontology">
+              Paleontology
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Paleoclimatology" title="Paleoclimatology">
+              Paleoclimatology
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          Motion
+         </th>
+         <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Structural_geology" title="Structural geology">
+              Structural geology
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Geodynamics" title="Geodynamics">
+              Geodynamics
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Plate_tectonics" title="Plate tectonics">
+              Plate tectonics
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Geomorphology" title="Geomorphology">
+              Geomorphology
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          Water
+         </th>
+         <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Glaciology" title="Glaciology">
+              Glaciology
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Hydrogeology" title="Hydrogeology">
+              Hydrogeology
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Marine_geology" title="Marine geology">
+              Marine geology
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          <a href="/wiki/Geophysics" title="Geophysics">
+           Geophysics
+          </a>
+         </th>
+         <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Geodesy" title="Geodesy">
+              Geodesy
+             </a>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/Geomagnetism" title="Geomagnetism">
+              Geomagnetism
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Geophysical_survey" title="Geophysical survey">
+              Geophysical survey
+             </a>
+            </li>
+            <li>
+             <a class="mw-selflink selflink">
+              Seismology
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Tectonophysics" title="Tectonophysics">
+              Tectonophysics
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          Applications
+         </th>
+         <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Economic_geology" title="Economic geology">
+              Economic geology
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Engineering_geology" title="Engineering geology">
+              Engineering geology
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Planetary_geology" title="Planetary geology">
+              Planetary geology
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <td class="navbox-abovebelow hlist" colspan="2">
+          <div>
+           <ul>
+            <li>
+             <img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/>
+             <b>
+              <a href="/wiki/Category:Geology" title="Category:Geology">
+               Geology
+              </a>
+             </b>
+            </li>
+            <li>
+             <img alt="Portal" data-file-height="28" data-file-width="32" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" title="Portal" width="16"/>
+             <b>
+              <a href="/wiki/Portal:Earth_sciences" title="Portal:Earth sciences">
+               Earth sciences
+              </a>
+             </b>
+            </li>
+            <li>
+             <img alt="WikiProject" data-file-height="100" data-file-width="100" height="16" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/16px-People_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/24px-People_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/32px-People_icon.svg.png 2x" title="WikiProject" width="16"/>
+             <b>
+              <a class="mw-redirect" href="/wiki/Wikipedia:Geology" title="Wikipedia:Geology">
+               Geology
+              </a>
+             </b>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+       </table>
+      </div>
+      <div aria-label="Navbox" class="navbox" role="navigation" style="padding:3px">
+       <table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          <a href="/wiki/Help:Authority_control" title="Help:Authority control">
+           Authority control
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <span class="nowrap">
+              <a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">
+               LCCN
+              </a>
+              :
+              <span class="uid">
+               <a class="external text" href="http://id.loc.gov/authorities/subjects/sh85119634" rel="nofollow">
+                sh85119634
+               </a>
+              </span>
+             </span>
+            </li>
+            <li>
+             <span class="nowrap">
+              <a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">
+               GND
+              </a>
+              :
+              <span class="uid">
+               <a class="external text" href="https://d-nb.info/gnd/4379341-1" rel="nofollow">
+                4379341-1
+               </a>
+              </span>
+             </span>
+            </li>
+            <li>
+             <span class="nowrap">
+              <a href="/wiki/National_Diet_Library" title="National Diet Library">
+               NDL
+              </a>
+              :
+              <span class="uid">
+               <a class="external text" href="https://id.ndl.go.jp/auth/ndlna/00574861" rel="nofollow">
+                00574861
+               </a>
+              </span>
+             </span>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+       </table>
+      </div>
+      <!-- 
+NewPP limit report
+Parsed by mw1344
+Cached time: 20180202070842
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.408 seconds
+Real time usage: 0.509 seconds
+Preprocessor visited node count: 2356/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 105749/2097152 bytes
+Template argument size: 1264/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 2/500
+Lua time usage: 0.204/10.000 seconds
+Lua memory usage: 5.72 MB/50 MB
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  430.224      1 -total
+ 29.78%  128.123      1 Template:Reflist
+ 15.02%   64.624     12 Template:Cite_journal
+ 10.45%   44.950      1 Template:Earthquakes
+  9.97%   42.902      1 Template:Sidebar
+  9.23%   39.705      1 Template:Commons_category
+  8.88%   38.210      2 Template:Cite_web
+  7.06%   30.370      1 Template:IPAc-en
+  6.97%   29.976      8 Template:Cite_book
+  5.99%   25.774      1 Template:By_whom
+-->
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:28935-0!canonical and timestamp 20180202070842 and revision id 823602496
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Seismology&amp;oldid=823602496">
+      https://en.wikipedia.org/w/index.php?title=Seismology&amp;oldid=823602496
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Seismology" title="Category:Seismology">
+         Seismology
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Earthquake_engineering" title="Category:Earthquake engineering">
+         Earthquake engineering
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:CS1_errors:_external_links" title="Category:CS1 errors: external links">
+         CS1 errors: external links
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_needing_additional_references_from_June_2016" title="Category:Articles needing additional references from June 2016">
+         Articles needing additional references from June 2016
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">
+         All articles needing additional references
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_with_specifically_marked_weasel-worded_phrases_from_October_2011" title="Category:Articles with specifically marked weasel-worded phrases from October 2011">
+         Articles with specifically marked weasel-worded phrases from October 2011
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Pages_using_div_col_with_deprecated_parameters" title="Category:Pages using div col with deprecated parameters">
+         Pages using div col with deprecated parameters
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">
+         Wikipedia articles with LCCN identifiers
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">
+         Wikipedia articles with GND identifiers
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Seismology" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Seismology" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Seismology" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Seismology" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="collapsible selected" id="ca-view">
+        <span>
+         <a href="/wiki/Seismology">
+          Read
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Seismology&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Seismology&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Seismology" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Seismology" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Seismology&amp;oldid=823602496" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Seismology&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q83371" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Seismology&amp;id=823602496" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Seismology">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Seismology&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Seismology&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+     <h3 id="p-wikibase-otherprojects-label">
+      In other projects
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="wb-otherproject-link wb-otherproject-commons">
+        <a href="https://commons.wikimedia.org/wiki/Category:Seismology" hreflang="en">
+         Wikimedia Commons
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-wikiversity">
+        <a href="https://en.wikiversity.org/wiki/Tectonic_hazards/Seismology" hreflang="en">
+         Wikiversity
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-ar">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%B9%D9%84%D9%85_%D8%A7%D9%84%D8%B2%D9%84%D8%A7%D8%B2%D9%84" hreflang="ar" lang="ar" title="علم الزلازل – Arabic">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-az">
+        <a class="interlanguage-link-target" href="https://az.wikipedia.org/wiki/Seysmologiya" hreflang="az" lang="az" title="Seysmologiya – Azerbaijani">
+         Azərbaycanca
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bn">
+        <a class="interlanguage-link-target" href="https://bn.wikipedia.org/wiki/%E0%A6%AD%E0%A7%82%E0%A6%95%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8" hreflang="bn" lang="bn" title="ভূকম্পবিজ্ঞান – Bangla">
+         বাংলা
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh-min-nan">
+        <a class="interlanguage-link-target" href="https://zh-min-nan.wikipedia.org/wiki/T%C4%93-ch%C3%ACn-ha%CC%8Dk" hreflang="zh-min-nan" lang="zh-min-nan" title="Tē-chìn-ha̍k – Chinese (Min Nan)">
+         Bân-lâm-gú
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-be">
+        <a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%A1%D0%B5%D0%B9%D1%81%D0%BC%D0%B0%D0%BB%D0%BE%D0%B3%D1%96%D1%8F" hreflang="be" lang="be" title="Сейсмалогія – Belarusian">
+         Беларуская
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-be-x-old">
+        <a class="interlanguage-link-target" href="https://be-x-old.wikipedia.org/wiki/%D0%A1%D1%8D%D0%B9%D1%81%D0%BC%D0%B0%D0%BB%D1%91%D0%B3%D1%96%D1%8F" hreflang="be-x-old" lang="be-x-old" title="Сэйсмалёгія – Belarusian (Taraškievica orthography)">
+         Беларуская (тарашкевіца)‎
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bg">
+        <a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%A1%D0%B5%D0%B8%D0%B7%D0%BC%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" hreflang="bg" lang="bg" title="Сеизмология – Bulgarian">
+         Български
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bs">
+        <a class="interlanguage-link-target" href="https://bs.wikipedia.org/wiki/Seizmologija" hreflang="bs" lang="bs" title="Seizmologija – Bosnian">
+         Bosanski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-br">
+        <a class="interlanguage-link-target" href="https://br.wikipedia.org/wiki/Seismologiezh" hreflang="br" lang="br" title="Seismologiezh – Breton">
+         Brezhoneg
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Sismologia" hreflang="ca" lang="ca" title="Sismologia – Catalan">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cs">
+        <a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Seismologie" hreflang="cs" lang="cs" title="Seismologie – Czech">
+         Čeština
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cy">
+        <a class="interlanguage-link-target" href="https://cy.wikipedia.org/wiki/Seismoleg" hreflang="cy" lang="cy" title="Seismoleg – Welsh">
+         Cymraeg
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-da">
+        <a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Seismologi" hreflang="da" lang="da" title="Seismologi – Danish">
+         Dansk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Seismologie" hreflang="de" lang="de" title="Seismologie – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-et">
+        <a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Seismoloogia" hreflang="et" lang="et" title="Seismoloogia – Estonian">
+         Eesti
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-el">
+        <a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%A3%CE%B5%CE%B9%CF%83%CE%BC%CE%BF%CE%BB%CE%BF%CE%B3%CE%AF%CE%B1" hreflang="el" lang="el" title="Σεισμολογία – Greek">
+         Ελληνικά
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Sismolog%C3%ADa" hreflang="es" lang="es" title="Sismología – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eo">
+        <a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Tertremoscienco" hreflang="eo" lang="eo" title="Tertremoscienco – Esperanto">
+         Esperanto
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eu">
+        <a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Sismologia" hreflang="eu" lang="eu" title="Sismologia – Basque">
+         Euskara
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fa">
+        <a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D9%84%D8%B1%D8%B2%D9%87%E2%80%8C%D8%B4%D9%86%D8%A7%D8%B3%DB%8C" hreflang="fa" lang="fa" title="لرزه‌شناسی – Persian">
+         فارسی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Sismologie" hreflang="fr" lang="fr" title="Sismologie – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fy">
+        <a class="interlanguage-link-target" href="https://fy.wikipedia.org/wiki/Seismology" hreflang="fy" lang="fy" title="Seismology – Western Frisian">
+         Frysk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ga">
+        <a class="interlanguage-link-target" href="https://ga.wikipedia.org/wiki/Seismeola%C3%ADocht" hreflang="ga" lang="ga" title="Seismeolaíocht – Irish">
+         Gaeilge
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-gl">
+        <a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Sismolox%C3%ADa" hreflang="gl" lang="gl" title="Sismoloxía – Galician">
+         Galego
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ko">
+        <a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%A7%80%EC%A7%84%ED%95%99" hreflang="ko" lang="ko" title="지진학 – Korean">
+         한국어
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hy">
+        <a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D4%B5%D6%80%D5%AF%D6%80%D5%A1%D5%B7%D5%A1%D6%80%D5%AA%D5%A1%D5%A3%D5%AB%D5%BF%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6" hreflang="hy" lang="hy" title="Երկրաշարժագիտություն – Armenian">
+         Հայերեն
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hi">
+        <a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%AD%E0%A5%82%E0%A4%95%E0%A4%AE%E0%A5%8D%E0%A4%AA%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE%E0%A4%A8" hreflang="hi" lang="hi" title="भूकम्पविज्ञान – Hindi">
+         हिन्दी
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hr">
+        <a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Seizmologija" hreflang="hr" lang="hr" title="Seizmologija – Croatian">
+         Hrvatski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-id">
+        <a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Seismologi" hreflang="id" lang="id" title="Seismologi – Indonesian">
+         Bahasa Indonesia
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-is">
+        <a class="interlanguage-link-target" href="https://is.wikipedia.org/wiki/Jar%C3%B0skj%C3%A1lftafr%C3%A6%C3%B0i" hreflang="is" lang="is" title="Jarðskjálftafræði – Icelandic">
+         Íslenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Sismologia" hreflang="it" lang="it" title="Sismologia – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-he">
+        <a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%A1%D7%99%D7%99%D7%A1%D7%9E%D7%95%D7%9C%D7%95%D7%92%D7%99%D7%94" hreflang="he" lang="he" title="סייסמולוגיה – Hebrew">
+         עברית
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ka">
+        <a class="interlanguage-link-target" href="https://ka.wikipedia.org/wiki/%E1%83%A1%E1%83%94%E1%83%98%E1%83%A1%E1%83%9B%E1%83%9D%E1%83%9A%E1%83%9D%E1%83%92%E1%83%98%E1%83%90" hreflang="ka" lang="ka" title="სეისმოლოგია – Georgian">
+         ქართული
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-kk">
+        <a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/%D0%A1%D0%B5%D0%B9%D1%81%D0%BC%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" hreflang="kk" lang="kk" title="Сейсмология – Kazakh">
+         Қазақша
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ht">
+        <a class="interlanguage-link-target" href="https://ht.wikipedia.org/wiki/Sismoloji" hreflang="ht" lang="ht" title="Sismoloji – Haitian Creole">
+         Kreyòl ayisyen
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ku">
+        <a class="interlanguage-link-target" href="https://ku.wikipedia.org/wiki/S%C3%AEsmoloj%C3%AE" hreflang="ku" lang="ku" title="Sîsmolojî – Kurdish">
+         Kurdî
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ky">
+        <a class="interlanguage-link-target" href="https://ky.wikipedia.org/wiki/%D0%A1%D0%B5%D0%B9%D1%81%D0%BC%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" hreflang="ky" lang="ky" title="Сейсмология – Kyrgyz">
+         Кыргызча
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-la">
+        <a class="interlanguage-link-target" href="https://la.wikipedia.org/wiki/Seismologia" hreflang="la" lang="la" title="Seismologia – Latin">
+         Latina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lv">
+        <a class="interlanguage-link-target" href="https://lv.wikipedia.org/wiki/Seismolo%C4%A3ija" hreflang="lv" lang="lv" title="Seismoloģija – Latvian">
+         Latviešu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lt">
+        <a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Seismologija" hreflang="lt" lang="lt" title="Seismologija – Lithuanian">
+         Lietuvių
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-li">
+        <a class="interlanguage-link-target" href="https://li.wikipedia.org/wiki/Seismologie" hreflang="li" lang="li" title="Seismologie – Limburgish">
+         Limburgs
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hu">
+        <a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Szeizmol%C3%B3gia" hreflang="hu" lang="hu" title="Szeizmológia – Hungarian">
+         Magyar
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-mk">
+        <a class="interlanguage-link-target" href="https://mk.wikipedia.org/wiki/%D0%A1%D0%B5%D0%B8%D0%B7%D0%BC%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%98%D0%B0" hreflang="mk" lang="mk" title="Сеизмологија – Macedonian">
+         Македонски
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ml">
+        <a class="interlanguage-link-target" href="https://ml.wikipedia.org/wiki/%E0%B4%B8%E0%B5%80%E0%B4%B8%E0%B5%8D%E0%B4%AE%E0%B5%8B%E0%B4%B3%E0%B4%9C%E0%B4%BF" hreflang="ml" lang="ml" title="സീസ്മോളജി – Malayalam">
+         മലയാളം
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ms">
+        <a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Seismologi" hreflang="ms" lang="ms" title="Seismologi – Malay">
+         Bahasa Melayu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nah">
+        <a class="interlanguage-link-target" href="https://nah.wikipedia.org/wiki/Tl%C4%81lol%C4%ABnilizmatiliztli" hreflang="nah" lang="nah" title="Tlālolīnilizmatiliztli – Nāhuatl">
+         Nāhuatl
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nl">
+        <a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Seismologie" hreflang="nl" lang="nl" title="Seismologie – Dutch">
+         Nederlands
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E5%9C%B0%E9%9C%87%E5%AD%A6" hreflang="ja" lang="ja" title="地震学 – Japanese">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-no">
+        <a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Seismologi" hreflang="no" lang="no" title="Seismologi – Norwegian">
+         Norsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nn">
+        <a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Seismologi" hreflang="nn" lang="nn" title="Seismologi – Norwegian Nynorsk">
+         Norsk nynorsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uz">
+        <a class="interlanguage-link-target" href="https://uz.wikipedia.org/wiki/Seysmologiya" hreflang="uz" lang="uz" title="Seysmologiya – Uzbek">
+         Oʻzbekcha/ўзбекча
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pms">
+        <a class="interlanguage-link-target" href="https://pms.wikipedia.org/wiki/Sismolog%C3%ACa" hreflang="pms" lang="pms" title="Sismologìa – Piedmontese">
+         Piemontèis
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nds">
+        <a class="interlanguage-link-target" href="https://nds.wikipedia.org/wiki/Seismologie" hreflang="nds" lang="nds" title="Seismologie – Low German">
+         Plattdüütsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pl">
+        <a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Sejsmologia" hreflang="pl" lang="pl" title="Sejsmologia – Polish">
+         Polski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Sismologia" hreflang="pt" lang="pt" title="Sismologia – Portuguese">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ro">
+        <a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Seismologie" hreflang="ro" lang="ro" title="Seismologie – Romanian">
+         Română
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%B9%D1%81%D0%BC%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" hreflang="ru" lang="ru" title="Сейсмология – Russian">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sco">
+        <a class="interlanguage-link-target" href="https://sco.wikipedia.org/wiki/Seismology" hreflang="sco" lang="sco" title="Seismology – Scots">
+         Scots
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sq">
+        <a class="interlanguage-link-target" href="https://sq.wikipedia.org/wiki/Sizmologjia" hreflang="sq" lang="sq" title="Sizmologjia – Albanian">
+         Shqip
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-simple">
+        <a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Seismology" hreflang="simple" lang="simple" title="Seismology – Simple English">
+         Simple English
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sk">
+        <a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Seizmol%C3%B3gia" hreflang="sk" lang="sk" title="Seizmológia – Slovak">
+         Slovenčina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sl">
+        <a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Seizmologija" hreflang="sl" lang="sl" title="Seizmologija – Slovenian">
+         Slovenščina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sr">
+        <a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%A1%D0%B5%D0%B8%D0%B7%D0%BC%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%98%D0%B0" hreflang="sr" lang="sr" title="Сеизмологија – Serbian">
+         Српски / srpski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sh">
+        <a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Seizmologija" hreflang="sh" lang="sh" title="Seizmologija – Serbo-Croatian">
+         Srpskohrvatski / српскохрватски
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fi">
+        <a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Seismologia" hreflang="fi" lang="fi" title="Seismologia – Finnish">
+         Suomi
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sv">
+        <a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Seismologi" hreflang="sv" lang="sv" title="Seismologi – Swedish">
+         Svenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tl">
+        <a class="interlanguage-link-target" href="https://tl.wikipedia.org/wiki/Sismolohiya" hreflang="tl" lang="tl" title="Sismolohiya – Tagalog">
+         Tagalog
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ta">
+        <a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%A8%E0%AE%BF%E0%AE%B2_%E0%AE%A8%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%B5%E0%AE%BF%E0%AE%AF%E0%AE%B2%E0%AF%8D" hreflang="ta" lang="ta" title="நில நடுக்கவியல் – Tamil">
+         தமிழ்
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-th">
+        <a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B9%81%E0%B8%9C%E0%B9%88%E0%B8%99%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B9%84%E0%B8%AB%E0%B8%A7" hreflang="th" lang="th" title="วิทยาแผ่นดินไหว – Thai">
+         ไทย
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tr">
+        <a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Sismoloji" hreflang="tr" lang="tr" title="Sismoloji – Turkish">
+         Türkçe
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uk">
+        <a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%A1%D0%B5%D0%B9%D1%81%D0%BC%D0%BE%D0%BB%D0%BE%D0%B3%D1%96%D1%8F" hreflang="uk" lang="uk" title="Сейсмологія – Ukrainian">
+         Українська
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ur">
+        <a class="interlanguage-link-target" href="https://ur.wikipedia.org/wiki/%D8%B2%D9%84%D8%B2%D9%84%DB%81_%D8%B4%D9%86%D8%A7%D8%B3%DB%8C" hreflang="ur" lang="ur" title="زلزلہ شناسی – Urdu">
+         اردو
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-vi">
+        <a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/%C4%90%E1%BB%8Ba_ch%E1%BA%A5n_h%E1%BB%8Dc" hreflang="vi" lang="vi" title="Địa chấn học – Vietnamese">
+         Tiếng Việt
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-war">
+        <a class="interlanguage-link-target" href="https://war.wikipedia.org/wiki/Sismolohiya" hreflang="war" lang="war" title="Sismolohiya – Waray">
+         Winaray
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-wuu">
+        <a class="interlanguage-link-target" href="https://wuu.wikipedia.org/wiki/%E5%9C%B0%E9%9C%87%E5%AD%B8" hreflang="wuu" lang="wuu" title="地震學 – Wu Chinese">
+         吴语
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh-yue">
+        <a class="interlanguage-link-target" href="https://zh-yue.wikipedia.org/wiki/%E5%9C%B0%E9%9C%87%E5%AD%B8" hreflang="zh-yue" lang="zh-yue" title="地震學 – Cantonese">
+         粵語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%9C%B0%E9%9C%87%E5%AD%A6" hreflang="zh" lang="zh" title="地震学 – Chinese">
+         中文
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q83371#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 2 February 2018, at 07:08.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Seismology&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.408","walltime":"0.509","ppvisitednodes":{"value":2356,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":105749,"limit":2097152},"templateargumentsize":{"value":1264,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  430.224      1 -total"," 29.78%  128.123      1 Template:Reflist"," 15.02%   64.624     12 Template:Cite_journal"," 10.45%   44.950      1 Template:Earthquakes","  9.97%   42.902      1 Template:Sidebar","  9.23%   39.705      1 Template:Commons_category","  8.88%   38.210      2 Template:Cite_web","  7.06%   30.370      1 Template:IPAc-en","  6.97%   29.976      8 Template:Cite_book","  5.99%   25.774      1 Template:By_whom"]},"scribunto":{"limitreport-timeusage":{"value":"0.204","limit":"10.000"},"limitreport-memusage":{"value":6000982,"limit":52428800}},"cachereport":{"origin":"mw1344","timestamp":"20180202070842","ttl":1900800,"transientcontent":false}}});});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":77,"wgHostname":"mw1258"});});
+  </script>
+ </body>
+</html>

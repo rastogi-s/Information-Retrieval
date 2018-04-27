@@ -1,0 +1,82 @@
+############################################################################################################
+#########################################      TASK-1      #################################################
+############################################################################################################
+
+ Crawling the documents
+
+		> Perform two crawling rounds 
+		     1. Following Breadth First Search Algorithm.
+		     2. Following Depth First Search Algorithm.
+		> Starting seed : "https://en.wikipedia.org/wiki/Solar_eclipse"
+		> Crawling depth : Max = 6.
+		> Maximum unique URLS to be crawled = 1000.
+		> Generate two files which contain the lists of Unique URLs for each round (BFS and DFS)
+		> Compare the results obtained from two crawls in terms of URL overlap, perceived quality  
+		  and efficiency aspect, coverage of crawl topics(i.e. solar eclipse).
+
+
+ ANALYSIS AND COMPARISON OF RESULTS OF BFS AND DFS CRAWLS:
+ 
+ 	*****************************************************
+		Runtime Analysis:
+		URLs crawled in DFS Crawl: 1000
+		Execution time for DFS Crawl : 1684.18300009 seconds
+		URLs crawled in BFS Crawl: 1000
+		Execution time for BFS Crawl : 1536.01900005 seconds
+	*****************************************************
+		Overlap Analysis:
+		URLs Overlap: 31
+		URL Overlap Percentage :3.1 %
+	*****************************************************
+		Coverage Analysis:
+		Topic coverage in case of DFS: 3
+		Topic coverage in case of BFS: 563
+		
+The above report is generated each time in the command prompt. The run time may differ based on the machine on which the program is executed.		
+ 
+  > DFS Crawl: We use stack(last in first out : LIFO) as frontier to store the URLS present in the pages as we 
+               explore them. We start with the seed URL and add it in the stack and loop until our stack is empty or 
+               we visit 1000 unique URLS. In our loop we extract the last added URL and visit that 
+               URL( add it in visited list) then we fetch all the URLs present in that page and add them
+               to our stack. At a certain point if we reach depth 6 we do not explore more in that branch and
+               backtrack to the previous shallow node and continue from there. We also keep track of all visited 
+               URLs so that we do not revisit it again.
+   
+     1. URL overlap : only 31 files out of 1000 overlapped with BFS crawl
+     
+     2. Perceived Quality and Efficiency: The runtime for DFS crawl is slight higher than BFS. DFS performs poorly as the coverage of the topic is
+     									  very less in DFS crawl.
+     
+     3. Coverage of the Topic: DFS has less coverage than BFS. As most of the sites have relevant data in URLS in depth 2 rather 
+     						   than in successive depths. Similarly with the given seed the coverage is high for BFS as most of the relevant 
+     						   information is present at shallow depths.
+     
+   > BFS Crawl: We use queue(first in first out : FIFO) as frontier to store the URLS present in the pages as we 
+                explore them. We start with the seed URL and add it in the queue and loop until our queue is empty or 
+                we visit 1000 unique URLS or we reach depth > 6. In our loop we extract the first added URL 
+                and visit that URL( add it in visited list) then we fetch all the URLs present in that page and 
+                add them to our queue. We first cover all URLs from depth 2 and then move to depth 3 and so on.
+                We also keep track of all visited URLs so that we do not revisit it again.
+   
+     1. URL overlap : only 31 files out of 1000 overlapped with DFS crawl.
+     
+     2. Perceived Quality and Efficiency: The runtime for BFS crawl is slight lower than DFS. BFS performs better in terms of coverage in this 
+     									   crawl.
+     
+     3. Coverage of the Topic: BFS has very high coverage of the topic than DFS .As most of the sites have relevant data in URLS in depth 2 rather 
+     						  than in successive depths. Similarly with the given seed the coverage is high for BFS as most of the relevant 
+     						  information is present at shallow depths.
+    
+
+
+
+
+
+
+
+
+
+
+
+
+

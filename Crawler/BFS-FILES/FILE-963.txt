@@ -1,0 +1,2628 @@
+https://en.wikipedia.org/wiki/Line-of-sight_propagation
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Line-of-sight propagation - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Line-of-sight_propagation","wgTitle":"Line-of-sight propagation","wgCurRevisionId":824062519,"wgRevisionId":824062519,"wgArticleId":60455,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia articles needing clarification from June 2016","Wikipedia articles incorporating text from the Federal Standard 1037C","Wikipedia articles incorporating text from MIL-STD-188","Radio frequency propagation","IEEE 802.11"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Line-of-sight_propagation","wgRelevantArticleId":60455,"wgRequestId":"WnfJkgpAMF0AABDX80kAAACA","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q605931","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.math.styles":"ready","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.math.scripts","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.31.0-wmf.17" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Propagation_VHF.JPG/1200px-Propagation_VHF.JPG" property="og:image"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Line-of-sight_propagation" rel="alternate"/>
+  <link href="/w/index.php?title=Line-of-sight_propagation&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Line-of-sight_propagation&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/Line-of-sight_propagation" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Line-of-sight_propagation rootpage-Line-of-sight_propagation skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Line-of-sight propagation
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <div class="hatnote navigation-not-searchable" role="note">
+       For other uses, see
+       <a class="mw-redirect mw-disambig" href="/wiki/Line-of-sight_(disambiguation)" title="Line-of-sight (disambiguation)">
+        Line-of-sight (disambiguation)
+       </a>
+       .
+      </div>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:Propagation_VHF.JPG">
+         <img alt="" class="thumbimage" data-file-height="587" data-file-width="1359" height="95" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Propagation_VHF.JPG/220px-Propagation_VHF.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Propagation_VHF.JPG/330px-Propagation_VHF.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Propagation_VHF.JPG/440px-Propagation_VHF.JPG 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Propagation_VHF.JPG" title="Enlarge">
+          </a>
+         </div>
+         Line of sight propagation to an antenna
+        </div>
+       </div>
+      </div>
+      <p>
+       <b>
+        Line-of-sight propagation
+       </b>
+       is a characteristic of
+       <a href="/wiki/Electromagnetic_radiation" title="Electromagnetic radiation">
+        electromagnetic radiation
+       </a>
+       or acoustic
+       <a href="/wiki/Wave_propagation" title="Wave propagation">
+        wave propagation
+       </a>
+       which means waves travel in a direct path from the source to the receiver. Electromagnetic
+       <a href="/wiki/Transmission_(telecommunications)" title="Transmission (telecommunications)">
+        transmission
+       </a>
+       includes light emissions traveling in a
+       <a class="mw-redirect" href="/wiki/Straight_line" title="Straight line">
+        straight line
+       </a>
+       . The rays or waves may be
+       <a href="/wiki/Diffraction" title="Diffraction">
+        diffracted
+       </a>
+       ,
+       <a href="/wiki/Atmospheric_refraction" title="Atmospheric refraction">
+        refracted
+       </a>
+       , reflected, or absorbed by the atmosphere and obstructions with material and generally cannot travel over the
+       <a href="/wiki/Horizon" title="Horizon">
+        horizon
+       </a>
+       or behind obstacles.
+      </p>
+      <p>
+       In contrast to line-of-sight propagation, at
+       <a href="/wiki/Low_frequency" title="Low frequency">
+        low frequency
+       </a>
+       (below approximately 3
+       <a href="/wiki/Hertz" title="Hertz">
+        MHz
+       </a>
+       ) due to
+       <a href="/wiki/Diffraction" title="Diffraction">
+        diffraction
+       </a>
+       <a href="/wiki/Radio_wave" title="Radio wave">
+        radio waves
+       </a>
+       can travel as
+       <a class="mw-redirect" href="/wiki/Ground_wave" title="Ground wave">
+        ground waves
+       </a>
+       , which follow the contour of the Earth. This enables
+       <a class="mw-redirect" href="/wiki/AM_radio" title="AM radio">
+        AM radio
+       </a>
+       stations to transmit beyond the horizon. Additionally, frequencies in the
+       <a class="mw-redirect" href="/wiki/Shortwave" title="Shortwave">
+        shortwave
+       </a>
+       bands between approximately 1 and 30 MHz, can be reflected back to Earth by the
+       <a href="/wiki/Ionosphere" title="Ionosphere">
+        ionosphere
+       </a>
+       , called
+       <a href="/wiki/Skywave" title="Skywave">
+        skywave
+       </a>
+       or "skip" propagation, thus giving radio transmissions in this range a potentially global reach.
+      </p>
+      <p>
+       However, at frequencies above 30 MHz (
+       <a class="mw-redirect" href="/wiki/VHF" title="VHF">
+        VHF
+       </a>
+       and higher) and in lower levels of the atmosphere, neither of these effects are significant. Thus, any obstruction between the transmitting antenna (
+       <a href="/wiki/Transmitter" title="Transmitter">
+        transmitter
+       </a>
+       ) and the receiving antenna (
+       <a class="mw-redirect" href="/wiki/Receiver_(radio)" title="Receiver (radio)">
+        receiver
+       </a>
+       ) will block the signal, just like the
+       <a href="/wiki/Light" title="Light">
+        light
+       </a>
+       that the eye may sense. Therefore, since the ability to visually see a transmitting antenna (disregarding the limitations of the eye's resolution) roughly corresponds to the ability to receive a radio signal from it, the propagation characteristic at these frequencies is called "line-of-sight". The farthest possible point of propagation is referred to as the "radio horizon".
+      </p>
+      <p>
+       In practice, the propagation characteristics of these radio waves vary substantially depending on the exact frequency and the strength of the transmitted signal (a function of both the transmitter and the antenna characteristics). Broadcast
+       <a href="/wiki/Frequency_modulation" title="Frequency modulation">
+        FM
+       </a>
+       radio, at comparatively low frequencies of around 100 MHz, are less affected by the presence of buildings and forests.
+      </p>
+      <p>
+      </p>
+      <div class="toc" id="toc">
+       <div class="toctitle" dir="ltr" lang="en" xml:lang="en">
+        <h2>
+         Contents
+        </h2>
+       </div>
+       <ul>
+        <li class="toclevel-1 tocsection-1">
+         <a href="#Impairments_to_line-of-sight_propagation">
+          <span class="tocnumber">
+           1
+          </span>
+          <span class="toctext">
+           Impairments to line-of-sight propagation
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-2">
+         <a href="#Mobile_telephones">
+          <span class="tocnumber">
+           2
+          </span>
+          <span class="toctext">
+           Mobile telephones
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-3">
+         <a href="#Radio_horizon">
+          <span class="tocnumber">
+           3
+          </span>
+          <span class="toctext">
+           Radio horizon
+          </span>
+         </a>
+         <ul>
+          <li class="toclevel-2 tocsection-4">
+           <a href="#Earth_bulge_and_atmosphere_effect">
+            <span class="tocnumber">
+             3.1
+            </span>
+            <span class="toctext">
+             Earth bulge and atmosphere effect
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-5">
+           <a href="#Geometric_distance_to_horizon">
+            <span class="tocnumber">
+             3.2
+            </span>
+            <span class="toctext">
+             Geometric distance to horizon
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-6">
+           <a href="#The_actual_service_range">
+            <span class="tocnumber">
+             3.3
+            </span>
+            <span class="toctext">
+             The actual service range
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-7">
+           <a href="#Example">
+            <span class="tocnumber">
+             3.4
+            </span>
+            <span class="toctext">
+             Example
+            </span>
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="toclevel-1 tocsection-8">
+         <a href="#See_also">
+          <span class="tocnumber">
+           4
+          </span>
+          <span class="toctext">
+           See also
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-9">
+         <a href="#References">
+          <span class="tocnumber">
+           5
+          </span>
+          <span class="toctext">
+           References
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-10">
+         <a href="#External_links">
+          <span class="tocnumber">
+           6
+          </span>
+          <span class="toctext">
+           External links
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <p>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Impairments_to_line-of-sight_propagation">
+        Impairments to line-of-sight propagation
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Line-of-sight_propagation&amp;action=edit&amp;section=1" title="Edit section: Impairments to line-of-sight propagation">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:Fresnel_zone_disrupted.png">
+         <img alt="" class="thumbimage" data-file-height="720" data-file-width="512" height="309" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Fresnel_zone_disrupted.png/220px-Fresnel_zone_disrupted.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Fresnel_zone_disrupted.png/330px-Fresnel_zone_disrupted.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Fresnel_zone_disrupted.png/440px-Fresnel_zone_disrupted.png 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Fresnel_zone_disrupted.png" title="Enlarge">
+          </a>
+         </div>
+         Objects within the
+         <a href="/wiki/Fresnel_zone" title="Fresnel zone">
+          Fresnel zone
+         </a>
+         can disturb line of sight propagation even if they don't block the geometric line between antennas.
+        </div>
+       </div>
+      </div>
+      <p>
+       Low-powered
+       <a href="/wiki/Microwave" title="Microwave">
+        microwave
+       </a>
+       transmitters can be foiled by tree branches, or even heavy rain or snow. The presence of objects not in the direct line-of-sight can cause diffraction effects that disrupt radio transmissions. For the best propagation, a volume known as the first
+       <a href="/wiki/Fresnel_zone" title="Fresnel zone">
+        Fresnel zone
+       </a>
+       should be free of obstructions.
+      </p>
+      <p>
+       Reflected radiation from the
+       <a href="/wiki/Ground_plane" title="Ground plane">
+        surface of the surrounding ground or salt water
+       </a>
+       can also either cancel out or enhance the direct signal. This effect can be reduced by raising either or both antennas further from the ground: The reduction in loss achieved is known as
+       <i>
+        height gain
+       </i>
+       .
+      </p>
+      <p>
+       It is important to take into account the curvature of the Earth for calculation of line-of-sight paths from maps, when a direct visual fix cannot be made. Designs for microwave formerly used ​
+       <span class="frac nowrap">
+        <sup>
+         4
+        </sup>
+        ⁄
+        <sub>
+         3
+        </sub>
+       </span>
+       earth radius to compute clearances along the path.
+      </p>
+      <h2>
+       <span class="mw-headline" id="Mobile_telephones">
+        Mobile telephones
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Line-of-sight_propagation&amp;action=edit&amp;section=2" title="Edit section: Mobile telephones">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       Although the frequencies used by
+       <a href="/wiki/Mobile_phone" title="Mobile phone">
+        mobile phones
+       </a>
+       (cell phones) are in the line-of-sight range, they still function in cities. This is made possible by a combination of the following effects:
+      </p>
+      <ul>
+       <li>
+        ​
+        <span class="frac nowrap">
+         <sup>
+          1
+         </sup>
+         ⁄
+         <sub>
+          <i>
+           r
+          </i>
+          <sup>
+           4
+          </sup>
+         </sub>
+        </span>
+        propagation over the rooftop landscape
+        <sup class="noprint Inline-Template" style="margin-left:0.1em; white-space:nowrap;">
+         [
+         <i>
+          <a href="/wiki/Wikipedia:Please_clarify" title="Wikipedia:Please clarify">
+           <span title="The text near this tag may need clarification or removal of jargon. (June 2016)">
+            clarification needed
+           </span>
+          </a>
+         </i>
+         ]
+        </sup>
+       </li>
+       <li>
+        diffraction into the "street canyon" below
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/Multipath_fading" title="Multipath fading">
+         multipath
+        </a>
+        reflection along the street
+       </li>
+       <li>
+        diffraction through windows, and attenuated passage through walls, into the building
+       </li>
+       <li>
+        reflection, diffraction, and attenuated passage through internal walls, floors and ceilings within the building
+       </li>
+      </ul>
+      <p>
+       The combination of all these effects makes the mobile phone propagation environment highly complex, with
+       <a class="mw-redirect" href="/wiki/Multipath_fading" title="Multipath fading">
+        multipath
+       </a>
+       effects and extensive
+       <a href="/wiki/Rayleigh_fading" title="Rayleigh fading">
+        Rayleigh fading
+       </a>
+       . For mobile phone services, these problems are tackled using:
+      </p>
+      <ul>
+       <li>
+        rooftop or hilltop positioning of base stations
+       </li>
+       <li>
+        many
+        <a href="/wiki/Base_station" title="Base station">
+         base stations
+        </a>
+        (usually called "cell sites"). A phone can typically see at least three, and usually as many as six at any given time.
+       </li>
+       <li>
+        "sectorized" antennas at the base stations. Instead of one antenna with
+        <a href="/wiki/Omnidirectional_antenna" title="Omnidirectional antenna">
+         omnidirectional
+        </a>
+        coverage, the station may use as few as 3 (rural areas with few customers) or as many as 32 separate antennas, each covering a portion of the circular coverage. This allows the base station to use a directional antenna that is pointing at the user, which improves the
+        <a class="mw-redirect" href="/wiki/Signal_to_noise_ratio" title="Signal to noise ratio">
+         signal to noise ratio
+        </a>
+        . If the user moves (perhaps by walking or driving) from one antenna sector to another, the base station automatically selects the proper antenna.
+       </li>
+       <li>
+        rapid
+        <a class="mw-redirect" href="/wiki/Handoff" title="Handoff">
+         handoff
+        </a>
+        between base stations (roaming)
+       </li>
+       <li>
+        the radio link used by the phones is a digital link with extensive
+        <a href="/wiki/Error_detection_and_correction" title="Error detection and correction">
+         error correction and detection
+        </a>
+        in the digital protocol
+       </li>
+       <li>
+        sufficient operation of mobile phone in tunnels when supported by split cable antennas
+       </li>
+       <li>
+        local repeaters inside complex vehicles or buildings
+       </li>
+      </ul>
+      <p>
+       A
+       <a href="/wiki/Faraday_cage" title="Faraday cage">
+        Faraday cage
+       </a>
+       is composed of a conductor that completely surrounds an area on all sides, top, and bottom. Electromagnetic radiation is blocked where the wavelength is longer than any gaps. For example, mobile telephone signals are blocked in windowless metal enclosures that approximate a Faraday cage, such as elevator cabins, and parts of trains, cars, and ships. The same problem can affect signals in buildings with extensive steel reinforcement.
+      </p>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:Repeater-schema.svg">
+         <img alt="" class="thumbimage" data-file-height="245" data-file-width="341" height="158" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Repeater-schema.svg/220px-Repeater-schema.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Repeater-schema.svg/330px-Repeater-schema.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Repeater-schema.svg/440px-Repeater-schema.svg.png 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Repeater-schema.svg" title="Enlarge">
+          </a>
+         </div>
+         Two stations not in line-of-sight may be able to communicate through an intermediate
+         <a href="/wiki/Radio_repeater" title="Radio repeater">
+          radio repeater
+         </a>
+         station.
+        </div>
+       </div>
+      </div>
+      <h2>
+       <span class="mw-headline" id="Radio_horizon">
+        Radio horizon
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Line-of-sight_propagation&amp;action=edit&amp;section=3" title="Edit section: Radio horizon">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       The
+       <i>
+        radio horizon
+       </i>
+       is the
+       <a href="/wiki/Locus_(mathematics)" title="Locus (mathematics)">
+        locus
+       </a>
+       of points at which direct rays from an
+       <a class="mw-redirect" href="/wiki/Antenna_(electronics)" title="Antenna (electronics)">
+        antenna
+       </a>
+       are tangential to the surface of the Earth. If the Earth were a perfect sphere without an atmosphere, the
+       <a href="/wiki/Radio" title="Radio">
+        radio
+       </a>
+       horizon would be a circle.
+      </p>
+      <p>
+       The radio horizon of the transmitting and receiving antennas can be added together to increase the effective communication range.
+      </p>
+      <p>
+       <a href="/wiki/Radio_propagation" title="Radio propagation">
+        Radio wave propagation
+       </a>
+       is affected by atmospheric conditions,
+       <a href="/wiki/Ionospheric_absorption" title="Ionospheric absorption">
+        ionospheric absorption
+       </a>
+       , and the presence of obstructions, for example mountains or trees. Simple formulas that include the effect of the atmosphere give the range as:
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle \mathrm {horizon} _{\mathrm {miles} }\approx 1.23\cdot {\sqrt {\mathrm {height} _{\mathrm {feet} }}}.}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <msub>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi mathvariant="normal">
+                 h
+                </mi>
+                <mi mathvariant="normal">
+                 o
+                </mi>
+                <mi mathvariant="normal">
+                 r
+                </mi>
+                <mi mathvariant="normal">
+                 i
+                </mi>
+                <mi mathvariant="normal">
+                 z
+                </mi>
+                <mi mathvariant="normal">
+                 o
+                </mi>
+                <mi mathvariant="normal">
+                 n
+                </mi>
+               </mrow>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mrow class="MJX-TeXAtom-ORD">
+                 <mi mathvariant="normal">
+                  m
+                 </mi>
+                 <mi mathvariant="normal">
+                  i
+                 </mi>
+                 <mi mathvariant="normal">
+                  l
+                 </mi>
+                 <mi mathvariant="normal">
+                  e
+                 </mi>
+                 <mi mathvariant="normal">
+                  s
+                 </mi>
+                </mrow>
+               </mrow>
+              </msub>
+              <mo>
+               ≈
+               <!-- ≈ -->
+              </mo>
+              <mn>
+               1.23
+              </mn>
+              <mo>
+               ⋅
+               <!-- ⋅ -->
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <msqrt>
+                <msub>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mi mathvariant="normal">
+                   h
+                  </mi>
+                  <mi mathvariant="normal">
+                   e
+                  </mi>
+                  <mi mathvariant="normal">
+                   i
+                  </mi>
+                  <mi mathvariant="normal">
+                   g
+                  </mi>
+                  <mi mathvariant="normal">
+                   h
+                  </mi>
+                  <mi mathvariant="normal">
+                   t
+                  </mi>
+                 </mrow>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mi mathvariant="normal">
+                    f
+                   </mi>
+                   <mi mathvariant="normal">
+                    e
+                   </mi>
+                   <mi mathvariant="normal">
+                    e
+                   </mi>
+                   <mi mathvariant="normal">
+                    t
+                   </mi>
+                  </mrow>
+                 </mrow>
+                </msub>
+               </msqrt>
+              </mrow>
+              <mo>
+               .
+              </mo>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle \mathrm {horizon} _{\mathrm {miles} }\approx 1.23\cdot {\sqrt {\mathrm {height} _{\mathrm {feet} }}}.}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="{\displaystyle \mathrm {horizon} _{\mathrm {miles} }\approx 1.23\cdot {\sqrt {\mathrm {height} _{\mathrm {feet} }}}.}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6746baf26213b5247a81a41c7468aa48b6671b96" style="vertical-align: -1.171ex; width:32.552ex; height:3.343ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle \mathrm {horizon} _{\mathrm {km} }\approx 3.57\cdot {\sqrt {\mathrm {height} _{\mathrm {metres} }}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <msub>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi mathvariant="normal">
+                 h
+                </mi>
+                <mi mathvariant="normal">
+                 o
+                </mi>
+                <mi mathvariant="normal">
+                 r
+                </mi>
+                <mi mathvariant="normal">
+                 i
+                </mi>
+                <mi mathvariant="normal">
+                 z
+                </mi>
+                <mi mathvariant="normal">
+                 o
+                </mi>
+                <mi mathvariant="normal">
+                 n
+                </mi>
+               </mrow>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mrow class="MJX-TeXAtom-ORD">
+                 <mi mathvariant="normal">
+                  k
+                 </mi>
+                 <mi mathvariant="normal">
+                  m
+                 </mi>
+                </mrow>
+               </mrow>
+              </msub>
+              <mo>
+               ≈
+               <!-- ≈ -->
+              </mo>
+              <mn>
+               3.57
+              </mn>
+              <mo>
+               ⋅
+               <!-- ⋅ -->
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <msqrt>
+                <msub>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mi mathvariant="normal">
+                   h
+                  </mi>
+                  <mi mathvariant="normal">
+                   e
+                  </mi>
+                  <mi mathvariant="normal">
+                   i
+                  </mi>
+                  <mi mathvariant="normal">
+                   g
+                  </mi>
+                  <mi mathvariant="normal">
+                   h
+                  </mi>
+                  <mi mathvariant="normal">
+                   t
+                  </mi>
+                 </mrow>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mi mathvariant="normal">
+                    m
+                   </mi>
+                   <mi mathvariant="normal">
+                    e
+                   </mi>
+                   <mi mathvariant="normal">
+                    t
+                   </mi>
+                   <mi mathvariant="normal">
+                    r
+                   </mi>
+                   <mi mathvariant="normal">
+                    e
+                   </mi>
+                   <mi mathvariant="normal">
+                    s
+                   </mi>
+                  </mrow>
+                 </mrow>
+                </msub>
+               </msqrt>
+              </mrow>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle \mathrm {horizon} _{\mathrm {km} }\approx 3.57\cdot {\sqrt {\mathrm {height} _{\mathrm {metres} }}}}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="{\displaystyle \mathrm {horizon} _{\mathrm {km} }\approx 3.57\cdot {\sqrt {\mathrm {height} _{\mathrm {metres} }}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3388cb794d10964e20553fe365612eb9b6ca17a7" style="vertical-align: -1.171ex; width:32.53ex; height:3.343ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       The simple formulas give a best-case approximation of the maximum propagation distance, but are not sufficient to estimate the quality of service at any location.
+      </p>
+      <h3>
+       <span class="mw-headline" id="Earth_bulge_and_atmosphere_effect">
+        Earth bulge and atmosphere effect
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Line-of-sight_propagation&amp;action=edit&amp;section=4" title="Edit section: Earth bulge and atmosphere effect">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       <i>
+        Earth bulge
+       </i>
+       is a term used in
+       <a href="/wiki/Telecommunication" title="Telecommunication">
+        telecommunications
+       </a>
+       . It refers to the circular segment of earth profile that blocks off long distance communications. Since the geometric line of sight passes at varying heights over the Earth, the propagating radio wave encounters slightly different propagation conditions over the path. The usual effect of the declining pressure of the atmosphere with height is to bend radio waves down towards the surface of the Earth, effectively increasing the Earth's radius, and the distance to the radio horizon, by a factor around ​
+       <span class="frac nowrap">
+        <sup>
+         4
+        </sup>
+        ⁄
+        <sub>
+         3
+        </sub>
+       </span>
+       .
+       <sup class="reference" id="cite_ref-1">
+        <a href="#cite_note-1">
+         [1]
+        </a>
+       </sup>
+       This
+       <i>
+        k
+       </i>
+       -factor can change from its average value depending on weather.
+      </p>
+      <h3>
+       <span class="mw-headline" id="Geometric_distance_to_horizon">
+        Geometric distance to horizon
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Line-of-sight_propagation&amp;action=edit&amp;section=5" title="Edit section: Geometric distance to horizon">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:209px;">
+        <a class="image" href="/wiki/File:Earthbulge.jpg">
+         <img alt="" class="thumbimage" data-file-height="198" data-file-width="207" height="198" src="//upload.wikimedia.org/wikipedia/commons/6/69/Earthbulge.jpg" width="207"/>
+        </a>
+        <div class="thumbcaption">
+         <i>
+          R
+         </i>
+         is the radius of the Earth,
+         <i>
+          h
+         </i>
+         is the height of the transmitter (exaggerated),
+         <i>
+          d
+         </i>
+         is the line of sight distance
+        </div>
+       </div>
+      </div>
+      <p>
+       Assuming a perfect sphere with no terrain irregularity, the distance to the horizon from a high altitude
+       <a href="/wiki/Transmitter_station" title="Transmitter station">
+        transmitter
+       </a>
+       (i.e., line of sight) can readily be calculated.
+      </p>
+      <p>
+       Let
+       <i>
+        R
+       </i>
+       be the radius of the Earth and
+       <i>
+        h
+       </i>
+       be the altitude of a telecommunication station. The line of sight distance
+       <i>
+        d
+       </i>
+       of this station is given by the
+       <a href="/wiki/Pythagorean_theorem" title="Pythagorean theorem">
+        Pythagorean theorem
+       </a>
+       ;
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle d^{2}=(R+h)^{2}-R^{2}=2\cdot R\cdot h+h^{2}}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <msup>
+               <mi>
+                d
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mn>
+                 2
+                </mn>
+               </mrow>
+              </msup>
+              <mo>
+               =
+              </mo>
+              <mo stretchy="false">
+               (
+              </mo>
+              <mi>
+               R
+              </mi>
+              <mo>
+               +
+              </mo>
+              <mi>
+               h
+              </mi>
+              <msup>
+               <mo stretchy="false">
+                )
+               </mo>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mn>
+                 2
+                </mn>
+               </mrow>
+              </msup>
+              <mo>
+               −
+               <!-- − -->
+              </mo>
+              <msup>
+               <mi>
+                R
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mn>
+                 2
+                </mn>
+               </mrow>
+              </msup>
+              <mo>
+               =
+              </mo>
+              <mn>
+               2
+              </mn>
+              <mo>
+               ⋅
+               <!-- ⋅ -->
+              </mo>
+              <mi>
+               R
+              </mi>
+              <mo>
+               ⋅
+               <!-- ⋅ -->
+              </mo>
+              <mi>
+               h
+              </mi>
+              <mo>
+               +
+              </mo>
+              <msup>
+               <mi>
+                h
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mn>
+                 2
+                </mn>
+               </mrow>
+              </msup>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle d^{2}=(R+h)^{2}-R^{2}=2\cdot R\cdot h+h^{2}}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="d^{2}=(R+h)^{{2}}-R^{2}=2\cdot R\cdot h+h^{2}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ceeee52879665f37b508a8d4117b6383ad9fd114" style="vertical-align: -0.838ex; width:35.792ex; height:3.176ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       Since the altitude of the station is much less than the radius of the Earth,
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle d\approx {\sqrt {2\cdot R\cdot h}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mi>
+               d
+              </mi>
+              <mo>
+               ≈
+               <!-- ≈ -->
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <msqrt>
+                <mn>
+                 2
+                </mn>
+                <mo>
+                 ⋅
+                 <!-- ⋅ -->
+                </mo>
+                <mi>
+                 R
+                </mi>
+                <mo>
+                 ⋅
+                 <!-- ⋅ -->
+                </mo>
+                <mi>
+                 h
+                </mi>
+               </msqrt>
+              </mrow>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle d\approx {\sqrt {2\cdot R\cdot h}}}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="d\approx {\sqrt  {2\cdot R\cdot h}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b6f1cd861587b50ec2933ef8a5008fc15c84402c" style="vertical-align: -0.671ex; width:13.874ex; height:3.009ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       If the height is given in metres, and distance in kilometres,
+       <sup class="reference" id="cite_ref-2">
+        <a href="#cite_note-2">
+         [2]
+        </a>
+       </sup>
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle d\approx 3.57\cdot {\sqrt {h}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mi>
+               d
+              </mi>
+              <mo>
+               ≈
+               <!-- ≈ -->
+              </mo>
+              <mn>
+               3.57
+              </mn>
+              <mo>
+               ⋅
+               <!-- ⋅ -->
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <msqrt>
+                <mi>
+                 h
+                </mi>
+               </msqrt>
+              </mrow>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle d\approx 3.57\cdot {\sqrt {h}}}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="d\approx 3.57\cdot {\sqrt  {h}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0cc87b5e8d57b9866c3fa595e57bdddf51d2b545" style="vertical-align: -0.671ex; width:13.403ex; height:3.009ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       If the height is given in feet, and the distance in miles,
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle d\approx 1.23\cdot {\sqrt {h}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mi>
+               d
+              </mi>
+              <mo>
+               ≈
+               <!-- ≈ -->
+              </mo>
+              <mn>
+               1.23
+              </mn>
+              <mo>
+               ⋅
+               <!-- ⋅ -->
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <msqrt>
+                <mi>
+                 h
+                </mi>
+               </msqrt>
+              </mrow>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle d\approx 1.23\cdot {\sqrt {h}}}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="d\approx 1.23\cdot {\sqrt  {h}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/95319b9bec4e18bb943cd3890688571f61c2d984" style="vertical-align: -0.671ex; width:13.403ex; height:3.009ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <h3>
+       <span class="mw-headline" id="The_actual_service_range">
+        The actual service range
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Line-of-sight_propagation&amp;action=edit&amp;section=6" title="Edit section: The actual service range">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       The above analysis does not consider the effect of atmosphere on the propagation path of RF signals. In fact, RF signals don’t propagate in straight lines: Because of the refractive effects of atmospheric layers, the propagation paths are somewhat curved. Thus, the maximum service range of the station is not equal to the line of sight (geometric) distance. Usually, a factor
+       <i>
+        k
+       </i>
+       is used in the equation above, modified to be
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle d\approx {\sqrt {2\cdot k\cdot R\cdot h}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mi>
+               d
+              </mi>
+              <mo>
+               ≈
+               <!-- ≈ -->
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <msqrt>
+                <mn>
+                 2
+                </mn>
+                <mo>
+                 ⋅
+                 <!-- ⋅ -->
+                </mo>
+                <mi>
+                 k
+                </mi>
+                <mo>
+                 ⋅
+                 <!-- ⋅ -->
+                </mo>
+                <mi>
+                 R
+                </mi>
+                <mo>
+                 ⋅
+                 <!-- ⋅ -->
+                </mo>
+                <mi>
+                 h
+                </mi>
+               </msqrt>
+              </mrow>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle d\approx {\sqrt {2\cdot k\cdot R\cdot h}}}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="d\approx {\sqrt  {2\cdot k\cdot R\cdot h}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8d24804004761d49977d7c0e63644ead19d5653b" style="vertical-align: -0.671ex; width:16.764ex; height:3.009ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       <i>
+        k
+       </i>
+       &gt; 1 means geometrically reduced bulge and a longer service range. On the other hand,
+       <i>
+        k
+       </i>
+       &lt; 1 means a shorter service range.
+      </p>
+      <p>
+       Under normal weather conditions,
+       <i>
+        k
+       </i>
+       is usually chosen
+       <sup class="reference" id="cite_ref-3">
+        <a href="#cite_note-3">
+         [3]
+        </a>
+       </sup>
+       to be ​
+       <span class="frac nowrap">
+        <sup>
+         4
+        </sup>
+        ⁄
+        <sub>
+         3
+        </sub>
+       </span>
+       . That means that the maximum service range increases by 15%.
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle d\approx 4.12\cdot {\sqrt {h}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mi>
+               d
+              </mi>
+              <mo>
+               ≈
+               <!-- ≈ -->
+              </mo>
+              <mn>
+               4.12
+              </mn>
+              <mo>
+               ⋅
+               <!-- ⋅ -->
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <msqrt>
+                <mi>
+                 h
+                </mi>
+               </msqrt>
+              </mrow>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle d\approx 4.12\cdot {\sqrt {h}}}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="d\approx 4.12\cdot {\sqrt  {h}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/35bf506e542b8de2d850918b28929519852edad1" style="vertical-align: -0.671ex; width:13.403ex; height:3.009ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       for
+       <i>
+        h
+       </i>
+       in metres and
+       <i>
+        d
+       </i>
+       in kilometres; or
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle d\approx 1.41\cdot {\sqrt {h}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mi>
+               d
+              </mi>
+              <mo>
+               ≈
+               <!-- ≈ -->
+              </mo>
+              <mn>
+               1.41
+              </mn>
+              <mo>
+               ⋅
+               <!-- ⋅ -->
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <msqrt>
+                <mi>
+                 h
+                </mi>
+               </msqrt>
+              </mrow>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle d\approx 1.41\cdot {\sqrt {h}}}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="d\approx 1.41\cdot {\sqrt  {h}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fbc8f4411507ebbce394e12ff5067df3905bddcf" style="vertical-align: -0.671ex; width:13.403ex; height:3.009ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       for
+       <i>
+        h
+       </i>
+       in feet and
+       <i>
+        d
+       </i>
+       in miles.
+      </p>
+      <p>
+       But in stormy weather,
+       <i>
+        k
+       </i>
+       may decrease to cause
+       <a href="/wiki/Rain_fade" title="Rain fade">
+        fading
+       </a>
+       in transmission. (In extreme cases
+       <i>
+        k
+       </i>
+       can be less than 1.) That is equivalent to a hypothetical decrease in Earth radius and an increase of Earth bulge.
+       <sup class="reference" id="cite_ref-4">
+        <a href="#cite_note-4">
+         [4]
+        </a>
+       </sup>
+      </p>
+      <h3>
+       <span class="mw-headline" id="Example">
+        Example
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Line-of-sight_propagation&amp;action=edit&amp;section=7" title="Edit section: Example">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       In normal weather conditions, the service range of a station at an altitude of 1500 m with respect to receivers at sea level can be found as,
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle d\approx 4.12\cdot {\sqrt {1500}}=160{\mbox{ km.}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mi>
+               d
+              </mi>
+              <mo>
+               ≈
+               <!-- ≈ -->
+              </mo>
+              <mn>
+               4.12
+              </mn>
+              <mo>
+               ⋅
+               <!-- ⋅ -->
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <msqrt>
+                <mn>
+                 1500
+                </mn>
+               </msqrt>
+              </mrow>
+              <mo>
+               =
+              </mo>
+              <mn>
+               160
+              </mn>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mstyle displaystyle="false" scriptlevel="0">
+                <mtext>
+                 km.
+                </mtext>
+               </mstyle>
+              </mrow>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle d\approx 4.12\cdot {\sqrt {1500}}=160{\mbox{ km.}}}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="d\approx 4.12\cdot {\sqrt  {1500}}=160{\mbox{ km.}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/85dbe8a2eefe140d56933487d758db77ae1dba86" style="vertical-align: -0.671ex; width:27.69ex; height:2.843ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <h2>
+       <span class="mw-headline" id="See_also">
+        See also
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Line-of-sight_propagation&amp;action=edit&amp;section=8" title="Edit section: See also">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a href="/wiki/Anomalous_propagation" title="Anomalous propagation">
+         Anomalous propagation
+        </a>
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/Field_strength_in_free_space" title="Field strength in free space">
+         Field strength in free space
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Knife-edge_effect" title="Knife-edge effect">
+         Knife-edge effect
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Multilateration" title="Multilateration">
+         Multilateration
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Non-line-of-sight_propagation" title="Non-line-of-sight propagation">
+         Non-line-of-sight propagation
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Over-the-horizon_radar" title="Over-the-horizon radar">
+         Over-the-horizon radar
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Radial_(radio)" title="Radial (radio)">
+         Radial (radio)
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Rician_fading" title="Rician fading">
+         Rician fading
+        </a>
+        , stochastic model of line-of-sight propagation
+       </li>
+      </ul>
+      <div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+       <ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+        <li style="display:table-row">
+         <span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center">
+          <img alt="" class="noviewer" data-file-height="22" data-file-width="30" height="23" src="//upload.wikimedia.org/wikipedia/commons/1/1d/Radio_icon.png" width="32"/>
+         </span>
+         <span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle">
+          <a href="/wiki/Portal:Radio" title="Portal:Radio">
+           Radio portal
+          </a>
+         </span>
+        </li>
+       </ul>
+      </div>
+      <h2>
+       <span class="mw-headline" id="References">
+        References
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Line-of-sight_propagation&amp;action=edit&amp;section=9" title="Edit section: References">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="reflist" style="list-style-type: decimal;">
+       <div class="mw-references-wrap">
+        <ol class="references">
+         <li id="cite_note-1">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-1">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           Christopher Haslett. (2008).
+           <i>
+            Essentials of radio wave propagation
+           </i>
+           , pp 119–120. Cambridge University Press.
+           <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+            ISBN
+           </a>
+           <a href="/wiki/Special:BookSources/052187565X" title="Special:BookSources/052187565X">
+            052187565X
+           </a>
+           .
+          </span>
+         </li>
+         <li id="cite_note-2">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-2">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           Mean radius of the Earth is ≈ 6.37×10
+           <sup>
+            6
+           </sup>
+           metres = 6370 km. See
+           <a href="/wiki/Earth_radius" title="Earth radius">
+            Earth radius
+           </a>
+          </span>
+         </li>
+         <li id="cite_note-3">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-3">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           Busi, R. (1967).
+           <i>
+            High Altitude VHF and UHF Broadcasting Stations
+           </i>
+           . Technical Monograph 3108-1967. Brussels: European Broadcasting Union.
+          </span>
+         </li>
+         <li id="cite_note-4">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-4">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           This analysis is for high altitude to sea level reception. In microwave radio link chains, both stations are at high altitudes.
+          </span>
+         </li>
+        </ol>
+       </div>
+      </div>
+      <h2>
+       <span class="mw-headline" id="External_links">
+        External links
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Line-of-sight_propagation&amp;action=edit&amp;section=10" title="Edit section: External links">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a class="external free" href="http://web.telia.com/~u85920178/data/pathlos.htm#bulges" rel="nofollow">
+         http://web.telia.com/~u85920178/data/pathlos.htm#bulges
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://www.aerialsandtv.com/atvmaps.html#topographymap" rel="nofollow">
+         Article on the importance of Line Of Sight for UHF reception
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://www.aerialsandtv.com/loftaerials.html#AttenuationLevelsThroughRoofs" rel="nofollow">
+         Attenuation Levels Through Roofs
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="https://web.archive.org/web/20100921070856/http://techsonar.com/license_4.html" rel="nofollow">
+         Approximating 2-Ray Model by using Binomial series by Matthew Bazajian
+        </a>
+       </li>
+      </ul>
+      <p>
+       <img alt="" data-file-height="196" data-file-width="196" height="12" src="//upload.wikimedia.org/wikipedia/en/thumb/6/62/PD-icon.svg/12px-PD-icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/6/62/PD-icon.svg/18px-PD-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/6/62/PD-icon.svg/24px-PD-icon.svg.png 2x" width="12"/>
+       This article incorporates
+       <a href="/wiki/Copyright_status_of_work_by_the_U.S._government" title="Copyright status of work by the U.S. government">
+        public domain material
+       </a>
+       from the
+       <a href="/wiki/General_Services_Administration" title="General Services Administration">
+        General Services Administration
+       </a>
+       document
+       <a class="external text" href="http://www.its.bldrdoc.gov/fs-1037/fs-1037c.htm" rel="nofollow">
+        "Federal Standard 1037C"
+       </a>
+       (in support of
+       <a href="/wiki/MIL-STD-188" title="MIL-STD-188">
+        MIL-STD-188
+       </a>
+       ).
+      </p>
+      <div aria-labelledby="Electromagnetic_spectrum" class="navbox" role="navigation" style="padding:3px">
+       <table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tr>
+         <th class="navbox-title" colspan="2" scope="col">
+          <div class="plainlinks hlist navbar mini">
+           <ul>
+            <li class="nv-view">
+             <a href="/wiki/Template:Electromagnetic_spectrum" title="Template:Electromagnetic spectrum">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">
+               v
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-talk">
+             <a href="/wiki/Template_talk:Electromagnetic_spectrum" title="Template talk:Electromagnetic spectrum">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">
+               t
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-edit">
+             <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Electromagnetic_spectrum&amp;action=edit">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">
+               e
+              </abbr>
+             </a>
+            </li>
+           </ul>
+          </div>
+          <div id="Electromagnetic_spectrum" style="font-size:114%;margin:0 4em">
+           <a href="/wiki/Electromagnetic_spectrum" title="Electromagnetic spectrum">
+            Electromagnetic spectrum
+           </a>
+          </div>
+         </th>
+        </tr>
+        <tr>
+         <td class="navbox-abovebelow" colspan="2" style="padding:0.3em 0.5em 0.4em;line-height:1.25em;font-weight:bold;">
+          <div>
+           <span style="font-weight:normal;">
+            <i>
+             <span style="font-size: 120%;">
+              ←
+             </span>
+             higher
+             <a href="/wiki/Frequency" title="Frequency">
+              frequencies
+             </a>
+             <span class="nowrap">
+             </span>
+             longer
+             <a href="/wiki/Wavelength" title="Wavelength">
+              wavelengths
+             </a>
+             <span style="font-size: 120%;">
+              →
+             </span>
+            </i>
+           </span>
+           <ul>
+            <li>
+             <a href="/wiki/Gamma_ray" title="Gamma ray">
+              Gamma rays
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/X-ray" title="X-ray">
+              X-rays
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Ultraviolet" title="Ultraviolet">
+              Ultraviolet
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Visible_spectrum" title="Visible spectrum">
+              Visible
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Infrared" title="Infrared">
+              Infrared
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Terahertz_radiation" title="Terahertz radiation">
+              Terahertz radiation
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Microwave" title="Microwave">
+              Microwave
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Radio_wave" title="Radio wave">
+              Radio
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%;background:lavender;">
+          <a href="/wiki/Visible_spectrum" title="Visible spectrum">
+           Visible (optical)
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Violet_(color)" title="Violet (color)">
+              Violet
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Blue" title="Blue">
+              Blue
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Green" title="Green">
+              Green
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Yellow" title="Yellow">
+              Yellow
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Orange_(colour)" title="Orange (colour)">
+              Orange
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Red" title="Red">
+              Red
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%;background:lavender;">
+          <a href="/wiki/Microwave" title="Microwave">
+           Microwaves
+          </a>
+         </th>
+         <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/W_band" title="W band">
+              W band
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/V_band" title="V band">
+              V band
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Q_band" title="Q band">
+              Q band
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Ka_band" title="Ka band">
+              K
+              <sub>
+               a
+              </sub>
+              band
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/K_band_(IEEE)" title="K band (IEEE)">
+              K band
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Ku_band" title="Ku band">
+              K
+              <sub>
+               u
+              </sub>
+              band
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/X_band" title="X band">
+              X band
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/S_band" title="S band">
+              S band
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/C_band_(IEEE)" title="C band (IEEE)">
+              C band
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/L_band" title="L band">
+              L band
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%;background:lavender;">
+          <a href="/wiki/Radio_frequency" title="Radio frequency">
+           Radio
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Extremely_high_frequency" title="Extremely high frequency">
+              EHF
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Super_high_frequency" title="Super high frequency">
+              SHF
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Ultra_high_frequency" title="Ultra high frequency">
+              UHF
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Very_high_frequency" title="Very high frequency">
+              VHF
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/High_frequency" title="High frequency">
+              HF
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Medium_frequency" title="Medium frequency">
+              MF
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Low_frequency" title="Low frequency">
+              LF
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Very_low_frequency" title="Very low frequency">
+              VLF
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Ultra_low_frequency" title="Ultra low frequency">
+              ULF
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Super_low_frequency" title="Super low frequency">
+              SLF
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Extremely_low_frequency" title="Extremely low frequency">
+              ELF
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%;background:lavender;">
+          <a href="/wiki/Wavelength" title="Wavelength">
+           Wavelength types
+          </a>
+         </th>
+         <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Microwave" title="Microwave">
+              Microwave
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Shortwave_radio" title="Shortwave radio">
+              Shortwave
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Medium_wave" title="Medium wave">
+              Medium wave
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Longwave" title="Longwave">
+              Longwave
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+       </table>
+      </div>
+      <div aria-labelledby="Modes_of_radio_propagation" class="navbox" role="navigation" style="padding:3px">
+       <table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tr>
+         <th class="navbox-title" colspan="2" scope="col">
+          <div class="plainlinks hlist navbar mini">
+           <ul>
+            <li class="nv-view">
+             <a href="/wiki/Template:RF_Propagation_Navbox" title="Template:RF Propagation Navbox">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">
+               v
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-talk">
+             <a class="new" href="/w/index.php?title=Template_talk:RF_Propagation_Navbox&amp;action=edit&amp;redlink=1" title="Template talk:RF Propagation Navbox (page does not exist)">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">
+               t
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-edit">
+             <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:RF_Propagation_Navbox&amp;action=edit">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">
+               e
+              </abbr>
+             </a>
+            </li>
+           </ul>
+          </div>
+          <div id="Modes_of_radio_propagation" style="font-size:114%;margin:0 4em">
+           Modes of
+           <a href="/wiki/Radio_propagation" title="Radio propagation">
+            radio propagation
+           </a>
+          </div>
+         </th>
+        </tr>
+        <tr>
+         <td class="navbox-list navbox-odd hlist" colspan="2" style="width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a class="mw-selflink selflink">
+              Line-of-sight
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Ionosphere" title="Ionosphere">
+              Ionospheric
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Meteor_burst_communications" title="Meteor burst communications">
+                Meteor burst
+               </a>
+              </li>
+              <li>
+               <a class="mw-redirect" href="/wiki/E-skip#Sporadic_E_propagation_(E-skip)" title="E-skip">
+                Sporadic E
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Airplane_scatter" title="Airplane scatter">
+              Airplane scatter
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Tropospheric_scatter" title="Tropospheric scatter">
+              Tropospheric scatter
+             </a>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/EME_(communications)" title="EME (communications)">
+              Earth–Moon–Earth
+             </a>
+             (EME)
+            </li>
+            <li>
+             <a href="/wiki/Interstellar_medium" title="Interstellar medium">
+              Interstellar Medium
+             </a>
+             (ISM)
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+       </table>
+      </div>
+      <!-- 
+NewPP limit report
+Parsed by mw1347
+Cached time: 20180205025329
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.140 seconds
+Real time usage: 0.318 seconds
+Preprocessor visited node count: 920/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 23987/2097152 bytes
+Template argument size: 1614/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 2/500
+Lua time usage: 0.035/10.000 seconds
+Lua memory usage: 1.71 MB/50 MB
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  155.684      1 -total
+ 28.33%   44.111      1 Template:Huh
+ 24.87%   38.723      1 Template:Fix-span
+ 23.27%   36.234      1 Template:Reflist
+ 17.14%   26.679      1 Template:ISBN
+ 16.88%   26.284      1 Template:Other_uses
+ 15.28%   23.781      2 Template:Category_handler
+ 12.87%   20.041      1 Template:EMSpectrum
+ 12.32%   19.176      2 Template:Navbox
+  7.93%   12.353      1 Template:Replace
+-->
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:60455-0!canonical!math=5 and timestamp 20180205025359 and revision id 824062519
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Line-of-sight_propagation&amp;oldid=824062519">
+      https://en.wikipedia.org/w/index.php?title=Line-of-sight_propagation&amp;oldid=824062519
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Radio_frequency_propagation" title="Category:Radio frequency propagation">
+         Radio frequency propagation
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:IEEE_802.11" title="Category:IEEE 802.11">
+         IEEE 802.11
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:Wikipedia_articles_needing_clarification_from_June_2016" title="Category:Wikipedia articles needing clarification from June 2016">
+         Wikipedia articles needing clarification from June 2016
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Wikipedia_articles_incorporating_text_from_the_Federal_Standard_1037C" title="Category:Wikipedia articles incorporating text from the Federal Standard 1037C">
+         Wikipedia articles incorporating text from the Federal Standard 1037C
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Wikipedia_articles_incorporating_text_from_MIL-STD-188" title="Category:Wikipedia articles incorporating text from MIL-STD-188">
+         Wikipedia articles incorporating text from MIL-STD-188
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Line-of-sight+propagation" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Line-of-sight+propagation" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Line-of-sight_propagation" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Line-of-sight_propagation" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="collapsible selected" id="ca-view">
+        <span>
+         <a href="/wiki/Line-of-sight_propagation">
+          Read
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Line-of-sight_propagation&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Line-of-sight_propagation&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Line-of-sight_propagation" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Line-of-sight_propagation" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Line-of-sight_propagation&amp;oldid=824062519" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Line-of-sight_propagation&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q605931" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Line-of-sight_propagation&amp;id=824062519" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Line-of-sight+propagation">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Line-of-sight+propagation&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Line-of-sight_propagation&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-ar">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%AE%D8%B7_%D8%A7%D9%84%D8%A8%D8%B5%D8%B1" hreflang="ar" lang="ar" title="خط البصر – Arabic">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Propagaci%C3%B3_d%27abast_visual" hreflang="ca" lang="ca" title="Propagació d'abast visual – Catalan">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Sichtverbindung" hreflang="de" lang="de" title="Sichtverbindung – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/L%C3%ADnea_de_mira" hreflang="es" lang="es" title="Línea de mira – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ko">
+        <a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EA%B0%80%EC%8B%9C%EC%84%A0_%EC%A0%84%ED%8C%8C" hreflang="ko" lang="ko" title="가시선 전파 – Korean">
+         한국어
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Linea_di_vista" hreflang="it" lang="it" title="Linea di vista – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nn">
+        <a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Str%C3%A5ling_innan_synsvidde" hreflang="nn" lang="nn" title="Stråling innan synsvidde – Norwegian Nynorsk">
+         Norsk nynorsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Linha_de_visada" hreflang="pt" lang="pt" title="Linha de visada – Portuguese">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E8%A7%86%E7%BA%BF%E4%BC%A0%E6%92%AD" hreflang="zh" lang="zh" title="视线传播 – Chinese">
+         中文
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q605931#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 5 February 2018, at 02:53.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Line-of-sight_propagation&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.140","walltime":"0.318","ppvisitednodes":{"value":920,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":23987,"limit":2097152},"templateargumentsize":{"value":1614,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  155.684      1 -total"," 28.33%   44.111      1 Template:Huh"," 24.87%   38.723      1 Template:Fix-span"," 23.27%   36.234      1 Template:Reflist"," 17.14%   26.679      1 Template:ISBN"," 16.88%   26.284      1 Template:Other_uses"," 15.28%   23.781      2 Template:Category_handler"," 12.87%   20.041      1 Template:EMSpectrum"," 12.32%   19.176      2 Template:Navbox","  7.93%   12.353      1 Template:Replace"]},"scribunto":{"limitreport-timeusage":{"value":"0.035","limit":"10.000"},"limitreport-memusage":{"value":1791071,"limit":52428800}},"cachereport":{"origin":"mw1347","timestamp":"20180205025329","ttl":1900800,"transientcontent":false}}});});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":68,"wgHostname":"mw1258"});});
+  </script>
+ </body>
+</html>

@@ -1,0 +1,2348 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Earth ellipsoid - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Earth_ellipsoid","wgTitle":"Earth ellipsoid","wgCurRevisionId":805303793,"wgRevisionId":805303793,"wgArticleId":16112368,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from October 2016","All articles needing additional references","Geodesy","Earth sciences"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Earth_ellipsoid","wgRelevantArticleId":16112368,"wgRequestId":"WnNAGQpAICsAADUp8w4AAACC","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q1203807","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.31.0-wmf.17" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <meta content="https://upload.wikimedia.org/wikipedia/commons/4/4c/Azimutalprojektion-schief_kl-cropped.png" property="og:image"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Earth_ellipsoid" rel="alternate"/>
+  <link href="/w/index.php?title=Earth_ellipsoid&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Earth_ellipsoid&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/Earth_ellipsoid" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Earth_ellipsoid rootpage-Earth_ellipsoid skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Earth ellipsoid
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+       <tr>
+        <td class="mbox-image">
+         <div style="width:52px">
+          <a class="image" href="/wiki/File:Question_book-new.svg">
+           <img alt="" data-file-height="399" data-file-width="512" height="39" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" width="50"/>
+          </a>
+         </div>
+        </td>
+        <td class="mbox-text">
+         <div class="mbox-text-span">
+          This article
+          <b>
+           needs additional citations for
+           <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">
+            verification
+           </a>
+          </b>
+          .
+          <span class="hide-when-compact">
+           Please help
+           <a class="external text" href="//en.wikipedia.org/w/index.php?title=Earth_ellipsoid&amp;action=edit">
+            improve this article
+           </a>
+           by
+           <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">
+            adding citations to reliable sources
+           </a>
+           . Unsourced material may be challenged and removed.
+          </span>
+          <small>
+           <i>
+            (October 2016)
+           </i>
+          </small>
+          <small class="hide-when-compact">
+           <i>
+            (
+            <a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">
+             Learn how and when to remove this template message
+            </a>
+            )
+           </i>
+          </small>
+         </div>
+        </td>
+       </tr>
+      </table>
+      <table class="vertical-navbox nowraplinks plainlist" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+       <tr>
+        <th style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em;padding-bottom:0.4em;">
+         <a href="/wiki/Geodesy" title="Geodesy">
+          Geodesy
+         </a>
+        </th>
+       </tr>
+       <tr>
+        <td style="padding:0.2em 0 0.4em">
+         <a class="image" href="/wiki/File:Azimutalprojektion-schief_kl-cropped.png">
+          <img alt="Azimutalprojektion-schief kl-cropped.png" data-file-height="240" data-file-width="242" height="149" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Azimutalprojektion-schief_kl-cropped.png/150px-Azimutalprojektion-schief_kl-cropped.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Azimutalprojektion-schief_kl-cropped.png/225px-Azimutalprojektion-schief_kl-cropped.png 1.5x, //upload.wikimedia.org/wikipedia/commons/4/4c/Azimutalprojektion-schief_kl-cropped.png 2x" width="150"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <th style="padding:0.1em;background:#c5d5a5;">
+         Fundamentals
+        </th>
+       </tr>
+       <tr>
+        <td style="padding:0 0.1em 0.4em;padding-top:0.2em;padding-bottom:0.7em;">
+         <div class="hlist">
+          <ul>
+           <li>
+            <a href="/wiki/Geodesy" title="Geodesy">
+             Geodesy
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Geodynamics" title="Geodynamics">
+             Geodynamics
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Geomatics" title="Geomatics">
+             Geomatics
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Cartography" title="Cartography">
+             Cartography
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/History_of_geodesy" title="History of geodesy">
+             History
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr>
+        <th style="padding:0.1em;background:#c5d5a5;">
+         Concepts
+        </th>
+       </tr>
+       <tr>
+        <td style="padding:0 0.1em 0.4em;padding-top:0.2em;padding-bottom:0.7em;">
+         <div class="hlist">
+          <ul>
+           <li>
+            <a href="/wiki/Geographical_distance" title="Geographical distance">
+             Geographical distance
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Geoid" title="Geoid">
+             Geoid
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Figure_of_the_Earth" title="Figure of the Earth">
+             Figure of the Earth
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Geodetic_datum" title="Geodetic datum">
+             Geodetic datum
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Geodesic" title="Geodesic">
+             Geodesic
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">
+             Geographic coordinate system
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Horizontal_position_representation" title="Horizontal position representation">
+             Horizontal position representation
+            </a>
+           </li>
+           <li>
+            <span class="nowrap">
+             <a href="/wiki/Latitude" title="Latitude">
+              Latitude
+             </a>
+             /
+             <a href="/wiki/Longitude" title="Longitude">
+              Longitude
+             </a>
+            </span>
+           </li>
+           <li>
+            <a href="/wiki/Map_projection" title="Map projection">
+             Map projection
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Reference_ellipsoid" title="Reference ellipsoid">
+             Reference ellipsoid
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Satellite_geodesy" title="Satellite geodesy">
+             Satellite geodesy
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Spatial_reference_system" title="Spatial reference system">
+             Spatial reference system
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr>
+        <th style="padding:0.1em;background:#c5d5a5;">
+         Technologies
+        </th>
+       </tr>
+       <tr>
+        <td style="padding:0 0.1em 0.4em;padding-top:0.2em;padding-bottom:0.7em;">
+         <ul>
+          <li>
+           <a href="/wiki/Satellite_navigation" title="Satellite navigation">
+            Global Navigation Satellite System (GNSS)
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Global_Positioning_System" title="Global Positioning System">
+            Global Positioning System (GPS)
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/GLONASS" title="GLONASS">
+            GLONASS
+            <span style="font-size:90%;">
+             (Russian)
+            </span>
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/BeiDou_Navigation_Satellite_System" title="BeiDou Navigation Satellite System">
+            BeiDou (BDS)
+            <span style="font-size:90%;">
+             (Chinese)
+            </span>
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Galileo_(satellite_navigation)" title="Galileo (satellite navigation)">
+            Galileo
+            <span style="font-size:90%;">
+             (European)
+            </span>
+           </a>
+          </li>
+          <li>
+           <div style="padding:0.2em 0.4em; line-height:1.2em;">
+            <a href="/wiki/Indian_Regional_Navigation_Satellite_System" title="Indian Regional Navigation Satellite System">
+             Indian Regional Navigation
+             <br/>
+             Satellite System (IRNSS)
+             <span style="font-size:90%;">
+              (India)
+             </span>
+            </a>
+           </div>
+          </li>
+          <li>
+           <a href="/wiki/Quasi-Zenith_Satellite_System" title="Quasi-Zenith Satellite System">
+            Quasi-Zenith Satellite System (QZSS)
+            <span style="font-size:90%;">
+             (Japan)
+            </span>
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Legenda_(satellite_system)" title="Legenda (satellite system)">
+            Legenda (satellite system)
+           </a>
+          </li>
+         </ul>
+        </td>
+       </tr>
+       <tr>
+        <th style="padding:0.1em;background:#c5d5a5;">
+         Standards (
+         <a href="/wiki/History_of_geodesy" title="History of geodesy">
+          History
+         </a>
+         )
+        </th>
+       </tr>
+       <tr>
+        <td style="padding:0 0.1em 0.4em;padding-top:0.2em;padding-bottom:0.7em;">
+         <table class="nowrap" style="width:100%;border-collapse:collapse;border-spacing:0px 0px;border:none;line-height:1.2em;">
+          <tr style="vertical-align:top">
+           <td style="text-align:left;padding-left:0.5em;">
+            <a href="/wiki/Sea_Level_Datum_of_1929" title="Sea Level Datum of 1929">
+             NGVD 29
+            </a>
+           </td>
+           <td style="text-align:right;font-size:90%;padding-right:0.55em;">
+            Sea Level Datum 1929
+           </td>
+          </tr>
+          <tr style="vertical-align:top">
+           <td style="text-align:left;padding-left:0.5em;">
+            <a class="mw-redirect" href="/wiki/OSGB36" title="OSGB36">
+             OSGB36
+            </a>
+           </td>
+           <td style="text-align:right;font-size:90%;padding-right:0.55em;">
+            Ordnance Survey Great Britain 1936
+           </td>
+          </tr>
+          <tr style="vertical-align:top">
+           <td style="text-align:left;padding-left:0.5em;">
+            <a href="/wiki/SK-42_reference_system" title="SK-42 reference system">
+             SK-42
+            </a>
+           </td>
+           <td style="text-align:right;font-size:90%;padding-right:0.55em;">
+            Systema Koordinat 1942 goda
+           </td>
+          </tr>
+          <tr style="vertical-align:top">
+           <td style="text-align:left;padding-left:0.5em;">
+            <a href="/wiki/ED50" title="ED50">
+             ED50
+            </a>
+           </td>
+           <td style="text-align:right;font-size:90%;padding-right:0.55em;">
+            European Datum 1950
+           </td>
+          </tr>
+          <tr style="vertical-align:top">
+           <td style="text-align:left;padding-left:0.5em;">
+            <a href="/wiki/South_American_Datum#SAD69" title="South American Datum">
+             SAD69
+            </a>
+           </td>
+           <td style="text-align:right;font-size:90%;padding-right:0.55em;">
+            South American Datum 1969
+           </td>
+          </tr>
+          <tr style="vertical-align:top">
+           <td style="text-align:left;padding-left:0.5em;">
+            <a href="/wiki/GRS_80" title="GRS 80">
+             GRS 80
+            </a>
+           </td>
+           <td style="text-align:right;font-size:90%;padding-right:0.55em;">
+            Geodetic Reference System 1980
+           </td>
+          </tr>
+          <tr style="vertical-align:top">
+           <td style="text-align:left;padding-left:0.5em;">
+            <a href="/wiki/North_American_Datum#North_American_Datum_of_1983" title="North American Datum">
+             NAD 83
+            </a>
+           </td>
+           <td style="text-align:right;font-size:90%;padding-right:0.55em;">
+            North American Datum 1983
+           </td>
+          </tr>
+          <tr style="vertical-align:top">
+           <td style="text-align:left;padding-left:0.5em;">
+            <a href="/wiki/World_Geodetic_System" title="World Geodetic System">
+             WGS 84
+            </a>
+           </td>
+           <td style="text-align:right;font-size:90%;padding-right:0.55em;">
+            World Geodetic System 1984
+           </td>
+          </tr>
+          <tr style="vertical-align:top">
+           <td style="text-align:left;padding-left:0.5em;">
+            <a href="/wiki/North_American_Vertical_Datum_of_1988" title="North American Vertical Datum of 1988">
+             NAVD 88
+            </a>
+           </td>
+           <td style="text-align:right;font-size:90%;padding-right:0.55em;">
+            N. American Vertical Datum 1988
+           </td>
+          </tr>
+          <tr style="vertical-align:top">
+           <td style="text-align:left;padding-left:0.5em;">
+            <a href="/wiki/European_Terrestrial_Reference_System_1989" title="European Terrestrial Reference System 1989">
+             ETRS89
+            </a>
+           </td>
+           <td style="text-align:right;font-size:90%;padding-right:0.55em;">
+            European Terrestrial Reference
+            <br/>
+            System 1989
+           </td>
+          </tr>
+          <tr style="vertical-align:top">
+           <td style="text-align:left;padding-left:0.5em;">
+            <a href="/wiki/Restrictions_on_geographic_data_in_China" title="Restrictions on geographic data in China">
+             GCJ-02
+            </a>
+           </td>
+           <td style="text-align:right;font-size:90%;padding-right:0.55em;">
+            Chinese obfuscated datum 2002
+           </td>
+          </tr>
+         </table>
+         <ul>
+          <li>
+           <a href="/wiki/International_Terrestrial_Reference_System" title="International Terrestrial Reference System">
+            International Terrestrial Reference System
+           </a>
+          </li>
+          <li>
+           <a class="mw-redirect" href="/wiki/SRID" title="SRID">
+            Spatial Reference System Identifier (SRID)
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Universal_Transverse_Mercator_coordinate_system" title="Universal Transverse Mercator coordinate system">
+            Universal Transverse Mercator (UTM)
+           </a>
+          </li>
+         </ul>
+        </td>
+       </tr>
+       <tr>
+        <td style="text-align:right;font-size:115%">
+         <div class="plainlinks hlist navbar mini">
+          <ul>
+           <li class="nv-view">
+            <a href="/wiki/Template:Geodesy" title="Template:Geodesy">
+             <abbr title="View this template">
+              v
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-talk">
+            <a href="/wiki/Template_talk:Geodesy" title="Template talk:Geodesy">
+             <abbr title="Discuss this template">
+              t
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-edit">
+            <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Geodesy&amp;action=edit">
+             <abbr title="Edit this template">
+              e
+             </abbr>
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+      </table>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:302px;">
+        <a class="image" href="/wiki/File:Earth_oblateness_to_scale.svg">
+         <img alt="" class="thumbimage" data-file-height="512" data-file-width="512" height="300" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Earth_oblateness_to_scale.svg/300px-Earth_oblateness_to_scale.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Earth_oblateness_to_scale.svg/450px-Earth_oblateness_to_scale.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Earth_oblateness_to_scale.svg/600px-Earth_oblateness_to_scale.svg.png 2x" width="300"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Earth_oblateness_to_scale.svg" title="Enlarge">
+          </a>
+         </div>
+         Scale drawing of the oblateness of the 2003 IERS reference ellipsoid. The outer edge of the dark blue line is an ellipse with the same eccentricity as that of the Earth, with north at the top. For comparison, the outer edge of light blue area is a circle of diameter equal to the minor axis. The red line denotes the
+         <a class="mw-redirect" href="/wiki/Karman_line" title="Karman line">
+          Karman line
+         </a>
+         and yellow area, the range of the
+         <a href="/wiki/International_Space_Station" title="International Space Station">
+          International Space Station
+         </a>
+         .
+        </div>
+       </div>
+      </div>
+      <p>
+       An
+       <b>
+        Earth ellipsoid
+       </b>
+       is a mathematical figure approximating the
+       <a href="/wiki/Figure_of_the_Earth" title="Figure of the Earth">
+        shape of the Earth
+       </a>
+       , used as a
+       <a href="/wiki/Frame_of_reference" title="Frame of reference">
+        reference frame
+       </a>
+       for computations in geodesy, astronomy and the geosciences. Various different ellipsoids have been used as approximations.
+      </p>
+      <p>
+       It is an
+       <a class="mw-redirect" href="/wiki/Ellipsoid_of_revolution" title="Ellipsoid of revolution">
+        ellipsoid of revolution
+       </a>
+       , whose short (polar) axis (connecting the two flattest spots called geographical north and south poles) is approximately aligned with the rotation axis of the Earth. The ellipsoid is defined by the equatorial axis
+       <i>
+        a
+       </i>
+       and the polar axis
+       <i>
+        b
+       </i>
+       ; their difference is about 21 km or 0.335 percent. Additional parameters are the
+       <a href="/wiki/Probability_mass_function" title="Probability mass function">
+        mass function
+       </a>
+       <i>
+        J2
+       </i>
+       , the correspondent
+       <a href="/wiki/Gravity" title="Gravity">
+        gravity
+       </a>
+       formula, and the rotation period (usually 86164 seconds).
+      </p>
+      <p>
+       Many methods exist for determination of the axes of an Earth ellipsoid, ranging from
+       <a href="/wiki/Meridian_arc" title="Meridian arc">
+        meridian arcs
+       </a>
+       up to modern
+       <a href="/wiki/Satellite_geodesy" title="Satellite geodesy">
+        satellite geodesy
+       </a>
+       or the analysis and interconnection of continental
+       <a class="mw-redirect" href="/wiki/Geodetic_network" title="Geodetic network">
+        geodetic networks
+       </a>
+       . Amongst the different set of data used in
+       <a class="mw-redirect" href="/wiki/National_survey" title="National survey">
+        national surveys
+       </a>
+       are several of special importance: the
+       <a href="/wiki/Bessel_ellipsoid" title="Bessel ellipsoid">
+        Bessel ellipsoid
+       </a>
+       of 1841, the international
+       <a href="/wiki/Hayford_ellipsoid" title="Hayford ellipsoid">
+        Hayford ellipsoid
+       </a>
+       of 1924, and (for
+       <a class="mw-redirect" href="/wiki/GPS" title="GPS">
+        GPS
+       </a>
+       positioning) the
+       <a class="mw-redirect" href="/wiki/WGS84" title="WGS84">
+        WGS84
+       </a>
+       ellipsoid.
+      </p>
+      <p>
+      </p>
+      <div class="toc" id="toc">
+       <div class="toctitle" dir="ltr" lang="en" xml:lang="en">
+        <h2>
+         Contents
+        </h2>
+       </div>
+       <ul>
+        <li class="toclevel-1 tocsection-1">
+         <a href="#Mean_Earth_ellipsoid_and_reference_ellipsoids">
+          <span class="tocnumber">
+           1
+          </span>
+          <span class="toctext">
+           <i>
+            Mean
+           </i>
+           Earth ellipsoid and
+           <i>
+            reference
+           </i>
+           ellipsoids
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-2">
+         <a href="#Historical_method_of_determining_the_ellipsoid">
+          <span class="tocnumber">
+           2
+          </span>
+          <span class="toctext">
+           Historical method of determining the ellipsoid
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-3">
+         <a href="#Historical_Earth_ellipsoids">
+          <span class="tocnumber">
+           3
+          </span>
+          <span class="toctext">
+           Historical Earth ellipsoids
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-4">
+         <a href="#See_also">
+          <span class="tocnumber">
+           4
+          </span>
+          <span class="toctext">
+           See also
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-5">
+         <a href="#References">
+          <span class="tocnumber">
+           5
+          </span>
+          <span class="toctext">
+           References
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <p>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Mean_Earth_ellipsoid_and_reference_ellipsoids">
+        <i>
+         Mean
+        </i>
+        Earth ellipsoid and
+        <i>
+         reference
+        </i>
+        ellipsoids
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Earth_ellipsoid&amp;action=edit&amp;section=1" title="Edit section: Mean Earth ellipsoid and reference ellipsoids">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="hatnote navigation-not-searchable" role="note">
+       Further information:
+       <a href="/wiki/Reference_ellipsoid" title="Reference ellipsoid">
+        Reference ellipsoid
+       </a>
+      </div>
+      <p>
+       A data set which describes the global
+       <a href="/wiki/Average" title="Average">
+        average
+       </a>
+       of the Earth's surface curvature is called the
+       <i>
+        mean
+       </i>
+       Earth Ellipsoid. It refers to a theoretical coherence between the
+       <a class="mw-redirect" href="/wiki/Geographic_latitude" title="Geographic latitude">
+        geographic latitude
+       </a>
+       and the meridional curvature of the
+       <a href="/wiki/Geoid" title="Geoid">
+        geoid
+       </a>
+       . The latter is close to the
+       <a class="mw-redirect" href="/wiki/Mean_sea_level" title="Mean sea level">
+        mean sea level
+       </a>
+       , and therefore an ideal Earth ellipsoid has the same
+       <a href="/wiki/Volume" title="Volume">
+        volume
+       </a>
+       as the geoid.
+      </p>
+      <p>
+       While the
+       <i>
+        mean
+       </i>
+       Earth ellipsoid is the ideal basis of global geodesy, for
+       <a class="mw-redirect" href="/wiki/Regional" title="Regional">
+        regional
+       </a>
+       networks a so-called
+       <i>
+        reference ellipsoid
+       </i>
+       may be the better choice.
+       <sup class="reference" id="cite_ref-1">
+        <a href="#cite_note-1">
+         [1]
+        </a>
+       </sup>
+       When geodetic measurements have to be computed on a mathematical reference surface, this surface should have a similar curvature as the regional geoid - otherwise,
+       <a href="/wiki/Reduction_(mathematics)" title="Reduction (mathematics)">
+        reduction
+       </a>
+       of the measurements will get small distortions.
+      </p>
+      <p>
+       This is the reason for the "long life" of former reference ellipsoids like the
+       <a href="/wiki/Hayford_ellipsoid" title="Hayford ellipsoid">
+        Hayford
+       </a>
+       or the
+       <a href="/wiki/Bessel_ellipsoid" title="Bessel ellipsoid">
+        Bessel ellipsoid
+       </a>
+       , despite the fact that their main axes deviate by several hundred meters from the modern values. Another reason is a judicial one: the
+       <a class="mw-redirect" href="/wiki/Coordinate" title="Coordinate">
+        coordinates
+       </a>
+       of millions of boundary stones should remain fixed for a long period. If their reference surface changes, the coordinates themselves also change.
+      </p>
+      <p>
+       However, for
+       <a href="/wiki/International" title="International">
+        international
+       </a>
+       networks,
+       <a class="mw-redirect" href="/wiki/GPS" title="GPS">
+        GPS
+       </a>
+       positioning, or
+       <a href="/wiki/Astronautics" title="Astronautics">
+        astronautics
+       </a>
+       , these regional reasons are less relevant. As knowledge of
+       <a href="/wiki/Figure_of_the_Earth" title="Figure of the Earth">
+        the Earth's figure
+       </a>
+       is increasingly accurate, the International Geoscientific Union
+       <a class="mw-redirect" href="/wiki/IUGG" title="IUGG">
+        IUGG
+       </a>
+       usually adapts the axes of the Earth ellipsoid to the best available data.
+      </p>
+      <h2>
+       <span class="mw-headline" id="Historical_method_of_determining_the_ellipsoid">
+        Historical method of determining the ellipsoid
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Earth_ellipsoid&amp;action=edit&amp;section=2" title="Edit section: Historical method of determining the ellipsoid">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       High precision land surveys can be used to determine the distance between two places at nearly the same longitude by measuring a base line and a chain of triangles. (Suitable stations for the end points are rarely at the same longitude). The distance Δ along the meridian from one end point to a point at the same latitude as the second end point is then calculated by trigonometry. The surface distance Δ is reduced to Δ', the corresponding distance at
+       <a class="mw-redirect" href="/wiki/Mean_sea_level" title="Mean sea level">
+        mean sea level
+       </a>
+       . The intermediate distances to points on the meridian at the same latitudes as other stations of the survey may also be calculated.
+      </p>
+      <p>
+       The geographic latitudes of both end points, φ
+       <sub>
+        s
+       </sub>
+       (standpoint) and φ
+       <sub>
+        f
+       </sub>
+       (forepoint) and possibly at other points are determined by
+       <a class="mw-redirect" href="/wiki/Astrogeodesy" title="Astrogeodesy">
+        astrogeodesy
+       </a>
+       , observing the
+       <a class="mw-redirect" href="/wiki/Zenith_distance" title="Zenith distance">
+        zenith distances
+       </a>
+       of sufficient numbers of
+       <a href="/wiki/Star" title="Star">
+        stars
+       </a>
+       . If latitudes are measured at end points only, the radius of curvature at the midpoint of the meridian arc can be calculated from R = Δ'/(|φ
+       <sub>
+        s
+       </sub>
+       -φ
+       <sub>
+        f
+       </sub>
+       |). A second meridian arc will allow the derivation of two parameters required to specify a
+       <a href="/wiki/Reference_ellipsoid" title="Reference ellipsoid">
+        reference ellipsoid
+       </a>
+       . Longer arcs with intermediate latitude determinations can completely determine the ellipsoid. In practice multiple arc measurements are used to determine the ellipsoid parameters by the method of least squares. The parameters determined are usually the semi-major axis,
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle a}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              a
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle a}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="a" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ffd2487510aa438433a2579450ab2b3d557e5edc" style="vertical-align: -0.338ex; width:1.23ex; height:1.676ex;"/>
+       </span>
+       , and either the semi-minor axis,
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle b}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              b
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle b}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="b" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f11423fbb2e967f986e36804a8ae4271734917c3" style="vertical-align: -0.338ex; width:0.998ex; height:2.176ex;"/>
+       </span>
+       , or the
+       <a class="mw-redirect" href="/wiki/Inverse_flattening" title="Inverse flattening">
+        inverse flattening
+       </a>
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle 1/f}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mn>
+              1
+             </mn>
+             <mrow class="MJX-TeXAtom-ORD">
+              <mo>
+               /
+              </mo>
+             </mrow>
+             <mi>
+              f
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle 1/f}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="1/f" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e9cd0e60c02ddf533da2abed825389fe5a94b7d0" style="vertical-align: -0.838ex; width:3.603ex; height:2.843ex;"/>
+       </span>
+       , (where the flattening is
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle f=(a-b)/a}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              f
+             </mi>
+             <mo>
+              =
+             </mo>
+             <mo stretchy="false">
+              (
+             </mo>
+             <mi>
+              a
+             </mi>
+             <mo>
+              −
+              <!-- − -->
+             </mo>
+             <mi>
+              b
+             </mi>
+             <mo stretchy="false">
+              )
+             </mo>
+             <mrow class="MJX-TeXAtom-ORD">
+              <mo>
+               /
+              </mo>
+             </mrow>
+             <mi>
+              a
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle f=(a-b)/a}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="f=(a-b)/a" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4de0a2fdb7997262ccee47e4c12df72c818f614b" style="vertical-align: -0.838ex; width:13.646ex; height:2.843ex;"/>
+       </span>
+       ).
+      </p>
+      <p>
+       <a href="/wiki/Geodesy" title="Geodesy">
+        Geodesy
+       </a>
+       no longer uses simple meridian arcs, but complex
+       <a class="extiw" href="https://en.wiktionary.org/wiki/network" title="wikt:network">
+        networks
+       </a>
+       with hundreds of
+       <a href="/wiki/Benchmark_(surveying)" title="Benchmark (surveying)">
+        fixed points
+       </a>
+       linked by the methods of
+       <a href="/wiki/Satellite_geodesy" title="Satellite geodesy">
+        satellite geodesy
+       </a>
+       .
+      </p>
+      <h2>
+       <span class="mw-headline" id="Historical_Earth_ellipsoids">
+        Historical Earth ellipsoids
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Earth_ellipsoid&amp;action=edit&amp;section=3" title="Edit section: Historical Earth ellipsoids">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       The reference ellipsoid models listed below have had utility in geodetic work and many are still in use. The older ellipsoids are named for the individual who derived them and the year of development is given. In 1887 the English surveyor Colonel
+       <a href="/wiki/Alexander_Ross_Clarke" title="Alexander Ross Clarke">
+        Alexander Ross Clarke
+       </a>
+       CB FRS RE was awarded the Gold Medal of the Royal Society for his work in determining the figure of the Earth. The international ellipsoid was developed by
+       <a href="/wiki/John_Fillmore_Hayford" title="John Fillmore Hayford">
+        John Fillmore Hayford
+       </a>
+       in 1910 and adopted by the International Union of Geodesy and Geophysics (IUGG) in 1924, which recommended it for international use.
+      </p>
+      <p>
+       At the 1967 meeting of the IUGG held in Lucerne, Switzerland, the ellipsoid called GRS-67 (
+       <a class="mw-redirect" href="/wiki/Geodetic_system" title="Geodetic system">
+        Geodetic Reference System
+       </a>
+       1967) in the listing was recommended for adoption. The new ellipsoid was not recommended to replace the International Ellipsoid (1924), but was advocated for use where a greater degree of accuracy is required. It became a part of the GRS-67 which was approved and adopted at the 1971 meeting of the IUGG held in Moscow. It is used in Australia for the Australian Geodetic Datum and in South America for the South American Datum 1969.
+      </p>
+      <p>
+       The GRS-80 (Geodetic Reference System 1980) as approved and adopted by the IUGG at its Canberra, Australia meeting of 1979 is based on the equatorial radius (semi-major axis of Earth ellipsoid)
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle a}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              a
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle a}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="a" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ffd2487510aa438433a2579450ab2b3d557e5edc" style="vertical-align: -0.338ex; width:1.23ex; height:1.676ex;"/>
+       </span>
+       , total mass
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle GM}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              G
+             </mi>
+             <mi>
+              M
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle GM}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="GM" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d2d9b5427dc6e6f3c11f13d88a5b637b4bc24585" style="vertical-align: -0.338ex; width:4.269ex; height:2.176ex;"/>
+       </span>
+       , dynamic form factor
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle J_{2}}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <msub>
+              <mi>
+               J
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mn>
+                2
+               </mn>
+              </mrow>
+             </msub>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle J_{2}}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="J_{2}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0f9986a8fbfd51097a5ff5e82d3252c9572b5835" style="vertical-align: -0.671ex; width:2.344ex; height:2.509ex;"/>
+       </span>
+       and angular velocity of rotation
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle \omega }" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              ω
+              <!-- ω -->
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle \omega }
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="\omega " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/48eff443f9de7a985bb94ca3bde20813ea737be8" style="vertical-align: -0.338ex; width:1.446ex; height:1.676ex;"/>
+       </span>
+       , making the inverse flattening
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle 1/f}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mn>
+              1
+             </mn>
+             <mrow class="MJX-TeXAtom-ORD">
+              <mo>
+               /
+              </mo>
+             </mrow>
+             <mi>
+              f
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle 1/f}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="1/f" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e9cd0e60c02ddf533da2abed825389fe5a94b7d0" style="vertical-align: -0.838ex; width:3.603ex; height:2.843ex;"/>
+       </span>
+       a derived quantity. The minute difference in
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle 1/f}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mn>
+              1
+             </mn>
+             <mrow class="MJX-TeXAtom-ORD">
+              <mo>
+               /
+              </mo>
+             </mrow>
+             <mi>
+              f
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle 1/f}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="1/f" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e9cd0e60c02ddf533da2abed825389fe5a94b7d0" style="vertical-align: -0.838ex; width:3.603ex; height:2.843ex;"/>
+       </span>
+       seen between GRS-80 and WGS-84 results from an unintentional truncation in the latter's defining constants: while the WGS-84 was designed to adhere closely to the GRS-80, incidentally the WGS-84 derived flattening turned out to be slightly different than the GRS-80 flattening because the normalized second degree zonal harmonic gravitational coefficient, that was derived from the GRS-80 value for J2, was truncated to 8 significant digits in the normalization process.
+       <sup class="reference" id="cite_ref-2">
+        <a href="#cite_note-2">
+         [2]
+        </a>
+       </sup>
+      </p>
+      <p>
+       An ellipsoidal model describes only the ellipsoid's geometry and a
+       <a class="mw-redirect" href="/wiki/Normal_gravity" title="Normal gravity">
+        normal gravity
+       </a>
+       field formula to go with it. Commonly an ellipsoidal model is part of a more encompassing
+       <a class="mw-redirect" href="/wiki/Datum_(geodesy)" title="Datum (geodesy)">
+        geodetic datum
+       </a>
+       . For example, the older ED-50 (
+       <a href="/wiki/ED50" title="ED50">
+        European Datum 1950
+       </a>
+       ) is based on the Hayford or
+       <a class="mw-redirect" href="/wiki/International_Ellipsoid" title="International Ellipsoid">
+        International Ellipsoid
+       </a>
+       . WGS-84 is peculiar in that the same name is used for both the complete geodetic reference system and its component ellipsoidal model. Nevertheless, the two concepts—ellipsoidal model and geodetic reference system—remain distinct.
+      </p>
+      <p>
+       Note that the same ellipsoid may be known by different names. It is best to mention the defining constants for unambiguous identification.
+      </p>
+      <p>
+       <span id="table">
+       </span>
+      </p>
+      <table class="wikitable">
+       <tr>
+        <th>
+         Reference ellipsoid name
+        </th>
+        <th>
+         Equatorial radius (m)
+        </th>
+        <th>
+         Polar radius (m)
+        </th>
+        <th>
+         Inverse flattening
+        </th>
+        <th>
+         Where used
+        </th>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Pierre_Louis_Maupertuis" title="Pierre Louis Maupertuis">
+          Maupertuis
+         </a>
+         (1738)
+        </td>
+        <td>
+         6,397,300
+        </td>
+        <td>
+         6,363,806.283
+        </td>
+        <td>
+         191
+        </td>
+        <td>
+         France
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Johannes_du_Plessis" title="Johannes du Plessis">
+          Plessis
+         </a>
+         (1817)
+        </td>
+        <td>
+         6,376,523.0
+        </td>
+        <td>
+         6,355,862.9333
+        </td>
+        <td>
+         308.64
+        </td>
+        <td>
+         France
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/George_Everest" title="George Everest">
+          Everest
+         </a>
+         (1830)
+        </td>
+        <td>
+         6,377,299.365
+        </td>
+        <td>
+         6,356,098.359
+        </td>
+        <td>
+         300.80172554
+        </td>
+        <td>
+         India
+        </td>
+       </tr>
+       <tr>
+        <td>
+         Everest 1830 Modified (1967)
+        </td>
+        <td>
+         6,377,304.063
+        </td>
+        <td>
+         6,356,103.0390
+        </td>
+        <td>
+         300.8017
+        </td>
+        <td>
+         West Malaysia &amp; Singapore
+        </td>
+       </tr>
+       <tr>
+        <td>
+         Everest 1830 (1967 Definition)
+        </td>
+        <td>
+         6,377,298.556
+        </td>
+        <td>
+         6,356,097.550
+        </td>
+        <td>
+         300.8017
+        </td>
+        <td>
+         Brunei &amp; East Malaysia
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/George_Biddell_Airy" title="George Biddell Airy">
+          Airy
+         </a>
+         (1830)
+        </td>
+        <td>
+         6,377,563.396
+        </td>
+        <td>
+         6,356,256.909
+        </td>
+        <td>
+         299.3249646
+        </td>
+        <td>
+         Britain
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Bessel_ellipsoid" title="Bessel ellipsoid">
+          Bessel
+         </a>
+         (1841)
+        </td>
+        <td>
+         6,377,397.155
+        </td>
+        <td>
+         6,356,078.963
+        </td>
+        <td>
+         299.1528128
+        </td>
+        <td>
+         Europe, Japan
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Alexander_Ross_Clarke" title="Alexander Ross Clarke">
+          Clarke
+         </a>
+         (1866)
+        </td>
+        <td>
+         6,378,206.4
+        </td>
+        <td>
+         6,356,583.8
+        </td>
+        <td>
+         294.9786982
+        </td>
+        <td>
+         North America
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Alexander_Ross_Clarke" title="Alexander Ross Clarke">
+          Clarke
+         </a>
+         (1878)
+        </td>
+        <td>
+         6,378,190
+        </td>
+        <td>
+         6,356,456
+        </td>
+        <td>
+         293.4659980
+        </td>
+        <td>
+         North America
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Alexander_Ross_Clarke" title="Alexander Ross Clarke">
+          Clarke
+         </a>
+         (1880)
+        </td>
+        <td>
+         6,378,249.145
+        </td>
+        <td>
+         6,356,514.870
+        </td>
+        <td>
+         293.465
+        </td>
+        <td>
+         France, Africa
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Friedrich_Robert_Helmert" title="Friedrich Robert Helmert">
+          Helmert
+         </a>
+         (1906)
+        </td>
+        <td>
+         6,378,200
+        </td>
+        <td>
+         6,356,818.17
+        </td>
+        <td>
+         298.3
+        </td>
+        <td>
+         Egypt
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/John_Fillmore_Hayford" title="John Fillmore Hayford">
+          Hayford
+         </a>
+         (1910)
+        </td>
+        <td>
+         6,378,388
+        </td>
+        <td>
+         6,356,911.946
+        </td>
+        <td>
+         297
+        </td>
+        <td>
+         USA
+        </td>
+       </tr>
+       <tr>
+        <td>
+         International (1924)
+        </td>
+        <td>
+         6,378,388
+        </td>
+        <td>
+         6,356,911.946
+        </td>
+        <td>
+         297
+        </td>
+        <td>
+         Europe
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/Feodosy_Krasovsky" title="Feodosy Krasovsky">
+          Krassovsky
+         </a>
+         (1940)
+        </td>
+        <td>
+         6,378,245
+        </td>
+        <td>
+         6,356,863.019
+        </td>
+        <td>
+         298.3
+        </td>
+        <td>
+         USSR, Russia, Romania
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/World_Geodetic_System#The_United_States_Department_of_Defense_World_Geodetic_System_1966" title="World Geodetic System">
+          WGS66
+         </a>
+         (1966)
+        </td>
+        <td>
+         6,378,145
+        </td>
+        <td>
+         6,356,759.769
+        </td>
+        <td>
+         298.25
+        </td>
+        <td>
+         USA/DoD
+        </td>
+       </tr>
+       <tr>
+        <td>
+         Australian National (1966)
+        </td>
+        <td>
+         6,378,160
+        </td>
+        <td>
+         6,356,774.719
+        </td>
+        <td>
+         298.25
+        </td>
+        <td>
+         Australia
+        </td>
+       </tr>
+       <tr>
+        <td>
+         New International (1967)
+        </td>
+        <td>
+         6,378,157.5
+        </td>
+        <td>
+         6,356,772.2
+        </td>
+        <td>
+         298.24961539
+        </td>
+        <td>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         GRS-67 (1967)
+        </td>
+        <td>
+         6,378,160
+        </td>
+        <td>
+         6,356,774.516
+        </td>
+        <td>
+         298.247167427
+        </td>
+        <td>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         South American (1969)
+        </td>
+        <td>
+         6,378,160
+        </td>
+        <td>
+         6,356,774.719
+        </td>
+        <td>
+         298.25
+        </td>
+        <td>
+         South America
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/World_Geodetic_System#The_United_States_Department_of_Defense_World_Geodetic_System_1972" title="World Geodetic System">
+          WGS-72
+         </a>
+         (1972)
+        </td>
+        <td>
+         6,378,135
+        </td>
+        <td>
+         6,356,750.52
+        </td>
+        <td>
+         298.26
+        </td>
+        <td>
+         USA/DoD
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/GRS_80" title="GRS 80">
+          GRS-80
+         </a>
+         (1979)
+        </td>
+        <td>
+         6,378,137
+        </td>
+        <td>
+         6,356,752.3141
+        </td>
+        <td>
+         298.257222101
+        </td>
+        <td>
+         Global
+         <a href="/wiki/International_Terrestrial_Reference_System" title="International Terrestrial Reference System">
+          ITRS
+         </a>
+         <sup class="reference" id="cite_ref-IERS_3-0">
+          <a href="#cite_note-IERS-3">
+           [3]
+          </a>
+         </sup>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a href="/wiki/World_Geodetic_System#A_new_World_Geodetic_System:_WGS_84" title="World Geodetic System">
+          WGS-84
+         </a>
+         (1984)
+        </td>
+        <td>
+         6,378,137
+        </td>
+        <td>
+         6,356,752.3142
+        </td>
+        <td>
+         298.257223563
+        </td>
+        <td>
+         Global
+         <a href="/wiki/Global_Positioning_System" title="Global Positioning System">
+          GPS
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <a class="mw-redirect" href="/wiki/IERS" title="IERS">
+          IERS
+         </a>
+         (1989)
+        </td>
+        <td>
+         6,378,136
+        </td>
+        <td>
+         6,356,751.302
+        </td>
+        <td>
+         298.257
+        </td>
+        <td>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         IERS (2003)
+         <sup class="reference" id="cite_ref-4">
+          <a href="#cite_note-4">
+           [4]
+          </a>
+         </sup>
+        </td>
+        <td>
+         6,378,136.6
+        </td>
+        <td>
+         6,356,751.9
+        </td>
+        <td>
+         298.25642
+        </td>
+        <td>
+         <sup class="reference" id="cite_ref-IERS_3-1">
+          <a href="#cite_note-IERS-3">
+           [3]
+          </a>
+         </sup>
+        </td>
+       </tr>
+      </table>
+      <h2>
+       <span class="mw-headline" id="See_also">
+        See also
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Earth_ellipsoid&amp;action=edit&amp;section=4" title="Edit section: See also">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a class="mw-redirect" href="/wiki/Datum_(geodesy)" title="Datum (geodesy)">
+         Geodetic datum
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/History_of_geodesy" title="History of geodesy">
+         History of geodesy
+        </a>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="References">
+        References
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Earth_ellipsoid&amp;action=edit&amp;section=5" title="Edit section: References">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="reflist" style="list-style-type: decimal;">
+       <div class="mw-references-wrap">
+        <ol class="references">
+         <li id="cite_note-1">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-1">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Alexander, J. C. (1985). "The Numerics of Computing Geodetic Ellipsoids".
+            <i>
+             SIAM Review
+            </i>
+            .
+            <b>
+             27
+            </b>
+            (2): 241.
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1137%2F1027056" rel="nofollow">
+             10.1137/1027056
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=SIAM+Review&amp;rft.atitle=The+Numerics+of+Computing+Geodetic+Ellipsoids&amp;rft.volume=27&amp;rft.issue=2&amp;rft.pages=241&amp;rft.date=1985&amp;rft_id=info%3Adoi%2F10.1137%2F1027056&amp;rft.aulast=Alexander&amp;rft.aufirst=J.+C.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEarth+ellipsoid">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-2">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-2">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           NIMA Technical Report TR8350.2, "Department of Defense World Geodetic System 1984, Its Definition and Relationships With Local Geodetic Systems", Third Edition, 4 July 1997
+           <a class="external autonumber" href="http://earth-info.nga.mil/GandG/publications/tr8350.2/wgs84fin.pdf" rel="nofollow">
+            [1]
+           </a>
+          </span>
+         </li>
+         <li id="cite_note-IERS-3">
+          <span class="mw-cite-backlink">
+           ^
+           <a href="#cite_ref-IERS_3-0">
+            <sup>
+             <i>
+              <b>
+               a
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-IERS_3-1">
+            <sup>
+             <i>
+              <b>
+               b
+              </b>
+             </i>
+            </sup>
+           </a>
+          </span>
+          <span class="reference-text">
+           Note that the current best estimates, given by the IERS Conventions, "should not be mistaken for conventional values, such as those of the Geodetic Reference System GRS80 ... which are, for example, used to express geographic coordinates" (
+           <a class="external text" href="ftp://tai.bipm.org/iers/convupdt/chapter1/icc1.pdf" rel="nofollow">
+            chap. 1
+           </a>
+           ); note further that "ITRF solutions are specified by Cartesian equatorial coordinates X, Y and Z. If needed, they can be transformed to geographical coordinates (λ, φ, h) referred to an ellipsoid. In this case the GRS80 ellipsoid is recommended." (
+           <a class="external text" href="ftp://tai.bipm.org/iers/convupdt/chapter4/icc4.pdf" rel="nofollow">
+            chap. 4
+           </a>
+           ).
+          </span>
+         </li>
+         <li id="cite_note-4">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-4">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <a class="external text" href="http://www.iers.org/MainDisp.csl?pid=46-25776" rel="nofollow">
+            IERS Conventions (2003)
+           </a>
+           (Chp. 1, page 12)
+          </span>
+         </li>
+        </ol>
+       </div>
+      </div>
+      <!-- 
+NewPP limit report
+Parsed by mw1266
+Cached time: 20180112181722
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.140 seconds
+Real time usage: 0.776 seconds
+Preprocessor visited node count: 593/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 29760/2097152 bytes
+Template argument size: 1315/2097152 bytes
+Highest expansion depth: 10/40
+Expensive parser function count: 1/500
+Lua time usage: 0.049/10.000 seconds
+Lua memory usage: 2.03 MB/50 MB
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  151.969      1 -total
+ 32.15%   48.853      1 Template:Refimprove
+ 28.59%   43.451      1 Template:Reflist
+ 23.31%   35.421      1 Template:Geodesy
+ 21.59%   32.807      1 Template:Cite_journal
+ 21.16%   32.161      1 Template:Sidebar
+ 19.55%   29.708      1 Template:Ambox
+  7.34%   11.148      1 Template:Further
+  4.82%    7.330      1 Template:Anchor
+  4.79%    7.284      2 Template:Flatlist
+-->
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:16112368-0!canonical!math=5 and timestamp 20180112181722 and revision id 805303793
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Earth_ellipsoid&amp;oldid=805303793">
+      https://en.wikipedia.org/w/index.php?title=Earth_ellipsoid&amp;oldid=805303793
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Geodesy" title="Category:Geodesy">
+         Geodesy
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Earth_sciences" title="Category:Earth sciences">
+         Earth sciences
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:Articles_needing_additional_references_from_October_2016" title="Category:Articles needing additional references from October 2016">
+         Articles needing additional references from October 2016
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">
+         All articles needing additional references
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Earth+ellipsoid" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Earth+ellipsoid" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Earth_ellipsoid" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Earth_ellipsoid" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="collapsible selected" id="ca-view">
+        <span>
+         <a href="/wiki/Earth_ellipsoid">
+          Read
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Earth_ellipsoid&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Earth_ellipsoid&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Earth_ellipsoid" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Earth_ellipsoid" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Earth_ellipsoid&amp;oldid=805303793" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Earth_ellipsoid&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1203807" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Earth_ellipsoid&amp;id=805303793" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Earth+ellipsoid">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Earth+ellipsoid&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Earth_ellipsoid&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Geod%C3%A4tisches_Erdmodell" hreflang="de" lang="de" title="Geodätisches Erdmodell – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Ellipso%C3%AFde_de_r%C3%A9volution" hreflang="fr" lang="fr" title="Ellipsoïde de révolution – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ko">
+        <a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%A7%80%EA%B5%AC_%ED%83%80%EC%9B%90%EC%B2%B4" hreflang="ko" lang="ko" title="지구 타원체 – Korean">
+         한국어
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hy">
+        <a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D4%B5%D6%80%D5%AF%D6%80%D5%A1%D5%B5%D5%AB%D5%B6_%D5%A7%D5%AC%D5%AB%D5%BA%D5%BD%D5%B8%D5%AB%D5%A4" hreflang="hy" lang="hy" title="Երկրային էլիպսոիդ – Armenian">
+         Հայերեն
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E5%9C%B0%E7%90%83%E6%A5%95%E5%86%86%E4%BD%93" hreflang="ja" lang="ja" title="地球楕円体 – Japanese">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pl">
+        <a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Elipsoida_ziemska" hreflang="pl" lang="pl" title="Elipsoida ziemska – Polish">
+         Polski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%97%D0%B5%D0%BC%D0%BD%D0%BE%D0%B9_%D1%8D%D0%BB%D0%BB%D0%B8%D0%BF%D1%81%D0%BE%D0%B8%D0%B4" hreflang="ru" lang="ru" title="Земной эллипсоид – Russian">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uk">
+        <a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%97%D0%B5%D0%BC%D0%BD%D0%B8%D0%B9_%D0%B5%D0%BB%D1%96%D0%BF%D1%81%D0%BE%D1%97%D0%B4" hreflang="uk" lang="uk" title="Земний еліпсоїд – Ukrainian">
+         Українська
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%9C%B0%E7%90%83%E6%A4%AD%E7%90%83" hreflang="zh" lang="zh" title="地球椭球 – Chinese">
+         中文
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1203807#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 14 October 2017, at 13:29.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Earth_ellipsoid&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.140","walltime":"0.776","ppvisitednodes":{"value":593,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":29760,"limit":2097152},"templateargumentsize":{"value":1315,"limit":2097152},"expansiondepth":{"value":10,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  151.969      1 -total"," 32.15%   48.853      1 Template:Refimprove"," 28.59%   43.451      1 Template:Reflist"," 23.31%   35.421      1 Template:Geodesy"," 21.59%   32.807      1 Template:Cite_journal"," 21.16%   32.161      1 Template:Sidebar"," 19.55%   29.708      1 Template:Ambox","  7.34%   11.148      1 Template:Further","  4.82%    7.330      1 Template:Anchor","  4.79%    7.284      2 Template:Flatlist"]},"scribunto":{"limitreport-timeusage":{"value":"0.049","limit":"10.000"},"limitreport-memusage":{"value":2124170,"limit":52428800}},"cachereport":{"origin":"mw1266","timestamp":"20180112181722","ttl":1900800,"transientcontent":false}}});});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":89,"wgHostname":"mw1322"});});
+  </script>
+ </body>
+</html>

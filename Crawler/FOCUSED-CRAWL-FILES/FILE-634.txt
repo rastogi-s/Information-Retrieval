@@ -1,0 +1,4799 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Lunar Lander (spacecraft) - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Lunar_Lander_(spacecraft)","wgTitle":"Lunar Lander (spacecraft)","wgCurRevisionId":819392310,"wgRevisionId":819392310,"wgArticleId":28397815,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages using deprecated image syntax","Interlanguage link template link number","Missions to the Moon","European Space Agency space probes","2018 in spaceflight","Proposed space probes","2018 in Europe"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Lunar_Lander_(spacecraft)","wgRelevantArticleId":28397815,"wgRequestId":"WnYyNwpAICoAAKRanKkAAABH","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Lunar_Lander_(space_mission)","wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgInternalRedirectTargetUrl":"/wiki/Lunar_Lander_(spacecraft)","wgWikibaseItemId":"Q6703671","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["mediawiki.action.view.redirect","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.31.0-wmf.17" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <meta content="https://upload.wikimedia.org/wikipedia/en/0/0a/LLMoon.jpg" property="og:image"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Lunar_Lander_(spacecraft)" rel="alternate"/>
+  <link href="/w/index.php?title=Lunar_Lander_(spacecraft)&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Lunar_Lander_(spacecraft)&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/Lunar_Lander_(spacecraft)" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Lunar_Lander_spacecraft rootpage-Lunar_Lander_spacecraft skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Lunar Lander (spacecraft)
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+     <span class="mw-redirectedfrom">
+      (Redirected from
+      <a class="mw-redirect" href="/w/index.php?title=Lunar_Lander_(space_mission)&amp;redirect=no" title="Lunar Lander (space mission)">
+       Lunar Lander (space mission)
+      </a>
+      )
+     </span>
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <div class="hatnote navigation-not-searchable" role="note">
+       This article is about the unmanned ESA lunar mission. For other lunar landing missions, see
+       <a href="/wiki/Lunar_lander" title="Lunar lander">
+        Lunar lander
+       </a>
+       .
+      </div>
+      <table class="infobox plainlist" style="width:22em;width:25em;">
+       <caption>
+        Lunar Lander
+       </caption>
+       <tr>
+        <td colspan="2" style="text-align:center">
+         <a class="image" href="/wiki/File:LLMoon.jpg">
+          <img alt="LLMoon.jpg" data-file-height="236" data-file-width="421" height="123" src="//upload.wikimedia.org/wikipedia/en/thumb/0/0a/LLMoon.jpg/220px-LLMoon.jpg" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/0a/LLMoon.jpg/330px-LLMoon.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/0/0a/LLMoon.jpg 2x" width="220"/>
+         </a>
+         <div>
+          Depiction of Lunar Lander on the Moon's surface
+         </div>
+        </td>
+       </tr>
+       <tr>
+        <td colspan="2" style="text-align:center">
+        </td>
+       </tr>
+       <tr>
+        <th scope="row">
+         Mission type
+        </th>
+        <td>
+         Technology demonstration, Exploration
+        </td>
+       </tr>
+       <tr>
+        <th scope="row">
+         Operator
+        </th>
+        <td>
+         <a class="mw-redirect" href="/wiki/ESA" title="ESA">
+          ESA
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <th scope="row">
+         Mission duration
+        </th>
+        <td>
+         Transfer: ~2-4 months
+         <sup class="reference" id="cite_ref-fisackerly_1-0">
+          <a href="#cite_note-fisackerly-1">
+           [1]
+          </a>
+         </sup>
+         <br/>
+         Surface operations: several months (proposed)
+         <sup class="reference" id="cite_ref-fisackerly_1-1">
+          <a href="#cite_note-fisackerly-1">
+           [1]
+          </a>
+         </sup>
+        </td>
+       </tr>
+       <tr style="display:none">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <td colspan="2" style="text-align:center">
+        </td>
+       </tr>
+       <tr>
+        <th colspan="2" style="text-align:center">
+         Spacecraft properties
+        </th>
+       </tr>
+       <tr>
+        <th scope="row">
+         Manufacturer
+        </th>
+        <td>
+         <a href="/wiki/Astrium" title="Astrium">
+          Astrium
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <th scope="row">
+         Launch mass
+        </th>
+        <td>
+         ~2,000 kg (4,400 lb)
+         <sup class="reference" id="cite_ref-derosa_2-0">
+          <a href="#cite_note-derosa-2">
+           [2]
+          </a>
+         </sup>
+        </td>
+       </tr>
+       <tr>
+        <th scope="row">
+         Dry mass
+        </th>
+        <td>
+         750 kg (1,650 lb)
+         <sup class="reference" id="cite_ref-derosa_2-1">
+          <a href="#cite_note-derosa-2">
+           [2]
+          </a>
+         </sup>
+        </td>
+       </tr>
+       <tr>
+        <th scope="row">
+         Dimensions
+        </th>
+        <td>
+         height: 3.44 m (11.3 ft)
+         <sup class="reference" id="cite_ref-Carpenter12_3-0">
+          <a href="#cite_note-Carpenter12-3">
+           [3]
+          </a>
+         </sup>
+         <br/>
+         diameter: 5.6 m (18 ft)
+         <sup class="reference" id="cite_ref-Carpenter12_3-1">
+          <a href="#cite_note-Carpenter12-3">
+           [3]
+          </a>
+         </sup>
+        </td>
+       </tr>
+       <tr style="display:none">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <td colspan="2" style="text-align:center">
+        </td>
+       </tr>
+       <tr>
+        <th colspan="2" style="text-align:center">
+         Start of mission
+        </th>
+       </tr>
+       <tr>
+        <th scope="row">
+         Launch date
+        </th>
+        <td>
+         2018 (proposed)
+         <sup class="reference" id="cite_ref-derosa_2-2">
+          <a href="#cite_note-derosa-2">
+           [2]
+          </a>
+         </sup>
+        </td>
+       </tr>
+       <tr>
+        <th scope="row">
+         Rocket
+        </th>
+        <td>
+         <a class="mw-redirect" href="/wiki/Soyuz-2_(rocket)#Soyuz_2.1b" title="Soyuz-2 (rocket)">
+          Soyuz 2.1b
+         </a>
+         <sup class="reference" id="cite_ref-fisackerly_1-2">
+          <a href="#cite_note-fisackerly-1">
+           [1]
+          </a>
+         </sup>
+        </td>
+       </tr>
+       <tr>
+        <th scope="row">
+         Launch site
+        </th>
+        <td>
+         <a href="/wiki/Guiana_Space_Centre#ELS_.2F_Soyuz_at_CSG" title="Guiana Space Centre">
+          Guiana Space Centre - ELS
+         </a>
+        </td>
+       </tr>
+       <tr style="display:none">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <td colspan="2" style="text-align:center">
+        </td>
+       </tr>
+       <tr>
+        <th colspan="2" style="text-align:center">
+         <a href="/wiki/Moon" title="Moon">
+          Moon
+         </a>
+         lander
+        </th>
+       </tr>
+       <tr>
+        <th scope="row">
+         Landing date
+        </th>
+        <td>
+         2018 (proposed)
+        </td>
+       </tr>
+       <tr>
+        <th scope="row">
+         Landing site
+        </th>
+        <td>
+         <a href="/wiki/Lunar_south_pole" title="Lunar south pole">
+          Lunar south pole
+         </a>
+        </td>
+       </tr>
+       <tr style="display:none">
+        <td colspan="2">
+        </td>
+       </tr>
+      </table>
+      <p>
+       The
+       <b>
+        Lunar Lander
+       </b>
+       was a
+       <a class="mw-redirect" href="/wiki/Robotic_exploration" title="Robotic exploration">
+        robotic mission
+       </a>
+       intended to send a
+       <a href="/wiki/Lander_(spacecraft)" title="Lander (spacecraft)">
+        lander vehicle
+       </a>
+       to the
+       <a href="/wiki/Moon" title="Moon">
+        Moon
+       </a>
+       , led by
+       <a href="/wiki/European_Space_Agency" title="European Space Agency">
+        ESA's
+       </a>
+       Human Spaceflight and Operations directorate. The primary objective of the Lunar Lander mission was to demonstrate Europe’s ability to deliver payload safely and accurately to the Moon’s surface. More specifically the mission would have demonstrated the technologies required to achieve a soft and precise landing while autonomously avoiding surface hazards that can endanger landing and surface mission safety. These technologies will be an asset for future human and robotic exploration missions.
+       <sup class="reference" id="cite_ref-4">
+        <a href="#cite_note-4">
+         [4]
+        </a>
+       </sup>
+       However the project was put on hold at the 2012 ESA Ministerial Council.
+       <sup class="reference" id="cite_ref-5">
+        <a href="#cite_note-5">
+         [5]
+        </a>
+       </sup>
+      </p>
+      <p>
+      </p>
+      <div class="toc" id="toc">
+       <div class="toctitle" dir="ltr" lang="en">
+        <h2>
+         Contents
+        </h2>
+       </div>
+       <ul>
+        <li class="toclevel-1 tocsection-1">
+         <a href="#Mission_scenario">
+          <span class="tocnumber">
+           1
+          </span>
+          <span class="toctext">
+           Mission scenario
+          </span>
+         </a>
+         <ul>
+          <li class="toclevel-2 tocsection-2">
+           <a href="#Launch_and_transfer">
+            <span class="tocnumber">
+             1.1
+            </span>
+            <span class="toctext">
+             Launch and transfer
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-3">
+           <a href="#Low_lunar_orbit">
+            <span class="tocnumber">
+             1.2
+            </span>
+            <span class="toctext">
+             Low lunar orbit
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-4">
+           <a href="#Descent_and_landing">
+            <span class="tocnumber">
+             1.3
+            </span>
+            <span class="toctext">
+             Descent and landing
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-5">
+           <a href="#Surface_operations">
+            <span class="tocnumber">
+             1.4
+            </span>
+            <span class="toctext">
+             Surface operations
+            </span>
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="toclevel-1 tocsection-6">
+         <a href="#Landing_site">
+          <span class="tocnumber">
+           2
+          </span>
+          <span class="toctext">
+           Landing site
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-7">
+         <a href="#System">
+          <span class="tocnumber">
+           3
+          </span>
+          <span class="toctext">
+           System
+          </span>
+         </a>
+         <ul>
+          <li class="toclevel-2 tocsection-8">
+           <a href="#Configuration">
+            <span class="tocnumber">
+             3.1
+            </span>
+            <span class="toctext">
+             Configuration
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-9">
+           <a href="#Precision_landing_and_hazard_detection_and_avoidance">
+            <span class="tocnumber">
+             3.2
+            </span>
+            <span class="toctext">
+             Precision landing and hazard detection and avoidance
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-10">
+           <a href="#Power">
+            <span class="tocnumber">
+             3.3
+            </span>
+            <span class="toctext">
+             Power
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-11">
+           <a href="#Propulsion">
+            <span class="tocnumber">
+             3.4
+            </span>
+            <span class="toctext">
+             Propulsion
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-12">
+           <a href="#Navigation">
+            <span class="tocnumber">
+             3.5
+            </span>
+            <span class="toctext">
+             Navigation
+            </span>
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="toclevel-1 tocsection-13">
+         <a href="#Science">
+          <span class="tocnumber">
+           4
+          </span>
+          <span class="toctext">
+           Science
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-14">
+         <a href="#Mission_status">
+          <span class="tocnumber">
+           5
+          </span>
+          <span class="toctext">
+           Mission status
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-15">
+         <a href="#References">
+          <span class="tocnumber">
+           6
+          </span>
+          <span class="toctext">
+           References
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-16">
+         <a href="#External_links">
+          <span class="tocnumber">
+           7
+          </span>
+          <span class="toctext">
+           External links
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <p>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Mission_scenario">
+        Mission scenario
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Lunar_Lander_(spacecraft)&amp;action=edit&amp;section=1" title="Edit section: Mission scenario">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <h3>
+       <span class="mw-headline" id="Launch_and_transfer">
+        Launch and transfer
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Lunar_Lander_(spacecraft)&amp;action=edit&amp;section=2" title="Edit section: Launch and transfer">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       Launching from Centre Spatial Guyanais, Kourou in late 2018 on a Soyuz launcher, the Lander is injected into a
+       <a href="/wiki/Highly_elliptical_orbit" title="Highly elliptical orbit">
+        Highly Elliptical Orbit (HEO)
+       </a>
+       by a Fregat-MT upper stage, through a series of intermediate orbits. Following Fregat separation, the lander uses its own propulsion to enter the final Lunar Transfer Orbit and, after an overall transfer time of several weeks, injects itself into a polar orbit around the Moon. After a series of
+       <a href="/wiki/Apsis" title="Apsis">
+        Apolune and Perilune
+       </a>
+       lowering manoeuvres, the Lander reaches its final Low Lunar Orbit (LLO) at 100 km altitude.
+       <sup class="reference" id="cite_ref-fisackerly2_6-0">
+        <a href="#cite_note-fisackerly2-6">
+         [6]
+        </a>
+       </sup>
+      </p>
+      <h3>
+       <span class="mw-headline" id="Low_lunar_orbit">
+        Low lunar orbit
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Lunar_Lander_(spacecraft)&amp;action=edit&amp;section=3" title="Edit section: Low lunar orbit">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       Once in low lunar orbit the Lunar Lander prepares for the final phase of the mission waiting for the correct constellation of orbit, Earth and Sun geometry and performing the checkout and calibration operations of the systems critical for landing. The time spent by the Lander in LLO before the start of the landing operations is expected to last from a number of weeks up to a maximum of 3 months.
+       <sup class="reference" id="cite_ref-fisackerly2_6-1">
+        <a href="#cite_note-fisackerly2-6">
+         [6]
+        </a>
+       </sup>
+      </p>
+      <h3>
+       <span class="mw-headline" id="Descent_and_landing">
+        Descent and landing
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Lunar_Lander_(spacecraft)&amp;action=edit&amp;section=4" title="Edit section: Descent and landing">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       The descent and landing phase of the mission starts when the Lander performs a de-orbit burn close to the lunar north pole. This burn decreases the orbit's perigee to about 15 km, some 500 km ahead of the lunar south pole, half an orbit later. During the coasting period, automatic visual recognition of landmarks on the lunar surface is used to determine the lander's precise location and to ensure correct positioning at the beginning of the final descent. Heading towards the south pole, the lander enters the final powered descent phase. Using its cluster of thrusters, the lander decelerates and descends. During this phase, a varying thrust needs to be applied as the lander approaches its landing site. Finer thrust levels are achieved using the ATV engines in pulse modulation, as shown in this
+       <a class="external text" href="https://www.youtube.com/watch?v=XHDCeg-dyec" rel="nofollow">
+        <span class="plainlinks">
+         video of the hot-firing tests
+        </span>
+       </a>
+       on
+       <a href="/wiki/YouTube" title="YouTube">
+        YouTube
+       </a>
+       . At an altitude of few kilometres, the Hazard Detection and Avoidance system (HDA) is able to see the primary landing site and to evaluate it. If the primary site is deemed unsafe, due to the presence of surface hazards (like steep slopes, craters, boulders, shadows, etc.), the HDA has the opportunity to command re-targetings to a secondary landing site. When a safe landing site is found, the lander performs a soft touch down using its legs.
+      </p>
+      <h3>
+       <span class="mw-headline" id="Surface_operations">
+        Surface operations
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Lunar_Lander_(spacecraft)&amp;action=edit&amp;section=5" title="Edit section: Surface operations">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       Once landed on the surface, the lander carries out critical operations such as deployment of its antenna and camera mast, and relays the complete package of data relating to the descend and landing sequence back to Earth. The lander relies on direct line of sight communication with
+       <a href="/wiki/Earth" title="Earth">
+        Earth
+       </a>
+       as no relay satellite is planned for the mission. This configuration implies periods where no communication with Earth is possible because of Earth moving outside the lander's field of view. Similarly to the
+       <a href="/wiki/Sun" title="Sun">
+        Sun
+       </a>
+       ,
+       <a href="/wiki/Earth" title="Earth">
+        Earth
+       </a>
+       will be below the horizon following a monthly cycle due to Moon's tilted axis of rotation with respect its orbital plane.
+       <br/>
+       Nominal surface operations are then initiated which includes the deployment of specific payloads onto the lunar surface via a robotic arm, the activation of other static monitoring payloads on board the lander, and ultimately the acquisition of surface samples using the robotic arm for analysis by instruments on the lander.
+      </p>
+      <h2>
+       <span class="mw-headline" id="Landing_site">
+        Landing site
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Lunar_Lander_(spacecraft)&amp;action=edit&amp;section=6" title="Edit section: Landing site">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       The
+       <a href="/wiki/Lunar_south_pole" title="Lunar south pole">
+        south polar region
+       </a>
+       of the Moon has been identified as an important destination for future exploration missions due to the unique surface conditions found at certain sites in terms of solar illumination, the proximity of scientifically interesting locations such as permanently shadowed craters and the potential existence of resources which might be utilized. These factors combine to make this region a strong candidate for future human exploration and potentially even a long-term presence in the form of a lunar base. Recent orbital missions have provided strong evidence suggesting the south polar region’s potential as an important exploration destination.
+       <br/>
+       The extended periods of continuous
+       <a href="/wiki/Sun" title="Sun">
+        Sun
+       </a>
+       illumination are unique to Moon's polar regions and allow the lander to be operated by solar power. However, favourably illuminated locations are expected to be limited in size (few hundreds of metres across) and may present patches of hazardous terrain with steep slopes, boulders, craters or extended shadow.
+       <sup class="reference" id="cite_ref-derosa1_7-0">
+        <a href="#cite_note-derosa1-7">
+         [7]
+        </a>
+       </sup>
+       These surface conditions require the employment of dedicated autonomous, safe and precision landing technology.
+      </p>
+      <h2>
+       <span class="mw-headline" id="System">
+        System
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Lunar_Lander_(spacecraft)&amp;action=edit&amp;section=7" title="Edit section: System">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <h3>
+       <span class="mw-headline" id="Configuration">
+        Configuration
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Lunar_Lander_(spacecraft)&amp;action=edit&amp;section=8" title="Edit section: Configuration">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:LLConfiguration.jpg">
+         <img alt="" class="thumbimage" data-file-height="220" data-file-width="453" height="107" src="//upload.wikimedia.org/wikipedia/en/thumb/a/aa/LLConfiguration.jpg/220px-LLConfiguration.jpg" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/aa/LLConfiguration.jpg/330px-LLConfiguration.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/aa/LLConfiguration.jpg/440px-LLConfiguration.jpg 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:LLConfiguration.jpg" title="Enlarge">
+          </a>
+         </div>
+         Lunar Lander dimensions [mm] with astronaut as size comparison
+        </div>
+       </div>
+      </div>
+      <p>
+       The main body of the Lander is cylindrical, with four landing legs extending from the sides. The circumference of the main body is covered with solar cells. The bottom side is dominated by the nozzles of the main thrusters while the top offers space for sensors and payload.
+       <br/>
+       The lander will employ a robotic arm to retrieve soil samples for on-board analysis.
+      </p>
+      <h3>
+       <span class="mw-headline" id="Precision_landing_and_hazard_detection_and_avoidance">
+        Precision landing and hazard detection and avoidance
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Lunar_Lander_(spacecraft)&amp;action=edit&amp;section=9" title="Edit section: Precision landing and hazard detection and avoidance">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       Polar landing sites offering long periods of continuous illumination have been found to be limited in extent, by analyses of the data from the
+       <a href="/wiki/Lunar_Reconnaissance_Orbiter" title="Lunar Reconnaissance Orbiter">
+        Lunar Reconnaissance Orbiter
+       </a>
+       and
+       <a href="/wiki/SELENE" title="SELENE">
+        Kaguya
+       </a>
+       .
+       <sup class="reference" id="cite_ref-derosa1_7-1">
+        <a href="#cite_note-derosa1-7">
+         [7]
+        </a>
+       </sup>
+       Therefore, a landing precision of few hundreds of metres is required to the Lunar Lander. Compared to previous robotic lander missions (for example Surveyor
+       <sup class="reference" id="cite_ref-Ribarich_8-0">
+        <a href="#cite_note-Ribarich-8">
+         [8]
+        </a>
+       </sup>
+       ), the technologies required to the Lunar Lander mission have the potential to increase the achievable landing precision by one or two orders of magnitude, reaching the performances only achieved by manned vehicles (
+       <a href="/wiki/Apollo_12" title="Apollo 12">
+        Apollo 12
+       </a>
+       LM landed only ~150 m from the Surveyor 3 probe.
+       <sup class="reference" id="cite_ref-9">
+        <a href="#cite_note-9">
+         [9]
+        </a>
+       </sup>
+       )
+       <br/>
+       Potential landing sites in the polar regions are also likely to be partly covered by shadow, and may present areas of steep slopes or large rocks. In order to avoid landing on unsafe terrain, an autonomous Hazard Detection and Avoidance (HDA) system is employed. The system is composed of a
+       <a class="mw-redirect" href="/wiki/LIDAR" title="LIDAR">
+        LIDAR
+       </a>
+       and a camera, which generate 2D and 3D images of the surface, and by the on-board computer, which uses these images to characterise the landscape underneath the lander during the final descend. If the area is deemed unsafe, the system orders a retargeting to a safe landing area, compatibly with the propellant left.
+      </p>
+      <h3>
+       <span class="mw-headline" id="Power">
+        Power
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Lunar_Lander_(spacecraft)&amp;action=edit&amp;section=10" title="Edit section: Power">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       Planetary exploration missions have often turned to Radio-Isotope devices, whether RHUs or RTGs, to support thermal control and power generation in what are often extreme temperature and energy poor environments. However, for Europe, where these technologies are currently unavailable, employing such devices have important technical and programmatic impacts. While activities investigating the development of RHUs and ultimately RTGs are proceeding within Europe, it is not expected that European devices would be available in the 2018 timeframe of the Lunar Lander mission.
+       <sup class="reference" id="cite_ref-fisackerly3_10-0">
+        <a href="#cite_note-fisackerly3-10">
+         [10]
+        </a>
+       </sup>
+       <br/>
+       Instead, the Lunar Lander is powered by solar arrays which are wrapped around the body tube. Once landed, the vehicles axis of symmetry will be almost perpendicular to the direction of the
+       <a href="/wiki/Sun" title="Sun">
+        Sun
+       </a>
+       ensuring continuously good illumination of the solar cells as the lander rotates with respect to the Sun (due to the rotation of the Moon).
+       <br/>
+       Batteries are used to bridge short periods without solar power. Solar power is unavailable in LLO when the lander goes into lunar
+       <a href="/wiki/Eclipse" title="Eclipse">
+        eclipse
+       </a>
+       and on the ground, when mountain peaks at the horizon cover the Sun. Landing operations will also be conducted relying solely on battery power.
+      </p>
+      <h3>
+       <span class="mw-headline" id="Propulsion">
+        Propulsion
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Lunar_Lander_(spacecraft)&amp;action=edit&amp;section=11" title="Edit section: Propulsion">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       The spacecraft employs three types of engines:
+      </p>
+      <ol>
+       <li>
+        Six 220N
+        <a href="/wiki/Automated_Transfer_Vehicle" title="Automated Transfer Vehicle">
+         ATV
+        </a>
+        thrusters
+        <sup class="reference" id="cite_ref-11">
+         <a href="#cite_note-11">
+          [11]
+         </a>
+        </sup>
+        operated in pulsed mode
+        <sup class="reference" id="cite_ref-12">
+         <a href="#cite_note-12">
+          [12]
+         </a>
+        </sup>
+        to deliver a variable impulse along the descent, as the engine itself has a fixed thrust level, unlike the
+        <a href="/wiki/Descent_Propulsion_System" title="Descent Propulsion System">
+         Descent Propulsion System
+        </a>
+        used on Apollo for example.
+       </li>
+       <li>
+        Five 500N European Apogee Motors.
+        <sup class="reference" id="cite_ref-13">
+         <a href="#cite_note-13">
+          [13]
+         </a>
+        </sup>
+       </li>
+       <li>
+        Sixteen small attitude control thrusters
+       </li>
+      </ol>
+      <p>
+       All of the 500 and 220 N engines will be needed to deliver sufficient thrust to decelerate the lander from low lunar orbital velocity for controlled final descend.
+      </p>
+      <h3>
+       <span class="mw-headline" id="Navigation">
+        Navigation
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Lunar_Lander_(spacecraft)&amp;action=edit&amp;section=12" title="Edit section: Navigation">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       The vehicle uses traditional means of navigation during its transfer trajectory to the Moon. This includes employment of an
+       <a href="/wiki/Inertial_measurement_unit" title="Inertial measurement unit">
+        IMU
+       </a>
+       (combined unit of
+       <a href="/wiki/Accelerometer" title="Accelerometer">
+        accelerometer
+       </a>
+       and
+       <a href="/wiki/Gyroscope" title="Gyroscope">
+        gyroscope
+       </a>
+       ),
+       <a href="/wiki/Star_tracker#Star_tracker" title="Star tracker">
+        star trackers
+       </a>
+       and
+       <a href="/wiki/Sun_sensor#Sun_sensor" title="Sun sensor">
+        sun sensors
+       </a>
+       . Furthermore,
+       <a href="/wiki/Time_of_flight" title="Time of flight">
+        range
+       </a>
+       and
+       <a href="/wiki/Doppler_effect" title="Doppler effect">
+        Doppler
+       </a>
+       measurements from Earth will help to determine the spacecraft's position and velocity, respectively.
+       <br/>
+       In LLO and during descend, other means of navigation need to be considered. Early study phases identified the need to use high altitude vision-based absolute navigation, along with relative visual navigation.
+       <sup class="reference" id="cite_ref-derosa_2-3">
+        <a href="#cite_note-derosa-2">
+         [2]
+        </a>
+       </sup>
+       These advanced techniques allow an improvement of the navigation performances, as compared to traditional techniques, such as inertial navigation and Earth-ground-based orbit determination. Furthermore, in order to guarantee soft landing and to reach the start of the approach phase within a tight corridor, an on-board long-range altitude estimate is required, which will be available through a combination of visual navigation and altimeter measurements.
+      </p>
+      <h2>
+       <span class="mw-headline" id="Science">
+        Science
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Lunar_Lander_(spacecraft)&amp;action=edit&amp;section=13" title="Edit section: Science">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       Lunar Lander science objectives have been established in a framework of human exploration preparation. These include detailed investigation of surface parameters of strong significance for future operations on the surface, be they human and/or robotic.
+       <br/>
+       A model payload has been identified addressing the following specific topics:
+      </p>
+      <ul>
+       <li>
+        microscopic properties of dust, including shape &amp; size distribution, and its composition
+       </li>
+       <li>
+        plasma and electric field environment on the lunar surface, and the behaviour of dust within that environment
+       </li>
+       <li>
+        feasibility of making radio astronomy measurements from the lunar surface
+       </li>
+       <li>
+        potential volatile content of regolith (e.g. OH)
+       </li>
+       <li>
+        camera package for visual data from the south pole environment
+       </li>
+      </ul>
+      <p>
+       All payloads are either statically accommodated on the lander body, held at distance from the lander by dedicated booms, or are deployed in close proximity to the lander (1–2m) by robotic arm. Payloads which analyze samples of regolith close-up will receive small amounts of material gathered from the vicinity of the lander by an acquisition device on the end of the robotic arm.
+       <sup class="reference" id="cite_ref-fisackerly_1-3">
+        <a href="#cite_note-fisackerly-1">
+         [1]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Mission_status">
+        Mission status
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Lunar_Lander_(spacecraft)&amp;action=edit&amp;section=14" title="Edit section: Mission status">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       In August 2010, Astrium was selected as prime contractor
+       <sup class="reference" id="cite_ref-14">
+        <a href="#cite_note-14">
+         [14]
+        </a>
+       </sup>
+       for the Lunar Lander Phase B1,
+       <sup class="reference" id="cite_ref-15">
+        <a href="#cite_note-15">
+         [15]
+        </a>
+       </sup>
+       which includes breadboard activities in the area of propulsion and navigation.
+       <sup class="reference" id="cite_ref-fisackerly3_10-1">
+        <a href="#cite_note-fisackerly3-10">
+         [10]
+        </a>
+       </sup>
+       Phase B1 follows three feasibility studies conducted in parallel by
+       <a class="mw-redirect" href="/wiki/EADS_Astrium" title="EADS Astrium">
+        EADS Astrium
+       </a>
+       ,
+       <a class="mw-redirect" href="/wiki/OHB" title="OHB">
+        OHB
+       </a>
+       and
+       <a href="/wiki/Thales_Alenia_Space" title="Thales Alenia Space">
+        Thales Alenia Space
+       </a>
+       , which concluded in 2010.
+      </p>
+      <p>
+       At ESA's Ministerial Council in November 2012, no further funding was allotted for the Lunar Lander project. Germany, being the main contributor, was unable to find sufficient financial support for the program by other member states. The German delegation at the council was led by Peter Hintze, who stated that Germany was willing to contribute 45% of the mission's total cost but was unable to secure financial backing for the remaining 55% by other member states.
+       <sup class="reference" id="cite_ref-16">
+        <a href="#cite_note-16">
+         [16]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="References">
+        References
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Lunar_Lander_(spacecraft)&amp;action=edit&amp;section=15" title="Edit section: References">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="reflist" style="list-style-type: decimal;">
+       <div class="mw-references-wrap mw-references-columns">
+        <ol class="references">
+         <li id="cite_note-fisackerly-1">
+          <span class="mw-cite-backlink">
+           ^
+           <a href="#cite_ref-fisackerly_1-0">
+            <sup>
+             <i>
+              <b>
+               a
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-fisackerly_1-1">
+            <sup>
+             <i>
+              <b>
+               b
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-fisackerly_1-2">
+            <sup>
+             <i>
+              <b>
+               c
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-fisackerly_1-3">
+            <sup>
+             <i>
+              <b>
+               d
+              </b>
+             </i>
+            </sup>
+           </a>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Fisackerly, R.; et al. (2010). "The ESA Lunar Lander Mission".
+            <i>
+             <a class="mw-redirect" href="/wiki/AIAA" title="AIAA">
+              AIAA
+             </a>
+            </i>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=AIAA&amp;rft.atitle=The+ESA+Lunar+Lander+Mission&amp;rft.date=2010&amp;rft.aulast=Fisackerly&amp;rft.aufirst=R.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALunar+Lander+%28spacecraft%29">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-derosa-2">
+          <span class="mw-cite-backlink">
+           ^
+           <a href="#cite_ref-derosa_2-0">
+            <sup>
+             <i>
+              <b>
+               a
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-derosa_2-1">
+            <sup>
+             <i>
+              <b>
+               b
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-derosa_2-2">
+            <sup>
+             <i>
+              <b>
+               c
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-derosa_2-3">
+            <sup>
+             <i>
+              <b>
+               d
+              </b>
+             </i>
+            </sup>
+           </a>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            De Rosa, D.; et al. (5–10 June 2011). "ESA Lunar Lander Mission".
+            <i>
+             8th International ESA Conference on Guidance, Navigation &amp; Control Systems
+            </i>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=8th+International+ESA+Conference+on+Guidance%2C+Navigation+%26+Control+Systems&amp;rft.atitle=ESA+Lunar+Lander+Mission&amp;rft.date=2011-06-05%2F2011-06-10&amp;rft.aulast=De+Rosa&amp;rft.aufirst=D.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALunar+Lander+%28spacecraft%29">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-Carpenter12-3">
+          <span class="mw-cite-backlink">
+           ^
+           <a href="#cite_ref-Carpenter12_3-0">
+            <sup>
+             <i>
+              <b>
+               a
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-Carpenter12_3-1">
+            <sup>
+             <i>
+              <b>
+               b
+              </b>
+             </i>
+            </sup>
+           </a>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Carpenter, J.; et al. (2012). "Scientific Preparations for Lunar Exploration with the European Lunar Lander".
+            <i>
+             Planetary and Space Science
+            </i>
+            .
+            <b>
+             74
+            </b>
+            : 208–223.
+            <a href="/wiki/ArXiv" title="ArXiv">
+             arXiv
+            </a>
+            :
+            <span class="plainlinks">
+             <a class="external text" href="//arxiv.org/abs/1207.4965" rel="nofollow">
+              1207.4965
+             </a>
+             <img alt="Freely accessible" data-file-height="813" data-file-width="512" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" title="Freely accessible" width="9"/>
+            </span>
+            .
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/2012P&amp;SS...74..208C" rel="nofollow">
+             2012P&amp;SS...74..208C
+            </a>
+            .
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1016%2Fj.pss.2012.07.024" rel="nofollow">
+             10.1016/j.pss.2012.07.024
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Planetary+and+Space+Science&amp;rft.atitle=Scientific+Preparations+for+Lunar+Exploration+with+the+European+Lunar+Lander&amp;rft.volume=74&amp;rft.pages=208-223&amp;rft.date=2012&amp;rft_id=info%3Aarxiv%2F1207.4965&amp;rft_id=info%3Adoi%2F10.1016%2Fj.pss.2012.07.024&amp;rft_id=info%3Abibcode%2F2012P%26SS...74..208C&amp;rft.aulast=Carpenter&amp;rft.aufirst=J.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALunar+Lander+%28spacecraft%29">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-4">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-4">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://esamultimedia.esa.int/multimedia/publications/ESA_Space_Exploration_Strategy/" rel="nofollow">
+             "ESA Space Exploration Strategy"
+            </a>
+            .
+            <i>
+             esamultimedia.esa.int
+            </i>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              2016-07-26
+             </span>
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=esamultimedia.esa.int&amp;rft.atitle=ESA+Space+Exploration+Strategy&amp;rft_id=http%3A%2F%2Fesamultimedia.esa.int%2Fmultimedia%2Fpublications%2FESA_Space_Exploration_Strategy%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALunar+Lander+%28spacecraft%29">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-5">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-5">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.spaceflightnow.com/news/n1211/20moonlander/#.UKz1ZuS5OM4" rel="nofollow">
+             "ESA lunar lander shelved ahead of budget conference"
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              21 November
+             </span>
+             2012
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=ESA+lunar+lander+shelved+ahead+of+budget+conference&amp;rft_id=http%3A%2F%2Fwww.spaceflightnow.com%2Fnews%2Fn1211%2F20moonlander%2F%23.UKz1ZuS5OM4&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALunar+Lander+%28spacecraft%29">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-fisackerly2-6">
+          <span class="mw-cite-backlink">
+           ^
+           <a href="#cite_ref-fisackerly2_6-0">
+            <sup>
+             <i>
+              <b>
+               a
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-fisackerly2_6-1">
+            <sup>
+             <i>
+              <b>
+               b
+              </b>
+             </i>
+            </sup>
+           </a>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            Fisackerly, R.
+            <a class="external text" href="http://robotics.estec.esa.int/ASTRA/Astra2011/Presentations/Session%203A/01_fisackerly.pdf" rel="nofollow">
+             "The European Lunar Lander: Robotics Operations in a Harsh Environment"
+            </a>
+            <span style="font-size:85%;">
+             (PDF)
+            </span>
+            . ESA
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              10 April
+             </span>
+             2012
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+European+Lunar+Lander%3A+Robotics+Operations+in+a+Harsh+Environment&amp;rft.pub=ESA&amp;rft.aulast=Fisackerly&amp;rft.aufirst=R.&amp;rft_id=http%3A%2F%2Frobotics.estec.esa.int%2FASTRA%2FAstra2011%2FPresentations%2FSession%25203A%2F01_fisackerly.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALunar+Lander+%28spacecraft%29">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-derosa1-7">
+          <span class="mw-cite-backlink">
+           ^
+           <a href="#cite_ref-derosa1_7-0">
+            <sup>
+             <i>
+              <b>
+               a
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-derosa1_7-1">
+            <sup>
+             <i>
+              <b>
+               b
+              </b>
+             </i>
+            </sup>
+           </a>
+          </span>
+          <span class="reference-text">
+           <cite class="citation conference">
+            De Rosa, D. (2012).
+            <a class="external text" href="http://www.lpi.usra.edu/meetings/lpsc2012/pdf/1585.pdf" rel="nofollow">
+             "Characterisation of Potential Landing Sites for the European Space Agency's Lunar Lander Project"
+            </a>
+            <span style="font-size:85%;">
+             (PDF)
+            </span>
+            .
+            <i>
+             43rd Lunar and Planetary Science Conference; Proceedings of the Conference
+            </i>
+            . Woodlands, Texas
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              7 July
+             </span>
+             2012
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=conference&amp;rft.atitle=Characterisation+of+Potential+Landing+Sites+for+the+European+Space+Agency%E2%80%99s+Lunar+Lander+Project&amp;rft.btitle=43rd+Lunar+and+Planetary+Science+Conference%3B+Proceedings+of+the+Conference&amp;rft.place=Woodlands%2C+Texas&amp;rft.date=2012&amp;rft.aulast=De+Rosa&amp;rft.aufirst=D.&amp;rft_id=http%3A%2F%2Fwww.lpi.usra.edu%2Fmeetings%2Flpsc2012%2Fpdf%2F1585.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALunar+Lander+%28spacecraft%29">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-Ribarich-8">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-Ribarich_8-0">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Ribarich, J.J. (1978).
+            <a class="external text" href="http://adsabs.harvard.edu/abs/1968JSpRo...5..768R" rel="nofollow">
+             "Surveyor spacecraft landing accuracy"
+            </a>
+            .
+            <i>
+             Journal of Spacecraft and Rockets
+            </i>
+            .
+            <b>
+             5
+            </b>
+            (7): 768–773.
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/1968JSpRo...5..768R" rel="nofollow">
+             1968JSpRo...5..768R
+            </a>
+            .
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.2514%2F3.29355" rel="nofollow">
+             10.2514/3.29355
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Spacecraft+and+Rockets&amp;rft.atitle=Surveyor+spacecraft+landing+accuracy&amp;rft.volume=5&amp;rft.issue=7&amp;rft.pages=768-773&amp;rft.date=1978&amp;rft_id=info%3Adoi%2F10.2514%2F3.29355&amp;rft_id=info%3Abibcode%2F1968JSpRo...5..768R&amp;rft.aulast=Ribarich&amp;rft.aufirst=J.J.&amp;rft_id=http%3A%2F%2Fadsabs.harvard.edu%2Fabs%2F1968JSpRo...5..768R&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALunar+Lander+%28spacecraft%29">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-9">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-9">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.nasa.gov/mission_pages/LRO/multimedia/lroimages/lroc_20090903_apollo12.html" rel="nofollow">
+             "Apollo 12 and Surveyor landing sites imaged by the Lunar Reconnaissance Orbiter Camera"
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Apollo+12+and+Surveyor+landing+sites+imaged+by+the+Lunar+Reconnaissance+Orbiter+Camera&amp;rft_id=http%3A%2F%2Fwww.nasa.gov%2Fmission_pages%2FLRO%2Fmultimedia%2Flroimages%2Flroc_20090903_apollo12.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALunar+Lander+%28spacecraft%29">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-fisackerly3-10">
+          <span class="mw-cite-backlink">
+           ^
+           <a href="#cite_ref-fisackerly3_10-0">
+            <sup>
+             <i>
+              <b>
+               a
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-fisackerly3_10-1">
+            <sup>
+             <i>
+              <b>
+               b
+              </b>
+             </i>
+            </sup>
+           </a>
+          </span>
+          <span class="reference-text">
+           <cite class="citation conference">
+            Fisackerly, R. (2012). "The European Lunar Lander: a Human Exploration Precursor Mission".
+            <i>
+             Global Space Exploration Conference; Proceedings of the Conference
+            </i>
+            . Washington, DC.
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=conference&amp;rft.atitle=The+European+Lunar+Lander%3A+a+Human+Exploration+Precursor+Mission&amp;rft.btitle=Global+Space+Exploration+Conference%3B+Proceedings+of+the+Conference&amp;rft.place=Washington%2C+DC&amp;rft.date=2012&amp;rft.aulast=Fisackerly&amp;rft.aufirst=R.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALunar+Lander+%28spacecraft%29">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-11">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-11">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://cs.astrium.eads.net/sp/spacecraft-propulsion/bipropellant-thrusters/220n-atv-thrusters.html" rel="nofollow">
+             "200 N Bipropellant Thrusters for ESA's ATV"
+            </a>
+            .
+            <a href="/wiki/Astrium" title="Astrium">
+             Astrium
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              5 April
+             </span>
+             2012
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=200+N+Bipropellant+Thrusters+for+ESA%27s+ATV&amp;rft.pub=Astrium&amp;rft_id=http%3A%2F%2Fcs.astrium.eads.net%2Fsp%2Fspacecraft-propulsion%2Fbipropellant-thrusters%2F220n-atv-thrusters.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALunar+Lander+%28spacecraft%29">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-12">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-12">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.esa.int/export/esaCP/SEMSEF7YBZG_Expanding_0.html" rel="nofollow">
+             "Lunar lander firing up for touchdown"
+            </a>
+            . ESA
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              10 April
+             </span>
+             2012
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Lunar+lander+firing+up+for+touchdown&amp;rft.pub=ESA&amp;rft_id=http%3A%2F%2Fwww.esa.int%2Fexport%2FesaCP%2FSEMSEF7YBZG_Expanding_0.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALunar+Lander+%28spacecraft%29">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-13">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-13">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://cs.astrium.eads.net/sp/spacecraft-propulsion/apogee-motors/500n-apogee-motor.html" rel="nofollow">
+             "500 N Bipropellant European Apogee Motor (EAM)"
+            </a>
+            .
+            <a href="/wiki/Astrium" title="Astrium">
+             Astrium
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              5 April
+             </span>
+             2012
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=500+N+Bipropellant+European+Apogee+Motor+%28EAM%29&amp;rft.pub=Astrium&amp;rft_id=http%3A%2F%2Fcs.astrium.eads.net%2Fsp%2Fspacecraft-propulsion%2Fapogee-motors%2F500n-apogee-motor.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALunar+Lander+%28spacecraft%29">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-14">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-14">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="https://web.archive.org/web/20130403064243/http://www.astrium.eads.net/en/press_centre/astrium-investigates-automatic-landing-at-the-moon-s-south-pole.html" rel="nofollow">
+             "Astrium investigates automatic landing at the Moon's south pole"
+            </a>
+            . Archived from
+            <a class="external text" href="http://www.astrium.eads.net/en/press_centre/astrium-investigates-automatic-landing-at-the-moon-s-south-pole.html" rel="nofollow">
+             the original
+            </a>
+            on 2013-04-03.
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Astrium+investigates+automatic+landing+at+the+Moon%E2%80%99s+south+pole&amp;rft_id=http%3A%2F%2Fwww.astrium.eads.net%2Fen%2Fpress_centre%2Fastrium-investigates-automatic-landing-at-the-moon-s-south-pole.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALunar+Lander+%28spacecraft%29">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-15">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-15">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www2.jpl.nasa.gov/basics/bsf7-1.php" rel="nofollow">
+             "Overview of aerospace project mission phases"
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Overview+of+aerospace+project+mission+phases&amp;rft_id=http%3A%2F%2Fwww2.jpl.nasa.gov%2Fbasics%2Fbsf7-1.php&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALunar+Lander+%28spacecraft%29">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-16">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-16">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation news">
+            Christoph Seidler (16 November 2012).
+            <a class="external text" href="http://www.spiegel.de/wissenschaft/weltall/lunar-lander-europas-mondmission-faellt-aus-a-867718.html" rel="nofollow">
+             "
+             <span style="padding-left:0.2em;">
+              "
+             </span>
+             Lunar Lander" Europas Mondmission fällt aus"
+            </a>
+            . Spiegel online.
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=%22Lunar+Lander%22+Europas+Mondmission+f%C3%A4llt+aus&amp;rft.date=2012-11-16&amp;rft.au=Christoph+Seidler&amp;rft_id=http%3A%2F%2Fwww.spiegel.de%2Fwissenschaft%2Fweltall%2Flunar-lander-europas-mondmission-faellt-aus-a-867718.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALunar+Lander+%28spacecraft%29">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+        </ol>
+       </div>
+      </div>
+      <ul>
+       <li class="mw-empty-elt">
+       </li>
+       <li class="mw-empty-elt">
+       </li>
+       <li class="mw-empty-elt">
+       </li>
+       <li class="mw-empty-elt">
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="External_links">
+        External links
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Lunar_Lander_(spacecraft)&amp;action=edit&amp;section=16" title="Edit section: External links">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a class="external text" href="http://www.esa.int/SPECIALS/lunarlander/index.html" rel="nofollow">
+         Lunar Lander official webpage with full mission animation
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://www.esa.int/esaHS/SEMSEF7YBZG_index_0.html" rel="nofollow">
+         Lunar lander firing up for touchdown
+        </a>
+       </li>
+      </ul>
+      <div aria-labelledby="Spacecraft_missions_to_the_Moon" class="navbox" role="navigation" style="padding:3px">
+       <table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tr>
+         <th class="navbox-title" colspan="3" scope="col" style="text-align: center; background:#DDDDDD;">
+          <div class="plainlinks hlist navbar mini">
+           <ul>
+            <li class="nv-view">
+             <a href="/wiki/Template:Moon_spacecraft" title="Template:Moon spacecraft">
+              <abbr style="text-align: center; background:#DDDDDD;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">
+               v
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-talk">
+             <a href="/wiki/Template_talk:Moon_spacecraft" title="Template talk:Moon spacecraft">
+              <abbr style="text-align: center; background:#DDDDDD;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">
+               t
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-edit">
+             <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Moon_spacecraft&amp;action=edit">
+              <abbr style="text-align: center; background:#DDDDDD;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">
+               e
+              </abbr>
+             </a>
+            </li>
+           </ul>
+          </div>
+          <div id="Spacecraft_missions_to_the_Moon" style="font-size:114%;margin:0 4em">
+           <a href="/wiki/List_of_missions_to_the_Moon" title="List of missions to the Moon">
+            Spacecraft missions
+           </a>
+           to the
+           <a href="/wiki/Moon" title="Moon">
+            Moon
+           </a>
+          </div>
+         </th>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center; background:#DDDDDD;;width:1%">
+          Programs
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/List_of_NASA_missions#Lunar" title="List of NASA missions">
+              American
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Apollo_program" title="Apollo program">
+                Apollo
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Lunar_Orbiter_program" title="Lunar Orbiter program">
+                Lunar Orbiter
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Lunar_Precursor_Robotic_Program" title="Lunar Precursor Robotic Program">
+                Lunar Precursor
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Pioneer_program" title="Pioneer program">
+                Pioneer
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Ranger_program" title="Ranger program">
+                Ranger
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Surveyor_program" title="Surveyor program">
+                Surveyor
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Chinese_Lunar_Exploration_Program" title="Chinese Lunar Exploration Program">
+              Chinese (CLEP)
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Chandrayaan_programme" title="Chandrayaan programme">
+              Indian (Chandrayaan)
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Japanese_Lunar_Exploration_Program" title="Japanese Lunar Exploration Program">
+              Japanese
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Roscosmos" title="Roscosmos">
+              Russian
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Luna-Glob" title="Luna-Glob">
+                Luna-Glob
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Soviet_space_program" title="Soviet space program">
+              Soviet
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Soviet_crewed_lunar_programs" title="Soviet crewed lunar programs">
+                Crewed
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Luna_programme" title="Luna programme">
+                Luna
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Zond_program" title="Zond program">
+                Zond
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Lunokhod_programme" title="Lunokhod programme">
+                Lunokhod
+               </a>
+              </li>
+             </ul>
+            </li>
+           </ul>
+          </div>
+         </td>
+         <td class="navbox-image" rowspan="7" style="width:1px;padding:0px 0px 0px 2px;padding-left: 0.5em;">
+          <div>
+           <div class="plainlist">
+            <ul>
+             <li>
+              <a class="image" href="/wiki/File:LADEE_fires_small_engines.jpg">
+               <img alt="LADEE fires small engines.jpg" data-file-height="4000" data-file-width="7056" height="68" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/LADEE_fires_small_engines.jpg/120px-LADEE_fires_small_engines.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/LADEE_fires_small_engines.jpg/180px-LADEE_fires_small_engines.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/63/LADEE_fires_small_engines.jpg/240px-LADEE_fires_small_engines.jpg 2x" width="120"/>
+              </a>
+             </li>
+             <li>
+              <a class="image" href="/wiki/File:LunarEclipse20070303CRH.JPG">
+               <img alt="LunarEclipse20070303CRH.JPG" data-file-height="927" data-file-width="1081" height="103" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/LunarEclipse20070303CRH.JPG/120px-LunarEclipse20070303CRH.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/LunarEclipse20070303CRH.JPG/180px-LunarEclipse20070303CRH.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/be/LunarEclipse20070303CRH.JPG/240px-LunarEclipse20070303CRH.JPG 2x" width="120"/>
+              </a>
+             </li>
+             <li>
+              <a class="image" href="/wiki/File:Bean_Descends_Intrepid_-_GPN-2000-001317.jpg">
+               <img alt="Bean Descends Intrepid - GPN-2000-001317.jpg" data-file-height="3000" data-file-width="3001" height="120" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Bean_Descends_Intrepid_-_GPN-2000-001317.jpg/120px-Bean_Descends_Intrepid_-_GPN-2000-001317.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Bean_Descends_Intrepid_-_GPN-2000-001317.jpg/180px-Bean_Descends_Intrepid_-_GPN-2000-001317.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/78/Bean_Descends_Intrepid_-_GPN-2000-001317.jpg/240px-Bean_Descends_Intrepid_-_GPN-2000-001317.jpg 2x" width="120"/>
+              </a>
+             </li>
+            </ul>
+           </div>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center; background:#DDDDDD;;width:1%">
+          Current
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+          </div>
+          <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+           <tr>
+            <th class="navbox-group" scope="row" style="width:1%;text-align: center; background:#DDDDDD;">
+             Orbiters
+            </th>
+            <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <a href="/wiki/THEMIS" title="THEMIS">
+                 ARTEMIS
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Lunar_Reconnaissance_Orbiter" title="Lunar Reconnaissance Orbiter">
+                 Lunar Reconnaissance Orbiter
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+          </table>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center; background:#DDDDDD;;width:1%">
+          Past
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+          </div>
+          <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+           <tr>
+            <th class="navbox-group" scope="row" style="width:1%;text-align: center; background:#DDDDDD;">
+             Orbiters
+            </th>
+            <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <i>
+                 <a href="/wiki/Apollo_8" title="Apollo 8">
+                  Apollo 8
+                 </a>
+                </i>
+               </li>
+               <li>
+                <i>
+                 <a href="/wiki/Apollo_10" title="Apollo 10">
+                  10
+                 </a>
+                </i>
+               </li>
+               <li>
+                <a href="/wiki/Apollo_15#Lunar_subsatellite" title="Apollo 15">
+                 Apollo 15 Subsatellite (PFS-1)
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Apollo_16#Lunar_subsatellite_PFS-2" title="Apollo 16">
+                 Apollo 16 Subsatellite (PFS-2)
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Chandrayaan-1" title="Chandrayaan-1">
+                 Chandrayaan-1
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Chang%27e_1" title="Chang'e 1">
+                 Chang'e 1
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Chang%27e_2" title="Chang'e 2">
+                 Chang'e 2
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Clementine_(spacecraft)" title="Clementine (spacecraft)">
+                 Clementine
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Explorer_35" title="Explorer 35">
+                 Explorer 35
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Explorer_49" title="Explorer 49">
+                 Explorer 49
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Gravity_Recovery_and_Interior_Laboratory" title="Gravity Recovery and Interior Laboratory">
+                 GRAIL
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Hiten" title="Hiten">
+                 Hiten
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Lunar_Atmosphere_and_Dust_Environment_Explorer" title="Lunar Atmosphere and Dust Environment Explorer">
+                 LADEE
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Luna_10" title="Luna 10">
+                 Luna 10
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Luna_11" title="Luna 11">
+                 11
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Luna_12" title="Luna 12">
+                 12
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Luna_14" title="Luna 14">
+                 14
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Luna_19" title="Luna 19">
+                 19
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Luna_22" title="Luna 22">
+                 22
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Lunar_Orbiter_1" title="Lunar Orbiter 1">
+                 Lunar Orbiter 1
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Lunar_Orbiter_2" title="Lunar Orbiter 2">
+                 2
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Lunar_Orbiter_3" title="Lunar Orbiter 3">
+                 3
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Lunar_Orbiter_4" title="Lunar Orbiter 4">
+                 4
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Lunar_Orbiter_5" title="Lunar Orbiter 5">
+                 5
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Lunar_Prospector" title="Lunar Prospector">
+                 Lunar Prospector
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/SELENE" title="SELENE">
+                 SELENE (Kaguya, Okina &amp; Ouna)
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/SMART-1" title="SMART-1">
+                 SMART-1
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Chang%27e_5-T1" title="Chang'e 5-T1">
+                 Chang'e 5-T1 (Service Module)
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+           <tr>
+            <th class="navbox-group" scope="row" style="width:1%;text-align: center; background:#DDDDDD;">
+             <a href="/wiki/Category:Lunar_flybys" title="Category:Lunar flybys">
+              Flybys
+             </a>
+            </th>
+            <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <a href="/wiki/Manfred_Memorial_Moon_Mission" title="Manfred Memorial Moon Mission">
+                 4M
+                </a>
+               </li>
+               <li>
+                <i>
+                 <a href="/wiki/Apollo_13" title="Apollo 13">
+                  Apollo 13
+                 </a>
+                </i>
+               </li>
+               <li>
+                <a href="/wiki/PAS-22" title="PAS-22">
+                 AsiaSat-3
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Cassini%E2%80%93Huygens" title="Cassini–Huygens">
+                 Cassini–Huygens
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Chang%27e_5-T1" title="Chang'e 5-T1">
+                 Chang'e 5-T1 (Xiaofei)
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Galileo_(spacecraft)" title="Galileo (spacecraft)">
+                 Galileo
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Geotail" title="Geotail">
+                 Geotail
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Luna_1" title="Luna 1">
+                 Luna 1
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Luna_3" title="Luna 3">
+                 Luna 3
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Mariner_10" title="Mariner 10">
+                 Mariner 10
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Nozomi_(spacecraft)" title="Nozomi (spacecraft)">
+                 Nozomi
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Pioneer_4" title="Pioneer 4">
+                 Pioneer 4
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Pioneer_10" title="Pioneer 10">
+                 Pioneer 10
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Ranger_5" title="Ranger 5">
+                 Ranger 5
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/STEREO" title="STEREO">
+                 STEREO
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Zond_3" title="Zond 3">
+                 Zond 3
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Zond_5" title="Zond 5">
+                 5
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Zond_6" title="Zond 6">
+                 6
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Zond_7" title="Zond 7">
+                 7
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Zond_8" title="Zond 8">
+                 8
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+           <tr>
+            <th class="navbox-group" scope="row" style="width:1%;text-align: center; background:#DDDDDD;">
+             <a href="/wiki/Category:Spacecraft_that_impacted_the_Moon" title="Category:Spacecraft that impacted the Moon">
+              Impactors
+             </a>
+            </th>
+            <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <a href="/wiki/LCROSS" title="LCROSS">
+                 LCROSS
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Luna_2" title="Luna 2">
+                 Luna 2
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Moon_Impact_Probe" title="Moon Impact Probe">
+                 MIP
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Ranger_4" title="Ranger 4">
+                 Ranger 4
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Ranger_6" title="Ranger 6">
+                 6
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Ranger_7" title="Ranger 7">
+                 7
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Ranger_8" title="Ranger 8">
+                 8
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Ranger_9" title="Ranger 9">
+                 9
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+           <tr>
+            <th class="navbox-group" scope="row" style="width:1%;text-align: center; background:#DDDDDD;">
+             <a href="/wiki/Category:Soft_landings_on_the_Moon" title="Category:Soft landings on the Moon">
+              Landers
+             </a>
+            </th>
+            <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <i>
+                 <a href="/wiki/Apollo_Lunar_Module" title="Apollo Lunar Module">
+                  Apollo Lunar Module
+                 </a>
+                 x6
+                </i>
+               </li>
+               <li>
+                <a href="/wiki/Apollo_Lunar_Surface_Experiments_Package" title="Apollo Lunar Surface Experiments Package">
+                 ALSEP (x5) and EASEP (x1)
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Chang%27e_3" title="Chang'e 3">
+                 Chang'e 3
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Luna_9" title="Luna 9">
+                 Luna 9
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Luna_13" title="Luna 13">
+                 13
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Luna_17" title="Luna 17">
+                 17
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Luna_21" title="Luna 21">
+                 21
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Surveyor_1" title="Surveyor 1">
+                 Surveyor 1
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Surveyor_3" title="Surveyor 3">
+                 3
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Surveyor_5" title="Surveyor 5">
+                 5
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Surveyor_6" title="Surveyor 6">
+                 6
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Surveyor_7" title="Surveyor 7">
+                 7
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+           <tr>
+            <th class="navbox-group" scope="row" style="width:1%;text-align: center; background:#DDDDDD;">
+             <a href="/wiki/Category:Lunar_rovers" title="Category:Lunar rovers">
+              Rovers
+             </a>
+            </th>
+            <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <i>
+                 <a href="/wiki/Apollo_15" title="Apollo 15">
+                  Apollo 15
+                 </a>
+                </i>
+               </li>
+               <li>
+                <i>
+                 <a href="/wiki/Apollo_16" title="Apollo 16">
+                  16
+                 </a>
+                </i>
+               </li>
+               <li>
+                <i>
+                 <a href="/wiki/Apollo_17" title="Apollo 17">
+                  17
+                 </a>
+                </i>
+               </li>
+               <li>
+                <a href="/wiki/Lunokhod_1" title="Lunokhod 1">
+                 Lunokhod 1
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Lunokhod_2" title="Lunokhod 2">
+                 Lunokhod 2
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Yutu_(rover)" title="Yutu (rover)">
+                 Yutu
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+           <tr>
+            <th class="navbox-group" scope="row" style="width:1%;text-align: center; background:#DDDDDD;">
+             Sample return
+            </th>
+            <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <i>
+                 Apollo x6
+                </i>
+               </li>
+               <li>
+                <a href="/wiki/Luna_16" title="Luna 16">
+                 Luna 16
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Luna_20" title="Luna 20">
+                 20
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Luna_24" title="Luna 24">
+                 24
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+           <tr>
+            <th class="navbox-group" scope="row" style="width:1%;text-align: center; background:#DDDDDD;">
+             Human landing
+            </th>
+            <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <i>
+                 <a href="/wiki/Apollo_11" title="Apollo 11">
+                  Apollo 11
+                 </a>
+                </i>
+               </li>
+               <li>
+                <i>
+                 <a href="/wiki/Apollo_12" title="Apollo 12">
+                  12
+                 </a>
+                </i>
+               </li>
+               <li>
+                <i>
+                 <a href="/wiki/Apollo_14" title="Apollo 14">
+                  14
+                 </a>
+                </i>
+               </li>
+               <li>
+                <i>
+                 <a href="/wiki/Apollo_15" title="Apollo 15">
+                  15
+                 </a>
+                </i>
+               </li>
+               <li>
+                <i>
+                 <a href="/wiki/Apollo_16" title="Apollo 16">
+                  16
+                 </a>
+                </i>
+               </li>
+               <li>
+                <i>
+                 <a href="/wiki/Apollo_17" title="Apollo 17">
+                  17
+                 </a>
+                </i>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+          </table>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center; background:#DDDDDD;;width:1%">
+          Planned
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+          </div>
+          <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+           <tr>
+            <th class="navbox-group" scope="row" style="width:1%;text-align: center; background:#DDDDDD;">
+             <a href="/wiki/Exploration_Mission_1" title="Exploration Mission 1">
+              EM-1
+             </a>
+             <small>
+              (2019)
+             </small>
+            </th>
+            <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <a href="/wiki/Orion_(spacecraft)" title="Orion (spacecraft)">
+                 Orion
+                </a>
+                <a href="/wiki/Exploration_Mission_1" title="Exploration Mission 1">
+                 EM-1
+                </a>
+                <ul>
+                 <li>
+                  <a href="/wiki/ArgoMoon" title="ArgoMoon">
+                   ArgoMoon
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/wiki/BioSentinel" title="BioSentinel">
+                   BioSentinel
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/wiki/Cislunar_Explorers" title="Cislunar Explorers">
+                   Cislunar Explorers
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/wiki/CubeSat_for_Solar_Particles" title="CubeSat for Solar Particles">
+                   CuSP
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/wiki/Earth_Escape_Explorer" title="Earth Escape Explorer">
+                   CU-E
+                   <sup>
+                    3
+                   </sup>
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/wiki/EQUULEUS_(spacecraft)" title="EQUULEUS (spacecraft)">
+                   EQUULEUS
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/wiki/Lunar_Polar_Hydrogen_Mapper" title="Lunar Polar Hydrogen Mapper">
+                   LunaH-Map
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/wiki/Lunar_Flashlight" title="Lunar Flashlight">
+                   Lunar Flashlight
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/wiki/Lunar_IceCube" title="Lunar IceCube">
+                   Lunar IceCube
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/wiki/Near-Earth_Asteroid_Scout" title="Near-Earth Asteroid Scout">
+                   NEA Scout
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/wiki/OMOTENASHI" title="OMOTENASHI">
+                   OMOTENASHI
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/wiki/SkyFire_(spacecraft)" title="SkyFire (spacecraft)">
+                   SkyFire
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/wiki/Team_Miles" title="Team Miles">
+                   Team Miles
+                  </a>
+                 </li>
+                </ul>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+           <tr>
+            <th class="navbox-group" scope="row" style="width:1%;text-align: center; background:#DDDDDD;">
+             <a href="/wiki/Luna-Glob" title="Luna-Glob">
+              Luna-Glob
+             </a>
+            </th>
+            <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <a href="/wiki/Luna_25" title="Luna 25">
+                 Luna 25
+                </a>
+                <small>
+                 (2019)
+                </small>
+               </li>
+               <li>
+                <a href="/wiki/Luna_26" title="Luna 26">
+                 Luna 26
+                </a>
+                <small>
+                 (2020)
+                </small>
+               </li>
+               <li>
+                <a href="/wiki/Luna_27" title="Luna 27">
+                 Luna 27
+                </a>
+                <small>
+                 (2022)
+                </small>
+               </li>
+               <li>
+                Luna 28
+               </li>
+               <li>
+                Luna 29
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+           <tr>
+            <th class="navbox-group" scope="row" style="width:1%;text-align: center; background:#DDDDDD;">
+             Others
+            </th>
+            <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <a href="/wiki/Chandrayaan-2" title="Chandrayaan-2">
+                 Chandrayaan-2
+                </a>
+                <small>
+                 (2018)
+                </small>
+               </li>
+               <li>
+                <a href="/wiki/Chang%27e_4" title="Chang'e 4">
+                 Chang'e 4
+                </a>
+                <small>
+                 (2018)
+                </small>
+               </li>
+               <li>
+                <a href="/wiki/Moon_Express" title="Moon Express">
+                 Moon Express
+                </a>
+                <small>
+                 (2018)
+                </small>
+               </li>
+               <li>
+                <a href="/wiki/Transiting_Exoplanet_Survey_Satellite" title="Transiting Exoplanet Survey Satellite">
+                 TESS
+                </a>
+                <small>
+                 (2018)
+                </small>
+               </li>
+               <li>
+                <i>
+                 <a href="/wiki/SpaceX_lunar_tourism_mission" title="SpaceX lunar tourism mission">
+                  SpaceX lunar tourism mission
+                 </a>
+                </i>
+                <small>
+                 (2019)
+                </small>
+               </li>
+               <li>
+                <a href="/wiki/Astrobotic_Technology" title="Astrobotic Technology">
+                 Astrobotic
+                </a>
+                /
+                <a href="/wiki/Hakuto" title="Hakuto">
+                 Hakuto
+                </a>
+                /
+                <a href="/wiki/Google_Lunar_X_Prize#Competitors" title="Google Lunar X Prize">
+                 AngelicvM
+                </a>
+                <small>
+                 (2019)
+                </small>
+               </li>
+               <li>
+                <a href="/wiki/Chang%27e_5" title="Chang'e 5">
+                 Chang'e 5
+                </a>
+                <small>
+                 (2019)
+                </small>
+               </li>
+               <li>
+                <a href="/wiki/PTScientists" title="PTScientists">
+                 PTScientists
+                </a>
+                <small>
+                 (2019)
+                </small>
+               </li>
+               <li>
+                <a href="/wiki/Chang%27e_6" title="Chang'e 6">
+                 Chang'e 6
+                </a>
+                <small>
+                 (2020)
+                </small>
+               </li>
+               <li>
+                <a href="/wiki/Smart_Lander_for_Investigating_Moon" title="Smart Lander for Investigating Moon">
+                 SLIM
+                </a>
+                <small>
+                 (2021)
+                </small>
+               </li>
+               <li>
+                <i>
+                 <a href="/wiki/Exploration_Mission_2" title="Exploration Mission 2">
+                  EM-2
+                 </a>
+                </i>
+                <small>
+                 (2023)
+                </small>
+               </li>
+               <li>
+                <a href="/wiki/Hakuto" title="Hakuto">
+                 Hakuto
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+          </table>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center; background:#DDDDDD;;width:1%">
+          <a href="/wiki/List_of_missions_to_the_Moon" title="List of missions to the Moon">
+           Proposed
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Baden-W%C3%BCrttemberg_1" title="Baden-Württemberg 1">
+              Baden-Württemberg 1
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/2020_Blue_Origin_lunar_south_polar_landing_mission" title="2020 Blue Origin lunar south polar landing mission">
+              Blue Origin
+             </a>
+             <a href="/wiki/Blue_Origin_Blue_Moon" title="Blue Origin Blue Moon">
+              Blue Moon
+             </a>
+            </li>
+            <li>
+             <i>
+              <a href="/wiki/Deep_Space_Gateway" title="Deep Space Gateway">
+               Deep Space Gateway
+              </a>
+             </i>
+            </li>
+            <li>
+             <i>
+              <a href="/wiki/DSE-Alpha" title="DSE-Alpha">
+               DSE-Alpha
+              </a>
+             </i>
+            </li>
+            <li>
+             <a href="/wiki/International_Lunar_Network" title="International Lunar Network">
+              International Lunar Network
+             </a>
+            </li>
+            <li>
+             <a class="mw-selflink selflink">
+              Lunar Lander
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Lunar_Mission_One" title="Lunar Mission One">
+              Lunar Mission One
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Lunar_Orbital_Station" title="Lunar Orbital Station">
+              Lunar Orbital Station
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/MoonLITE" title="MoonLITE">
+              MoonLITE
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/OpenLuna" title="OpenLuna">
+              OpenLuna
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Resource_Prospector_(rover)" title="Resource Prospector (rover)">
+              Resource Prospector
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/SELENE-2" title="SELENE-2">
+              SELENE-R
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/SpaceIL" title="SpaceIL">
+              SpaceIL
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Synergy_Moon" title="Synergy Moon">
+              Synergy Moon
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/TeamIndus" title="TeamIndus">
+              TeamIndus
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center; background:#DDDDDD;;width:1%">
+          Cancelled
+         </th>
+         <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <i>
+              <a href="/wiki/Altair_(spacecraft)" title="Altair (spacecraft)">
+               Altair
+              </a>
+             </i>
+            </li>
+            <li>
+             <a href="/wiki/European_Lunar_Explorer" title="European Lunar Explorer">
+              European Lunar Explorer
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/LEO_(spacecraft)" title="LEO (spacecraft)">
+              LEO
+             </a>
+            </li>
+            <li>
+             <i>
+              <a href="/wiki/LK_(spacecraft)" title="LK (spacecraft)">
+               LK
+              </a>
+             </i>
+            </li>
+            <li>
+             <a href="/wiki/Lunar-A" title="Lunar-A">
+              Lunar-A
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Planetary_Observer_program" title="Planetary Observer program">
+              Lunar Observer
+             </a>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/Lunokhod_3" title="Lunokhod 3">
+              Lunokhod 3
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/MoonRise" title="MoonRise">
+              MoonRise
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Prospector_(spacecraft)" title="Prospector (spacecraft)">
+              Prospector
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Ukrselena" title="Ukrselena">
+              Ukrselena
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center; background:#DDDDDD;;width:1%">
+          See also
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Colonization_of_the_Moon" title="Colonization of the Moon">
+              Colonization of the Moon
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Exploration_of_the_Moon" title="Exploration of the Moon">
+              Exploration of the Moon
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Google_Lunar_X_Prize" title="Google Lunar X Prize">
+              Google Lunar X Prize
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/List_of_Apollo_astronauts" title="List of Apollo astronauts">
+              List of Apollo astronauts
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/List_of_lunar_probes" title="List of lunar probes">
+              List of lunar probes
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/List_of_artificial_objects_on_the_Moon" title="List of artificial objects on the Moon">
+              List of artificial objects on the Moon
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/List_of_missions_to_the_Moon" title="List of missions to the Moon">
+              List of missions to the Moon
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Lunar_rover" title="Lunar rover">
+              Lunar rover
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Moon_landing" title="Moon landing">
+              Moon landing
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Moon_landing_conspiracy_theories" title="Moon landing conspiracy theories">
+                Conspiracy theories
+               </a>
+              </li>
+             </ul>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <td class="navbox-abovebelow" colspan="3" style="text-align: center; background:#DDDDDD;">
+          <div>
+           <ul>
+            <li>
+             Manned missions in
+             <i>
+              italics
+             </i>
+             .
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+       </table>
+      </div>
+      <div aria-labelledby="European_Space_Agency" class="navbox" role="navigation" style="padding:3px">
+       <table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tr>
+         <th class="navbox-title" colspan="2" scope="col">
+          <div class="plainlinks hlist navbar mini">
+           <ul>
+            <li class="nv-view">
+             <a href="/wiki/Template:European_Space_Agency" title="Template:European Space Agency">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">
+               v
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-talk">
+             <a href="/wiki/Template_talk:European_Space_Agency" title="Template talk:European Space Agency">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">
+               t
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-edit">
+             <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:European_Space_Agency&amp;action=edit">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">
+               e
+              </abbr>
+             </a>
+            </li>
+           </ul>
+          </div>
+          <div id="European_Space_Agency" style="font-size:114%;margin:0 4em">
+           <a href="/wiki/European_Space_Agency" title="European Space Agency">
+            European Space Agency
+           </a>
+          </div>
+         </th>
+        </tr>
+        <tr>
+         <td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+          </div>
+          <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+           <tr>
+            <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+             <a href="/wiki/Spaceport" title="Spaceport">
+              Spaceports
+             </a>
+            </th>
+            <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <a href="/wiki/Guiana_Space_Centre" title="Guiana Space Centre">
+                 Guiana Space Centre
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Esrange" title="Esrange">
+                 Esrange
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+           <tr>
+            <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+             <a href="/wiki/Launch_vehicle" title="Launch vehicle">
+              Launch vehicles
+             </a>
+            </th>
+            <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <a href="/wiki/Ariane_5" title="Ariane 5">
+                 Ariane 5
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Soyuz_at_the_Guiana_Space_Centre" title="Soyuz at the Guiana Space Centre">
+                 Arianespace Soyuz
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Vega_(rocket)" title="Vega (rocket)">
+                 Vega
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+           <tr>
+            <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+             Facilities
+            </th>
+            <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <a href="/wiki/European_Space_Operations_Centre" title="European Space Operations Centre">
+                 ESOC
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/European_Space_Research_and_Technology_Centre" title="European Space Research and Technology Centre">
+                 ESTEC
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/ESA_Centre_for_Earth_Observation" title="ESA Centre for Earth Observation">
+                 ESRIN
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/European_Astronaut_Centre" title="European Astronaut Centre">
+                 EAC
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/European_Space_Astronomy_Centre" title="European Space Astronomy Centre">
+                 ESAC
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/European_Centre_for_Space_Applications_and_Telecommunications" title="European Centre for Space Applications and Telecommunications">
+                 ECSAT
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Concurrent_Design_Facility" title="Concurrent Design Facility">
+                 CDF
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Space_Telescope_European_Coordinating_Facility" title="Space Telescope European Coordinating Facility">
+                 ST-ECF
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+           <tr>
+            <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+             Communications
+            </th>
+            <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <a href="/wiki/ESTRACK" title="ESTRACK">
+                 ESTRACK
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/European_Data_Relay_System" title="European Data Relay System">
+                 European Data Relay System
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+           <tr>
+            <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+             Programmes
+            </th>
+            <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <a href="/wiki/Aurora_programme" title="Aurora programme">
+                 Aurora
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Copernicus_Programme" title="Copernicus Programme">
+                 Copernicus
+                </a>
+                <ul>
+                 <li>
+                  <a class="mw-redirect" href="/wiki/Sentinel_(satellite)" title="Sentinel (satellite)">
+                   Sentinel
+                  </a>
+                 </li>
+                </ul>
+               </li>
+               <li>
+                <a href="/wiki/Cosmic_Vision" title="Cosmic Vision">
+                 Cosmic Vision
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/European_Geostationary_Navigation_Overlay_Service" title="European Geostationary Navigation Overlay Service">
+                 EGNOS
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/European_Programme_for_Life_and_Physical_Sciences_in_Space" title="European Programme for Life and Physical Sciences in Space">
+                 ELIPS
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/ExoMars" title="ExoMars">
+                 ExoMars
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Future_Launchers_Preparatory_Programme" title="Future Launchers Preparatory Programme">
+                 FLPP
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Galileo_(satellite_navigation)" title="Galileo (satellite navigation)">
+                 Galileo
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Living_Planet_Programme" title="Living Planet Programme">
+                 LPP
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Space_Situational_Awareness_Programme" title="Space Situational Awareness Programme">
+                 Space Situational Awareness Programme
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+           <tr>
+            <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+             Predecessors
+            </th>
+            <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <a href="/wiki/European_Launcher_Development_Organisation" title="European Launcher Development Organisation">
+                 ELDO
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/European_Space_Research_Organisation" title="European Space Research Organisation">
+                 ESRO
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+           <tr>
+            <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+             Related topics
+            </th>
+            <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <a href="/wiki/Arianespace" title="Arianespace">
+                 Arianespace
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/ESA_Television" title="ESA Television">
+                 ESA Television
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/EUMETSAT" title="EUMETSAT">
+                 EUMETSAT
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/European_Space_Camp" title="European Space Camp">
+                 European Space Camp
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Global_Energy_and_Water_Cycle_Experiment" title="Global Energy and Water Cycle Experiment">
+                 GEWEX
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Planetary_Science_Archive" title="Planetary Science Archive">
+                 Planetary Science Archive
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+          </table>
+         </td>
+        </tr>
+        <tr>
+         <td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+          </div>
+          <table class="nowraplinks collapsible expanded navbox-subgroup" style="border-spacing:0">
+           <tr>
+            <th class="navbox-title" colspan="2" scope="col" style="text-align: center;">
+             <div id="Projects_and_missions" style="font-size:114%;margin:0 4em">
+              <a href="/wiki/List_of_European_Space_Agency_programs_and_missions" title="List of European Space Agency programs and missions">
+               Projects and missions
+              </a>
+             </div>
+            </th>
+           </tr>
+           <tr>
+            <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+             Science
+            </th>
+            <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+             <div style="padding:0em 0.25em">
+             </div>
+             <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+              <tr>
+               <th class="navbox-group" scope="row" style="width:7.0em;text-align: center;">
+                Solar physics
+               </th>
+               <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+                <div style="padding:0em 0.25em">
+                 <ul>
+                  <li>
+                   <a href="/wiki/ISEE-2" title="ISEE-2">
+                    ISEE-2
+                   </a>
+                   <small>
+                    (1977–87)
+                   </small>
+                  </li>
+                  <li>
+                   <a href="/wiki/Ulysses_(spacecraft)" title="Ulysses (spacecraft)">
+                    Ulysses
+                   </a>
+                   <small>
+                    (1990–2009)
+                   </small>
+                  </li>
+                  <li>
+                   <a href="/wiki/Solar_and_Heliospheric_Observatory" title="Solar and Heliospheric Observatory">
+                    SOHO
+                   </a>
+                   <small>
+                    (1995–present)
+                   </small>
+                  </li>
+                  <li>
+                   <a href="/wiki/Cluster_II_(spacecraft)" title="Cluster II (spacecraft)">
+                    Cluster II
+                   </a>
+                   <small>
+                    (2000–present)
+                   </small>
+                  </li>
+                  <li>
+                   <i>
+                    <a href="/wiki/Solar_Orbiter" title="Solar Orbiter">
+                     Solar Orbiter
+                    </a>
+                   </i>
+                   <small>
+                    (2019)
+                   </small>
+                  </li>
+                 </ul>
+                </div>
+               </td>
+              </tr>
+              <tr>
+               <th class="navbox-group" scope="row" style="width:7.0em;text-align: center;">
+                Planetary science
+               </th>
+               <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+                <div style="padding:0em 0.25em">
+                 <ul>
+                  <li>
+                   <a href="/wiki/Giotto_(spacecraft)" title="Giotto (spacecraft)">
+                    Giotto
+                   </a>
+                   <small>
+                    (1985–92)
+                   </small>
+                  </li>
+                  <li>
+                   <a href="/wiki/Huygens_(spacecraft)" title="Huygens (spacecraft)">
+                    Huygens
+                   </a>
+                   <small>
+                    (1997–2005)
+                   </small>
+                  </li>
+                  <li>
+                   <a href="/wiki/SMART-1" title="SMART-1">
+                    SMART-1
+                   </a>
+                   <small>
+                    (2003–06)
+                   </small>
+                  </li>
+                  <li>
+                   <a href="/wiki/Mars_Express" title="Mars Express">
+                    Mars Express
+                   </a>
+                   <small>
+                    (2003–present)
+                   </small>
+                  </li>
+                  <li>
+                   <a href="/wiki/Rosetta_(spacecraft)" title="Rosetta (spacecraft)">
+                    Rosetta
+                   </a>
+                   /
+                   <a href="/wiki/Philae_(spacecraft)" title="Philae (spacecraft)">
+                    Philae
+                   </a>
+                   <small>
+                    (2004–16)
+                   </small>
+                  </li>
+                  <li>
+                   <a href="/wiki/Venus_Express" title="Venus Express">
+                    Venus Express
+                   </a>
+                   <small>
+                    (2005–14)
+                   </small>
+                  </li>
+                  <li>
+                   <a href="/wiki/ExoMars_Trace_Gas_Orbiter" title="ExoMars Trace Gas Orbiter">
+                    ExoMars Trace Gas Orbiter
+                   </a>
+                   <small>
+                    (2016–present)
+                   </small>
+                  </li>
+                  <li>
+                   <i>
+                    <a href="/wiki/BepiColombo" title="BepiColombo">
+                     BepiColombo
+                    </a>
+                   </i>
+                   <small>
+                    (2018)
+                   </small>
+                  </li>
+                  <li>
+                   <i>
+                    <a href="/wiki/ExoMars_(rover)" title="ExoMars (rover)">
+                     ExoMars rover
+                    </a>
+                   </i>
+                   <small>
+                    (2020)
+                   </small>
+                  </li>
+                  <li>
+                   <i>
+                    <a href="/wiki/Jupiter_Icy_Moons_Explorer" title="Jupiter Icy Moons Explorer">
+                     Jupiter Icy Moons Explorer
+                    </a>
+                   </i>
+                   <small>
+                    (2022)
+                   </small>
+                  </li>
+                 </ul>
+                </div>
+               </td>
+              </tr>
+              <tr>
+               <th class="navbox-group" scope="row" style="width:7.0em;text-align: center;">
+                <div style="padding:0.1em 0;line-height:1.2em;">
+                 Astronomy and
+                 <br/>
+                 cosmology
+                </div>
+               </th>
+               <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+                <div style="padding:0em 0.25em">
+                 <ul>
+                  <li>
+                   <a href="/wiki/Cos-B" title="Cos-B">
+                    Cos-B
+                   </a>
+                   <small>
+                    (1975–82)
+                   </small>
+                  </li>
+                  <li>
+                   <a href="/wiki/International_Ultraviolet_Explorer" title="International Ultraviolet Explorer">
+                    IUE
+                   </a>
+                   <small>
+                    (1978–96)
+                   </small>
+                  </li>
+                  <li>
+                   <a href="/wiki/EXOSAT" title="EXOSAT">
+                    EXOSAT
+                   </a>
+                   <small>
+                    (1983–86)
+                   </small>
+                  </li>
+                  <li>
+                   <a href="/wiki/Hipparcos" title="Hipparcos">
+                    Hipparcos
+                   </a>
+                   <small>
+                    (1989–93)
+                   </small>
+                  </li>
+                  <li>
+                   <a href="/wiki/Hubble_Space_Telescope" title="Hubble Space Telescope">
+                    Hubble
+                   </a>
+                   <small>
+                    (1990–present)
+                   </small>
+                  </li>
+                  <li>
+                   <a href="/wiki/European_Retrievable_Carrier" title="European Retrievable Carrier">
+                    Eureca
+                   </a>
+                   <small>
+                    (1992–93)
+                   </small>
+                  </li>
+                  <li>
+                   <a href="/wiki/Infrared_Space_Observatory" title="Infrared Space Observatory">
+                    ISO
+                   </a>
+                   <small>
+                    (1995–98)
+                   </small>
+                  </li>
+                  <li>
+                   <a href="/wiki/XMM-Newton" title="XMM-Newton">
+                    XMM-Newton
+                   </a>
+                   <small>
+                    (1999–present)
+                   </small>
+                  </li>
+                  <li>
+                   <a href="/wiki/INTEGRAL" title="INTEGRAL">
+                    INTEGRAL
+                   </a>
+                   <small>
+                    (2002–present)
+                   </small>
+                  </li>
+                  <li>
+                   <a href="/wiki/COROT" title="COROT">
+                    COROT
+                   </a>
+                   <small>
+                    (2006–13)
+                   </small>
+                  </li>
+                  <li>
+                   <a href="/wiki/Planck_(spacecraft)" title="Planck (spacecraft)">
+                    Planck
+                   </a>
+                   <small>
+                    (2009–13)
+                   </small>
+                  </li>
+                  <li>
+                   <a href="/wiki/Herschel_Space_Observatory" title="Herschel Space Observatory">
+                    Herschel
+                   </a>
+                   <small>
+                    (2009–13)
+                   </small>
+                  </li>
+                  <li>
+                   <a href="/wiki/Gaia_(spacecraft)" title="Gaia (spacecraft)">
+                    Gaia
+                   </a>
+                   <small>
+                    (2013–present)
+                   </small>
+                  </li>
+                  <li>
+                   <i>
+                    <a href="/wiki/CHEOPS" title="CHEOPS">
+                     CHEOPS
+                    </a>
+                   </i>
+                   <small>
+                    (2018)
+                   </small>
+                  </li>
+                  <li>
+                   <i>
+                    <a href="/wiki/James_Webb_Space_Telescope" title="James Webb Space Telescope">
+                     James Webb
+                    </a>
+                   </i>
+                   <small>
+                    (2018)
+                   </small>
+                  </li>
+                  <li>
+                   <i>
+                    <a href="/wiki/Euclid_(spacecraft)" title="Euclid (spacecraft)">
+                     Euclid
+                    </a>
+                   </i>
+                   <small>
+                    (2020)
+                   </small>
+                  </li>
+                  <li>
+                   <i>
+                    <a href="/wiki/PLATO_(spacecraft)" title="PLATO (spacecraft)">
+                     PLATO
+                    </a>
+                   </i>
+                   <small>
+                    (2026)
+                   </small>
+                  </li>
+                  <li>
+                   <i>
+                    <a href="/wiki/Advanced_Telescope_for_High_Energy_Astrophysics" title="Advanced Telescope for High Energy Astrophysics">
+                     ATHENA
+                    </a>
+                   </i>
+                   <small>
+                    (2028)
+                   </small>
+                  </li>
+                  <li>
+                   <i>
+                    <a href="/wiki/Laser_Interferometer_Space_Antenna" title="Laser Interferometer Space Antenna">
+                     LISA
+                    </a>
+                   </i>
+                   <small>
+                    (2034)
+                   </small>
+                  </li>
+                 </ul>
+                </div>
+               </td>
+              </tr>
+              <tr>
+               <th class="navbox-group" scope="row" style="width:7.0em;text-align: center;">
+                Earth observation
+               </th>
+               <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+                <div style="padding:0em 0.25em">
+                 <ul>
+                  <li>
+                   <a href="/wiki/Meteosat#First_generation" title="Meteosat">
+                    Meteosat First Generation
+                   </a>
+                   <small>
+                    (1977–97)
+                   </small>
+                  </li>
+                  <li>
+                   <a href="/wiki/European_Remote-Sensing_Satellite" title="European Remote-Sensing Satellite">
+                    ERS-1
+                   </a>
+                   <small>
+                    (1991–2000)
+                   </small>
+                  </li>
+                  <li>
+                   <a href="/wiki/European_Remote-Sensing_Satellite#ERS-2" title="European Remote-Sensing Satellite">
+                    ERS-2
+                   </a>
+                   <small>
+                    (1995–2011)
+                   </small>
+                  </li>
+                  <li>
+                   <a href="/wiki/Meteosat#Second_Generation" title="Meteosat">
+                    Meteosat Second Generation
+                   </a>
+                   <small>
+                    (2002–present)
+                   </small>
+                  </li>
+                  <li>
+                   <a href="/wiki/Envisat" title="Envisat">
+                    Envisat
+                   </a>
+                   <small>
+                    (2002–12)
+                   </small>
+                  </li>
+                  <li>
+                   <a href="/wiki/Double_Star_(satellite)" title="Double Star (satellite)">
+                    Double Star
+                   </a>
+                   <small>
+                    (2003–07)
+                   </small>
+                  </li>
+                  <li>
+                   <a href="/wiki/MetOp" title="MetOp">
+                    MetOp
+                   </a>
+                   <small>
+                    (2006–present)
+                   </small>
+                  </li>
+                  <li>
+                   <a href="/wiki/Gravity_Field_and_Steady-State_Ocean_Circulation_Explorer" title="Gravity Field and Steady-State Ocean Circulation Explorer">
+                    GOCE
+                   </a>
+                   <small>
+                    (2009–13)
+                   </small>
+                  </li>
+                  <li>
+                   <a href="/wiki/Soil_Moisture_and_Ocean_Salinity" title="Soil Moisture and Ocean Salinity">
+                    SMOS
+                   </a>
+                   <small>
+                    (2009–present)
+                   </small>
+                  </li>
+                  <li>
+                   <a href="/wiki/CryoSat-2" title="CryoSat-2">
+                    CryoSat-2
+                   </a>
+                   <small>
+                    (2010–present)
+                   </small>
+                  </li>
+                  <li>
+                   <a href="/wiki/Swarm_(spacecraft)" title="Swarm (spacecraft)">
+                    Swarm
+                   </a>
+                   <small>
+                    (2013–present)
+                   </small>
+                  </li>
+                  <li>
+                   <a href="/wiki/Sentinel-1" title="Sentinel-1">
+                    Sentinel-1
+                   </a>
+                   /
+                   <a href="/wiki/Sentinel-1A" title="Sentinel-1A">
+                    1A
+                   </a>
+                   /
+                   <a href="/wiki/Sentinel-1B" title="Sentinel-1B">
+                    1B
+                   </a>
+                   <small>
+                    (2014–present)
+                   </small>
+                  </li>
+                  <li>
+                   <a href="/wiki/Sentinel-2" title="Sentinel-2">
+                    Sentinel-2
+                   </a>
+                   /
+                   <a href="/wiki/Sentinel-2A" title="Sentinel-2A">
+                    2A
+                   </a>
+                   /
+                   <a href="/wiki/Sentinel-2B" title="Sentinel-2B">
+                    2B
+                   </a>
+                   <small>
+                    (2015–present)
+                   </small>
+                  </li>
+                  <li>
+                   <a href="/wiki/Sentinel-3" title="Sentinel-3">
+                    Sentinel-3
+                   </a>
+                   /
+                   <a href="/wiki/Sentinel-3A" title="Sentinel-3A">
+                    3A
+                   </a>
+                   <small>
+                    (2016–present)
+                   </small>
+                  </li>
+                  <li>
+                   <i>
+                    <a href="/wiki/Sentinel-5_Precursor" title="Sentinel-5 Precursor">
+                     Sentinel-5 Precursor
+                    </a>
+                   </i>
+                   <small>
+                    (2017)
+                   </small>
+                  </li>
+                  <li>
+                   <i>
+                    <a href="/wiki/ADM-Aeolus" title="ADM-Aeolus">
+                     ADM-Aeolus
+                    </a>
+                   </i>
+                   <small>
+                    (2018)
+                   </small>
+                  </li>
+                  <li>
+                   <i>
+                    <a href="/wiki/EarthCARE" title="EarthCARE">
+                     EarthCARE
+                    </a>
+                   </i>
+                   <small>
+                    (2019)
+                   </small>
+                  </li>
+                  <li>
+                   <i>
+                    <a class="mw-redirect" href="/wiki/Meteosat_Third_Generation" title="Meteosat Third Generation">
+                     Meteosat Third Generation
+                    </a>
+                   </i>
+                   (
+                   <i>
+                    <a href="/wiki/Sentinel-4" title="Sentinel-4">
+                     Sentinel-4
+                    </a>
+                   </i>
+                   )
+                   <small>
+                    (2019)
+                   </small>
+                  </li>
+                  <li>
+                   <i>
+                    <a class="new" href="/w/index.php?title=BIOMASS&amp;action=edit&amp;redlink=1" title="BIOMASS (page does not exist)">
+                     BIOMASS
+                    </a>
+                    <span class="noprint" style="font-size:85%; font-style: normal;">
+                     (
+                     <a class="extiw" href="https://fr.wikipedia.org/wiki/Biomass_(satellite)" title="fr:Biomass (satellite)">
+                      fr
+                     </a>
+                     )
+                    </span>
+                   </i>
+                   <small>
+                    (2021)
+                   </small>
+                  </li>
+                  <li>
+                   <i>
+                    <a class="mw-redirect" href="/wiki/MetOp-SG-A" title="MetOp-SG-A">
+                     MetOp-SG-A
+                    </a>
+                   </i>
+                   <small>
+                    (2021)
+                   </small>
+                  </li>
+                  <li>
+                   <i>
+                    <a href="/wiki/Solar_wind_Magnetosphere_Ionosphere_Link_Explorer" title="Solar wind Magnetosphere Ionosphere Link Explorer">
+                     SMILE
+                    </a>
+                   </i>
+                   <small>
+                    (2021)
+                   </small>
+                  </li>
+                  <li>
+                   <i>
+                    <a class="mw-redirect" href="/wiki/MetOp-SG-B" title="MetOp-SG-B">
+                     MetOp-SG-B
+                    </a>
+                   </i>
+                   <small>
+                    (2022)
+                   </small>
+                  </li>
+                  <li>
+                   <i>
+                    <a href="/wiki/FLEX_(satellite)" title="FLEX (satellite)">
+                     FLEX
+                    </a>
+                   </i>
+                   <small>
+                    (2022)
+                   </small>
+                  </li>
+                 </ul>
+                </div>
+               </td>
+              </tr>
+             </table>
+            </td>
+           </tr>
+           <tr>
+            <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+             <a href="/wiki/International_Space_Station" title="International Space Station">
+              ISS
+             </a>
+             spaceflight
+            </th>
+            <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <a href="/wiki/European_contribution_to_the_International_Space_Station" title="European contribution to the International Space Station">
+                 ISS contribution
+                </a>
+                <small>
+                 (1998–present)
+                </small>
+               </li>
+               <li>
+                <a href="/wiki/Columbus_(ISS_module)" title="Columbus (ISS module)">
+                 Columbus
+                </a>
+                <small>
+                 (2008–present)
+                </small>
+               </li>
+               <li>
+                <a href="/wiki/Jules_Verne_ATV" title="Jules Verne ATV">
+                 Jules Verne
+                </a>
+                <small>
+                 (2008)
+                </small>
+               </li>
+               <li>
+                <a href="/wiki/Cupola_(ISS_module)" title="Cupola (ISS module)">
+                 Cupola
+                </a>
+                <small>
+                 (2010–present)
+                </small>
+               </li>
+               <li>
+                <a href="/wiki/Johannes_Kepler_ATV" title="Johannes Kepler ATV">
+                 Johannes Kepler
+                </a>
+                <small>
+                 (2011)
+                </small>
+               </li>
+               <li>
+                <a href="/wiki/Edoardo_Amaldi_ATV" title="Edoardo Amaldi ATV">
+                 Edoardo Amaldi
+                </a>
+                <small>
+                 (2012)
+                </small>
+               </li>
+               <li>
+                <a href="/wiki/Albert_Einstein_ATV" title="Albert Einstein ATV">
+                 Albert Einstein
+                </a>
+                <small>
+                 (2013)
+                </small>
+               </li>
+               <li>
+                <a href="/wiki/Georges_Lema%C3%AEtre_ATV" title="Georges Lemaître ATV">
+                 Georges Lemaître
+                </a>
+                <small>
+                 (2014)
+                </small>
+               </li>
+               <li>
+                <i>
+                 <a href="/wiki/European_Robotic_Arm" title="European Robotic Arm">
+                  European Robotic Arm
+                 </a>
+                </i>
+                <small>
+                 (2018)
+                </small>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+          </table>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          Telecommunications
+         </th>
+         <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/European_Space_Research_Organisation#GEOS" title="European Space Research Organisation">
+              GEOS 2
+             </a>
+             <small>
+              (1978)
+             </small>
+            </li>
+            <li>
+             <a href="/wiki/Olympus-1" title="Olympus-1">
+              Olympus-1
+             </a>
+             <small>
+              (1989–93)
+             </small>
+            </li>
+            <li>
+             <a href="/wiki/Artemis_(satellite)" title="Artemis (satellite)">
+              Artemis
+             </a>
+             <small>
+              (2001–present)
+             </small>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/GIOVE-A" title="GIOVE-A">
+              GIOVE-A
+             </a>
+             <small>
+              (2005–present)
+             </small>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/GIOVE-B" title="GIOVE-B">
+              GIOVE-B
+             </a>
+             <small>
+              (2008–present)
+             </small>
+            </li>
+            <li>
+             <a href="/wiki/HYLAS-1" title="HYLAS-1">
+              HYLAS-1
+             </a>
+             <small>
+              (2010–present)
+             </small>
+            </li>
+            <li>
+             <a href="/wiki/Galileo_(satellite_navigation)#In-Orbit_Validation_(IOV)_satellites" title="Galileo (satellite navigation)">
+              Galileo IOV
+             </a>
+             <small>
+              (2011–present)
+             </small>
+            </li>
+            <li>
+             <a href="/wiki/Galileo_(satellite_navigation)#Full_Operational_Capability_(FOC)_satellites" title="Galileo (satellite navigation)">
+              Galileo FOC
+             </a>
+             <small>
+              (2014–present)
+             </small>
+            </li>
+            <li>
+             <a href="/wiki/European_Data_Relay_System" title="European Data Relay System">
+              European Data Relay System
+             </a>
+             <small>
+              (2016–present)
+             </small>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          <div style="padding:0.1em 0;line-height:1.2em;">
+           Technology
+           <br/>
+           demonstrators
+          </div>
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Atmospheric_Reentry_Demonstrator" title="Atmospheric Reentry Demonstrator">
+              ARD
+             </a>
+             <small>
+              (1998)
+             </small>
+            </li>
+            <li>
+             <a href="/wiki/PROBA" title="PROBA">
+              PROBA
+             </a>
+             <small>
+              (2001–present)
+             </small>
+            </li>
+            <li>
+             <a href="/wiki/Young_Engineers%27_Satellite_2" title="Young Engineers' Satellite 2">
+              YES2
+             </a>
+             <small>
+              (2007)
+             </small>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/PROBA2" title="PROBA2">
+              PROBA2
+             </a>
+             <small>
+              (2009–present)
+             </small>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/Proba-V" title="Proba-V">
+              Proba-V
+             </a>
+             <small>
+              (2013–present)
+             </small>
+            </li>
+            <li>
+             <a href="/wiki/Intermediate_eXperimental_Vehicle" title="Intermediate eXperimental Vehicle">
+              IXV
+             </a>
+             <small>
+              (2015)
+             </small>
+            </li>
+            <li>
+             <a href="/wiki/LISA_Pathfinder" title="LISA Pathfinder">
+              LISA Pathfinder
+             </a>
+             <small>
+              (2015–17)
+             </small>
+            </li>
+            <li>
+             <i>
+              <a href="/wiki/OPS-SAT" title="OPS-SAT">
+               OPS-SAT
+              </a>
+             </i>
+             <small>
+              (2018)
+             </small>
+            </li>
+            <li>
+             <i>
+              <a class="mw-selflink selflink">
+               Lunar Lander
+              </a>
+             </i>
+             <small>
+              (2018)
+             </small>
+            </li>
+            <li>
+             <i>
+              <a href="/wiki/AIDA_(mission)" title="AIDA (mission)">
+               AIDA
+              </a>
+             </i>
+             <small>
+              (2020)
+             </small>
+            </li>
+            <li>
+             <i>
+              <a class="mw-redirect" href="/wiki/Proba-3" title="Proba-3">
+               Proba-3
+              </a>
+             </i>
+             <small>
+              (2020)
+             </small>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          Cancelled and proposed
+         </th>
+         <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Columbus_Man-Tended_Free_Flyer" title="Columbus Man-Tended Free Flyer">
+              Columbus Man-Tended Free Flyer
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/CSTS" title="CSTS">
+              CSTS
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Darwin_(spacecraft)" title="Darwin (spacecraft)">
+              Darwin Mission
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Don_Quijote_(spacecraft)" title="Don Quijote (spacecraft)">
+              Don Quijote
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/E.Deorbit" title="E.Deorbit">
+              e.Deorbit
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/EChO" title="EChO">
+              EChO
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Eddington_(spacecraft)" title="Eddington (spacecraft)">
+              Eddington
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/European_eXPErimental_Re-entry_Testbed" title="European eXPErimental Re-entry Testbed">
+              EXPERT
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Hermes_(spacecraft)" title="Hermes (spacecraft)">
+              Hermes
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Hopper_(spacecraft)" title="Hopper (spacecraft)">
+              Hopper
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/LOFT" title="LOFT">
+              LOFT
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Luna_27" title="Luna 27">
+              Luna 27
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Marco_Polo_(spacecraft)" title="Marco Polo (spacecraft)">
+              Marco Polo
+             </a>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/MarcoPolo-R" title="MarcoPolo-R">
+              MarcoPolo-R
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Mars_sample_return_mission" title="Mars sample return mission">
+              Mars sample return mission
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/ODINUS" title="ODINUS">
+              ODINUS
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Programme_for_Reusable_In-orbit_Demonstrator_in_Europe" title="Programme for Reusable In-orbit Demonstrator in Europe">
+              PRIDE
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/SPICA_(spacecraft)" title="SPICA (spacecraft)">
+              SPICA
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/STE-QUEST" title="STE-QUEST">
+              STE-QUEST
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          Failed
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Cluster_(spacecraft)" title="Cluster (spacecraft)">
+              Cluster
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/CryoSat-1" title="CryoSat-1">
+              CryoSat-1
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/European_Space_Research_Organisation#GEOS" title="European Space Research Organisation">
+              GEOS 1
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <td class="navbox-abovebelow" colspan="2">
+          <div>
+           Future missions in
+           <i>
+            italics
+           </i>
+           <ul>
+            <li>
+             <img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/>
+             <b>
+              <a href="/wiki/Category:European_Space_Agency" title="Category:European Space Agency">
+               Category
+              </a>
+             </b>
+            </li>
+            <li>
+             <img alt="Commons page" data-file-height="1376" data-file-width="1024" height="16" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" title="Commons page" width="12"/>
+             <a class="extiw" href="https://commons.wikimedia.org/wiki/Category:European_Space_Agency" title="commons:Category:European Space Agency">
+              <b>
+               Commons
+              </b>
+             </a>
+            </li>
+            <li>
+             <img alt="Wikinews page" data-file-height="415" data-file-width="759" height="9" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/16px-Wikinews-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/24px-Wikinews-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/32px-Wikinews-logo.svg.png 2x" title="Wikinews page" width="16"/>
+             <b>
+              <a class="extiw" href="https://en.wikinews.org/wiki/Category:European_Space_Agency" title="wikinews:Category:European Space Agency">
+               Wikinews
+              </a>
+             </b>
+            </li>
+            <li>
+             <img alt="WikiProject" data-file-height="100" data-file-width="100" height="16" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/16px-People_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/24px-People_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/32px-People_icon.svg.png 2x" title="WikiProject" width="16"/>
+             <a href="/wiki/Wikipedia:WikiProject_Europe/ESA" title="Wikipedia:WikiProject Europe/ESA">
+              WikiProject
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+       </table>
+      </div>
+      <!-- 
+NewPP limit report
+Parsed by mw1323
+Cached time: 20180128002416
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.388 seconds
+Real time usage: 0.477 seconds
+Preprocessor visited node count: 2729/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 165406/2097152 bytes
+Template argument size: 4015/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 1/500
+Lua time usage: 0.185/10.000 seconds
+Lua memory usage: 7.45 MB/50 MB
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  385.093      1 -total
+ 49.12%  189.165      5 Template:Infobox
+ 36.38%  140.083      1 Template:Infobox_spaceflight
+ 32.40%  124.774      8 Template:Navbox
+ 29.47%  113.487      1 Template:Reflist
+ 13.42%   51.683      1 Template:European_Space_Agency
+ 12.29%   47.340      4 Template:Cite_journal
+  8.98%   34.593      4 Template:Convert
+  7.93%   30.522      9 Template:Cite_web
+  7.64%   29.406      1 Template:About
+-->
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:28397815-0!canonical and timestamp 20180128002416 and revision id 819392310
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Lunar_Lander_(spacecraft)&amp;oldid=819392310">
+      https://en.wikipedia.org/w/index.php?title=Lunar_Lander_(spacecraft)&amp;oldid=819392310
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Missions_to_the_Moon" title="Category:Missions to the Moon">
+         Missions to the Moon
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:European_Space_Agency_space_probes" title="Category:European Space Agency space probes">
+         European Space Agency space probes
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:2018_in_spaceflight" title="Category:2018 in spaceflight">
+         2018 in spaceflight
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Proposed_space_probes" title="Category:Proposed space probes">
+         Proposed space probes
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:2018_in_Europe" title="Category:2018 in Europe">
+         2018 in Europe
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:Pages_using_deprecated_image_syntax" title="Category:Pages using deprecated image syntax">
+         Pages using deprecated image syntax
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Interlanguage_link_template_link_number" title="Category:Interlanguage link template link number">
+         Interlanguage link template link number
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Lunar+Lander+%28spacecraft%29" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Lunar+Lander+%28spacecraft%29" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Lunar_Lander_(spacecraft)" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Lunar_Lander_(spacecraft)" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="collapsible selected" id="ca-view">
+        <span>
+         <a href="/wiki/Lunar_Lander_(spacecraft)">
+          Read
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Lunar_Lander_(spacecraft)&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Lunar_Lander_(spacecraft)&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Lunar_Lander_(spacecraft)" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Lunar_Lander_(spacecraft)" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Lunar_Lander_(spacecraft)&amp;oldid=819392310" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Lunar_Lander_(spacecraft)&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q6703671" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Lunar_Lander_%28spacecraft%29&amp;id=819392310" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Lunar+Lander+%28spacecraft%29">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Lunar+Lander+%28spacecraft%29&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Lunar_Lander_(spacecraft)&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-id">
+        <a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Lunar_Lander_(misi_luar_angkasa)" hreflang="id" lang="id" title="Lunar Lander (misi luar angkasa) – Indonesian">
+         Bahasa Indonesia
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q6703671#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 9 January 2018, at 03:20.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Lunar_Lander_(spacecraft)&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.388","walltime":"0.477","ppvisitednodes":{"value":2729,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":165406,"limit":2097152},"templateargumentsize":{"value":4015,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  385.093      1 -total"," 49.12%  189.165      5 Template:Infobox"," 36.38%  140.083      1 Template:Infobox_spaceflight"," 32.40%  124.774      8 Template:Navbox"," 29.47%  113.487      1 Template:Reflist"," 13.42%   51.683      1 Template:European_Space_Agency"," 12.29%   47.340      4 Template:Cite_journal","  8.98%   34.593      4 Template:Convert","  7.93%   30.522      9 Template:Cite_web","  7.64%   29.406      1 Template:About"]},"scribunto":{"limitreport-timeusage":{"value":"0.185","limit":"10.000"},"limitreport-memusage":{"value":7812770,"limit":52428800}},"cachereport":{"origin":"mw1323","timestamp":"20180128002416","ttl":1900800,"transientcontent":false}}});});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":97,"wgHostname":"mw1321"});});
+  </script>
+ </body>
+</html>

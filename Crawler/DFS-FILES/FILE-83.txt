@@ -1,0 +1,2303 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Great circle - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Great_circle","wgTitle":"Great circle","wgCurRevisionId":817872129,"wgRevisionId":817872129,"wgArticleId":48082,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Elementary geometry","Spherical trigonometry","Riemannian geometry","Circles"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Great_circle","wgRelevantArticleId":48082,"wgRequestId":"WnKlagpAIC4AAKR0dVwAAAAM","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q146657","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.math.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.31.0-wmf.17" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <meta content="https://upload.wikimedia.org/wikipedia/commons/0/04/Great_circle_hemispheres.png" property="og:image"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Great_circle" rel="alternate"/>
+  <link href="/w/index.php?title=Great_circle&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Great_circle&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/Great_circle" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Great_circle rootpage-Great_circle skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Great circle
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <div class="hatnote navigation-not-searchable" role="note">
+       This article is about the mathematical notion. For its applications in geodesy, see
+       <a href="/wiki/Great-circle_distance" title="Great-circle distance">
+        great-circle distance
+       </a>
+       . For the fictional interstellar organization called Great Circle, see
+       <a href="/wiki/Andromeda_(novel)" title="Andromeda (novel)">
+        Andromeda (novel)
+       </a>
+       .
+      </div>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:Great_circle_hemispheres.png">
+         <img alt="" class="thumbimage" data-file-height="582" data-file-width="634" height="202" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/04/Great_circle_hemispheres.png/220px-Great_circle_hemispheres.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/04/Great_circle_hemispheres.png/330px-Great_circle_hemispheres.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/04/Great_circle_hemispheres.png/440px-Great_circle_hemispheres.png 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Great_circle_hemispheres.png" title="Enlarge">
+          </a>
+         </div>
+         A great circle divides the sphere in two equal hemispheres
+        </div>
+       </div>
+      </div>
+      <p>
+       A
+       <b>
+        great circle
+       </b>
+       , also known as an
+       <b>
+        orthodrome
+       </b>
+       , of a
+       <a href="/wiki/Sphere" title="Sphere">
+        sphere
+       </a>
+       is the intersection of the sphere and a
+       <a href="/wiki/Plane_(geometry)" title="Plane (geometry)">
+        plane
+       </a>
+       that passes through the
+       <a href="/wiki/Centre_(geometry)" title="Centre (geometry)">
+        center point
+       </a>
+       of the sphere. A great circle is the largest circle that can be drawn on any given sphere. Any
+       <a href="/wiki/Diameter" title="Diameter">
+        diameter
+       </a>
+       of any great circle coincides with a diameter of the sphere, and therefore all great circles have the same center and
+       <a href="/wiki/Circumference" title="Circumference">
+        circumference
+       </a>
+       as each other. This special case of a
+       <a href="/wiki/Circle_of_a_sphere" title="Circle of a sphere">
+        circle of a sphere
+       </a>
+       is in opposition to a
+       <i>
+        small circle
+       </i>
+       , that is, the intersection of the sphere and a plane that does not pass through the center. Every
+       <a href="/wiki/Circle" title="Circle">
+        circle
+       </a>
+       in
+       <a href="/wiki/Euclidean_space" title="Euclidean space">
+        Euclidean 3-space
+       </a>
+       is a great circle of exactly one sphere.
+      </p>
+      <p>
+       For most pairs of points on the surface of a sphere, there is a unique great circle through the two points. The exception is a pair of
+       <a href="/wiki/Antipodal_point" title="Antipodal point">
+        antipodal
+       </a>
+       points, for which there are infinitely many great circles. The minor arc of a great circle between two points is the shortest surface-path between them. In this sense, the minor arc is analogous to “straight lines” in
+       <a href="/wiki/Euclidean_geometry" title="Euclidean geometry">
+        Euclidean geometry
+       </a>
+       . The length of the minor arc of a great circle is taken as the distance between two points on a surface of a sphere in
+       <a href="/wiki/Riemannian_geometry" title="Riemannian geometry">
+        Riemannian geometry
+       </a>
+       where such great circles are called
+       <a href="/wiki/Riemannian_circle" title="Riemannian circle">
+        Riemannian circles
+       </a>
+       . These great circles are the
+       <a href="/wiki/Geodesic" title="Geodesic">
+        geodesics
+       </a>
+       of the sphere.
+      </p>
+      <p>
+       In higher dimensions, the great circles on the
+       <a href="/wiki/N-sphere" title="N-sphere">
+        <i>
+         n
+        </i>
+        -sphere
+       </a>
+       are the intersection of the
+       <i>
+        n
+       </i>
+       -sphere with 2-planes that pass through the origin in the Euclidean space
+       <b>
+        R
+       </b>
+       <sup>
+        <i>
+         n
+        </i>
+        + 1
+       </sup>
+       .
+      </p>
+      <p>
+      </p>
+      <div class="toc" id="toc">
+       <div class="toctitle" dir="ltr" lang="en" xml:lang="en">
+        <h2>
+         Contents
+        </h2>
+       </div>
+       <ul>
+        <li class="toclevel-1 tocsection-1">
+         <a href="#Derivation_of_shortest_paths">
+          <span class="tocnumber">
+           1
+          </span>
+          <span class="toctext">
+           Derivation of shortest paths
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-2">
+         <a href="#Applications">
+          <span class="tocnumber">
+           2
+          </span>
+          <span class="toctext">
+           Applications
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-3">
+         <a href="#See_also">
+          <span class="tocnumber">
+           3
+          </span>
+          <span class="toctext">
+           See also
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-4">
+         <a href="#External_links">
+          <span class="tocnumber">
+           4
+          </span>
+          <span class="toctext">
+           External links
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <p>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Derivation_of_shortest_paths">
+        Derivation of shortest paths
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Great_circle&amp;action=edit&amp;section=1" title="Edit section: Derivation of shortest paths">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="hatnote navigation-not-searchable" role="note">
+       See also:
+       <a href="/wiki/Great-circle_distance" title="Great-circle distance">
+        Great-circle distance
+       </a>
+      </div>
+      <p>
+       To prove that the minor arc of a great circle is the shortest path connecting two points on the surface of a sphere, one can apply
+       <a href="/wiki/Calculus_of_variations" title="Calculus of variations">
+        calculus of variations
+       </a>
+       to it.
+      </p>
+      <p>
+       Consider the class of all regular paths from a point
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle p}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              p
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle p}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="p" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/81eac1e205430d1f40810df36a0edffdc367af36" style="vertical-align: -0.671ex; margin-left: -0.089ex; width:1.259ex; height:2.009ex;"/>
+       </span>
+       to another point
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle q}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              q
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle q}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="q" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/06809d64fa7c817ffc7e323f85997f783dbdf71d" style="vertical-align: -0.671ex; width:1.07ex; height:2.009ex;"/>
+       </span>
+       . Introduce
+       <a class="mw-redirect" href="/wiki/Spherical_coordinates" title="Spherical coordinates">
+        spherical coordinates
+       </a>
+       so that
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle p}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              p
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle p}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="p" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/81eac1e205430d1f40810df36a0edffdc367af36" style="vertical-align: -0.671ex; margin-left: -0.089ex; width:1.259ex; height:2.009ex;"/>
+       </span>
+       coincides with the north pole. Any curve on the sphere that does not intersect either pole, except possibly at the endpoints, can be parametrized by
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle \theta =\theta (t),\quad \phi =\phi (t),\quad a\leq t\leq b}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mi>
+               θ
+               <!-- θ -->
+              </mi>
+              <mo>
+               =
+              </mo>
+              <mi>
+               θ
+               <!-- θ -->
+              </mi>
+              <mo stretchy="false">
+               (
+              </mo>
+              <mi>
+               t
+              </mi>
+              <mo stretchy="false">
+               )
+              </mo>
+              <mo>
+               ,
+              </mo>
+              <mspace width="1em">
+              </mspace>
+              <mi>
+               ϕ
+               <!-- ϕ -->
+              </mi>
+              <mo>
+               =
+              </mo>
+              <mi>
+               ϕ
+               <!-- ϕ -->
+              </mi>
+              <mo stretchy="false">
+               (
+              </mo>
+              <mi>
+               t
+              </mi>
+              <mo stretchy="false">
+               )
+              </mo>
+              <mo>
+               ,
+              </mo>
+              <mspace width="1em">
+              </mspace>
+              <mi>
+               a
+              </mi>
+              <mo>
+               ≤
+               <!-- ≤ -->
+              </mo>
+              <mi>
+               t
+              </mi>
+              <mo>
+               ≤
+               <!-- ≤ -->
+              </mo>
+              <mi>
+               b
+              </mi>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle \theta =\theta (t),\quad \phi =\phi (t),\quad a\leq t\leq b}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="\theta =\theta (t),\quad \phi =\phi (t),\quad a\leq t\leq b" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/56f97983083fac5687746ba1317d67fd825ccd24" style="vertical-align: -0.838ex; width:32.423ex; height:2.843ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       provided we allow
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle \phi }" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              ϕ
+              <!-- ϕ -->
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle \phi }
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="\phi " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/72b1f30316670aee6270a28334bdf4f5072cdde4" style="vertical-align: -0.671ex; width:1.385ex; height:2.509ex;"/>
+       </span>
+       to take on arbitrary real values. The infinitesimal arc length in these coordinates is
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle ds=r{\sqrt {\theta '^{2}+\phi '^{2}\sin ^{2}\theta }}\,dt.}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mi>
+               d
+              </mi>
+              <mi>
+               s
+              </mi>
+              <mo>
+               =
+              </mo>
+              <mi>
+               r
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <msqrt>
+                <msup>
+                 <mi>
+                  θ
+                  <!-- θ -->
+                 </mi>
+                 <mrow>
+                  <mo class="MJX-variant">
+                   ′
+                  </mo>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mn>
+                    2
+                   </mn>
+                  </mrow>
+                 </mrow>
+                </msup>
+                <mo>
+                 +
+                </mo>
+                <msup>
+                 <mi>
+                  ϕ
+                  <!-- ϕ -->
+                 </mi>
+                 <mrow>
+                  <mo class="MJX-variant">
+                   ′
+                  </mo>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mn>
+                    2
+                   </mn>
+                  </mrow>
+                 </mrow>
+                </msup>
+                <msup>
+                 <mi>
+                  sin
+                 </mi>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mn>
+                   2
+                  </mn>
+                 </mrow>
+                </msup>
+                <mo>
+                 ⁡
+                 <!-- ⁡ -->
+                </mo>
+                <mi>
+                 θ
+                 <!-- θ -->
+                </mi>
+               </msqrt>
+              </mrow>
+              <mspace width="thinmathspace">
+              </mspace>
+              <mi>
+               d
+              </mi>
+              <mi>
+               t
+              </mi>
+              <mo>
+               .
+              </mo>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle ds=r{\sqrt {\theta '^{2}+\phi '^{2}\sin ^{2}\theta }}\,dt.}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="ds=r{\sqrt  {\theta '^{2}+\phi '^{{2}}\sin ^{{2}}\theta }}\,dt." aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d88842e150733aef9c2d0d2c3c23a0a64bc44ffd" style="vertical-align: -1.671ex; width:25.971ex; height:4.843ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       So the length of a curve
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle \gamma }" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              γ
+              <!-- γ -->
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle \gamma }
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="\gamma " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a223c880b0ce3da8f64ee33c4f0010beee400b1a" style="vertical-align: -0.838ex; width:1.262ex; height:2.176ex;"/>
+       </span>
+       from
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle p}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              p
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle p}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="p" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/81eac1e205430d1f40810df36a0edffdc367af36" style="vertical-align: -0.671ex; margin-left: -0.089ex; width:1.259ex; height:2.009ex;"/>
+       </span>
+       to
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle q}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              q
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle q}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="q" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/06809d64fa7c817ffc7e323f85997f783dbdf71d" style="vertical-align: -0.671ex; width:1.07ex; height:2.009ex;"/>
+       </span>
+       is a
+       <a href="/wiki/Functional_(mathematics)" title="Functional (mathematics)">
+        functional
+       </a>
+       of the curve given by
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle S[\gamma ]=r\int _{a}^{b}{\sqrt {\theta '^{2}+\phi '^{2}\sin ^{2}\theta }}\,dt.}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mi>
+               S
+              </mi>
+              <mo stretchy="false">
+               [
+              </mo>
+              <mi>
+               γ
+               <!-- γ -->
+              </mi>
+              <mo stretchy="false">
+               ]
+              </mo>
+              <mo>
+               =
+              </mo>
+              <mi>
+               r
+              </mi>
+              <msubsup>
+               <mo>
+                ∫
+                <!-- ∫ -->
+               </mo>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 a
+                </mi>
+               </mrow>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 b
+                </mi>
+               </mrow>
+              </msubsup>
+              <mrow class="MJX-TeXAtom-ORD">
+               <msqrt>
+                <msup>
+                 <mi>
+                  θ
+                  <!-- θ -->
+                 </mi>
+                 <mrow>
+                  <mo class="MJX-variant">
+                   ′
+                  </mo>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mn>
+                    2
+                   </mn>
+                  </mrow>
+                 </mrow>
+                </msup>
+                <mo>
+                 +
+                </mo>
+                <msup>
+                 <mi>
+                  ϕ
+                  <!-- ϕ -->
+                 </mi>
+                 <mrow>
+                  <mo class="MJX-variant">
+                   ′
+                  </mo>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mn>
+                    2
+                   </mn>
+                  </mrow>
+                 </mrow>
+                </msup>
+                <msup>
+                 <mi>
+                  sin
+                 </mi>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mn>
+                   2
+                  </mn>
+                 </mrow>
+                </msup>
+                <mo>
+                 ⁡
+                 <!-- ⁡ -->
+                </mo>
+                <mi>
+                 θ
+                 <!-- θ -->
+                </mi>
+               </msqrt>
+              </mrow>
+              <mspace width="thinmathspace">
+              </mspace>
+              <mi>
+               d
+              </mi>
+              <mi>
+               t
+              </mi>
+              <mo>
+               .
+              </mo>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle S[\gamma ]=r\int _{a}^{b}{\sqrt {\theta '^{2}+\phi '^{2}\sin ^{2}\theta }}\,dt.}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="S[\gamma ]=r\int _{a}^{b}{\sqrt  {\theta '^{2}+\phi '^{{2}}\sin ^{{2}}\theta }}\,dt." aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/529ea36236f5ec3d9b1eba8447cc80ca1f04c1a0" style="vertical-align: -2.338ex; width:31.896ex; height:6.343ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       According to the
+       <a class="mw-redirect" href="/wiki/Euler-Lagrange_equation" title="Euler-Lagrange equation">
+        Euler-Lagrange equation
+       </a>
+       ,
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle S[\gamma ]}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              S
+             </mi>
+             <mo stretchy="false">
+              [
+             </mo>
+             <mi>
+              γ
+              <!-- γ -->
+             </mi>
+             <mo stretchy="false">
+              ]
+             </mo>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle S[\gamma ]}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="{\displaystyle S[\gamma ]}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fd04c39c6e63382ba18b7dcbea0096d75a472d34" style="vertical-align: -0.838ex; width:4.055ex; height:2.843ex;"/>
+       </span>
+       is minimized if and only if
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle {\frac {\sin ^{2}\theta \phi '}{\sqrt {\theta '^{2}+\phi '^{2}\sin ^{2}\theta }}}=C}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mrow class="MJX-TeXAtom-ORD">
+               <mfrac>
+                <mrow>
+                 <msup>
+                  <mi>
+                   sin
+                  </mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mn>
+                    2
+                   </mn>
+                  </mrow>
+                 </msup>
+                 <mo>
+                  ⁡
+                  <!-- ⁡ -->
+                 </mo>
+                 <mi>
+                  θ
+                  <!-- θ -->
+                 </mi>
+                 <msup>
+                  <mi>
+                   ϕ
+                   <!-- ϕ -->
+                  </mi>
+                  <mo>
+                   ′
+                  </mo>
+                 </msup>
+                </mrow>
+                <msqrt>
+                 <msup>
+                  <mi>
+                   θ
+                   <!-- θ -->
+                  </mi>
+                  <mrow>
+                   <mo class="MJX-variant">
+                    ′
+                   </mo>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mn>
+                     2
+                    </mn>
+                   </mrow>
+                  </mrow>
+                 </msup>
+                 <mo>
+                  +
+                 </mo>
+                 <msup>
+                  <mi>
+                   ϕ
+                   <!-- ϕ -->
+                  </mi>
+                  <mrow>
+                   <mo class="MJX-variant">
+                    ′
+                   </mo>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mn>
+                     2
+                    </mn>
+                   </mrow>
+                  </mrow>
+                 </msup>
+                 <msup>
+                  <mi>
+                   sin
+                  </mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mn>
+                    2
+                   </mn>
+                  </mrow>
+                 </msup>
+                 <mo>
+                  ⁡
+                  <!-- ⁡ -->
+                 </mo>
+                 <mi>
+                  θ
+                  <!-- θ -->
+                 </mi>
+                </msqrt>
+               </mfrac>
+              </mrow>
+              <mo>
+               =
+              </mo>
+              <mi>
+               C
+              </mi>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle {\frac {\sin ^{2}\theta \phi '}{\sqrt {\theta '^{2}+\phi '^{2}\sin ^{2}\theta }}}=C}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="{\displaystyle {\frac {\sin ^{2}\theta \phi '}{\sqrt {\theta '^{2}+\phi '^{2}\sin ^{2}\theta }}}=C}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/51fb12a7e6467f9e1b969429acab8805e913c4ca" style="vertical-align: -4.671ex; width:22.129ex; height:8.676ex;"/>
+        </span>
+        ,
+       </dd>
+      </dl>
+      <p>
+       where
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle C}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              C
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle C}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="C" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4fc55753007cd3c18576f7933f6f089196732029" style="vertical-align: -0.338ex; width:1.766ex; height:2.176ex;"/>
+       </span>
+       is a
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle t}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              t
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle t}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="t" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/65658b7b223af9e1acc877d848888ecdb4466560" style="vertical-align: -0.338ex; width:0.84ex; height:2.009ex;"/>
+       </span>
+       -independent constant, and
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle {\frac {\sin \theta \cos \theta \phi '^{2}}{\sqrt {\theta '^{2}+\phi '^{2}\sin ^{2}\theta }}}={\frac {d}{dt}}{\frac {\theta '}{\sqrt {\theta '^{2}+\phi '^{2}\sin ^{2}\theta }}}.}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mrow class="MJX-TeXAtom-ORD">
+               <mfrac>
+                <mrow>
+                 <mi>
+                  sin
+                 </mi>
+                 <mo>
+                  ⁡
+                  <!-- ⁡ -->
+                 </mo>
+                 <mi>
+                  θ
+                  <!-- θ -->
+                 </mi>
+                 <mi>
+                  cos
+                 </mi>
+                 <mo>
+                  ⁡
+                  <!-- ⁡ -->
+                 </mo>
+                 <mi>
+                  θ
+                  <!-- θ -->
+                 </mi>
+                 <msup>
+                  <mi>
+                   ϕ
+                   <!-- ϕ -->
+                  </mi>
+                  <mrow>
+                   <mo class="MJX-variant">
+                    ′
+                   </mo>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mn>
+                     2
+                    </mn>
+                   </mrow>
+                  </mrow>
+                 </msup>
+                </mrow>
+                <msqrt>
+                 <msup>
+                  <mi>
+                   θ
+                   <!-- θ -->
+                  </mi>
+                  <mrow>
+                   <mo class="MJX-variant">
+                    ′
+                   </mo>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mn>
+                     2
+                    </mn>
+                   </mrow>
+                  </mrow>
+                 </msup>
+                 <mo>
+                  +
+                 </mo>
+                 <msup>
+                  <mi>
+                   ϕ
+                   <!-- ϕ -->
+                  </mi>
+                  <mrow>
+                   <mo class="MJX-variant">
+                    ′
+                   </mo>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mn>
+                     2
+                    </mn>
+                   </mrow>
+                  </mrow>
+                 </msup>
+                 <msup>
+                  <mi>
+                   sin
+                  </mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mn>
+                    2
+                   </mn>
+                  </mrow>
+                 </msup>
+                 <mo>
+                  ⁡
+                  <!-- ⁡ -->
+                 </mo>
+                 <mi>
+                  θ
+                  <!-- θ -->
+                 </mi>
+                </msqrt>
+               </mfrac>
+              </mrow>
+              <mo>
+               =
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mfrac>
+                <mi>
+                 d
+                </mi>
+                <mrow>
+                 <mi>
+                  d
+                 </mi>
+                 <mi>
+                  t
+                 </mi>
+                </mrow>
+               </mfrac>
+              </mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mfrac>
+                <msup>
+                 <mi>
+                  θ
+                  <!-- θ -->
+                 </mi>
+                 <mo>
+                  ′
+                 </mo>
+                </msup>
+                <msqrt>
+                 <msup>
+                  <mi>
+                   θ
+                   <!-- θ -->
+                  </mi>
+                  <mrow>
+                   <mo class="MJX-variant">
+                    ′
+                   </mo>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mn>
+                     2
+                    </mn>
+                   </mrow>
+                  </mrow>
+                 </msup>
+                 <mo>
+                  +
+                 </mo>
+                 <msup>
+                  <mi>
+                   ϕ
+                   <!-- ϕ -->
+                  </mi>
+                  <mrow>
+                   <mo class="MJX-variant">
+                    ′
+                   </mo>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mn>
+                     2
+                    </mn>
+                   </mrow>
+                  </mrow>
+                 </msup>
+                 <msup>
+                  <mi>
+                   sin
+                  </mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mn>
+                    2
+                   </mn>
+                  </mrow>
+                 </msup>
+                 <mo>
+                  ⁡
+                  <!-- ⁡ -->
+                 </mo>
+                 <mi>
+                  θ
+                  <!-- θ -->
+                 </mi>
+                </msqrt>
+               </mfrac>
+              </mrow>
+              <mo>
+               .
+              </mo>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle {\frac {\sin \theta \cos \theta \phi '^{2}}{\sqrt {\theta '^{2}+\phi '^{2}\sin ^{2}\theta }}}={\frac {d}{dt}}{\frac {\theta '}{\sqrt {\theta '^{2}+\phi '^{2}\sin ^{2}\theta }}}.}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="{\displaystyle {\frac {\sin \theta \cos \theta \phi '^{2}}{\sqrt {\theta '^{2}+\phi '^{2}\sin ^{2}\theta }}}={\frac {d}{dt}}{\frac {\theta '}{\sqrt {\theta '^{2}+\phi '^{2}\sin ^{2}\theta }}}.}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/096d2d003adbda72c349acfeb9d045369cb21f3c" style="vertical-align: -4.671ex; width:41.165ex; height:8.509ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       From the first equation of these two, it can be obtained that
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle \phi '={\frac {C\theta '}{\sin \theta {\sqrt {C^{2}+\sin ^{2}\theta }}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <msup>
+               <mi>
+                ϕ
+                <!-- ϕ -->
+               </mi>
+               <mo>
+                ′
+               </mo>
+              </msup>
+              <mo>
+               =
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mfrac>
+                <mrow>
+                 <mi>
+                  C
+                 </mi>
+                 <msup>
+                  <mi>
+                   θ
+                   <!-- θ -->
+                  </mi>
+                  <mo>
+                   ′
+                  </mo>
+                 </msup>
+                </mrow>
+                <mrow>
+                 <mi>
+                  sin
+                 </mi>
+                 <mo>
+                  ⁡
+                  <!-- ⁡ -->
+                 </mo>
+                 <mi>
+                  θ
+                  <!-- θ -->
+                 </mi>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <msqrt>
+                   <msup>
+                    <mi>
+                     C
+                    </mi>
+                    <mrow class="MJX-TeXAtom-ORD">
+                     <mn>
+                      2
+                     </mn>
+                    </mrow>
+                   </msup>
+                   <mo>
+                    +
+                   </mo>
+                   <msup>
+                    <mi>
+                     sin
+                    </mi>
+                    <mrow class="MJX-TeXAtom-ORD">
+                     <mn>
+                      2
+                     </mn>
+                    </mrow>
+                   </msup>
+                   <mo>
+                    ⁡
+                    <!-- ⁡ -->
+                   </mo>
+                   <mi>
+                    θ
+                    <!-- θ -->
+                   </mi>
+                  </msqrt>
+                 </mrow>
+                </mrow>
+               </mfrac>
+              </mrow>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle \phi '={\frac {C\theta '}{\sin \theta {\sqrt {C^{2}+\sin ^{2}\theta }}}}}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="{\displaystyle \phi '={\frac {C\theta '}{\sin \theta {\sqrt {C^{2}+\sin ^{2}\theta }}}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ddbb9593daf0dbce0cb8181bf887b37315a7acdc" style="vertical-align: -3.171ex; width:23.742ex; height:6.843ex;"/>
+        </span>
+        .
+       </dd>
+      </dl>
+      <p>
+       Integrating both sides and considering the boundary condition, the real solution of
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle C}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              C
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle C}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="C" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4fc55753007cd3c18576f7933f6f089196732029" style="vertical-align: -0.338ex; width:1.766ex; height:2.176ex;"/>
+       </span>
+       is zero. Thus,
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle \phi '=0}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <msup>
+              <mi>
+               ϕ
+               <!-- ϕ -->
+              </mi>
+              <mo>
+               ′
+              </mo>
+             </msup>
+             <mo>
+              =
+             </mo>
+             <mn>
+              0
+             </mn>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle \phi '=0}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="{\displaystyle \phi '=0}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ce1d605b150a31ac601319b84744bd3367f69d96" style="vertical-align: -0.671ex; width:6.331ex; height:2.843ex;"/>
+       </span>
+       and
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle \theta }" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              θ
+              <!-- θ -->
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle \theta }
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="\theta " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6e5ab2664b422d53eb0c7df3b87e1360d75ad9af" style="vertical-align: -0.338ex; width:1.09ex; height:2.176ex;"/>
+       </span>
+       can be any value between 0 and
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle \theta _{0}}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <msub>
+              <mi>
+               θ
+               <!-- θ -->
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mn>
+                0
+               </mn>
+              </mrow>
+             </msub>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle \theta _{0}}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="\theta _{0}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/18b67de6bf25dba7a24e66967ff6319858798734" style="vertical-align: -0.671ex; width:2.145ex; height:2.509ex;"/>
+       </span>
+       , indicating that the curve must lie on a meridian of the sphere. In Cartesian coordinates, this is
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle x\sin \phi _{0}-y\cos \phi _{0}=0}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mi>
+               x
+              </mi>
+              <mi>
+               sin
+              </mi>
+              <mo>
+               ⁡
+               <!-- ⁡ -->
+              </mo>
+              <msub>
+               <mi>
+                ϕ
+                <!-- ϕ -->
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mn>
+                 0
+                </mn>
+               </mrow>
+              </msub>
+              <mo>
+               −
+               <!-- − -->
+              </mo>
+              <mi>
+               y
+              </mi>
+              <mi>
+               cos
+              </mi>
+              <mo>
+               ⁡
+               <!-- ⁡ -->
+              </mo>
+              <msub>
+               <mi>
+                ϕ
+                <!-- ϕ -->
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mn>
+                 0
+                </mn>
+               </mrow>
+              </msub>
+              <mo>
+               =
+              </mo>
+              <mn>
+               0
+              </mn>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle x\sin \phi _{0}-y\cos \phi _{0}=0}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="x\sin \phi _{0}-y\cos \phi _{0}=0" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a3f841c313c13714f9caa1e350dfd49caf7d676a" style="vertical-align: -0.671ex; width:21.981ex; height:2.509ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       which is a plane through the origin, i.e., the center of the sphere.
+      </p>
+      <h2>
+       <span class="mw-headline" id="Applications">
+        Applications
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Great_circle&amp;action=edit&amp;section=2" title="Edit section: Applications">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       Some examples of great circles on the
+       <a href="/wiki/Celestial_sphere" title="Celestial sphere">
+        celestial sphere
+       </a>
+       include the
+       <a class="mw-redirect" href="/wiki/Celestial_horizon" title="Celestial horizon">
+        celestial horizon
+       </a>
+       , the
+       <a href="/wiki/Celestial_equator" title="Celestial equator">
+        celestial equator
+       </a>
+       , and the
+       <a href="/wiki/Ecliptic" title="Ecliptic">
+        ecliptic
+       </a>
+       . Great circles are also used as rather accurate approximations of
+       <a href="/wiki/Geodesics_on_an_ellipsoid" title="Geodesics on an ellipsoid">
+        geodesics
+       </a>
+       on the
+       <a href="/wiki/Earth" title="Earth">
+        Earth
+       </a>
+       's surface for air or sea
+       <a href="/wiki/Great-circle_navigation" title="Great-circle navigation">
+        navigation
+       </a>
+       (although it
+       <a class="mw-redirect" href="/wiki/Shape_of_the_Earth" title="Shape of the Earth">
+        is not a perfect sphere
+       </a>
+       ), as well as on spheroidal
+       <a class="mw-redirect" href="/wiki/Celestial_bodies" title="Celestial bodies">
+        celestial bodies
+       </a>
+       .
+      </p>
+      <p>
+       The
+       <a href="/wiki/Equator" title="Equator">
+        equator
+       </a>
+       of the idealized earth is a great circle and any meridian and its opposite meridian form a great circle. Another great circle is the one that divides the
+       <a href="/wiki/Land_and_water_hemispheres" title="Land and water hemispheres">
+        land and water hemispheres
+       </a>
+       . A great circle divides the earth into two
+       <a class="mw-redirect" href="/wiki/Hemisphere_of_the_Earth" title="Hemisphere of the Earth">
+        hemispheres
+       </a>
+       and if a great circle passes through a point it must pass through its
+       <a href="/wiki/Antipodal_point" title="Antipodal point">
+        antipodal point
+       </a>
+       .
+      </p>
+      <p>
+       The
+       <a href="/wiki/Funk_transform" title="Funk transform">
+        Funk transform
+       </a>
+       integrates a function along all great circles of the sphere.
+      </p>
+      <h2>
+       <span class="mw-headline" id="See_also">
+        See also
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Great_circle&amp;action=edit&amp;section=3" title="Edit section: See also">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a href="/wiki/Great-circle_distance" title="Great-circle distance">
+         Great-circle distance
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Great-circle_navigation" title="Great-circle navigation">
+         Great-circle navigation
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Rhumb_line" title="Rhumb line">
+         Rhumb line
+        </a>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="External_links">
+        External links
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Great_circle&amp;action=edit&amp;section=4" title="Edit section: External links">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a class="external text" href="http://mathworld.wolfram.com/GreatCircle.html" rel="nofollow">
+         Great Circle – from MathWorld
+        </a>
+        Great Circle description, figures, and equations. Mathworld, Wolfram Research, Inc. c1999
+       </li>
+       <li>
+        <a class="external text" href="http://demonstrations.wolfram.com/GreatCirclesOnMercatorsChart/" rel="nofollow">
+         Great Circles on Mercator's Chart
+        </a>
+        by John Snyder with additional contributions by Jeff Bryant, Pratik Desai, and Carl Woll,
+        <a href="/wiki/Wolfram_Demonstrations_Project" title="Wolfram Demonstrations Project">
+         Wolfram Demonstrations Project
+        </a>
+        .
+       </li>
+      </ul>
+      <!-- 
+NewPP limit report
+Parsed by mw1261
+Cached time: 20180115142424
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.080 seconds
+Real time usage: 0.163 seconds
+Preprocessor visited node count: 173/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 740/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 2/40
+Expensive parser function count: 0/500
+Lua time usage: 0.010/10.000 seconds
+Lua memory usage: 684 KB/50 MB
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   33.578      1 -total
+ 84.32%   28.314      1 Template:About
+ 15.28%    5.130      1 Template:See_also
+-->
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:48082-0!canonical!math=5 and timestamp 20180115142424 and revision id 817872129
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Great_circle&amp;oldid=817872129">
+      https://en.wikipedia.org/w/index.php?title=Great_circle&amp;oldid=817872129
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Elementary_geometry" title="Category:Elementary geometry">
+         Elementary geometry
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Spherical_trigonometry" title="Category:Spherical trigonometry">
+         Spherical trigonometry
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Riemannian_geometry" title="Category:Riemannian geometry">
+         Riemannian geometry
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Circles" title="Category:Circles">
+         Circles
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Great+circle" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Great+circle" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Great_circle" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Great_circle" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="collapsible selected" id="ca-view">
+        <span>
+         <a href="/wiki/Great_circle">
+          Read
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Great_circle&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Great_circle&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Great_circle" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Great_circle" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Great_circle&amp;oldid=817872129" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Great_circle&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q146657" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Great_circle&amp;id=817872129" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Great+circle">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Great+circle&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Great_circle&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-am">
+        <a class="interlanguage-link-target" href="https://am.wikipedia.org/wiki/%E1%89%B3%E1%88%8B%E1%89%85_%E1%8A%AD%E1%89%A5" hreflang="am" lang="am" title="ታላቅ ክብ – Amharic">
+         አማርኛ
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ar">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%AF%D8%A7%D8%A6%D8%B1%D8%A9_%D8%B9%D8%B8%D9%85%D9%89" hreflang="ar" lang="ar" title="دائرة عظمى – Arabic">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ast">
+        <a class="interlanguage-link-target" href="https://ast.wikipedia.org/wiki/Gran_c%C3%ADrculu" hreflang="ast" lang="ast" title="Gran círculu – Asturian">
+         Asturianu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh-min-nan">
+        <a class="interlanguage-link-target" href="https://zh-min-nan.wikipedia.org/wiki/T%C5%8Da-%C3%AE%E2%81%BF" hreflang="zh-min-nan" lang="zh-min-nan" title="Tōa-îⁿ – Chinese (Min Nan)">
+         Bân-lâm-gú
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bg">
+        <a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%93%D0%BE%D0%BB%D1%8F%D0%BC%D0%B0_%D0%BE%D0%BA%D1%80%D1%8A%D0%B6%D0%BD%D0%BE%D1%81%D1%82" hreflang="bg" lang="bg" title="Голяма окръжност – Bulgarian">
+         Български
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-br">
+        <a class="interlanguage-link-target" href="https://br.wikipedia.org/wiki/Kelc%27h_bras" hreflang="br" lang="br" title="Kelc'h bras – Breton">
+         Brezhoneg
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Cercle_m%C3%A0xim" hreflang="ca" lang="ca" title="Cercle màxim – Catalan">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-da">
+        <a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Storcirkel" hreflang="da" lang="da" title="Storcirkel – Danish">
+         Dansk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Gro%C3%9Fkreis" hreflang="de" lang="de" title="Großkreis – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-dsb">
+        <a class="interlanguage-link-target" href="https://dsb.wikipedia.org/wiki/Wjeliki_krejz" hreflang="dsb" lang="dsb" title="Wjeliki krejz – Lower Sorbian">
+         Dolnoserbski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-et">
+        <a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Suurring" hreflang="et" lang="et" title="Suurring – Estonian">
+         Eesti
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Gran_c%C3%ADrculo" hreflang="es" lang="es" title="Gran círculo – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eo">
+        <a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/%C4%88efcirklo" hreflang="eo" lang="eo" title="Ĉefcirklo – Esperanto">
+         Esperanto
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eu">
+        <a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Zirkulu_nagusi" hreflang="eu" lang="eu" title="Zirkulu nagusi – Basque">
+         Euskara
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fa">
+        <a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%AF%D8%A7%DB%8C%D8%B1%D9%87_%D8%A8%D8%B2%D8%B1%DA%AF" hreflang="fa" lang="fa" title="دایره بزرگ – Persian">
+         فارسی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Grand_cercle" hreflang="fr" lang="fr" title="Grand cercle – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fy">
+        <a class="interlanguage-link-target" href="https://fy.wikipedia.org/wiki/Grutsirkel" hreflang="fy" lang="fy" title="Grutsirkel – Western Frisian">
+         Frysk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ga">
+        <a class="interlanguage-link-target" href="https://ga.wikipedia.org/wiki/M%C3%B3rchiorcal" hreflang="ga" lang="ga" title="Mórchiorcal – Irish">
+         Gaeilge
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ko">
+        <a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EB%8C%80%EC%9B%90" hreflang="ko" lang="ko" title="대원 – Korean">
+         한국어
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hi">
+        <a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%AE%E0%A4%B9%E0%A4%BE%E0%A4%B5%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%A4" hreflang="hi" lang="hi" title="महावृत्त – Hindi">
+         हिन्दी
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hsb">
+        <a class="interlanguage-link-target" href="https://hsb.wikipedia.org/wiki/Wulki_kruh" hreflang="hsb" lang="hsb" title="Wulki kruh – Upper Sorbian">
+         Hornjoserbsce
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hr">
+        <a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Ortodroma" hreflang="hr" lang="hr" title="Ortodroma – Croatian">
+         Hrvatski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ilo">
+        <a class="interlanguage-link-target" href="https://ilo.wikipedia.org/wiki/Nalatak_a_sirkulo" hreflang="ilo" lang="ilo" title="Nalatak a sirkulo – Iloko">
+         Ilokano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-id">
+        <a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Lingkaran_besar" hreflang="id" lang="id" title="Lingkaran besar – Indonesian">
+         Bahasa Indonesia
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-is">
+        <a class="interlanguage-link-target" href="https://is.wikipedia.org/wiki/St%C3%B3rbaugur" hreflang="is" lang="is" title="Stórbaugur – Icelandic">
+         Íslenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Cerchio_massimo" hreflang="it" lang="it" title="Cerchio massimo – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-he">
+        <a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%9E%D7%A2%D7%92%D7%9C_%D7%92%D7%93%D7%95%D7%9C" hreflang="he" lang="he" title="מעגל גדול – Hebrew">
+         עברית
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-la">
+        <a class="interlanguage-link-target" href="https://la.wikipedia.org/wiki/Circulus_magnus" hreflang="la" lang="la" title="Circulus magnus – Latin">
+         Latina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lb">
+        <a class="interlanguage-link-target" href="https://lb.wikipedia.org/wiki/Grousskrees" hreflang="lb" lang="lb" title="Grousskrees – Luxembourgish">
+         Lëtzebuergesch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lt">
+        <a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Didysis_apskritimas" hreflang="lt" lang="lt" title="Didysis apskritimas – Lithuanian">
+         Lietuvių
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hu">
+        <a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/F%C5%91k%C3%B6r" hreflang="hu" lang="hu" title="Főkör – Hungarian">
+         Magyar
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-mk">
+        <a class="interlanguage-link-target" href="https://mk.wikipedia.org/wiki/%D0%93%D0%BE%D0%BB%D0%B5%D0%BC%D0%B0_%D0%BA%D1%80%D1%83%D0%B6%D0%BD%D0%B8%D1%86%D0%B0" hreflang="mk" lang="mk" title="Голема кружница – Macedonian">
+         Македонски
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ms">
+        <a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Bulatan_agung" hreflang="ms" lang="ms" title="Bulatan agung – Malay">
+         Bahasa Melayu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nl">
+        <a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Grootcirkel" hreflang="nl" lang="nl" title="Grootcirkel – Dutch">
+         Nederlands
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%9C%8F%E3%82%B3%E3%83%BC%E3%82%B9" hreflang="ja" lang="ja" title="大圏コース – Japanese">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-no">
+        <a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Storsirkel" hreflang="no" lang="no" title="Storsirkel – Norwegian">
+         Norsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nn">
+        <a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Storsirkel" hreflang="nn" lang="nn" title="Storsirkel – Norwegian Nynorsk">
+         Norsk nynorsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-oc">
+        <a class="interlanguage-link-target" href="https://oc.wikipedia.org/wiki/Grand_cercle" hreflang="oc" lang="oc" title="Grand cercle – Occitan">
+         Occitan
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pl">
+        <a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Ko%C5%82o_wielkie" hreflang="pl" lang="pl" title="Koło wielkie – Polish">
+         Polski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/C%C3%ADrculo_m%C3%A1ximo" hreflang="pt" lang="pt" title="Círculo máximo – Portuguese">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ro">
+        <a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Cerc_mare" hreflang="ro" lang="ro" title="Cerc mare – Romanian">
+         Română
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9_%D0%BA%D1%80%D1%83%D0%B3" hreflang="ru" lang="ru" title="Большой круг – Russian">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-simple">
+        <a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Great_circle" hreflang="simple" lang="simple" title="Great circle – Simple English">
+         Simple English
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sl">
+        <a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Veliki_krog" hreflang="sl" lang="sl" title="Veliki krog – Slovenian">
+         Slovenščina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sr">
+        <a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0_%D0%BA%D1%80%D1%83%D0%B6%D0%BD%D0%B8%D1%86%D0%B0" hreflang="sr" lang="sr" title="Велика кружница – Serbian">
+         Српски / srpski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sh">
+        <a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Velika_kru%C5%BEnica" hreflang="sh" lang="sh" title="Velika kružnica – Serbo-Croatian">
+         Srpskohrvatski / српскохрватски
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fi">
+        <a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Isoympyr%C3%A4" hreflang="fi" lang="fi" title="Isoympyrä – Finnish">
+         Suomi
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sv">
+        <a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Storcirkel" hreflang="sv" lang="sv" title="Storcirkel – Swedish">
+         Svenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ta">
+        <a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%AA%E0%AF%86%E0%AE%B0%E0%AF%81_%E0%AE%B5%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%AE%E0%AF%8D" hreflang="ta" lang="ta" title="பெரு வட்டம் – Tamil">
+         தமிழ்
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tr">
+        <a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/B%C3%BCy%C3%BCk_daire" hreflang="tr" lang="tr" title="Büyük daire – Turkish">
+         Türkçe
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uk">
+        <a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B5_%D0%BA%D0%BE%D0%BB%D0%BE" hreflang="uk" lang="uk" title="Велике коло – Ukrainian">
+         Українська
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-vi">
+        <a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/%C4%90%C6%B0%E1%BB%9Dng_tr%C3%B2n_l%E1%BB%9Bn" hreflang="vi" lang="vi" title="Đường tròn lớn – Vietnamese">
+         Tiếng Việt
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh-yue">
+        <a class="interlanguage-link-target" href="https://zh-yue.wikipedia.org/wiki/%E5%A4%A7%E5%9C%93" hreflang="zh-yue" lang="zh-yue" title="大圓 – Cantonese">
+         粵語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%9C%86" hreflang="zh" lang="zh" title="大圆 – Chinese">
+         中文
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q146657#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 31 December 2017, at 01:57.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Great_circle&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.080","walltime":"0.163","ppvisitednodes":{"value":173,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":740,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":2,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   33.578      1 -total"," 84.32%   28.314      1 Template:About"," 15.28%    5.130      1 Template:See_also"]},"scribunto":{"limitreport-timeusage":{"value":"0.010","limit":"10.000"},"limitreport-memusage":{"value":700728,"limit":52428800}},"cachereport":{"origin":"mw1261","timestamp":"20180115142424","ttl":1900800,"transientcontent":false}}});});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":98,"wgHostname":"mw1325"});});
+  </script>
+ </body>
+</html>

@@ -1,0 +1,2368 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Isochrony - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Isochrony","wgTitle":"Isochrony","wgCurRevisionId":808232228,"wgRevisionId":808232228,"wgArticleId":576159,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: Extra text","CS1 German-language sources (de)","All articles with unsourced statements","Articles with unsourced statements from May 2013","Phonetics","Rhythm and meter"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Isochrony","wgRelevantArticleId":576159,"wgRequestId":"WnE3QwpAICoAAFH73voAAAAO","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q968561","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.31.0-wmf.17" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Isochrony" rel="alternate"/>
+  <link href="/w/index.php?title=Isochrony&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Isochrony&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/Isochrony" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Isochrony rootpage-Isochrony skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Isochrony
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <p>
+       <b>
+        Isochrony
+       </b>
+       is the postulated
+       <a href="/wiki/Rhythm" title="Rhythm">
+        rhythmic
+       </a>
+       division of time into equal portions by a
+       <a href="/wiki/Language" title="Language">
+        language
+       </a>
+       . Rhythm is an aspect of
+       <a href="/wiki/Prosody_(linguistics)" title="Prosody (linguistics)">
+        prosody
+       </a>
+       , others being
+       <a href="/wiki/Intonation_(linguistics)" title="Intonation (linguistics)">
+        intonation
+       </a>
+       ,
+       <a href="/wiki/Stress_(linguistics)" title="Stress (linguistics)">
+        stress
+       </a>
+       and
+       <a class="mw-redirect" href="/wiki/Tempo_of_speech" title="Tempo of speech">
+        tempo of speech
+       </a>
+       .
+       <sup class="reference" id="cite_ref-1">
+        <a href="#cite_note-1">
+         [1]
+        </a>
+       </sup>
+      </p>
+      <p>
+       Three alternative ways in which a language can divide time are postulated:
+      </p>
+      <ol>
+       <li>
+        The duration of every syllable is equal (syllable-timed);
+       </li>
+       <li>
+        The duration of every
+        <a href="/wiki/Mora_(linguistics)" title="Mora (linguistics)">
+         mora
+        </a>
+        is equal (mora-timed).
+       </li>
+       <li>
+        The interval between two stressed
+        <a href="/wiki/Syllable" title="Syllable">
+         syllables
+        </a>
+        is equal (stress-timed).
+       </li>
+      </ol>
+      <p>
+       The idea as such was first expressed by
+       <a class="mw-redirect" href="/wiki/Kenneth_L._Pike" title="Kenneth L. Pike">
+        Kenneth L. Pike
+       </a>
+       in 1945, though the concept of language naturally occurring in chronologically and rhythmically equal measures is found at least as early as 1775 (in
+       <i>
+        <a href="/wiki/Prosodia_Rationalis" title="Prosodia Rationalis">
+         Prosodia Rationalis
+        </a>
+       </i>
+       ). This has implications for
+       <a class="mw-redirect" href="/wiki/Language_typology" title="Language typology">
+        language typology
+       </a>
+       :
+       <a href="/wiki/David_Abercrombie_(linguist)" title="David Abercrombie (linguist)">
+        D. Abercrombie
+       </a>
+       claimed "As far as is known, every language in the world is spoken with one kind of rhythm or with the other ... French, Telugu and Yoruba ... are syllable-timed languages, ... English, Russian and Arabic ... are stress-timed languages."
+       <sup class="reference" id="cite_ref-2">
+        <a href="#cite_note-2">
+         [2]
+        </a>
+       </sup>
+       While many linguists find the idea of different rhythm types appealing, empirical studies have not been able to find acoustic correlates of the postulated types, calling into question the validity of these types.
+       <sup class="reference" id="cite_ref-3">
+        <a href="#cite_note-3">
+         [3]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-4">
+        <a href="#cite_note-4">
+         [4]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-5">
+        <a href="#cite_note-5">
+         [5]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-6">
+        <a href="#cite_note-6">
+         [6]
+        </a>
+       </sup>
+       However, when viewed as a matter of degree, relative differences in the variability of syllable duration across languages have been found.
+       <sup class="reference" id="cite_ref-Ladefoged_7-0">
+        <a href="#cite_note-Ladefoged-7">
+         [7]
+        </a>
+       </sup>
+      </p>
+      <p>
+      </p>
+      <div class="toc" id="toc">
+       <div class="toctitle" dir="ltr" lang="en" xml:lang="en">
+        <h2>
+         Contents
+        </h2>
+       </div>
+       <ul>
+        <li class="toclevel-1 tocsection-1">
+         <a href="#Syllable_timing">
+          <span class="tocnumber">
+           1
+          </span>
+          <span class="toctext">
+           Syllable timing
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-2">
+         <a href="#Mora_timing">
+          <span class="tocnumber">
+           2
+          </span>
+          <span class="toctext">
+           Mora timing
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-3">
+         <a href="#Stress_timing">
+          <span class="tocnumber">
+           3
+          </span>
+          <span class="toctext">
+           Stress timing
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-4">
+         <a href="#Degrees_of_durational_variability">
+          <span class="tocnumber">
+           4
+          </span>
+          <span class="toctext">
+           Degrees of durational variability
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-5">
+         <a href="#The_stress-timing–syllable-timing_distinction_as_a_continuum">
+          <span class="tocnumber">
+           5
+          </span>
+          <span class="toctext">
+           The stress-timing–syllable-timing distinction as a continuum
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-6">
+         <a href="#See_also">
+          <span class="tocnumber">
+           6
+          </span>
+          <span class="toctext">
+           See also
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-7">
+         <a href="#References">
+          <span class="tocnumber">
+           7
+          </span>
+          <span class="toctext">
+           References
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-8">
+         <a href="#Further_reading">
+          <span class="tocnumber">
+           8
+          </span>
+          <span class="toctext">
+           Further reading
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-9">
+         <a href="#External_links">
+          <span class="tocnumber">
+           9
+          </span>
+          <span class="toctext">
+           External links
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <p>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Syllable_timing">
+        Syllable timing
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Isochrony&amp;action=edit&amp;section=1" title="Edit section: Syllable timing">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       In a syllable-timed language, every syllable is perceived as taking up roughly the same amount of time, though the absolute length of time depends on the
+       <a href="/wiki/Prosody_(linguistics)" title="Prosody (linguistics)">
+        prosody
+       </a>
+       . Syllable-timed languages tend to give syllables approximately equal prominence and generally lack
+       <a href="/wiki/Vowel_reduction#Weakening_of_vowel_articulation" title="Vowel reduction">
+        reduced vowels
+       </a>
+       .
+      </p>
+      <p>
+       <a href="/wiki/French_language" title="French language">
+        French
+       </a>
+       ,
+       <a href="/wiki/Italian_language" title="Italian language">
+        Italian
+       </a>
+       ,
+       <a href="/wiki/Spanish_language" title="Spanish language">
+        Spanish
+       </a>
+       , Brazilian
+       <a href="/wiki/Portuguese_language" title="Portuguese language">
+        Portuguese
+       </a>
+       ,
+       <a href="/wiki/Icelandic_language" title="Icelandic language">
+        Icelandic
+       </a>
+       ,
+       <a href="/wiki/Cantonese" title="Cantonese">
+        Cantonese
+       </a>
+       ,
+       <a href="/wiki/Mandarin_Chinese" title="Mandarin Chinese">
+        Mandarin Chinese
+       </a>
+       ,
+       <sup class="reference" id="cite_ref-8">
+        <a href="#cite_note-8">
+         [8]
+        </a>
+       </sup>
+       <a href="/wiki/Georgian_language" title="Georgian language">
+        Georgian
+       </a>
+       ,
+       <sup class="reference" id="cite_ref-9">
+        <a href="#cite_note-9">
+         [9]
+        </a>
+       </sup>
+       <a href="/wiki/Romanian_language" title="Romanian language">
+        Romanian
+       </a>
+       ,
+       <a href="/wiki/Armenian_language" title="Armenian language">
+        Armenian
+       </a>
+       ,
+       <sup class="reference" id="cite_ref-10">
+        <a href="#cite_note-10">
+         [10]
+        </a>
+       </sup>
+       <a href="/wiki/Welsh_language" title="Welsh language">
+        Welsh
+       </a>
+       <sup class="reference" id="cite_ref-11">
+        <a href="#cite_note-11">
+         [11]
+        </a>
+       </sup>
+       and
+       <a href="/wiki/Turkish_language" title="Turkish language">
+        Turkish
+       </a>
+       are commonly quoted as examples of syllable-timed languages. This type of rhythm was originally metaphorically referred to as "machine-gun rhythm" because each underlying rhythmical unit is of the same duration, similar to the transient bullet noise of a machine-gun.
+      </p>
+      <p>
+       Since the 1950s, speech scientists have tried to show the existence of equal syllable durations in the acoustic speech signal without success. More recent research claims that the duration of consonantal and vocalic intervals is responsible for syllable-timed perception.
+       <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+        [
+        <i>
+         <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+          <span title="This claim needs references to reliable sources. (May 2013)">
+           citation needed
+          </span>
+         </a>
+        </i>
+        ]
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Mora_timing">
+        Mora timing
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Isochrony&amp;action=edit&amp;section=2" title="Edit section: Mora timing">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       Some languages such as
+       <a href="/wiki/Japanese_language" title="Japanese language">
+        Japanese
+       </a>
+       ,
+       <a href="/wiki/Gilbertese_language" title="Gilbertese language">
+        Gilbertese
+       </a>
+       ,
+       <a href="/wiki/Slovak_language" title="Slovak language">
+        Slovak
+       </a>
+       or
+       <a href="/wiki/Luganda" title="Luganda">
+        Ganda
+       </a>
+       also have regular pacing but are
+       <a href="/wiki/Mora_(linguistics)" title="Mora (linguistics)">
+        mora
+       </a>
+       -timed rather than syllable-timed.
+       <sup class="reference" id="cite_ref-12">
+        <a href="#cite_note-12">
+         [12]
+        </a>
+       </sup>
+       In Japanese, a V or CV syllable takes up one timing unit. Japanese does not have
+       <a href="/wiki/Vowel_length" title="Vowel length">
+        vowel length
+       </a>
+       or
+       <a href="/wiki/Diphthong" title="Diphthong">
+        diphthongs
+       </a>
+       but
+       <i>
+        double
+       </i>
+       vowels, so CVV takes twice the time as CV. A final /N/ also takes as much time as a CV syllable and, at least in poetry, so does the extra length of a
+       <a class="mw-redirect" href="/wiki/Geminate" title="Geminate">
+        geminate consonant
+       </a>
+       . However, colloquial language is less settled than poetic language, and the rhythm may vary from one region to another or with time.
+      </p>
+      <p>
+       <a href="/wiki/Ancient_Greek" title="Ancient Greek">
+        Ancient Greek
+       </a>
+       <sup class="reference" id="cite_ref-13">
+        <a href="#cite_note-13">
+         [13]
+        </a>
+       </sup>
+       and
+       <a href="/wiki/Vedic_Sanskrit" title="Vedic Sanskrit">
+        Vedic Sanskrit
+       </a>
+       <sup class="reference" id="cite_ref-14">
+        <a href="#cite_note-14">
+         [14]
+        </a>
+       </sup>
+       were also strictly mora-timed.
+       <a href="/wiki/Proto-Indo-European_language" title="Proto-Indo-European language">
+        Proto-Indo-European
+       </a>
+       probably was as well.
+      </p>
+      <h2>
+       <span class="mw-headline" id="Stress_timing">
+        Stress timing
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Isochrony&amp;action=edit&amp;section=3" title="Edit section: Stress timing">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       In a
+       <i>
+        stress-timed language
+       </i>
+       , syllables may last different amounts of time, but there is perceived to be a fairly constant amount of time (on average) between consecutive stressed syllables. Consequently, unstressed syllables between stressed syllables tend to be compressed to fit into the time interval: if two stressed syllables are separated by a single unstressed syllable, as in 'COME for TEA', the unstressed syllable will be relatively long, while if a larger number of unstressed syllables intervenes, as in 'COME and have some TEA', the unstressed syllables will be shorter.
+       <sup class="reference" id="cite_ref-15">
+        <a href="#cite_note-15">
+         [15]
+        </a>
+       </sup>
+      </p>
+      <p>
+       Stress-timing is sometimes called
+       <i>
+        Morse-code rhythm
+       </i>
+       , but any resemblance between the two is only superficial. Stress-timing is strongly related to
+       <a href="/wiki/Vowel_reduction" title="Vowel reduction">
+        vowel reduction
+       </a>
+       processes.
+       <sup class="reference" id="cite_ref-16">
+        <a href="#cite_note-16">
+         [16]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-17">
+        <a href="#cite_note-17">
+         [17]
+        </a>
+       </sup>
+       <a href="/wiki/English_language" title="English language">
+        English
+       </a>
+       ,
+       <a href="/wiki/Thai_language" title="Thai language">
+        Thai
+       </a>
+       ,
+       <a href="/wiki/German_language" title="German language">
+        German
+       </a>
+       ,
+       <a href="/wiki/Russian_language" title="Russian language">
+        Russian
+       </a>
+       ,
+       <a href="/wiki/Danish_language" title="Danish language">
+        Danish
+       </a>
+       ,
+       <a href="/wiki/Swedish_language" title="Swedish language">
+        Swedish
+       </a>
+       ,
+       <a href="/wiki/Norwegian_language" title="Norwegian language">
+        Norwegian
+       </a>
+       ,
+       <a href="/wiki/Faroese_language" title="Faroese language">
+        Faroese
+       </a>
+       ,
+       <a href="/wiki/Dutch_language" title="Dutch language">
+        Dutch
+       </a>
+       , European
+       <a href="/wiki/Portuguese_language" title="Portuguese language">
+        Portuguese
+       </a>
+       ,
+       <sup class="reference" id="cite_ref-18">
+        <a href="#cite_note-18">
+         [18]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-19">
+        <a href="#cite_note-19">
+         [19]
+        </a>
+       </sup>
+       and
+       <a href="/wiki/Persian_language" title="Persian language">
+        Persian
+       </a>
+       are typical stress-timed languages.
+       <sup class="reference" id="cite_ref-20">
+        <a href="#cite_note-20">
+         [20]
+        </a>
+       </sup>
+       Some stress-timed languages, for example
+       <a href="/wiki/Arabic" title="Arabic">
+        Arabic
+       </a>
+       , retain unreduced vowels.
+       <sup class="reference" id="cite_ref-21">
+        <a href="#cite_note-21">
+         [21]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Degrees_of_durational_variability">
+        Degrees of durational variability
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Isochrony&amp;action=edit&amp;section=4" title="Edit section: Degrees of durational variability">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       Despite the relative simplicity of the classifications above, in the real world languages do not fit quite so easily into such precise categories. Languages exhibit degrees of durational variability both in relation to other languages and to other standards of the same language.
+       <sup class="reference" id="cite_ref-22">
+        <a href="#cite_note-22">
+         [22]
+        </a>
+       </sup>
+      </p>
+      <p>
+       There can be varying degrees of stress-timing within the various standards of a language. Some southern dialects of
+       <a href="/wiki/Italian_language" title="Italian language">
+        Italian
+       </a>
+       , a syllable-timed language, are effectively stress-timed.
+       <sup class="reference" id="cite_ref-23">
+        <a href="#cite_note-23">
+         [23]
+        </a>
+       </sup>
+       English, a stress-timed language, has become so widespread over the globe that some standards tend to be more syllable-timed than the
+       <a href="/wiki/British_English" title="British English">
+        British
+       </a>
+       or
+       <a href="/wiki/North_American_English" title="North American English">
+        North American
+       </a>
+       standards, an effect which comes from the influence of other languages spoken in the relevant region.
+       <a href="/wiki/Indian_English" title="Indian English">
+        Indian English
+       </a>
+       , for example, tends toward syllable-timing.
+       <sup class="reference" id="cite_ref-24">
+        <a href="#cite_note-24">
+         [24]
+        </a>
+       </sup>
+       This does not necessarily mean the language standard itself is to be classified as syllable-timed, of course, but rather that this feature is more pronounced. A subtle example is that to a native English speaker, for example, some accents from Wales may sound more syllable-timed.
+      </p>
+      <p>
+       A better-documented case of these varying degrees of stress-timing in a language comes from Portuguese.
+       <a href="/wiki/European_Portuguese" title="European Portuguese">
+        European Portuguese
+       </a>
+       is more stress-timed than the
+       <a href="/wiki/Brazilian_Portuguese" title="Brazilian Portuguese">
+        Brazilian standard
+       </a>
+       . The latter has mixed characteristics
+       <sup class="reference" id="cite_ref-25">
+        <a href="#cite_note-25">
+         [25]
+        </a>
+       </sup>
+       and varies according to speech rate, sex and dialect. At fast speech rates, Brazilian Portuguese is more stress-timed, while in slow speech rates, it can be more syllable-timed. The accents of rural, southern
+       <a href="/wiki/Rio_Grande_do_Sul" title="Rio Grande do Sul">
+        Rio Grande do Sul
+       </a>
+       and the
+       <a href="/wiki/Northeast_Region,_Brazil" title="Northeast Region, Brazil">
+        Northeast
+       </a>
+       (especially
+       <a href="/wiki/Bahia" title="Bahia">
+        Bahia
+       </a>
+       ) are considered to sound more syllable-timed than the others, while the southeastern dialects such as the
+       <i>
+        <a href="/wiki/Mineiro" title="Mineiro">
+         mineiro
+        </a>
+       </i>
+       , in central
+       <a href="/wiki/Minas_Gerais" title="Minas Gerais">
+        Minas Gerais
+       </a>
+       , the
+       <i>
+        paulistano
+       </i>
+       , of the northern coast and eastern regions of
+       <a href="/wiki/S%C3%A3o_Paulo_(state)" title="São Paulo (state)">
+        São Paulo
+       </a>
+       , and the
+       <i>
+        fluminense
+       </i>
+       , along
+       <a href="/wiki/Rio_de_Janeiro_(state)" title="Rio de Janeiro (state)">
+        Rio de Janeiro
+       </a>
+       ,
+       <a href="/wiki/Esp%C3%ADrito_Santo" title="Espírito Santo">
+        Espírito Santo
+       </a>
+       and
+       <a href="/wiki/Zona_da_Mata_(Minas_Gerais)" title="Zona da Mata (Minas Gerais)">
+        eastern Minas Gerais
+       </a>
+       as well the
+       <a class="mw-redirect" href="/wiki/Brazilian_Federal_District" title="Brazilian Federal District">
+        Federal District
+       </a>
+       , are most frequently essentially stress-timed. Also, male speakers of Brazilian Portuguese speak faster than female speakers and speak in a more stress-timed manner.
+       <sup class="reference" id="cite_ref-26">
+        <a href="#cite_note-26">
+         [26]
+        </a>
+       </sup>
+      </p>
+      <p>
+       Ladefoged has proposed (citing work by Grabe and Low
+       <sup class="reference" id="cite_ref-27">
+        <a href="#cite_note-27">
+         [27]
+        </a>
+       </sup>
+       ) that, since languages differ from each other in terms of the amount of difference between the durations of vowels in adjacent syllables, it is possible to calculate a Pairwise Variability Index (PVI) from measured vowel durations to quantify the differences. The data show that, for example, Dutch (traditionally classed as a stress-timed language) exhibits a higher PVI than Spanish (traditionally a syllable-timed language).
+       <sup class="reference" id="cite_ref-Ladefoged_7-1">
+        <a href="#cite_note-Ladefoged-7">
+         [7]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span id="The_stress-timing.E2.80.93syllable-timing_distinction_as_a_continuum">
+       </span>
+       <span class="mw-headline" id="The_stress-timing–syllable-timing_distinction_as_a_continuum">
+        The stress-timing–syllable-timing distinction as a continuum
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Isochrony&amp;action=edit&amp;section=5" title="Edit section: The stress-timing–syllable-timing distinction as a continuum">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       Given the lack of solid evidence for a clear-cut categorical distinction between the two rhythmical types, it seems reasonable to suggest instead that
+       <i>
+        all
+       </i>
+       languages (and all their accents) display
+       <i>
+        both
+       </i>
+       types of rhythm to a greater or lesser extent. T. F. Mitchell claimed that there is no language which is totally syllable-timed or totally stress-timed; rather, all languages display both sorts of timing. Languages will, however, differ in which type of timing predominates.
+       <sup class="reference" id="cite_ref-28">
+        <a href="#cite_note-28">
+         [28]
+        </a>
+       </sup>
+       This view was developed by Dauer
+       <sup class="reference" id="cite_ref-29">
+        <a href="#cite_note-29">
+         [29]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-30">
+        <a href="#cite_note-30">
+         [30]
+        </a>
+       </sup>
+       in such a way that a metric was provided allowing researchers to place any language on a scale from maximally stress-timed to maximally syllable-timed. Examples of this approach in use are Dimitrova's study of Bulgarian
+       <sup class="reference" id="cite_ref-31">
+        <a href="#cite_note-31">
+         [31]
+        </a>
+       </sup>
+       and Olivo's study of the rhythm of Ashanti Twi.
+       <sup class="reference" id="cite_ref-32">
+        <a href="#cite_note-32">
+         [32]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="See_also">
+        See also
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Isochrony&amp;action=edit&amp;section=6" title="Edit section: See also">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a href="/wiki/Stress_and_vowel_reduction_in_English" title="Stress and vowel reduction in English">
+         Stress and vowel reduction in English
+        </a>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="References">
+        References
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Isochrony&amp;action=edit&amp;section=7" title="Edit section: References">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="reflist" style="list-style-type: decimal;">
+       <div class="mw-references-wrap mw-references-columns">
+        <ol class="references">
+         <li id="cite_note-1">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-1">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation book">
+            Wells, John (2006).
+            <i>
+             English Intonation: An Introduction
+            </i>
+            . Cambridge University Press. p. 3.
+            <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+             ISBN
+            </a>
+            <a href="/wiki/Special:BookSources/0-521-68380-7" title="Special:BookSources/0-521-68380-7">
+             0-521-68380-7
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=English+Intonation%3A+An+Introduction&amp;rft.pages=3&amp;rft.pub=Cambridge+University+Press&amp;rft.date=2006&amp;rft.isbn=0-521-68380-7&amp;rft.aulast=Wells&amp;rft.aufirst=John&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIsochrony">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-2">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-2">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation book">
+            Abercrombie, David (1967).
+            <i>
+             Elements of General Phonetics
+            </i>
+            . Edinburgh U.P. p. 97.
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Elements+of+General+Phonetics&amp;rft.pages=97&amp;rft.pub=Edinburgh+U.P.&amp;rft.date=1967&amp;rft.aulast=Abercrombie&amp;rft.aufirst=David&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIsochrony">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-3">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-3">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a href="/wiki/Mark_Liberman" title="Mark Liberman">
+             Mark Liberman
+            </a>
+            (May 5, 2008).
+            <a class="external text" href="http://languagelog.ldc.upenn.edu/nll/?p=124" rel="nofollow">
+             "Slicing the syllabic bologna"
+            </a>
+            .
+            <i>
+             <a href="/wiki/Language_Log" title="Language Log">
+              Language Log
+             </a>
+            </i>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Language+Log&amp;rft.atitle=Slicing+the+syllabic+bologna&amp;rft.date=2008-05-05&amp;rft.au=Mark+Liberman&amp;rft_id=http%3A%2F%2Flanguagelog.ldc.upenn.edu%2Fnll%2F%3Fp%3D124&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIsochrony">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-4">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-4">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            Mark Liberman (May 6, 2008).
+            <a class="external text" href="http://languagelog.ldc.upenn.edu/nll/?p=126" rel="nofollow">
+             "Another slice of prosodic sausage"
+            </a>
+            .
+            <i>
+             <a href="/wiki/Language_Log" title="Language Log">
+              Language Log
+             </a>
+            </i>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Language+Log&amp;rft.atitle=Another+slice+of+prosodic+sausage&amp;rft.date=2008-05-06&amp;rft.au=Mark+Liberman&amp;rft_id=http%3A%2F%2Flanguagelog.ldc.upenn.edu%2Fnll%2F%3Fp%3D126&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIsochrony">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-5">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-5">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            Antonio Pamies Bertrán.
+            <a class="external text" href="http://elies.rediris.es/Language_Design/LD2/pamies.pdf" rel="nofollow">
+             "Prosodic Typology: On the Dichotomy between Stress-Timed and Syllable-Timed Languages"
+            </a>
+            <span style="font-size:85%;">
+             (PDF)
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Prosodic+Typology%3A+On+the+Dichotomy+between+Stress-Timed+and+Syllable-Timed+Languages&amp;rft.au=Antonio+Pamies+Bertr%C3%A1n&amp;rft_id=http%3A%2F%2Felies.rediris.es%2FLanguage_Design%2FLD2%2Fpamies.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIsochrony">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-6">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-6">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           Roach, Peter (1982) 'On the distinction between "stress-timed" and "syllable-timed languages", in David Crystal (ed)
+           <i>
+            Linguistic Controversies
+           </i>
+           , Arnold, pp 73-9,
+           <a class="external free" href="http://www.personal.reading.ac.uk/~llsroach/phon2/frp.pdf" rel="nofollow">
+            http://www.personal.reading.ac.uk/~llsroach/phon2/frp.pdf
+           </a>
+          </span>
+         </li>
+         <li id="cite_note-Ladefoged-7">
+          <span class="mw-cite-backlink">
+           ^
+           <a href="#cite_ref-Ladefoged_7-0">
+            <sup>
+             <i>
+              <b>
+               a
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-Ladefoged_7-1">
+            <sup>
+             <i>
+              <b>
+               b
+              </b>
+             </i>
+            </sup>
+           </a>
+          </span>
+          <span class="reference-text">
+           <cite class="citation book">
+            Ladefoged, Peter (2006).
+            <i>
+             A Course in Phonetics
+            </i>
+            (5th ed.). Thomson. pp. 245–247.
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=A+Course+in+Phonetics&amp;rft.pages=245-247&amp;rft.edition=5th&amp;rft.pub=Thomson&amp;rft.date=2006&amp;rft.aulast=Ladefoged&amp;rft.aufirst=Peter&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIsochrony">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-8">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-8">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Mok, Peggy (2009).
+            <a class="external text" href="http://www.cuhk.edu.hk/lin/people/peggy/MOK_PCC2008.pdf" rel="nofollow">
+             "On the syllable-timing of Cantonese and Beijing Mandarin"
+            </a>
+            <span style="font-size:85%;">
+             (PDF)
+            </span>
+            .
+            <i>
+             Chinese Journal of Phonetics
+            </i>
+            .
+            <b>
+             2
+            </b>
+            : 148–154.
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Chinese+Journal+of+Phonetics&amp;rft.atitle=On+the+syllable-timing+of+Cantonese+and+Beijing+Mandarin&amp;rft.volume=2&amp;rft.pages=148-154&amp;rft.date=2009&amp;rft.aulast=Mok&amp;rft.aufirst=Peggy&amp;rft_id=http%3A%2F%2Fwww.cuhk.edu.hk%2Flin%2Fpeople%2Fpeggy%2FMOK_PCC2008.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIsochrony">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-9">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-9">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            George Keretchashvili (May 5, 2008).
+            <a class="external text" href="http://www.omniglot.com/soundfiles/udhr/udhr_ka.mp3" rel="nofollow">
+             "Recording in Georgian at Omniglot"
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Recording+in+Georgian+at+Omniglot&amp;rft.date=2008-05-05&amp;rft.au=George+Keretchashvili&amp;rft_id=http%3A%2F%2Fwww.omniglot.com%2Fsoundfiles%2Fudhr%2Fudhr_ka.mp3&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIsochrony">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-10">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-10">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Mirakyan, Norayr (2016).
+            <a class="external text" href="http://www.ysu.am/files/SSS_BookCollect_3_2016,%20pp.%2091-96.pdf" rel="nofollow">
+             "The Implications of Prosodic Differences Between English and Armenian"
+            </a>
+            <span style="font-size:85%;">
+             (PDF)
+            </span>
+            .
+            <i>
+             Collection of Scientific Articles of YSU SSS
+            </i>
+            . YSU Press.
+            <b>
+             1.3
+            </b>
+            (13): pp. 91–96.
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Collection+of+Scientific+Articles+of+YSU+SSS&amp;rft.atitle=The+Implications+of+Prosodic+Differences+Between+English+and+Armenian&amp;rft.volume=1.3&amp;rft.issue=13&amp;rft.pages=pp.+91-96&amp;rft.date=2016&amp;rft.aulast=Mirakyan&amp;rft.aufirst=Norayr&amp;rft_id=http%3A%2F%2Fwww.ysu.am%2Ffiles%2FSSS_BookCollect_3_2016%2C%2520pp.%252091-96.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIsochrony">
+            <span style="display:none;">
+            </span>
+           </span>
+           <span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">
+            CS1 maint: Extra text (
+            <a href="/wiki/Category:CS1_maint:_Extra_text" title="Category:CS1 maint: Extra text">
+             link
+            </a>
+            )
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-11">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-11">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <a class="external autonumber" href="http://www.icphs2007.de/conference/Papers/1585/1585.pdf" rel="nofollow">
+            [1]
+           </a>
+           Timing patterns in Welsh, Gibbon &amp; Williams, 2007
+          </span>
+         </li>
+         <li id="cite_note-12">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-12">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation book">
+            Clark John, Yallop Collin, Fletcher Janet (2007).
+            <i>
+             Introduction to Phonetics and Phonology
+            </i>
+            . Oxford: Blackwell. pp. (pp)340.
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Introduction+to+Phonetics+and+Phonology&amp;rft.place=Oxford&amp;rft.pages=%28pp%29340&amp;rft.pub=Blackwell&amp;rft.date=2007&amp;rft.aulast=Clark+John&amp;rft.aufirst=Yallop+Collin%2C+Fletcher+Janet&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIsochrony">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-13">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-13">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <a class="external text" href="https://www.jstor.org/stable/412064" rel="nofollow">
+            The Inflectional Accent in Indo-European
+           </a>
+           . Paul Kiparsky.
+           <i>
+            Language
+           </i>
+           . Vol. 49, No. 4 (Dec., 1973), pp. 794–849.
+           <a href="/wiki/Linguistic_Society_of_America" title="Linguistic Society of America">
+            Linguistic Society of America
+           </a>
+           .
+          </span>
+         </li>
+         <li id="cite_note-14">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-14">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation book">
+            <a class="mw-redirect" href="/wiki/Charles_Phillip_Brown" title="Charles Phillip Brown">
+             Brown, Charles Phillip
+            </a>
+            (1869).
+            <a class="external text" href="https://books.google.com/books?id=m7UIAAAAQAAJ" rel="nofollow">
+             <i>
+              Sanskrit Prosody and Numerical Symbols Explained
+             </i>
+            </a>
+            . Trübner &amp; Company.
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Sanskrit+Prosody+and+Numerical+Symbols+Explained&amp;rft.pub=Tr%C3%BCbner+%26+Company&amp;rft.date=1869&amp;rft.aulast=Brown&amp;rft.aufirst=Charles+Phillip&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3Dm7UIAAAAQAAJ&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIsochrony">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-15">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-15">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation book">
+            Collins, B.; Mees, I. (2013) [First published 2003].
+            <a class="external text" href="https://books.google.com/books?id=faVJTQIw9eQC" rel="nofollow">
+             <i>
+              Practical Phonetics and Phonology: A Resource Book for Students
+             </i>
+            </a>
+            (3rd ed.). Routledge. pp. 135–138.
+            <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+             ISBN
+            </a>
+            <a href="/wiki/Special:BookSources/978-0-415-50650-2" title="Special:BookSources/978-0-415-50650-2">
+             978-0-415-50650-2
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Practical+Phonetics+and+Phonology%3A+A+Resource+Book+for+Students&amp;rft.pages=135-138&amp;rft.edition=3rd&amp;rft.pub=Routledge&amp;rft.date=2013&amp;rft.isbn=978-0-415-50650-2&amp;rft.aulast=Collins&amp;rft.aufirst=B.&amp;rft.au=Mees%2C+I.&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DfaVJTQIw9eQC&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIsochrony">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-16">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-16">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation" id="CITEREFGimson1989">
+            Gimson, A.C. (1989),
+            <i>
+             An Introduction to the Pronunciation of English
+            </i>
+            (4th ed.), London: Edward Arnold
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=An+Introduction+to+the+Pronunciation+of+English&amp;rft.place=London&amp;rft.edition=4th&amp;rft.pub=Edward+Arnold&amp;rft.date=1989&amp;rft.aulast=Gimson&amp;rft.aufirst=A.C.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIsochrony">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-17">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-17">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation" id="CITEREFKohler1995">
+            Kohler, K.J. (1995),
+            <i>
+             Einführung in die Phonetik des Deutschen
+            </i>
+            (in German) (2nd ed.), Berlin: Erich Schmidt Verlag
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Einf%C3%BChrung+in+die+Phonetik+des+Deutschen&amp;rft.place=Berlin&amp;rft.edition=2nd&amp;rft.pub=Erich+Schmidt+Verlag&amp;rft.date=1995&amp;rft.aulast=Kohler&amp;rft.aufirst=K.J.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIsochrony">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-18">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-18">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           Azevedo, Milton Mariano. 2005. Portuguese: a linguistic introduction. P.54
+          </span>
+         </li>
+         <li id="cite_note-19">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-19">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           Silva, David James. 1994.
+           <a class="external text" href="http://dspace.uta.edu/bitstream/handle/10106/1188/79-94-Silva.pdf?sequence=1" rel="nofollow">
+            The Variable Elision of Unstressed Vowels in European Portuguese: A Case Study
+           </a>
+          </span>
+         </li>
+         <li id="cite_note-20">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-20">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           Grabe, Esther, "Variation Adds to Prosodic Typology", B.Bel and I. Marlin (eds), Proceedings of the Speech Prosody 2002 Conference, 11–13 April 2002, Aix-en-Provence: Laboratoire Parole et Langage, 127-132.
+           <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+            ISBN
+           </a>
+           <a href="/wiki/Special:BookSources/2-9518233-0-4" title="Special:BookSources/2-9518233-0-4">
+            2-9518233-0-4
+           </a>
+           . (
+           <a class="external text" href="http://www.phon.ox.ac.uk/~esther/Grabe.doc" rel="nofollow">
+            .doc
+           </a>
+           )
+          </span>
+         </li>
+         <li id="cite_note-21">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-21">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           Kenworthy, J. (1987). Teaching English pronunciation. Oxford: Oxford University Press.
+          </span>
+         </li>
+         <li id="cite_note-22">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-22">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <a class="external autonumber" href="http://gibbon.homedns.org/dozy-htdocs/AK-Phon/Rhythmus/Grabe/Grabe_Low-reformatted.pdf" rel="nofollow">
+            [2]
+           </a>
+           Durational Variability, Low &amp; Grabe
+          </span>
+         </li>
+         <li id="cite_note-23">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-23">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           Grice, M.; D’Imperio, M.; Savino, M.; Avesani, C., 1998. "Strategies for intonation labelling across varieties of Italian" in Hirst, D. ; Di Christo, A., 1998.
+           <i>
+            Intonation Systems
+           </i>
+           . Cambridge University Press.
+          </span>
+         </li>
+         <li id="cite_note-24">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-24">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           UTA Working Papers in Linguistics. ed. Susan C. Herring and John C. Paolillo. P.83
+          </span>
+         </li>
+         <li id="cite_note-25">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-25">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <a class="external text" href="http://www.scielo.br/scielo.php?pid=S0102-44502000000200007&amp;script=sci_arttext&amp;tlng=en" rel="nofollow">
+            Bisol, leda
+           </a>
+           ,
+           <a class="mw-redirect" href="/wiki/PUCRS" title="PUCRS">
+            PUCRS
+           </a>
+           – O Troqueu Silábico no Sistema Fonológico (Um Adendo ao Artigo de Plínio Barbosa)
+          </span>
+         </li>
+         <li id="cite_note-26">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-26">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           Meireles, Alexsandro R.; Tozetti1, João Paulo; Borges, Rogério R.;
+           <a class="external text" href="http://speechprosody2010.illinois.edu/papers/100875.pdf" rel="nofollow">
+            Speech rate and rhythmic variation in Brazilian Portuguese
+           </a>
+           ; Phonetics Laboratory, Federal University of Espírito Santo, Speech Prosody Studies Group, Brazil
+          </span>
+         </li>
+         <li id="cite_note-27">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-27">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           E. Grabe and E.L. Low (2000) "Durational Variability in Speech and the Rhythm Class Hypothesis",
+           <i>
+            Papers in Laboratory Phonology
+           </i>
+           7 (The Hague, Mouton)
+          </span>
+         </li>
+         <li id="cite_note-28">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-28">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           Mitchell, T. F. (1969), review of Abercrombie (1967),
+           <i>
+            Journal of Linguistics
+           </i>
+           5, 153–164
+          </span>
+         </li>
+         <li id="cite_note-29">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-29">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           Dauer, R. (1983) Stress-timing and syllable-timing reanalyzed,
+           <i>
+            Journal of Phonetics
+           </i>
+           11, 51–62
+          </span>
+         </li>
+         <li id="cite_note-30">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-30">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           Dauer, R. (1987) Phonetic and phonological components of rhythm,
+           <i>
+            Proceedings of the XI Congress of Phonetic Sciences, 447–450
+           </i>
+          </span>
+         </li>
+         <li id="cite_note-31">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-31">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           Dimitrova, S. (1998) "Bulgarian speech rhythm - Syllable-timed or stress-timed?",
+           <i>
+            Journal of the International Phonetic Association
+           </i>
+           27, 27–33,
+           <a class="external free" href="http://www.personal.reading.ac.uk/~llsroach/phon2/sdjipa.htm" rel="nofollow">
+            http://www.personal.reading.ac.uk/~llsroach/phon2/sdjipa.htm
+           </a>
+          </span>
+         </li>
+         <li id="cite_note-32">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-32">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           Olivo, A. M. (2011) Exploring the speech rhythm continuum: evidence from Ashanti Twi,
+           <i>
+            Journal of Speech Sciences
+           </i>
+           1(2), 3–15;
+           <a class="external free" href="http://www.journalofspeechsciences.org/index.php/journalofspeechsciences/article/view/27/12" rel="nofollow">
+            http://www.journalofspeechsciences.org/index.php/journalofspeechsciences/article/view/27/12
+           </a>
+          </span>
+         </li>
+        </ol>
+       </div>
+      </div>
+      <h2>
+       <span class="mw-headline" id="Further_reading">
+        Further reading
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Isochrony&amp;action=edit&amp;section=8" title="Edit section: Further reading">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        Kono, Morio. (1997). "Perception and Psychology of Rhythm."
+        <i>
+         Accent, Intonation, Rhythm and Pause
+        </i>
+        . (Japanese)
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="External_links">
+        External links
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Isochrony&amp;action=edit&amp;section=9" title="Edit section: External links">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        Roach, Peter (1998).
+        <a class="external text" href="http://www.personal.rdg.ac.uk/~llsroach/phon2/tempopr.htm" rel="nofollow">
+         <i>
+          Language Myths
+         </i>
+         , “Some Languages are Spoken More Quickly Than Others”
+        </a>
+        , eds. L. Bauer and P. Trudgill, Penguin, 1998, pp. 150–8
+       </li>
+       <li>
+        <a class="external text" href="http://www.lscp.net/persons/ramus/docs/idlang99.pdf" rel="nofollow">
+         Étude sur la discrimination des langues par la prosodie (pdf document)
+        </a>
+        (
+        <a href="/wiki/French_language" title="French language">
+         French
+        </a>
+        )
+       </li>
+       <li>
+        <a class="external text" href="http://www.physik.uni-bielefeld.de/complexity/ramus.pdf" rel="nofollow">
+         Languages’ rhythm and language acquisition (pdf document)
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://thormay.net/lxesl/tesol/intonation/intonation1.htm" rel="nofollow">
+         Supra-segmental Phonology (rhythm, intonation and stress-timing)
+        </a>
+       </li>
+      </ul>
+      <div aria-labelledby="Suprasegmentals" class="navbox" role="navigation" style="text-align:left;;padding:3px">
+       <table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tr>
+         <th class="navbox-title" colspan="2" scope="col">
+          <div class="plainlinks hlist navbar mini">
+           <ul>
+            <li class="nv-view">
+             <a href="/wiki/Template:Suprasegmentals" title="Template:Suprasegmentals">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">
+               v
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-talk">
+             <a href="/wiki/Template_talk:Suprasegmentals" title="Template talk:Suprasegmentals">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">
+               t
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-edit">
+             <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Suprasegmentals&amp;action=edit">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">
+               e
+              </abbr>
+             </a>
+            </li>
+           </ul>
+          </div>
+          <div id="Suprasegmentals" style="font-size:114%;margin:0 4em">
+           <a href="/wiki/Suprasegmentals" title="Suprasegmentals">
+            Suprasegmentals
+           </a>
+          </div>
+         </th>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%;background:lavender;">
+          <a class="mw-selflink selflink">
+           Timing
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Syllable" title="Syllable">
+              Syllable
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Mora_(linguistics)" title="Mora (linguistics)">
+              Mora
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Foot_(prosody)" title="Foot (prosody)">
+              Metrical foot
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Vowel_reduction" title="Vowel reduction">
+              Vowel reduction
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%;background:lavender;">
+          <a href="/wiki/Tone_(linguistics)" title="Tone (linguistics)">
+           Tone
+          </a>
+         </th>
+         <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Tone_contour" title="Tone contour">
+              Tone contour
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Pitch_accent" title="Pitch accent">
+              Pitch accent
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Register_(phonology)" title="Register (phonology)">
+              Register
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Downstep" title="Downstep">
+              Downstep
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Upstep" title="Upstep">
+              Upstep
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Downdrift" title="Downdrift">
+              Downdrift
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Tone_terracing" title="Tone terracing">
+              Tone terracing
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Floating_tone" title="Floating tone">
+              Floating tone
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Tone_sandhi" title="Tone sandhi">
+              Tone sandhi
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Tone_letter" title="Tone letter">
+              Tone letter
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%;background:lavender;">
+          <a href="/wiki/Stress_(linguistics)" title="Stress (linguistics)">
+           Stress
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Secondary_stress" title="Secondary stress">
+              Secondary stress
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Vowel_reduction" title="Vowel reduction">
+              Vowel reduction
+             </a>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/Accent_(phonetics)" title="Accent (phonetics)">
+              Accent
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%;background:lavender;">
+          <a href="/wiki/Length_(phonetics)" title="Length (phonetics)">
+           Length
+          </a>
+         </th>
+         <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Chroneme" title="Chroneme">
+              Chroneme
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Gemination" title="Gemination">
+              Gemination
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Vowel_length" title="Vowel length">
+              Vowel length
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Extra-short" title="Extra-short">
+              Extra-short
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%;background:lavender;">
+          <a href="/wiki/Prosody_(linguistics)" title="Prosody (linguistics)">
+           Prosody
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Intonation_(linguistics)" title="Intonation (linguistics)">
+              Intonation
+             </a>
+             (pitch)
+            </li>
+            <li>
+             <a href="/wiki/Pitch_contour" title="Pitch contour">
+              Pitch contour
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Pitch_reset" title="Pitch reset">
+              Pitch reset
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Stress_(linguistics)" title="Stress (linguistics)">
+              Stress
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Rhythm#Rhythm_in_linguistics" title="Rhythm">
+              Rhythm
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Loudness" title="Loudness">
+              Loudness
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Prosodic_unit" title="Prosodic unit">
+              Prosodic unit
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Pausa" title="Pausa">
+              Pausa
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+       </table>
+      </div>
+      <!-- 
+NewPP limit report
+Parsed by mw1330
+Cached time: 20180123103420
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.216 seconds
+Real time usage: 0.268 seconds
+Preprocessor visited node count: 1284/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 31861/2097152 bytes
+Template argument size: 947/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 1/500
+Lua time usage: 0.098/10.000 seconds
+Lua memory usage: 3.62 MB/50 MB
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  232.723      1 -total
+ 61.05%  142.085      1 Template:Reflist
+ 25.03%   58.246      1 Template:Citation_needed
+ 22.23%   51.739      6 Template:Cite_book
+ 18.29%   42.576      1 Template:Fix
+ 12.00%   27.926      2 Template:Category_handler
+ 11.04%   25.683      1 Template:ISBN
+  7.62%   17.737      2 Template:Citation
+  5.86%   13.631      4 Template:Cite_web
+  5.15%   11.991      1 Template:Delink
+-->
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:576159-0!canonical and timestamp 20180123103420 and revision id 808232228
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Isochrony&amp;oldid=808232228">
+      https://en.wikipedia.org/w/index.php?title=Isochrony&amp;oldid=808232228
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Phonetics" title="Category:Phonetics">
+         Phonetics
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Rhythm_and_meter" title="Category:Rhythm and meter">
+         Rhythm and meter
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:CS1_maint:_Extra_text" title="Category:CS1 maint: Extra text">
+         CS1 maint: Extra text
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:CS1_German-language_sources_(de)" title="Category:CS1 German-language sources (de)">
+         CS1 German-language sources (de)
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">
+         All articles with unsourced statements
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_with_unsourced_statements_from_May_2013" title="Category:Articles with unsourced statements from May 2013">
+         Articles with unsourced statements from May 2013
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Isochrony" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Isochrony" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Isochrony" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Isochrony" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="collapsible selected" id="ca-view">
+        <span>
+         <a href="/wiki/Isochrony">
+          Read
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Isochrony&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Isochrony&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Isochrony" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Isochrony" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Isochrony&amp;oldid=808232228" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Isochrony&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q968561" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Isochrony&amp;id=808232228" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Isochrony">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Isochrony&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Isochrony&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-ar">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%AA%D8%B5%D9%86%D9%8A%D9%81_%D8%A7%D9%84%D9%84%D8%BA%D8%A7%D8%AA_%D8%A5%D9%8A%D9%82%D8%A7%D8%B9%D9%8A%D8%A7" hreflang="ar" lang="ar" title="تصنيف اللغات إيقاعيا – Arabic">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-br">
+        <a class="interlanguage-link-target" href="https://br.wikipedia.org/wiki/Mentadur_(yezhoniezh)" hreflang="br" lang="br" title="Mentadur (yezhoniezh) – Breton">
+         Brezhoneg
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Sprechrhythmus" hreflang="de" lang="de" title="Sprechrhythmus – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Isocronia_(linguistica)" hreflang="it" lang="it" title="Isocronia (linguistica) – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lt">
+        <a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Izochronija" hreflang="lt" lang="lt" title="Izochronija – Lithuanian">
+         Lietuvių
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Isocronia_(lingu%C3%ADstica)" hreflang="pt" lang="pt" title="Isocronia (linguística) – Portuguese">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sco">
+        <a class="interlanguage-link-target" href="https://sco.wikipedia.org/wiki/Isochrony" hreflang="sco" lang="sco" title="Isochrony – Scots">
+         Scots
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q968561#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 1 November 2017, at 17:34.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Isochrony&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.216","walltime":"0.268","ppvisitednodes":{"value":1284,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":31861,"limit":2097152},"templateargumentsize":{"value":947,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  232.723      1 -total"," 61.05%  142.085      1 Template:Reflist"," 25.03%   58.246      1 Template:Citation_needed"," 22.23%   51.739      6 Template:Cite_book"," 18.29%   42.576      1 Template:Fix"," 12.00%   27.926      2 Template:Category_handler"," 11.04%   25.683      1 Template:ISBN","  7.62%   17.737      2 Template:Citation","  5.86%   13.631      4 Template:Cite_web","  5.15%   11.991      1 Template:Delink"]},"scribunto":{"limitreport-timeusage":{"value":"0.098","limit":"10.000"},"limitreport-memusage":{"value":3793651,"limit":52428800}},"cachereport":{"origin":"mw1330","timestamp":"20180123103420","ttl":1900800,"transientcontent":false}}});});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":72,"wgHostname":"mw1321"});});
+  </script>
+ </body>
+</html>

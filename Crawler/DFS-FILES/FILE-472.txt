@@ -1,0 +1,5109 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Pragmatics - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Pragmatics","wgTitle":"Pragmatics","wgCurRevisionId":805807223,"wgRevisionId":805807223,"wgArticleId":44816,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from April 2009","All articles needing additional references","Pragmatics","Semiotics"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Pragmatics","wgRelevantArticleId":44816,"wgRequestId":"Wmj46wpAMFUAAHjn8wcAAABW","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q181839","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.31.0-wmf.17" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Pragmatics" rel="alternate"/>
+  <link href="/w/index.php?title=Pragmatics&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Pragmatics&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/Pragmatics" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Pragmatics rootpage-Pragmatics skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Pragmatics
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <div class="hatnote navigation-not-searchable" role="note">
+       This article is about the subfield of linguistics. For other uses, see
+       <a class="mw-redirect mw-disambig" href="/wiki/Pragmatic_(disambiguation)" title="Pragmatic (disambiguation)">
+        Pragmatic
+       </a>
+       .
+      </div>
+      <table class="vertical-navbox nowraplinks plainlist" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+       <tr>
+        <th style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em;padding-bottom:0.5em;">
+         <a href="/wiki/Linguistics" title="Linguistics">
+          Linguistics
+         </a>
+        </th>
+       </tr>
+       <tr>
+        <th style="padding:0.1em;background:#ddf;">
+         <a href="/wiki/Theoretical_linguistics" title="Theoretical linguistics">
+          Theoretical
+         </a>
+        </th>
+       </tr>
+       <tr>
+        <td style="padding:0 0.1em 0.4em;padding:0.2em 0.5em 0.8em;">
+         <div class="hlist">
+          <ul>
+           <li>
+            <a href="/wiki/Cognitive_linguistics" title="Cognitive linguistics">
+             Cognitive
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Constraint-based_grammar" title="Constraint-based grammar">
+             Constraint-based
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Generative_grammar" title="Generative grammar">
+             Generative
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Structural_linguistics" title="Structural linguistics">
+             Structuralist
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Quantitative_linguistics" title="Quantitative linguistics">
+             Quantitative
+            </a>
+           </li>
+          </ul>
+         </div>
+         <ul>
+          <li>
+           <a href="/wiki/Functional_theories_of_grammar" title="Functional theories of grammar">
+            Functional theories of grammar
+           </a>
+          </li>
+         </ul>
+         <div class="hlist">
+          <ul>
+           <li>
+            <a href="/wiki/Phonology" title="Phonology">
+             Phonology
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Morphology_(linguistics)" title="Morphology (linguistics)">
+             Morphology
+            </a>
+           </li>
+           <li>
+            <br/>
+            <a href="/wiki/Morphophonology" title="Morphophonology">
+             Morphophonology
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Syntax" title="Syntax">
+             Syntax
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Lexis_(linguistics)" title="Lexis (linguistics)">
+             Lexis
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Semantics" title="Semantics">
+             Semantics
+            </a>
+           </li>
+           <li>
+            <a class="mw-selflink selflink">
+             Pragmatics
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Graphemics" title="Graphemics">
+             Graphemics
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Orthography" title="Orthography">
+             Orthography
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Semiotics" title="Semiotics">
+             Semiotics
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr>
+        <th style="padding:0.1em;background:#ddf;">
+         <a href="/wiki/Linguistic_description" title="Linguistic description">
+          Descriptive
+         </a>
+        </th>
+       </tr>
+       <tr>
+        <td style="padding:0 0.1em 0.4em;padding:0.2em 0.5em 0.8em;">
+         <div class="hlist">
+          <ul>
+           <li>
+            <a href="/wiki/Anthropological_linguistics" title="Anthropological linguistics">
+             Anthropological
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Comparative_linguistics" title="Comparative linguistics">
+             Comparative
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Historical_linguistics" title="Historical linguistics">
+             Historical
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Etymology" title="Etymology">
+             Etymology
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Graphetics" title="Graphetics">
+             Graphetics
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Phonetics" title="Phonetics">
+             Phonetics
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sociolinguistics" title="Sociolinguistics">
+             Sociolinguistics
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Cherology" title="Cherology">
+             Cherology
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr>
+        <th style="padding:0.1em;background:#ddf;">
+         <a href="/wiki/Applied_linguistics" title="Applied linguistics">
+          Applied
+         </a>
+         and experimental
+        </th>
+       </tr>
+       <tr>
+        <td style="padding:0 0.1em 0.4em;padding:0.2em 0.5em 0.8em;">
+         <div class="hlist">
+          <ul>
+           <li>
+            <a href="/wiki/Computational_linguistics" title="Computational linguistics">
+             Computational
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Contrastive_linguistics" title="Contrastive linguistics">
+             Contrastive
+            </a>
+           </li>
+           <li>
+            <br/>
+            <a href="/wiki/Evolutionary_linguistics" title="Evolutionary linguistics">
+             Evolutionary
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Forensic_linguistics" title="Forensic linguistics">
+             Forensic
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Internet_linguistics" title="Internet linguistics">
+             Internet
+            </a>
+           </li>
+          </ul>
+         </div>
+         <ul>
+          <li>
+           <a href="/wiki/Language_acquisition" title="Language acquisition">
+            Language acquisition
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Second-language_acquisition" title="Second-language acquisition">
+            Second-language acquisition
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Language_assessment" title="Language assessment">
+            Language assessment
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Language_development" title="Language development">
+            Language development
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Language_education" title="Language education">
+            Language education
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Linguistic_anthropology" title="Linguistic anthropology">
+            Linguistic anthropology
+           </a>
+          </li>
+         </ul>
+         <div class="hlist">
+          <ul>
+           <li>
+            <a href="/wiki/Neurolinguistics" title="Neurolinguistics">
+             Neurolinguistics
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Psycholinguistics" title="Psycholinguistics">
+             Psycholinguistics
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr>
+        <th style="padding:0.1em;background:#ddf;">
+         Related articles
+        </th>
+       </tr>
+       <tr>
+        <td style="padding:0 0.1em 0.4em;padding:0.2em 0.5em 0.8em;">
+         <ul>
+          <li>
+           <a href="/wiki/History_of_linguistics" title="History of linguistics">
+            History of linguistics
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Linguistic_prescription" title="Linguistic prescription">
+            Linguistic prescription
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/List_of_linguists" title="List of linguists">
+            List of linguists
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/List_of_unsolved_problems_in_linguistics" title="List of unsolved problems in linguistics">
+            Unsolved linguistics problems
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Origin_of_language" title="Origin of language">
+            Origin of language
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Origin_of_speech" title="Origin of speech">
+            Origin of speech
+           </a>
+          </li>
+         </ul>
+        </td>
+       </tr>
+       <tr>
+        <td style="padding:0.3em 0.4em 0.3em;font-weight:bold;background:#ddf;">
+         <a href="/wiki/Portal:Linguistics" title="Portal:Linguistics">
+          Linguistics portal
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td style="text-align:right;font-size:115%">
+         <div class="plainlinks hlist navbar mini">
+          <ul>
+           <li class="nv-view">
+            <a href="/wiki/Template:Linguistics" title="Template:Linguistics">
+             <abbr title="View this template">
+              v
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-talk">
+            <a href="/wiki/Template_talk:Linguistics" title="Template talk:Linguistics">
+             <abbr title="Discuss this template">
+              t
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-edit">
+            <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Linguistics&amp;action=edit">
+             <abbr title="Edit this template">
+              e
+             </abbr>
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+      </table>
+      <p>
+       <b>
+        Pragmatics
+       </b>
+       is a subfield of
+       <a href="/wiki/Linguistics" title="Linguistics">
+        linguistics
+       </a>
+       and
+       <a href="/wiki/Semiotics" title="Semiotics">
+        semiotics
+       </a>
+       that studies the ways in which
+       <a href="/wiki/Context_(language_use)" title="Context (language use)">
+        context
+       </a>
+       contributes to meaning. Pragmatics encompasses
+       <a href="/wiki/Speech_act" title="Speech act">
+        speech act
+       </a>
+       theory, conversational
+       <a href="/wiki/Implicature" title="Implicature">
+        implicature
+       </a>
+       ,
+       <a href="/wiki/Conversation_analysis" title="Conversation analysis">
+        talk in interaction
+       </a>
+       and other approaches to language behavior in
+       <a href="/wiki/Philosophy_of_language" title="Philosophy of language">
+        philosophy
+       </a>
+       ,
+       <a href="/wiki/Sociology_of_language" title="Sociology of language">
+        sociology
+       </a>
+       ,
+       <a href="/wiki/Linguistics" title="Linguistics">
+        linguistics
+       </a>
+       and
+       <a href="/wiki/Anthropology" title="Anthropology">
+        anthropology
+       </a>
+       .
+       <sup class="reference" id="cite_ref-Mey_1-0">
+        <a href="#cite_note-Mey-1">
+         [1]
+        </a>
+       </sup>
+       Unlike
+       <a href="/wiki/Semantics" title="Semantics">
+        semantics
+       </a>
+       , which examines meaning that is conventional or "coded" in a given language, pragmatics studies how the transmission of meaning depends not only on structural and linguistic knowledge (e.g.,
+       <a href="/wiki/Grammar" title="Grammar">
+        grammar
+       </a>
+       ,
+       <a href="/wiki/Lexicon" title="Lexicon">
+        lexicon
+       </a>
+       , etc.) of the speaker and listener, but also on the context of the utterance,
+       <sup class="reference" id="cite_ref-2">
+        <a href="#cite_note-2">
+         [2]
+        </a>
+       </sup>
+       any pre-existing knowledge about those involved, the inferred
+       <a href="/wiki/Intention" title="Intention">
+        intent
+       </a>
+       of the speaker, and other factors.
+       <sup class="reference" id="cite_ref-3">
+        <a href="#cite_note-3">
+         [3]
+        </a>
+       </sup>
+       In this respect, pragmatics explains how language users are able to overcome apparent
+       <a href="/wiki/Ambiguity" title="Ambiguity">
+        ambiguity
+       </a>
+       , since meaning relies on the manner, place, time etc. of an utterance.
+       <sup class="reference" id="cite_ref-Mey_1-1">
+        <a href="#cite_note-Mey-1">
+         [1]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-4">
+        <a href="#cite_note-4">
+         [4]
+        </a>
+       </sup>
+      </p>
+      <p>
+       The ability to understand another speaker's intended meaning is called
+       <i>
+        pragmatic competence
+       </i>
+       .
+       <sup class="reference" id="cite_ref-5">
+        <a href="#cite_note-5">
+         [5]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-6">
+        <a href="#cite_note-6">
+         [6]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-7">
+        <a href="#cite_note-7">
+         [7]
+        </a>
+       </sup>
+      </p>
+      <p>
+      </p>
+      <div class="toc" id="toc">
+       <div class="toctitle" dir="ltr" lang="en" xml:lang="en">
+        <h2>
+         Contents
+        </h2>
+       </div>
+       <ul>
+        <li class="toclevel-1 tocsection-1">
+         <a href="#Ambiguity">
+          <span class="tocnumber">
+           1
+          </span>
+          <span class="toctext">
+           Ambiguity
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-2">
+         <a href="#Etymology">
+          <span class="tocnumber">
+           2
+          </span>
+          <span class="toctext">
+           Etymology
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-3">
+         <a href="#Origins_of_the_field">
+          <span class="tocnumber">
+           3
+          </span>
+          <span class="toctext">
+           Origins of the field
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-4">
+         <a href="#Areas_of_interest">
+          <span class="tocnumber">
+           4
+          </span>
+          <span class="toctext">
+           Areas of interest
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-5">
+         <a href="#Referential_uses_of_language">
+          <span class="tocnumber">
+           5
+          </span>
+          <span class="toctext">
+           Referential uses of language
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-6">
+         <a href="#Non-referential_uses_of_language">
+          <span class="tocnumber">
+           6
+          </span>
+          <span class="toctext">
+           Non-referential uses of language
+          </span>
+         </a>
+         <ul>
+          <li class="toclevel-2 tocsection-7">
+           <a href="#Silverstein's_&quot;pure&quot;_indexes">
+            <span class="tocnumber">
+             6.1
+            </span>
+            <span class="toctext">
+             Silverstein's "pure" indexes
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-8">
+           <a href="#The_performative">
+            <span class="tocnumber">
+             6.2
+            </span>
+            <span class="toctext">
+             The performative
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-9">
+           <a href="#Jakobson's_six_functions_of_language">
+            <span class="tocnumber">
+             6.3
+            </span>
+            <span class="toctext">
+             Jakobson's six functions of language
+            </span>
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="toclevel-1 tocsection-10">
+         <a href="#Related_fields">
+          <span class="tocnumber">
+           7
+          </span>
+          <span class="toctext">
+           Related fields
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-11">
+         <a href="#Formalization">
+          <span class="tocnumber">
+           8
+          </span>
+          <span class="toctext">
+           Formalization
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-12">
+         <a href="#In_literary_theory">
+          <span class="tocnumber">
+           9
+          </span>
+          <span class="toctext">
+           In literary theory
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-13">
+         <a href="#Significant_works">
+          <span class="tocnumber">
+           10
+          </span>
+          <span class="toctext">
+           Significant works
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-14">
+         <a href="#See_also">
+          <span class="tocnumber">
+           11
+          </span>
+          <span class="toctext">
+           See also
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-15">
+         <a href="#Notes">
+          <span class="tocnumber">
+           12
+          </span>
+          <span class="toctext">
+           Notes
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-16">
+         <a href="#References">
+          <span class="tocnumber">
+           13
+          </span>
+          <span class="toctext">
+           References
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-17">
+         <a href="#External_links">
+          <span class="tocnumber">
+           14
+          </span>
+          <span class="toctext">
+           External links
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <p>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Ambiguity">
+        Ambiguity
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Pragmatics&amp;action=edit&amp;section=1" title="Edit section: Ambiguity">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="hatnote navigation-not-searchable" role="note">
+       Main article:
+       <a href="/wiki/Ambiguity" title="Ambiguity">
+        Ambiguity
+       </a>
+      </div>
+      <p>
+       The sentence "You have a green light" is ambiguous. Without knowing the context, the identity of the speaker or the speaker's intent, it is difficult to infer the meaning with certainty. For example, it could mean:
+      </p>
+      <ul>
+       <li>
+        the space that belongs to you has green ambient lighting;
+       </li>
+       <li>
+        you are driving through a green traffic signal;
+       </li>
+       <li>
+        you no longer have to wait to continue driving;
+       </li>
+       <li>
+        you are permitted to proceed in a non-driving context;
+       </li>
+       <li>
+        your body is cast in a greenish glow; or
+       </li>
+       <li>
+        you possess a light bulb that is tinted green.
+       </li>
+      </ul>
+      <p>
+       Similarly, the sentence "Sherlock saw the man with binoculars" could mean that Sherlock observed the man by using binoculars, or it could mean that Sherlock observed a man who was holding binoculars (
+       <i>
+        <a href="/wiki/Syntactic_ambiguity" title="Syntactic ambiguity">
+         syntactic ambiguity
+        </a>
+       </i>
+       ).
+       <sup class="reference" id="cite_ref-8">
+        <a href="#cite_note-8">
+         [8]
+        </a>
+       </sup>
+       The meaning of the sentence depends on an understanding of the context and the speaker's intent. As defined in linguistics, a sentence is an abstract entity — a string of words divorced from non-linguistic context — as opposed to an
+       <a href="/wiki/Utterance" title="Utterance">
+        utterance
+       </a>
+       , which is a concrete example of a
+       <a href="/wiki/Speech_act" title="Speech act">
+        speech act
+       </a>
+       in a specific context. The more closely conscious subjects stick to common words, idioms, phrasings, and topics, the more easily others can surmise their meaning; the further they stray from common expressions and topics, the wider the variations in interpretations. This suggests that sentences do not have intrinsic meaning, that there is no meaning associated with a sentence or word, and that either can only represent an idea symbolically.
+       <i>
+        The cat sat on the mat
+       </i>
+       is a sentence in English. If someone were to say to someone else, "The cat sat on the mat," the act is itself an utterance. This implies that a sentence, term, expression or word cannot symbolically represent a single true meaning; such meaning is underspecified (which cat sat on which mat?) and potentially ambiguous. By contrast, the meaning of an utterance can be inferred through knowledge of both its linguistic and non-linguistic contexts (which may or may not be sufficient to resolve ambiguity). In mathematics, with
+       <a class="mw-redirect" href="/wiki/Berry%27s_paradox" title="Berry's paradox">
+        Berry's paradox
+       </a>
+       , there arises a similar systematic ambiguity with the word "definable".
+      </p>
+      <h2>
+       <span class="mw-headline" id="Etymology">
+        Etymology
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Pragmatics&amp;action=edit&amp;section=2" title="Edit section: Etymology">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       The word
+       <i>
+        pragmatics
+       </i>
+       derives via
+       <a href="/wiki/Latin" title="Latin">
+        Latin
+       </a>
+       <i>
+        pragmaticus
+       </i>
+       from the
+       <a href="/wiki/Greek_language" title="Greek language">
+        Greek
+       </a>
+       πραγματικός (
+       <i>
+        pragmatikos
+       </i>
+       ), meaning amongst others "fit for action",
+       <sup class="reference" id="cite_ref-9">
+        <a href="#cite_note-9">
+         [9]
+        </a>
+       </sup>
+       which comes from πρᾶγμα (
+       <i>
+        pragma
+       </i>
+       ), "deed, act",
+       <sup class="reference" id="cite_ref-10">
+        <a href="#cite_note-10">
+         [10]
+        </a>
+       </sup>
+       and that from πράσσω (
+       <i>
+        prassō
+       </i>
+       ), "to pass over, to practise, to achieve".
+       <sup class="reference" id="cite_ref-11">
+        <a href="#cite_note-11">
+         [11]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Origins_of_the_field">
+        Origins of the field
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Pragmatics&amp;action=edit&amp;section=3" title="Edit section: Origins of the field">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <table class="plainlinks metadata ambox ambox-content ambox-Unreferenced" role="presentation">
+       <tr>
+        <td class="mbox-image">
+         <div style="width:52px">
+          <a class="image" href="/wiki/File:Question_book-new.svg">
+           <img alt="" data-file-height="399" data-file-width="512" height="39" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" width="50"/>
+          </a>
+         </div>
+        </td>
+        <td class="mbox-text">
+         <div class="mbox-text-span">
+          This section
+          <b>
+           does not
+           <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">
+            cite
+           </a>
+           any
+           <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">
+            sources
+           </a>
+          </b>
+          .
+          <span class="hide-when-compact">
+           Please help
+           <a class="external text" href="//en.wikipedia.org/w/index.php?title=Pragmatics&amp;action=edit">
+            improve this section
+           </a>
+           by
+           <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">
+            adding citations to reliable sources
+           </a>
+           . Unsourced material may be challenged and
+           <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">
+            removed
+           </a>
+           .
+          </span>
+          <small>
+           <i>
+            (April 2009)
+           </i>
+          </small>
+          <small class="hide-when-compact">
+           <i>
+            (
+            <a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">
+             Learn how and when to remove this template message
+            </a>
+            )
+           </i>
+          </small>
+         </div>
+        </td>
+       </tr>
+      </table>
+      <p>
+       Pragmatics was a reaction to
+       <a href="/wiki/Structuralism" title="Structuralism">
+        structuralist
+       </a>
+       linguistics as outlined by
+       <a href="/wiki/Ferdinand_de_Saussure" title="Ferdinand de Saussure">
+        Ferdinand de Saussure
+       </a>
+       . In many cases, it expanded upon his idea that language has an analyzable structure, composed of parts that can be defined in relation to others. Pragmatics first engaged only in
+       <a href="/wiki/Course_in_General_Linguistics#Synchronic_and_diachronic_axes" title="Course in General Linguistics">
+        synchronic
+       </a>
+       study, as opposed to examining the historical development of language. However, it rejected the notion that all meaning comes from
+       <a href="/wiki/Sign_(semiotics)" title="Sign (semiotics)">
+        signs
+       </a>
+       existing purely in the abstract space of
+       <i>
+        langue
+       </i>
+       . Meanwhile,
+       <a href="/wiki/Historical_pragmatics" title="Historical pragmatics">
+        historical pragmatics
+       </a>
+       has also come into being. This field only gained linguists' attention in the 70s. This is when two different schools emerged; notably the Anglo-American pragmatic thought and the European continental pragmatic thought (also called the perspective view).
+       <sup class="reference" id="cite_ref-12">
+        <a href="#cite_note-12">
+         [12]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Areas_of_interest">
+        Areas of interest
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Pragmatics&amp;action=edit&amp;section=4" title="Edit section: Areas of interest">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <table class="plainlinks metadata ambox ambox-content ambox-Unreferenced" role="presentation">
+       <tr>
+        <td class="mbox-image">
+         <div style="width:52px">
+          <a class="image" href="/wiki/File:Question_book-new.svg">
+           <img alt="" data-file-height="399" data-file-width="512" height="39" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" width="50"/>
+          </a>
+         </div>
+        </td>
+        <td class="mbox-text">
+         <div class="mbox-text-span">
+          This section
+          <b>
+           does not
+           <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">
+            cite
+           </a>
+           any
+           <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">
+            sources
+           </a>
+          </b>
+          .
+          <span class="hide-when-compact">
+           Please help
+           <a class="external text" href="//en.wikipedia.org/w/index.php?title=Pragmatics&amp;action=edit">
+            improve this section
+           </a>
+           by
+           <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">
+            adding citations to reliable sources
+           </a>
+           . Unsourced material may be challenged and
+           <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">
+            removed
+           </a>
+           .
+          </span>
+          <small>
+           <i>
+            (April 2009)
+           </i>
+          </small>
+          <small class="hide-when-compact">
+           <i>
+            (
+            <a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">
+             Learn how and when to remove this template message
+            </a>
+            )
+           </i>
+          </small>
+         </div>
+        </td>
+       </tr>
+      </table>
+      <ul>
+       <li>
+        The study of the speaker's meaning, not focusing on the phonetic or grammatical form of an utterance, but instead on what the speaker's intentions and beliefs are.
+       </li>
+       <li>
+        The study of the meaning in context, and the influence that a given context can have on the message. It requires knowledge of the speaker's identities, and the place and time of the utterance.
+       </li>
+       <li>
+        The study of
+        <a href="/wiki/Implicature" title="Implicature">
+         implicatures
+        </a>
+        , i.e. the things that are communicated even though they are not explicitly expressed.
+        <sup class="reference" id="cite_ref-13">
+         <a href="#cite_note-13">
+          [13]
+         </a>
+        </sup>
+       </li>
+       <li>
+        The study of relative distance, both social and physical, between speakers in order to understand what determines the choice of what is said and what is not said.
+       </li>
+       <li>
+        The study of what is not meant, as opposed to the intended meaning, i.e. that which is unsaid and unintended, or unintentional.
+       </li>
+       <li>
+        <a href="/wiki/Information_structure" title="Information structure">
+         Information structure
+        </a>
+        , the study of how utterances are marked in order to efficiently manage the common ground of referred entities between speaker and hearer
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/Formal_Pragmatics" title="Formal Pragmatics">
+         Formal Pragmatics
+        </a>
+        , the study of those aspects of meaning and use for which context of use is an important factor, by using the methods and goals of formal semantics.
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="Referential_uses_of_language">
+        Referential uses of language
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Pragmatics&amp;action=edit&amp;section=5" title="Edit section: Referential uses of language">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <table class="plainlinks metadata ambox ambox-content ambox-Unreferenced" role="presentation">
+       <tr>
+        <td class="mbox-image">
+         <div style="width:52px">
+          <a class="image" href="/wiki/File:Question_book-new.svg">
+           <img alt="" data-file-height="399" data-file-width="512" height="39" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" width="50"/>
+          </a>
+         </div>
+        </td>
+        <td class="mbox-text">
+         <div class="mbox-text-span">
+          This section
+          <b>
+           does not
+           <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">
+            cite
+           </a>
+           any
+           <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">
+            sources
+           </a>
+          </b>
+          .
+          <span class="hide-when-compact">
+           Please help
+           <a class="external text" href="//en.wikipedia.org/w/index.php?title=Pragmatics&amp;action=edit">
+            improve this section
+           </a>
+           by
+           <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">
+            adding citations to reliable sources
+           </a>
+           . Unsourced material may be challenged and
+           <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">
+            removed
+           </a>
+           .
+          </span>
+          <small>
+           <i>
+            (April 2009)
+           </i>
+          </small>
+          <small class="hide-when-compact">
+           <i>
+            (
+            <a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">
+             Learn how and when to remove this template message
+            </a>
+            )
+           </i>
+          </small>
+         </div>
+        </td>
+       </tr>
+      </table>
+      <p>
+       When we speak of the referential uses of language we are talking about how we use
+       <a href="/wiki/Sign_(semiotics)" title="Sign (semiotics)">
+        signs
+       </a>
+       to refer to certain items. Below is an explanation of, first, what a sign is, second, how meanings are accomplished through its usage.
+      </p>
+      <p>
+       A sign is the link or relationship between a
+       <a href="/wiki/Sign_(semiotics)" title="Sign (semiotics)">
+        signified and the signifier
+       </a>
+       as defined by Saussure and Huguenin. The signified is some entity or concept in the world. The signifier represents the signified. An example would be:
+      </p>
+      <dl>
+       <dd>
+        <i>
+         Signified: the concept cat
+        </i>
+       </dd>
+       <dd>
+        <i>
+         Signifier: the word "cat"
+        </i>
+       </dd>
+      </dl>
+      <p>
+       The relationship between the two gives the sign meaning. This relationship can be further explained by considering what we mean by "meaning." In pragmatics, there are two different types of meaning to consider:
+       <b>
+        semantico-referential meaning
+       </b>
+       and
+       <b>
+        indexical meaning.
+       </b>
+       Semantico-referential meaning refers to the aspect of meaning, which describes events in the world that are independent of the circumstance they are uttered in. An example would be propositions such as:
+      </p>
+      <dl>
+       <dd>
+        <i>
+         "Santa Claus eats cookies."
+        </i>
+       </dd>
+      </dl>
+      <p>
+       In this case, the proposition is describing that Santa Claus eats cookies. The meaning of this proposition does not rely on whether or not Santa Claus is eating cookies at the time of its utterance. Santa Claus could be eating cookies at any time and the meaning of the proposition would remain the same. The meaning is simply describing something that is the case in the world. In contrast, the proposition, "Santa Claus is eating a cookie right now," describes events that are happening at the time the proposition is uttered.
+      </p>
+      <p>
+       Semantico-referential meaning is also present in meta-semantical statements such as:
+      </p>
+      <dl>
+       <dd>
+        <i>
+         Tiger: carnivorous, a mammal
+        </i>
+       </dd>
+      </dl>
+      <p>
+       If someone were to say that a tiger is a carnivorous animal in one context and a mammal in another, the definition of tiger would still be the same. The meaning of the sign tiger is describing some animal in the world, which does not change in either circumstance.
+      </p>
+      <p>
+       <a class="mw-redirect" href="/wiki/Indexical" title="Indexical">
+        Indexical
+       </a>
+       meaning, on the other hand, is dependent on the context of the utterance and has rules of use. By rules of use, it is meant that indexicals can tell you when they are used, but not what they actually mean.
+      </p>
+      <dl>
+       <dd>
+        <i>
+         Example
+        </i>
+        : "I"
+       </dd>
+      </dl>
+      <p>
+       Whom "I" refers to depends on the context and the person uttering it.
+      </p>
+      <p>
+       As mentioned, these meanings are brought about through the relationship between the signified and the signifier. One way to define the relationship is by placing signs in two categories:
+       <b>
+        referential indexical signs,
+       </b>
+       also called "shifters," and
+       <b>
+        pure indexical signs.
+       </b>
+      </p>
+      <p>
+       Referential indexical signs are signs where the meaning shifts depending on the context hence the nickname "shifters." 'I' would be considered a referential indexical sign. The referential aspect of its meaning would be '1st person singular' while the indexical aspect would be the person who is speaking (refer above for definitions of semantico-referential and indexical meaning). Another example would be:
+      </p>
+      <dl>
+       <dd>
+        <i>
+         "This"
+        </i>
+       </dd>
+       <dd>
+        <i>
+         Referential: singular count
+        </i>
+       </dd>
+       <dd>
+        <i>
+         Indexical: Close by
+        </i>
+       </dd>
+      </dl>
+      <p>
+       A pure indexical sign does not contribute to the meaning of the propositions at all. It is an example of a "non-referential use of language."
+      </p>
+      <p>
+       A second way to define the signified and signifier relationship is
+       <a href="/wiki/Charles_Sanders_Peirce" title="Charles Sanders Peirce">
+        C.S. Peirce
+       </a>
+       's
+       <b>
+        Peircean Trichotomy
+       </b>
+       . The components of the trichotomy are the following:
+      </p>
+      <dl>
+       <dd>
+        1.
+        <b>
+         Icon
+        </b>
+        : the signified resembles the signifier (signified: a dog's barking noise, signifier: bow-wow)
+       </dd>
+       <dd>
+        2.
+        <b>
+         Index
+        </b>
+        : the signified and signifier are linked by proximity or the signifier has meaning only because it is pointing to the signified
+       </dd>
+       <dd>
+        3.
+        <b>
+         Symbol
+        </b>
+        : the signified and signifier are arbitrarily linked (signified: a cat, signifier: the word cat)
+       </dd>
+      </dl>
+      <p>
+       These relationships allow us to use signs to convey what we want to say. If two people were in a room and one of them wanted to refer to a characteristic of a chair in the room he would say "this chair has four legs" instead of "a chair has four legs." The former relies on context (indexical and referential meaning) by referring to a chair specifically in the room at that moment while the latter is independent of the context (semantico-referential meaning), meaning the concept chair.
+      </p>
+      <h2>
+       <span class="mw-headline" id="Non-referential_uses_of_language">
+        Non-referential uses of language
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Pragmatics&amp;action=edit&amp;section=6" title="Edit section: Non-referential uses of language">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <h3>
+       <span id="Silverstein.27s_.22pure.22_indexes">
+       </span>
+       <span class="mw-headline" id="Silverstein's_&quot;pure&quot;_indexes">
+        Silverstein's "pure" indexes
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Pragmatics&amp;action=edit&amp;section=7" title="Edit section: Silverstein's &quot;pure&quot; indexes">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       <a href="/wiki/Michael_Silverstein" title="Michael Silverstein">
+        Michael Silverstein
+       </a>
+       has argued that "nonreferential" or "pure" indices do not contribute to an utterance's referential meaning but instead "signal some particular value of one or more contextual variables."
+       <sup class="reference" id="cite_ref-14">
+        <a href="#cite_note-14">
+         [14]
+        </a>
+       </sup>
+       Although nonreferential indexes are devoid of semantico-referential meaning, they do encode "pragmatic" meaning.
+      </p>
+      <p>
+       The sorts of contexts that such indexes can mark are varied. Examples include:
+      </p>
+      <ul>
+       <li>
+        <b>
+         Sex indexes
+        </b>
+        are affixes or inflections that index the sex of the speaker, e.g. the verb forms of female
+        <a href="/wiki/Koasati_language" title="Koasati language">
+         Koasati
+        </a>
+        speakers take the suffix "-s".
+       </li>
+       <li>
+        <b>
+         Deference indexes
+        </b>
+        are words that signal social differences (usually related to status or age) between the speaker and the addressee. The most common example of a deference index is the V form in a language with a
+        <a class="mw-redirect" href="/wiki/T-V_distinction" title="T-V distinction">
+         T-V distinction
+        </a>
+        , the widespread phenomenon in which there are multiple second-person pronouns that correspond to the addressee's relative status or familiarity to the speaker.
+        <a href="/wiki/Honorific" title="Honorific">
+         Honorifics
+        </a>
+        are another common form of deference index and demonstrate the speaker's respect or esteem for the addressee via special forms of address and/or self-humbling first-person pronouns.
+       </li>
+       <li>
+        An
+        <b>
+         Affinal taboo index
+        </b>
+        is an example of
+        <a href="/wiki/Avoidance_speech" title="Avoidance speech">
+         avoidance speech
+        </a>
+        that produces and reinforces sociological distance, as seen in the Aboriginal
+        <a href="/wiki/Dyirbal_language" title="Dyirbal language">
+         Dyirbal language
+        </a>
+        of Australia. In this language and some others, there is a social taboo against the use of the everyday lexicon in the presence of certain relatives (mother-in-law, child-in-law, paternal aunt's child, and maternal uncle's child). If any of those relatives are present, a Dyirbal speaker has to switch to a completely separate lexicon reserved for that purpose.
+       </li>
+      </ul>
+      <p>
+       In all of these cases, the semantico-referential meaning of the utterances is unchanged from that of the other possible (but often impermissible) forms, but the pragmatic meaning is vastly different.
+      </p>
+      <h3>
+       <span class="mw-headline" id="The_performative">
+        The performative
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Pragmatics&amp;action=edit&amp;section=8" title="Edit section: The performative">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <div class="hatnote navigation-not-searchable" role="note">
+       Main articles:
+       <a href="/wiki/Performative_utterance" title="Performative utterance">
+        Performative utterance
+       </a>
+       and
+       <a class="mw-redirect" href="/wiki/Speech_act_theory" title="Speech act theory">
+        Speech act theory
+       </a>
+      </div>
+      <p>
+       <a class="mw-redirect" href="/wiki/J.L._Austin" title="J.L. Austin">
+        J.L. Austin
+       </a>
+       introduced the concept of the
+       <a href="/wiki/Performative_utterance" title="Performative utterance">
+        performative
+       </a>
+       , contrasted in his writing with "constative" (i.e. descriptive) utterances. According to Austin's original formulation, a performative is a type of utterance characterized by two distinctive features:
+      </p>
+      <ul>
+       <li>
+        It is not
+        <a class="mw-redirect" href="/wiki/Logical_value" title="Logical value">
+         truth-evaluable
+        </a>
+        (i.e. it is neither true nor false)
+       </li>
+       <li>
+        Its uttering
+        <i>
+         performs
+        </i>
+        an action rather than simply describing one
+       </li>
+      </ul>
+      <p>
+       Examples:
+      </p>
+      <ul>
+       <li>
+        "I hereby pronounce you man and wife."
+       </li>
+       <li>
+        "I accept your apology."
+       </li>
+       <li>
+        "This meeting is now adjourned."
+       </li>
+      </ul>
+      <p>
+       To be performative, an utterance must conform to various conditions involving what Austin calls
+       <a href="/wiki/Felicity_conditions" title="Felicity conditions">
+        felicity
+       </a>
+       . These deal with things like appropriate context and the speaker's authority. For instance, when a couple has been arguing and the husband says to his wife that he accepts her apology even though she has offered nothing approaching an apology, his assertion is infelicitous—because she has made neither expression of regret nor request for forgiveness, there exists none to accept, and thus no act of accepting can possibly happen.
+      </p>
+      <h3>
+       <span id="Jakobson.27s_six_functions_of_language">
+       </span>
+       <span class="mw-headline" id="Jakobson's_six_functions_of_language">
+        Jakobson's six functions of language
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Pragmatics&amp;action=edit&amp;section=9" title="Edit section: Jakobson's six functions of language">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <div class="hatnote navigation-not-searchable" role="note">
+       Main article:
+       <a href="/wiki/Jakobson%27s_functions_of_language" title="Jakobson's functions of language">
+        Jakobson's functions of language
+       </a>
+      </div>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:Roma_jakobson_theory.png">
+         <img alt="" class="thumbimage" data-file-height="215" data-file-width="475" height="100" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Roma_jakobson_theory.png/220px-Roma_jakobson_theory.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Roma_jakobson_theory.png/330px-Roma_jakobson_theory.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Roma_jakobson_theory.png/440px-Roma_jakobson_theory.png 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Roma_jakobson_theory.png" title="Enlarge">
+          </a>
+         </div>
+         The six factors of an effective verbal communication. To each one corresponds a communication function (not displayed in this picture).
+         <sup class="reference" id="cite_ref-Middleton_15-0">
+          <a href="#cite_note-Middleton-15">
+           [15]
+          </a>
+         </sup>
+        </div>
+       </div>
+      </div>
+      <p>
+       <a href="/wiki/Roman_Jakobson" title="Roman Jakobson">
+        Roman Jakobson
+       </a>
+       , expanding on the work of
+       <a href="/wiki/Karl_B%C3%BChler" title="Karl Bühler">
+        Karl Bühler
+       </a>
+       , described six "constitutive factors" of a
+       <a href="/wiki/Speech_act" title="Speech act">
+        speech event
+       </a>
+       , each of which represents the privileging of a corresponding function, and only one of which is the referential (which corresponds to the
+       <b>
+        context
+       </b>
+       of the speech event). The six constitutive factors and their corresponding functions are diagrammed below.
+      </p>
+      <p>
+       <b>
+        The six constitutive factors of a speech event
+       </b>
+      </p>
+      <dl>
+       <dd>
+        <dl>
+         <dd>
+          <dl>
+           <dd>
+            Context
+           </dd>
+           <dd>
+            Message
+           </dd>
+          </dl>
+         </dd>
+        </dl>
+       </dd>
+      </dl>
+      <p>
+       Addresser---------------------Addressee
+      </p>
+      <dl>
+       <dd>
+        <dl>
+         <dd>
+          <dl>
+           <dd>
+            Contact
+           </dd>
+           <dd>
+            Code
+           </dd>
+          </dl>
+         </dd>
+        </dl>
+       </dd>
+      </dl>
+      <p>
+       <br/>
+       <b>
+        The six functions of language
+       </b>
+      </p>
+      <dl>
+       <dd>
+        <dl>
+         <dd>
+          <dl>
+           <dd>
+            Referential
+           </dd>
+           <dd>
+            Poetic
+           </dd>
+          </dl>
+         </dd>
+        </dl>
+       </dd>
+      </dl>
+      <p>
+       Emotive-----------------------Conative
+      </p>
+      <dl>
+       <dd>
+        <dl>
+         <dd>
+          <dl>
+           <dd>
+            Phatic
+           </dd>
+           <dd>
+            Metalingual
+           </dd>
+          </dl>
+         </dd>
+        </dl>
+       </dd>
+      </dl>
+      <ul>
+       <li>
+        The Referential Function corresponds to the factor of Context and describes a situation, object or mental state. The descriptive statements of the referential function can consist of both definite descriptions and
+        <a href="/wiki/Deixis" title="Deixis">
+         deictic
+        </a>
+        words, e.g. "The autumn leaves have all fallen now."
+       </li>
+       <li>
+        The Expressive (alternatively called "emotive" or "affective") Function relates to the Addresser and is best exemplified by
+        <a class="mw-redirect" href="/wiki/Interjections" title="Interjections">
+         interjections
+        </a>
+        and other sound changes that do not alter the
+        <a href="/wiki/Denotation" title="Denotation">
+         denotative meaning
+        </a>
+        of an utterance but do add information about the Addresser's (speaker's) internal state, e.g. "Wow, what a view!"
+       </li>
+       <li>
+        The Conative Function engages the Addressee directly and is best illustrated by
+        <a class="mw-redirect" href="/wiki/Vocative" title="Vocative">
+         vocatives
+        </a>
+        and
+        <a href="/wiki/Imperative_mood" title="Imperative mood">
+         imperatives
+        </a>
+        , e.g. "Tom! Come inside and eat!"
+       </li>
+       <li>
+        The Poetic Function focuses on "the message for its own sake"
+        <sup class="reference" id="cite_ref-Duranti_1997_16-0">
+         <a href="#cite_note-Duranti_1997-16">
+          [16]
+         </a>
+        </sup>
+        and is the operative function in poetry as well as slogans.
+       </li>
+       <li>
+        The
+        <a class="mw-redirect" href="/wiki/Phatic" title="Phatic">
+         Phatic
+        </a>
+        Function is language for the sake of interaction and is therefore associated with the Contact factor. The Phatic Function can be observed in greetings and casual discussions of the weather, particularly with strangers.
+       </li>
+       <li>
+        The Metalingual (alternatively called "metalinguistic" or "reflexive") Function is the use of language (what Jakobson calls "Code") to discuss or describe itself.
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="Related_fields">
+        Related fields
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Pragmatics&amp;action=edit&amp;section=10" title="Edit section: Related fields">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       There is considerable overlap between pragmatics and
+       <a href="/wiki/Sociolinguistics" title="Sociolinguistics">
+        sociolinguistics
+       </a>
+       , since both share an interest in
+       <a class="mw-redirect" href="/wiki/Linguistic_meaning" title="Linguistic meaning">
+        linguistic meaning
+       </a>
+       as determined by usage in a speech community. However, sociolinguists tend to be more interested in variations in language within such communities.
+      </p>
+      <p>
+       Pragmatics helps anthropologists relate elements of language to broader social phenomena; it thus pervades the field of
+       <a href="/wiki/Linguistic_anthropology" title="Linguistic anthropology">
+        linguistic anthropology
+       </a>
+       . Because pragmatics describes generally the forces in play for a given utterance, it includes the study of power, gender, race, identity, and their interactions with individual speech acts. For example, the study of
+       <a href="/wiki/Code-switching" title="Code-switching">
+        code switching
+       </a>
+       directly relates to pragmatics, since a switch in code effects a shift in pragmatic force.
+       <sup class="reference" id="cite_ref-Duranti_1997_16-1">
+        <a href="#cite_note-Duranti_1997-16">
+         [16]
+        </a>
+       </sup>
+      </p>
+      <p>
+       According to
+       <a href="/wiki/Charles_W._Morris" title="Charles W. Morris">
+        Charles W. Morris
+       </a>
+       , pragmatics tries to understand the relationship between signs and their users, while
+       <a href="/wiki/Semantics" title="Semantics">
+        semantics
+       </a>
+       tends to focus on the actual objects or ideas to which a word refers, and
+       <a href="/wiki/Syntax" title="Syntax">
+        syntax
+       </a>
+       (or "syntactics") examines relationships among signs or symbols. Semantics is the literal meaning of an idea whereas pragmatics is the implied meaning of the given idea.
+      </p>
+      <p>
+       <a href="/wiki/Speech_act" title="Speech act">
+        Speech Act Theory
+       </a>
+       , pioneered by
+       <a class="mw-redirect" href="/wiki/J.L._Austin" title="J.L. Austin">
+        J.L. Austin
+       </a>
+       and further developed by
+       <a href="/wiki/John_Searle" title="John Searle">
+        John Searle
+       </a>
+       , centers around the idea of the
+       <a class="mw-redirect" href="/wiki/Performative" title="Performative">
+        performative
+       </a>
+       , a type of utterance that performs the very action it describes. Speech Act Theory's examination of
+       <a href="/wiki/Illocutionary_act" title="Illocutionary act">
+        Illocutionary Acts
+       </a>
+       has many of the same goals as pragmatics, as outlined
+       <a href="/wiki/Pragmatics#Areas_of_interest" title="Pragmatics">
+        above
+       </a>
+       .
+      </p>
+      <p>
+       Computational Pragmatics, as defined by
+       <a href="/wiki/Victoria_Fromkin" title="Victoria Fromkin">
+        Victoria Fromkin
+       </a>
+       , concerns how humans can communicate their intentions to computers with as little ambiguity as possible.
+       <sup class="reference" id="cite_ref-17">
+        <a href="#cite_note-17">
+         [17]
+        </a>
+       </sup>
+       This process, integral to the science of
+       <a class="mw-redirect" href="/wiki/Natural_language_processing" title="Natural language processing">
+        Natural language processing
+       </a>
+       , involves providing a computer system with some database of knowledge related to a topic and a series of algorithms which control how the system responds to incoming data, using contextual knowledge to more accurately approximate natural human language and information processing abilities. Reference resolution, how a computer determines when two objects are different or not, is one of the most important tasks of computational pragmatics.
+      </p>
+      <h2>
+       <span class="mw-headline" id="Formalization">
+        Formalization
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Pragmatics&amp;action=edit&amp;section=11" title="Edit section: Formalization">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       There has been a great amount of discussion on the boundary between semantics and pragmatics
+       <sup class="reference" id="cite_ref-18">
+        <a href="#cite_note-18">
+         [18]
+        </a>
+       </sup>
+       and there are many different formalizations of aspects of pragmatics linked to context dependence. Particularly interesting cases are the discussions on the semantics of indexicals and the problem of referential descriptions, a topic developed after the theories of
+       <a href="/wiki/Keith_Donnellan" title="Keith Donnellan">
+        Keith Donnellan
+       </a>
+       .
+       <sup class="reference" id="cite_ref-19">
+        <a href="#cite_note-19">
+         [19]
+        </a>
+       </sup>
+       A proper logical theory of formal pragmatics has been developed by
+       <a href="/wiki/Carlo_Dalla_Pozza" title="Carlo Dalla Pozza">
+        Carlo Dalla Pozza
+       </a>
+       , according to which it is possible to connect classical semantics (treating propositional contents as true or false) and intuitionistic semantics (dealing with illocutionary forces). The presentation of a formal treatment of pragmatics appears to be a development of the Fregean idea of assertion sign as formal sign of the act of assertion.
+      </p>
+      <h2>
+       <span class="mw-headline" id="In_literary_theory">
+        In literary theory
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Pragmatics&amp;action=edit&amp;section=12" title="Edit section: In literary theory">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       Pragmatics (more specifically,
+       <a href="/wiki/Speech_act" title="Speech act">
+        Speech Act Theory's
+       </a>
+       notion of the
+       <a class="mw-redirect" href="/wiki/Performative" title="Performative">
+        performative
+       </a>
+       ) underpins
+       <a href="/wiki/Judith_Butler" title="Judith Butler">
+        Judith Butler
+       </a>
+       's theory of
+       <a class="mw-redirect" href="/wiki/Gender_performativity" title="Gender performativity">
+        gender performativity
+       </a>
+       . In
+       <i>
+        <a href="/wiki/Gender_Trouble" title="Gender Trouble">
+         Gender Trouble
+        </a>
+       </i>
+       , she claims that gender and sex are not natural categories, but socially constructed roles produced by "reiterative acting."
+      </p>
+      <p>
+       In
+       <a href="/wiki/Judith_Butler#Excitable_Speech:_A_Politics_of_the_Performative" title="Judith Butler">
+        <i>
+         Excitable Speech
+        </i>
+       </a>
+       she extends her theory of
+       <a href="/wiki/Performativity" title="Performativity">
+        performativity
+       </a>
+       to
+       <a href="/wiki/Hate_speech" title="Hate speech">
+        hate speech
+       </a>
+       and
+       <a href="/wiki/Censorship" title="Censorship">
+        censorship
+       </a>
+       , arguing that censorship necessarily strengthens any discourse it tries to suppress and therefore, since the state has sole power to define hate speech legally, it is the state that makes hate speech performative.
+      </p>
+      <p>
+       <a href="/wiki/Jacques_Derrida" title="Jacques Derrida">
+        Jacques Derrida
+       </a>
+       remarked that some work done under Pragmatics aligned well with the program he outlined in his book
+       <i>
+        <a href="/wiki/Of_Grammatology" title="Of Grammatology">
+         Of Grammatology
+        </a>
+       </i>
+       .
+      </p>
+      <p>
+       <a href="/wiki/%C3%89mile_Benveniste" title="Émile Benveniste">
+        Émile Benveniste
+       </a>
+       argued that the
+       <a class="mw-redirect" href="/wiki/Pronouns" title="Pronouns">
+        pronouns
+       </a>
+       "I" and "you" are fundamentally distinct from other pronouns because of their role in creating the
+       <a href="/wiki/Subject_(philosophy)" title="Subject (philosophy)">
+        subject
+       </a>
+       .
+      </p>
+      <p>
+       <a href="/wiki/Gilles_Deleuze" title="Gilles Deleuze">
+        Gilles Deleuze
+       </a>
+       and
+       <a href="/wiki/F%C3%A9lix_Guattari" title="Félix Guattari">
+        Félix Guattari
+       </a>
+       discuss linguistic pragmatics in the fourth chapter of
+       <i>
+        <a href="/wiki/A_Thousand_Plateaus" title="A Thousand Plateaus">
+         A Thousand Plateaus
+        </a>
+       </i>
+       ("November 20, 1923--Postulates of Linguistics"). They draw three conclusions from Austin: (1) A
+       <a href="/wiki/Performative_utterance" title="Performative utterance">
+        performative utterance
+       </a>
+       does not communicate information about an act second-hand—it is the act; (2) Every aspect of language ("semantics, syntactics, or even phonematics") functionally interacts with pragmatics; (3) There is no distinction between language and speech. This last conclusion attempts to refute
+       <a href="/wiki/Ferdinand_de_Saussure" title="Ferdinand de Saussure">
+        Saussure's
+       </a>
+       division between
+       <a href="/wiki/Langue_and_parole" title="Langue and parole">
+        <i>
+         langue
+        </i>
+        and
+        <i>
+         parole
+        </i>
+       </a>
+       and
+       <a href="/wiki/Noam_Chomsky" title="Noam Chomsky">
+        Chomsky's
+       </a>
+       distinction between
+       <a class="mw-redirect" href="/wiki/Surface_structure" title="Surface structure">
+        surface structure
+       </a>
+       and
+       <a class="mw-redirect" href="/wiki/Deep_structure" title="Deep structure">
+        deep structure
+       </a>
+       simultaneously.
+       <sup class="reference" id="cite_ref-20">
+        <a href="#cite_note-20">
+         [20]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Significant_works">
+        Significant works
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Pragmatics&amp;action=edit&amp;section=13" title="Edit section: Significant works">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a href="/wiki/J._L._Austin" title="J. L. Austin">
+         J. L. Austin
+        </a>
+        's
+        <i>
+         How To Do Things With Words
+        </i>
+       </li>
+       <li>
+        <a href="/wiki/Paul_Grice" title="Paul Grice">
+         Paul Grice
+        </a>
+        's
+        <a href="/wiki/Cooperative_principle" title="Cooperative principle">
+         cooperative principle
+        </a>
+        and
+        <a class="mw-redirect" href="/wiki/Gricean_maxim" title="Gricean maxim">
+         conversational maxims
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Politeness_theory" title="Politeness theory">
+         Brown &amp; Levinson's Politeness Theory
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Geoffrey_Leech" title="Geoffrey Leech">
+         Geoffrey Leech
+        </a>
+        's
+        <a href="/wiki/Politeness_maxims" title="Politeness maxims">
+         politeness maxims
+        </a>
+       </li>
+       <li>
+        Levinson's Presumptive Meanings
+       </li>
+       <li>
+        <a href="/wiki/J%C3%BCrgen_Habermas" title="Jürgen Habermas">
+         Jürgen Habermas
+        </a>
+        's
+        <a href="/wiki/Universal_pragmatics" title="Universal pragmatics">
+         universal pragmatics
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Dan_Sperber" title="Dan Sperber">
+         Dan Sperber
+        </a>
+        and Deirdre Wilson's
+        <a href="/wiki/Relevance_theory" title="Relevance theory">
+         relevance theory
+        </a>
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/Dallin_D._Oaks" title="Dallin D. Oaks">
+         Dallin D. Oaks
+        </a>
+        's
+        <i>
+         Structural Ambiguity in English: An Applied Grammatical Inventory
+        </i>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="See_also">
+        See also
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Pragmatics&amp;action=edit&amp;section=14" title="Edit section: See also">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+       <ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+        <li style="display:table-row">
+         <span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center">
+          <a class="image" href="/wiki/File:Globe_of_letters.svg">
+           <img alt="icon" class="noviewer" data-file-height="512" data-file-width="512" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/de/Globe_of_letters.svg/28px-Globe_of_letters.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/de/Globe_of_letters.svg/42px-Globe_of_letters.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/de/Globe_of_letters.svg/56px-Globe_of_letters.svg.png 2x" width="28"/>
+          </a>
+         </span>
+         <span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle">
+          <a href="/wiki/Portal:Linguistics" title="Portal:Linguistics">
+           Linguistics portal
+          </a>
+         </span>
+        </li>
+       </ul>
+      </div>
+      <ul>
+       <li>
+        <a href="/wiki/Anaphora_(linguistics)" title="Anaphora (linguistics)">
+         Anaphora
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Charles_Sanders_Peirce" title="Charles Sanders Peirce">
+         Charles Sanders Peirce
+        </a>
+        (and also see:
+        <a href="/wiki/Charles_Sanders_Peirce_bibliography" title="Charles Sanders Peirce bibliography">
+         Charles Sanders Peirce bibliography
+        </a>
+        )
+       </li>
+       <li>
+        <a href="/wiki/Co-construction_(linguistics)" title="Co-construction (linguistics)">
+         Co-construction
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Collapsing_sequence" title="Collapsing sequence">
+         Collapsing sequence
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Deixis" title="Deixis">
+         Deixis
+        </a>
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/Entailment_(pragmatics)" title="Entailment (pragmatics)">
+         Entailment
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Exegesis" title="Exegesis">
+         Exegesis
+        </a>
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/Formal_Pragmatics" title="Formal Pragmatics">
+         Formal Pragmatics
+        </a>
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/Gricean_maxims" title="Gricean maxims">
+         Gricean maxims
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Implicature" title="Implicature">
+         Implicature
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Indexicality" title="Indexicality">
+         Indexicality
+        </a>
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/Mediated_Stylistics" title="Mediated Stylistics">
+         Mediated Stylistics
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Origo" title="Origo">
+         Origo
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Paul_Grice" title="Paul Grice">
+         Paul Grice
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Practical_reason" title="Practical reason">
+         Practical reason
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Presupposition" title="Presupposition">
+         Presupposition
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Semantics" title="Semantics">
+         Semantics
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Semiotics" title="Semiotics">
+         Semiotics
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Sign_relation" title="Sign relation">
+         Sign relation
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Sitz_im_Leben" title="Sitz im Leben">
+         Sitz im Leben
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Speech_act" title="Speech act">
+         Speech act
+        </a>
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/Speech-Language_Pathology" title="Speech-Language Pathology">
+         Speech-Language Pathology
+        </a>
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/Stylistics_(field_of_study)" title="Stylistics (field of study)">
+         Stylistics (field of study)
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/William_James" title="William James">
+         William James
+        </a>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="Notes">
+        Notes
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Pragmatics&amp;action=edit&amp;section=15" title="Edit section: Notes">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+       <ol class="references">
+        <li id="cite_note-Mey-1">
+         <span class="mw-cite-backlink">
+          ^
+          <a href="#cite_ref-Mey_1-0">
+           <sup>
+            <i>
+             <b>
+              a
+             </b>
+            </i>
+           </sup>
+          </a>
+          <a href="#cite_ref-Mey_1-1">
+           <sup>
+            <i>
+             <b>
+              b
+             </b>
+            </i>
+           </sup>
+          </a>
+         </span>
+         <span class="reference-text">
+          Mey, Jacob L. (1993)
+          <i>
+           Pragmatics: An Introduction
+          </i>
+          . Oxford: Blackwell (2nd ed. 2001).
+         </span>
+        </li>
+        <li id="cite_note-2">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-2">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation web">
+           <a class="external text" href="https://www.linguisticsociety.org/resource/meaning-semantics-and-pragmatics" rel="nofollow">
+            "Meaning (Semantics and Pragmatics) | Linguistic Society of America"
+           </a>
+           .
+           <i>
+            www.linguisticsociety.org
+           </i>
+           <span class="reference-accessdate">
+            . Retrieved
+            <span class="nowrap">
+             2017-08-25
+            </span>
+           </span>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.linguisticsociety.org&amp;rft.atitle=Meaning+%28Semantics+and+Pragmatics%29+%7C+Linguistic+Society+of+America&amp;rft_id=https%3A%2F%2Fwww.linguisticsociety.org%2Fresource%2Fmeaning-semantics-and-pragmatics&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APragmatics">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-3">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-3">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation web">
+           Shaozhong, Liu.
+           <a class="external text" href="http://www.gxnu.edu.cn/Personal/szliu/definition.html" rel="nofollow">
+            "What is pragmatics?"
+           </a>
+           <span class="reference-accessdate">
+            . Retrieved
+            <span class="nowrap">
+             18 March
+            </span>
+            2009
+           </span>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=What+is+pragmatics%3F&amp;rft.aulast=Shaozhong&amp;rft.aufirst=Liu&amp;rft_id=http%3A%2F%2Fwww.gxnu.edu.cn%2FPersonal%2Fszliu%2Fdefinition.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APragmatics">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-4">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-4">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation news">
+           <a class="external text" href="https://www.thoughtco.com/pragmatics-language-1691654" rel="nofollow">
+            "What Is Pragmatics?"
+           </a>
+           .
+           <i>
+            ThoughtCo
+           </i>
+           <span class="reference-accessdate">
+            . Retrieved
+            <span class="nowrap">
+             2017-07-11
+            </span>
+           </span>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=ThoughtCo&amp;rft.atitle=What+Is+Pragmatics%3F&amp;rft_id=https%3A%2F%2Fwww.thoughtco.com%2Fpragmatics-language-1691654&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APragmatics">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-5">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-5">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          Daejin Kim
+          <i>
+           et al.
+          </i>
+          (2002) "The Role of an Interactive Book Reading Program in the Development of Second Language Pragmatic Competence",
+          <i>
+           The Modern Language Journal
+          </i>
+          , Vol. 86, No. 3 (Autumn, 2002), pp. 332-348
+         </span>
+        </li>
+        <li id="cite_note-6">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-6">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          Masahiro Takimoto (2008) "The Effects of Deductive and Inductive Instruction on the Development of Language Learners' Pragmatic Competence",
+          <i>
+           The Modern Language Journal
+          </i>
+          , Vol. 92, No. 3 (Fall, 2008), pp. 369-386
+         </span>
+        </li>
+        <li id="cite_note-7">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-7">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          Dale April Koike (1989) "Pragmatic Competence and Adult L2 Acquisition: Speech Acts in Interlanguage",
+          <i>
+           The Modern Language Journal
+          </i>
+          , Vol. 73, No. 3 (Autumn, 1989), pp. 279-289
+         </span>
+        </li>
+        <li id="cite_note-8">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-8">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation web">
+           <a class="external text" href="https://web.archive.org/web/20100409033734/http://ocw.mit.edu/OcwWeb/Linguistics-and-Philosophy/24-903Spring-2005/CourseHome/" rel="nofollow">
+            "24.903 / 24.933 Language and its Structure III: Semantics and Pragmatics"
+           </a>
+           .
+           <i>
+            MIT.edu
+           </i>
+           . MIT
+           <a href="/wiki/OpenCourseWare" title="OpenCourseWare">
+            OpenCourseWare
+           </a>
+           ,
+           <a href="/wiki/Massachusetts_Institute_of_Technology" title="Massachusetts Institute of Technology">
+            Massachusetts Institute of Technology
+           </a>
+           . 2004. Archived from
+           <a class="external text" href="http://ocw.mit.edu/OcwWeb/Linguistics-and-Philosophy/24-903Spring-2005/CourseHome/" rel="nofollow">
+            the original
+           </a>
+           on April 9, 2010
+           <span class="reference-accessdate">
+            . Retrieved
+            <span class="nowrap">
+             October 17,
+            </span>
+            2017
+           </span>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=MIT.edu&amp;rft.atitle=24.903+%2F+24.933+Language+and+its+Structure+III%3A+Semantics+and+Pragmatics&amp;rft.date=2004&amp;rft_id=http%3A%2F%2Focw.mit.edu%2FOcwWeb%2FLinguistics-and-Philosophy%2F24-903Spring-2005%2FCourseHome%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APragmatics">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-9">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-9">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <a class="external text" href="http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0057%3Aentry%3Dpragmatiko%2Fs" rel="nofollow">
+           πραγματικός
+          </a>
+          , Henry George Liddell, Robert Scott,
+          <i>
+           A Greek-English Lexicon
+          </i>
+          , on Perseus
+         </span>
+        </li>
+        <li id="cite_note-10">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-10">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <a class="external text" href="http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0057%3Aentry%3Dpra%3Dgma" rel="nofollow">
+           πρᾶγμα
+          </a>
+          , Henry George Liddell, Robert Scott,
+          <i>
+           A Greek-English Lexicon
+          </i>
+          , on Perseus
+         </span>
+        </li>
+        <li id="cite_note-11">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-11">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <a class="external text" href="http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0057%3Aentry%3Dpra%2Fssw" rel="nofollow">
+           πράσσω
+          </a>
+          , Henry George Liddell, Robert Scott,
+          <i>
+           A Greek-English Lexicon
+          </i>
+          , on Perseus
+         </span>
+        </li>
+        <li id="cite_note-12">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-12">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation web">
+           Jucker, Andreas H (2012).
+           <a class="external text" href="http://www.zora.uzh.ch/57900/1/Jucker_Pragmatics_in_the_history_of_linguistic_thought.pdf" rel="nofollow">
+            "Pragmatics in the history of linguistic thought"
+           </a>
+           <span style="font-size:85%;">
+            (PDF)
+           </span>
+           .
+           <i>
+            www.zora.uzh.ch
+           </i>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.zora.uzh.ch&amp;rft.atitle=Pragmatics+in+the+history+of+linguistic+thought&amp;rft.date=2012&amp;rft.aulast=Jucker&amp;rft.aufirst=Andreas+H&amp;rft_id=http%3A%2F%2Fwww.zora.uzh.ch%2F57900%2F1%2FJucker_Pragmatics_in_the_history_of_linguistic_thought.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APragmatics">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-13">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-13">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation web">
+           <a class="external text" href="http://study.com/academy/lesson/what-is-pragmatics-definition-examples.html" rel="nofollow">
+            "What is Pragmatics? - Definition &amp; Examples - Video &amp; Lesson Transcript | Study.com"
+           </a>
+           .
+           <i>
+            study.com
+           </i>
+           <span class="reference-accessdate">
+            . Retrieved
+            <span class="nowrap">
+             2017-07-11
+            </span>
+           </span>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=study.com&amp;rft.atitle=What+is+Pragmatics%3F+-+Definition+%26+Examples+-+Video+%26+Lesson+Transcript+%7C+Study.com&amp;rft_id=http%3A%2F%2Fstudy.com%2Facademy%2Flesson%2Fwhat-is-pragmatics-definition-examples.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APragmatics">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-14">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-14">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          Silverstein 1976
+         </span>
+        </li>
+        <li id="cite_note-Middleton-15">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-Middleton_15-0">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          Middleton, Richard (1990/2002).
+          <i>
+           Studying Popular Music
+          </i>
+          , p. 241. Philadelphia: Open University Press.
+          <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+           ISBN
+          </a>
+          <a href="/wiki/Special:BookSources/0-335-15275-9" title="Special:BookSources/0-335-15275-9">
+           0-335-15275-9
+          </a>
+          .
+         </span>
+        </li>
+        <li id="cite_note-Duranti_1997-16">
+         <span class="mw-cite-backlink">
+          ^
+          <a href="#cite_ref-Duranti_1997_16-0">
+           <sup>
+            <i>
+             <b>
+              a
+             </b>
+            </i>
+           </sup>
+          </a>
+          <a href="#cite_ref-Duranti_1997_16-1">
+           <sup>
+            <i>
+             <b>
+              b
+             </b>
+            </i>
+           </sup>
+          </a>
+         </span>
+         <span class="reference-text">
+          Duranti 1997
+         </span>
+        </li>
+        <li id="cite_note-17">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-17">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation book">
+           Fromkin, Victoria (2014).
+           <i>
+            Introduction to Language
+           </i>
+           . Boston, Ma.: Wadsworth, Cengage Learning. p. 508.
+           <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+            ISBN
+           </a>
+           <a href="/wiki/Special:BookSources/1133310680" title="Special:BookSources/1133310680">
+            1133310680
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Introduction+to+Language&amp;rft.place=Boston%2C+Ma.&amp;rft.pages=508&amp;rft.pub=Wadsworth%2C+Cengage+Learning&amp;rft.date=2014&amp;rft.isbn=1133310680&amp;rft.aulast=Fromkin&amp;rft.aufirst=Victoria&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APragmatics">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-18">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-18">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <a class="external text" href="http://web.stanford.edu/group/cslipublications/cslipublications/site/9781575866673.shtml" rel="nofollow">
+           see for instance F.Domaneschi. C. Penco, What is Said and What is Not, CSLI Publication, Stanford
+          </a>
+         </span>
+        </li>
+        <li id="cite_note-19">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-19">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          see for instance S. Neale, Descriptions, 1990
+         </span>
+        </li>
+        <li id="cite_note-20">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-20">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <a href="/wiki/Gilles_Deleuze" title="Gilles Deleuze">
+           Deleuze, Gilles
+          </a>
+          and
+          <a href="/wiki/F%C3%A9lix_Guattari" title="Félix Guattari">
+           Félix Guattari
+          </a>
+          (1987) [1980].
+          <i>
+           <a href="/wiki/A_Thousand_Plateaus" title="A Thousand Plateaus">
+            A Thousand Plateaus
+           </a>
+          </i>
+          . University of Minnesota Press.
+         </span>
+        </li>
+       </ol>
+      </div>
+      <h2>
+       <span class="mw-headline" id="References">
+        References
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Pragmatics&amp;action=edit&amp;section=16" title="Edit section: References">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a href="/wiki/J._L._Austin" title="J. L. Austin">
+         Austin, J. L.
+        </a>
+        (1962)
+        <i>
+         <a class="mw-redirect" href="/wiki/How_to_Do_Things_With_Words" title="How to Do Things With Words">
+          How to Do Things With Words
+         </a>
+        </i>
+        . Oxford University Press.
+       </li>
+       <li>
+        Ariel, Mira (2008),
+        <i>
+         Pragmatics and Grammar
+        </i>
+        , Cambridge: Cambridge University Press.
+       </li>
+       <li>
+        <cite class="citation book">
+         Ariel, Mira (2010).
+         <i>
+          Defining Pragmatics
+         </i>
+         . Cambridge University Press.
+         <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+          ISBN
+         </a>
+         <a href="/wiki/Special:BookSources/978-0-521-73203-1" title="Special:BookSources/978-0-521-73203-1">
+          978-0-521-73203-1
+         </a>
+         .
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Defining+Pragmatics&amp;rft.pub=Cambridge+University+Press&amp;rft.date=2010&amp;rft.isbn=978-0-521-73203-1&amp;rft.au=Ariel%2C+Mira&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APragmatics">
+         <span style="display:none;">
+         </span>
+        </span>
+       </li>
+       <li>
+        Brown, Penelope, and
+        <a class="mw-redirect" href="/wiki/Stephen_C._Levinson" title="Stephen C. Levinson">
+         Stephen C. Levinson
+        </a>
+        . (1978)
+        <i>
+         Politeness: Some Universals in Language Usage
+        </i>
+        . Cambridge University Press.
+       </li>
+       <li>
+        <a href="/wiki/Robyn_Carston" title="Robyn Carston">
+         Carston, Robyn
+        </a>
+        (2002)
+        <i>
+         Thoughts and Utterances: The Pragmatics of Explicit Communication
+        </i>
+        . Oxford: Blackwell.
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/Herb_Clark" title="Herb Clark">
+         Clark, Herbert H.
+        </a>
+        (1996) "Using Language". Cambridge University Press.
+       </li>
+       <li>
+        Cole, Peter, ed.. (1978)
+        <i>
+         Pragmatics
+        </i>
+        . (Syntax and Semantics, 9). New York: Academic Press.
+       </li>
+       <li>
+        <a href="/wiki/Teun_A._van_Dijk" title="Teun A. van Dijk">
+         Dijk, Teun A. van.
+        </a>
+        (1977)
+        <i>
+         Text and Context. Explorations in the Semantics and Pragmatics of Discourse
+        </i>
+        . London: Longman.
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/H._Paul_Grice" title="H. Paul Grice">
+         Grice, H. Paul
+        </a>
+        . (1989)
+        <i>
+         Studies in the Way of Words
+        </i>
+        . Cambridge (MA): Harvard University Press.
+       </li>
+       <li>
+        Laurence R. Horn and Gregory Ward. (2005)
+        <i>
+         The Handbook of Pragmatics
+        </i>
+        . Blackwell.
+       </li>
+       <li>
+        Leech, Geoffrey N. (1983)
+        <i>
+         Principles of Pragmatics
+        </i>
+        . London: Longman.
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/Stephen_C._Levinson" title="Stephen C. Levinson">
+         Levinson, Stephen C.
+        </a>
+        (1983)
+        <i>
+         Pragmatics
+        </i>
+        . Cambridge University Press.
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/Stephen_C._Levinson" title="Stephen C. Levinson">
+         Levinson, Stephen C.
+        </a>
+        (2000). Presumptive meanings: The theory of generalized conversational implicature. MIT Press.
+       </li>
+       <li>
+        Lin, G. H. C., &amp; Perkins, L. (2005). Cross-cultural discourse of giving and accepting gifts. International Journal of Communication, 16,1-2, 103-12 (ERIC Collections in ED 503685
+        <a class="external free" href="http://www.eric.ed.gov/PDFS/ED503685.pdf" rel="nofollow">
+         http://www.eric.ed.gov/PDFS/ED503685.pdf
+        </a>
+        )
+       </li>
+       <li>
+        <a href="/wiki/Jacob_L._Mey" title="Jacob L. Mey">
+         Mey, Jacob L.
+        </a>
+        (1993)
+        <i>
+         Pragmatics: An Introduction
+        </i>
+        . Oxford: Blackwell (2nd ed. 2001).
+       </li>
+       <li>
+        Kepa Korta and John Perry. (2006)
+        <a class="external text" href="http://plato.stanford.edu/entries/pragmatics/" rel="nofollow">
+         <i>
+          Pragmatics
+         </i>
+        </a>
+        . The
+        <a href="/wiki/Stanford_Encyclopedia_of_Philosophy" title="Stanford Encyclopedia of Philosophy">
+         Stanford Encyclopedia of Philosophy
+        </a>
+       </li>
+       <li>
+        Potts, Christopher. (2005)
+        <i>
+         The Logic of Conventional Implicatures
+        </i>
+        . Oxford Studies in Theoretical Linguistics. Oxford: Oxford University Press.
+       </li>
+       <li>
+        <a href="/wiki/Douglas_Robinson_(academic)" title="Douglas Robinson (academic)">
+         Robinson, Douglas
+        </a>
+        . (2003).
+        <i>
+         Performative Linguistics: Speaking and Translating as Doing Things With Words
+        </i>
+        . London and New York: Routledge.
+       </li>
+       <li>
+        Robinson, Douglas. (2006).
+        <i>
+         Introducing Performative Pragmatics
+        </i>
+        . London and New York: Routledge.
+       </li>
+       <li>
+        Sperber, Dan and Wilson, Deirdre. (2005)
+        <a class="external text" href="http://www.dan.sperber.com/pragmatics.htm" rel="nofollow">
+         Pragmatics
+        </a>
+        . In F. Jackson and M. Smith (eds.) Oxford Handbook of Contemporary Philosophy. OUP, Oxford, 468-501. (Also available
+        <a class="external text" href="http://www.phon.ucl.ac.uk/home/deirdre/papers/Pragmatics2005.doc" rel="nofollow">
+         here
+        </a>
+        .)
+       </li>
+       <li>
+        Thomas, Jenny (1995)
+        <i>
+         Meaning in Interaction: An Introduction to Pragmatics
+        </i>
+        . Longman.
+       </li>
+       <li>
+        Verschueren, Jef. (1999)
+        <a class="external text" href="https://www.uantwerpen.be/en/rg/ipra/research/publications/books/" rel="nofollow">
+         <i>
+          Understanding Pragmatics
+         </i>
+        </a>
+        . London, New York: Arnold Publishers.
+       </li>
+       <li>
+        Verschueren, Jef, Jan-Ola Östman, Jan Blommaert, eds. (1995)
+        <i>
+         Handbook of Pragmatics
+        </i>
+        . Amsterdam: Benjamins.
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/Watzlawick" title="Watzlawick">
+         Watzlawick
+        </a>
+        , Paul, Janet Helmick Beavin and Don D. Jackson (1967)
+        <i>
+         Pragmatics of Human Communication: A Study of Interactional Patterns, Pathologies, and Paradoxes
+        </i>
+        . New York: Norton.
+       </li>
+       <li>
+        <a href="/wiki/Anna_Wierzbicka" title="Anna Wierzbicka">
+         Wierzbicka, Anna
+        </a>
+        (1991)
+        <i>
+         Cross-cultural Pragmatics. The Semantics of Human Interaction
+        </i>
+        . Berlin, New York: Mouton de Gruyter.
+       </li>
+       <li>
+        Yule, George (1996)
+        <i>
+         Pragmatics
+        </i>
+        (Oxford Introductions to Language Study). Oxford University Press.
+       </li>
+       <li>
+        Silverstein, Michael. 1976. "Shifters, Linguistic Categories, and Cultural Description," in Meaning and Anthropology, Basso and Selby, eds. New York: Harper &amp; Row
+       </li>
+       <li>
+        Wardhaugh, Ronald. (2006). "An Introduction to Sociolinguistics". Blackwell.
+       </li>
+       <li>
+        Duranti, Alessandro. (1997). "Linguistic Anthropology". Cambridge University Press.
+       </li>
+       <li>
+        Carbaugh, Donal. (1990). "Cultural Communication and Intercultural Contact." LEA.
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="External_links">
+        External links
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Pragmatics&amp;action=edit&amp;section=17" title="Edit section: External links">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a class="external text" href="http://ipra.ua.ac.be" rel="nofollow">
+         International Pragmatics Association (IPrA)
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://www.elsevier.com/wps/find/journaldescription.cws_home/505593/description#description" rel="nofollow">
+         Journal of Pragmatics
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://www.gxnu.edu.cn/Personal/szliu/definition.html" rel="nofollow">
+         "What is Pragmatics?" (eprint) by Shaozhong Liu
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://www1.ku-eichstaett.de/SLF/EngluVglSW/mediawiki/index.php/ELiX_Wiki:Projects/ECSTRA" rel="nofollow">
+         European Communicative Strategies (ECSTRA)
+        </a>
+        , a (wiki)project in comparative pragmatics directed by
+        <a href="/wiki/Joachim_Grzega" title="Joachim Grzega">
+         Joachim Grzega
+        </a>
+        .
+       </li>
+      </ul>
+      <div aria-labelledby="Communication_studies" class="navbox" role="navigation" style="padding:3px">
+       <table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tr>
+         <th class="navbox-title" colspan="3" scope="col">
+          <div class="plainlinks hlist navbar mini">
+           <ul>
+            <li class="nv-view">
+             <a href="/wiki/Template:Communication_studies" title="Template:Communication studies">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">
+               v
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-talk">
+             <a href="/wiki/Template_talk:Communication_studies" title="Template talk:Communication studies">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">
+               t
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-edit">
+             <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Communication_studies&amp;action=edit">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">
+               e
+              </abbr>
+             </a>
+            </li>
+           </ul>
+          </div>
+          <div id="Communication_studies" style="font-size:114%;margin:0 4em">
+           <a href="/wiki/Communication_studies" title="Communication studies">
+            Communication studies
+           </a>
+          </div>
+         </th>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          <div style="padding:0.1em 0;line-height:1.2em;">
+           Topics and
+           <br/>
+           terminology
+          </div>
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Biocommunication_(science)" title="Biocommunication (science)">
+              Biocommunication
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Broadcasting" title="Broadcasting">
+              Broadcasting
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Communication" title="Communication">
+              Communication
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Computer-mediated_communication" title="Computer-mediated communication">
+              Computer-mediated communication
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Conversation" title="Conversation">
+              Conversation
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/History_of_communication" title="History of communication">
+              History of communication
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Information" title="Information">
+              Information
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Intercultural_communication" title="Intercultural communication">
+              Intercultural
+             </a>
+             /
+             <a href="/wiki/Interpersonal_communication" title="Interpersonal communication">
+              Interpersonal
+             </a>
+             /
+             <a href="/wiki/Intrapersonal_communication" title="Intrapersonal communication">
+              Intrapersonal communication
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Journalism" title="Journalism">
+              Journalism
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Mass_media" title="Mass media">
+              Mass media
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Meaning_(philosophy_of_language)" title="Meaning (philosophy of language)">
+              Meaning
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Media_ecology" title="Media ecology">
+              Media ecology
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Meta-communication" title="Meta-communication">
+              Meta-communication
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Models_of_communication" title="Models of communication">
+              Models of communication
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/New_media" title="New media">
+              New media
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Nonverbal_communication" title="Nonverbal communication">
+              Nonverbal communication
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Propaganda" title="Propaganda">
+              Propaganda
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Reading_(process)" title="Reading (process)">
+              Reading
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Speech" title="Speech">
+              Speech
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Symbol" title="Symbol">
+              Symbol
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Telecommunication" title="Telecommunication">
+              Telecommunication
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Text_and_conversation_theory" title="Text and conversation theory">
+              Text and conversation theory
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Writing" title="Writing">
+              Writing
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+         <td class="navbox-image" rowspan="4" style="width:1px;padding:0px 0px 0px 2px">
+          <div>
+           <a class="image" href="/wiki/File:Encoding_communication.jpg" title="Encoding communication">
+            <img alt="Encoding communication" data-file-height="345" data-file-width="400" height="104" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Encoding_communication.jpg/120px-Encoding_communication.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Encoding_communication.jpg/180px-Encoding_communication.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/79/Encoding_communication.jpg/240px-Encoding_communication.jpg 2x" width="120"/>
+           </a>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          Subfields
+         </th>
+         <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Communication_design" title="Communication design">
+              Communication design
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Communication_theory" title="Communication theory">
+              Communication theory
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Communicology" title="Communicology">
+              Communicology
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Crisis_communication" title="Crisis communication">
+              Crisis communication
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Cross-cultural_communication" title="Cross-cultural communication">
+              Cross-cultural communication
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Development_communication" title="Development communication">
+              Development communication
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Discourse_analysis" title="Discourse analysis">
+              Discourse analysis
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Environmental_communication" title="Environmental communication">
+              Environmental communication
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Health_communication" title="Health communication">
+              Health communication
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/International_communication" title="International communication">
+              International communication
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Mass_communication" title="Mass communication">
+              Mass communication
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Media_studies" title="Media studies">
+              Media studies
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Mediated_cross-border_communication" title="Mediated cross-border communication">
+              Mediated cross-border communication
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Organizational_communication" title="Organizational communication">
+              Organizational communication
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Political_communication" title="Political communication">
+              Political communication
+             </a>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/Risk_communication" title="Risk communication">
+              Risk communication
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Science_communication" title="Science communication">
+              Science communication
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Technical_communication" title="Technical communication">
+              Technical communication
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Visual_communication" title="Visual communication">
+              Visual communication
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          Related fields
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Conversation_analysis" title="Conversation analysis">
+              Conversation analysis
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Critical_theory" title="Critical theory">
+              Critical theory
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Cultural_studies" title="Cultural studies">
+              Cultural studies
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Digital_rhetoric" title="Digital rhetoric">
+              Digital rhetoric
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Film_criticism" title="Film criticism">
+              Film criticism
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Heritage_interpretation" title="Heritage interpretation">
+              Heritage interpretation
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Journalism" title="Journalism">
+              Journalism
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Photojournalism" title="Photojournalism">
+                photojournalism
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Linguistics" title="Linguistics">
+              Linguistics
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Philosophy_of_language" title="Philosophy of language">
+              Philosophy of language
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Political_science" title="Political science">
+              Political science
+             </a>
+            </li>
+            <li>
+             <a class="mw-selflink selflink">
+              Pragmatics
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Public_relations" title="Public relations">
+              Public relations
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Rhetoric" title="Rhetoric">
+              Rhetoric
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Semiotics" title="Semiotics">
+              Semiotics
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Sociolinguistics" title="Sociolinguistics">
+              Sociolinguistics
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Sociology_of_culture" title="Sociology of culture">
+              Sociology of culture
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Theatre" title="Theatre">
+              Theatre
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          Scholars
+         </th>
+         <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Theodor_W._Adorno" title="Theodor W. Adorno">
+              Adorno
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Roland_Barthes" title="Roland Barthes">
+              Barthes
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Gregory_Bateson" title="Gregory Bateson">
+              Bateson
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Walter_Benjamin" title="Walter Benjamin">
+              Benjamin
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Kenneth_Burke" title="Kenneth Burke">
+              Burke
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Manuel_Castells" title="Manuel Castells">
+              Castells
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Noam_Chomsky" title="Noam Chomsky">
+              Chomsky
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Robert_T._Craig" title="Robert T. Craig">
+              Craig
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Walter_Fisher_(professor)" title="Walter Fisher (professor)">
+              Fisher
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Vil%C3%A9m_Flusser" title="Vilém Flusser">
+              Flusser
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/George_Gerbner" title="George Gerbner">
+              Gerbner
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Erving_Goffman" title="Erving Goffman">
+              Goffman
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/J%C3%BCrgen_Habermas" title="Jürgen Habermas">
+              Habermas
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Max_Horkheimer" title="Max Horkheimer">
+              Horkheimer
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Aldous_Huxley" title="Aldous Huxley">
+              Huxley
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Harold_Innis" title="Harold Innis">
+              Innis
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Roman_Jakobson" title="Roman Jakobson">
+              Jakobson
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Irving_Janis" title="Irving Janis">
+              Janis
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Wendell_Johnson" title="Wendell Johnson">
+              Johnson
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/D._Lawrence_Kincaid" title="D. Lawrence Kincaid">
+              Kincaid
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Andrew_B._Lippman" title="Andrew B. Lippman">
+              Lippman
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Niklas_Luhmann" title="Niklas Luhmann">
+              Luhmann
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Herbert_Marcuse" title="Herbert Marcuse">
+              Marcuse
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Marshall_McLuhan" title="Marshall McLuhan">
+              McLuhan
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/George_Herbert_Mead" title="George Herbert Mead">
+              Mead
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Nick_Morgan" title="Nick Morgan">
+              Morgan
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Walter_J._Ong" title="Walter J. Ong">
+              Ong
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Vance_Packard" title="Vance Packard">
+              Packard
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Charles_Sanders_Peirce" title="Charles Sanders Peirce">
+              Peirce
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Neil_Postman" title="Neil Postman">
+              Postman
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Nora_C._Quebral" title="Nora C. Quebral">
+              Quebral
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/I._A._Richards" title="I. A. Richards">
+              Richards
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Everett_Rogers" title="Everett Rogers">
+              Rogers
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Wilbur_Schramm" title="Wilbur Schramm">
+              Schramm
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/James_W._Tankard_Jr." title="James W. Tankard Jr.">
+              Tankard
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Deborah_Tannen" title="Deborah Tannen">
+              Tannen
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Max_Wertheimer" title="Max Wertheimer">
+              Wertheimer
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <td class="navbox-abovebelow" colspan="3">
+          <div>
+           <ul>
+            <li>
+             <a href="/wiki/Category:Communication_studies" title="Category:Communication studies">
+              Category
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/History_of_communication_studies" title="History of communication studies">
+              History
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Category:Communication_journals" title="Category:Communication journals">
+              Journals
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Category:Communications_and_media_organizations" title="Category:Communications and media organizations">
+              Organizations
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Outline_of_communication" title="Outline of communication">
+              Outline
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Category:Communication_scholars" title="Category:Communication scholars">
+              Scholars
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Category:Communication_templates" title="Category:Communication templates">
+              Templates
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+       </table>
+      </div>
+      <div aria-labelledby="Philosophy_of_language" class="navbox" role="navigation" style="padding:3px">
+       <table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tr>
+         <th class="navbox-title" colspan="2" scope="col">
+          <div class="plainlinks hlist navbar mini">
+           <ul>
+            <li class="nv-view">
+             <a href="/wiki/Template:Philosophy_of_language" title="Template:Philosophy of language">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">
+               v
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-talk">
+             <a href="/wiki/Template_talk:Philosophy_of_language" title="Template talk:Philosophy of language">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">
+               t
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-edit">
+             <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Philosophy_of_language&amp;action=edit">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">
+               e
+              </abbr>
+             </a>
+            </li>
+           </ul>
+          </div>
+          <div id="Philosophy_of_language" style="font-size:114%;margin:0 4em">
+           <a href="/wiki/Philosophy_of_language" title="Philosophy of language">
+            Philosophy of language
+           </a>
+          </div>
+         </th>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          <a href="/wiki/List_of_philosophers_of_language" title="List of philosophers of language">
+           Philosophers
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Plato" title="Plato">
+              Plato
+             </a>
+             (
+             <i>
+              <a href="/wiki/Cratylus_(dialogue)" title="Cratylus (dialogue)">
+               Cratylus
+              </a>
+             </i>
+             )
+            </li>
+            <li>
+             <a href="/wiki/Gorgias" title="Gorgias">
+              Gorgias
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Confucius" title="Confucius">
+              Confucius
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Xun_Kuang" title="Xun Kuang">
+              Xunzi
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Aristotle" title="Aristotle">
+              Aristotle
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Stoicism" title="Stoicism">
+              Stoics
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Pyrrhonism" title="Pyrrhonism">
+              Pyrrhonists
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Scholasticism" title="Scholasticism">
+              Scholasticism
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Averroes" title="Averroes">
+              Ibn Rushd
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Ibn_Khaldun" title="Ibn Khaldun">
+              Ibn Khaldun
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Thomas_Hobbes" title="Thomas Hobbes">
+              Thomas Hobbes
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Gottfried_Wilhelm_Leibniz" title="Gottfried Wilhelm Leibniz">
+              Gottfried Wilhelm Leibniz
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Johann_Gottfried_Herder" title="Johann Gottfried Herder">
+              Johann Herder
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Ludwig_Noir%C3%A9" title="Ludwig Noiré">
+              Ludwig Noiré
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Wilhelm_von_Humboldt" title="Wilhelm von Humboldt">
+              Wilhelm von Humboldt
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Fritz_Mauthner" title="Fritz Mauthner">
+              Fritz Mauthner
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Paul_Ric%C5%93ur" title="Paul Ricœur">
+              Paul Ricœur
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Ferdinand_de_Saussure" title="Ferdinand de Saussure">
+              Ferdinand de Saussure
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Gottlob_Frege" title="Gottlob Frege">
+              Gottlob Frege
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Franz_Boas" title="Franz Boas">
+              Franz Boas
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Paul_Tillich" title="Paul Tillich">
+              Paul Tillich
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Edward_Sapir" title="Edward Sapir">
+              Edward Sapir
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Leonard_Bloomfield" title="Leonard Bloomfield">
+              Leonard Bloomfield
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Zhuang_Zhou" title="Zhuang Zhou">
+              Zhuangzi
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Henri_Bergson" title="Henri Bergson">
+              Henri Bergson
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Lev_Vygotsky" title="Lev Vygotsky">
+              Lev Vygotsky
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Ludwig_Wittgenstein" title="Ludwig Wittgenstein">
+              Ludwig Wittgenstein
+             </a>
+             <ul>
+              <li>
+               <i>
+                <a href="/wiki/Philosophical_Investigations" title="Philosophical Investigations">
+                 Philosophical Investigations
+                </a>
+               </i>
+              </li>
+              <li>
+               <i>
+                <a href="/wiki/Tractatus_Logico-Philosophicus" title="Tractatus Logico-Philosophicus">
+                 Tractatus Logico-Philosophicus
+                </a>
+               </i>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Bertrand_Russell" title="Bertrand Russell">
+              Bertrand Russell
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Rudolf_Carnap" title="Rudolf Carnap">
+              Rudolf Carnap
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Jacques_Derrida" title="Jacques Derrida">
+              Jacques Derrida
+             </a>
+             <ul>
+              <li>
+               <i>
+                <a href="/wiki/Of_Grammatology" title="Of Grammatology">
+                 Of Grammatology
+                </a>
+               </i>
+              </li>
+              <li>
+               <i>
+                <a href="/wiki/Limited_Inc" title="Limited Inc">
+                 Limited Inc
+                </a>
+               </i>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Benjamin_Lee_Whorf" title="Benjamin Lee Whorf">
+              Benjamin Lee Whorf
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Gustav_Bergmann" title="Gustav Bergmann">
+              Gustav Bergmann
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/J._L._Austin" title="J. L. Austin">
+              J. L. Austin
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Noam_Chomsky" title="Noam Chomsky">
+              Noam Chomsky
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Hans-Georg_Gadamer" title="Hans-Georg Gadamer">
+              Hans-Georg Gadamer
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Saul_Kripke" title="Saul Kripke">
+              Saul Kripke
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/A._J._Ayer" title="A. J. Ayer">
+              A. J. Ayer
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/G._E._M._Anscombe" title="G. E. M. Anscombe">
+              G. E. M. Anscombe
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Jaakko_Hintikka" title="Jaakko Hintikka">
+              Jaakko Hintikka
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Michael_Dummett" title="Michael Dummett">
+              Michael Dummett
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Donald_Davidson_(philosopher)" title="Donald Davidson (philosopher)">
+              Donald Davidson
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Roger_Gibson" title="Roger Gibson">
+              Roger Gibson
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Paul_Grice" title="Paul Grice">
+              Paul Grice
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Gilbert_Ryle" title="Gilbert Ryle">
+              Gilbert Ryle
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/P._F._Strawson" title="P. F. Strawson">
+              P. F. Strawson
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Willard_Van_Orman_Quine" title="Willard Van Orman Quine">
+              Willard Van Orman Quine
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Hilary_Putnam" title="Hilary Putnam">
+              Hilary Putnam
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/David_Lewis_(philosopher)" title="David Lewis (philosopher)">
+              David Lewis
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/John_Searle" title="John Searle">
+              John Searle
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Joxe_Azurmendi" title="Joxe Azurmendi">
+              Joxe Azurmendi
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Scott_Soames" title="Scott Soames">
+              Scott Soames
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Stephen_Yablo" title="Stephen Yablo">
+              Stephen Yablo
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/John_Hawthorne" title="John Hawthorne">
+              John Hawthorne
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Stephen_Neale" title="Stephen Neale">
+              Stephen Neale
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Paul_Watzlawick" title="Paul Watzlawick">
+              Paul Watzlawick
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          <a href="/wiki/Category:Theories_of_language" title="Category:Theories of language">
+           Theories
+          </a>
+         </th>
+         <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Causal_theory_of_reference" title="Causal theory of reference">
+              Causal theory of reference
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Contrastivism" title="Contrastivism">
+              Contrast theory of meaning
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Contrastivism" title="Contrastivism">
+              Contrastivism
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Conventionalism" title="Conventionalism">
+              Conventionalism
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Cratylism" title="Cratylism">
+              Cratylism
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Deconstruction" title="Deconstruction">
+              Deconstruction
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Descriptivist_theory_of_names" title="Descriptivist theory of names">
+              Descriptivist theory of names
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Direct_reference_theory" title="Direct reference theory">
+              Direct reference theory
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Dramatism" title="Dramatism">
+              Dramatism
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Expressivism" title="Expressivism">
+              Expressivism
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Linguistic_determinism" title="Linguistic determinism">
+              Linguistic determinism
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Logical_atomism" title="Logical atomism">
+              Logical atomism
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Logical_positivism" title="Logical positivism">
+              Logical positivism
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Mediated_reference_theory" title="Mediated reference theory">
+              Mediated reference theory
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Nominalism" title="Nominalism">
+              Nominalism
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Non-cognitivism" title="Non-cognitivism">
+              Non-cognitivism
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Phallogocentrism" title="Phallogocentrism">
+              Phallogocentrism
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Quietism_(philosophy)" title="Quietism (philosophy)">
+              Quietism
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Relevance_theory" title="Relevance theory">
+              Relevance theory
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Semantic_externalism" title="Semantic externalism">
+              Semantic externalism
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Semantic_holism" title="Semantic holism">
+              Semantic holism
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Structuralism" title="Structuralism">
+              Structuralism
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Supposition_theory" title="Supposition theory">
+              Supposition theory
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Symbiosism" title="Symbiosism">
+              Symbiosism
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Theological_noncognitivism" title="Theological noncognitivism">
+              Theological noncognitivism
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Theory_of_descriptions" title="Theory of descriptions">
+              Theory of descriptions
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Verificationism" title="Verificationism">
+              Verification theory
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          Concepts
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Ambiguity" title="Ambiguity">
+              Ambiguity
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Linguistic_relativity" title="Linguistic relativity">
+              Linguistic relativity
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Meaning_(linguistics)" title="Meaning (linguistics)">
+              Meaning
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Language" title="Language">
+              Language
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Truth-bearer" title="Truth-bearer">
+              Truth-bearer
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Proposition" title="Proposition">
+              Proposition
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Use%E2%80%93mention_distinction" title="Use–mention distinction">
+              Use–mention distinction
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Concept" title="Concept">
+              Concept
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Categorization" title="Categorization">
+              Categories
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Set_(mathematics)" title="Set (mathematics)">
+              Set
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Class_(philosophy)" title="Class (philosophy)">
+              Class
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Intension" title="Intension">
+              Intension
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Logical_form" title="Logical form">
+              Logical form
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Metalanguage" title="Metalanguage">
+              Metalanguage
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Mental_representation" title="Mental representation">
+              Mental representation
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Principle_of_compositionality" title="Principle of compositionality">
+              Principle of compositionality
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Property_(philosophy)" title="Property (philosophy)">
+              Property
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Sign_(semiotics)" title="Sign (semiotics)">
+              Sign
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Sense_and_reference" title="Sense and reference">
+              Sense and reference
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Speech_act" title="Speech act">
+              Speech act
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Symbol" title="Symbol">
+              Symbol
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Entity" title="Entity">
+              Entity
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Sentence_(linguistics)" title="Sentence (linguistics)">
+              Sentence
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Statement_(logic)" title="Statement (logic)">
+              Statement
+             </a>
+            </li>
+            <li>
+             <b>
+              <a href="/wiki/Index_of_philosophy_of_language_articles" title="Index of philosophy of language articles">
+               more...
+              </a>
+             </b>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          Related articles
+         </th>
+         <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Analytic_philosophy" title="Analytic philosophy">
+              Analytic philosophy
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Philosophy_of_information" title="Philosophy of information">
+              Philosophy of information
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Philosophical_logic" title="Philosophical logic">
+              Philosophical logic
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Linguistics" title="Linguistics">
+              Linguistics
+             </a>
+            </li>
+            <li>
+             <a class="mw-selflink selflink">
+              Pragmatics
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Rhetoric" title="Rhetoric">
+              Rhetoric
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Semantics" title="Semantics">
+              Semantics
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Formal_semantics_(linguistics)" title="Formal semantics (linguistics)">
+              Formal semantics
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Semiotics" title="Semiotics">
+              Semiotics
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <td class="navbox-abovebelow" colspan="2">
+          <div>
+           <ul>
+            <li>
+             <a href="/wiki/Category:Philosophy_of_language" title="Category:Philosophy of language">
+              Category
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Wikipedia:WikiProject_Philosophy/Language" title="Wikipedia:WikiProject Philosophy/Language">
+              Task Force
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Wikipedia_talk:WikiProject_Philosophy" title="Wikipedia talk:WikiProject Philosophy">
+              Discussion
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+       </table>
+      </div>
+      <div aria-label="Navbox" class="navbox" role="navigation" style="padding:3px">
+       <table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          <a href="/wiki/Help:Authority_control" title="Help:Authority control">
+           Authority control
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <span class="nowrap">
+              <a href="/wiki/National_Diet_Library" title="National Diet Library">
+               NDL
+              </a>
+              :
+              <span class="uid">
+               <a class="external text" href="https://id.ndl.go.jp/auth/ndlna/00576884" rel="nofollow">
+                00576884
+               </a>
+              </span>
+             </span>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+       </table>
+      </div>
+      <!-- 
+NewPP limit report
+Parsed by mw1258
+Cached time: 20180124205929
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.288 seconds
+Real time usage: 0.383 seconds
+Preprocessor visited node count: 1435/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 77109/2097152 bytes
+Template argument size: 739/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 1/500
+Lua time usage: 0.105/10.000 seconds
+Lua memory usage: 3.69 MB/50 MB
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  272.982      1 -total
+ 38.92%  106.256      1 Template:Reflist
+ 17.46%   47.652      5 Template:Cite_web
+ 16.92%   46.179      3 Template:Unreferenced_section
+ 14.67%   40.040      3 Template:Unreferenced
+ 13.24%   36.130      3 Template:Ambox
+ 10.10%   27.569      1 Template:About
+ 10.00%   27.297      1 Template:ISBN
+  8.33%   22.735      1 Template:Authority_control
+  7.28%   19.864      1 Template:Linguistics
+-->
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:44816-0!canonical and timestamp 20180124205928 and revision id 805807223
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Pragmatics&amp;oldid=805807223">
+      https://en.wikipedia.org/w/index.php?title=Pragmatics&amp;oldid=805807223
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Pragmatics" title="Category:Pragmatics">
+         Pragmatics
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Semiotics" title="Category:Semiotics">
+         Semiotics
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:Articles_needing_additional_references_from_April_2009" title="Category:Articles needing additional references from April 2009">
+         Articles needing additional references from April 2009
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">
+         All articles needing additional references
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Pragmatics" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Pragmatics" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Pragmatics" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Pragmatics" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="collapsible selected" id="ca-view">
+        <span>
+         <a href="/wiki/Pragmatics">
+          Read
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Pragmatics&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Pragmatics&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Pragmatics" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Pragmatics" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Pragmatics&amp;oldid=805807223" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Pragmatics&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q181839" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Pragmatics&amp;id=805807223" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Pragmatics">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Pragmatics&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Pragmatics&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+     <h3 id="p-wikibase-otherprojects-label">
+      In other projects
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="wb-otherproject-link wb-otherproject-commons">
+        <a href="https://commons.wikimedia.org/wiki/Category:Pragmatics" hreflang="en">
+         Wikimedia Commons
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-wikiversity">
+        <a href="https://en.wikiversity.org/wiki/Pragmatics" hreflang="en">
+         Wikiversity
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-af">
+        <a class="interlanguage-link-target" href="https://af.wikipedia.org/wiki/Pragmatiek_(taalkunde)" hreflang="af" lang="af" title="Pragmatiek (taalkunde) – Afrikaans">
+         Afrikaans
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ar">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%AA%D8%AF%D8%A7%D9%88%D9%84%D9%8A%D8%A7%D8%AA" hreflang="ar" lang="ar" title="تداوليات – Arabic">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ast">
+        <a class="interlanguage-link-target" href="https://ast.wikipedia.org/wiki/Pragm%C3%A1tica" hreflang="ast" lang="ast" title="Pragmática – Asturian">
+         Asturianu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bg">
+        <a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%9F%D1%80%D0%B0%D0%B3%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0" hreflang="bg" lang="bg" title="Прагматика – Bulgarian">
+         Български
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Pragm%C3%A0tica" hreflang="ca" lang="ca" title="Pragmàtica – Catalan">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cs">
+        <a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Pragmatika" hreflang="cs" lang="cs" title="Pragmatika – Czech">
+         Čeština
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cy">
+        <a class="interlanguage-link-target" href="https://cy.wikipedia.org/wiki/Pragmateg" hreflang="cy" lang="cy" title="Pragmateg – Welsh">
+         Cymraeg
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-da">
+        <a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Pragmatik_(lingvistik)" hreflang="da" lang="da" title="Pragmatik (lingvistik) – Danish">
+         Dansk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Pragmatik_(Linguistik)" hreflang="de" lang="de" title="Pragmatik (Linguistik) – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-el">
+        <a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%A0%CF%81%CE%B1%CE%B3%CE%BC%CE%B1%CF%84%CE%BF%CE%BB%CE%BF%CE%B3%CE%AF%CE%B1" hreflang="el" lang="el" title="Πραγματολογία – Greek">
+         Ελληνικά
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Pragm%C3%A1tica" hreflang="es" lang="es" title="Pragmática – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eo">
+        <a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Pragmatiko" hreflang="eo" lang="eo" title="Pragmatiko – Esperanto">
+         Esperanto
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eu">
+        <a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Pragmatika" hreflang="eu" lang="eu" title="Pragmatika – Basque">
+         Euskara
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fa">
+        <a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%D8%AF%D8%B4%D9%86%D8%A7%D8%B3%DB%8C" hreflang="fa" lang="fa" title="کاربردشناسی – Persian">
+         فارسی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Pragmatique_(linguistique)" hreflang="fr" lang="fr" title="Pragmatique (linguistique) – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-gl">
+        <a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Pragm%C3%A1tica" hreflang="gl" lang="gl" title="Pragmática – Galician">
+         Galego
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ko">
+        <a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%ED%99%94%EC%9A%A9%EB%A1%A0" hreflang="ko" lang="ko" title="화용론 – Korean">
+         한국어
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hi">
+        <a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%AF%E0%A5%8B%E0%A4%97%E0%A4%BF%E0%A4%95_%E0%A4%AD%E0%A4%BE%E0%A4%B7%E0%A4%BE%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE%E0%A4%A8" hreflang="hi" lang="hi" title="प्रायोगिक भाषाविज्ञान – Hindi">
+         हिन्दी
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-id">
+        <a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Pragmatika" hreflang="id" lang="id" title="Pragmatika – Indonesian">
+         Bahasa Indonesia
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Pragmatica" hreflang="it" lang="it" title="Pragmatica – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-he">
+        <a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%A4%D7%A8%D7%92%D7%9E%D7%98%D7%99%D7%A7%D7%94" hreflang="he" lang="he" title="פרגמטיקה – Hebrew">
+         עברית
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ka">
+        <a class="interlanguage-link-target" href="https://ka.wikipedia.org/wiki/%E1%83%9E%E1%83%A0%E1%83%90%E1%83%92%E1%83%9B%E1%83%90%E1%83%A2%E1%83%98%E1%83%99%E1%83%90" hreflang="ka" lang="ka" title="პრაგმატიკა – Georgian">
+         ქართული
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sw">
+        <a class="interlanguage-link-target" href="https://sw.wikipedia.org/wiki/Isimu_amali" hreflang="sw" lang="sw" title="Isimu amali – Swahili">
+         Kiswahili
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lt">
+        <a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Pragmatika" hreflang="lt" lang="lt" title="Pragmatika – Lithuanian">
+         Lietuvių
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-jbo">
+        <a class="interlanguage-link-target" href="https://jbo.wikipedia.org/wiki/banpliske" hreflang="jbo" lang="jbo" title="banpliske – Lojban">
+         La .lojban.
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hu">
+        <a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Pragmatika" hreflang="hu" lang="hu" title="Pragmatika – Hungarian">
+         Magyar
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-mk">
+        <a class="interlanguage-link-target" href="https://mk.wikipedia.org/wiki/%D0%9F%D1%80%D0%B0%D0%B3%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0" hreflang="mk" lang="mk" title="Прагматика – Macedonian">
+         Македонски
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-mr">
+        <a class="interlanguage-link-target" href="https://mr.wikipedia.org/wiki/%E0%A4%B8%E0%A4%BE%E0%A4%AA%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%B7_%E0%A4%85%E0%A4%B0%E0%A5%8D%E0%A4%A5%E0%A4%9A%E0%A5%8D%E2%80%8D%E0%A4%9B%E0%A4%9F%E0%A4%BE%E0%A4%B6%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8D%E0%A4%B0" hreflang="mr" lang="mr" title="सापेक्ष अर्थच्‍छटाशास्त्र – Marathi">
+         मराठी
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nl">
+        <a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Pragmatiek_(taalkunde)" hreflang="nl" lang="nl" title="Pragmatiek (taalkunde) – Dutch">
+         Nederlands
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E8%AA%9E%E7%94%A8%E8%AB%96" hreflang="ja" lang="ja" title="語用論 – Japanese">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-no">
+        <a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Pragmatikk" hreflang="no" lang="no" title="Pragmatikk – Norwegian">
+         Norsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-oc">
+        <a class="interlanguage-link-target" href="https://oc.wikipedia.org/wiki/Pragmatica" hreflang="oc" lang="oc" title="Pragmatica – Occitan">
+         Occitan
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uz">
+        <a class="interlanguage-link-target" href="https://uz.wikipedia.org/wiki/Pragmatika" hreflang="uz" lang="uz" title="Pragmatika – Uzbek">
+         Oʻzbekcha/ўзбекча
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pl">
+        <a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Pragmatyka" hreflang="pl" lang="pl" title="Pragmatyka – Polish">
+         Polski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Pragm%C3%A1tica" hreflang="pt" lang="pt" title="Pragmática – Portuguese">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ro">
+        <a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Pragmatic%C4%83" hreflang="ro" lang="ro" title="Pragmatică – Romanian">
+         Română
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B0%D0%B3%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0" hreflang="ru" lang="ru" title="Прагматика – Russian">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sco">
+        <a class="interlanguage-link-target" href="https://sco.wikipedia.org/wiki/Pragmatics" hreflang="sco" lang="sco" title="Pragmatics – Scots">
+         Scots
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-simple">
+        <a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Pragmatics" hreflang="simple" lang="simple" title="Pragmatics – Simple English">
+         Simple English
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sk">
+        <a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Pragmatika" hreflang="sk" lang="sk" title="Pragmatika – Slovak">
+         Slovenčina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sl">
+        <a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Pragmatika" hreflang="sl" lang="sl" title="Pragmatika – Slovenian">
+         Slovenščina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sr">
+        <a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%9F%D1%80%D0%B0%D0%B3%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0" hreflang="sr" lang="sr" title="Прагматика – Serbian">
+         Српски / srpski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fi">
+        <a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Pragmatiikka" hreflang="fi" lang="fi" title="Pragmatiikka – Finnish">
+         Suomi
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sv">
+        <a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Pragmatik" hreflang="sv" lang="sv" title="Pragmatik – Swedish">
+         Svenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tl">
+        <a class="interlanguage-link-target" href="https://tl.wikipedia.org/wiki/Pragmatiks" hreflang="tl" lang="tl" title="Pragmatiks – Tagalog">
+         Tagalog
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ta">
+        <a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%9A%E0%AF%82%E0%AE%B4%E0%AF%8D%E0%AE%AA%E0%AF%8A%E0%AE%B0%E0%AF%81%E0%AE%B3%E0%AE%BF%E0%AE%AF%E0%AE%B2%E0%AF%8D" hreflang="ta" lang="ta" title="சூழ்பொருளியல் – Tamil">
+         தமிழ்
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-th">
+        <a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%88%E0%B8%99%E0%B8%9B%E0%B8%8F%E0%B8%B4%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B9%8C" hreflang="th" lang="th" title="วัจนปฏิบัติศาสตร์ – Thai">
+         ไทย
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tr">
+        <a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Pragmatik" hreflang="tr" lang="tr" title="Pragmatik – Turkish">
+         Türkçe
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uk">
+        <a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%9F%D1%80%D0%B0%D0%B3%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0" hreflang="uk" lang="uk" title="Прагматика – Ukrainian">
+         Українська
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-vi">
+        <a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/Ng%E1%BB%AF_d%E1%BB%A5ng_h%E1%BB%8Dc" hreflang="vi" lang="vi" title="Ngữ dụng học – Vietnamese">
+         Tiếng Việt
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-war">
+        <a class="interlanguage-link-target" href="https://war.wikipedia.org/wiki/Pragmatika" hreflang="war" lang="war" title="Pragmatika – Waray">
+         Winaray
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E8%AF%AD%E7%94%A8%E5%AD%A6" hreflang="zh" lang="zh" title="语用学 – Chinese">
+         中文
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q181839#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 17 October 2017, at 19:24.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Pragmatics&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.288","walltime":"0.383","ppvisitednodes":{"value":1435,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":77109,"limit":2097152},"templateargumentsize":{"value":739,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  272.982      1 -total"," 38.92%  106.256      1 Template:Reflist"," 17.46%   47.652      5 Template:Cite_web"," 16.92%   46.179      3 Template:Unreferenced_section"," 14.67%   40.040      3 Template:Unreferenced"," 13.24%   36.130      3 Template:Ambox"," 10.10%   27.569      1 Template:About"," 10.00%   27.297      1 Template:ISBN","  8.33%   22.735      1 Template:Authority_control","  7.28%   19.864      1 Template:Linguistics"]},"scribunto":{"limitreport-timeusage":{"value":"0.105","limit":"10.000"},"limitreport-memusage":{"value":3868900,"limit":52428800}},"cachereport":{"origin":"mw1258","timestamp":"20180124205929","ttl":1900800,"transientcontent":false}}});});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":81,"wgHostname":"mw1250"});});
+  </script>
+ </body>
+</html>

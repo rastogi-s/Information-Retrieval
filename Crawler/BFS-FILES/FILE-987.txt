@@ -1,0 +1,1933 @@
+https://en.wikipedia.org/wiki/Coronal_seismology
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Coronal seismology - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Coronal_seismology","wgTitle":"Coronal seismology","wgCurRevisionId":798039822,"wgRevisionId":798039822,"wgArticleId":18176668,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Sun","Solar phenomena","Space plasmas","Plasma physics","Waves in plasmas"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Coronal_seismology","wgRelevantArticleId":18176668,"wgRequestId":"WnBx0ApAAD0AAGXpnxQAAABE","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q5172179","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.31.0-wmf.17" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Coronal_seismology" rel="alternate"/>
+  <link href="/w/index.php?title=Coronal_seismology&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Coronal_seismology&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/Coronal_seismology" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Coronal_seismology rootpage-Coronal_seismology skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Coronal seismology
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <p>
+       <b>
+        Coronal seismology
+       </b>
+       is a technique of studying the
+       <a href="/wiki/Plasma_(physics)" title="Plasma (physics)">
+        plasma
+       </a>
+       of the Sun's
+       <a href="/wiki/Corona" title="Corona">
+        corona
+       </a>
+       with the use of
+       <a href="/wiki/Magnetohydrodynamics" title="Magnetohydrodynamics">
+        magnetohydrodynamic
+       </a>
+       (MHD)
+       <a href="/wiki/Wave" title="Wave">
+        waves
+       </a>
+       and
+       <a href="/wiki/Oscillation" title="Oscillation">
+        oscillations
+       </a>
+       . Magnetohydrodynamics studies the
+       <a href="/wiki/Dynamics_(mechanics)" title="Dynamics (mechanics)">
+        dynamics
+       </a>
+       of
+       <a class="mw-redirect" href="/wiki/Electrical_conduction" title="Electrical conduction">
+        electrically conducting
+       </a>
+       <a href="/wiki/Fluid" title="Fluid">
+        fluids
+       </a>
+       - in this case the fluid is the coronal plasma. Observed properties of the waves (e.g.
+       <a href="/wiki/Frequency" title="Frequency">
+        period
+       </a>
+       ,
+       <a href="/wiki/Wavelength" title="Wavelength">
+        wavelength
+       </a>
+       ,
+       <a href="/wiki/Amplitude" title="Amplitude">
+        amplitude
+       </a>
+       , temporal and spatial signatures (what is the shape of the wave perturbation?), characteristic scenarios of the wave evolution (is the wave damped?), combined with a theoretical modelling of the wave phenomena (
+       <a href="/wiki/Dispersion_relation" title="Dispersion relation">
+        dispersion relations
+       </a>
+       , evolutionary equations, etc.), may reflect physical parameters of the corona which are not accessible
+       <i>
+        in situ,
+       </i>
+       such as the coronal
+       <a href="/wiki/Magnetic_field" title="Magnetic field">
+        magnetic field
+       </a>
+       strength and
+       <a href="/wiki/Alfv%C3%A9n_wave#Alfvén_velocity" title="Alfvén wave">
+        Alfvén velocity
+       </a>
+       <sup class="reference" id="cite_ref-Nakariakov2001_1-0">
+        <a href="#cite_note-Nakariakov2001-1">
+         [1]
+        </a>
+       </sup>
+       and coronal
+       <a class="mw-redirect" href="/wiki/Dissipative" title="Dissipative">
+        dissipative
+       </a>
+       coefficients.
+       <sup class="reference" id="cite_ref-2">
+        <a href="#cite_note-2">
+         [2]
+        </a>
+       </sup>
+       Originally, the method of MHD coronal seismology was suggested by Y. Uchida in 1970
+       <sup class="reference" id="cite_ref-3">
+        <a href="#cite_note-3">
+         [3]
+        </a>
+       </sup>
+       for propagating waves, and B. Roberts et al. in 1984
+       <sup class="reference" id="cite_ref-4">
+        <a href="#cite_note-4">
+         [4]
+        </a>
+       </sup>
+       for standing waves, but was not practically applied until the late 90s due to a lack of necessary observational resolution. Philosophically, coronal seismology is similar to the Earth's
+       <a href="/wiki/Seismology" title="Seismology">
+        seismology
+       </a>
+       ,
+       <a href="/wiki/Helioseismology" title="Helioseismology">
+        helioseismology
+       </a>
+       , and MHD spectroscopy of laboratory plasma devices. In all these approaches, waves of various kind are used to probe a medium.
+      </p>
+      <p>
+       The theoretical foundation of coronal seismology is the
+       <a href="/wiki/Dispersion_relation" title="Dispersion relation">
+        dispersion relation
+       </a>
+       of MHD modes of a plasma cylinder: a plasma structure which is nonuniform in the transverse direction and extended along the magnetic field. This model works well for the description of a number of plasma structures observed in the solar corona: e.g.
+       <a class="mw-redirect" href="/wiki/Coronal_loops" title="Coronal loops">
+        coronal loops
+       </a>
+       , prominence fibrils, plumes, various filaments. Such a structure acts as a
+       <a href="/wiki/Waveguide" title="Waveguide">
+        waveguide
+       </a>
+       of MHD waves.
+      </p>
+      <p>
+       This discussion is adapted from Nakariakov &amp; Verwichte (2009).
+       <sup class="reference" id="cite_ref-5">
+        <a href="#cite_note-5">
+         [5]
+        </a>
+       </sup>
+      </p>
+      <p>
+      </p>
+      <div class="toc" id="toc">
+       <div class="toctitle" dir="ltr" lang="en" xml:lang="en">
+        <h2>
+         Contents
+        </h2>
+       </div>
+       <ul>
+        <li class="toclevel-1 tocsection-1">
+         <a href="#Types_of_magnetohydrodynamic_waves">
+          <span class="tocnumber">
+           1
+          </span>
+          <span class="toctext">
+           Types of magnetohydrodynamic waves
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-2">
+         <a href="#Observations">
+          <span class="tocnumber">
+           2
+          </span>
+          <span class="toctext">
+           Observations
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-3">
+         <a href="#Conclusions">
+          <span class="tocnumber">
+           3
+          </span>
+          <span class="toctext">
+           Conclusions
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-4">
+         <a href="#References">
+          <span class="tocnumber">
+           4
+          </span>
+          <span class="toctext">
+           References
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-5">
+         <a href="#External_links">
+          <span class="tocnumber">
+           5
+          </span>
+          <span class="toctext">
+           External links
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <p>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Types_of_magnetohydrodynamic_waves">
+        Types of magnetohydrodynamic waves
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Coronal_seismology&amp;action=edit&amp;section=1" title="Edit section: Types of magnetohydrodynamic waves">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       There are several distinct kinds of MHD modes which have quite different
+       <a href="/wiki/Dispersive_mass_transfer" title="Dispersive mass transfer">
+        dispersive
+       </a>
+       ,
+       <a href="/wiki/Polarization_(waves)" title="Polarization (waves)">
+        polarisation
+       </a>
+       , and
+       <a href="/wiki/Wave_propagation" title="Wave propagation">
+        propagation
+       </a>
+       properties:
+      </p>
+      <ul>
+       <li>
+        Kink (or
+        <a href="/wiki/Transverse_wave" title="Transverse wave">
+         transverse
+        </a>
+        ) modes, which are
+        <a href="/wiki/Oblique_shock" title="Oblique shock">
+         oblique
+        </a>
+        fast magnetoacoustic (also known as
+        <a href="/wiki/Magnetosonic_wave" title="Magnetosonic wave">
+         magnetosonic waves
+        </a>
+        ) guided by the plasma structure; the mode causes the displacement of the axis of the plasma structure. These modes are weakly
+        <a href="/wiki/Compressibility" title="Compressibility">
+         compressible
+        </a>
+        , but could nevertheless be observed with imaging instruments as periodic standing or propagating displacements of coronal structures, e.g.
+        <a href="/wiki/Coronal_loop" title="Coronal loop">
+         coronal loops
+        </a>
+        . The frequency of transverse or "kink" modes is given by the following expression:
+       </li>
+      </ul>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle \omega _{K}={\sqrt {\frac {2k_{z}B^{2}}{\mu (\rho _{i}+\rho _{e})}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <msub>
+               <mi>
+                ω
+                <!-- ω -->
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 K
+                </mi>
+               </mrow>
+              </msub>
+              <mo>
+               =
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <msqrt>
+                <mfrac>
+                 <mrow>
+                  <mn>
+                   2
+                  </mn>
+                  <msub>
+                   <mi>
+                    k
+                   </mi>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mi>
+                     z
+                    </mi>
+                   </mrow>
+                  </msub>
+                  <msup>
+                   <mi>
+                    B
+                   </mi>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mn>
+                     2
+                    </mn>
+                   </mrow>
+                  </msup>
+                 </mrow>
+                 <mrow>
+                  <mi>
+                   μ
+                   <!-- μ -->
+                  </mi>
+                  <mo stretchy="false">
+                   (
+                  </mo>
+                  <msub>
+                   <mi>
+                    ρ
+                    <!-- ρ -->
+                   </mi>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mi>
+                     i
+                    </mi>
+                   </mrow>
+                  </msub>
+                  <mo>
+                   +
+                  </mo>
+                  <msub>
+                   <mi>
+                    ρ
+                    <!-- ρ -->
+                   </mi>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mi>
+                     e
+                    </mi>
+                   </mrow>
+                  </msub>
+                  <mo stretchy="false">
+                   )
+                  </mo>
+                 </mrow>
+                </mfrac>
+               </msqrt>
+              </mrow>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle \omega _{K}={\sqrt {\frac {2k_{z}B^{2}}{\mu (\rho _{i}+\rho _{e})}}}}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="{\displaystyle \omega _{K}={\sqrt {\frac {2k_{z}B^{2}}{\mu (\rho _{i}+\rho _{e})}}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3f962f7b30357c54274ec6e1cc91ba4210a5ee04" style="vertical-align: -3.338ex; width:19.651ex; height:7.676ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       For kink modes the parameter the azimuthal wave number in a cylindrical model of a loop,
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle m}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              m
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle m}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="m" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0a07d98bb302f3856cbabc47b2b9016692e3f7bc" style="vertical-align: -0.338ex; width:2.04ex; height:1.676ex;"/>
+       </span>
+       is equal to 1, meaning that the cylinder is swaying with fixed ends.
+      </p>
+      <ul>
+       <li>
+        Sausage modes, which are also oblique fast magnetoacoustic waves guided by the plasma structure; the mode causes expansions and contractions of the plasma structure, but does not displace its axis. These modes are compressible and cause significant variation of the absolute value of the magnetic field in the oscillating structure. The frequency of sausage modes is given by the following expression:
+       </li>
+      </ul>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle \omega _{S}={\sqrt {\frac {k_{z}^{2}B^{2}}{\mu \rho _{e}}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <msub>
+               <mi>
+                ω
+                <!-- ω -->
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 S
+                </mi>
+               </mrow>
+              </msub>
+              <mo>
+               =
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <msqrt>
+                <mfrac>
+                 <mrow>
+                  <msubsup>
+                   <mi>
+                    k
+                   </mi>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mi>
+                     z
+                    </mi>
+                   </mrow>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mn>
+                     2
+                    </mn>
+                   </mrow>
+                  </msubsup>
+                  <msup>
+                   <mi>
+                    B
+                   </mi>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mn>
+                     2
+                    </mn>
+                   </mrow>
+                  </msup>
+                 </mrow>
+                 <mrow>
+                  <mi>
+                   μ
+                   <!-- μ -->
+                  </mi>
+                  <msub>
+                   <mi>
+                    ρ
+                    <!-- ρ -->
+                   </mi>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mi>
+                     e
+                    </mi>
+                   </mrow>
+                  </msub>
+                 </mrow>
+                </mfrac>
+               </msqrt>
+              </mrow>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle \omega _{S}={\sqrt {\frac {k_{z}^{2}B^{2}}{\mu \rho _{e}}}}}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="{\displaystyle \omega _{S}={\sqrt {\frac {k_{z}^{2}B^{2}}{\mu \rho _{e}}}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fcf6d1d5698b1b56024e32dfa96cf155f9b41aa9" style="vertical-align: -3.171ex; width:14.08ex; height:7.676ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       For sausage modes the parameter
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle m}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              m
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle m}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="m" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0a07d98bb302f3856cbabc47b2b9016692e3f7bc" style="vertical-align: -0.338ex; width:2.04ex; height:1.676ex;"/>
+       </span>
+       is equal to 0; this would be interpreted as a "breathing" in and out, again with fixed endpoints.
+      </p>
+      <ul>
+       <li>
+        Longitudinal (or slow, or
+        <a href="/wiki/Acoustics" title="Acoustics">
+         acoustic
+        </a>
+        ) modes, which are slow magnetoacoustic waves propagating mainly along the magnetic field in the plasma structure; these mode are essentially compressible. The magnetic field
+        <a href="/wiki/Perturbation_theory" title="Perturbation theory">
+         perturbation
+        </a>
+        in these modes is negligible. The frequency of slow modes is given by the following expression:
+       </li>
+      </ul>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle \omega _{L}={\sqrt {k_{z}^{2}\left({\frac {C_{s}^{2}C_{A}^{2}}{C_{s}^{2}+C_{A}^{2}}}\right)}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <msub>
+               <mi>
+                ω
+                <!-- ω -->
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 L
+                </mi>
+               </mrow>
+              </msub>
+              <mo>
+               =
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <msqrt>
+                <msubsup>
+                 <mi>
+                  k
+                 </mi>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mi>
+                   z
+                  </mi>
+                 </mrow>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mn>
+                   2
+                  </mn>
+                 </mrow>
+                </msubsup>
+                <mrow>
+                 <mo>
+                  (
+                 </mo>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mfrac>
+                   <mrow>
+                    <msubsup>
+                     <mi>
+                      C
+                     </mi>
+                     <mrow class="MJX-TeXAtom-ORD">
+                      <mi>
+                       s
+                      </mi>
+                     </mrow>
+                     <mrow class="MJX-TeXAtom-ORD">
+                      <mn>
+                       2
+                      </mn>
+                     </mrow>
+                    </msubsup>
+                    <msubsup>
+                     <mi>
+                      C
+                     </mi>
+                     <mrow class="MJX-TeXAtom-ORD">
+                      <mi>
+                       A
+                      </mi>
+                     </mrow>
+                     <mrow class="MJX-TeXAtom-ORD">
+                      <mn>
+                       2
+                      </mn>
+                     </mrow>
+                    </msubsup>
+                   </mrow>
+                   <mrow>
+                    <msubsup>
+                     <mi>
+                      C
+                     </mi>
+                     <mrow class="MJX-TeXAtom-ORD">
+                      <mi>
+                       s
+                      </mi>
+                     </mrow>
+                     <mrow class="MJX-TeXAtom-ORD">
+                      <mn>
+                       2
+                      </mn>
+                     </mrow>
+                    </msubsup>
+                    <mo>
+                     +
+                    </mo>
+                    <msubsup>
+                     <mi>
+                      C
+                     </mi>
+                     <mrow class="MJX-TeXAtom-ORD">
+                      <mi>
+                       A
+                      </mi>
+                     </mrow>
+                     <mrow class="MJX-TeXAtom-ORD">
+                      <mn>
+                       2
+                      </mn>
+                     </mrow>
+                    </msubsup>
+                   </mrow>
+                  </mfrac>
+                 </mrow>
+                 <mo>
+                  )
+                 </mo>
+                </mrow>
+               </msqrt>
+              </mrow>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle \omega _{L}={\sqrt {k_{z}^{2}\left({\frac {C_{s}^{2}C_{A}^{2}}{C_{s}^{2}+C_{A}^{2}}}\right)}}}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="{\displaystyle \omega _{L}={\sqrt {k_{z}^{2}\left({\frac {C_{s}^{2}C_{A}^{2}}{C_{s}^{2}+C_{A}^{2}}}\right)}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/88a112e32cf0f717565fecf01416ab7b27274822" style="vertical-align: -3.171ex; width:24.339ex; height:8.176ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       Where we define
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle C_{s}}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <msub>
+              <mi>
+               C
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                s
+               </mi>
+              </mrow>
+             </msub>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle C_{s}}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="C_{{s}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3b6d160c0ac08478db6e852c204a78cd9bc2e14d" style="vertical-align: -0.671ex; width:2.665ex; height:2.509ex;"/>
+       </span>
+       as the
+       <a class="mw-redirect" href="/wiki/Sound_speed" title="Sound speed">
+        sound speed
+       </a>
+       and
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle C_{A}}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <msub>
+              <mi>
+               C
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                A
+               </mi>
+              </mrow>
+             </msub>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle C_{A}}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="{\displaystyle C_{A}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/69c5f6fde0832b5aa24cc8d90aca913e132e9929" style="vertical-align: -0.671ex; width:3.127ex; height:2.509ex;"/>
+       </span>
+       as the
+       <a href="/wiki/Alfv%C3%A9n_wave#Alfvén_velocity" title="Alfvén wave">
+        Alfvén velocity
+       </a>
+       .
+      </p>
+      <ul>
+       <li>
+        Torsional (
+        <a href="/wiki/Alfv%C3%A9n_wave" title="Alfvén wave">
+         Alfvén
+        </a>
+        or twist) modes are incompressible transverse perturbations of the magnetic field along certain individual magnetic surfaces. In contrast with kink modes, torsional modes cannot be observed with imaging instruments, as they do not cause the displacement of either the structure axis or its boundary.
+       </li>
+      </ul>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle \omega _{A}={\sqrt {\frac {k_{z}^{2}B^{2}}{\mu \rho _{i}}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <msub>
+               <mi>
+                ω
+                <!-- ω -->
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 A
+                </mi>
+               </mrow>
+              </msub>
+              <mo>
+               =
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <msqrt>
+                <mfrac>
+                 <mrow>
+                  <msubsup>
+                   <mi>
+                    k
+                   </mi>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mi>
+                     z
+                    </mi>
+                   </mrow>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mn>
+                     2
+                    </mn>
+                   </mrow>
+                  </msubsup>
+                  <msup>
+                   <mi>
+                    B
+                   </mi>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mn>
+                     2
+                    </mn>
+                   </mrow>
+                  </msup>
+                 </mrow>
+                 <mrow>
+                  <mi>
+                   μ
+                   <!-- μ -->
+                  </mi>
+                  <msub>
+                   <mi>
+                    ρ
+                    <!-- ρ -->
+                   </mi>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mi>
+                     i
+                    </mi>
+                   </mrow>
+                  </msub>
+                 </mrow>
+                </mfrac>
+               </msqrt>
+              </mrow>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle \omega _{A}={\sqrt {\frac {k_{z}^{2}B^{2}}{\mu \rho _{i}}}}}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="{\displaystyle \omega _{A}={\sqrt {\frac {k_{z}^{2}B^{2}}{\mu \rho _{i}}}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d9ede439e4c760463533496d18c1e0f16b2bc3f9" style="vertical-align: -3.171ex; width:14.253ex; height:7.676ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <h2>
+       <span class="mw-headline" id="Observations">
+        Observations
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Coronal_seismology&amp;action=edit&amp;section=2" title="Edit section: Observations">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:Coronal_arcade.png">
+         <img alt="coronal arcade after flare" class="thumbimage" data-file-height="463" data-file-width="635" height="160" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Coronal_arcade.png/220px-Coronal_arcade.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Coronal_arcade.png/330px-Coronal_arcade.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Coronal_arcade.png/440px-Coronal_arcade.png 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Coronal_arcade.png" title="Enlarge">
+          </a>
+         </div>
+         TRACE image of a coronal arcade
+        </div>
+       </div>
+      </div>
+      <p>
+       Wave and oscillatory phenomena are observed in the hot plasma of the corona mainly in EUV, optical and microwave bands with a number of spaceborne and ground-based instruments, e.g. the
+       <a href="/wiki/Solar_and_Heliospheric_Observatory" title="Solar and Heliospheric Observatory">
+        Solar and Heliospheric Observatory
+       </a>
+       (SOHO), the
+       <a class="mw-redirect" href="/wiki/Transition_Region_and_Coronal_Explorer" title="Transition Region and Coronal Explorer">
+        Transition Region and Coronal Explorer
+       </a>
+       (TRACE), the Nobeyama Radioheliograph (NoRH, see the
+       <a href="/wiki/Nobeyama_radio_observatory" title="Nobeyama radio observatory">
+        Nobeyama radio observatory
+       </a>
+       ). Phenomenologically, researchers distinguish between compressible waves in polar plumes and in legs of large
+       <a class="mw-redirect" href="/wiki/Coronal_loops" title="Coronal loops">
+        coronal loops
+       </a>
+       , flare-generated transverse oscillations of loops, acoustic oscillations of loops, propagating kink waves in loops and in structures above arcades (an
+       <b>
+        arcade
+       </b>
+       being a close collection of loops in a cylindrical structure, see image to right), sausage oscillations of flaring loops, and oscillations of prominences and fibrils (see
+       <a href="/wiki/Solar_prominence" title="Solar prominence">
+        solar prominence
+       </a>
+       ), and this list is continuously updated.
+      </p>
+      <p>
+       Coronal seismology is one of the aims of the
+       <a href="/wiki/Solar_Dynamics_Observatory#Atmospheric_Imaging_Assembly_(AIA)" title="Solar Dynamics Observatory">
+        Atmospheric Imaging Assembly
+       </a>
+       (AIA) instrument on the
+       <a href="/wiki/Solar_Dynamics_Observatory" title="Solar Dynamics Observatory">
+        Solar Dynamics Observatory
+       </a>
+       (SDO) mission.
+      </p>
+      <p>
+       A mission to send a spacecraft as close as 9 solar radii from the sun,
+       <a class="mw-redirect" href="/wiki/NASA_Solar_probe" title="NASA Solar probe">
+        NASA Solar probe
+       </a>
+       , is planned for launch in 2015 and aims to provide in-situ measurements of the solar magnetic field, solar wind and corona. It should include a magnetometer and plasma wave sensor, allowing unprecedented observations for coronal seismology.
+      </p>
+      <h2>
+       <span class="mw-headline" id="Conclusions">
+        Conclusions
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Coronal_seismology&amp;action=edit&amp;section=3" title="Edit section: Conclusions">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       The potential of coronal seismology in the estimation of the coronal
+       <a href="/wiki/Magnetic_field" title="Magnetic field">
+        magnetic field
+       </a>
+       , density
+       <a href="/wiki/Scale_height" title="Scale height">
+        scale height
+       </a>
+       , "fine structure" (by which is meant the variation in structure of an inhomogeneous structure such as an inhomogeneous coronal loop) and heating has been demonstrated by different research groups. Work relating to the coronal magnetic field was mentioned earlier.
+       <sup class="reference" id="cite_ref-Nakariakov2001_1-1">
+        <a href="#cite_note-Nakariakov2001-1">
+         [1]
+        </a>
+       </sup>
+       It has been shown that sufficiently broadband slow magnetoacoustic waves, consistent with currently available observations in the low frequency part of the spectrum, could provide the rate of heat deposition sufficient to heat a
+       <a href="/wiki/Coronal_loop" title="Coronal loop">
+        coronal loop
+       </a>
+       .
+       <sup class="reference" id="cite_ref-6">
+        <a href="#cite_note-6">
+         [6]
+        </a>
+       </sup>
+       Regarding the density scale height, transverse oscillations of coronal loops that have both variable circular cross-sectional area and plasma density in the longitudinal direction have been studied theoretically. A second order ordinary differential equation has been derived describing the displacement of the loop axis. Together with boundary conditions, solving this equation determines the eigenfrequencies and eigenmodes. The coronal density scale height could then be estimated by using the observed ratio of the fundamental frequency and first overtone of loop kink oscillations.
+       <sup class="reference" id="cite_ref-7">
+        <a href="#cite_note-7">
+         [7]
+        </a>
+       </sup>
+       Little is known of coronal fine structure. Doppler shift oscillations in hot active region loops obtained with the Solar Ultraviolet Measurements of Emitted Radiation instrument (SUMER) aboard SOHO have been studied. The spectra were recorded along a 300 arcsec slit placed at a fixed position in the corona above the active regions. Some oscillations showed phase propagation along the slit in one or both directions with apparent speeds in the range of 8–102 km per second, together with distinctly different intensity and line width distributions along the slit. These features can be explained by the excitation of the oscillation at a footpoint of an inhomogeneous coronal loop, e.g. a loop with
+       <b>
+        fine structure
+       </b>
+       .
+       <sup class="reference" id="cite_ref-8">
+        <a href="#cite_note-8">
+         [8]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="References">
+        References
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Coronal_seismology&amp;action=edit&amp;section=4" title="Edit section: References">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="reflist" style="list-style-type: decimal;">
+       <div class="mw-references-wrap">
+        <ol class="references">
+         <li id="cite_note-Nakariakov2001-1">
+          <span class="mw-cite-backlink">
+           ^
+           <a href="#cite_ref-Nakariakov2001_1-0">
+            <sup>
+             <i>
+              <b>
+               a
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-Nakariakov2001_1-1">
+            <sup>
+             <i>
+              <b>
+               b
+              </b>
+             </i>
+            </sup>
+           </a>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Nakariakov, V. M.; Ofman, L. (2001). "Determination of the coronal magnetic field by coronal loop oscillations".
+            <i>
+             <a href="/wiki/Astronomy_and_Astrophysics" title="Astronomy and Astrophysics">
+              Astronomy and Astrophysics
+             </a>
+            </i>
+            .
+            <b>
+             372
+            </b>
+            (3): L53–L56.
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/2001A&amp;A...372L..53N" rel="nofollow">
+             2001A&amp;A...372L..53N
+            </a>
+            .
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1051%2F0004-6361%3A20010607" rel="nofollow">
+             10.1051/0004-6361:20010607
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Astronomy+and+Astrophysics&amp;rft.atitle=Determination+of+the+coronal+magnetic+field+by+coronal+loop+oscillations&amp;rft.volume=372&amp;rft.issue=3&amp;rft.pages=L53-L56&amp;rft.date=2001&amp;rft_id=info%3Adoi%2F10.1051%2F0004-6361%3A20010607&amp;rft_id=info%3Abibcode%2F2001A%26A...372L..53N&amp;rft.aulast=Nakariakov&amp;rft.aufirst=V.+M.&amp;rft.au=Ofman%2C+L.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoronal+seismology">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-2">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-2">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Nakariakov, V. M.; Ofman, L.; Deluca, E. E.; Roberts, B.; Davila, J. M. (1999). "TRACE observation of damped coronal loop oscillations: Implications for coronal heating".
+            <i>
+             <a href="/wiki/Science_(journal)" title="Science (journal)">
+              Science
+             </a>
+            </i>
+            .
+            <b>
+             285
+            </b>
+            (5429): 862–864.
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/1999Sci...285..862N" rel="nofollow">
+             1999Sci...285..862N
+            </a>
+            .
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1126%2Fscience.285.5429.862" rel="nofollow">
+             10.1126/science.285.5429.862
+            </a>
+            .
+            <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">
+             PMID
+            </a>
+            <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/10436148" rel="nofollow">
+             10436148
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Science&amp;rft.atitle=TRACE+observation+of+damped+coronal+loop+oscillations%3A+Implications+for+coronal+heating&amp;rft.volume=285&amp;rft.issue=5429&amp;rft.pages=862-864&amp;rft.date=1999&amp;rft_id=info%3Apmid%2F10436148&amp;rft_id=info%3Adoi%2F10.1126%2Fscience.285.5429.862&amp;rft_id=info%3Abibcode%2F1999Sci...285..862N&amp;rft.aulast=Nakariakov&amp;rft.aufirst=V.+M.&amp;rft.au=Ofman%2C+L.&amp;rft.au=Deluca%2C+E.+E.&amp;rft.au=Roberts%2C+B.&amp;rft.au=Davila%2C+J.+M.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoronal+seismology">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-3">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-3">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Uchida, Y. (1970). "Diagnosis of coronal magnetic structure by flare-associated hydromagnetic disturbances".
+            <i>
+             <a href="/wiki/Publications_of_the_Astronomical_Society_of_Japan" title="Publications of the Astronomical Society of Japan">
+              Publications of the Astronomical Society of Japan
+             </a>
+            </i>
+            .
+            <b>
+             22
+            </b>
+            : 341–364.
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/1970PASJ...22..341U" rel="nofollow">
+             1970PASJ...22..341U
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Publications+of+the+Astronomical+Society+of+Japan&amp;rft.atitle=Diagnosis+of+coronal+magnetic+structure+by+flare-associated+hydromagnetic+disturbances&amp;rft.volume=22&amp;rft.pages=341-364&amp;rft.date=1970&amp;rft_id=info%3Abibcode%2F1970PASJ...22..341U&amp;rft.aulast=Uchida&amp;rft.aufirst=Y.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoronal+seismology">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-4">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-4">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Roberts, B.; Edwin, P. M.; Benz, A. O. (1984). "On coronal oscillations".
+            <i>
+             <a href="/wiki/The_Astrophysical_Journal" title="The Astrophysical Journal">
+              The Astrophysical Journal
+             </a>
+            </i>
+            .
+            <b>
+             279
+            </b>
+            : 857–865.
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/1984ApJ...279..857R" rel="nofollow">
+             1984ApJ...279..857R
+            </a>
+            .
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1086%2F161956" rel="nofollow">
+             10.1086/161956
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Astrophysical+Journal&amp;rft.atitle=On+coronal+oscillations&amp;rft.volume=279&amp;rft.pages=857-865&amp;rft.date=1984&amp;rft_id=info%3Adoi%2F10.1086%2F161956&amp;rft_id=info%3Abibcode%2F1984ApJ...279..857R&amp;rft.aulast=Roberts&amp;rft.aufirst=B.&amp;rft.au=Edwin%2C+P.+M.&amp;rft.au=Benz%2C+A.+O.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoronal+seismology">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-5">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-5">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Nakariakov, V. M.; Verwichte, E. (2005). "Coronal Waves and Oscillations".
+            <i>
+             <a href="/wiki/Living_Reviews_in_Solar_Physics" title="Living Reviews in Solar Physics">
+              Living Reviews in Solar Physics
+             </a>
+            </i>
+            .
+            <b>
+             2
+            </b>
+            : 3.
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/2005LRSP....2....3N" rel="nofollow">
+             2005LRSP....2....3N
+            </a>
+            .
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.12942%2Flrsp-2005-3" rel="nofollow">
+             10.12942/lrsp-2005-3
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Living+Reviews+in+Solar+Physics&amp;rft.atitle=Coronal+Waves+and+Oscillations&amp;rft.volume=2&amp;rft.pages=3&amp;rft.date=2005&amp;rft_id=info%3Adoi%2F10.12942%2Flrsp-2005-3&amp;rft_id=info%3Abibcode%2F2005LRSP....2....3N&amp;rft.aulast=Nakariakov&amp;rft.aufirst=V.+M.&amp;rft.au=Verwichte%2C+E.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoronal+seismology">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-6">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-6">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Tsiklauri, D.; Nakariakov, V. M. (2001). "Wide-spectrum slow magnetoacoustic waves in coronal loops".
+            <i>
+             <a href="/wiki/Astronomy_and_Astrophysics" title="Astronomy and Astrophysics">
+              Astronomy and Astrophysics
+             </a>
+            </i>
+            .
+            <b>
+             379
+            </b>
+            (3): 1106–1112.
+            <a href="/wiki/ArXiv" title="ArXiv">
+             arXiv
+            </a>
+            :
+            <span class="plainlinks">
+             <a class="external text" href="//arxiv.org/abs/astro-ph/0107579" rel="nofollow">
+              astro-ph/0107579
+             </a>
+             <img alt="Freely accessible" data-file-height="813" data-file-width="512" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" title="Freely accessible" width="9"/>
+            </span>
+            .
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/2001A&amp;A...379.1106T" rel="nofollow">
+             2001A&amp;A...379.1106T
+            </a>
+            .
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1051%2F0004-6361%3A20011378" rel="nofollow">
+             10.1051/0004-6361:20011378
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Astronomy+and+Astrophysics&amp;rft.atitle=Wide-spectrum+slow+magnetoacoustic+waves+in+coronal+loops&amp;rft.volume=379&amp;rft.issue=3&amp;rft.pages=1106-1112&amp;rft.date=2001&amp;rft_id=info%3Aarxiv%2Fastro-ph%2F0107579&amp;rft_id=info%3Adoi%2F10.1051%2F0004-6361%3A20011378&amp;rft_id=info%3Abibcode%2F2001A%26A...379.1106T&amp;rft.aulast=Tsiklauri&amp;rft.aufirst=D.&amp;rft.au=Nakariakov%2C+V.+M.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoronal+seismology">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-7">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-7">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Ruderman, M. S.; Verth, G.; Erdelyi, R. (2008). "Transverse Oscillations of Longitudinally Stratified Coronal Loops with Variable Cross Section".
+            <i>
+             <a href="/wiki/The_Astrophysical_Journal" title="The Astrophysical Journal">
+              The Astrophysical Journal
+             </a>
+            </i>
+            .
+            <b>
+             686
+            </b>
+            (1): 694–700.
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/2008ApJ...686..694R" rel="nofollow">
+             2008ApJ...686..694R
+            </a>
+            .
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1086%2F591444" rel="nofollow">
+             10.1086/591444
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Astrophysical+Journal&amp;rft.atitle=Transverse+Oscillations+of+Longitudinally+Stratified+Coronal+Loops+with+Variable+Cross+Section&amp;rft.volume=686&amp;rft.issue=1&amp;rft.pages=694-700&amp;rft.date=2008&amp;rft_id=info%3Adoi%2F10.1086%2F591444&amp;rft_id=info%3Abibcode%2F2008ApJ...686..694R&amp;rft.aulast=Ruderman&amp;rft.aufirst=M.+S.&amp;rft.au=Verth%2C+G.&amp;rft.au=Erdelyi%2C+R.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoronal+seismology">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-8">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-8">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Wang, T. J.; et al. (2003). "Hot coronal loop oscillations observed with SUMER: Examples and statistics".
+            <i>
+             <a href="/wiki/Astronomy_and_Astrophysics" title="Astronomy and Astrophysics">
+              Astronomy and Astrophysics
+             </a>
+            </i>
+            .
+            <b>
+             406
+            </b>
+            (3): 1105–1121.
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/2003A&amp;A...406.1105W" rel="nofollow">
+             2003A&amp;A...406.1105W
+            </a>
+            .
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1051%2F0004-6361%3A20030858" rel="nofollow">
+             10.1051/0004-6361:20030858
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Astronomy+and+Astrophysics&amp;rft.atitle=Hot+coronal+loop+oscillations+observed+with+SUMER%3A+Examples+and+statistics&amp;rft.volume=406&amp;rft.issue=3&amp;rft.pages=1105-1121&amp;rft.date=2003&amp;rft_id=info%3Adoi%2F10.1051%2F0004-6361%3A20030858&amp;rft_id=info%3Abibcode%2F2003A%26A...406.1105W&amp;rft.aulast=Wang&amp;rft.aufirst=T.+J.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoronal+seismology">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+        </ol>
+       </div>
+      </div>
+      <h2>
+       <span class="mw-headline" id="External_links">
+        External links
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Coronal_seismology&amp;action=edit&amp;section=5" title="Edit section: External links">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <cite class="citation journal">
+         Nakariakov, V. M.; Verwichte, E. (2005). "Coronal Waves and Oscillations".
+         <i>
+          <a href="/wiki/Living_Reviews_in_Solar_Physics" title="Living Reviews in Solar Physics">
+           Living Reviews in Solar Physics
+          </a>
+         </i>
+         .
+         <b>
+          2
+         </b>
+         : 3.
+         <a href="/wiki/Bibcode" title="Bibcode">
+          Bibcode
+         </a>
+         :
+         <a class="external text" href="http://adsabs.harvard.edu/abs/2005LRSP....2....3N" rel="nofollow">
+          2005LRSP....2....3N
+         </a>
+         .
+         <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+          doi
+         </a>
+         :
+         <a class="external text" href="//doi.org/10.12942%2Flrsp-2005-3" rel="nofollow">
+          10.12942/lrsp-2005-3
+         </a>
+         .
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Living+Reviews+in+Solar+Physics&amp;rft.atitle=Coronal+Waves+and+Oscillations&amp;rft.volume=2&amp;rft.pages=3&amp;rft.date=2005&amp;rft_id=info%3Adoi%2F10.12942%2Flrsp-2005-3&amp;rft_id=info%3Abibcode%2F2005LRSP....2....3N&amp;rft.aulast=Nakariakov&amp;rft.aufirst=V.+M.&amp;rft.au=Verwichte%2C+E.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoronal+seismology">
+         <span style="display:none;">
+         </span>
+        </span>
+       </li>
+       <li>
+        <a class="external text" href="https://web.archive.org/web/20030917105826/http://www.pparc.ac.uk/frontiers/archive/feature.asp?id=15F1&amp;style=feature" rel="nofollow">
+         Roberts, B., Nakariakov, V.M., "Coronal seismology – a new science", Frontiers 15, 2003
+        </a>
+       </li>
+       <li>
+        Verwichte, E.,
+        <a class="external text" href="http://www2.warwick.ac.uk/fac/sci/physics/research/cfsa/people/erwin/research/seismology/" rel="nofollow">
+         Plasma diagnostics using MHD waves
+        </a>
+       </li>
+       <li>
+        Stepanov, A.V., Zaitsev, V.V. and Nakariakov, V.M.,
+        <a class="external text" href="https://www.amazon.com/Coronal-Seismology-Alexander-Stepanov/dp/3527409947" rel="nofollow">
+         "Coronal Seismology"
+        </a>
+        Wiley-VCH 2012
+        <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+         ISBN
+        </a>
+        <a href="/wiki/Special:BookSources/978-3527409945" title="Special:BookSources/978-3527409945">
+         978-3527409945
+        </a>
+       </li>
+      </ul>
+      <!-- 
+NewPP limit report
+Parsed by mw1332
+Cached time: 20180124031335
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.132 seconds
+Real time usage: 0.197 seconds
+Preprocessor visited node count: 783/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 18758/2097152 bytes
+Template argument size: 495/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 0/500
+Lua time usage: 0.053/10.000 seconds
+Lua memory usage: 2.61 MB/50 MB
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  135.760      1 -total
+ 75.60%  102.631      1 Template:Reflist
+ 57.18%   77.625      9 Template:Cite_journal
+ 20.38%   27.669      1 Template:ISBN
+  8.67%   11.767      1 Template:Catalog_lookup_link
+  5.56%    7.546      1 Template:Error-small
+  2.76%    3.745      3 Template:Yesno-no
+  2.27%    3.082      1 Template:Tl
+  1.74%    2.368      2 Template:Main_other
+  1.66%    2.253      6 Template:Trim
+-->
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:18176668-0!canonical!math=5 and timestamp 20180124031335 and revision id 798039822
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Coronal_seismology&amp;oldid=798039822">
+      https://en.wikipedia.org/w/index.php?title=Coronal_seismology&amp;oldid=798039822
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Sun" title="Category:Sun">
+         Sun
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Solar_phenomena" title="Category:Solar phenomena">
+         Solar phenomena
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Space_plasmas" title="Category:Space plasmas">
+         Space plasmas
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Plasma_physics" title="Category:Plasma physics">
+         Plasma physics
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Waves_in_plasmas" title="Category:Waves in plasmas">
+         Waves in plasmas
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Coronal+seismology" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Coronal+seismology" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Coronal_seismology" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Coronal_seismology" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="collapsible selected" id="ca-view">
+        <span>
+         <a href="/wiki/Coronal_seismology">
+          Read
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Coronal_seismology&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Coronal_seismology&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Coronal_seismology" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Coronal_seismology" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Coronal_seismology&amp;oldid=798039822" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Coronal_seismology&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q5172179" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Coronal_seismology&amp;id=798039822" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Coronal+seismology">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Coronal+seismology&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Coronal_seismology&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-add wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q5172179#sitelinks-wikipedia" title="Add interlanguage links">
+         Add links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 30 August 2017, at 16:45.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Coronal_seismology&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.132","walltime":"0.197","ppvisitednodes":{"value":783,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":18758,"limit":2097152},"templateargumentsize":{"value":495,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  135.760      1 -total"," 75.60%  102.631      1 Template:Reflist"," 57.18%   77.625      9 Template:Cite_journal"," 20.38%   27.669      1 Template:ISBN","  8.67%   11.767      1 Template:Catalog_lookup_link","  5.56%    7.546      1 Template:Error-small","  2.76%    3.745      3 Template:Yesno-no","  2.27%    3.082      1 Template:Tl","  1.74%    2.368      2 Template:Main_other","  1.66%    2.253      6 Template:Trim"]},"scribunto":{"limitreport-timeusage":{"value":"0.053","limit":"10.000"},"limitreport-memusage":{"value":2734640,"limit":52428800}},"cachereport":{"origin":"mw1332","timestamp":"20180124031335","ttl":1900800,"transientcontent":false}}});});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":106,"wgHostname":"mw1266"});});
+  </script>
+ </body>
+</html>

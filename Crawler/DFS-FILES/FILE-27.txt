@@ -1,0 +1,2357 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   n-vector - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"N-vector","wgTitle":"N-vector","wgCurRevisionId":794201280,"wgRevisionId":794201280,"wgArticleId":5631171,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Navigation","Geodesy","Geolocation","Geographic coordinate systems"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"N-vector","wgRelevantArticleId":5631171,"wgRequestId":"WnN83gpAMFIAADYHwUgAAABD","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q6951517","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.31.0-wmf.17" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/N-vector" rel="alternate"/>
+  <link href="/w/index.php?title=N-vector&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=N-vector&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/N-vector" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-N-vector rootpage-N-vector skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    <i>
+     n
+    </i>
+    -vector
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <p>
+       The
+       <b>
+        <i>
+         n
+        </i>
+        -vector
+       </b>
+       representation is a three-parameter
+       <a class="mw-redirect" href="/wiki/Mathematical_singularity" title="Mathematical singularity">
+        non-singular
+       </a>
+       representation well-suited for replacing
+       <a href="/wiki/Latitude" title="Latitude">
+        latitude
+       </a>
+       and
+       <a href="/wiki/Longitude" title="Longitude">
+        longitude
+       </a>
+       as
+       <a href="/wiki/Horizontal_position_representation" title="Horizontal position representation">
+        horizontal position representation
+       </a>
+       in mathematical calculations and computer algorithms.
+      </p>
+      <p>
+       Geometrically, the
+       <i>
+        n
+       </i>
+       -vector for a given position on an
+       <a href="/wiki/Ellipsoid" title="Ellipsoid">
+        ellipsoid
+       </a>
+       is the outward-pointing
+       <a href="/wiki/Unit_vector" title="Unit vector">
+        unit vector
+       </a>
+       that is
+       <a class="mw-redirect" href="/wiki/Surface_normal" title="Surface normal">
+        normal
+       </a>
+       in that position to the ellipsoid. For representing horizontal positions on Earth, the ellipsoid is a
+       <a href="/wiki/Reference_ellipsoid" title="Reference ellipsoid">
+        reference ellipsoid
+       </a>
+       and the vector is
+       <a href="/wiki/Vector_decomposition" title="Vector decomposition">
+        decomposed
+       </a>
+       in an
+       <a href="/wiki/ECEF" title="ECEF">
+        Earth-centered Earth-fixed
+       </a>
+       <a href="/wiki/Coordinate_system" title="Coordinate system">
+        coordinate system
+       </a>
+       . It behaves smoothly at all Earth positions, and it holds the mathematical
+       <a href="/wiki/Injective_function" title="Injective function">
+        one-to-one
+       </a>
+       property.
+      </p>
+      <p>
+       More in general, the concept can be applied to representing positions on the boundary of a strictly
+       <a href="/wiki/Convex_set" title="Convex set">
+        convex
+       </a>
+       <a class="mw-redirect" href="/wiki/Bounded_subset" title="Bounded subset">
+        bounded subset
+       </a>
+       of
+       <i>
+        k
+       </i>
+       -dimensional
+       <a href="/wiki/Euclidean_space" title="Euclidean space">
+        Euclidean space
+       </a>
+       , provided that that boundary is a
+       <a href="/wiki/Differentiable_manifold" title="Differentiable manifold">
+        differentiable manifold
+       </a>
+       . In this general case, the
+       <i>
+        n
+       </i>
+       -vector consists of
+       <i>
+        k
+       </i>
+       parameters.
+      </p>
+      <p>
+      </p>
+      <div class="toc" id="toc">
+       <div class="toctitle" dir="ltr" lang="en" xml:lang="en">
+        <h2>
+         Contents
+        </h2>
+       </div>
+       <ul>
+        <li class="toclevel-1 tocsection-1">
+         <a href="#General_properties">
+          <span class="tocnumber">
+           1
+          </span>
+          <span class="toctext">
+           General properties
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-2">
+         <a href="#Converting_latitude/longitude_to_n-vector">
+          <span class="tocnumber">
+           2
+          </span>
+          <span class="toctext">
+           Converting latitude/longitude to
+           <i>
+            n
+           </i>
+           -vector
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-3">
+         <a href="#Converting_n-vector_to_latitude/longitude">
+          <span class="tocnumber">
+           3
+          </span>
+          <span class="toctext">
+           Converting
+           <i>
+            n
+           </i>
+           -vector to latitude/longitude
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-4">
+         <a href="#Example:_Great_circle_distance">
+          <span class="tocnumber">
+           4
+          </span>
+          <span class="toctext">
+           Example: Great circle distance
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-5">
+         <a href="#See_also">
+          <span class="tocnumber">
+           5
+          </span>
+          <span class="toctext">
+           See also
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-6">
+         <a href="#References">
+          <span class="tocnumber">
+           6
+          </span>
+          <span class="toctext">
+           References
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-7">
+         <a href="#External_links">
+          <span class="tocnumber">
+           7
+          </span>
+          <span class="toctext">
+           External links
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <p>
+      </p>
+      <h2>
+       <span class="mw-headline" id="General_properties">
+        General properties
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=N-vector&amp;action=edit&amp;section=1" title="Edit section: General properties">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       A
+       <a class="mw-redirect" href="/wiki/Normal_vector" title="Normal vector">
+        normal vector
+       </a>
+       to a strictly
+       <a href="/wiki/Convex_set" title="Convex set">
+        convex
+       </a>
+       surface can be used to uniquely define a surface position.
+       <i>
+        n
+       </i>
+       -vector is an outward-pointing normal vector with
+       <a href="/wiki/Unit_vector" title="Unit vector">
+        unit length
+       </a>
+       used as a position representation.
+       <sup class="reference" id="cite_ref-Gade_1-0">
+        <a href="#cite_note-Gade-1">
+         [1]
+        </a>
+       </sup>
+      </p>
+      <p>
+       For most applications the surface is the
+       <a href="/wiki/Reference_ellipsoid" title="Reference ellipsoid">
+        reference ellipsoid
+       </a>
+       of the Earth, and thus
+       <i>
+        n
+       </i>
+       -vector is used to represent a horizontal position. Hence, the angle between
+       <i>
+        n
+       </i>
+       -vector and the equatorial plane corresponds to
+       <a class="mw-redirect" href="/wiki/Geodetic_latitude" title="Geodetic latitude">
+        geodetic latitude
+       </a>
+       , as shown in the figure.
+      </p>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:372px;">
+        <a class="image" href="/wiki/File:N_vector_and_geodetic_latitude.png">
+         <img alt="Alt" class="thumbimage" data-file-height="544" data-file-width="551" height="365" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/N_vector_and_geodetic_latitude.png/370px-N_vector_and_geodetic_latitude.png" srcset="//upload.wikimedia.org/wikipedia/commons/4/48/N_vector_and_geodetic_latitude.png 1.5x" width="370"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:N_vector_and_geodetic_latitude.png" title="Enlarge">
+          </a>
+         </div>
+         The direction of
+         <i>
+          n
+         </i>
+         -vector corresponds to geodetic latitude
+        </div>
+       </div>
+      </div>
+      <p>
+       A surface position has two
+       <a href="/wiki/Degrees_of_freedom_(mechanics)" title="Degrees of freedom (mechanics)">
+        degrees of freedom
+       </a>
+       , and thus two parameters are sufficient to represent any position on the surface. On the reference ellipsoid,
+       <a href="/wiki/Latitude" title="Latitude">
+        latitude
+       </a>
+       and
+       <a href="/wiki/Longitude" title="Longitude">
+        longitude
+       </a>
+       are common parameters for this purpose, but as all
+       <i>
+        two-parameter representations
+       </i>
+       , they have
+       <a class="mw-redirect" href="/wiki/Mathematical_singularity" title="Mathematical singularity">
+        singularities
+       </a>
+       . This is similar to
+       <a href="/wiki/Rotation_formalisms_in_three_dimensions" title="Rotation formalisms in three dimensions">
+        orientation
+       </a>
+       , which has three degrees of freedom, but all
+       <i>
+        three-parameter representations
+       </i>
+       have singularities.
+       <sup class="reference" id="cite_ref-2">
+        <a href="#cite_note-2">
+         [2]
+        </a>
+       </sup>
+       In both cases the singularities are avoided by adding an extra parameter, i.e. to use
+       <i>
+        n
+       </i>
+       -vector (three parameters) to
+       <a href="/wiki/Horizontal_position_representation" title="Horizontal position representation">
+        represent horizontal position
+       </a>
+       and a unit
+       <a href="/wiki/Quaternion" title="Quaternion">
+        quaternion
+       </a>
+       (four parameters) to
+       <a href="/wiki/Rotation_formalisms_in_three_dimensions" title="Rotation formalisms in three dimensions">
+        represent orientation
+       </a>
+       .
+      </p>
+      <p>
+       <i>
+        n
+       </i>
+       -vector is a
+       <a href="/wiki/Injective_function" title="Injective function">
+        one-to-one
+       </a>
+       representation, meaning that any surface position corresponds to one unique
+       <i>
+        n
+       </i>
+       -vector, and any
+       <i>
+        n
+       </i>
+       -vector corresponds to one unique surface position.
+      </p>
+      <p>
+       As a
+       <a href="/wiki/Euclidean_vector" title="Euclidean vector">
+        Euclidean 3D vector
+       </a>
+       , standard 3D
+       <a href="/wiki/Vector_calculus" title="Vector calculus">
+        vector algebra
+       </a>
+       can be used for the position calculations, and this makes
+       <i>
+        n
+       </i>
+       -vector well-suited for most horizontal position calculations.
+      </p>
+      <h2>
+       <span id="Converting_latitude.2Flongitude_to_n-vector">
+       </span>
+       <span class="mw-headline" id="Converting_latitude/longitude_to_n-vector">
+        Converting latitude/longitude to
+        <i>
+         n
+        </i>
+        -vector
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=N-vector&amp;action=edit&amp;section=2" title="Edit section: Converting latitude/longitude to n-vector">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       Based on the definition of the
+       <a href="/wiki/ECEF" title="ECEF">
+        ECEF
+       </a>
+       coordinate system, it is clear that going from latitude/longitude to
+       <i>
+        n
+       </i>
+       -vector, is achieved by:
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle \mathbf {n} ^{e}=\left[{\begin{matrix}\cos(\mathrm {latitude} )\cos(\mathrm {longitude} )\\\cos(\mathrm {latitude} )\sin(\mathrm {longitude} )\\\sin(\mathrm {latitude} )\\\end{matrix}}\right]}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <msup>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi mathvariant="bold">
+                 n
+                </mi>
+               </mrow>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 e
+                </mi>
+               </mrow>
+              </msup>
+              <mo>
+               =
+              </mo>
+              <mrow>
+               <mo>
+                [
+               </mo>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mtable columnspacing="1em" rowspacing="4pt">
+                 <mtr>
+                  <mtd>
+                   <mi>
+                    cos
+                   </mi>
+                   <mo>
+                    ⁡
+                    <!-- ⁡ -->
+                   </mo>
+                   <mo stretchy="false">
+                    (
+                   </mo>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mi mathvariant="normal">
+                     l
+                    </mi>
+                    <mi mathvariant="normal">
+                     a
+                    </mi>
+                    <mi mathvariant="normal">
+                     t
+                    </mi>
+                    <mi mathvariant="normal">
+                     i
+                    </mi>
+                    <mi mathvariant="normal">
+                     t
+                    </mi>
+                    <mi mathvariant="normal">
+                     u
+                    </mi>
+                    <mi mathvariant="normal">
+                     d
+                    </mi>
+                    <mi mathvariant="normal">
+                     e
+                    </mi>
+                   </mrow>
+                   <mo stretchy="false">
+                    )
+                   </mo>
+                   <mi>
+                    cos
+                   </mi>
+                   <mo>
+                    ⁡
+                    <!-- ⁡ -->
+                   </mo>
+                   <mo stretchy="false">
+                    (
+                   </mo>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mi mathvariant="normal">
+                     l
+                    </mi>
+                    <mi mathvariant="normal">
+                     o
+                    </mi>
+                    <mi mathvariant="normal">
+                     n
+                    </mi>
+                    <mi mathvariant="normal">
+                     g
+                    </mi>
+                    <mi mathvariant="normal">
+                     i
+                    </mi>
+                    <mi mathvariant="normal">
+                     t
+                    </mi>
+                    <mi mathvariant="normal">
+                     u
+                    </mi>
+                    <mi mathvariant="normal">
+                     d
+                    </mi>
+                    <mi mathvariant="normal">
+                     e
+                    </mi>
+                   </mrow>
+                   <mo stretchy="false">
+                    )
+                   </mo>
+                  </mtd>
+                 </mtr>
+                 <mtr>
+                  <mtd>
+                   <mi>
+                    cos
+                   </mi>
+                   <mo>
+                    ⁡
+                    <!-- ⁡ -->
+                   </mo>
+                   <mo stretchy="false">
+                    (
+                   </mo>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mi mathvariant="normal">
+                     l
+                    </mi>
+                    <mi mathvariant="normal">
+                     a
+                    </mi>
+                    <mi mathvariant="normal">
+                     t
+                    </mi>
+                    <mi mathvariant="normal">
+                     i
+                    </mi>
+                    <mi mathvariant="normal">
+                     t
+                    </mi>
+                    <mi mathvariant="normal">
+                     u
+                    </mi>
+                    <mi mathvariant="normal">
+                     d
+                    </mi>
+                    <mi mathvariant="normal">
+                     e
+                    </mi>
+                   </mrow>
+                   <mo stretchy="false">
+                    )
+                   </mo>
+                   <mi>
+                    sin
+                   </mi>
+                   <mo>
+                    ⁡
+                    <!-- ⁡ -->
+                   </mo>
+                   <mo stretchy="false">
+                    (
+                   </mo>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mi mathvariant="normal">
+                     l
+                    </mi>
+                    <mi mathvariant="normal">
+                     o
+                    </mi>
+                    <mi mathvariant="normal">
+                     n
+                    </mi>
+                    <mi mathvariant="normal">
+                     g
+                    </mi>
+                    <mi mathvariant="normal">
+                     i
+                    </mi>
+                    <mi mathvariant="normal">
+                     t
+                    </mi>
+                    <mi mathvariant="normal">
+                     u
+                    </mi>
+                    <mi mathvariant="normal">
+                     d
+                    </mi>
+                    <mi mathvariant="normal">
+                     e
+                    </mi>
+                   </mrow>
+                   <mo stretchy="false">
+                    )
+                   </mo>
+                  </mtd>
+                 </mtr>
+                 <mtr>
+                  <mtd>
+                   <mi>
+                    sin
+                   </mi>
+                   <mo>
+                    ⁡
+                    <!-- ⁡ -->
+                   </mo>
+                   <mo stretchy="false">
+                    (
+                   </mo>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mi mathvariant="normal">
+                     l
+                    </mi>
+                    <mi mathvariant="normal">
+                     a
+                    </mi>
+                    <mi mathvariant="normal">
+                     t
+                    </mi>
+                    <mi mathvariant="normal">
+                     i
+                    </mi>
+                    <mi mathvariant="normal">
+                     t
+                    </mi>
+                    <mi mathvariant="normal">
+                     u
+                    </mi>
+                    <mi mathvariant="normal">
+                     d
+                    </mi>
+                    <mi mathvariant="normal">
+                     e
+                    </mi>
+                   </mrow>
+                   <mo stretchy="false">
+                    )
+                   </mo>
+                  </mtd>
+                 </mtr>
+                </mtable>
+               </mrow>
+               <mo>
+                ]
+               </mo>
+              </mrow>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle \mathbf {n} ^{e}=\left[{\begin{matrix}\cos(\mathrm {latitude} )\cos(\mathrm {longitude} )\\\cos(\mathrm {latitude} )\sin(\mathrm {longitude} )\\\sin(\mathrm {latitude} )\\\end{matrix}}\right]}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="{\mathbf  n}^{e}=\left[{\begin{matrix}\cos({\mathrm  {latitude}})\cos({\mathrm  {longitude}})\\\cos({\mathrm  {latitude}})\sin({\mathrm  {longitude}})\\\sin({\mathrm  {latitude}})\\\end{matrix}}\right]" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/24b2d5791ce596011391b1f54ca2631cfc501bf2" style="vertical-align: -4.338ex; width:36.978ex; height:9.843ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       The superscript
+       <i>
+        e
+       </i>
+       means that
+       <i>
+        n
+       </i>
+       -vector is
+       <a href="/wiki/Vector_decomposition" title="Vector decomposition">
+        decomposed
+       </a>
+       in the coordinate system
+       <i>
+        e
+       </i>
+       (i.e. the first component is the
+       <a class="mw-redirect" href="/wiki/Scalar_resolute" title="Scalar resolute">
+        scalar projection
+       </a>
+       of
+       <i>
+        n
+       </i>
+       -vector onto the
+       <i>
+        x
+       </i>
+       -axis of
+       <i>
+        e
+       </i>
+       , the second onto the
+       <i>
+        y
+       </i>
+       -axis of
+       <i>
+        e
+       </i>
+       etc.). Note that the equation is exact both for spherical and ellipsoidal Earth model.
+      </p>
+      <h2>
+       <span id="Converting_n-vector_to_latitude.2Flongitude">
+       </span>
+       <span class="mw-headline" id="Converting_n-vector_to_latitude/longitude">
+        Converting
+        <i>
+         n
+        </i>
+        -vector to latitude/longitude
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=N-vector&amp;action=edit&amp;section=3" title="Edit section: Converting n-vector to latitude/longitude">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       From the three components of
+       <i>
+        n
+       </i>
+       -vector,
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle n_{x}^{e}}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <msubsup>
+              <mi>
+               n
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                x
+               </mi>
+              </mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                e
+               </mi>
+              </mrow>
+             </msubsup>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle n_{x}^{e}}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="n_{x}^{e}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9247eafe356922c3accfc0a3e2ae6e53061d9350" style="vertical-align: -0.671ex; width:2.567ex; height:2.509ex;"/>
+       </span>
+       ,
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle n_{y}^{e}}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <msubsup>
+              <mi>
+               n
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                y
+               </mi>
+              </mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                e
+               </mi>
+              </mrow>
+             </msubsup>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle n_{y}^{e}}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="n_{y}^{e}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/803ac3a23e117fd78efc0fb6c8af2689356a48f4" style="vertical-align: -1.005ex; width:2.444ex; height:2.843ex;"/>
+       </span>
+       , and
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle n_{z}^{e}}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <msubsup>
+              <mi>
+               n
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                z
+               </mi>
+              </mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                e
+               </mi>
+              </mrow>
+             </msubsup>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle n_{z}^{e}}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="n_{z}^{e}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/45cf2901ab8b8cbfb247a82f31d2ea1e060c771d" style="vertical-align: -0.671ex; width:2.396ex; height:2.509ex;"/>
+       </span>
+       , latitude can be found by using:
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle \mathrm {latitude} =\arcsin \left(n_{z}^{e}\right)=\arctan \left({\frac {n_{z}^{e}}{\sqrt {{n_{x}^{e}}^{2}+{n_{y}^{e}}^{2}}}}\right)}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi mathvariant="normal">
+                l
+               </mi>
+               <mi mathvariant="normal">
+                a
+               </mi>
+               <mi mathvariant="normal">
+                t
+               </mi>
+               <mi mathvariant="normal">
+                i
+               </mi>
+               <mi mathvariant="normal">
+                t
+               </mi>
+               <mi mathvariant="normal">
+                u
+               </mi>
+               <mi mathvariant="normal">
+                d
+               </mi>
+               <mi mathvariant="normal">
+                e
+               </mi>
+              </mrow>
+              <mo>
+               =
+              </mo>
+              <mi>
+               arcsin
+              </mi>
+              <mo>
+               ⁡
+               <!-- ⁡ -->
+              </mo>
+              <mrow>
+               <mo>
+                (
+               </mo>
+               <msubsup>
+                <mi>
+                 n
+                </mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                 <mi>
+                  z
+                 </mi>
+                </mrow>
+                <mrow class="MJX-TeXAtom-ORD">
+                 <mi>
+                  e
+                 </mi>
+                </mrow>
+               </msubsup>
+               <mo>
+                )
+               </mo>
+              </mrow>
+              <mo>
+               =
+              </mo>
+              <mi>
+               arctan
+              </mi>
+              <mo>
+               ⁡
+               <!-- ⁡ -->
+              </mo>
+              <mrow>
+               <mo>
+                (
+               </mo>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mfrac>
+                 <msubsup>
+                  <mi>
+                   n
+                  </mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mi>
+                    z
+                   </mi>
+                  </mrow>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mi>
+                    e
+                   </mi>
+                  </mrow>
+                 </msubsup>
+                 <msqrt>
+                  <msup>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <msubsup>
+                     <mi>
+                      n
+                     </mi>
+                     <mrow class="MJX-TeXAtom-ORD">
+                      <mi>
+                       x
+                      </mi>
+                     </mrow>
+                     <mrow class="MJX-TeXAtom-ORD">
+                      <mi>
+                       e
+                      </mi>
+                     </mrow>
+                    </msubsup>
+                   </mrow>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mn>
+                     2
+                    </mn>
+                   </mrow>
+                  </msup>
+                  <mo>
+                   +
+                  </mo>
+                  <msup>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <msubsup>
+                     <mi>
+                      n
+                     </mi>
+                     <mrow class="MJX-TeXAtom-ORD">
+                      <mi>
+                       y
+                      </mi>
+                     </mrow>
+                     <mrow class="MJX-TeXAtom-ORD">
+                      <mi>
+                       e
+                      </mi>
+                     </mrow>
+                    </msubsup>
+                   </mrow>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mn>
+                     2
+                    </mn>
+                   </mrow>
+                  </msup>
+                 </msqrt>
+                </mfrac>
+               </mrow>
+               <mo>
+                )
+               </mo>
+              </mrow>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle \mathrm {latitude} =\arcsin \left(n_{z}^{e}\right)=\arctan \left({\frac {n_{z}^{e}}{\sqrt {{n_{x}^{e}}^{2}+{n_{y}^{e}}^{2}}}}\right)}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="{\mathrm  {latitude}}=\arcsin \left(n_{z}^{e}\right)=\arctan \left({\frac  {n_{z}^{e}}{{\sqrt  {{n_{x}^{e}}^{2}+{n_{y}^{e}}^{2}}}}}\right)" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7ff631888756e0916dd4be8441fee5268ccc3370" style="vertical-align: -4.671ex; width:47.901ex; height:10.509ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       The rightmost expression is best suited for computer program implementation.
+       <sup class="reference" id="cite_ref-Gade_1-1">
+        <a href="#cite_note-Gade-1">
+         [1]
+        </a>
+       </sup>
+      </p>
+      <p>
+       Longitude is found using:
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle \mathrm {longitude} =\arctan \left({\frac {n_{y}^{e}}{n_{x}^{e}}}\right)}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi mathvariant="normal">
+                l
+               </mi>
+               <mi mathvariant="normal">
+                o
+               </mi>
+               <mi mathvariant="normal">
+                n
+               </mi>
+               <mi mathvariant="normal">
+                g
+               </mi>
+               <mi mathvariant="normal">
+                i
+               </mi>
+               <mi mathvariant="normal">
+                t
+               </mi>
+               <mi mathvariant="normal">
+                u
+               </mi>
+               <mi mathvariant="normal">
+                d
+               </mi>
+               <mi mathvariant="normal">
+                e
+               </mi>
+              </mrow>
+              <mo>
+               =
+              </mo>
+              <mi>
+               arctan
+              </mi>
+              <mo>
+               ⁡
+               <!-- ⁡ -->
+              </mo>
+              <mrow>
+               <mo>
+                (
+               </mo>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mfrac>
+                 <msubsup>
+                  <mi>
+                   n
+                  </mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mi>
+                    y
+                   </mi>
+                  </mrow>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mi>
+                    e
+                   </mi>
+                  </mrow>
+                 </msubsup>
+                 <msubsup>
+                  <mi>
+                   n
+                  </mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mi>
+                    x
+                   </mi>
+                  </mrow>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mi>
+                    e
+                   </mi>
+                  </mrow>
+                 </msubsup>
+                </mfrac>
+               </mrow>
+               <mo>
+                )
+               </mo>
+              </mrow>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle \mathrm {longitude} =\arctan \left({\frac {n_{y}^{e}}{n_{x}^{e}}}\right)}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="{\mathrm  {longitude}}=\arctan \left({\frac  {n_{y}^{e}}{n_{x}^{e}}}\right)" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8d4fca6cee018b01af513363ee41a15b42f04376" style="vertical-align: -2.505ex; width:25.822ex; height:6.176ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       In these expressions
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle \arctan(y/x)}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              arctan
+             </mi>
+             <mo>
+              ⁡
+              <!-- ⁡ -->
+             </mo>
+             <mo stretchy="false">
+              (
+             </mo>
+             <mi>
+              y
+             </mi>
+             <mrow class="MJX-TeXAtom-ORD">
+              <mo>
+               /
+              </mo>
+             </mrow>
+             <mi>
+              x
+             </mi>
+             <mo stretchy="false">
+              )
+             </mo>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle \arctan(y/x)}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="\arctan(y/x)" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/be0ff53a60f614521c982cd83e886837ca67f4c2" style="vertical-align: -0.838ex; width:11.923ex; height:2.843ex;"/>
+       </span>
+       should be implemented using a call to
+       <a href="/wiki/Atan2" title="Atan2">
+        atan2
+       </a>
+       (
+       <i>
+        y
+       </i>
+       ,
+       <i>
+        x
+       </i>
+       ). The
+       <a href="/wiki/Geographical_pole" title="Geographical pole">
+        Pole
+       </a>
+       <a class="mw-redirect" href="/wiki/Mathematical_singularity" title="Mathematical singularity">
+        singularity
+       </a>
+       of longitude is evident as
+       <a href="/wiki/Atan2" title="Atan2">
+        atan2
+       </a>
+       (0,0) is undefined. Note that the equations are exact both for spherical and ellipsoidal Earth model.
+      </p>
+      <h2>
+       <span class="mw-headline" id="Example:_Great_circle_distance">
+        Example: Great circle distance
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=N-vector&amp;action=edit&amp;section=4" title="Edit section: Example: Great circle distance">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       Finding the
+       <a class="mw-redirect" href="/wiki/Great_circle_distance" title="Great circle distance">
+        great circle distance
+       </a>
+       between two horizontal positions (assuming spherical Earth) is usually done by means of latitude and longitude.
+       <a class="mw-redirect" href="/wiki/Great_circle_distance#Formulas" title="Great circle distance">
+        Three different expressions
+       </a>
+       for this distance are common; the first is based on
+       <a class="mw-redirect" href="/wiki/Inverse_trigonometric_function" title="Inverse trigonometric function">
+        arccos
+       </a>
+       , the second is based on
+       <a class="mw-redirect" href="/wiki/Inverse_trigonometric_function" title="Inverse trigonometric function">
+        arcsin
+       </a>
+       , and the final is based on
+       <a class="mw-redirect" href="/wiki/Inverse_trigonometric_function" title="Inverse trigonometric function">
+        arctan
+       </a>
+       . The expressions, which are successively more complex to avoid
+       <a href="/wiki/Numerical_stability" title="Numerical stability">
+        numerical instabilities
+       </a>
+       , are not easy to find, and since they are based on latitude and longitude, the Pole singularities may become a problem. They also contain
+       <a href="/wiki/Delta_(letter)" title="Delta (letter)">
+        deltas
+       </a>
+       of latitude and longitude, which in general should be used with care near the ±
+       <a href="/wiki/180th_meridian" title="180th meridian">
+        180° meridian
+       </a>
+       and the Poles.
+      </p>
+      <p>
+       Solving the same problem using
+       <i>
+        n
+       </i>
+       -vector is simpler due to the possibility of using
+       <a href="/wiki/Vector_calculus" title="Vector calculus">
+        vector algebra
+       </a>
+       . The arccos expression is achieved from the
+       <a href="/wiki/Dot_product" title="Dot product">
+        dot product
+       </a>
+       , while the
+       <a href="/wiki/Magnitude_(mathematics)" title="Magnitude (mathematics)">
+        magnitude
+       </a>
+       of the
+       <a href="/wiki/Cross_product" title="Cross product">
+        cross product
+       </a>
+       gives the arcsin expression. Combining the two gives the arctan expression:
+       <sup class="reference" id="cite_ref-Gade_1-2">
+        <a href="#cite_note-Gade-1">
+         [1]
+        </a>
+       </sup>
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle {\begin{aligned}&amp;\Delta \sigma =\arccos \left(\mathbf {n} _{a}\cdot \mathbf {n} _{b}\right)\\&amp;\Delta \sigma =\arcsin \left(\left|\mathbf {n} _{a}\times \mathbf {n} _{b}\right|\right)\\&amp;\Delta \sigma =\arctan \left({\frac {\left|\mathbf {n} _{a}\times \mathbf {n} _{b}\right|}{\mathbf {n} _{a}\cdot \mathbf {n} _{b}}}\right)\\\end{aligned}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mrow class="MJX-TeXAtom-ORD">
+               <mtable columnalign="right left right left right left right left right left right left" columnspacing="0em 2em 0em 2em 0em 2em 0em 2em 0em 2em 0em" displaystyle="true" rowspacing="3pt">
+                <mtr>
+                 <mtd>
+                 </mtd>
+                 <mtd>
+                  <mi mathvariant="normal">
+                   Δ
+                   <!-- Δ -->
+                  </mi>
+                  <mi>
+                   σ
+                   <!-- σ -->
+                  </mi>
+                  <mo>
+                   =
+                  </mo>
+                  <mi>
+                   arccos
+                  </mi>
+                  <mo>
+                   ⁡
+                   <!-- ⁡ -->
+                  </mo>
+                  <mrow>
+                   <mo>
+                    (
+                   </mo>
+                   <mrow>
+                    <msub>
+                     <mrow class="MJX-TeXAtom-ORD">
+                      <mi mathvariant="bold">
+                       n
+                      </mi>
+                     </mrow>
+                     <mrow class="MJX-TeXAtom-ORD">
+                      <mi>
+                       a
+                      </mi>
+                     </mrow>
+                    </msub>
+                    <mo>
+                     ⋅
+                     <!-- ⋅ -->
+                    </mo>
+                    <msub>
+                     <mrow class="MJX-TeXAtom-ORD">
+                      <mi mathvariant="bold">
+                       n
+                      </mi>
+                     </mrow>
+                     <mrow class="MJX-TeXAtom-ORD">
+                      <mi>
+                       b
+                      </mi>
+                     </mrow>
+                    </msub>
+                   </mrow>
+                   <mo>
+                    )
+                   </mo>
+                  </mrow>
+                 </mtd>
+                </mtr>
+                <mtr>
+                 <mtd>
+                 </mtd>
+                 <mtd>
+                  <mi mathvariant="normal">
+                   Δ
+                   <!-- Δ -->
+                  </mi>
+                  <mi>
+                   σ
+                   <!-- σ -->
+                  </mi>
+                  <mo>
+                   =
+                  </mo>
+                  <mi>
+                   arcsin
+                  </mi>
+                  <mo>
+                   ⁡
+                   <!-- ⁡ -->
+                  </mo>
+                  <mrow>
+                   <mo>
+                    (
+                   </mo>
+                   <mrow>
+                    <mo>
+                     |
+                    </mo>
+                    <mrow>
+                     <msub>
+                      <mrow class="MJX-TeXAtom-ORD">
+                       <mi mathvariant="bold">
+                        n
+                       </mi>
+                      </mrow>
+                      <mrow class="MJX-TeXAtom-ORD">
+                       <mi>
+                        a
+                       </mi>
+                      </mrow>
+                     </msub>
+                     <mo>
+                      ×
+                      <!-- × -->
+                     </mo>
+                     <msub>
+                      <mrow class="MJX-TeXAtom-ORD">
+                       <mi mathvariant="bold">
+                        n
+                       </mi>
+                      </mrow>
+                      <mrow class="MJX-TeXAtom-ORD">
+                       <mi>
+                        b
+                       </mi>
+                      </mrow>
+                     </msub>
+                    </mrow>
+                    <mo>
+                     |
+                    </mo>
+                   </mrow>
+                   <mo>
+                    )
+                   </mo>
+                  </mrow>
+                 </mtd>
+                </mtr>
+                <mtr>
+                 <mtd>
+                 </mtd>
+                 <mtd>
+                  <mi mathvariant="normal">
+                   Δ
+                   <!-- Δ -->
+                  </mi>
+                  <mi>
+                   σ
+                   <!-- σ -->
+                  </mi>
+                  <mo>
+                   =
+                  </mo>
+                  <mi>
+                   arctan
+                  </mi>
+                  <mo>
+                   ⁡
+                   <!-- ⁡ -->
+                  </mo>
+                  <mrow>
+                   <mo>
+                    (
+                   </mo>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mfrac>
+                     <mrow>
+                      <mo>
+                       |
+                      </mo>
+                      <mrow>
+                       <msub>
+                        <mrow class="MJX-TeXAtom-ORD">
+                         <mi mathvariant="bold">
+                          n
+                         </mi>
+                        </mrow>
+                        <mrow class="MJX-TeXAtom-ORD">
+                         <mi>
+                          a
+                         </mi>
+                        </mrow>
+                       </msub>
+                       <mo>
+                        ×
+                        <!-- × -->
+                       </mo>
+                       <msub>
+                        <mrow class="MJX-TeXAtom-ORD">
+                         <mi mathvariant="bold">
+                          n
+                         </mi>
+                        </mrow>
+                        <mrow class="MJX-TeXAtom-ORD">
+                         <mi>
+                          b
+                         </mi>
+                        </mrow>
+                       </msub>
+                      </mrow>
+                      <mo>
+                       |
+                      </mo>
+                     </mrow>
+                     <mrow>
+                      <msub>
+                       <mrow class="MJX-TeXAtom-ORD">
+                        <mi mathvariant="bold">
+                         n
+                        </mi>
+                       </mrow>
+                       <mrow class="MJX-TeXAtom-ORD">
+                        <mi>
+                         a
+                        </mi>
+                       </mrow>
+                      </msub>
+                      <mo>
+                       ⋅
+                       <!-- ⋅ -->
+                      </mo>
+                      <msub>
+                       <mrow class="MJX-TeXAtom-ORD">
+                        <mi mathvariant="bold">
+                         n
+                        </mi>
+                       </mrow>
+                       <mrow class="MJX-TeXAtom-ORD">
+                        <mi>
+                         b
+                        </mi>
+                       </mrow>
+                      </msub>
+                     </mrow>
+                    </mfrac>
+                   </mrow>
+                   <mo>
+                    )
+                   </mo>
+                  </mrow>
+                 </mtd>
+                </mtr>
+               </mtable>
+              </mrow>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle {\begin{aligned}&amp;\Delta \sigma =\arccos \left(\mathbf {n} _{a}\cdot \mathbf {n} _{b}\right)\\&amp;\Delta \sigma =\arcsin \left(\left|\mathbf {n} _{a}\times \mathbf {n} _{b}\right|\right)\\&amp;\Delta \sigma =\arctan \left({\frac {\left|\mathbf {n} _{a}\times \mathbf {n} _{b}\right|}{\mathbf {n} _{a}\cdot \mathbf {n} _{b}}}\right)\\\end{aligned}}}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="{\begin{aligned}&amp;\Delta \sigma =\arccos \left({\mathbf  n}_{a}\cdot {\mathbf  n}_{b}\right)\\&amp;\Delta \sigma =\arcsin \left(\left|{\mathbf  n}_{a}\times {\mathbf  n}_{b}\right|\right)\\&amp;\Delta \sigma =\arctan \left({\frac  {\left|{\mathbf  n}_{a}\times {\mathbf  n}_{b}\right|}{{\mathbf  n}_{a}\cdot {\mathbf  n}_{b}}}\right)\\\end{aligned}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/555eff14393f6ea89599788bf4514e7a1b59a3a5" style="vertical-align: -5.671ex; width:26.983ex; height:12.509ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       where
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle \mathbf {n} _{a}}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <msub>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi mathvariant="bold">
+                n
+               </mi>
+              </mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                a
+               </mi>
+              </mrow>
+             </msub>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle \mathbf {n} _{a}}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="{\mathbf  n}_{a}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2acb567a413af8c984e1cac33a4032c352c1c281" style="vertical-align: -0.671ex; width:2.587ex; height:2.009ex;"/>
+       </span>
+       and
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle \mathbf {n} _{b}}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <msub>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi mathvariant="bold">
+                n
+               </mi>
+              </mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                b
+               </mi>
+              </mrow>
+             </msub>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle \mathbf {n} _{b}}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="{\mathbf  n}_{b}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/46e1fce6808c68e318c81941253212f0ded8ea6e" style="vertical-align: -0.671ex; width:2.423ex; height:2.009ex;"/>
+       </span>
+       are the
+       <i>
+        n
+       </i>
+       -vectors representing the two positions
+       <i>
+        a
+       </i>
+       and
+       <i>
+        b
+       </i>
+       .
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle \Delta \sigma }" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi mathvariant="normal">
+              Δ
+              <!-- Δ -->
+             </mi>
+             <mi>
+              σ
+              <!-- σ -->
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle \Delta \sigma }
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="\Delta \sigma " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/01ba6a99cd97870e320dcdc1420f54703f6dbac1" style="vertical-align: -0.338ex; width:3.266ex; height:2.176ex;"/>
+       </span>
+       is the angular difference, and thus the great-circle distance is achieved by multiplying with the Earth radius. This expression also works at the poles and at the ±180° meridian. Note that
+       <i>
+        arctan
+       </i>
+       must be replaced by
+       <i>
+        <a href="/wiki/Atan2" title="Atan2">
+         atan2
+        </a>
+       </i>
+       in computer program implementation.
+      </p>
+      <p>
+       There are several other examples where the use of vector algebra simplifies standard problems.
+       <sup class="reference" id="cite_ref-Gade_1-3">
+        <a href="#cite_note-Gade-1">
+         [1]
+        </a>
+       </sup>
+       For a general comparison of the various representations, see the
+       <a href="/wiki/Horizontal_position_representation" title="Horizontal position representation">
+        horizontal position representations page
+       </a>
+       .
+      </p>
+      <h2>
+       <span class="mw-headline" id="See_also">
+        See also
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=N-vector&amp;action=edit&amp;section=5" title="Edit section: See also">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a href="/wiki/Horizontal_position_representation" title="Horizontal position representation">
+         Horizontal position representation
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Latitude" title="Latitude">
+         Latitude
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Longitude" title="Longitude">
+         Longitude
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Universal_Transverse_Mercator_coordinate_system" title="Universal Transverse Mercator coordinate system">
+         Universal Transverse Mercator coordinate system
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Quaternion" title="Quaternion">
+         Quaternion
+        </a>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="References">
+        References
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=N-vector&amp;action=edit&amp;section=6" title="Edit section: References">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="reflist" style="list-style-type: decimal;">
+       <div class="mw-references-wrap">
+        <ol class="references">
+         <li id="cite_note-Gade-1">
+          <span class="mw-cite-backlink">
+           ^
+           <a href="#cite_ref-Gade_1-0">
+            <sup>
+             <i>
+              <b>
+               a
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-Gade_1-1">
+            <sup>
+             <i>
+              <b>
+               b
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-Gade_1-2">
+            <sup>
+             <i>
+              <b>
+               c
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-Gade_1-3">
+            <sup>
+             <i>
+              <b>
+               d
+              </b>
+             </i>
+            </sup>
+           </a>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Gade, Kenneth (2010).
+            <a class="external text" href="http://www.navlab.net/Publications/A_Nonsingular_Horizontal_Position_Representation.pdf" rel="nofollow">
+             "A non-singular horizontal position representation"
+            </a>
+            <span style="font-size:85%;">
+             (PDF)
+            </span>
+            .
+            <i>
+             The Journal of Navigation
+            </i>
+            . Cambridge University Press.
+            <b>
+             63
+            </b>
+            (3): 395–417.
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1017%2FS0373463309990415" rel="nofollow">
+             10.1017/S0373463309990415
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Journal+of+Navigation&amp;rft.atitle=A+non-singular+horizontal+position+representation&amp;rft.volume=63&amp;rft.issue=3&amp;rft.pages=395-417&amp;rft.date=2010&amp;rft_id=info%3Adoi%2F10.1017%2FS0373463309990415&amp;rft.aulast=Gade&amp;rft.aufirst=Kenneth&amp;rft_id=http%3A%2F%2Fwww.navlab.net%2FPublications%2FA_Nonsingular_Horizontal_Position_Representation.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AN-vector">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-2">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-2">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Stuelpnagel, John (1964). "On the Parametrization of the Three-Dimensional Rotation Group".
+            <i>
+             SIAM Review
+            </i>
+            . Society for Industrial and Applied Mathematics.
+            <b>
+             6
+            </b>
+            (4): 422–430.
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1137%2F1006093" rel="nofollow">
+             10.1137/1006093
+            </a>
+            .
+            <a href="/wiki/JSTOR" title="JSTOR">
+             JSTOR
+            </a>
+            <a class="external text" href="//www.jstor.org/stable/2027966" rel="nofollow">
+             2027966
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=SIAM+Review&amp;rft.atitle=On+the+Parametrization+of+the+Three-Dimensional+Rotation+Group&amp;rft.volume=6&amp;rft.issue=4&amp;rft.pages=422-430&amp;rft.date=1964&amp;rft_id=info%3Adoi%2F10.1137%2F1006093&amp;rft_id=%2F%2Fwww.jstor.org%2Fstable%2F2027966&amp;rft.aulast=Stuelpnagel&amp;rft.aufirst=John&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AN-vector">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+        </ol>
+       </div>
+      </div>
+      <h2>
+       <span class="mw-headline" id="External_links">
+        External links
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=N-vector&amp;action=edit&amp;section=7" title="Edit section: External links">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a class="external text" href="http://www.navlab.net/nvector/" rel="nofollow">
+         Solving 10 problems by means of the
+         <i>
+          n
+         </i>
+         -vector
+        </a>
+       </li>
+      </ul>
+      <!-- 
+NewPP limit report
+Parsed by mw1212
+Cached time: 20180114090452
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.096 seconds
+Real time usage: 0.162 seconds
+Preprocessor visited node count: 306/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 3992/2097152 bytes
+Template argument size: 72/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 0/500
+Lua time usage: 0.036/10.000 seconds
+Lua memory usage: 1.5 MB/50 MB
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   77.884      1 Template:Reflist
+100.00%   77.884      1 -total
+ 81.10%   63.162      2 Template:Cite_journal
+  2.22%    1.727      1 Template:Main_other
+-->
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:5631171-0!canonical!math=5 and timestamp 20180114090452 and revision id 794201280
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=N-vector&amp;oldid=794201280">
+      https://en.wikipedia.org/w/index.php?title=N-vector&amp;oldid=794201280
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Navigation" title="Category:Navigation">
+         Navigation
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Geodesy" title="Category:Geodesy">
+         Geodesy
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Geolocation" title="Category:Geolocation">
+         Geolocation
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Geographic_coordinate_systems" title="Category:Geographic coordinate systems">
+         Geographic coordinate systems
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=N-vector" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=N-vector" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/N-vector" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:N-vector" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="collapsible selected" id="ca-view">
+        <span>
+         <a href="/wiki/N-vector">
+          Read
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=N-vector&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=N-vector&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/N-vector" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/N-vector" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=N-vector&amp;oldid=794201280" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=N-vector&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q6951517" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=N-vector&amp;id=794201280" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=N-vector">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:ElectronPdf&amp;page=N-vector&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=N-vector&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-add wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q6951517#sitelinks-wikipedia" title="Add interlanguage links">
+         Add links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 6 August 2017, at 14:33.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=N-vector&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.096","walltime":"0.162","ppvisitednodes":{"value":306,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":3992,"limit":2097152},"templateargumentsize":{"value":72,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   77.884      1 Template:Reflist","100.00%   77.884      1 -total"," 81.10%   63.162      2 Template:Cite_journal","  2.22%    1.727      1 Template:Main_other"]},"scribunto":{"limitreport-timeusage":{"value":"0.036","limit":"10.000"},"limitreport-memusage":{"value":1573314,"limit":52428800}},"cachereport":{"origin":"mw1212","timestamp":"20180114090452","ttl":1900800,"transientcontent":false}}});});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":75,"wgHostname":"mw1247"});});
+  </script>
+ </body>
+</html>

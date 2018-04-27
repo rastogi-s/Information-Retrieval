@@ -1,0 +1,5011 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Mineralogy - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Mineralogy","wgTitle":"Mineralogy","wgCurRevisionId":813246234,"wgRevisionId":813246234,"wgArticleId":19883,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with failed verification","Articles with failed verification from October 2017","Pages using div col without cols and colwidth parameters","Wikipedia articles with GND identifiers","Mineralogy"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Mineralogy","wgRelevantArticleId":19883,"wgRequestId":"Wm6CBApAMFkAAKEo-mgAAACT","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q83353","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.31.0-wmf.17" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Mineralogy_between_its_other_sciences_around.png/1200px-Mineralogy_between_its_other_sciences_around.png" property="og:image"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Mineralogy" rel="alternate"/>
+  <link href="/w/index.php?title=Mineralogy&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Mineralogy&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/Mineralogy" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Mineralogy rootpage-Mineralogy skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Mineralogy
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:Mineralogy_between_its_other_sciences_around.png">
+         <img alt="" class="thumbimage" data-file-height="2281" data-file-width="2285" height="220" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Mineralogy_between_its_other_sciences_around.png/220px-Mineralogy_between_its_other_sciences_around.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Mineralogy_between_its_other_sciences_around.png/330px-Mineralogy_between_its_other_sciences_around.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Mineralogy_between_its_other_sciences_around.png/440px-Mineralogy_between_its_other_sciences_around.png 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Mineralogy_between_its_other_sciences_around.png" title="Enlarge">
+          </a>
+         </div>
+         Mineralogy is a mixture of
+         <a href="/wiki/Chemistry" title="Chemistry">
+          chemistry
+         </a>
+         ,
+         <a href="/wiki/Materials_science" title="Materials science">
+          materials science
+         </a>
+         ,
+         <a href="/wiki/Physics" title="Physics">
+          physics
+         </a>
+         and
+         <a href="/wiki/Geology" title="Geology">
+          geology
+         </a>
+         .
+        </div>
+       </div>
+      </div>
+      <p>
+       <b>
+        Mineralogy
+       </b>
+       <sup class="reference" id="cite_ref-3">
+        <a href="#cite_note-3">
+         [n 1]
+        </a>
+       </sup>
+       is a subject of
+       <a href="/wiki/Geology" title="Geology">
+        geology
+       </a>
+       specializing in the scientific study of
+       <a href="/wiki/Chemistry" title="Chemistry">
+        chemistry
+       </a>
+       ,
+       <a href="/wiki/Crystal_structure" title="Crystal structure">
+        crystal structure
+       </a>
+       , and physical (including
+       <a href="/wiki/Optical_mineralogy" title="Optical mineralogy">
+        optical
+       </a>
+       ) properties of
+       <a href="/wiki/Mineral" title="Mineral">
+        minerals
+       </a>
+       and mineralized
+       <a href="/wiki/Artifact_(archaeology)" title="Artifact (archaeology)">
+        artifacts
+       </a>
+       . Specific studies within mineralogy include the processes of mineral origin and formation, classification of minerals, their geographical distribution, as well as their utilization.
+      </p>
+      <p>
+      </p>
+      <div class="toc" id="toc">
+       <div class="toctitle" dir="ltr" lang="en" xml:lang="en">
+        <h2>
+         Contents
+        </h2>
+       </div>
+       <ul>
+        <li class="toclevel-1 tocsection-1">
+         <a href="#History">
+          <span class="tocnumber">
+           1
+          </span>
+          <span class="toctext">
+           History
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-2">
+         <a href="#Physical_properties">
+          <span class="tocnumber">
+           2
+          </span>
+          <span class="toctext">
+           Physical properties
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-3">
+         <a href="#Crystal_structure">
+          <span class="tocnumber">
+           3
+          </span>
+          <span class="toctext">
+           Crystal structure
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-4">
+         <a href="#Chemical_elements">
+          <span class="tocnumber">
+           4
+          </span>
+          <span class="toctext">
+           Chemical elements
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-5">
+         <a href="#Optical">
+          <span class="tocnumber">
+           5
+          </span>
+          <span class="toctext">
+           Optical
+          </span>
+         </a>
+         <ul>
+          <li class="toclevel-2 tocsection-6">
+           <a href="#Transmitted_light">
+            <span class="tocnumber">
+             5.1
+            </span>
+            <span class="toctext">
+             Transmitted light
+            </span>
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="toclevel-1 tocsection-7">
+         <a href="#Systematic">
+          <span class="tocnumber">
+           6
+          </span>
+          <span class="toctext">
+           Systematic
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-8">
+         <a href="#Formation_environments">
+          <span class="tocnumber">
+           7
+          </span>
+          <span class="toctext">
+           Formation environments
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-9">
+         <a href="#Biomineralogy">
+          <span class="tocnumber">
+           8
+          </span>
+          <span class="toctext">
+           Biomineralogy
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-10">
+         <a href="#Uses">
+          <span class="tocnumber">
+           9
+          </span>
+          <span class="toctext">
+           Uses
+          </span>
+         </a>
+         <ul>
+          <li class="toclevel-2 tocsection-11">
+           <a href="#Collecting">
+            <span class="tocnumber">
+             9.1
+            </span>
+            <span class="toctext">
+             Collecting
+            </span>
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="toclevel-1 tocsection-12">
+         <a href="#See_also">
+          <span class="tocnumber">
+           10
+          </span>
+          <span class="toctext">
+           See also
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-13">
+         <a href="#Notes">
+          <span class="tocnumber">
+           11
+          </span>
+          <span class="toctext">
+           Notes
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-14">
+         <a href="#References">
+          <span class="tocnumber">
+           12
+          </span>
+          <span class="toctext">
+           References
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-15">
+         <a href="#Further_reading">
+          <span class="tocnumber">
+           13
+          </span>
+          <span class="toctext">
+           Further reading
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-16">
+         <a href="#External_links">
+          <span class="tocnumber">
+           14
+          </span>
+          <span class="toctext">
+           External links
+          </span>
+         </a>
+         <ul>
+          <li class="toclevel-2 tocsection-17">
+           <a href="#Associations">
+            <span class="tocnumber">
+             14.1
+            </span>
+            <span class="toctext">
+             Associations
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-18">
+           <a href="#Other">
+            <span class="tocnumber">
+             14.2
+            </span>
+            <span class="toctext">
+             Other
+            </span>
+           </a>
+          </li>
+         </ul>
+        </li>
+       </ul>
+      </div>
+      <p>
+      </p>
+      <h2>
+       <span class="mw-headline" id="History">
+        History
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Mineralogy&amp;action=edit&amp;section=1" title="Edit section: History">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:Mohs_mineralogy_vol_2_plate_19.jpg">
+         <img alt="" class="thumbimage" data-file-height="2770" data-file-width="3364" height="181" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Mohs_mineralogy_vol_2_plate_19.jpg/220px-Mohs_mineralogy_vol_2_plate_19.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Mohs_mineralogy_vol_2_plate_19.jpg/330px-Mohs_mineralogy_vol_2_plate_19.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Mohs_mineralogy_vol_2_plate_19.jpg/440px-Mohs_mineralogy_vol_2_plate_19.jpg 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Mohs_mineralogy_vol_2_plate_19.jpg" title="Enlarge">
+          </a>
+         </div>
+         Page from
+         <i>
+          Treatise on mineralogy
+         </i>
+         by
+         <a href="/wiki/Friedrich_Mohs" title="Friedrich Mohs">
+          Friedrich Mohs
+         </a>
+         (1825)
+        </div>
+       </div>
+      </div>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:Moon_Mineralogy_Mapper_left.jpg">
+         <img alt="" class="thumbimage" data-file-height="531" data-file-width="800" height="146" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Moon_Mineralogy_Mapper_left.jpg/220px-Moon_Mineralogy_Mapper_left.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Moon_Mineralogy_Mapper_left.jpg/330px-Moon_Mineralogy_Mapper_left.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/75/Moon_Mineralogy_Mapper_left.jpg/440px-Moon_Mineralogy_Mapper_left.jpg 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Moon_Mineralogy_Mapper_left.jpg" title="Enlarge">
+          </a>
+         </div>
+         The
+         <a href="/wiki/Moon_Mineralogy_Mapper" title="Moon Mineralogy Mapper">
+          Moon Mineralogy Mapper
+         </a>
+         , a
+         <a href="/wiki/Spectrometer" title="Spectrometer">
+          spectrometer
+         </a>
+         that mapped the lunar surface
+         <sup class="reference" id="cite_ref-JPL_M3_4-0">
+          <a href="#cite_note-JPL_M3-4">
+           [3]
+          </a>
+         </sup>
+        </div>
+       </div>
+      </div>
+      <div class="hatnote navigation-not-searchable" role="note">
+       Main article:
+       <a href="/wiki/History_of_mineralogy" title="History of mineralogy">
+        History of mineralogy
+       </a>
+      </div>
+      <p>
+       Early writing on mineralogy, especially on gemstones, comes from ancient
+       <a href="/wiki/Babylonia" title="Babylonia">
+        Babylonia
+       </a>
+       , the ancient
+       <a class="mw-redirect" href="/wiki/Greco-Roman" title="Greco-Roman">
+        Greco-Roman
+       </a>
+       world, ancient and medieval
+       <a href="/wiki/History_of_China" title="History of China">
+        China
+       </a>
+       , and
+       <a href="/wiki/Sanskrit" title="Sanskrit">
+        Sanskrit
+       </a>
+       texts from
+       <a href="/wiki/History_of_India" title="History of India">
+        ancient India
+       </a>
+       and the ancient Islamic World.
+       <sup class="reference" id="cite_ref-Needham_5-0">
+        <a href="#cite_note-Needham-5">
+         [4]
+        </a>
+       </sup>
+       Books on the subject included the
+       <i>
+        <a class="mw-redirect" href="/wiki/Naturalis_Historia" title="Naturalis Historia">
+         Naturalis Historia
+        </a>
+       </i>
+       of
+       <a href="/wiki/Pliny_the_Elder" title="Pliny the Elder">
+        Pliny the Elder
+       </a>
+       , which not only described many different minerals but also explained many of their properties, and Kitab al Jawahir (Book of Precious Stones) by Persian scientist
+       <a class="mw-redirect" href="/wiki/Al_Biruni" title="Al Biruni">
+        Al Biruni
+       </a>
+       . The
+       <a href="/wiki/German_Renaissance" title="German Renaissance">
+        German Renaissance
+       </a>
+       specialist
+       <a href="/wiki/Georgius_Agricola" title="Georgius Agricola">
+        Georgius Agricola
+       </a>
+       wrote works such as
+       <i>
+        <a href="/wiki/De_re_metallica" title="De re metallica">
+         De re metallica
+        </a>
+       </i>
+       (
+       <i>
+        On Metals
+       </i>
+       , 1556) and
+       <i>
+        <a href="/wiki/De_Natura_Fossilium" title="De Natura Fossilium">
+         De Natura Fossilium
+        </a>
+       </i>
+       (
+       <i>
+        On the Nature of Rocks
+       </i>
+       , 1546) which began the scientific approach to the subject. Systematic scientific studies of minerals and rocks developed in post-
+       <a href="/wiki/Renaissance" title="Renaissance">
+        Renaissance
+       </a>
+       Europe.
+       <sup class="reference" id="cite_ref-Needham_5-1">
+        <a href="#cite_note-Needham-5">
+         [4]
+        </a>
+       </sup>
+       The modern study of mineralogy was founded on the principles of
+       <a href="/wiki/Crystallography" title="Crystallography">
+        crystallography
+       </a>
+       (the origins of geometric crystallography, itself, can be traced back to the mineralogy practiced in the eighteenth and nineteenth centuries) and to the
+       <a class="mw-redirect" href="/wiki/Microscopic" title="Microscopic">
+        microscopic
+       </a>
+       study of rock sections with the invention of the
+       <a href="/wiki/Microscope" title="Microscope">
+        microscope
+       </a>
+       in the 17th century.
+       <sup class="reference" id="cite_ref-Needham_5-2">
+        <a href="#cite_note-Needham-5">
+         [4]
+        </a>
+       </sup>
+      </p>
+      <p>
+       <a class="mw-redirect" href="/wiki/Nicholas_Steno" title="Nicholas Steno">
+        Nicholas Steno
+       </a>
+       first observed the law of constancy of interfacial angles (also known as the first law of crystallography) in quartz crystals in 1669.
+       <sup class="reference" id="cite_ref-Ness_6-0">
+        <a href="#cite_note-Ness-6">
+         [5]
+        </a>
+       </sup>
+       <sup class="reference" style="white-space:nowrap;">
+        :
+        <span>
+         4
+        </span>
+       </sup>
+       This was later generalized and established experimentally by
+       <a href="/wiki/Jean-Baptiste_L._Rom%C3%A9_de_l%27Isle" title="Jean-Baptiste L. Romé de l'Isle">
+        Jean-Baptiste L. Romé de l'Islee
+       </a>
+       in 1783.
+       <sup class="reference" id="cite_ref-7">
+        <a href="#cite_note-7">
+         [6]
+        </a>
+       </sup>
+       <a href="/wiki/Ren%C3%A9_Just_Ha%C3%BCy" title="René Just Haüy">
+        René Just Haüy
+       </a>
+       , the "father of modern crystallography", showed that crystals are periodic and established that the orientations of crystal faces can be expressed in terms of rational numbers, as later encoded in the Miller indices.
+       <sup class="reference" id="cite_ref-Ness_6-1">
+        <a href="#cite_note-Ness-6">
+         [5]
+        </a>
+       </sup>
+       <sup class="reference" style="white-space:nowrap;">
+        :
+        <span>
+         4
+        </span>
+       </sup>
+       In 1814,
+       <a href="/wiki/J%C3%B6ns_Jacob_Berzelius" title="Jöns Jacob Berzelius">
+        Jöns Jacob Berzelius
+       </a>
+       introduced a classification of minerals based on their chemistry rather than their crystal structure.
+       <sup class="reference" id="cite_ref-Rafferty_8-0">
+        <a href="#cite_note-Rafferty-8">
+         [7]
+        </a>
+       </sup>
+       <a href="/wiki/William_Nicol_(geologist)" title="William Nicol (geologist)">
+        William Nicol
+       </a>
+       developed the
+       <a href="/wiki/Nicol_prism" title="Nicol prism">
+        Nicol prism
+       </a>
+       , which polarizes light, in 1827–1828 while studying fossilized wood;
+       <a href="/wiki/Henry_Clifton_Sorby" title="Henry Clifton Sorby">
+        Henry Clifton Sorby
+       </a>
+       showed that thin sections of minerals could be identified by their optical properties using a
+       <a class="mw-redirect" href="/wiki/Polarizing_microscope" title="Polarizing microscope">
+        polarizing microscope
+       </a>
+       .
+       <sup class="reference" id="cite_ref-Ness_6-2">
+        <a href="#cite_note-Ness-6">
+         [5]
+        </a>
+       </sup>
+       <sup class="reference" style="white-space:nowrap;">
+        :
+        <span>
+         4
+        </span>
+       </sup>
+       <sup class="reference" id="cite_ref-Rafferty_8-1">
+        <a href="#cite_note-Rafferty-8">
+         [7]
+        </a>
+       </sup>
+       <sup class="reference" style="white-space:nowrap;">
+        :
+        <span>
+         15
+        </span>
+       </sup>
+       <a class="mw-redirect" href="/wiki/James_D._Dana" title="James D. Dana">
+        James D. Dana
+       </a>
+       published his first edition of
+       <i>
+        A System of Mineralogy
+       </i>
+       in 1837, and in a later edition introduced a chemical classification that is still the standard.
+       <sup class="reference" id="cite_ref-Ness_6-3">
+        <a href="#cite_note-Ness-6">
+         [5]
+        </a>
+       </sup>
+       <sup class="reference" style="white-space:nowrap;">
+        :
+        <span>
+         4
+        </span>
+       </sup>
+       <sup class="reference" id="cite_ref-Rafferty_8-2">
+        <a href="#cite_note-Rafferty-8">
+         [7]
+        </a>
+       </sup>
+       <sup class="reference" style="white-space:nowrap;">
+        :
+        <span>
+         15
+        </span>
+       </sup>
+       X-ray diffraction was demonstrated by
+       <a href="/wiki/Max_von_Laue" title="Max von Laue">
+        Max von Laue
+       </a>
+       in 1912, and developed into a tool for analyzing the crystal structure of minerals by the father/son team of
+       <a href="/wiki/William_Henry_Bragg" title="William Henry Bragg">
+        William Henry Bragg
+       </a>
+       and
+       <a class="mw-redirect" href="/wiki/William_Lawrence_Bragg" title="William Lawrence Bragg">
+        William Lawrence Bragg
+       </a>
+       .
+       <sup class="reference" id="cite_ref-Ness_6-4">
+        <a href="#cite_note-Ness-6">
+         [5]
+        </a>
+       </sup>
+       <sup class="reference" style="white-space:nowrap;">
+        :
+        <span>
+         4
+        </span>
+       </sup>
+      </p>
+      <p>
+       More recently, driven by advances in experimental technique (such as
+       <a href="/wiki/Neutron_diffraction" title="Neutron diffraction">
+        neutron diffraction
+       </a>
+       ) and available computational power, the latter of which has enabled extremely accurate atomic-scale simulations of the behaviour of crystals, the science has branched out to consider more general problems in the fields of
+       <a href="/wiki/Inorganic_chemistry" title="Inorganic chemistry">
+        inorganic chemistry
+       </a>
+       and
+       <a href="/wiki/Solid-state_physics" title="Solid-state physics">
+        solid-state physics
+       </a>
+       . It, however, retains a focus on the crystal structures commonly encountered in rock-forming minerals (such as the
+       <a href="/wiki/Perovskite" title="Perovskite">
+        perovskites
+       </a>
+       ,
+       <a href="/wiki/Clay_minerals" title="Clay minerals">
+        clay minerals
+       </a>
+       and
+       <a class="mw-redirect" href="/wiki/Tectosilicate" title="Tectosilicate">
+        framework silicates
+       </a>
+       ). In particular, the field has made great advances in the understanding of the relationship between the atomic-scale structure of minerals and their function; in nature, prominent examples would be accurate measurement and prediction of the elastic properties of minerals, which has led to new insight into
+       <a href="/wiki/Seismology" title="Seismology">
+        seismological
+       </a>
+       behaviour of rocks and depth-related discontinuities in seismograms of the
+       <a class="mw-redirect" href="/wiki/Earth%27s_mantle" title="Earth's mantle">
+        Earth's mantle
+       </a>
+       . To this end, in their focus on the connection between atomic-scale phenomena and macroscopic properties, the
+       <i>
+        mineral sciences
+       </i>
+       (as they are now commonly known) display perhaps more of an overlap with
+       <a href="/wiki/Materials_science" title="Materials science">
+        materials science
+       </a>
+       than any other discipline.
+      </p>
+      <h2>
+       <span class="mw-headline" id="Physical_properties">
+        Physical properties
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Mineralogy&amp;action=edit&amp;section=2" title="Edit section: Physical properties">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:Calcit_Scalenoeder_-_Egremont,_England.jpg">
+         <img alt="" class="thumbimage" data-file-height="1150" data-file-width="1500" height="169" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Calcit_Scalenoeder_-_Egremont%2C_England.jpg/220px-Calcit_Scalenoeder_-_Egremont%2C_England.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Calcit_Scalenoeder_-_Egremont%2C_England.jpg/330px-Calcit_Scalenoeder_-_Egremont%2C_England.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Calcit_Scalenoeder_-_Egremont%2C_England.jpg/440px-Calcit_Scalenoeder_-_Egremont%2C_England.jpg 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Calcit_Scalenoeder_-_Egremont,_England.jpg" title="Enlarge">
+          </a>
+         </div>
+         <a href="/wiki/Calcite" title="Calcite">
+          Calcite
+         </a>
+         is a
+         <a href="/wiki/Carbonate_minerals" title="Carbonate minerals">
+          carbonate mineral
+         </a>
+         (CaCO
+         <sub>
+          3
+         </sub>
+         ) with a
+         <a class="mw-redirect" href="/wiki/Rhombohedral" title="Rhombohedral">
+          rhombohedral
+         </a>
+         crystal structure.
+        </div>
+       </div>
+      </div>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:Aragonite_redbrown_crystals.jpg">
+         <img alt="" class="thumbimage" data-file-height="1069" data-file-width="1192" height="197" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Aragonite_redbrown_crystals.jpg/220px-Aragonite_redbrown_crystals.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Aragonite_redbrown_crystals.jpg/330px-Aragonite_redbrown_crystals.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Aragonite_redbrown_crystals.jpg/440px-Aragonite_redbrown_crystals.jpg 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Aragonite_redbrown_crystals.jpg" title="Enlarge">
+          </a>
+         </div>
+         <a href="/wiki/Aragonite" title="Aragonite">
+          Aragonite
+         </a>
+         is an
+         <a class="mw-redirect" href="/wiki/Orthorhombic" title="Orthorhombic">
+          orthorhombic
+         </a>
+         polymorph of calcite.
+        </div>
+       </div>
+      </div>
+      <p>
+       An initial step in identifying a mineral is to examine its physical properties, many of which can be measured on a hand sample. These can be classified into
+       <a href="/wiki/Density" title="Density">
+        density
+       </a>
+       (often given as
+       <a href="/wiki/Specific_gravity" title="Specific gravity">
+        specific gravity
+       </a>
+       ); measures of mechanical cohesion (
+       <a class="mw-redirect" href="/wiki/Mohs_scale" title="Mohs scale">
+        hardness
+       </a>
+       ,
+       <a href="/wiki/Tenacity_(mineralogy)" title="Tenacity (mineralogy)">
+        tenacity
+       </a>
+       ,
+       <a href="/wiki/Cleavage_(crystal)" title="Cleavage (crystal)">
+        cleavage
+       </a>
+       ,
+       <a href="/wiki/Fracture_(mineralogy)" title="Fracture (mineralogy)">
+        fracture
+       </a>
+       ,
+       <a href="/wiki/Cleavage_(crystal)#Parting" title="Cleavage (crystal)">
+        parting
+       </a>
+       ); macroscopic visual properties (
+       <a class="mw-redirect" href="/wiki/Luster_(mineralogy)" title="Luster (mineralogy)">
+        luster
+       </a>
+       , color,
+       <a href="/wiki/Streak_(mineralogy)" title="Streak (mineralogy)">
+        streak
+       </a>
+       ,
+       <a href="/wiki/Luminescence" title="Luminescence">
+        luminescence
+       </a>
+       ,
+       <a href="/wiki/Transparency_and_translucency" title="Transparency and translucency">
+        diaphaneity
+       </a>
+       ); magnetic and electric properties; radioactivity and solubility in
+       <a href="/wiki/Hydrogen_chloride" title="Hydrogen chloride">
+        hydrogen chloride
+       </a>
+       (
+       <a href="/wiki/Hydrogen" title="Hydrogen">
+        H
+       </a>
+       <a href="/wiki/Chlorine" title="Chlorine">
+        Cl
+       </a>
+       ).
+       <sup class="reference" id="cite_ref-Ness_6-5">
+        <a href="#cite_note-Ness-6">
+         [5]
+        </a>
+       </sup>
+       <sup class="reference" style="white-space:nowrap;">
+        :
+        <span>
+         97–113
+        </span>
+       </sup>
+       <sup class="reference" id="cite_ref-Klein_9-0">
+        <a href="#cite_note-Klein-9">
+         [8]
+        </a>
+       </sup>
+       <sup class="reference" style="white-space:nowrap;">
+        :
+        <span>
+         39–53
+        </span>
+       </sup>
+      </p>
+      <p>
+       <i>
+        Hardness
+       </i>
+       is determined by comparison with other minerals. In the
+       <a href="/wiki/Mohs_scale_of_mineral_hardness" title="Mohs scale of mineral hardness">
+        Mohs scale
+       </a>
+       , a standard set of minerals are numbered in order of increasing hardness from 1 (talc) to 10 (diamond). A harder mineral will scratch a softer, so an unknown mineral can be placed in this scale by which minerals it scratches and which scratch it. A few minerals such as
+       <a href="/wiki/Calcite" title="Calcite">
+        calcite
+       </a>
+       and
+       <a href="/wiki/Kyanite" title="Kyanite">
+        kyanite
+       </a>
+       have a hardness that depends significantly on direction.
+       <sup class="reference" id="cite_ref-Manual_10-0">
+        <a href="#cite_note-Manual-10">
+         [9]
+        </a>
+       </sup>
+       <sup class="reference" style="white-space:nowrap;">
+        :
+        <span>
+         254–255
+        </span>
+       </sup>
+       Hardness can also be measured on an absolute scale using a
+       <a href="/wiki/Sclerometer" title="Sclerometer">
+        sclerometer
+       </a>
+       ; compared to the absolute scale, the Mohs scale is nonlinear.
+       <sup class="reference" id="cite_ref-Klein_9-1">
+        <a href="#cite_note-Klein-9">
+         [8]
+        </a>
+       </sup>
+       <sup class="reference" style="white-space:nowrap;">
+        :
+        <span>
+         52
+        </span>
+       </sup>
+      </p>
+      <p>
+       <i>
+        Tenacity
+       </i>
+       refers to the way a mineral behaves when it is broken, crushed, bent or torn. A mineral can be
+       <a class="mw-redirect" href="/wiki/Brittle" title="Brittle">
+        brittle
+       </a>
+       ,
+       <a class="mw-redirect" href="/wiki/Malleable" title="Malleable">
+        malleable
+       </a>
+       ,
+       <a class="mw-redirect" href="/wiki/Sectile" title="Sectile">
+        sectile
+       </a>
+       ,
+       <a class="mw-redirect" href="/wiki/Ductile" title="Ductile">
+        ductile
+       </a>
+       ,
+       <a href="/wiki/Stiffness" title="Stiffness">
+        flexible
+       </a>
+       or
+       <a class="mw-redirect" href="/wiki/Elastic_deformation" title="Elastic deformation">
+        elastic
+       </a>
+       . An important influence on tenacity is the type of chemical bond (
+       <i>
+        e.g.,
+       </i>
+       <a href="/wiki/Ionic_bonding" title="Ionic bonding">
+        ionic
+       </a>
+       or
+       <a href="/wiki/Metallic_bonding" title="Metallic bonding">
+        metallic
+       </a>
+       ).
+       <sup class="reference" id="cite_ref-Manual_10-1">
+        <a href="#cite_note-Manual-10">
+         [9]
+        </a>
+       </sup>
+       <sup class="reference" style="white-space:nowrap;">
+        :
+        <span>
+         255–256
+        </span>
+       </sup>
+       Of the other measures of mechanical cohesion,
+       <i>
+        cleavage
+       </i>
+       is the tendency to break along certain crystallographic planes. It is described by the quality (
+       <i>
+        e.g.
+       </i>
+       , perfect or fair) and the orientation of the plane in crystallographic nomenclature.
+       <i>
+        Parting
+       </i>
+       is the tendency to break along planes of weakness due to pressure, twinning or
+       <a class="mw-redirect" href="/wiki/Exsolution" title="Exsolution">
+        exsolution
+       </a>
+       . Where these two kinds of break do not occur,
+       <i>
+        fracture
+       </i>
+       is a less orderly form that may be
+       <i>
+        <a href="/wiki/Conchoidal_fracture" title="Conchoidal fracture">
+         conchoidal
+        </a>
+       </i>
+       (having smooth curves resembling the interior of a shell),
+       <i>
+        fibrous
+       </i>
+       ,
+       <i>
+        splintery
+       </i>
+       ,
+       <i>
+        hackly
+       </i>
+       (jagged with sharp edges), or
+       <i>
+        uneven
+       </i>
+       .
+       <sup class="reference" id="cite_ref-Manual_10-2">
+        <a href="#cite_note-Manual-10">
+         [9]
+        </a>
+       </sup>
+       <sup class="reference" style="white-space:nowrap;">
+        :
+        <span>
+         253–254
+        </span>
+       </sup>
+      </p>
+      <p>
+       If the mineral is well crystallized, it will also have a distinctive
+       <a href="/wiki/Crystal_habit" title="Crystal habit">
+        crystal habit
+       </a>
+       (for example, hexagonal, columnar,
+       <a href="/wiki/Botryoidal" title="Botryoidal">
+        botryoidal
+       </a>
+       ) that reflects the
+       <a href="/wiki/Crystal_structure" title="Crystal structure">
+        crystal structure
+       </a>
+       or internal arrangement of atoms.
+       <sup class="reference" id="cite_ref-Klein_9-2">
+        <a href="#cite_note-Klein-9">
+         [8]
+        </a>
+       </sup>
+       <sup class="reference" style="white-space:nowrap;">
+        :
+        <span>
+         40–41
+        </span>
+       </sup>
+       It is also affected by crystal defects and
+       <a href="/wiki/Crystal_twinning" title="Crystal twinning">
+        twinning
+       </a>
+       . Many crystals are
+       <a href="/wiki/Polymorphism_(materials_science)" title="Polymorphism (materials science)">
+        polymorphic
+       </a>
+       , having more than one possible crystal structure depending on factors such as pressure and temperature.
+       <sup class="reference" id="cite_ref-Ness_6-6">
+        <a href="#cite_note-Ness-6">
+         [5]
+        </a>
+       </sup>
+       <sup class="reference" style="white-space:nowrap;">
+        :
+        <span>
+         66–68
+        </span>
+       </sup>
+       <sup class="reference" id="cite_ref-Klein_9-3">
+        <a href="#cite_note-Klein-9">
+         [8]
+        </a>
+       </sup>
+       <sup class="reference" style="white-space:nowrap;">
+        :
+        <span>
+         126
+        </span>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Crystal_structure">
+        Crystal structure
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Mineralogy&amp;action=edit&amp;section=3" title="Edit section: Crystal structure">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:Perovskite.jpg">
+         <img alt="" class="thumbimage" data-file-height="726" data-file-width="755" height="212" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/54/Perovskite.jpg/220px-Perovskite.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/54/Perovskite.jpg/330px-Perovskite.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/54/Perovskite.jpg/440px-Perovskite.jpg 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Perovskite.jpg" title="Enlarge">
+          </a>
+         </div>
+         The
+         <a class="mw-redirect" href="/wiki/Perovskite_structure" title="Perovskite structure">
+          perovskite crystal structure
+         </a>
+         . The most abundant mineral in the Earth,
+         <a class="mw-redirect" href="/wiki/Bridgmanite" title="Bridgmanite">
+          bridgmanite
+         </a>
+         , has this structure.
+         <sup class="reference" id="cite_ref-Sharp_11-0">
+          <a href="#cite_note-Sharp-11">
+           [10]
+          </a>
+         </sup>
+         Its chemical formula is (Mg,Fe)SiO
+         <sub>
+          3
+         </sub>
+         ; the red spheres are oxygen, the blue spheres silicon and the green spheres magnesium or iron.
+        </div>
+       </div>
+      </div>
+      <div class="hatnote navigation-not-searchable" role="note">
+       Main article:
+       <a href="/wiki/Crystal_structure" title="Crystal structure">
+        Crystal structure
+       </a>
+      </div>
+      <div class="hatnote navigation-not-searchable" role="note">
+       See also:
+       <a href="/wiki/Crystallography" title="Crystallography">
+        Crystallography
+       </a>
+      </div>
+      <p>
+       The crystal structure is the arrangement of atoms in a crystal. It is represented by a
+       <a class="mw-redirect" href="/wiki/Crystal_lattice" title="Crystal lattice">
+        lattice
+       </a>
+       of points which repeats a basic pattern, called a
+       <a class="mw-redirect" href="/wiki/Unit_cell" title="Unit cell">
+        unit cell
+       </a>
+       , in three dimensions. The lattice can be characterized by its symmetries and by the dimensions of the unit cell. These dimensions are represented by three
+       <i>
+        <a href="/wiki/Miller_index" title="Miller index">
+         Miller indices
+        </a>
+       </i>
+       .
+       <sup class="reference" id="cite_ref-Ashcroft_12-0">
+        <a href="#cite_note-Ashcroft-12">
+         [11]
+        </a>
+       </sup>
+       <sup class="reference" style="white-space:nowrap;">
+        :
+        <span>
+         91–92
+        </span>
+       </sup>
+       The lattice remains unchanged by certain symmetry operations about any given point in the lattice:
+       <a href="/wiki/Reflection_symmetry" title="Reflection symmetry">
+        reflection
+       </a>
+       ,
+       <a href="/wiki/Rotational_symmetry" title="Rotational symmetry">
+        rotation
+       </a>
+       ,
+       <a href="/wiki/Point_reflection" title="Point reflection">
+        inversion
+       </a>
+       , and
+       <a href="/wiki/Improper_rotation" title="Improper rotation">
+        rotary inversion
+       </a>
+       , a combination of rotation and reflection. Together, they make up a mathematical object called a
+       <i>
+        <a href="/wiki/Crystallographic_point_group" title="Crystallographic point group">
+         crystallographic point group
+        </a>
+       </i>
+       or
+       <i>
+        crystal class
+       </i>
+       . There are 32 possible crystal classes. In addition, there are operations that displace all the points:
+       <a href="/wiki/Translational_symmetry" title="Translational symmetry">
+        translation
+       </a>
+       ,
+       <a href="/wiki/Screw_axis" title="Screw axis">
+        screw axis
+       </a>
+       , and
+       <a href="/wiki/Glide_plane" title="Glide plane">
+        glide plane
+       </a>
+       . In combination with the point symmetries, they form 230 possible
+       <a href="/wiki/Space_group" title="Space group">
+        space groups
+       </a>
+       .
+       <sup class="reference" id="cite_ref-Ashcroft_12-1">
+        <a href="#cite_note-Ashcroft-12">
+         [11]
+        </a>
+       </sup>
+       <sup class="reference" style="white-space:nowrap;">
+        :
+        <span>
+         125–126
+        </span>
+       </sup>
+      </p>
+      <p>
+       Most geology departments have
+       <a href="/wiki/X-ray" title="X-ray">
+        X-ray
+       </a>
+       <a href="/wiki/Powder_diffraction" title="Powder diffraction">
+        powder diffraction
+       </a>
+       equipment to analyze the crystal structures of minerals.
+       <sup class="reference" id="cite_ref-Klein_9-4">
+        <a href="#cite_note-Klein-9">
+         [8]
+        </a>
+       </sup>
+       <sup class="reference" style="white-space:nowrap;">
+        :
+        <span>
+         54–55
+        </span>
+       </sup>
+       X-rays have wavelengths that are the same order of magnitude as the distances between atoms.
+       <a href="/wiki/Diffraction" title="Diffraction">
+        Diffraction
+       </a>
+       , the constructive and destructive interference between waves scattered at different atoms, leads to distinctive patterns of high and low intensity that depend on the geometry of the crystal. In a sample that is ground to a powder, the X-rays sample a random distribution of all crystal orientations.
+       <sup class="reference" id="cite_ref-Dinnebier_13-0">
+        <a href="#cite_note-Dinnebier-13">
+         [12]
+        </a>
+       </sup>
+       Powder diffraction can distinguish between minerals that may appear the same in a hand sample, for example
+       <a href="/wiki/Quartz" title="Quartz">
+        quartz
+       </a>
+       and its polymorphs
+       <a href="/wiki/Tridymite" title="Tridymite">
+        tridymite
+       </a>
+       and
+       <a href="/wiki/Cristobalite" title="Cristobalite">
+        cristobalite
+       </a>
+       .
+       <sup class="reference" id="cite_ref-Klein_9-5">
+        <a href="#cite_note-Klein-9">
+         [8]
+        </a>
+       </sup>
+       <sup class="reference" style="white-space:nowrap;">
+        :
+        <span>
+         54
+        </span>
+       </sup>
+      </p>
+      <p>
+       <a href="/wiki/Isomorphism_(crystallography)" title="Isomorphism (crystallography)">
+        Isomorphous
+       </a>
+       minerals of different compositions have similar powder diffraction patterns, the main difference being in spacing and intensity of lines. For example, the
+       <a href="/wiki/Sodium" title="Sodium">
+        Na
+       </a>
+       <a href="/wiki/Chlorine" title="Chlorine">
+        Cl
+       </a>
+       (
+       <a href="/wiki/Halite" title="Halite">
+        halite
+       </a>
+       ) crystal structure is space group
+       <i>
+        Fm3m
+       </i>
+       ; this structure is shared by
+       <a href="/wiki/Sylvite" title="Sylvite">
+        sylvite
+       </a>
+       (
+       <a href="/wiki/Potassium" title="Potassium">
+        K
+       </a>
+       <a href="/wiki/Chlorine" title="Chlorine">
+        Cl
+       </a>
+       ),
+       <a href="/wiki/Periclase" title="Periclase">
+        periclase
+       </a>
+       (
+       <a href="/wiki/Magnesium" title="Magnesium">
+        Mg
+       </a>
+       <a href="/wiki/Oxygen" title="Oxygen">
+        O
+       </a>
+       ),
+       <a href="/wiki/Bunsenite" title="Bunsenite">
+        bunsenite
+       </a>
+       (
+       <a href="/wiki/Nickel" title="Nickel">
+        Ni
+       </a>
+       <a href="/wiki/Oxygen" title="Oxygen">
+        O
+       </a>
+       ),
+       <a href="/wiki/Galena" title="Galena">
+        galena
+       </a>
+       (
+       <a href="/wiki/Lead" title="Lead">
+        Pb
+       </a>
+       <a href="/wiki/Sulfur" title="Sulfur">
+        S
+       </a>
+       ),
+       <a href="/wiki/Alabandite" title="Alabandite">
+        alabandite
+       </a>
+       (
+       <a href="/wiki/Manganese" title="Manganese">
+        Mn
+       </a>
+       <a href="/wiki/Sulfur" title="Sulfur">
+        S
+       </a>
+       ),
+       <a href="/wiki/Chlorargyrite" title="Chlorargyrite">
+        chlorargyrite
+       </a>
+       (
+       <a href="/wiki/Silver" title="Silver">
+        Ag
+       </a>
+       <a href="/wiki/Chlorine" title="Chlorine">
+        Cl
+       </a>
+       ), and
+       <a href="/wiki/Titanium_nitride" title="Titanium nitride">
+        osbornite
+       </a>
+       (
+       <a href="/wiki/Titanium" title="Titanium">
+        Ti
+       </a>
+       <a href="/wiki/Nitrogen" title="Nitrogen">
+        N
+       </a>
+       ).
+       <sup class="reference" id="cite_ref-Manual_10-3">
+        <a href="#cite_note-Manual-10">
+         [9]
+        </a>
+       </sup>
+       <sup class="reference" style="white-space:nowrap;">
+        :
+        <span>
+         150–151
+        </span>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Chemical_elements">
+        Chemical elements
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Mineralogy&amp;action=edit&amp;section=4" title="Edit section: Chemical elements">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="hatnote navigation-not-searchable" role="note">
+       See also:
+       <a href="/wiki/Analytical_chemistry" title="Analytical chemistry">
+        analytical chemistry
+       </a>
+      </div>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:172px;">
+        <a class="image" href="/wiki/File:Portable_Micro-X-ray_fluorescence_machine.jpg">
+         <img alt="" class="thumbimage" data-file-height="3264" data-file-width="2448" height="227" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Portable_Micro-X-ray_fluorescence_machine.jpg/170px-Portable_Micro-X-ray_fluorescence_machine.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Portable_Micro-X-ray_fluorescence_machine.jpg/255px-Portable_Micro-X-ray_fluorescence_machine.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Portable_Micro-X-ray_fluorescence_machine.jpg/340px-Portable_Micro-X-ray_fluorescence_machine.jpg 2x" width="170"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Portable_Micro-X-ray_fluorescence_machine.jpg" title="Enlarge">
+          </a>
+         </div>
+         Portable Micro-X-ray fluorescence machine
+        </div>
+       </div>
+      </div>
+      <p>
+       A few minerals are
+       <a href="/wiki/Chemical_element" title="Chemical element">
+        chemical elements
+       </a>
+       , including
+       <a href="/wiki/Sulfur" title="Sulfur">
+        sulfur
+       </a>
+       ,
+       <a href="/wiki/Copper" title="Copper">
+        copper
+       </a>
+       ,
+       <a href="/wiki/Silver" title="Silver">
+        silver
+       </a>
+       , and
+       <a href="/wiki/Gold" title="Gold">
+        gold
+       </a>
+       , but the vast majority are
+       <a href="/wiki/Chemical_compound" title="Chemical compound">
+        compounds
+       </a>
+       . The classical method for identifying composition is
+       <i>
+        <a href="/wiki/Wet_chemistry" title="Wet chemistry">
+         wet chemical analysis
+        </a>
+       </i>
+       , which involves dissolving a mineral in an acid such as
+       <a href="/wiki/Hydrochloric_acid" title="Hydrochloric acid">
+        hydrochloric acid
+       </a>
+       (
+       <a href="/wiki/Hydrogen" title="Hydrogen">
+        H
+       </a>
+       <a href="/wiki/Chlorine" title="Chlorine">
+        Cl
+       </a>
+       ). The elements in solution are then identified using
+       <a href="/wiki/Colorimetry_(chemical_method)" title="Colorimetry (chemical method)">
+        colorimetry
+       </a>
+       ,
+       <a href="/wiki/Titration" title="Titration">
+        volumetric analysis
+       </a>
+       or
+       <a href="/wiki/Gravimetric_analysis" title="Gravimetric analysis">
+        gravimetric analysis
+       </a>
+       .
+       <sup class="reference" id="cite_ref-Manual_10-4">
+        <a href="#cite_note-Manual-10">
+         [9]
+        </a>
+       </sup>
+       <sup class="reference" style="white-space:nowrap;">
+        :
+        <span>
+         224–225
+        </span>
+       </sup>
+      </p>
+      <p>
+       Since 1960, most chemistry analysis is done using instruments. One of these,
+       <a href="/wiki/Atomic_absorption_spectroscopy" title="Atomic absorption spectroscopy">
+        atomic absorption spectroscopy
+       </a>
+       , is similar to wet chemistry in that the sample must still be dissolved, but it is much faster and cheaper. The solution is vaporized and its absorption spectrum is measured in the visible and ultraviolet range.
+       <sup class="reference" id="cite_ref-Manual_10-5">
+        <a href="#cite_note-Manual-10">
+         [9]
+        </a>
+       </sup>
+       <sup class="reference" style="white-space:nowrap;">
+        :
+        <span>
+         225–226
+        </span>
+       </sup>
+       Other techniques are
+       <a href="/wiki/X-ray_fluorescence" title="X-ray fluorescence">
+        X-ray fluorescence
+       </a>
+       ,
+       <a href="/wiki/Electron_microprobe" title="Electron microprobe">
+        electron microprobe
+       </a>
+       analysis and
+       <a href="/wiki/Atomic_emission_spectroscopy" title="Atomic emission spectroscopy">
+        optical emission spectrography
+       </a>
+       .
+       <sup class="reference" id="cite_ref-Manual_10-6">
+        <a href="#cite_note-Manual-10">
+         [9]
+        </a>
+       </sup>
+       <sup class="reference" style="white-space:nowrap;">
+        :
+        <span>
+         227–232
+        </span>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Optical">
+        Optical
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Mineralogy&amp;action=edit&amp;section=5" title="Edit section: Optical">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:CSIRO_ScienceImage_1483_Olivine_Adcumulate.jpg">
+         <img alt="" class="thumbimage" data-file-height="1759" data-file-width="2657" height="146" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/CSIRO_ScienceImage_1483_Olivine_Adcumulate.jpg/220px-CSIRO_ScienceImage_1483_Olivine_Adcumulate.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/CSIRO_ScienceImage_1483_Olivine_Adcumulate.jpg/330px-CSIRO_ScienceImage_1483_Olivine_Adcumulate.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c2/CSIRO_ScienceImage_1483_Olivine_Adcumulate.jpg/440px-CSIRO_ScienceImage_1483_Olivine_Adcumulate.jpg 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:CSIRO_ScienceImage_1483_Olivine_Adcumulate.jpg" title="Enlarge">
+          </a>
+         </div>
+         Photomicrograph of
+         <a href="/wiki/Olivine" title="Olivine">
+          olivine
+         </a>
+         adcumulate,
+         <a href="/wiki/Archean" title="Archean">
+          Archaean
+         </a>
+         <a href="/wiki/Komatiite" title="Komatiite">
+          Komatiite
+         </a>
+         ,
+         <a href="/wiki/Agnew,_Western_Australia" title="Agnew, Western Australia">
+          Agnew, Western Australia
+         </a>
+         .
+        </div>
+       </div>
+      </div>
+      <div class="hatnote navigation-not-searchable" role="note">
+       Main article:
+       <a href="/wiki/Optical_mineralogy" title="Optical mineralogy">
+        Optical mineralogy
+       </a>
+      </div>
+      <p>
+       In addition to macroscopic properties such as color or lustre, minerals have properties that require a polarizing microscope to observe.
+      </p>
+      <h3>
+       <span class="mw-headline" id="Transmitted_light">
+        Transmitted light
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Mineralogy&amp;action=edit&amp;section=6" title="Edit section: Transmitted light">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       When light passes from air or a
+       <a href="/wiki/Vacuum" title="Vacuum">
+        vacuum
+       </a>
+       into a transparent crystal, some of it is
+       <a href="/wiki/Reflection_(physics)" title="Reflection (physics)">
+        reflected
+       </a>
+       at the surface and some
+       <a href="/wiki/Refraction" title="Refraction">
+        refracted
+       </a>
+       . The latter is a bending of the light path that occurs because the
+       <a href="/wiki/Speed_of_light" title="Speed of light">
+        speed of light
+       </a>
+       changes as it goes into the crystal;
+       <a href="/wiki/Snell%27s_law" title="Snell's law">
+        Snell's law
+       </a>
+       relates the bending
+       <a href="/wiki/Angle" title="Angle">
+        angle
+       </a>
+       to the
+       <a href="/wiki/Refractive_index" title="Refractive index">
+        Refractive index
+       </a>
+       , the ratio of speed in a vacuum to speed in the crystal. Crystals whose point symmetry group falls in the
+       <a href="/wiki/Cubic_crystal_system" title="Cubic crystal system">
+        cubic system
+       </a>
+       are
+       <i>
+        isotropic
+       </i>
+       : the index does not depend on direction. All other crystals are
+       <i>
+        anisotropic
+       </i>
+       : light passing through them is broken up into two plane
+       <a href="/wiki/Polarization_(waves)" title="Polarization (waves)">
+        polarized
+       </a>
+       <a href="/wiki/Ray_(optics)" title="Ray (optics)">
+        rays
+       </a>
+       that travel at different speeds and refract at different angles.
+       <sup class="reference" id="cite_ref-Manual_10-7">
+        <a href="#cite_note-Manual-10">
+         [9]
+        </a>
+       </sup>
+       <sup class="reference" style="white-space:nowrap;">
+        :
+        <span>
+         289–291
+        </span>
+       </sup>
+      </p>
+      <p>
+       A polarizing microscope is similar to an ordinary microscope, but it has two plane-polarized filters, a (
+       <i>
+        <a href="/wiki/Polarizer" title="Polarizer">
+         polarizer
+        </a>
+       </i>
+       ) below the sample and an analyzer above it, polarized perpendicular to each other. Light passes successively through the polarizer, the sample and the analyzer. If there is no sample, the analyzer blocks all the light from the polarizer. However, an anisotropic sample will generally change the polarization so some of the light can pass through. Thin sections and powders can be used as samples.
+       <sup class="reference" id="cite_ref-Manual_10-8">
+        <a href="#cite_note-Manual-10">
+         [9]
+        </a>
+       </sup>
+       <sup class="reference" style="white-space:nowrap;">
+        :
+        <span>
+         293–294
+        </span>
+       </sup>
+      </p>
+      <p>
+       When an isotropic crystal is viewed, it appears dark because it does not change the polarization of the light. However, when it is
+       <a href="/wiki/Oil_immersion" title="Oil immersion">
+        immersed in a calibrated liquid
+       </a>
+       with a lower index of refraction and the microscope is thrown out of focus, a bright line called a
+       <i>
+        <a href="/wiki/Becke_line_test" title="Becke line test">
+         Becke line
+        </a>
+       </i>
+       appears around the perimeter of the crystal. By observing the presence or absence of such lines in liquids with different indices, the index of the crystal can be estimated, usually to within
+       <span class="texhtml">
+        ± 0.003
+       </span>
+       .
+       <sup class="reference" id="cite_ref-Manual_10-9">
+        <a href="#cite_note-Manual-10">
+         [9]
+        </a>
+       </sup>
+       <sup class="reference" style="white-space:nowrap;">
+        :
+        <span>
+         294–295
+        </span>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Systematic">
+        Systematic
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Mineralogy&amp;action=edit&amp;section=7" title="Edit section: Systematic">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:Hanksite.JPG">
+         <img alt="" class="thumbimage" data-file-height="2432" data-file-width="3648" height="147" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Hanksite.JPG/220px-Hanksite.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Hanksite.JPG/330px-Hanksite.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Hanksite.JPG/440px-Hanksite.JPG 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Hanksite.JPG" title="Enlarge">
+          </a>
+         </div>
+         <a href="/wiki/Hanksite" title="Hanksite">
+          Hanksite
+         </a>
+         , Na
+         <sub>
+          22
+         </sub>
+         K(SO
+         <sub>
+          4
+         </sub>
+         )
+         <sub>
+          9
+         </sub>
+         (CO
+         <sub>
+          3
+         </sub>
+         )
+         <sub>
+          2
+         </sub>
+         Cl, one of the few minerals that is considered a carbonate and a sulfate
+        </div>
+       </div>
+      </div>
+      <div class="hatnote navigation-not-searchable" role="note">
+       See also:
+       <a href="/wiki/Mineral#Mineral_classes" title="Mineral">
+        Mineral § Mineral classes
+       </a>
+      </div>
+      <p>
+       Systematic mineralogy is the identification and classification of minerals by their properties. Historically, mineralogy was heavily concerned with
+       <a href="/wiki/Taxonomy_(general)" title="Taxonomy (general)">
+        taxonomy
+       </a>
+       of the rock-forming minerals. In 1959, the
+       <a href="/wiki/International_Mineralogical_Association" title="International Mineralogical Association">
+        International Mineralogical Association
+       </a>
+       formed the Commission of New Minerals and Mineral Names to rationalize the nomenclature and regulate the introduction of new names. In July 2006, it was merged with the Commission on Classification of Minerals to form the Commission on New Minerals, Nomenclature, and Classification.
+       <sup class="reference" id="cite_ref-14">
+        <a href="#cite_note-14">
+         [13]
+        </a>
+       </sup>
+       There are over 6,000 named and unnamed minerals, and about 100 are discovered each year.
+       <sup class="reference" id="cite_ref-15">
+        <a href="#cite_note-15">
+         [14]
+        </a>
+       </sup>
+       The
+       <i>
+        Manual of Mineralogy
+       </i>
+       places minerals in the following classes:
+       <a href="/wiki/Mineral#Element_class" title="Mineral">
+        native elements
+       </a>
+       ,
+       <a class="mw-redirect" href="/wiki/Sulfide_mineral" title="Sulfide mineral">
+        sulfides
+       </a>
+       ,
+       <a href="/wiki/Sulfosalt_minerals" title="Sulfosalt minerals">
+        sulfosalts
+       </a>
+       ,
+       <a href="/wiki/Mineral#Oxide_class" title="Mineral">
+        oxides and hydroxides
+       </a>
+       ,
+       <a href="/wiki/Mineral#Halide_class" title="Mineral">
+        halides
+       </a>
+       ,
+       <a href="/wiki/Carbonate_minerals" title="Carbonate minerals">
+        carbonates, nitrates and borates
+       </a>
+       ,
+       <a href="/wiki/Mineral#Sulfate_class" title="Mineral">
+        sulfates, chromates, molybdates and tungstates
+       </a>
+       ,
+       <a class="mw-redirect" href="/wiki/Phosphate_mineral" title="Phosphate mineral">
+        phosphates, arsenates and vanadates
+       </a>
+       , and
+       <a href="/wiki/Silicate_minerals" title="Silicate minerals">
+        silicates
+       </a>
+       .
+       <sup class="reference" id="cite_ref-Manual_10-10">
+        <a href="#cite_note-Manual-10">
+         [9]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Formation_environments">
+        Formation environments
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Mineralogy&amp;action=edit&amp;section=8" title="Edit section: Formation environments">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       The environments of mineral formation and growth are highly varied, ranging from slow crystallization at the high temperatures and pressures of
+       <a href="/wiki/Igneous_petrology" title="Igneous petrology">
+        igneous
+       </a>
+       <a href="/wiki/Magma" title="Magma">
+        melts
+       </a>
+       deep within the Earth's
+       <a href="/wiki/Crust_(geology)" title="Crust (geology)">
+        crust
+       </a>
+       to the low temperature precipitation from a saline brine at the Earth's surface.
+      </p>
+      <p>
+       Various possible methods of formation include:
+       <sup class="reference" id="cite_ref-ramsdell_16-0">
+        <a href="#cite_note-ramsdell-16">
+         [15]
+        </a>
+       </sup>
+      </p>
+      <ul>
+       <li>
+        <a href="/wiki/Volcanic_sublimate" title="Volcanic sublimate">
+         sublimation
+        </a>
+        from
+        <a class="mw-redirect" href="/wiki/Volcanic" title="Volcanic">
+         volcanic
+        </a>
+        gases
+       </li>
+       <li>
+        deposition from
+        <a href="/wiki/Aqueous_solution" title="Aqueous solution">
+         aqueous solutions
+        </a>
+        and
+        <a class="mw-redirect" href="/wiki/Hydrothermal" title="Hydrothermal">
+         hydrothermal
+        </a>
+        <a href="/wiki/Brine" title="Brine">
+         brines
+        </a>
+       </li>
+       <li>
+        crystallization from an
+        <a href="/wiki/Igneous_petrology" title="Igneous petrology">
+         igneous
+        </a>
+        <a href="/wiki/Magma" title="Magma">
+         magma
+        </a>
+        or
+        <a href="/wiki/Lava" title="Lava">
+         lava
+        </a>
+       </li>
+       <li>
+        recrystallization due to
+        <a href="/wiki/Metamorphism" title="Metamorphism">
+         metamorphic
+        </a>
+        processes and
+        <a href="/wiki/Metasomatism" title="Metasomatism">
+         metasomatism
+        </a>
+       </li>
+       <li>
+        crystallization during
+        <a href="/wiki/Diagenesis" title="Diagenesis">
+         diagenesis
+        </a>
+        of sediments
+       </li>
+       <li>
+        formation by
+        <a class="mw-redirect" href="/wiki/Oxidation" title="Oxidation">
+         oxidation
+        </a>
+        and
+        <a href="/wiki/Weathering" title="Weathering">
+         weathering
+        </a>
+        of rocks exposed to the
+        <a class="mw-redirect" href="/wiki/Earth%27s_atmosphere" title="Earth's atmosphere">
+         atmosphere
+        </a>
+        or within the
+        <a href="/wiki/Soil" title="Soil">
+         soil
+        </a>
+        environment.
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="Biomineralogy">
+        Biomineralogy
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Mineralogy&amp;action=edit&amp;section=9" title="Edit section: Biomineralogy">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       Biomineralogy is a cross-over field between mineralogy,
+       <a href="/wiki/Paleontology" title="Paleontology">
+        paleontology
+       </a>
+       and
+       <a href="/wiki/Biology" title="Biology">
+        biology
+       </a>
+       . It is the study of how plants and animals stabilize minerals under biological control, and the sequencing of mineral replacement of those minerals after deposition.
+       <sup class="reference" id="cite_ref-17">
+        <a href="#cite_note-17">
+         [16]
+        </a>
+       </sup>
+       It uses techniques from chemical mineralogy, especially isotopic studies, to determine such things as growth forms in living plants and animals
+       <sup class="reference" id="cite_ref-18">
+        <a href="#cite_note-18">
+         [17]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-19">
+        <a href="#cite_note-19">
+         [18]
+        </a>
+       </sup>
+       as well as things like the original mineral content of fossils.
+       <sup class="reference" id="cite_ref-20">
+        <a href="#cite_note-20">
+         [19]
+        </a>
+       </sup>
+      </p>
+      <p>
+       A new approach to mineralogy called "mineral evolution" explores the co-evolution of the geosphere and biosphere, including the role of minerals in the origin of life and processes as mineral-catalyzed organic synthesis and the selective adsorption of organic molecules on mineral surfaces.
+       <sup class="reference" id="cite_ref-bbc_21-0">
+        <a href="#cite_note-bbc-21">
+         [20]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-22">
+        <a href="#cite_note-22">
+         [21]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Uses">
+        Uses
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Mineralogy&amp;action=edit&amp;section=10" title="Edit section: Uses">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:172px;">
+        <a class="image" href="/wiki/File:Americana_1920_Mineralogy_-_Valuable_Minerals.jpg">
+         <img alt="" class="thumbimage" data-file-height="2127" data-file-width="1415" height="256" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Americana_1920_Mineralogy_-_Valuable_Minerals.jpg/170px-Americana_1920_Mineralogy_-_Valuable_Minerals.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Americana_1920_Mineralogy_-_Valuable_Minerals.jpg/255px-Americana_1920_Mineralogy_-_Valuable_Minerals.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Americana_1920_Mineralogy_-_Valuable_Minerals.jpg/340px-Americana_1920_Mineralogy_-_Valuable_Minerals.jpg 2x" width="170"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Americana_1920_Mineralogy_-_Valuable_Minerals.jpg" title="Enlarge">
+          </a>
+         </div>
+         A color chart of some raw forms of commercially valuable metals.
+         <sup class="reference" id="cite_ref-23">
+          <a href="#cite_note-23">
+           [22]
+          </a>
+         </sup>
+        </div>
+       </div>
+      </div>
+      <p>
+       Minerals are essential to various needs within human society, such as minerals used as
+       <a href="/wiki/Ore" title="Ore">
+        ores
+       </a>
+       for essential components of metal products used in various
+       <a href="/wiki/Commodity" title="Commodity">
+        commodities
+       </a>
+       and
+       <a class="mw-redirect" href="/wiki/Machinery" title="Machinery">
+        machinery
+       </a>
+       , essential components to building materials such as
+       <a href="/wiki/Limestone" title="Limestone">
+        limestone
+       </a>
+       ,
+       <a href="/wiki/Marble" title="Marble">
+        marble
+       </a>
+       ,
+       <a href="/wiki/Granite" title="Granite">
+        granite
+       </a>
+       ,
+       <a href="/wiki/Gravel" title="Gravel">
+        gravel
+       </a>
+       ,
+       <a href="/wiki/Glass" title="Glass">
+        glass
+       </a>
+       ,
+       <a href="/wiki/Plaster" title="Plaster">
+        plaster
+       </a>
+       ,
+       <a href="/wiki/Cement" title="Cement">
+        cement
+       </a>
+       , etc.
+       <sup class="reference" id="cite_ref-ramsdell_16-1">
+        <a href="#cite_note-ramsdell-16">
+         [15]
+        </a>
+       </sup>
+       Minerals are also used in
+       <a href="/wiki/Fertilizer" title="Fertilizer">
+        fertilizers
+       </a>
+       to enrich the growth of
+       <a class="mw-redirect" href="/wiki/Agricultural" title="Agricultural">
+        agricultural
+       </a>
+       crops.
+      </p>
+      <h3>
+       <span class="mw-headline" id="Collecting">
+        Collecting
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Mineralogy&amp;action=edit&amp;section=11" title="Edit section: Collecting">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       <a href="/wiki/Mineral_collecting" title="Mineral collecting">
+        Mineral collecting
+       </a>
+       is also a recreational study and collection
+       <a href="/wiki/Hobby" title="Hobby">
+        hobby
+       </a>
+       , with clubs and societies representing the field.
+       <sup class="reference" id="cite_ref-24">
+        <a href="#cite_note-24">
+         [23]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-25">
+        <a href="#cite_note-25">
+         [24]
+        </a>
+       </sup>
+       Museums, such as the
+       <a class="mw-redirect" href="/wiki/Smithsonian" title="Smithsonian">
+        Smithsonian
+       </a>
+       <a href="/wiki/National_Museum_of_Natural_History#Hall_of_Geology,_Gems,_and_Minerals" title="National Museum of Natural History">
+        National Museum of Natural History Hall of Geology, Gems, and Minerals
+       </a>
+       , the
+       <a href="/wiki/Natural_History_Museum_of_Los_Angeles_County" title="Natural History Museum of Los Angeles County">
+        Natural History Museum of Los Angeles County
+       </a>
+       , the
+       <a href="/wiki/Natural_History_Museum,_London" title="Natural History Museum, London">
+        Natural History Museum, London
+       </a>
+       , and the private
+       <a href="/wiki/Mim_Museum" title="Mim Museum">
+        Mim Mineral Museum
+       </a>
+       in
+       <a href="/wiki/Beirut" title="Beirut">
+        Beirut
+       </a>
+       ,
+       <a href="/wiki/Lebanon" title="Lebanon">
+        Lebanon
+       </a>
+       ,
+       <sup class="reference" id="cite_ref-26">
+        <a href="#cite_note-26">
+         [25]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-27">
+        <a href="#cite_note-27">
+         [26]
+        </a>
+       </sup>
+       have popular collections of mineral specimens on permanent display.
+       <sup class="reference" id="cite_ref-28">
+        <a href="#cite_note-28">
+         [27]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="See_also">
+        See also
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Mineralogy&amp;action=edit&amp;section=12" title="Edit section: See also">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="div-col columns column-count column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2;">
+       <ul>
+        <li>
+         <a href="/wiki/List_of_minerals" title="List of minerals">
+          List of minerals
+         </a>
+         – a simple list concentrating on minerals with Wikipedia articles.
+        </li>
+        <li>
+         <a href="/wiki/List_of_minerals_(complete)" title="List of minerals (complete)">
+          List of minerals (complete)
+         </a>
+         – a more complete list of IMA-approved minerals, regularly updated.
+        </li>
+        <li>
+         <a href="/wiki/List_of_mineralogists" title="List of mineralogists">
+          List of mineralogists
+         </a>
+        </li>
+        <li>
+         <a class="mw-redirect" href="/wiki/List_of_publications_in_geology#Mineralogy" title="List of publications in geology">
+          List of publications in mineralogy
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Mineral_collecting" title="Mineral collecting">
+          Mineral collecting
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Mineral_physics" title="Mineral physics">
+          Mineral physics
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Metallurgy" title="Metallurgy">
+          Metallurgy
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Petrology" title="Petrology">
+          Petrology
+         </a>
+        </li>
+        <li>
+         <a class="image" href="/wiki/File:The_Earth_seen_from_Apollo_17_with_transparent_background.png">
+          <img alt="The Earth seen from Apollo 17 with transparent background.png" class="noviewer" data-file-height="2776" data-file-width="2790" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/The_Earth_seen_from_Apollo_17_with_transparent_background.png/28px-The_Earth_seen_from_Apollo_17_with_transparent_background.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/The_Earth_seen_from_Apollo_17_with_transparent_background.png/42px-The_Earth_seen_from_Apollo_17_with_transparent_background.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/43/The_Earth_seen_from_Apollo_17_with_transparent_background.png/56px-The_Earth_seen_from_Apollo_17_with_transparent_background.png 2x" width="28"/>
+         </a>
+         <a href="/wiki/Portal:Earth_sciences" title="Portal:Earth sciences">
+          Earth sciences portal
+         </a>
+        </li>
+        <li>
+         <img alt="" data-file-height="209" data-file-width="375" height="9" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Open_book_nae_02.svg/16px-Open_book_nae_02.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Open_book_nae_02.svg/24px-Open_book_nae_02.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/92/Open_book_nae_02.svg/32px-Open_book_nae_02.svg.png 2x" width="16"/>
+         <i>
+          <a href="/wiki/Book:Mineralogy" title="Book:Mineralogy">
+           Mineralogy
+          </a>
+         </i>
+         –
+         <a href="/wiki/Wikipedia:Books" title="Wikipedia:Books">
+          Wikipedia book
+         </a>
+        </li>
+       </ul>
+      </div>
+      <h2>
+       <span class="mw-headline" id="Notes">
+        Notes
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Mineralogy&amp;action=edit&amp;section=13" title="Edit section: Notes">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="reflist" style="list-style-type: decimal;">
+       <div class="mw-references-wrap">
+        <ol class="references">
+         <li id="cite_note-3">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-3">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           Commonly pronounced
+           <span class="nowrap">
+            <span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)">
+             <a href="/wiki/Help:IPA/English" title="Help:IPA/English">
+              /ˌmɪnəˈɹɒlədʒi/
+             </a>
+            </span>
+           </span>
+           <sup class="reference" id="cite_ref-1">
+            <a href="#cite_note-1">
+             [1]
+            </a>
+           </sup>
+           <sup class="reference" id="cite_ref-collins_2-0">
+            <a href="#cite_note-collins-2">
+             [2]
+            </a>
+           </sup>
+           due to the common phonological process of
+           <a href="/wiki/Assimilation_(phonology)" title="Assimilation (phonology)">
+            anticipatory assimilation
+           </a>
+           , especially in North-American but also in UK English. Nevertheless, even modern descriptive UK dictionaries tend to record only the
+           <a href="/wiki/Spelling_pronunciation" title="Spelling pronunciation">
+            spelling pronunciation
+           </a>
+           <span class="nowrap">
+            <span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)">
+             <a href="/wiki/Help:IPA/English" title="Help:IPA/English">
+              /ˌmɪnəˈrælədʒɪ/
+             </a>
+            </span>
+           </span>
+           , sometimes even while their sound file instead has the assimilated pronunciation, as in the case of the Collins Dictionary.
+           <sup class="reference" id="cite_ref-collins_2-1">
+            <a href="#cite_note-collins-2">
+             [2]
+            </a>
+           </sup>
+           <sup class="noprint Inline-Template" style="white-space:nowrap;">
+            [
+            <i>
+             <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">
+              <span title="Sources don't support most of this discussion (October 2017)">
+               not in citation given
+              </span>
+             </a>
+            </i>
+            ]
+           </sup>
+          </span>
+         </li>
+        </ol>
+       </div>
+      </div>
+      <h2>
+       <span class="mw-headline" id="References">
+        References
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Mineralogy&amp;action=edit&amp;section=14" title="Edit section: References">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="reflist" style="list-style-type: decimal;">
+       <div class="mw-references-wrap mw-references-columns">
+        <ol class="references">
+         <li id="cite_note-1">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-1">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation encyclopaedia">
+            <a class="external text" href="https://www.ahdictionary.com/word/search.html?q=mineralogy" rel="nofollow">
+             "Mineralogy"
+            </a>
+            .
+            <i>
+             American Heritage Dictionary
+            </i>
+            . Houghton Mifflin Harcourt Publishing Company. 2017
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              19 October
+             </span>
+             2017
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Mineralogy&amp;rft.btitle=American+Heritage+Dictionary&amp;rft.pub=Houghton+Mifflin+Harcourt+Publishing+Company&amp;rft.date=2017&amp;rft_id=https%3A%2F%2Fwww.ahdictionary.com%2Fword%2Fsearch.html%3Fq%3Dmineralogy&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMineralogy">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-collins-2">
+          <span class="mw-cite-backlink">
+           ^
+           <a href="#cite_ref-collins_2-0">
+            <sup>
+             <i>
+              <b>
+               a
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-collins_2-1">
+            <sup>
+             <i>
+              <b>
+               b
+              </b>
+             </i>
+            </sup>
+           </a>
+          </span>
+          <span class="reference-text">
+           <cite class="citation encyclopaedia">
+            <a class="external text" href="https://www.collinsdictionary.com/dictionary/english/mineralogy" rel="nofollow">
+             "Mineralogy"
+            </a>
+            .
+            <i>
+             Collins English Dictionary
+            </i>
+            . HarperCollins Publishers
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              19 October
+             </span>
+             2017
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Mineralogy&amp;rft.btitle=Collins+English+Dictionary&amp;rft.pub=HarperCollins+Publishers&amp;rft_id=https%3A%2F%2Fwww.collinsdictionary.com%2Fdictionary%2Fenglish%2Fmineralogy&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMineralogy">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-JPL_M3-4">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-JPL_M3_4-0">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://jpl.nasa.gov/news/news.cfm?release=2008-239" rel="nofollow">
+             "NASA Instrument Inaugurates 3-D Moon Imaging"
+            </a>
+            . JPL
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              19 December
+             </span>
+             2008
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=NASA+Instrument+Inaugurates+3-D+Moon+Imaging&amp;rft.pub=JPL&amp;rft_id=http%3A%2F%2Fjpl.nasa.gov%2Fnews%2Fnews.cfm%3Frelease%3D2008-239&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMineralogy">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-Needham-5">
+          <span class="mw-cite-backlink">
+           ^
+           <a href="#cite_ref-Needham_5-0">
+            <sup>
+             <i>
+              <b>
+               a
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-Needham_5-1">
+            <sup>
+             <i>
+              <b>
+               b
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-Needham_5-2">
+            <sup>
+             <i>
+              <b>
+               c
+              </b>
+             </i>
+            </sup>
+           </a>
+          </span>
+          <span class="reference-text">
+           <cite class="citation book">
+            Needham, Joseph (1959).
+            <i>
+             Science and civilisation in China
+            </i>
+            . Cambridge: Cambridge University Press. pp. 637–638.
+            <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+             ISBN
+            </a>
+            <a href="/wiki/Special:BookSources/978-0521058018" title="Special:BookSources/978-0521058018">
+             978-0521058018
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Science+and+civilisation+in+China&amp;rft.place=Cambridge&amp;rft.pages=637-638&amp;rft.pub=Cambridge+University+Press&amp;rft.date=1959&amp;rft.isbn=978-0521058018&amp;rft.aulast=Needham&amp;rft.aufirst=Joseph&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMineralogy">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-Ness-6">
+          <span class="mw-cite-backlink">
+           ^
+           <a href="#cite_ref-Ness_6-0">
+            <sup>
+             <i>
+              <b>
+               a
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-Ness_6-1">
+            <sup>
+             <i>
+              <b>
+               b
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-Ness_6-2">
+            <sup>
+             <i>
+              <b>
+               c
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-Ness_6-3">
+            <sup>
+             <i>
+              <b>
+               d
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-Ness_6-4">
+            <sup>
+             <i>
+              <b>
+               e
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-Ness_6-5">
+            <sup>
+             <i>
+              <b>
+               f
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-Ness_6-6">
+            <sup>
+             <i>
+              <b>
+               g
+              </b>
+             </i>
+            </sup>
+           </a>
+          </span>
+          <span class="reference-text">
+           <cite class="citation book">
+            Nesse, William D. (2012).
+            <i>
+             Introduction to mineralogy
+            </i>
+            (2nd ed.). New York: Oxford University Press.
+            <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+             ISBN
+            </a>
+            <a href="/wiki/Special:BookSources/978-0199827381" title="Special:BookSources/978-0199827381">
+             978-0199827381
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Introduction+to+mineralogy&amp;rft.place=New+York&amp;rft.edition=2nd&amp;rft.pub=Oxford+University+Press&amp;rft.date=2012&amp;rft.isbn=978-0199827381&amp;rft.aulast=Nesse&amp;rft.aufirst=William+D.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMineralogy">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-7">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-7">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation encyclopaedia">
+            <a class="external text" href="http://reference.iucr.org/dictionary/Law_of_the_constancy_of_interfacial_angles" rel="nofollow">
+             "Law of the constancy of interfacial angles"
+            </a>
+            .
+            <i>
+             Online dictionary of crystallography
+            </i>
+            . International Union of Crystallography. 24 August 2014
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              22 September
+             </span>
+             2015
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Law+of+the+constancy+of+interfacial+angles&amp;rft.btitle=Online+dictionary+of+crystallography&amp;rft.pub=International+Union+of+Crystallography&amp;rft.date=2014-08-24&amp;rft_id=http%3A%2F%2Freference.iucr.org%2Fdictionary%2FLaw_of_the_constancy_of_interfacial_angles&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMineralogy">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-Rafferty-8">
+          <span class="mw-cite-backlink">
+           ^
+           <a href="#cite_ref-Rafferty_8-0">
+            <sup>
+             <i>
+              <b>
+               a
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-Rafferty_8-1">
+            <sup>
+             <i>
+              <b>
+               b
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-Rafferty_8-2">
+            <sup>
+             <i>
+              <b>
+               c
+              </b>
+             </i>
+            </sup>
+           </a>
+          </span>
+          <span class="reference-text">
+           <cite class="citation book">
+            Rafferty, John P. (2012).
+            <i>
+             Geological sciences
+            </i>
+            (1st ed.). New York: Britannica Educational Pub. in association with Rosen Educational Services. pp. 14–15.
+            <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+             ISBN
+            </a>
+            <a href="/wiki/Special:BookSources/9781615304950" title="Special:BookSources/9781615304950">
+             9781615304950
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Geological+sciences&amp;rft.place=New+York&amp;rft.pages=14-15&amp;rft.edition=1st&amp;rft.pub=Britannica+Educational+Pub.+in+association+with+Rosen+Educational+Services&amp;rft.date=2012&amp;rft.isbn=9781615304950&amp;rft.aulast=Rafferty&amp;rft.aufirst=John+P.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMineralogy">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-Klein-9">
+          <span class="mw-cite-backlink">
+           ^
+           <a href="#cite_ref-Klein_9-0">
+            <sup>
+             <i>
+              <b>
+               a
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-Klein_9-1">
+            <sup>
+             <i>
+              <b>
+               b
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-Klein_9-2">
+            <sup>
+             <i>
+              <b>
+               c
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-Klein_9-3">
+            <sup>
+             <i>
+              <b>
+               d
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-Klein_9-4">
+            <sup>
+             <i>
+              <b>
+               e
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-Klein_9-5">
+            <sup>
+             <i>
+              <b>
+               f
+              </b>
+             </i>
+            </sup>
+           </a>
+          </span>
+          <span class="reference-text">
+           <cite class="citation book">
+            Klein, Cornelis; Philpotts, Anthony R. (2013).
+            <i>
+             Earth materials : introduction to mineralogy and petrology
+            </i>
+            . New York: Cambridge University Press.
+            <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+             ISBN
+            </a>
+            <a href="/wiki/Special:BookSources/9780521145213" title="Special:BookSources/9780521145213">
+             9780521145213
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Earth+materials+%3A+introduction+to+mineralogy+and+petrology&amp;rft.place=New+York&amp;rft.pub=Cambridge+University+Press&amp;rft.date=2013&amp;rft.isbn=9780521145213&amp;rft.aulast=Klein&amp;rft.aufirst=Cornelis&amp;rft.au=Philpotts%2C+Anthony+R.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMineralogy">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-Manual-10">
+          <span class="mw-cite-backlink">
+           ^
+           <a href="#cite_ref-Manual_10-0">
+            <sup>
+             <i>
+              <b>
+               a
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-Manual_10-1">
+            <sup>
+             <i>
+              <b>
+               b
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-Manual_10-2">
+            <sup>
+             <i>
+              <b>
+               c
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-Manual_10-3">
+            <sup>
+             <i>
+              <b>
+               d
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-Manual_10-4">
+            <sup>
+             <i>
+              <b>
+               e
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-Manual_10-5">
+            <sup>
+             <i>
+              <b>
+               f
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-Manual_10-6">
+            <sup>
+             <i>
+              <b>
+               g
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-Manual_10-7">
+            <sup>
+             <i>
+              <b>
+               h
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-Manual_10-8">
+            <sup>
+             <i>
+              <b>
+               i
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-Manual_10-9">
+            <sup>
+             <i>
+              <b>
+               j
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-Manual_10-10">
+            <sup>
+             <i>
+              <b>
+               k
+              </b>
+             </i>
+            </sup>
+           </a>
+          </span>
+          <span class="reference-text">
+           <cite class="citation book">
+            Klein, Cornelis; Hurlbut, Jr., Cornelius S. (1993).
+            <i>
+             Manual of mineralogy : (after James D. Dana)
+            </i>
+            (21st ed.). New York: Wiley.
+            <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+             ISBN
+            </a>
+            <a href="/wiki/Special:BookSources/047157452X" title="Special:BookSources/047157452X">
+             047157452X
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Manual+of+mineralogy+%3A+%28after+James+D.+Dana%29&amp;rft.place=New+York&amp;rft.edition=21st&amp;rft.pub=Wiley&amp;rft.date=1993&amp;rft.isbn=047157452X&amp;rft.aulast=Klein&amp;rft.aufirst=Cornelis&amp;rft.au=Hurlbut%2C+Jr.%2C+Cornelius+S.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMineralogy">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-Sharp-11">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-Sharp_11-0">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Sharp, T. (27 November 2014). "Bridgmanite – named at last".
+            <i>
+             Science
+            </i>
+            .
+            <b>
+             346
+            </b>
+            (6213): 1057–1058.
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1126%2Fscience.1261887" rel="nofollow">
+             10.1126/science.1261887
+            </a>
+            .
+            <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">
+             PMID
+            </a>
+            <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/25430755" rel="nofollow">
+             25430755
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Science&amp;rft.atitle=Bridgmanite+%E2%80%93+named+at+last&amp;rft.volume=346&amp;rft.issue=6213&amp;rft.pages=1057-1058&amp;rft.date=2014-11-27&amp;rft_id=info%3Adoi%2F10.1126%2Fscience.1261887&amp;rft_id=info%3Apmid%2F25430755&amp;rft.aulast=Sharp&amp;rft.aufirst=T.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMineralogy">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-Ashcroft-12">
+          <span class="mw-cite-backlink">
+           ^
+           <a href="#cite_ref-Ashcroft_12-0">
+            <sup>
+             <i>
+              <b>
+               a
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-Ashcroft_12-1">
+            <sup>
+             <i>
+              <b>
+               b
+              </b>
+             </i>
+            </sup>
+           </a>
+          </span>
+          <span class="reference-text">
+           <cite class="citation book">
+            Ashcroft, Neil W.; Mermin, N. David (1977).
+            <i>
+             Solid state physics
+            </i>
+            (27. repr. ed.). New York: Holt, Rinehart and Winston.
+            <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+             ISBN
+            </a>
+            <a href="/wiki/Special:BookSources/9780030839931" title="Special:BookSources/9780030839931">
+             9780030839931
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Solid+state+physics&amp;rft.place=New+York&amp;rft.edition=27.+repr.&amp;rft.pub=Holt%2C+Rinehart+and+Winston&amp;rft.date=1977&amp;rft.isbn=9780030839931&amp;rft.aulast=Ashcroft&amp;rft.aufirst=Neil+W.&amp;rft.au=Mermin%2C+N.+David&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMineralogy">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-Dinnebier-13">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-Dinnebier_13-0">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation book">
+            Dinnebier, Robert E.; Billinge, Simon J.L. (2008). "1. Principles of powder diffraction". In Dinnebier, Robert E.; Billinge, Simon J.L.
+            <i>
+             Powder diffraction : theory and practice
+            </i>
+            (Repr. ed.). Cambridge: Royal Society of Chemistry. pp. 1–19.
+            <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+             ISBN
+            </a>
+            <a href="/wiki/Special:BookSources/9780854042319" title="Special:BookSources/9780854042319">
+             9780854042319
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=1.+Principles+of+powder+diffraction&amp;rft.btitle=Powder+diffraction+%3A+theory+and+practice&amp;rft.place=Cambridge&amp;rft.pages=1-19&amp;rft.edition=Repr.&amp;rft.pub=Royal+Society+of+Chemistry&amp;rft.date=2008&amp;rft.isbn=9780854042319&amp;rft.aulast=Dinnebier&amp;rft.aufirst=Robert+E.&amp;rft.au=Billinge%2C+Simon+J.L.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMineralogy">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-14">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-14">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Parsons, Ian (October 2006). "International Mineralogical Association".
+            <i>
+             Elements
+            </i>
+            .
+            <b>
+             2
+            </b>
+            (6): 388.
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.2113%2Fgselements.2.6.388" rel="nofollow">
+             10.2113/gselements.2.6.388
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Elements&amp;rft.atitle=International+Mineralogical+Association&amp;rft.volume=2&amp;rft.issue=6&amp;rft.pages=388&amp;rft.date=2006-10&amp;rft_id=info%3Adoi%2F10.2113%2Fgselements.2.6.388&amp;rft.aulast=Parsons&amp;rft.aufirst=Ian&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMineralogy">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-15">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-15">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Higgins, Michael D.; Smith, Dorian G. W. (October 2010). "A census of mineral species in 2010".
+            <i>
+             Elements
+            </i>
+            .
+            <b>
+             6
+            </b>
+            (5): 346.
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Elements&amp;rft.atitle=A+census+of+mineral+species+in+2010&amp;rft.volume=6&amp;rft.issue=5&amp;rft.pages=346&amp;rft.date=2010-10&amp;rft.aulast=Higgins&amp;rft.aufirst=Michael+D.&amp;rft.au=Smith%2C+Dorian+G.+W.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMineralogy">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-ramsdell-16">
+          <span class="mw-cite-backlink">
+           ^
+           <a href="#cite_ref-ramsdell_16-0">
+            <sup>
+             <i>
+              <b>
+               a
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-ramsdell_16-1">
+            <sup>
+             <i>
+              <b>
+               b
+              </b>
+             </i>
+            </sup>
+           </a>
+          </span>
+          <span class="reference-text">
+           <a href="#CITEREFMoses1918">
+            Moses 1918
+           </a>
+          </span>
+         </li>
+         <li id="cite_note-17">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-17">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            <a href="/wiki/Gordon_Scurfield" title="Gordon Scurfield">
+             Scurfield, Gordon
+            </a>
+            (1979). "Wood Petrifaction: an aspect of biomineralogy".
+            <i>
+             Australian Journal of Botany
+            </i>
+            .
+            <b>
+             27
+            </b>
+            (4): 377–390.
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1071%2Fbt9790377" rel="nofollow">
+             10.1071/bt9790377
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Australian+Journal+of+Botany&amp;rft.atitle=Wood+Petrifaction%3A+an+aspect+of+biomineralogy&amp;rft.volume=27&amp;rft.issue=4&amp;rft.pages=377-390&amp;rft.date=1979&amp;rft_id=info%3Adoi%2F10.1071%2Fbt9790377&amp;rft.aulast=Scurfield&amp;rft.aufirst=Gordon&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMineralogy">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-18">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-18">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Christoffersen, M.R.; Balic-Zunic, T.; Pehrson, S.; Christoffersen, J. (2001). "Kinetics of Growth of Columnar Triclinic Calcium Pyrophosphate Dihydrate Crystals".
+            <i>
+             Crystal Growth &amp; Design
+            </i>
+            .
+            <b>
+             1
+            </b>
+            (6): 463–466.
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1021%2Fcg015547j" rel="nofollow">
+             10.1021/cg015547j
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Crystal+Growth+%26+Design&amp;rft.atitle=Kinetics+of+Growth+of+Columnar+Triclinic+Calcium+Pyrophosphate+Dihydrate+Crystals&amp;rft.volume=1&amp;rft.issue=6&amp;rft.pages=463-466&amp;rft.date=2001&amp;rft_id=info%3Adoi%2F10.1021%2Fcg015547j&amp;rft.aulast=Christoffersen&amp;rft.aufirst=M.R.&amp;rft.au=Balic-Zunic%2C+T.&amp;rft.au=Pehrson%2C+S.&amp;rft.au=Christoffersen%2C+J.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMineralogy">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-19">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-19">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Chandrajith, R.; Wijewardana, G.; Dissanayake, C.B.; Abeygunasekara, A. (2006). "Biomineralogy of human urinary calculi (kidney stones) from some geographic regions of Sri Lanka".
+            <i>
+             Environmental Geochemistry and Health
+            </i>
+            .
+            <b>
+             28
+            </b>
+            (4): 393–399.
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1007%2Fs10653-006-9048-y" rel="nofollow">
+             10.1007/s10653-006-9048-y
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Environmental+Geochemistry+and+Health&amp;rft.atitle=Biomineralogy+of+human+urinary+calculi+%28kidney+stones%29+from+some+geographic+regions+of+Sri+Lanka&amp;rft.volume=28&amp;rft.issue=4&amp;rft.pages=393-399&amp;rft.date=2006&amp;rft_id=info%3Adoi%2F10.1007%2Fs10653-006-9048-y&amp;rft.aulast=Chandrajith&amp;rft.aufirst=R.&amp;rft.au=Wijewardana%2C+G.&amp;rft.au=Dissanayake%2C+C.B.&amp;rft.au=Abeygunasekara%2C+A.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMineralogy">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-20">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-20">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Lowenstam, Heitz A (1954).
+            <a class="external text" href="http://authors.library.caltech.edu/4626/" rel="nofollow">
+             "Environmental relations of modification compositions of certain carbonate secreting marine invertebrates"
+            </a>
+            .
+            <i>
+             Proceedings of the National Academy of Sciences of the United States of America
+            </i>
+            .
+            <b>
+             40
+            </b>
+            (1): 39–48.
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1073%2Fpnas.40.1.39" rel="nofollow">
+             10.1073/pnas.40.1.39
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Proceedings+of+the+National+Academy+of+Sciences+of+the+United+States+of+America&amp;rft.atitle=Environmental+relations+of+modification+compositions+of+certain+carbonate+secreting+marine+invertebrates&amp;rft.volume=40&amp;rft.issue=1&amp;rft.pages=39-48&amp;rft.date=1954&amp;rft_id=info%3Adoi%2F10.1073%2Fpnas.40.1.39&amp;rft.aulast=Lowenstam&amp;rft.aufirst=Heitz+A&amp;rft_id=http%3A%2F%2Fauthors.library.caltech.edu%2F4626%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMineralogy">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-bbc-21">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-bbc_21-0">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            Amos, Jonathan (13 February 2016).
+            <a class="external text" href="http://www.bbc.co.uk/news/science-environment-35569659" rel="nofollow">
+             "Earth's rarest minerals catalogued"
+            </a>
+            . BBC News
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              17 September
+             </span>
+             2016
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Earth%27s+rarest+minerals+catalogued&amp;rft.pub=BBC+News&amp;rft.date=2016-02-13&amp;rft.aulast=Amos&amp;rft.aufirst=Jonathan&amp;rft_id=http%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fscience-environment-35569659&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMineralogy">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-22">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-22">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Hazen, Robert M.; Papineau, Dominic; Bleeker, Wouter; Downs, Robert T.; Ferry, John M.; et al. (November–December 2008). "Mineral Evolution".
+            <i>
+             <a href="/wiki/American_Mineralogist" title="American Mineralogist">
+              American Mineralogist
+             </a>
+            </i>
+            .
+            <b>
+             93
+            </b>
+            (11–12): 1693–1720.
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.2138%2Fam.2008.2955" rel="nofollow">
+             10.2138/am.2008.2955
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=American+Mineralogist&amp;rft.atitle=Mineral+Evolution&amp;rft.volume=93&amp;rft.issue=11%E2%80%9312&amp;rft.pages=1693-1720&amp;rft.date=2008-11%2F2008-12&amp;rft_id=info%3Adoi%2F10.2138%2Fam.2008.2955&amp;rft.aulast=Hazen&amp;rft.aufirst=Robert+M.&amp;rft.au=Papineau%2C+Dominic&amp;rft.au=Bleeker%2C+Wouter&amp;rft.au=Downs%2C+Robert+T.&amp;rft.au=Ferry%2C+John+M.&amp;rft.au=McCoy%2C+Timothy+J.&amp;rft.au=Sverjensky%2C+Dimitri+A.&amp;rft.au=Yang%2C+Hexiong&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMineralogy">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-23">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-23">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation book">
+            <i>
+             The Encyclopedia Americana
+            </i>
+            . New York: Encyclopedia Americana Corp. 1918–1920. plate opposite p. 166.
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Encyclopedia+Americana&amp;rft.place=New+York&amp;rft.pub=Encyclopedia+Americana+Corp&amp;rft.date=1918%2F1920&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMineralogy">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-24">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-24">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.minsocam.org/MSA/collectors_corner/index.htm" rel="nofollow">
+             "Collector's Corner"
+            </a>
+            . The Mineralogical Society of America
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              2010-05-22
+             </span>
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Collector%27s+Corner&amp;rft.pub=The+Mineralogical+Society+of+America&amp;rft_id=http%3A%2F%2Fwww.minsocam.org%2FMSA%2Fcollectors_corner%2Findex.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMineralogy">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-25">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-25">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.amfed.org/" rel="nofollow">
+             "The American Federation of Mineral Societies"
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              2010-05-22
+             </span>
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+American+Federation+of+Mineral+Societies&amp;rft_id=http%3A%2F%2Fwww.amfed.org%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMineralogy">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-26">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-26">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Wilson, W (2013). "The Opening of the Mim Mineral Museum in Beirut, Lebanon".
+            <i>
+             The Mineralogical Record
+            </i>
+            .
+            <b>
+             45
+            </b>
+            (1): 61–83.
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Mineralogical+Record&amp;rft.atitle=The+Opening+of+the+Mim+Mineral+Museum+in+Beirut%2C+Lebanon&amp;rft.volume=45&amp;rft.issue=1&amp;rft.pages=61-83&amp;rft.date=2013&amp;rft.aulast=Wilson&amp;rft.aufirst=W&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMineralogy">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-27">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-27">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation news">
+            Lyckberg, Peter (16 October 2013).
+            <a class="external text" href="http://www.mindat.org/article.php/1807/The+MIM+Museum+opening,+Lebanon" rel="nofollow">
+             "The MIM Museum opening, Lebanon"
+            </a>
+            . Mindat.org
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              19 October
+             </span>
+             2017
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=The+MIM+Museum+opening%2C+Lebanon&amp;rft.date=2013-10-16&amp;rft.aulast=Lyckberg&amp;rft.aufirst=Peter&amp;rft_id=http%3A%2F%2Fwww.mindat.org%2Farticle.php%2F1807%2FThe%2BMIM%2BMuseum%2Bopening%2C%2BLebanon&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMineralogy">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-28">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-28">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.nhm.org/site/explore-exhibits/permanent-exhibits/gems-minerals" rel="nofollow">
+             "Gems and Minerals"
+            </a>
+            . Natural History Museum of Los Angeles
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              2010-05-22
+             </span>
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Gems+and+Minerals&amp;rft.pub=Natural+History+Museum+of+Los+Angeles&amp;rft_id=http%3A%2F%2Fwww.nhm.org%2Fsite%2Fexplore-exhibits%2Fpermanent-exhibits%2Fgems-minerals&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMineralogy">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+        </ol>
+       </div>
+      </div>
+      <h2>
+       <span class="mw-headline" id="Further_reading">
+        Further reading
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Mineralogy&amp;action=edit&amp;section=15" title="Edit section: Further reading">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="refbegin" style="">
+       <ul>
+        <li>
+         <cite class="citation book">
+          Gribble, C.D.; Hall, A.J. (1993).
+          <i>
+           Optical Mineralogy: Principles And Practice
+          </i>
+          . London: CRC Press.
+          <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+           ISBN
+          </a>
+          <a href="/wiki/Special:BookSources/9780203498705" title="Special:BookSources/9780203498705">
+           9780203498705
+          </a>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Optical+Mineralogy%3A+Principles+And+Practice.&amp;rft.place=London&amp;rft.pub=CRC+Press&amp;rft.date=1993&amp;rft.isbn=9780203498705&amp;rft.aulast=Gribble&amp;rft.aufirst=C.D.&amp;rft.au=Hall%2C+A.J.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMineralogy">
+          <span style="display:none;">
+          </span>
+         </span>
+        </li>
+        <li>
+         <cite class="citation encyclopaedia">
+          Harrell, James A. (2012). "Mineralogy". In Bagnall, Roger S.; Brodersen, Kai; Champion, Craige B.; Erskine, Andrew.
+          <i>
+           The encyclopedia of ancient history
+          </i>
+          . Malden, MA: Wiley-Blackwell.
+          <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+           doi
+          </a>
+          :
+          <a class="external text" href="//doi.org/10.1002%2F9781444338386.wbeah21217" rel="nofollow">
+           10.1002/9781444338386.wbeah21217
+          </a>
+          .
+          <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+           ISBN
+          </a>
+          <a href="/wiki/Special:BookSources/9781444338386" title="Special:BookSources/9781444338386">
+           9781444338386
+          </a>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Mineralogy&amp;rft.btitle=The+encyclopedia+of+ancient+history&amp;rft.place=Malden%2C+MA&amp;rft.pub=Wiley-Blackwell&amp;rft.date=2012&amp;rft_id=info%3Adoi%2F10.1002%2F9781444338386.wbeah21217&amp;rft.isbn=9781444338386&amp;rft.aulast=Harrell&amp;rft.aufirst=James+A.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMineralogy">
+          <span style="display:none;">
+          </span>
+         </span>
+        </li>
+        <li>
+         <cite class="citation journal">
+          Hazen, Robert M. (1984).
+          <a class="external text" href="https://hazen.carnegiescience.edu/sites/hazen.gl.ciw.edu/files/516-MinHist-JGE-1984.pdf" rel="nofollow">
+           "Mineralogy: A historical review"
+          </a>
+          <span style="font-size:85%;">
+           (PDF)
+          </span>
+          .
+          <i>
+           Journal of Geological Education
+          </i>
+          .
+          <b>
+           32
+          </b>
+          : 288–298
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            27 September
+           </span>
+           2017
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Geological+Education&amp;rft.atitle=Mineralogy%3A+A+historical+review&amp;rft.volume=32&amp;rft.pages=288-298&amp;rft.date=1984&amp;rft.aulast=Hazen&amp;rft.aufirst=Robert+M.&amp;rft_id=https%3A%2F%2Fhazen.carnegiescience.edu%2Fsites%2Fhazen.gl.ciw.edu%2Ffiles%2F516-MinHist-JGE-1984.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMineralogy">
+          <span style="display:none;">
+          </span>
+         </span>
+        </li>
+        <li>
+         <cite class="citation book">
+          Laudan, Rachel (1993).
+          <i>
+           From mineralogy to geology : the foundations of a science, 1650-1830
+          </i>
+          (Pbk. ed.). Chicago: University of Chicago Press.
+          <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+           ISBN
+          </a>
+          <a href="/wiki/Special:BookSources/9780226469478" title="Special:BookSources/9780226469478">
+           9780226469478
+          </a>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=From+mineralogy+to+geology+%3A+the+foundations+of+a+science%2C+1650-1830&amp;rft.place=Chicago&amp;rft.edition=Pbk.&amp;rft.pub=University+of+Chicago+Press&amp;rft.date=1993&amp;rft.isbn=9780226469478&amp;rft.aulast=Laudan&amp;rft.aufirst=Rachel&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMineralogy">
+          <span style="display:none;">
+          </span>
+         </span>
+        </li>
+        <li>
+         <cite class="citation encyclopaedia" id="CITEREFMoses1918">
+          Moses, Alfred J. (1918–1920). "Mineralogy". In Ramsdell, Lewis S.
+          <i>
+           <a href="/wiki/Encyclopedia_Americana" title="Encyclopedia Americana">
+            Encyclopedia Americana
+           </a>
+           : International Edition
+          </i>
+          .
+          <b>
+           19
+          </b>
+          . New York: Americana Corporation. pp. 164–168.
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Mineralogy&amp;rft.btitle=Encyclopedia+Americana%3A+International+Edition&amp;rft.place=New+York&amp;rft.pages=164-168&amp;rft.pub=Americana+Corporation&amp;rft.date=1918%2F1920&amp;rft.aulast=Moses&amp;rft.aufirst=Alfred+J.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMineralogy">
+          <span style="display:none;">
+          </span>
+         </span>
+        </li>
+        <li>
+         <cite class="citation book">
+          Oldroyd, David (1998).
+          <i>
+           Sciences of the earth : studies in the history of mineralogy and geology
+          </i>
+          . Aldershot: Ashgate.
+          <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+           ISBN
+          </a>
+          <a href="/wiki/Special:BookSources/9780860787709" title="Special:BookSources/9780860787709">
+           9780860787709
+          </a>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Sciences+of+the+earth+%3A+studies+in+the+history+of+mineralogy+and+geology&amp;rft.place=Aldershot&amp;rft.pub=Ashgate&amp;rft.date=1998&amp;rft.isbn=9780860787709&amp;rft.aulast=Oldroyd&amp;rft.aufirst=David&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMineralogy">
+          <span style="display:none;">
+          </span>
+         </span>
+        </li>
+        <li>
+         <cite class="citation book">
+          Perkins, Dexter (2014).
+          <i>
+           Mineralogy
+          </i>
+          . Pearson Higher Ed.
+          <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+           ISBN
+          </a>
+          <a href="/wiki/Special:BookSources/9780321986573" title="Special:BookSources/9780321986573">
+           9780321986573
+          </a>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Mineralogy&amp;rft.pub=Pearson+Higher+Ed&amp;rft.date=2014&amp;rft.isbn=9780321986573&amp;rft.aulast=Perkins&amp;rft.aufirst=Dexter&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMineralogy">
+          <span style="display:none;">
+          </span>
+         </span>
+        </li>
+        <li>
+         <cite class="citation book">
+          Rapp, George R. (2002).
+          <i>
+           Archaeomineralogy
+          </i>
+          . Berlin, Heidelberg: Springer Berlin Heidelberg.
+          <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+           ISBN
+          </a>
+          <a href="/wiki/Special:BookSources/9783662050057" title="Special:BookSources/9783662050057">
+           9783662050057
+          </a>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Archaeomineralogy&amp;rft.place=Berlin%2C+Heidelberg&amp;rft.pub=Springer+Berlin+Heidelberg&amp;rft.date=2002&amp;rft.isbn=9783662050057&amp;rft.aulast=Rapp&amp;rft.aufirst=George+R.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMineralogy">
+          <span style="display:none;">
+          </span>
+         </span>
+        </li>
+        <li>
+         <cite class="citation book">
+          Tisljar, S.K. Haldar, Josip (2013).
+          <i>
+           Introduction to mineralogy and petrology
+          </i>
+          . Burlington: Elsevier Science.
+          <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+           ISBN
+          </a>
+          <a href="/wiki/Special:BookSources/9780124167100" title="Special:BookSources/9780124167100">
+           9780124167100
+          </a>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Introduction+to+mineralogy+and+petrology&amp;rft.place=Burlington&amp;rft.pub=Elsevier+Science&amp;rft.date=2013&amp;rft.isbn=9780124167100&amp;rft.aulast=Tisljar&amp;rft.aufirst=S.K.+Haldar%2C+Josip&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMineralogy">
+          <span style="display:none;">
+          </span>
+         </span>
+        </li>
+        <li>
+         <cite class="citation book">
+          Wenk, Hans-Rudolf; Bulakh, Andrey (2016).
+          <i>
+           Minerals: Their Constitution and Origin
+          </i>
+          . Cambridge University Press.
+          <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+           ISBN
+          </a>
+          <a href="/wiki/Special:BookSources/9781316425282" title="Special:BookSources/9781316425282">
+           9781316425282
+          </a>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Minerals%3A+Their+Constitution+and+Origin&amp;rft.pub=Cambridge+University+Press&amp;rft.date=2016&amp;rft.isbn=9781316425282&amp;rft.aulast=Wenk&amp;rft.aufirst=Hans-Rudolf&amp;rft.au=Bulakh%2C+Andrey&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMineralogy">
+          <span style="display:none;">
+          </span>
+         </span>
+        </li>
+        <li>
+         <cite class="citation book">
+          Whewell, William (2010). "Book XV. History of Mineralogy".
+          <i>
+           History of the Inductive Sciences: From the Earliest to the Present Times
+          </i>
+          . Cambridge University Press. pp. 187–252.
+          <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+           ISBN
+          </a>
+          <a href="/wiki/Special:BookSources/9781108019262" title="Special:BookSources/9781108019262">
+           9781108019262
+          </a>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Book+XV.+History+of+Mineralogy&amp;rft.btitle=History+of+the+Inductive+Sciences%3A+From+the+Earliest+to+the+Present+Times&amp;rft.pages=187-252&amp;rft.pub=Cambridge+University+Press&amp;rft.date=2010&amp;rft.isbn=9781108019262&amp;rft.aulast=Whewell&amp;rft.aufirst=William&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMineralogy">
+          <span style="display:none;">
+          </span>
+         </span>
+        </li>
+       </ul>
+      </div>
+      <h2>
+       <span class="mw-headline" id="External_links">
+        External links
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Mineralogy&amp;action=edit&amp;section=16" title="Edit section: External links">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+       <tr>
+        <td class="mbox-image">
+         <img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/>
+        </td>
+        <td class="mbox-text plainlist">
+         Wikimedia Commons has media related to
+         <i>
+          <b>
+           <a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Mineralogy" title="commons:Category:Mineralogy">
+            Mineralogy
+           </a>
+          </b>
+         </i>
+         .
+        </td>
+       </tr>
+      </table>
+      <table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+       <tr>
+        <td class="mbox-image">
+         <img alt="" class="noviewer" data-file-height="430" data-file-width="410" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/38px-Wikisource-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/57px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/76px-Wikisource-logo.svg.png 2x" width="38"/>
+        </td>
+        <td class="mbox-text plainlist">
+         Wikisource has original works on the topic:
+         <i>
+          <b>
+           <a class="extiw" href="https://en.wikisource.org/wiki/Portal:Mineralogy" title="s:Portal:Mineralogy">
+            Mineralogy
+           </a>
+          </b>
+         </i>
+        </td>
+       </tr>
+      </table>
+      <h3>
+       <span class="mw-headline" id="Associations">
+        Associations
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Mineralogy&amp;action=edit&amp;section=17" title="Edit section: Associations">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <div class="div-col columns column-count column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2;">
+       <ul>
+        <li>
+         <a class="external text" href="http://www.amfed.org/" rel="nofollow">
+          American Federation of Mineral Societies
+         </a>
+        </li>
+        <li>
+         <a class="external text" href="http://sfmc-fr.org/" rel="nofollow">
+          French Society of Mineralogy and Crystallography
+         </a>
+        </li>
+        <li>
+         <a class="external text" href="http://www.geosociety.org/" rel="nofollow">
+          Geological Society of America
+         </a>
+        </li>
+        <li>
+         <a class="external text" href="http://www.dmg-home.org/" rel="nofollow">
+          German Mineralogical Society
+         </a>
+        </li>
+        <li>
+         <a class="external text" href="http://wwwobs.univ-bpclermont.fr/ima/" rel="nofollow">
+          International Mineralogical Association
+         </a>
+        </li>
+        <li>
+         <a class="external text" href="http://www.socminpet.it/" rel="nofollow">
+          Italian Mineralogical and Petrological Society
+         </a>
+        </li>
+        <li>
+         <a class="external text" href="http://mineralogicalassociation.ca/" rel="nofollow">
+          Mineralogical Association of Canada
+         </a>
+        </li>
+        <li>
+         <a class="external text" href="http://www.minersoc.org/" rel="nofollow">
+          Mineralogical Society of Great Britain and Ireland
+         </a>
+        </li>
+        <li>
+         <a class="external text" href="http://www.minsocam.org/" rel="nofollow">
+          Mineralogical Society of America
+         </a>
+        </li>
+       </ul>
+      </div>
+      <h3>
+       <span class="mw-headline" id="Other">
+        Other
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Mineralogy&amp;action=edit&amp;section=18" title="Edit section: Other">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <ul>
+       <li>
+        <a class="external text" href="http://www.mineralogy.eu/" rel="nofollow">
+         The Virtual Museum of the History of Mineralogy
+        </a>
+       </li>
+      </ul>
+      <div aria-labelledby="Geology" class="navbox" role="navigation" style="padding:3px">
+       <table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tr>
+         <th class="navbox-title" colspan="2" scope="col">
+          <div class="plainlinks hlist navbar mini">
+           <ul>
+            <li class="nv-view">
+             <a href="/wiki/Template:Geology" title="Template:Geology">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">
+               v
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-talk">
+             <a href="/wiki/Template_talk:Geology" title="Template talk:Geology">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">
+               t
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-edit">
+             <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Geology&amp;action=edit">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">
+               e
+              </abbr>
+             </a>
+            </li>
+           </ul>
+          </div>
+          <div id="Geology" style="font-size:114%;margin:0 4em">
+           <a href="/wiki/Geology" title="Geology">
+            Geology
+           </a>
+          </div>
+         </th>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          Overviews
+         </th>
+         <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Outline_of_geology" title="Outline of geology">
+              Outline of geology
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Index_of_geology_articles" title="Index of geology articles">
+              Index of geology articles
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          Сomposition and structure
+         </th>
+         <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Geochemistry" title="Geochemistry">
+              Geochemistry
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Crystallography" title="Crystallography">
+              Crystallography
+             </a>
+            </li>
+            <li>
+             <a class="mw-selflink selflink">
+              Mineralogy
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Petrography" title="Petrography">
+              Petrography
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Petrology" title="Petrology">
+              Petrology
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          <a href="/wiki/Historical_geology" title="Historical geology">
+           Historical geology
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Stratigraphy" title="Stratigraphy">
+              Stratigraphy
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Paleontology" title="Paleontology">
+              Paleontology
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Paleoclimatology" title="Paleoclimatology">
+              Paleoclimatology
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          Motion
+         </th>
+         <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Structural_geology" title="Structural geology">
+              Structural geology
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Geodynamics" title="Geodynamics">
+              Geodynamics
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Plate_tectonics" title="Plate tectonics">
+              Plate tectonics
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Geomorphology" title="Geomorphology">
+              Geomorphology
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          Water
+         </th>
+         <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Glaciology" title="Glaciology">
+              Glaciology
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Hydrogeology" title="Hydrogeology">
+              Hydrogeology
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Marine_geology" title="Marine geology">
+              Marine geology
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          <a href="/wiki/Geophysics" title="Geophysics">
+           Geophysics
+          </a>
+         </th>
+         <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Geodesy" title="Geodesy">
+              Geodesy
+             </a>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/Geomagnetism" title="Geomagnetism">
+              Geomagnetism
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Geophysical_survey" title="Geophysical survey">
+              Geophysical survey
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Seismology" title="Seismology">
+              Seismology
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Tectonophysics" title="Tectonophysics">
+              Tectonophysics
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          Applications
+         </th>
+         <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Economic_geology" title="Economic geology">
+              Economic geology
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Engineering_geology" title="Engineering geology">
+              Engineering geology
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Planetary_geology" title="Planetary geology">
+              Planetary geology
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <td class="navbox-abovebelow hlist" colspan="2">
+          <div>
+           <ul>
+            <li>
+             <img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/>
+             <b>
+              <a href="/wiki/Category:Geology" title="Category:Geology">
+               Geology
+              </a>
+             </b>
+            </li>
+            <li>
+             <img alt="Portal" data-file-height="28" data-file-width="32" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" title="Portal" width="16"/>
+             <b>
+              <a href="/wiki/Portal:Earth_sciences" title="Portal:Earth sciences">
+               Earth sciences
+              </a>
+             </b>
+            </li>
+            <li>
+             <img alt="WikiProject" data-file-height="100" data-file-width="100" height="16" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/16px-People_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/24px-People_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/32px-People_icon.svg.png 2x" title="WikiProject" width="16"/>
+             <b>
+              <a class="mw-redirect" href="/wiki/Wikipedia:Geology" title="Wikipedia:Geology">
+               Geology
+              </a>
+             </b>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+       </table>
+      </div>
+      <div aria-label="Navbox" class="navbox" role="navigation" style="padding:3px">
+       <table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          <a href="/wiki/Help:Authority_control" title="Help:Authority control">
+           Authority control
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <span class="nowrap">
+              <a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">
+               GND
+              </a>
+              :
+              <span class="uid">
+               <a class="external text" href="https://d-nb.info/gnd/4039457-8" rel="nofollow">
+                4039457-8
+               </a>
+              </span>
+             </span>
+            </li>
+            <li>
+             <span class="nowrap">
+              <a href="/wiki/National_Diet_Library" title="National Diet Library">
+               NDL
+              </a>
+              :
+              <span class="uid">
+               <a class="external text" href="https://id.ndl.go.jp/auth/ndlna/00566086" rel="nofollow">
+                00566086
+               </a>
+              </span>
+             </span>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+       </table>
+      </div>
+      <!-- 
+NewPP limit report
+Parsed by mw1328
+Cached time: 20180127190534
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.548 seconds
+Real time usage: 0.652 seconds
+Preprocessor visited node count: 16241/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 89710/2097152 bytes
+Template argument size: 3874/2097152 bytes
+Highest expansion depth: 14/40
+Expensive parser function count: 1/500
+Lua time usage: 0.216/10.000 seconds
+Lua memory usage: 4.85 MB/50 MB
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  552.904      1 -total
+ 32.45%  179.436      2 Template:Reflist
+ 15.84%   87.574     10 Template:Chemical_formula
+ 13.39%   74.059    200 Template:Chemical_formula/atom
+ 12.35%   68.274      1 Template:Refn
+ 12.02%   66.452     16 Template:Cite_book
+  9.83%   54.334      5 Template:Cite_encyclopedia
+  9.61%   53.130      1 Template:Failed_verification
+  8.05%   44.521     10 Template:Cite_journal
+  6.36%   35.146      1 Template:Fix
+-->
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:19883-0!canonical and timestamp 20180127190533 and revision id 813246234
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Mineralogy&amp;oldid=813246234">
+      https://en.wikipedia.org/w/index.php?title=Mineralogy&amp;oldid=813246234
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Mineralogy" title="Category:Mineralogy">
+         Mineralogy
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:All_articles_with_failed_verification" title="Category:All articles with failed verification">
+         All articles with failed verification
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_with_failed_verification_from_October_2017" title="Category:Articles with failed verification from October 2017">
+         Articles with failed verification from October 2017
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Pages_using_div_col_without_cols_and_colwidth_parameters" title="Category:Pages using div col without cols and colwidth parameters">
+         Pages using div col without cols and colwidth parameters
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">
+         Wikipedia articles with GND identifiers
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Mineralogy" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Mineralogy" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Mineralogy" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Mineralogy" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="collapsible selected" id="ca-view">
+        <span>
+         <a href="/wiki/Mineralogy">
+          Read
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Mineralogy&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Mineralogy&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Mineralogy" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Mineralogy" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Mineralogy&amp;oldid=813246234" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Mineralogy&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q83353" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Mineralogy&amp;id=813246234" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Mineralogy">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Mineralogy&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Mineralogy&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+     <h3 id="p-wikibase-otherprojects-label">
+      In other projects
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="wb-otherproject-link wb-otherproject-commons">
+        <a href="https://commons.wikimedia.org/wiki/Category:Mineralogy" hreflang="en">
+         Wikimedia Commons
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-wikiversity">
+        <a href="https://en.wikiversity.org/wiki/Minerals/Mineralogy" hreflang="en">
+         Wikiversity
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-af">
+        <a class="interlanguage-link-target" href="https://af.wikipedia.org/wiki/Mineralogie" hreflang="af" lang="af" title="Mineralogie – Afrikaans">
+         Afrikaans
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-als">
+        <a class="interlanguage-link-target" href="https://als.wikipedia.org/wiki/Mineralogie" hreflang="als" lang="als" title="Mineralogie – Alemannisch">
+         Alemannisch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ar">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%B9%D9%84%D9%85_%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D8%AF%D9%86" hreflang="ar" lang="ar" title="علم المعادن – Arabic">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ast">
+        <a class="interlanguage-link-target" href="https://ast.wikipedia.org/wiki/Mineralox%C3%ADa" hreflang="ast" lang="ast" title="Mineraloxía – Asturian">
+         Asturianu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-az">
+        <a class="interlanguage-link-target" href="https://az.wikipedia.org/wiki/Mineralogiya" hreflang="az" lang="az" title="Mineralogiya – Azerbaijani">
+         Azərbaycanca
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh-min-nan">
+        <a class="interlanguage-link-target" href="https://zh-min-nan.wikipedia.org/wiki/Kh%C3%B2ng-bu%CC%8Dt-ha%CC%8Dk" hreflang="zh-min-nan" lang="zh-min-nan" title="Khòng-bu̍t-ha̍k – Chinese (Min Nan)">
+         Bân-lâm-gú
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-be">
+        <a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%9C%D1%96%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D0%BE%D0%B3%D1%96%D1%8F" hreflang="be" lang="be" title="Мінералогія – Belarusian">
+         Беларуская
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-be-x-old">
+        <a class="interlanguage-link-target" href="https://be-x-old.wikipedia.org/wiki/%D0%9C%D1%96%D0%BD%D1%8D%D1%80%D0%B0%D0%BB%D1%91%D0%B3%D1%96%D1%8F" hreflang="be-x-old" lang="be-x-old" title="Мінэралёгія – Belarusian (Taraškievica orthography)">
+         Беларуская (тарашкевіца)‎
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bg">
+        <a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%9C%D0%B8%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" hreflang="bg" lang="bg" title="Минералогия – Bulgarian">
+         Български
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bs">
+        <a class="interlanguage-link-target" href="https://bs.wikipedia.org/wiki/Mineralogija" hreflang="bs" lang="bs" title="Mineralogija – Bosnian">
+         Bosanski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Mineralogia" hreflang="ca" lang="ca" title="Mineralogia – Catalan">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cs">
+        <a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Mineralogie" hreflang="cs" lang="cs" title="Mineralogie – Czech">
+         Čeština
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cy">
+        <a class="interlanguage-link-target" href="https://cy.wikipedia.org/wiki/Mwynyddiaeth" hreflang="cy" lang="cy" title="Mwynyddiaeth – Welsh">
+         Cymraeg
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-da">
+        <a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Mineralogi" hreflang="da" lang="da" title="Mineralogi – Danish">
+         Dansk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Mineralogie" hreflang="de" lang="de" title="Mineralogie – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-et">
+        <a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Mineraloogia" hreflang="et" lang="et" title="Mineraloogia – Estonian">
+         Eesti
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-el">
+        <a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%9F%CF%81%CF%85%CE%BA%CF%84%CE%BF%CE%BB%CE%BF%CE%B3%CE%AF%CE%B1" hreflang="el" lang="el" title="Ορυκτολογία – Greek">
+         Ελληνικά
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Mineralog%C3%ADa" hreflang="es" lang="es" title="Mineralogía – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eo">
+        <a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Mineralogio" hreflang="eo" lang="eo" title="Mineralogio – Esperanto">
+         Esperanto
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eu">
+        <a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Mineralogia" hreflang="eu" lang="eu" title="Mineralogia – Basque">
+         Euskara
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fa">
+        <a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D9%86%DB%8C%E2%80%8C%D8%B4%D9%86%D8%A7%D8%B3%DB%8C" hreflang="fa" lang="fa" title="کانی‌شناسی – Persian">
+         فارسی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Min%C3%A9ralogie" hreflang="fr" lang="fr" title="Minéralogie – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ga">
+        <a class="interlanguage-link-target" href="https://ga.wikipedia.org/wiki/Mianreola%C3%ADocht" hreflang="ga" lang="ga" title="Mianreolaíocht – Irish">
+         Gaeilge
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-gl">
+        <a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Mineralox%C3%ADa" hreflang="gl" lang="gl" title="Mineraloxía – Galician">
+         Galego
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ko">
+        <a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EA%B4%91%EB%AC%BC%ED%95%99" hreflang="ko" lang="ko" title="광물학 – Korean">
+         한국어
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hy">
+        <a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D5%84%D5%AB%D5%B6%D5%A5%D6%80%D5%A1%D5%AC%D5%B8%D5%A3%D5%AB%D5%A1" hreflang="hy" lang="hy" title="Միներալոգիա – Armenian">
+         Հայերեն
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hi">
+        <a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%96%E0%A4%A8%E0%A4%BF%E0%A4%9C_%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE%E0%A4%A8" hreflang="hi" lang="hi" title="खनिज विज्ञान – Hindi">
+         हिन्दी
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hr">
+        <a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Mineralogija" hreflang="hr" lang="hr" title="Mineralogija – Croatian">
+         Hrvatski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-io">
+        <a class="interlanguage-link-target" href="https://io.wikipedia.org/wiki/Mineralogio" hreflang="io" lang="io" title="Mineralogio – Ido">
+         Ido
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-id">
+        <a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Mineralogi" hreflang="id" lang="id" title="Mineralogi – Indonesian">
+         Bahasa Indonesia
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ia">
+        <a class="interlanguage-link-target" href="https://ia.wikipedia.org/wiki/Mineralogia" hreflang="ia" lang="ia" title="Mineralogia – Interlingua">
+         Interlingua
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-is">
+        <a class="interlanguage-link-target" href="https://is.wikipedia.org/wiki/Steindafr%C3%A6%C3%B0i" hreflang="is" lang="is" title="Steindafræði – Icelandic">
+         Íslenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Mineralogia" hreflang="it" lang="it" title="Mineralogia – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-he">
+        <a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%9E%D7%99%D7%A0%D7%A8%D7%9C%D7%95%D7%92%D7%99%D7%94" hreflang="he" lang="he" title="מינרלוגיה – Hebrew">
+         עברית
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ka">
+        <a class="interlanguage-link-target" href="https://ka.wikipedia.org/wiki/%E1%83%9B%E1%83%98%E1%83%9C%E1%83%94%E1%83%A0%E1%83%90%E1%83%9A%E1%83%9D%E1%83%92%E1%83%98%E1%83%90" hreflang="ka" lang="ka" title="მინერალოგია – Georgian">
+         ქართული
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-kk">
+        <a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/%D0%9C%D0%B8%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" hreflang="kk" lang="kk" title="Минералогия – Kazakh">
+         Қазақша
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ky">
+        <a class="interlanguage-link-target" href="https://ky.wikipedia.org/wiki/%D0%9C%D0%B8%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" hreflang="ky" lang="ky" title="Минералогия – Kyrgyz">
+         Кыргызча
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-la">
+        <a class="interlanguage-link-target" href="https://la.wikipedia.org/wiki/Mineralogia" hreflang="la" lang="la" title="Mineralogia – Latin">
+         Latina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lv">
+        <a class="interlanguage-link-target" href="https://lv.wikipedia.org/wiki/Mineralo%C4%A3ija" hreflang="lv" lang="lv" title="Mineraloģija – Latvian">
+         Latviešu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lb">
+        <a class="interlanguage-link-target" href="https://lb.wikipedia.org/wiki/Mineralogie" hreflang="lb" lang="lb" title="Mineralogie – Luxembourgish">
+         Lëtzebuergesch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lt">
+        <a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Mineralogija" hreflang="lt" lang="lt" title="Mineralogija – Lithuanian">
+         Lietuvių
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hu">
+        <a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/%C3%81sv%C3%A1nytan" hreflang="hu" lang="hu" title="Ásványtan – Hungarian">
+         Magyar
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ml">
+        <a class="interlanguage-link-target" href="https://ml.wikipedia.org/wiki/%E0%B4%A7%E0%B4%BE%E0%B4%A4%E0%B5%81%E0%B4%B5%E0%B4%BF%E0%B4%9C%E0%B5%8D%E0%B4%9E%E0%B4%BE%E0%B4%A8%E0%B5%80%E0%B4%AF%E0%B4%82" hreflang="ml" lang="ml" title="ധാതുവിജ്ഞാനീയം – Malayalam">
+         മലയാളം
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-mn">
+        <a class="interlanguage-link-target" href="https://mn.wikipedia.org/wiki/%D0%AD%D1%80%D0%B4%D1%8D%D1%81_%D1%81%D1%83%D0%B4%D0%BB%D0%B0%D0%BB" hreflang="mn" lang="mn" title="Эрдэс судлал – Mongolian">
+         Монгол
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-my">
+        <a class="interlanguage-link-target" href="https://my.wikipedia.org/wiki/%E1%80%9E%E1%80%90%E1%80%B9%E1%80%90%E1%80%AF%E1%80%97%E1%80%B1%E1%80%92" hreflang="my" lang="my" title="သတ္တုဗေဒ – Burmese">
+         မြန်မာဘာသာ
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nl">
+        <a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Mineralogie" hreflang="nl" lang="nl" title="Mineralogie – Dutch">
+         Nederlands
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E9%89%B1%E7%89%A9%E5%AD%A6" hreflang="ja" lang="ja" title="鉱物学 – Japanese">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-no">
+        <a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Mineralogi" hreflang="no" lang="no" title="Mineralogi – Norwegian">
+         Norsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nn">
+        <a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Mineralogi" hreflang="nn" lang="nn" title="Mineralogi – Norwegian Nynorsk">
+         Norsk nynorsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uz">
+        <a class="interlanguage-link-target" href="https://uz.wikipedia.org/wiki/Mineralogiya" hreflang="uz" lang="uz" title="Mineralogiya – Uzbek">
+         Oʻzbekcha/ўзбекча
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ps">
+        <a class="interlanguage-link-target" href="https://ps.wikipedia.org/wiki/%DA%A9%D8%A7%D9%86%D9%BE%D9%88%D9%87%D9%86%D9%87" hreflang="ps" lang="ps" title="کانپوهنه – Pashto">
+         پښتو
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nds">
+        <a class="interlanguage-link-target" href="https://nds.wikipedia.org/wiki/Mineralogie" hreflang="nds" lang="nds" title="Mineralogie – Low German">
+         Plattdüütsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pl">
+        <a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Mineralogia" hreflang="pl" lang="pl" title="Mineralogia – Polish">
+         Polski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Mineralogia" hreflang="pt" lang="pt" title="Mineralogia – Portuguese">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ro">
+        <a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Mineralogie" hreflang="ro" lang="ro" title="Mineralogie – Romanian">
+         Română
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%9C%D0%B8%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" hreflang="ru" lang="ru" title="Минералогия – Russian">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sah">
+        <a class="interlanguage-link-target" href="https://sah.wikipedia.org/wiki/%D0%9C%D0%B8%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" hreflang="sah" lang="sah" title="Минералогия – Sakha">
+         Саха тыла
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sco">
+        <a class="interlanguage-link-target" href="https://sco.wikipedia.org/wiki/Mineralogy" hreflang="sco" lang="sco" title="Mineralogy – Scots">
+         Scots
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-simple">
+        <a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Mineralogy" hreflang="simple" lang="simple" title="Mineralogy – Simple English">
+         Simple English
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sk">
+        <a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Mineral%C3%B3gia" hreflang="sk" lang="sk" title="Mineralógia – Slovak">
+         Slovenčina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sl">
+        <a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Mineralogija" hreflang="sl" lang="sl" title="Mineralogija – Slovenian">
+         Slovenščina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sr">
+        <a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%9C%D0%B8%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D0%BE%D0%B3%D0%B8%D1%98%D0%B0" hreflang="sr" lang="sr" title="Минералогија – Serbian">
+         Српски / srpski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sh">
+        <a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Mineralogija" hreflang="sh" lang="sh" title="Mineralogija – Serbo-Croatian">
+         Srpskohrvatski / српскохрватски
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fi">
+        <a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Mineralogia" hreflang="fi" lang="fi" title="Mineralogia – Finnish">
+         Suomi
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sv">
+        <a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Mineralogi" hreflang="sv" lang="sv" title="Mineralogi – Swedish">
+         Svenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tl">
+        <a class="interlanguage-link-target" href="https://tl.wikipedia.org/wiki/Mineralohiya" hreflang="tl" lang="tl" title="Mineralohiya – Tagalog">
+         Tagalog
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tr">
+        <a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Mineraloji" hreflang="tr" lang="tr" title="Mineraloji – Turkish">
+         Türkçe
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uk">
+        <a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%9C%D1%96%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D0%BE%D0%B3%D1%96%D1%8F" hreflang="uk" lang="uk" title="Мінералогія – Ukrainian">
+         Українська
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-vi">
+        <a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/Kho%C3%A1ng_v%E1%BA%ADt_h%E1%BB%8Dc" hreflang="vi" lang="vi" title="Khoáng vật học – Vietnamese">
+         Tiếng Việt
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-war">
+        <a class="interlanguage-link-target" href="https://war.wikipedia.org/wiki/Mineralohiya" hreflang="war" lang="war" title="Mineralohiya – Waray">
+         Winaray
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E7%9F%BF%E7%89%A9%E5%AD%A6" hreflang="zh" lang="zh" title="矿物学 – Chinese">
+         中文
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q83353#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 2 December 2017, at 17:43.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Mineralogy&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.548","walltime":"0.652","ppvisitednodes":{"value":16241,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":89710,"limit":2097152},"templateargumentsize":{"value":3874,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  552.904      1 -total"," 32.45%  179.436      2 Template:Reflist"," 15.84%   87.574     10 Template:Chemical_formula"," 13.39%   74.059    200 Template:Chemical_formula/atom"," 12.35%   68.274      1 Template:Refn"," 12.02%   66.452     16 Template:Cite_book","  9.83%   54.334      5 Template:Cite_encyclopedia","  9.61%   53.130      1 Template:Failed_verification","  8.05%   44.521     10 Template:Cite_journal","  6.36%   35.146      1 Template:Fix"]},"scribunto":{"limitreport-timeusage":{"value":"0.216","limit":"10.000"},"limitreport-memusage":{"value":5090466,"limit":52428800}},"cachereport":{"origin":"mw1328","timestamp":"20180127190534","ttl":1900800,"transientcontent":false}}});});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":77,"wgHostname":"mw1254"});});
+  </script>
+ </body>
+</html>

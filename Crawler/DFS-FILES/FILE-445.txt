@@ -1,0 +1,2313 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Linguistic typology - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Linguistic_typology","wgTitle":"Linguistic typology","wgCurRevisionId":816798821,"wgRevisionId":816798821,"wgArticleId":48854,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 German-language sources (de)","Articles lacking in-text citations from March 2010","All articles lacking in-text citations","All articles with specifically marked weasel-worded phrases","Articles with specifically marked weasel-worded phrases from March 2017","All articles with unsourced statements","Articles with unsourced statements from May 2017","All articles with dead external links","Articles with dead external links from December 2017","Articles with permanently dead external links","Wikipedia articles with GND identifiers","Linguistic typology","Language comparison"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Linguistic_typology","wgRelevantArticleId":48854,"wgRequestId":"Wm-NrwpAICkAAInutY0AAABL","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q192625","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.31.0-wmf.17" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Linguistic_typology" rel="alternate"/>
+  <link href="/w/index.php?title=Linguistic_typology&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Linguistic_typology&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/Linguistic_typology" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Linguistic_typology rootpage-Linguistic_typology skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Linguistic typology
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <table class="plainlinks metadata ambox ambox-style ambox-More_footnotes" role="presentation">
+       <tr>
+        <td class="mbox-image">
+         <div style="width:52px">
+          <img alt="" data-file-height="48" data-file-width="48" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/40px-Text_document_with_red_question_mark.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/60px-Text_document_with_red_question_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/80px-Text_document_with_red_question_mark.svg.png 2x" width="40"/>
+         </div>
+        </td>
+        <td class="mbox-text">
+         <div class="mbox-text-span">
+          This article includes a
+          <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">
+           list of references
+          </a>
+          , but
+          <b>
+           its sources remain unclear
+          </b>
+          because it has
+          <b>
+           insufficient
+           <a href="/wiki/Wikipedia:Citing_sources#Inline_citations" title="Wikipedia:Citing sources">
+            inline citations
+           </a>
+          </b>
+          .
+          <span class="hide-when-compact">
+           Please help to
+           <a href="/wiki/Wikipedia:WikiProject_Fact_and_Reference_Check" title="Wikipedia:WikiProject Fact and Reference Check">
+            improve
+           </a>
+           this article by
+           <a href="/wiki/Wikipedia:When_to_cite" title="Wikipedia:When to cite">
+            introducing
+           </a>
+           more precise citations.
+          </span>
+          <small>
+           <i>
+            (March 2010)
+           </i>
+          </small>
+          <small class="hide-when-compact">
+           <i>
+            (
+            <a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">
+             Learn how and when to remove this template message
+            </a>
+            )
+           </i>
+          </small>
+         </div>
+        </td>
+       </tr>
+      </table>
+      <table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:auto;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+       <tr>
+        <th style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em">
+         <a class="mw-selflink selflink">
+          Linguistic typology
+         </a>
+        </th>
+       </tr>
+       <tr>
+        <th style="padding:0.1em;border-bottom: 1px solid #aaa;">
+         <a href="/wiki/Morphological_typology" title="Morphological typology">
+          Morphological
+         </a>
+        </th>
+       </tr>
+       <tr>
+        <td style="padding:0 0.1em 0.4em;text-align: left;">
+         <ul>
+          <li>
+           <a href="/wiki/Analytic_language" title="Analytic language">
+            Analytic
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Isolating_language" title="Isolating language">
+            Isolating
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Synthetic_language" title="Synthetic language">
+            Synthetic
+           </a>
+           <ul>
+            <li>
+             <a href="/wiki/Fusional_language" title="Fusional language">
+              Fusional
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Agglutinative_language" title="Agglutinative language">
+              Agglutinative
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Polysynthetic_language" title="Polysynthetic language">
+              Polysynthetic
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Oligosynthetic_language" title="Oligosynthetic language">
+              Oligosynthetic
+             </a>
+            </li>
+           </ul>
+          </li>
+         </ul>
+        </td>
+       </tr>
+       <tr>
+        <th style="padding:0.1em;border-bottom: 1px solid #aaa;">
+         <a href="/wiki/Morphology_(linguistics)#Paradigms_and_morphosyntax" title="Morphology (linguistics)">
+          Morphosyntactic
+         </a>
+        </th>
+       </tr>
+       <tr>
+        <td style="padding:0 0.1em 0.4em;text-align: left;">
+         <ul>
+          <li>
+           <a href="/wiki/Morphosyntactic_alignment" title="Morphosyntactic alignment">
+            Alignment
+           </a>
+           <ul>
+            <li>
+             <a href="/wiki/Nominative%E2%80%93accusative_language" title="Nominative–accusative language">
+              Accusative
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Ergative%E2%80%93absolutive_language" title="Ergative–absolutive language">
+              Ergative
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Split_ergativity" title="Split ergativity">
+              Split ergative
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Austronesian_alignment" title="Austronesian alignment">
+              Austronesian
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Active%E2%80%93stative_language" title="Active–stative language">
+              Active–stative
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Tripartite_language" title="Tripartite language">
+              Tripartite
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Nominative%E2%80%93absolutive_language" title="Nominative–absolutive language">
+              Marked nominative
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Ditransitive_verb#Ditransitive.2Fmonotransitive_alignment" title="Ditransitive verb">
+              Ditransitive alignment
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/Secundative_language" title="Secundative language">
+                Secundative
+               </a>
+              </li>
+              <li>
+               <a class="mw-redirect" href="/wiki/Indirective_language" title="Indirective language">
+                Indirective
+               </a>
+              </li>
+             </ul>
+            </li>
+           </ul>
+          </li>
+          <li>
+           <a href="/wiki/Direct%E2%80%93inverse_language" title="Direct–inverse language">
+            Inverse marking
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Syntactic_pivot" title="Syntactic pivot">
+            Syntactic pivot
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Theta_role" title="Theta role">
+            Theta role
+           </a>
+          </li>
+         </ul>
+        </td>
+       </tr>
+       <tr>
+        <th style="padding:0.1em;border-bottom: 1px solid #aaa;">
+         <a href="/wiki/Word_order" title="Word order">
+          Word order
+         </a>
+        </th>
+       </tr>
+       <tr>
+        <td style="padding:0 0.1em 0.4em;text-align: left;">
+         <ul>
+          <li>
+           <a href="/wiki/VO_language" title="VO language">
+            VO languages
+           </a>
+           <ul>
+            <li>
+             <a href="/wiki/Subject%E2%80%93verb%E2%80%93object" title="Subject–verb–object">
+              Subject–verb–object
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Verb%E2%80%93subject%E2%80%93object" title="Verb–subject–object">
+              Verb–subject–object
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Verb%E2%80%93object%E2%80%93subject" title="Verb–object–subject">
+              Verb–object–subject
+             </a>
+            </li>
+           </ul>
+          </li>
+          <li>
+           <a href="/wiki/OV_language" title="OV language">
+            OV languages
+           </a>
+           <ul>
+            <li>
+             <a href="/wiki/Subject%E2%80%93object%E2%80%93verb" title="Subject–object–verb">
+              Subject–object–verb
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Object%E2%80%93subject%E2%80%93verb" title="Object–subject–verb">
+              Object–subject–verb
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Object%E2%80%93verb%E2%80%93subject" title="Object–verb–subject">
+              Object–verb–subject
+             </a>
+            </li>
+           </ul>
+          </li>
+          <li>
+           <a href="/wiki/V2_word_order" title="V2 word order">
+            V2 word order
+           </a>
+          </li>
+          <li>
+           <a class="mw-redirect" href="/wiki/Free_word_order" title="Free word order">
+            Free word order
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Time%E2%80%93manner%E2%80%93place" title="Time–manner–place">
+            Time–manner–place
+           </a>
+          </li>
+          <li>
+           <a class="new" href="/w/index.php?title=Place%E2%80%93manner%E2%80%93time&amp;action=edit&amp;redlink=1" title="Place–manner–time (page does not exist)">
+            Place–manner–time
+           </a>
+          </li>
+         </ul>
+        </td>
+       </tr>
+       <tr>
+        <th style="padding:0.1em;border-bottom: 1px solid #aaa;">
+         <a href="/wiki/Lexicon" title="Lexicon">
+          Lexicon
+         </a>
+        </th>
+       </tr>
+       <tr>
+        <td style="padding:0 0.1em 0.4em;text-align: left;">
+         <ul>
+          <li>
+           <a href="/wiki/Color_term" title="Color term">
+            Color terms
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Numeral_(linguistics)" title="Numeral (linguistics)">
+            Numerals
+           </a>
+          </li>
+         </ul>
+        </td>
+       </tr>
+       <tr>
+        <td style="text-align:right;font-size:115%">
+         <div class="plainlinks hlist navbar mini">
+          <ul>
+           <li class="nv-view">
+            <a href="/wiki/Template:Linguistic_typology_topics" title="Template:Linguistic typology topics">
+             <abbr title="View this template">
+              v
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-talk">
+            <a href="/wiki/Template_talk:Linguistic_typology_topics" title="Template talk:Linguistic typology topics">
+             <abbr title="Discuss this template">
+              t
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-edit">
+            <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Linguistic_typology_topics&amp;action=edit">
+             <abbr title="Edit this template">
+              e
+             </abbr>
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+      </table>
+      <p>
+       <b>
+        Linguistic typology
+       </b>
+       is a field of
+       <a href="/wiki/Linguistics" title="Linguistics">
+        linguistics
+       </a>
+       that studies and classifies languages according to their structural and functional features. Its aim is to describe and explain the common properties and the structural diversity of the world's languages.
+       <sup class="reference" id="cite_ref-:0_1-0">
+        <a href="#cite_note-:0-1">
+         [1]
+        </a>
+       </sup>
+       It includes five subdisciplines: qualitative typology, which deals with the issue of comparing languages and within-language variance; quantitative typology, which deals with the distribution of structural patterns in the world’s languages; theoretical typology, which explains these distributions; syntactic typology, which deals with word order, word form, and word choice; and lexical typology, which deals with language vocabulary.
+      </p>
+      <p>
+      </p>
+      <div class="toc" id="toc">
+       <div class="toctitle" dir="ltr" lang="en" xml:lang="en">
+        <h2>
+         Contents
+        </h2>
+       </div>
+       <ul>
+        <li class="toclevel-1 tocsection-1">
+         <a href="#Qualitative_typology">
+          <span class="tocnumber">
+           1
+          </span>
+          <span class="toctext">
+           Qualitative typology
+          </span>
+         </a>
+         <ul>
+          <li class="toclevel-2 tocsection-2">
+           <a href="#Typological_systems">
+            <span class="tocnumber">
+             1.1
+            </span>
+            <span class="toctext">
+             Typological systems
+            </span>
+           </a>
+           <ul>
+            <li class="toclevel-3 tocsection-3">
+             <a href="#Subject–verb–object_positioning">
+              <span class="tocnumber">
+               1.1.1
+              </span>
+              <span class="toctext">
+               Subject–verb–object positioning
+              </span>
+             </a>
+            </li>
+            <li class="toclevel-3 tocsection-4">
+             <a href="#Morphosyntactic_alignment">
+              <span class="tocnumber">
+               1.1.2
+              </span>
+              <span class="toctext">
+               Morphosyntactic alignment
+              </span>
+             </a>
+            </li>
+            <li class="toclevel-3 tocsection-5">
+             <a href="#Phonological_systems">
+              <span class="tocnumber">
+               1.1.3
+              </span>
+              <span class="toctext">
+               Phonological systems
+              </span>
+             </a>
+            </li>
+           </ul>
+          </li>
+         </ul>
+        </li>
+        <li class="toclevel-1 tocsection-6">
+         <a href="#Quantitative_typology">
+          <span class="tocnumber">
+           2
+          </span>
+          <span class="toctext">
+           Quantitative typology
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-7">
+         <a href="#Sources">
+          <span class="tocnumber">
+           3
+          </span>
+          <span class="toctext">
+           Sources
+          </span>
+         </a>
+         <ul>
+          <li class="toclevel-2 tocsection-8">
+           <a href="#References">
+            <span class="tocnumber">
+             3.1
+            </span>
+            <span class="toctext">
+             References
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-9">
+           <a href="#Bibliography">
+            <span class="tocnumber">
+             3.2
+            </span>
+            <span class="toctext">
+             Bibliography
+            </span>
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="toclevel-1 tocsection-10">
+         <a href="#External_links">
+          <span class="tocnumber">
+           4
+          </span>
+          <span class="toctext">
+           External links
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <p>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Qualitative_typology">
+        Qualitative typology
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Linguistic_typology&amp;action=edit&amp;section=1" title="Edit section: Qualitative typology">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       Qualitative typology develops cross-linguistically viable notions or types that provide a framework for the description and comparison of individual languages. A few examples appear below.
+      </p>
+      <h3>
+       <span class="mw-headline" id="Typological_systems">
+        Typological systems
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Linguistic_typology&amp;action=edit&amp;section=2" title="Edit section: Typological systems">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <h4>
+       <span id="Subject.E2.80.93verb.E2.80.93object_positioning">
+       </span>
+       <span class="mw-headline" id="Subject–verb–object_positioning">
+        Subject–verb–object positioning
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Linguistic_typology&amp;action=edit&amp;section=3" title="Edit section: Subject–verb–object positioning">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h4>
+      <div class="hatnote navigation-not-searchable" role="note">
+       Main article:
+       <a href="/wiki/Word_order" title="Word order">
+        Word order
+       </a>
+      </div>
+      <p>
+       One set of types reflects the basic order of
+       <a href="/wiki/Subject_(grammar)" title="Subject (grammar)">
+        subject
+       </a>
+       ,
+       <a href="/wiki/Verb" title="Verb">
+        verb
+       </a>
+       , and
+       <a class="mw-redirect" href="/wiki/Direct_object" title="Direct object">
+        direct object
+       </a>
+       in sentences:
+      </p>
+      <ul>
+       <li>
+        <a href="/wiki/Object%E2%80%93subject%E2%80%93verb" title="Object–subject–verb">
+         Object–subject–verb
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Object%E2%80%93verb%E2%80%93subject" title="Object–verb–subject">
+         Object–verb–subject
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Subject%E2%80%93verb%E2%80%93object" title="Subject–verb–object">
+         Subject–verb–object
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Subject%E2%80%93object%E2%80%93verb" title="Subject–object–verb">
+         Subject–object–verb
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Verb%E2%80%93subject%E2%80%93object" title="Verb–subject–object">
+         Verb–subject–object
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Verb%E2%80%93object%E2%80%93subject" title="Verb–object–subject">
+         Verb–object–subject
+        </a>
+       </li>
+      </ul>
+      <p>
+       These labels usually appear abbreviated as "SVO" and so forth, and may be called "typologies" of the languages to which they apply. The most commonly attested word orders are SOV and SVO while the least common orders are those that are object initial with OVS being the least common with only four attested instances
+       <sup class="reference" id="cite_ref-2">
+        <a href="#cite_note-2">
+         [2]
+        </a>
+       </sup>
+      </p>
+      <p>
+       In the 1980s, linguists began to question the relevance of geographical distribution of different values for various features of linguistic structure. They may have wanted to discover whether a particular grammatical structure found in one language is likewise found in another language in the same geographic location.
+       <sup class="reference" id="cite_ref-3">
+        <a href="#cite_note-3">
+         [3]
+        </a>
+       </sup>
+       Some languages split verbs into an auxiliary and an infinitive or participle, and put the subject and/or object between them. For instance, German ("Ich
+       <i>
+        habe
+       </i>
+       einen Fuchs im Wald
+       <i>
+        gesehen
+       </i>
+       " - *"I have a fox in-the woods seen"), Dutch ("Hans
+       <i>
+        vermoedde
+       </i>
+       dat Jan Marie
+       <i>
+        zag leren zwemmen
+       </i>
+       " - *"Hans suspected that Jan Marie saw teach swim") and Welsh ("
+       <i>
+        Mae
+       </i>
+       'r gwirio sillafu wedi'i
+       <i>
+        gwblhau
+       </i>
+       " - *"Is the checking spelling after its to complete"). In this case, linguists base the typology on the non-analytic tenses (i.e. those sentences in which the verb is not split) or on the position of the auxiliary. German is thus SVO in main clauses and Welsh is VSO (and preposition phrases would go after the infinitive).
+      </p>
+      <p>
+       Many typologists
+       <sup class="noprint Inline-Template" style="white-space:nowrap;">
+        [
+        <i>
+         <a href="/wiki/Wikipedia:Manual_of_Style/Words_to_watch#Unsupported_attributions" title="Wikipedia:Manual of Style/Words to watch">
+          <span title="The material near this tag possibly uses too-vague attribution or weasel words. (March 2017)">
+           who?
+          </span>
+         </a>
+        </i>
+        ]
+       </sup>
+       classify both German and Dutch as
+       <a href="/wiki/V2_word_order" title="V2 word order">
+        V2
+       </a>
+       languages, as the verb invariantly occurs as the second element of a full clause.
+      </p>
+      <p>
+       Some languages allow varying degrees of freedom in their constituent order, posing a problem for their classification within the subject–verb–object schema. Languages with bound case markings for nouns, for example, tend to have more flexible word orders than languages where case is defined by position within a sentence or presence of a preposition
+       <sup class="noprint Inline-Template" style="white-space:nowrap;">
+        [
+        <i>
+         <a class="mw-redirect" href="/wiki/Wikipedia:AUDIENCE" title="Wikipedia:AUDIENCE">
+          <span title="Wikipedia:AUDIENCE">
+           example needed
+          </span>
+         </a>
+        </i>
+        ]
+       </sup>
+       . To define a basic constituent order type in this case, one generally looks at frequency of different types in declarative affirmative main clauses in pragmatically neutral contexts, preferably with only old referents. Thus, for instance, Russian is widely considered an SVO language, as this is the most frequent constituent order under such conditions—all sorts of variations are possible, though, and occur in texts. In many inflected languages, such as Russian, Latin, and Greek, departures from the default word-orders are permissible but usually imply a shift in focus, an emphasis on the final element, or some special context. In the poetry of these languages, the word order may also shift freely to meet metrical demands. Additionally, freedom of word order may vary within the same language—for example, formal, literary, or archaizing varieties may have different, stricter, or more lenient constituent-order structures than an informal spoken variety of the same language.
+      </p>
+      <p>
+       On the other hand, when there is no clear preference under the described conditions, the language is considered to have "flexible constituent order" (a type unto itself).
+      </p>
+      <p>
+       An additional problem is that in languages without living speech communities, such as
+       <a href="/wiki/Latin" title="Latin">
+        Latin
+       </a>
+       ,
+       <a href="/wiki/Ancient_Greek" title="Ancient Greek">
+        Ancient Greek
+       </a>
+       , and
+       <a href="/wiki/Old_Church_Slavonic" title="Old Church Slavonic">
+        Old Church Slavonic
+       </a>
+       , linguists have only written evidence, perhaps written in a poetic, formalizing, or archaic style that mischaracterizes the actual daily use of the language. The daily spoken language of a
+       <a href="/wiki/Sophocles" title="Sophocles">
+        Sophocles
+       </a>
+       or a
+       <a href="/wiki/Cicero" title="Cicero">
+        Cicero
+       </a>
+       might have exhibited a different or much more regular syntax than their written legacy indicates.
+       <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+        [
+        <i>
+         <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+          <span title="This claim needs references to reliable sources. (May 2017)">
+           citation needed
+          </span>
+         </a>
+        </i>
+        ]
+       </sup>
+      </p>
+      <h4>
+       <span class="mw-headline" id="Morphosyntactic_alignment">
+        Morphosyntactic alignment
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Linguistic_typology&amp;action=edit&amp;section=4" title="Edit section: Morphosyntactic alignment">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h4>
+      <div class="hatnote navigation-not-searchable" role="note">
+       Main article:
+       <a href="/wiki/Morphosyntactic_alignment" title="Morphosyntactic alignment">
+        Morphosyntactic alignment
+       </a>
+      </div>
+      <p>
+       Another common classification distinguishes
+       <a href="/wiki/Nominative%E2%80%93accusative_language" title="Nominative–accusative language">
+        nominative–accusative
+       </a>
+       alignment patterns and
+       <a href="/wiki/Ergative%E2%80%93absolutive_language" title="Ergative–absolutive language">
+        ergative–absolutive
+       </a>
+       ones. In a language with
+       <a class="mw-redirect" href="/wiki/Noun_case" title="Noun case">
+        cases
+       </a>
+       , the classification depends on whether the subject (S) of an intransitive verb has the same case as the agent (A) or the patient (P) of a transitive verb. If a language has no cases, but the word order is AVP or PVA, then a classification may reflect whether the subject of an intransitive verb appears on the same side as the agent or the patient of the transitive verb. Bickel (2011) has argued that alignment should be seen as a construction-specific property rather than a language-specific property.
+       <sup class="reference" id="cite_ref-:0_1-1">
+        <a href="#cite_note-:0-1">
+         [1]
+        </a>
+       </sup>
+      </p>
+      <p>
+       Many languages show mixed accusative and ergative behaviour (for example: ergative morphology marking the verb arguments, on top of an accusative syntax). Other languages (called "
+       <a class="mw-redirect" href="/wiki/Active_language" title="Active language">
+        active languages
+       </a>
+       ") have two types of intransitive verbs—some of them ("active verbs") join the subject in the same case as the agent of a transitive verb, and the rest ("stative verbs") join the subject in the same case as the patient
+       <sup class="noprint Inline-Template" style="white-space:nowrap;">
+        [
+        <i>
+         <a class="mw-redirect" href="/wiki/Wikipedia:AUDIENCE" title="Wikipedia:AUDIENCE">
+          <span title="Wikipedia:AUDIENCE">
+           example needed
+          </span>
+         </a>
+        </i>
+        ]
+       </sup>
+       . Yet other languages behave ergatively only in some contexts (this "
+       <a href="/wiki/Split_ergativity" title="Split ergativity">
+        split ergativity
+       </a>
+       " is often based on the grammatical person of the arguments or on the tense/aspect of the verb). For example, only some verbs in
+       <a href="/wiki/Georgian_language" title="Georgian language">
+        Georgian
+       </a>
+       behave this way, and, as a rule, only while using the
+       <a class="mw-redirect" href="/wiki/Perfective" title="Perfective">
+        perfective
+       </a>
+       (aorist).
+      </p>
+      <h4>
+       <span class="mw-headline" id="Phonological_systems">
+        Phonological systems
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Linguistic_typology&amp;action=edit&amp;section=5" title="Edit section: Phonological systems">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h4>
+      <div class="hatnote navigation-not-searchable" role="note">
+       Main article:
+       <a href="/wiki/Phonology" title="Phonology">
+        Phonology
+       </a>
+      </div>
+      <p>
+       Linguistic typology also seeks to identify patterns in the structure and distribution of sound systems among the world's languages. This is accomplished by surveying and analyzing the relative frequencies of different phonological properties. These relative frequencies might, for example, be used to determine why contrastive voicing commonly occurs with plosives, as in English “neat” and “need”, but occurs much more rarely among fricatives, such as the English “niece” and “knees”. According to a worldwide sample of 637 languages,
+       <sup class="reference" id="cite_ref-Song,_2011_4-0">
+        <a href="#cite_note-Song,_2011-4">
+         [4]
+        </a>
+       </sup>
+       62% have the voicing contrast in stops but only 35% have this in fricatives. In the vast majority of those cases, the absence of voicing contrast occurs because there is a lack of voiced fricatives and because all languages have some form of plosive, but there are languages with no fricatives. Below is a chart showing the breakdown of voicing properties among languages in the aforementioned sample.
+      </p>
+      <table class="wikitable">
+       <tr>
+        <th>
+         Plosive Voicing
+        </th>
+        <th colspan="3">
+         Fricative Voicing
+        </th>
+       </tr>
+       <tr>
+        <td>
+        </td>
+        <td style="text-align: center;">
+         Yes
+        </td>
+        <td style="text-align: center;">
+         No
+        </td>
+        <td style="text-align: center;">
+         Total
+        </td>
+       </tr>
+       <tr>
+        <td>
+         Yes
+        </td>
+        <td style="text-align: center;">
+         117
+        </td>
+        <td style="text-align: center;">
+         218
+        </td>
+        <td>
+         395 (62%)
+        </td>
+       </tr>
+       <tr>
+        <td>
+         No
+        </td>
+        <td style="text-align: center;">
+         44
+        </td>
+        <td style="text-align: center;">
+         198
+        </td>
+        <td>
+         242 (38%)
+        </td>
+       </tr>
+       <tr>
+        <td>
+         Total
+        </td>
+        <td>
+         221 (35%)
+        </td>
+        <td>
+         416 (65%)
+        </td>
+        <td style="text-align: center;">
+         637
+        </td>
+       </tr>
+      </table>
+      <p>
+       <sup class="reference" id="cite_ref-Song,_2011_4-1">
+        <a href="#cite_note-Song,_2011-4">
+         [4]
+        </a>
+       </sup>
+      </p>
+      <p>
+       Languages worldwide also vary in the number of sounds they use. These languages can go from very small phonemic inventories (
+       <a href="/wiki/Rotokas_language" title="Rotokas language">
+        Rotokas
+       </a>
+       with six consonants and five vowels) to very large inventories (
+       <a href="/wiki/Taa_language" title="Taa language">
+        !Xóõ
+       </a>
+       with 128 consonants and 28 vowels). An interesting phonological observation found with this data is that the larger a consonant inventory a language has, the more likely it is to contain a sound from a defined set of complex consonants (clicks, glottalized consonants, doubly articulated labial-velar stops, lateral fricatives and affricates, uvular and pharyngeal consonants, and dental or alveolar non-sibilant fricatives). Of this list, only about 26% of languages in a survey
+       <sup class="reference" id="cite_ref-Song,_2011_4-2">
+        <a href="#cite_note-Song,_2011-4">
+         [4]
+        </a>
+       </sup>
+       of over 600 with small inventories (less than 19 consonants) contain a member of this set, while 51% of average languages (19-25) contain at least one member and 69% of large consonant inventories (greater than 25 consonants) contain a member of this set. It is then seen that complex consonants are in proportion to the size of the inventory.
+      </p>
+      <p>
+       Vowels contain a more modest number of phonemes, with the average being 5-6, which 51% of the languages in the survey have. About a third of the languages have larger than average vowel inventories. Most interesting though is the lack of relationship between consonant inventory size and vowel inventory size. Below is a chart showing this lack of predictability between consonant and vowel inventory sizes in relation to each other.
+      </p>
+      <table class="wikitable">
+       <tr>
+        <th>
+         Consonant Inventory
+        </th>
+        <th colspan="4">
+         Vowel Quality Inventory
+        </th>
+       </tr>
+       <tr>
+        <td>
+        </td>
+        <td style="text-align: center;">
+         Small
+        </td>
+        <td style="text-align: center;">
+         Average
+        </td>
+        <td style="text-align: center;">
+         Large
+        </td>
+        <td style="text-align: center;">
+         Total
+        </td>
+       </tr>
+       <tr>
+        <td>
+         Small
+        </td>
+        <td style="text-align: center;">
+         47
+        </td>
+        <td style="text-align: center;">
+         153
+        </td>
+        <td style="text-align: center;">
+         65
+        </td>
+        <td>
+         265 (39%)
+        </td>
+       </tr>
+       <tr>
+        <td>
+         Average
+        </td>
+        <td style="text-align: center;">
+         34
+        </td>
+        <td style="text-align: center;">
+         105
+        </td>
+        <td style="text-align: center;">
+         98
+        </td>
+        <td>
+         237 (35%)
+        </td>
+       </tr>
+       <tr>
+        <td>
+         Large
+        </td>
+        <td style="text-align: center;">
+         34
+        </td>
+        <td style="text-align: center;">
+         87
+        </td>
+        <td style="text-align: center;">
+         57
+        </td>
+        <td>
+         178 (26%)
+        </td>
+       </tr>
+       <tr>
+        <td>
+         Total
+        </td>
+        <td>
+         115 (17%)
+        </td>
+        <td>
+         345 (51%)
+        </td>
+        <td>
+         220 (32%)
+        </td>
+        <td style="text-align: center;">
+         680
+        </td>
+       </tr>
+      </table>
+      <p>
+       <sup class="reference" id="cite_ref-Song,_2011_4-3">
+        <a href="#cite_note-Song,_2011-4">
+         [4]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Quantitative_typology">
+        Quantitative typology
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Linguistic_typology&amp;action=edit&amp;section=6" title="Edit section: Quantitative typology">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       Quantitative typology deals with the distribution and co-occurrence of structural patterns in the languages of the world. Major types of non-chance distribution include:
+      </p>
+      <p>
+       1. preferences (for instance, absolute and implicational
+       <a href="/wiki/Linguistic_universal" title="Linguistic universal">
+        universals
+       </a>
+       , semantic maps, and
+       <a href="/wiki/Implicational_hierarchy" title="Implicational hierarchy">
+        hierarchies
+       </a>
+       ) Linguistic universals are patterns that can be seen cross linguistically. Universals can either be absolute, meaning that every documented language exhibits this characteristic, or statistical, meaning that this characteristic is seen in most languages or is probable in most languages. Universals, both absolute and statistical can be unrestricted, meaning that they apply to most or all languages without any additional conditions. Conversely, both absolute and statistical universals can be restricted or implicational, meaning that a characteristic will be true on the condition of something else (if Y characteristic is true, then X characteristic is true).
+       <sup class="reference" id="cite_ref-5">
+        <a href="#cite_note-5">
+         [5]
+        </a>
+       </sup>
+      </p>
+      <p>
+       2. correlations (for instance, areal patterns, such as with a
+       <a href="/wiki/Sprachbund" title="Sprachbund">
+        Sprachbund
+       </a>
+       )
+      </p>
+      <h2>
+       <span class="mw-headline" id="Sources">
+        Sources
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Linguistic_typology&amp;action=edit&amp;section=7" title="Edit section: Sources">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <h3>
+       <span class="mw-headline" id="References">
+        References
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Linguistic_typology&amp;action=edit&amp;section=8" title="Edit section: References">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <div class="reflist" style="list-style-type: decimal;">
+       <div class="mw-references-wrap">
+        <ol class="references">
+         <li id="cite_note-:0-1">
+          <span class="mw-cite-backlink">
+           ^
+           <a href="#cite_ref-:0_1-0">
+            <sup>
+             <i>
+              <b>
+               a
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-:0_1-1">
+            <sup>
+             <i>
+              <b>
+               b
+              </b>
+             </i>
+            </sup>
+           </a>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            Bickel, B.
+            <a class="external text" href="http://www.uni-leipzig.de/~bickel/research/papers/manifesto.pdf" rel="nofollow">
+             "What is typology? - a short note"
+            </a>
+            <span style="font-size:85%;">
+             (PDF)
+            </span>
+            .
+            <i>
+             www.uni-leipzig.de
+            </i>
+            (in German)
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              2017-03-06
+             </span>
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.uni-leipzig.de&amp;rft.atitle=What+is+typology%3F+-+a+short+note&amp;rft.aulast=Bickel&amp;rft.aufirst=B.&amp;rft_id=http%3A%2F%2Fwww.uni-leipzig.de%2F~bickel%2Fresearch%2Fpapers%2Fmanifesto.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALinguistic+typology">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-2">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-2">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Gell-Mann, Murray; Ruhlen, Merritt (2011-10-18).
+            <a class="external text" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3198322/" rel="nofollow">
+             "The origin and evolution of word order"
+            </a>
+            .
+            <i>
+             Proceedings of the National Academy of Sciences of the United States of America
+            </i>
+            .
+            <b>
+             108
+            </b>
+            (42): 17290–17295.
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1073%2Fpnas.1113716108" rel="nofollow">
+             10.1073/pnas.1113716108
+            </a>
+            .
+            <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">
+             ISSN
+            </a>
+            <a class="external text" href="//www.worldcat.org/issn/0027-8424" rel="nofollow">
+             0027-8424
+            </a>
+            .
+            <a href="/wiki/PubMed_Central" title="PubMed Central">
+             PMC
+            </a>
+            <span class="plainlinks">
+             <a class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC3198322" rel="nofollow">
+              3198322
+             </a>
+             <img alt="Freely accessible" data-file-height="813" data-file-width="512" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" title="Freely accessible" width="9"/>
+            </span>
+            .
+            <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">
+             PMID
+            </a>
+            <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/21987807" rel="nofollow">
+             21987807
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Proceedings+of+the+National+Academy+of+Sciences+of+the+United+States+of+America&amp;rft.atitle=The+origin+and+evolution+of+word+order&amp;rft.volume=108&amp;rft.issue=42&amp;rft.pages=17290-17295&amp;rft.date=2011-10-18&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC3198322&amp;rft.issn=0027-8424&amp;rft_id=info%3Apmid%2F21987807&amp;rft_id=info%3Adoi%2F10.1073%2Fpnas.1113716108&amp;rft.aulast=Gell-Mann&amp;rft.aufirst=Murray&amp;rft.au=Ruhlen%2C+Merritt&amp;rft_id=https%3A%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC3198322%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALinguistic+typology">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-3">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-3">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           Comrie, Bernard, et al. “Chapter Introduction.” WALS Online - Chapter Introduction, The World Atlas of Language Structures Online, 2013.
+          </span>
+         </li>
+         <li id="cite_note-Song,_2011-4">
+          <span class="mw-cite-backlink">
+           ^
+           <a href="#cite_ref-Song,_2011_4-0">
+            <sup>
+             <i>
+              <b>
+               a
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-Song,_2011_4-1">
+            <sup>
+             <i>
+              <b>
+               b
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-Song,_2011_4-2">
+            <sup>
+             <i>
+              <b>
+               c
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-Song,_2011_4-3">
+            <sup>
+             <i>
+              <b>
+               d
+              </b>
+             </i>
+            </sup>
+           </a>
+          </span>
+          <span class="reference-text">
+           Song, J.J. (ed.) (2011). The Oxford Handbook of Linguistic Typology. Oxford: Oxford University Press.
+           <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+            ISBN
+           </a>
+           <a href="/wiki/Special:BookSources/978-0-19-928125-1" title="Special:BookSources/978-0-19-928125-1">
+            978-0-19-928125-1
+           </a>
+           .
+          </span>
+         </li>
+         <li id="cite_note-5">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-5">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation book">
+            Moravcsik, Edith (2013).
+            <i>
+             Introducing Language Typology
+            </i>
+            . Cambridge, London: Cambridge University Press. p. 9.
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Introducing+Language+Typology&amp;rft.place=Cambridge%2C+London&amp;rft.pages=9&amp;rft.pub=Cambridge+University+Press&amp;rft.date=2013&amp;rft.aulast=Moravcsik&amp;rft.aufirst=Edith&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALinguistic+typology">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+        </ol>
+       </div>
+      </div>
+      <h3>
+       <span class="mw-headline" id="Bibliography">
+        Bibliography
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Linguistic_typology&amp;action=edit&amp;section=9" title="Edit section: Bibliography">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <ul>
+       <li>
+        Bisang, W. (2001). Aspects of typology and universals. Berlin: Akademie Verlag.
+        <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+         ISBN
+        </a>
+        <a href="/wiki/Special:BookSources/3-050-03559-5" title="Special:BookSources/3-050-03559-5">
+         3-050-03559-5
+        </a>
+        .
+       </li>
+       <li>
+        Comrie, B. (1989). Language universals and linguistic typology: Syntax and morphology. Oxford: Blackwell, 2nd edn.
+        <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+         ISBN
+        </a>
+        <a href="/wiki/Special:BookSources/0-226-11433-3" title="Special:BookSources/0-226-11433-3">
+         0-226-11433-3
+        </a>
+        .
+       </li>
+       <li>
+        Croft, W. (2002). Typology and universals. Cambridge: Cambridge UP. 2nd ed.
+        <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+         ISBN
+        </a>
+        <a href="/wiki/Special:BookSources/0-521-00499-3" title="Special:BookSources/0-521-00499-3">
+         0-521-00499-3
+        </a>
+        .
+       </li>
+       <li>
+        Cysouw, M. (2005).
+        <a class="external text" href="http://www.cysouw.de/home/articles_files/cysouwQUANTMETHOD.pdf" rel="nofollow">
+         Quantitative methods in typology
+        </a>
+        . Quantitative linguistics: an international handbook, ed. by Gabriel Altmann, Reinhard Köhler and R. Piotrowski. Berlin: Mouton de Gruyter.
+        <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+         ISBN
+        </a>
+        <a href="/wiki/Special:BookSources/3-11-015578-8" title="Special:BookSources/3-11-015578-8">
+         3-11-015578-8
+        </a>
+        .
+       </li>
+       <li>
+        Grijzenhout, J. (2009). Phonological domains : universals and deviations. Berlin ;New York: Mouton de Gruyter.
+        <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+         ISBN
+        </a>
+        <a href="/wiki/Special:BookSources/3-110-20540-8" title="Special:BookSources/3-110-20540-8">
+         3-110-20540-8
+        </a>
+        .
+       </li>
+       <li>
+        Nichols, J. (1992).
+        <a class="mw-redirect" href="/wiki/Linguistic_diversity_in_space_and_time" title="Linguistic diversity in space and time">
+         Linguistic diversity in space and time
+        </a>
+        . Chicago: University of Chicago Press.
+        <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+         ISBN
+        </a>
+        <a href="/wiki/Special:BookSources/0-226-58057-1" title="Special:BookSources/0-226-58057-1">
+         0-226-58057-1
+        </a>
+        .
+       </li>
+       <li>
+        Nichols, J. (2007).
+        <a class="external text" href="http://www.reference-global.com/doi/abs/10.1515/LINGTY.2007.017" rel="nofollow">
+         What, if anything, is typology?
+        </a>
+        <sup class="noprint Inline-Template">
+         <span style="white-space: nowrap;">
+          [
+          <i>
+           <a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot">
+            <span title=" Dead link since December 2017">
+             permanent dead link
+            </span>
+           </a>
+          </i>
+          ]
+         </span>
+        </sup>
+        Linguistic Typology. Volume 11, Issue 1, Pages 231–238, ISSN (Online) 1613-415X, ISSN (Print) 1430-0532,
+        <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+         doi
+        </a>
+        :
+        <a class="external text" href="https://doi.org/10.1515%2FLINGTY.2007.017" rel="nofollow">
+         10.1515/LINGTY.2007.017
+        </a>
+        , July 2007
+       </li>
+       <li>
+        Song, J.J. (2001). Linguistic typology: Morphology and syntax. Harlow and London: Pearson Education (Longman).
+        <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+         ISBN
+        </a>
+        <a href="/wiki/Special:BookSources/0-582-31220-5" title="Special:BookSources/0-582-31220-5">
+         0-582-31220-5
+        </a>
+        .
+       </li>
+       <li>
+        Song, J.J. (ed.) (2011). The Oxford Handbook of Linguistic Typology. Oxford: Oxford University Press.
+        <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+         ISBN
+        </a>
+        <a href="/wiki/Special:BookSources/978-0-19-928125-1" title="Special:BookSources/978-0-19-928125-1">
+         978-0-19-928125-1
+        </a>
+        .
+       </li>
+       <li>
+        Whaley, L.J. (1997). Introduction to typology: The unity and diversity of language. Newbury Park: Sage.
+        <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+         ISBN
+        </a>
+        <a href="/wiki/Special:BookSources/0-8039-5963-X" title="Special:BookSources/0-8039-5963-X">
+         0-8039-5963-X
+        </a>
+        .
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="External_links">
+        External links
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Linguistic_typology&amp;action=edit&amp;section=10" title="Edit section: External links">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a class="external text" href="http://www.linguistic-typology.org/" rel="nofollow">
+         Association for Linguistic Typology
+        </a>
+       </li>
+       <li>
+        Ivan G. Iliev. On the Nature of Grammatical Case, Language Typology, and on the Origin of Cognate Objects and Subjects.
+        <a class="external autonumber" href="http://ivanilievlogosmaster.blogspot.com/2011/11/casetypologyvocativeness.html" rel="nofollow">
+         [1]
+        </a>
+       </li>
+       <li>
+        Plank, F. Themes in Typology: Basic Reading List.
+        <a class="external autonumber" href="https://web.archive.org/web/20051218182252/http://ling.uni-konstanz.de/pages/home/a20_11/plank/TypoThemesBib%3D2000.pdf" rel="nofollow">
+         [2]
+        </a>
+       </li>
+       <li>
+        Bickel, B. (2001). What is typology? - a short note.
+        <a class="external autonumber" href="http://www.uni-leipzig.de/~bickel/research/papers/manifesto.pdf" rel="nofollow">
+         [3]
+        </a>
+       </li>
+       <li>
+        Bickel, B. (2005). Typology in the 21st century: major developments.
+        <a class="external autonumber" href="http://www.uni-leipzig.de/~bickel/research/papers/21century_typology_bickel_submitted.pdf" rel="nofollow">
+         [4]
+        </a>
+       </li>
+       <li>
+        <cite class="citation web">
+         <a class="external text" href="http://www.uio.no/studier/emner/hf/ikos/EXFAC03-AAS/h05/larestoff/linguistics/Chapter%204.(H05).pdf" rel="nofollow">
+          "Linguistic typology"
+         </a>
+         <span style="font-size:85%;">
+          (PDF)
+         </span>
+         .
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Linguistic+typology&amp;rft_id=http%3A%2F%2Fwww.uio.no%2Fstudier%2Femner%2Fhf%2Fikos%2FEXFAC03-AAS%2Fh05%2Flarestoff%2Flinguistics%2FChapter%25204.%28H05%29.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALinguistic+typology">
+         <span style="display:none;">
+         </span>
+        </span>
+        <small>
+         (275
+         <a href="/wiki/Kibibyte" title="Kibibyte">
+          KiB
+         </a>
+         )
+        </small>
+        , chapter 4 of
+        <a class="external text" href="http://www.uio.no/studier/emner/hf/ikos/EXFAC03-AAS/h05/larestoff/linguistics/" rel="nofollow">
+         Halvor Eifring &amp; Rolf Theil:
+         <i>
+          Linguistics for Students of Asian and African Languages
+         </i>
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://wals.info" rel="nofollow">
+         World Atlas of Language Structures
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://www.degruyter.com/view/j/lity" rel="nofollow">
+         Linguistic Typology
+        </a>
+       </li>
+      </ul>
+      <div aria-label="Navbox" class="navbox" role="navigation" style="padding:3px">
+       <table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          <a href="/wiki/Help:Authority_control" title="Help:Authority control">
+           Authority control
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <span class="nowrap">
+              <a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">
+               GND
+              </a>
+              :
+              <span class="uid">
+               <a class="external text" href="https://d-nb.info/gnd/4056503-8" rel="nofollow">
+                4056503-8
+               </a>
+              </span>
+             </span>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+       </table>
+      </div>
+      <!-- 
+NewPP limit report
+Parsed by mw1250
+Cached time: 20180124205920
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.248 seconds
+Real time usage: 0.328 seconds
+Preprocessor visited node count: 3301/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 39536/2097152 bytes
+Template argument size: 6326/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 4/500
+Lua time usage: 0.108/10.000 seconds
+Lua memory usage: 4.37 MB/50 MB
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  292.649      1 -total
+ 27.50%   80.468      1 Template:Reflist
+ 20.67%   60.480     10 Template:ISBN
+ 19.82%   58.003      1 Template:More_footnotes
+ 13.61%   39.820      4 Template:Fix
+ 12.67%   37.075      1 Template:Ambox
+ 12.18%   35.646      2 Template:Cite_web
+  8.22%   24.056      1 Template:Who
+  7.93%   23.216      1 Template:Authority_control
+  7.74%   22.653     10 Template:Catalog_lookup_link
+-->
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:48854-0!canonical and timestamp 20180124205919 and revision id 816798821
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Linguistic_typology&amp;oldid=816798821">
+      https://en.wikipedia.org/w/index.php?title=Linguistic_typology&amp;oldid=816798821
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Linguistic_typology" title="Category:Linguistic typology">
+         Linguistic typology
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Language_comparison" title="Category:Language comparison">
+         Language comparison
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:CS1_German-language_sources_(de)" title="Category:CS1 German-language sources (de)">
+         CS1 German-language sources (de)
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_lacking_in-text_citations_from_March_2010" title="Category:Articles lacking in-text citations from March 2010">
+         Articles lacking in-text citations from March 2010
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:All_articles_lacking_in-text_citations" title="Category:All articles lacking in-text citations">
+         All articles lacking in-text citations
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:All_articles_with_specifically_marked_weasel-worded_phrases" title="Category:All articles with specifically marked weasel-worded phrases">
+         All articles with specifically marked weasel-worded phrases
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_with_specifically_marked_weasel-worded_phrases_from_March_2017" title="Category:Articles with specifically marked weasel-worded phrases from March 2017">
+         Articles with specifically marked weasel-worded phrases from March 2017
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">
+         All articles with unsourced statements
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_with_unsourced_statements_from_May_2017" title="Category:Articles with unsourced statements from May 2017">
+         Articles with unsourced statements from May 2017
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">
+         All articles with dead external links
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_with_dead_external_links_from_December_2017" title="Category:Articles with dead external links from December 2017">
+         Articles with dead external links from December 2017
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_with_permanently_dead_external_links" title="Category:Articles with permanently dead external links">
+         Articles with permanently dead external links
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">
+         Wikipedia articles with GND identifiers
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Linguistic+typology" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Linguistic+typology" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Linguistic_typology" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Linguistic_typology" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="collapsible selected" id="ca-view">
+        <span>
+         <a href="/wiki/Linguistic_typology">
+          Read
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Linguistic_typology&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Linguistic_typology&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Linguistic_typology" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Linguistic_typology" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Linguistic_typology&amp;oldid=816798821" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Linguistic_typology&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q192625" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Linguistic_typology&amp;id=816798821" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Linguistic+typology">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Linguistic+typology&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Linguistic_typology&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-af">
+        <a class="interlanguage-link-target" href="https://af.wikipedia.org/wiki/Taaltipologie" hreflang="af" lang="af" title="Taaltipologie – Afrikaans">
+         Afrikaans
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ar">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%AA%D8%B5%D9%86%D9%8A%D9%81_%D8%A7%D9%84%D9%84%D8%BA%D8%A7%D8%AA_%D9%86%D9%85%D8%B7%D9%8A%D8%A7" hreflang="ar" lang="ar" title="تصنيف اللغات نمطيا – Arabic">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bn">
+        <a class="interlanguage-link-target" href="https://bn.wikipedia.org/wiki/%E0%A6%AD%E0%A6%BE%E0%A6%B7%E0%A6%BE%E0%A6%A4%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%AC%E0%A6%BF%E0%A6%95_%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A7%80%E0%A6%95%E0%A6%B0%E0%A6%A3%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE" hreflang="bn" lang="bn" title="ভাষাতাত্ত্বিক শ্রেণীকরণবিদ্যা – Bangla">
+         বাংলা
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-be">
+        <a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%A2%D1%8B%D0%BF%D0%B0%D0%BB%D0%BE%D0%B3%D1%96%D1%8F_%D0%BC%D0%BE%D1%9E" hreflang="be" lang="be" title="Тыпалогія моў – Belarusian">
+         Беларуская
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-be-x-old">
+        <a class="interlanguage-link-target" href="https://be-x-old.wikipedia.org/wiki/%D0%A2%D1%8B%D0%BF%D0%B0%D0%BB%D1%91%D0%B3%D1%96%D1%8F_%D0%BC%D0%BE%D1%9E" hreflang="be-x-old" lang="be-x-old" title="Тыпалёгія моў – Belarusian (Taraškievica orthography)">
+         Беларуская (тарашкевіца)‎
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bg">
+        <a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%9B%D0%B8%D0%BD%D0%B3%D0%B2%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%BD%D0%B0_%D1%82%D0%B8%D0%BF%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" hreflang="bg" lang="bg" title="Лингвистична типология – Bulgarian">
+         Български
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Tipologia_ling%C3%BC%C3%ADstica" hreflang="ca" lang="ca" title="Tipologia lingüística – Catalan">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cs">
+        <a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Typologick%C3%A1_klasifikace_jazyk%C5%AF" hreflang="cs" lang="cs" title="Typologická klasifikace jazyků – Czech">
+         Čeština
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cy">
+        <a class="interlanguage-link-target" href="https://cy.wikipedia.org/wiki/Teipoleg_ieithyddol" hreflang="cy" lang="cy" title="Teipoleg ieithyddol – Welsh">
+         Cymraeg
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-da">
+        <a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Sprogtypologi" hreflang="da" lang="da" title="Sprogtypologi – Danish">
+         Dansk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Sprachtypologie" hreflang="de" lang="de" title="Sprachtypologie – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-et">
+        <a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Keelet%C3%BCpoloogia" hreflang="et" lang="et" title="Keeletüpoloogia – Estonian">
+         Eesti
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-el">
+        <a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%93%CE%BB%CF%89%CF%83%CF%83%CE%B9%CE%BA%CE%AE_%CF%84%CF%85%CF%80%CE%BF%CE%BB%CE%BF%CE%B3%CE%AF%CE%B1" hreflang="el" lang="el" title="Γλωσσική τυπολογία – Greek">
+         Ελληνικά
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Tipolog%C3%ADa_ling%C3%BC%C3%ADstica" hreflang="es" lang="es" title="Tipología lingüística – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eo">
+        <a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Lingva_tipologio" hreflang="eo" lang="eo" title="Lingva tipologio – Esperanto">
+         Esperanto
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fa">
+        <a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%B1%D8%AF%D9%87%E2%80%8C%D8%B4%D9%86%D8%A7%D8%B3%DB%8C_%D8%B2%D8%A8%D8%A7%D9%86%DB%8C" hreflang="fa" lang="fa" title="رده‌شناسی زبانی – Persian">
+         فارسی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Typologie_des_langues" hreflang="fr" lang="fr" title="Typologie des langues – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ga">
+        <a class="interlanguage-link-target" href="https://ga.wikipedia.org/wiki/Uilithe_teangeola%C3%ADocha" hreflang="ga" lang="ga" title="Uilithe teangeolaíocha – Irish">
+         Gaeilge
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-gl">
+        <a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Tipolox%C3%ADa_ling%C3%BC%C3%ADstica" hreflang="gl" lang="gl" title="Tipoloxía lingüística – Galician">
+         Galego
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ko">
+        <a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%96%B8%EC%96%B4%EC%9C%A0%ED%98%95%ED%95%99" hreflang="ko" lang="ko" title="언어유형학 – Korean">
+         한국어
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hy">
+        <a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D4%BC%D5%A5%D5%A6%D5%BE%D5%A1%D5%A2%D5%A1%D5%B6%D5%A1%D5%AF%D5%A1%D5%B6_%D5%BF%D5%AB%D5%BA%D5%A1%D5%A2%D5%A1%D5%B6%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6" hreflang="hy" lang="hy" title="Լեզվաբանական տիպաբանություն – Armenian">
+         Հայերեն
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-io">
+        <a class="interlanguage-link-target" href="https://io.wikipedia.org/wiki/Tipologio" hreflang="io" lang="io" title="Tipologio – Ido">
+         Ido
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-id">
+        <a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Tipologi_(linguistik)" hreflang="id" lang="id" title="Tipologi (linguistik) – Indonesian">
+         Bahasa Indonesia
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Tipologia_linguistica" hreflang="it" lang="it" title="Tipologia linguistica – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-he">
+        <a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%98%D7%99%D7%A4%D7%95%D7%9C%D7%95%D7%92%D7%99%D7%94_(%D7%91%D7%9C%D7%A9%D7%A0%D7%95%D7%AA)" hreflang="he" lang="he" title="טיפולוגיה (בלשנות) – Hebrew">
+         עברית
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-kk">
+        <a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/%D0%A2%D0%B8%D0%BF%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" hreflang="kk" lang="kk" title="Типология – Kazakh">
+         Қазақша
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-la">
+        <a class="interlanguage-link-target" href="https://la.wikipedia.org/wiki/Typologia_linguistica" hreflang="la" lang="la" title="Typologia linguistica – Latin">
+         Latina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hu">
+        <a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Nyelvtipol%C3%B3gia" hreflang="hu" lang="hu" title="Nyelvtipológia – Hungarian">
+         Magyar
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-mk">
+        <a class="interlanguage-link-target" href="https://mk.wikipedia.org/wiki/%D0%88%D0%B0%D0%B7%D0%B8%D1%87%D0%BD%D0%B0_%D1%82%D0%B8%D0%BF%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%98%D0%B0" hreflang="mk" lang="mk" title="Јазична типологија – Macedonian">
+         Македонски
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nl">
+        <a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Taaltypologie" hreflang="nl" lang="nl" title="Taaltypologie – Dutch">
+         Nederlands
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E8%A8%80%E8%AA%9E%E9%A1%9E%E5%9E%8B%E8%AB%96" hreflang="ja" lang="ja" title="言語類型論 – Japanese">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-no">
+        <a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Spr%C3%A5ktypologi" hreflang="no" lang="no" title="Språktypologi – Norwegian">
+         Norsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nn">
+        <a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Spr%C3%A5ktypologi" hreflang="nn" lang="nn" title="Språktypologi – Norwegian Nynorsk">
+         Norsk nynorsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-oc">
+        <a class="interlanguage-link-target" href="https://oc.wikipedia.org/wiki/Tipologia_de_las_lengas" hreflang="oc" lang="oc" title="Tipologia de las lengas – Occitan">
+         Occitan
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pl">
+        <a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Typologia_j%C4%99zyk%C3%B3w" hreflang="pl" lang="pl" title="Typologia języków – Polish">
+         Polski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Tipologia_lingu%C3%ADstica" hreflang="pt" lang="pt" title="Tipologia linguística – Portuguese">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ro">
+        <a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Tipologie_lingvistic%C4%83" hreflang="ro" lang="ro" title="Tipologie lingvistică – Romanian">
+         Română
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%A2%D0%B8%D0%BF%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F_(%D0%BB%D0%B8%D0%BD%D0%B3%D0%B2%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0)" hreflang="ru" lang="ru" title="Типология (лингвистика) – Russian">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fi">
+        <a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Lingvistinen_typologia" hreflang="fi" lang="fi" title="Lingvistinen typologia – Finnish">
+         Suomi
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sv">
+        <a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Spr%C3%A5ktypologi" hreflang="sv" lang="sv" title="Språktypologi – Swedish">
+         Svenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ta">
+        <a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%AE%E0%AF%8A%E0%AE%B4%E0%AE%BF%E0%AE%AF%E0%AE%BF%E0%AE%AF%E0%AE%B2%E0%AF%8D_%E0%AE%89%E0%AE%B0%E0%AF%81%E0%AE%B5%E0%AE%BF%E0%AE%AF%E0%AE%AE%E0%AF%8D" hreflang="ta" lang="ta" title="மொழியியல் உருவியம் – Tamil">
+         தமிழ்
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E8%AF%AD%E8%A8%80%E7%B1%BB%E5%9E%8B%E5%AD%A6" hreflang="zh" lang="zh" title="语言类型学 – Chinese">
+         中文
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q192625#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 23 December 2017, at 19:46.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Linguistic_typology&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.248","walltime":"0.328","ppvisitednodes":{"value":3301,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":39536,"limit":2097152},"templateargumentsize":{"value":6326,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  292.649      1 -total"," 27.50%   80.468      1 Template:Reflist"," 20.67%   60.480     10 Template:ISBN"," 19.82%   58.003      1 Template:More_footnotes"," 13.61%   39.820      4 Template:Fix"," 12.67%   37.075      1 Template:Ambox"," 12.18%   35.646      2 Template:Cite_web","  8.22%   24.056      1 Template:Who","  7.93%   23.216      1 Template:Authority_control","  7.74%   22.653     10 Template:Catalog_lookup_link"]},"scribunto":{"limitreport-timeusage":{"value":"0.108","limit":"10.000"},"limitreport-memusage":{"value":4582268,"limit":52428800}},"cachereport":{"origin":"mw1250","timestamp":"20180124205920","ttl":1900800,"transientcontent":false}}});});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":74,"wgHostname":"mw1320"});});
+  </script>
+ </body>
+</html>

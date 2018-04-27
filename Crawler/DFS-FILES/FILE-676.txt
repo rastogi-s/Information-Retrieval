@@ -1,0 +1,3248 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Stress (linguistics) - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Stress_(linguistics)","wgTitle":"Stress (linguistics)","wgCurRevisionId":819838338,"wgRevisionId":819838338,"wgArticleId":171782,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: Extra text","All articles with unsourced statements","Articles with unsourced statements from September 2014","Articles which use infobox templates with no data rows","Phonetics","Stress (linguistics)","Phonology","Poetic rhythm"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Stress_(linguistics)","wgRelevantArticleId":171782,"wgRequestId":"Wm@76ApAIC0AAFJ0KhgAAACE","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Unstressed_vowel","wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgInternalRedirectTargetUrl":"/wiki/Stress_(linguistics)","wgWikibaseItemId":"Q181767","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["mediawiki.action.view.redirect","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.31.0-wmf.17" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Stress_(linguistics)" rel="alternate"/>
+  <link href="/w/index.php?title=Stress_(linguistics)&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Stress_(linguistics)&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/Stress_(linguistics)" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Stress_linguistics rootpage-Stress_linguistics skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Stress (linguistics)
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+     <span class="mw-redirectedfrom">
+      (Redirected from
+      <a class="mw-redirect" href="/w/index.php?title=Unstressed_vowel&amp;redirect=no" title="Unstressed vowel">
+       Unstressed vowel
+      </a>
+      )
+     </span>
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <div class="hatnote navigation-not-searchable" role="note">
+       Not to be confused with
+       <a href="/wiki/Accent_(sociolinguistics)" title="Accent (sociolinguistics)">
+        accent (sociolinguistics)
+       </a>
+       .
+      </div>
+      <table class="infobox" style="width:22em;width: 16em;">
+       <tr>
+        <th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;background: #f2f2ce;">
+         Primary stress
+        </th>
+       </tr>
+       <tr>
+        <th colspan="2" style="text-align:center;background: #ffffe6;">
+         <span style="font-size: 5em; line-height: 1.2em; vertical-align: super; font-weight: normal;">
+          <span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)">
+           ˈ◌
+          </span>
+         </span>
+        </th>
+       </tr>
+       <tr>
+        <th scope="row">
+         <a class="mw-redirect" href="/wiki/IPA_number" title="IPA number">
+          IPA number
+         </a>
+        </th>
+        <td>
+         501
+        </td>
+       </tr>
+       <tr>
+        <th colspan="2" style="text-align:center;background: #ffffe6;">
+         Encoding
+        </th>
+       </tr>
+       <tr>
+        <th scope="row">
+         Entity
+         <small>
+          (decimal)
+         </small>
+        </th>
+        <td>
+         <code>
+          &amp;#712;
+         </code>
+        </td>
+       </tr>
+       <tr>
+        <th scope="row">
+         Unicode
+         <small>
+          (hex)
+         </small>
+        </th>
+        <td>
+         U+02C8
+        </td>
+       </tr>
+      </table>
+      <table class="infobox" style="width:22em;width: 16em;">
+       <tr>
+        <th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;background: #f2f2ce;">
+         Secondary stress
+        </th>
+       </tr>
+       <tr>
+        <th colspan="2" style="text-align:center;background: #ffffe6;">
+         <span style="font-size: 5em; line-height: 1.2em; vertical-align: super; font-weight: normal;">
+          <span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)">
+           ˌ◌
+          </span>
+         </span>
+        </th>
+       </tr>
+       <tr>
+        <th scope="row">
+         <a class="mw-redirect" href="/wiki/IPA_number" title="IPA number">
+          IPA number
+         </a>
+        </th>
+        <td>
+         502
+        </td>
+       </tr>
+       <tr>
+        <th colspan="2" style="text-align:center;background: #ffffe6;">
+         Encoding
+        </th>
+       </tr>
+       <tr>
+        <th scope="row">
+         Entity
+         <small>
+          (decimal)
+         </small>
+        </th>
+        <td>
+         <code>
+          ​&amp;#716;
+         </code>
+        </td>
+       </tr>
+       <tr>
+        <th scope="row">
+         Unicode
+         <small>
+          (hex)
+         </small>
+        </th>
+        <td>
+         U+02CC
+        </td>
+       </tr>
+      </table>
+      <p>
+       In
+       <a href="/wiki/Linguistics" title="Linguistics">
+        linguistics
+       </a>
+       , and particularly
+       <a href="/wiki/Phonology" title="Phonology">
+        phonology
+       </a>
+       ,
+       <b>
+        stress
+       </b>
+       or
+       <b>
+        accent
+       </b>
+       is relative emphasis or prominence given to a certain
+       <a href="/wiki/Syllable" title="Syllable">
+        syllable
+       </a>
+       in a word, or to a certain word in a phrase or sentence. This emphasis is typically caused by such properties as increased
+       <a href="/wiki/Loudness" title="Loudness">
+        loudness
+       </a>
+       and
+       <a href="/wiki/Vowel_length" title="Vowel length">
+        vowel length
+       </a>
+       , full articulation of the vowel, and changes in
+       <a href="/wiki/Pitch_(music)" title="Pitch (music)">
+        pitch
+       </a>
+       . The terms
+       <i>
+        stress
+       </i>
+       and
+       <i>
+        accent
+       </i>
+       are often used synonymously in this context, but they are sometimes distinguished, with
+       <i>
+        accent
+       </i>
+       being more strictly sound-based (auditory). For example, when emphasis is produced through pitch alone, it is called
+       <i>
+        pitch accent
+       </i>
+       , and when produced through length alone, it is called
+       <i>
+        quantitative accent
+       </i>
+       .
+       <sup class="reference" id="cite_ref-Monrad_1-0">
+        <a href="#cite_note-Monrad-1">
+         [1]
+        </a>
+       </sup>
+       When caused by a combination of various intensified properties, it is called
+       <i>
+        stress accent
+       </i>
+       or
+       <i>
+        dynamic accent
+       </i>
+       ; English uses what is called variable stress accent.
+      </p>
+      <p>
+       The stress placed on syllables within words is called
+       <b>
+        word stress
+       </b>
+       or
+       <b>
+        lexical stress
+       </b>
+       . Some languages have
+       <i>
+        fixed stress
+       </i>
+       , meaning that the stress on virtually any multisyllable word falls on a particular syllable, such as the first or the penultimate. Other languages, like
+       <a href="/wiki/Stress_and_vowel_reduction_in_English" title="Stress and vowel reduction in English">
+        English
+       </a>
+       , have
+       <i>
+        variable stress
+       </i>
+       , where the position of stress in a word is not predictable in that way. Sometimes more than one level of stress, such as
+       <i>
+        primary stress
+       </i>
+       and
+       <i>
+        <a href="/wiki/Secondary_stress" title="Secondary stress">
+         secondary stress
+        </a>
+       </i>
+       , may be identified. However, some languages, such as
+       <a href="/wiki/French_language" title="French language">
+        French
+       </a>
+       and
+       <a href="/wiki/Standard_Chinese_phonology" title="Standard Chinese phonology">
+        Mandarin
+       </a>
+       , are sometimes analyzed as lacking lexical stress entirely.
+      </p>
+      <p>
+       The stress placed on words within sentences is called
+       <b>
+        sentence stress
+       </b>
+       or
+       <b>
+        prosodic stress
+       </b>
+       . This is one of the three components of
+       <a href="/wiki/Prosody_(linguistics)" title="Prosody (linguistics)">
+        prosody
+       </a>
+       , along with
+       <a href="/wiki/Isochrony" title="Isochrony">
+        rhythm
+       </a>
+       and
+       <a href="/wiki/Intonation_(linguistics)" title="Intonation (linguistics)">
+        intonation
+       </a>
+       . It includes
+       <b>
+        phrasal stress
+       </b>
+       (the default emphasis of certain words within
+       <a class="mw-redirect" href="/wiki/Phrase_(linguistics)" title="Phrase (linguistics)">
+        phrases
+       </a>
+       or clauses), and
+       <b>
+        contrastive stress
+       </b>
+       (used to highlight an item − a word, or occasionally just part of a word − that is given particular focus).
+      </p>
+      <p>
+      </p>
+      <div class="toc" id="toc">
+       <div class="toctitle" dir="ltr" lang="en" xml:lang="en">
+        <h2>
+         Contents
+        </h2>
+       </div>
+       <ul>
+        <li class="toclevel-1 tocsection-1">
+         <a href="#Phonetic_realization">
+          <span class="tocnumber">
+           1
+          </span>
+          <span class="toctext">
+           Phonetic realization
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-2">
+         <a href="#Lexical_stress">
+          <span class="tocnumber">
+           2
+          </span>
+          <span class="toctext">
+           Lexical stress
+          </span>
+         </a>
+         <ul>
+          <li class="toclevel-2 tocsection-3">
+           <a href="#Levels_of_stress">
+            <span class="tocnumber">
+             2.1
+            </span>
+            <span class="toctext">
+             Levels of stress
+            </span>
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="toclevel-1 tocsection-4">
+         <a href="#Prosodic_stress">
+          <span class="tocnumber">
+           3
+          </span>
+          <span class="toctext">
+           Prosodic stress
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-5">
+         <a href="#Stress_and_vowel_reduction">
+          <span class="tocnumber">
+           4
+          </span>
+          <span class="toctext">
+           Stress and vowel reduction
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-6">
+         <a href="#Stress_and_rhythm">
+          <span class="tocnumber">
+           5
+          </span>
+          <span class="toctext">
+           Stress and rhythm
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-7">
+         <a href="#Historical_effects_of_stress">
+          <span class="tocnumber">
+           6
+          </span>
+          <span class="toctext">
+           Historical effects of stress
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-8">
+         <a href='#Stress_"deafness"'>
+          <span class="tocnumber">
+           7
+          </span>
+          <span class="toctext">
+           Stress "deafness"
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-9">
+         <a href="#Spelling_and_notation_for_stress">
+          <span class="tocnumber">
+           8
+          </span>
+          <span class="toctext">
+           Spelling and notation for stress
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-10">
+         <a href="#See_also">
+          <span class="tocnumber">
+           9
+          </span>
+          <span class="toctext">
+           See also
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-11">
+         <a href="#References">
+          <span class="tocnumber">
+           10
+          </span>
+          <span class="toctext">
+           References
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-12">
+         <a href="#External_links">
+          <span class="tocnumber">
+           11
+          </span>
+          <span class="toctext">
+           External links
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <p>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Phonetic_realization">
+        Phonetic realization
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Stress_(linguistics)&amp;action=edit&amp;section=1" title="Edit section: Phonetic realization">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       There are various ways in which stress manifests itself in the speech stream, and these depend to some extent on which language is being spoken. Stressed syllables are often
+       <a href="/wiki/Loudness" title="Loudness">
+        louder
+       </a>
+       than non-stressed syllables, and may have a higher or lower
+       <a href="/wiki/Pitch_(music)" title="Pitch (music)">
+        pitch
+       </a>
+       . They may also sometimes be pronounced
+       <a href="/wiki/Vowel_length" title="Vowel length">
+        longer
+       </a>
+       . There are sometimes differences in
+       <a href="/wiki/Place_of_articulation" title="Place of articulation">
+        place
+       </a>
+       or
+       <a href="/wiki/Manner_of_articulation" title="Manner of articulation">
+        manner of articulation
+       </a>
+       – in particular, vowels in unstressed syllables may have a more central (or "
+       <a class="mw-redirect" href="/wiki/Neutral_vowel" title="Neutral vowel">
+        neutral
+       </a>
+       ") articulation, while those in stressed syllables have a more peripheral articulation. Stress may be realized to varying degrees on different words in a sentence; sometimes the difference between the acoustic signals of stressed and unstressed syllables are minimal.
+      </p>
+      <p>
+       These particular distinguishing features of stress, or types of prominence in which particular features are dominant, are sometimes referred to as particular types of accent –
+       <i>
+        dynamic accent
+       </i>
+       in the case of loudness,
+       <i>
+        <a href="/wiki/Pitch_accent" title="Pitch accent">
+         pitch accent
+        </a>
+       </i>
+       in the case of pitch (although this term usually has more specialized meanings),
+       <i>
+        quantitative accent
+       </i>
+       in the case of length,
+       <sup class="reference" id="cite_ref-Monrad_1-1">
+        <a href="#cite_note-Monrad-1">
+         [1]
+        </a>
+       </sup>
+       and
+       <i>
+        qualitative accent
+       </i>
+       in the case of differences in articulation. These can be compared to the various types of
+       <a href="/wiki/Accent_(music)" title="Accent (music)">
+        accent in music theory
+       </a>
+       . In some contexts, the term
+       <i>
+        stress
+       </i>
+       or
+       <i>
+        stress accent
+       </i>
+       is used to mean specifically dynamic accent (or as an antonym to
+       <i>
+        pitch accent
+       </i>
+       in its various meanings).
+      </p>
+      <p>
+       A prominent syllable or word is said to be
+       <i>
+        accented
+       </i>
+       or
+       <i>
+        tonic
+       </i>
+       ; the latter term does not imply that it carries
+       <a class="mw-redirect" href="/wiki/Phonemic_tone" title="Phonemic tone">
+        phonemic tone
+       </a>
+       . Other syllables or words are said to be
+       <i>
+        unaccented
+       </i>
+       or
+       <i>
+        atonic
+       </i>
+       . Syllables are frequently said to be in
+       <i>
+        pretonic
+       </i>
+       or
+       <i>
+        post-tonic
+       </i>
+       position; certain phonological rules apply specifically to such positions. For instance, in American English, /t/ and /d/ are
+       <a class="mw-redirect" href="/wiki/Intervocalic_alveolar_flapping" title="Intervocalic alveolar flapping">
+        flapped
+       </a>
+       in post-tonic position.
+      </p>
+      <p>
+       In
+       <a href="/wiki/Standard_Chinese" title="Standard Chinese">
+        Mandarin Chinese
+       </a>
+       , which is a
+       <a class="mw-redirect" href="/wiki/Tone_language" title="Tone language">
+        tone language
+       </a>
+       , stressed syllables have been found to have tones realized with a relatively large swing in
+       <a href="/wiki/Fundamental_frequency" title="Fundamental frequency">
+        fundamental frequency
+       </a>
+       , while unstressed syllables typically have smaller swings.
+       <sup class="reference" id="cite_ref-2">
+        <a href="#cite_note-2">
+         [2]
+        </a>
+       </sup>
+       (See also
+       <a class="mw-redirect" href="/wiki/Stress_in_Standard_Chinese" title="Stress in Standard Chinese">
+        Stress in Standard Chinese
+       </a>
+       .)
+      </p>
+      <p>
+       Stressed syllables are often perceived as being more forceful than non-stressed syllables. Research has shown, however, that although dynamic accent is accompanied by greater
+       <a href="/wiki/Respiratory_system" title="Respiratory system">
+        respiratory
+       </a>
+       force, it does not mean a more forceful
+       <a href="/wiki/Manner_of_articulation" title="Manner of articulation">
+        articulation
+       </a>
+       in the
+       <a href="/wiki/Vocal_tract" title="Vocal tract">
+        vocal tract
+       </a>
+       .
+       <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+        [
+        <i>
+         <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+          <span title="This claim needs references to reliable sources. (September 2014)">
+           citation needed
+          </span>
+         </a>
+        </i>
+        ]
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Lexical_stress">
+        Lexical stress
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Stress_(linguistics)&amp;action=edit&amp;section=2" title="Edit section: Lexical stress">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       Lexical stress, or
+       <b>
+        word stress
+       </b>
+       , is the stress placed on a given syllable in a word. The position of lexical stress in a word may depend on certain general rules applicable in the language or
+       <a href="/wiki/Dialect" title="Dialect">
+        dialect
+       </a>
+       in question, but in other languages, it must be learned for each word, as it is largely unpredictable.
+      </p>
+      <p>
+       Languages in which position of the stress can usually be predicted by a simple rule are said to have
+       <i>
+        fixed stress
+       </i>
+       . For example, in
+       <a href="/wiki/Czech_language" title="Czech language">
+        Czech
+       </a>
+       ,
+       <a href="/wiki/Finnish_language" title="Finnish language">
+        Finnish
+       </a>
+       ,
+       <a href="/wiki/Icelandic_language" title="Icelandic language">
+        Icelandic
+       </a>
+       and
+       <a href="/wiki/Hungarian_language" title="Hungarian language">
+        Hungarian
+       </a>
+       , the stress almost always comes on the first syllable of a word. In
+       <a class="mw-redirect" href="/wiki/Armenian_Language" title="Armenian Language">
+        Armenian
+       </a>
+       the stress is on the last syllable of a word.
+       <sup class="reference" id="cite_ref-3">
+        <a href="#cite_note-3">
+         [3]
+        </a>
+       </sup>
+       In
+       <a class="mw-redirect" href="/wiki/Quechua_language" title="Quechua language">
+        Quechua
+       </a>
+       and
+       <a href="/wiki/Polish_language" title="Polish language">
+        Polish
+       </a>
+       , the stress is almost always on the
+       <a href="/wiki/Penult" title="Penult">
+        penult
+       </a>
+       (second-last syllable). In
+       <a class="mw-redirect" href="/wiki/Stress_in_Macedonian_language" title="Stress in Macedonian language">
+        Macedonian
+       </a>
+       , it is on the
+       <a class="mw-redirect" href="/wiki/Antepenult" title="Antepenult">
+        antepenult
+       </a>
+       (third-last syllable).
+      </p>
+      <p>
+       Other languages have stress placed on different syllables but in a predictable way, as in
+       <a href="/wiki/Classical_Arabic" title="Classical Arabic">
+        Classical Arabic
+       </a>
+       and
+       <a href="/wiki/Latin" title="Latin">
+        Latin
+       </a>
+       (whose stress is conditioned by the structure of the penult). They are said to have a regular stress rule.
+      </p>
+      <p>
+       Statements about the position of stress are sometimes affected by the fact that when a word is spoken in isolation, prosodic factors (see below) come into play, which do not apply when the word is spoken normally within a sentence.
+       <a href="/wiki/French_phonology" title="French phonology">
+        French
+       </a>
+       words are sometimes said to be stressed on the final syllable, but that can be attributed to the prosodic stress that is placed on the last syllable (unless it is a
+       <a href="/wiki/Schwa" title="Schwa">
+        schwa
+       </a>
+       , when it is the second-last) of any string of words in that language. Thus, it is on the last syllable of a word analyzed in isolation. The situation is
+       <a class="mw-redirect" href="/wiki/Stress_in_Standard_Chinese" title="Stress in Standard Chinese">
+        similar in Standard Chinese
+       </a>
+       . French (some authors add Chinese
+       <sup class="reference" id="cite_ref-4">
+        <a href="#cite_note-4">
+         [4]
+        </a>
+       </sup>
+       ) can be considered to have no real lexical stress.
+      </p>
+      <p>
+       Languages in which the position of stress in a word is less predictable are said to have
+       <i>
+        variable stress
+       </i>
+       like
+       <a href="/wiki/English_language" title="English language">
+        English
+       </a>
+       ,
+       <a href="/wiki/Russian_language" title="Russian language">
+        Russian
+       </a>
+       ,
+       <a href="/wiki/Italian_language" title="Italian language">
+        Italian
+       </a>
+       ,
+       <a href="/wiki/Portuguese_language" title="Portuguese language">
+        Portuguese
+       </a>
+       and
+       <a href="/wiki/Spanish_language" title="Spanish language">
+        Spanish
+       </a>
+       . Stress is usually truly lexical and must be memorized as part of the pronunciation of an individual word. In some languages, such as in Spanish, in Portuguese and, to some extent in Italian, stress is even represented in writing using diacritical marks, for example in the Spanish words
+       <i>
+        c
+        <b>
+         é
+        </b>
+        lebre
+       </i>
+       and
+       <i>
+        celebr
+        <b>
+         é
+        </b>
+       </i>
+       . In Russian, diacritical marks are sometimes written for people learning the language, whether as a first or second language.
+      </p>
+      <p>
+       In such languages with
+       <i>
+        variable stress
+       </i>
+       , stress may be
+       <a href="/wiki/Phoneme" title="Phoneme">
+        phonemic
+       </a>
+       in that it can serve to distinguish otherwise identical words. For example, the English words
+       <i>
+        insight
+       </i>
+       and
+       <i>
+        incite
+       </i>
+       are distinguished in pronunciation only by the fact that the stress falls on the first syllable in the former and on the second syllable in the latter. Other examples include
+       <i>
+        <b>
+         um
+        </b>
+        schreiben
+       </i>
+       ("rewrite") vs.
+       <i>
+        um
+        <b>
+         schrei
+        </b>
+        ben
+       </i>
+       ("paraphrase, outline") in German, земли́ (
+       <a class="mw-redirect" href="/wiki/Genitive" title="Genitive">
+        genitive
+       </a>
+       of "earth, land") vs. зе́мли (
+       <a href="/wiki/Plural" title="Plural">
+        plural
+       </a>
+       of "earth, land") in Russian, and
+       <i>
+        <b>
+         an
+        </b>
+        cora
+       </i>
+       ("anchor"),
+       <i>
+        an
+        <b>
+         co
+        </b>
+        ra
+       </i>
+       ("more, still, yet") in Italian, and the triple example
+       <i>
+        sábia
+       </i>
+       ("wise woman"),
+       <i>
+        sabia
+       </i>
+       ("he/she knew"),
+       <i>
+        sabiá
+       </i>
+       ("true thrush") from Portuguese. English
+       <a class="mw-redirect" href="/wiki/Compound_nouns" title="Compound nouns">
+        compound nouns
+       </a>
+       can change their meaning based on stress, as with
+       <i>
+        paper bág
+       </i>
+       (a bag made of paper) and
+       <i>
+        páper bag
+       </i>
+       (a bag for carrying newspapers).
+      </p>
+      <p>
+       Dialects of the same language may have different stress placement. For instance, the English word
+       <i>
+        laboratory
+       </i>
+       is stressed on the second syllable in
+       <a href="/wiki/British_English" title="British English">
+        British English
+       </a>
+       (
+       <i>
+        labóratory
+       </i>
+       often pronounced "labóratry", the second
+       <i>
+        o
+       </i>
+       being silent), but the first syllable in
+       <a href="/wiki/American_English" title="American English">
+        American English
+       </a>
+       , with a secondary stress on the "tor' syllable (
+       <i>
+        láboratory
+       </i>
+       often pronounced "lábratory"). The Spanish word
+       <i>
+        video
+       </i>
+       is stressed on the first syllable in Spain (
+       <i>
+        vídeo
+       </i>
+       ) but on the second syllable in the Americas (
+       <i>
+        vidéo
+       </i>
+       ). The Portuguese words for
+       <a href="/wiki/Madagascar" title="Madagascar">
+        Madagascar
+       </a>
+       and the continent
+       <a href="/wiki/Oceania" title="Oceania">
+        Oceania
+       </a>
+       are stressed on the third syllable in
+       <a href="/wiki/European_Portuguese" title="European Portuguese">
+        European Portuguese
+       </a>
+       (
+       <i>
+        Madagáscar
+       </i>
+       and
+       <i>
+        Oceânia
+       </i>
+       ), but on the fourth syllable in
+       <a href="/wiki/Brazilian_Portuguese" title="Brazilian Portuguese">
+        Brazilian Portuguese
+       </a>
+       (
+       <i>
+        Madagascár
+       </i>
+       and
+       <i>
+        Oceanía
+       </i>
+       ).
+      </p>
+      <h3>
+       <span class="mw-headline" id="Levels_of_stress">
+        Levels of stress
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Stress_(linguistics)&amp;action=edit&amp;section=3" title="Edit section: Levels of stress">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <div class="hatnote navigation-not-searchable" role="note">
+       Main article:
+       <a href="/wiki/Secondary_stress" title="Secondary stress">
+        Secondary stress
+       </a>
+      </div>
+      <p>
+       Some languages are described as having both
+       <i>
+        primary stress
+       </i>
+       and
+       <i>
+        secondary stress
+       </i>
+       . A syllable with secondary stress is stressed relative to unstressed syllables but not as strongly as a syllable with primary stress. As with primary stress, the position of secondary stress may be more or less predictable depending on language. In English, it is not fully predictable: the words
+       <i>
+        organization
+       </i>
+       and
+       <i>
+        accumulation
+       </i>
+       both have primary stress on the fourth syllable, but the secondary stress comes on the first syllable in the former word and on the second syllable in the latter. In some analyses, for example the one found in Chomsky and Halle's
+       <i>
+        <a href="/wiki/The_Sound_Pattern_of_English" title="The Sound Pattern of English">
+         The Sound Pattern of English
+        </a>
+       </i>
+       , English has been described as having four levels of stress: primary, secondary, tertiary, and quaternary, but the treatments often disagree with one another.
+      </p>
+      <p>
+       <a href="/wiki/Peter_Ladefoged" title="Peter Ladefoged">
+        Peter Ladefoged
+       </a>
+       and other phoneticians have noted that it is possible to describe English with only one degree of stress, as long as
+       <a class="mw-redirect" href="/wiki/Unstressed_vowel" title="Unstressed vowel">
+        unstressed syllables
+       </a>
+       are phonemically distinguished for
+       <a href="/wiki/Vowel_reduction" title="Vowel reduction">
+        vowel reduction
+       </a>
+       .
+       <sup class="reference" id="cite_ref-Lad_5-0">
+        <a href="#cite_note-Lad-5">
+         [5]
+        </a>
+       </sup>
+       They believe that the multiple levels posited for English, whether
+       <i>
+        primary–secondary
+       </i>
+       or
+       <i>
+        primary–secondary–tertiary
+       </i>
+       , are mere
+       <a class="mw-redirect" href="/wiki/Phonetic" title="Phonetic">
+        phonetic
+       </a>
+       detail and not true
+       <a href="/wiki/Phoneme" title="Phoneme">
+        phonemic
+       </a>
+       stress, and often, the alleged secondary stress is not characterized by the increase in respiratory activity normally associated with primary stress in English or with all stress in other languages. (For further detail see
+       <a href="/wiki/Stress_and_vowel_reduction_in_English" title="Stress and vowel reduction in English">
+        Stress and vowel reduction in English
+       </a>
+       .)
+      </p>
+      <h2>
+       <span class="mw-headline" id="Prosodic_stress">
+        Prosodic stress
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Stress_(linguistics)&amp;action=edit&amp;section=4" title="Edit section: Prosodic stress">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <table class="infobox" style="width:22em;width: 16em;">
+       <tr>
+        <th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;background: #f2f2ce;">
+         Extra stress
+        </th>
+       </tr>
+       <tr>
+        <th colspan="2" style="text-align:center;background: #ffffe6;">
+         <span style="font-size: 5em; line-height: 1.2em; vertical-align: super; font-weight: normal;">
+          <span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)">
+           ˈˈ◌
+          </span>
+         </span>
+        </th>
+       </tr>
+      </table>
+      <p>
+       <i>
+        <a href="/wiki/Prosody_(linguistics)" title="Prosody (linguistics)">
+         Prosodic
+        </a>
+        stress
+       </i>
+       , or
+       <i>
+        sentence stress
+       </i>
+       , refers to stress patterns that apply at a higher level than the individual word – namely within a
+       <a href="/wiki/Prosodic_unit" title="Prosodic unit">
+        prosodic unit
+       </a>
+       . It may involve a certain natural stress pattern characteristic of a given language, but may also involve the placing of emphasis on particular words because of their relative importance (contrastive stress).
+      </p>
+      <p>
+       An example of a natural prosodic stress pattern is that described for
+       <a href="/wiki/French_language" title="French language">
+        French
+       </a>
+       above; stress is placed on the final syllable of a string of words (or if that is a
+       <a href="/wiki/Schwa" title="Schwa">
+        schwa
+       </a>
+       , the next-to-final syllable). A similar pattern has been claimed for English (see
+       <a href="#Levels_of_stress">
+        § Levels of stress
+       </a>
+       above): the traditional distinction between (lexical) primary and secondary stress is replaced partly by a prosodic rule stating that the final stressed syllable in a phrase is given additional stress. (A word spoken alone becomes such a phrase, hence such prosodic stress may appear to be lexical if the pronunciation of words is analyzed in a standalone context rather than within phrases.)
+      </p>
+      <p>
+       Another type of prosodic stress pattern is
+       <i>
+        quantity sensitivity
+       </i>
+       – in some languages additional stress tends to be placed on syllables that are longer (
+       <a href="/wiki/Mora_(linguistics)" title="Mora (linguistics)">
+        moraically heavy
+       </a>
+       ).
+      </p>
+      <p>
+       Prosodic stress is also often used
+       <a href="/wiki/Pragmatics" title="Pragmatics">
+        pragmatically
+       </a>
+       to emphasize (focus attention on) particular words or the ideas associated with them. Doing this can change or clarify the meaning of a sentence; for example:
+      </p>
+      <div style="padding-left: 3em; padding-right:0em; overflow: hidden;">
+       <div class="poem">
+        <p>
+         <i>
+          I
+         </i>
+         didn't take the test yesterday. (Somebody else did.)
+         <br/>
+         I
+         <i>
+          didn't
+         </i>
+         take the test yesterday. (I did not take it.)
+         <br/>
+         I didn't
+         <i>
+          take
+         </i>
+         the test yesterday. (I did something else with it.)
+         <br/>
+         I didn't take
+         <i>
+          the
+         </i>
+         test yesterday. (I took a different one.)
+         <br/>
+         I didn't take the
+         <i>
+          test
+         </i>
+         yesterday. (I took something else.)
+         <br/>
+         I didn't take the test
+         <i>
+          yesterday
+         </i>
+         . (I took it some other day.)
+        </p>
+       </div>
+      </div>
+      <p>
+       As in the examples above, stress is normally transcribed as
+       <a href="/wiki/Italic_type" title="Italic type">
+        italics
+       </a>
+       in printed text or underlining in handwriting.
+      </p>
+      <p>
+       In English, stress is most dramatically realized on focused or accented words. For instance, consider the dialogue
+      </p>
+      <div style="padding-left: 3em; padding-right:0em; overflow: hidden;">
+       <div class="poem">
+        <p>
+         "Is it brunch tomorrow?"
+         <br/>
+         "No, it's
+         <i>
+          dinner
+         </i>
+         tomorrow."
+        </p>
+       </div>
+      </div>
+      <p>
+       In it, the stress-related acoustic differences between the syllables of "tomorrow" would be small compared to the differences between the syllables of "
+       <i>
+        dinner
+       </i>
+       ", the emphasized word. In these emphasized words, stressed syllables such as "
+       <i>
+        din
+       </i>
+       " in "
+       <i>
+        din
+       </i>
+       ner" are louder and longer.
+       <sup class="reference" id="cite_ref-6">
+        <a href="#cite_note-6">
+         [6]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-7">
+        <a href="#cite_note-7">
+         [7]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-8">
+        <a href="#cite_note-8">
+         [8]
+        </a>
+       </sup>
+       They may also have a different fundamental frequency, or other properties.
+      </p>
+      <p>
+       The main stress within a sentence, often found on the last stressed word, is called the
+       <i>
+        nuclear stress
+       </i>
+       .
+       <sup class="reference" id="cite_ref-9">
+        <a href="#cite_note-9">
+         [9]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Stress_and_vowel_reduction">
+        Stress and vowel reduction
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Stress_(linguistics)&amp;action=edit&amp;section=5" title="Edit section: Stress and vowel reduction">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       In many languages, such as
+       <a href="/wiki/Russian_phonology" title="Russian phonology">
+        Russian
+       </a>
+       and
+       <a href="/wiki/English_phonology" title="English phonology">
+        English
+       </a>
+       ,
+       <a href="/wiki/Vowel_reduction" title="Vowel reduction">
+        vowel reduction
+       </a>
+       may occur when a vowel changes from a stressed to an unstressed position. In English, unstressed vowels may reduce to
+       <a href="/wiki/Schwa" title="Schwa">
+        schwa
+       </a>
+       -like vowels, though the details vary with dialect (see
+       <a href="/wiki/Stress_and_vowel_reduction_in_English" title="Stress and vowel reduction in English">
+        Stress and vowel reduction in English
+       </a>
+       ). The effect may be dependent on lexical stress (for example, the unstressed first syllable of the word
+       <i>
+        photographer
+       </i>
+       contains a schwa
+       <span class="nowrap">
+        <span class="IPA nopopups noexcerpt">
+         <a href="/wiki/Help:IPA/English" title="Help:IPA/English">
+          /
+          <span style="border-bottom:1px dotted">
+           <span title="'f' in 'find'">
+            f
+           </span>
+           <span title="/ə/: 'a' in 'about'">
+            ə
+           </span>
+           <span title="/ˈ/: primary stress follows">
+            ˈ
+           </span>
+           <span title="'t' in 'tie'">
+            t
+           </span>
+           <span title="/ɒ/: 'o' in 'body'">
+            ɒ
+           </span>
+           <span title="/ɡ/: 'g' in 'guy'">
+            ɡ
+           </span>
+           <span title="'r' in 'rye'">
+            r
+           </span>
+           <span title="/ə/: 'a' in 'about'">
+            ə
+           </span>
+           <span title="'f' in 'find'">
+            f
+           </span>
+           <span title="/ər/: 'er' in 'letter'">
+            ər
+           </span>
+          </span>
+          /
+         </a>
+        </span>
+       </span>
+       , whereas the stressed first syllable of
+       <i>
+        photograph
+       </i>
+       does not
+       <span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)">
+        /ˈfoʊtəˌgræf -grɑːf/
+       </span>
+       ), or on prosodic stress (for example, the word
+       <i>
+        of
+       </i>
+       is pronounced with a schwa when it is unstressed within a sentence, but not when it is stressed).
+      </p>
+      <p>
+       Many other languages, such as
+       <a class="mw-redirect" href="/wiki/Spoken_Finnish" title="Spoken Finnish">
+        Finnish
+       </a>
+       and the mainstream dialects of
+       <a href="/wiki/Spanish_language" title="Spanish language">
+        Spanish
+       </a>
+       , do not have unstressed vowel reduction; in these languages vowels in unstressed syllables have nearly the same quality as those in stressed syllables.
+      </p>
+      <h2>
+       <span class="mw-headline" id="Stress_and_rhythm">
+        Stress and rhythm
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Stress_(linguistics)&amp;action=edit&amp;section=6" title="Edit section: Stress and rhythm">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       Some languages, such as
+       <a href="/wiki/English_language" title="English language">
+        English
+       </a>
+       , are said to be
+       <i>
+        stress-timed languages
+       </i>
+       ; that is, stressed syllables appear at a roughly constant rate and non-stressed syllables are shortened to accommodate this. This contrasts with languages that have
+       <i>
+        syllable timing
+       </i>
+       (e.g.
+       <a href="/wiki/Spanish_language" title="Spanish language">
+        Spanish
+       </a>
+       ) or
+       <i>
+        <a href="/wiki/Mora_(linguistics)" title="Mora (linguistics)">
+         mora
+        </a>
+        timing
+       </i>
+       (e.g.
+       <a href="/wiki/Japanese_language" title="Japanese language">
+        Japanese
+       </a>
+       ), where syllables or moras are spoken at a roughly constant rate regardless of stress. For details, see
+       <a href="/wiki/Isochrony" title="Isochrony">
+        Isochrony
+       </a>
+       .
+      </p>
+      <h2>
+       <span class="mw-headline" id="Historical_effects_of_stress">
+        Historical effects of stress
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Stress_(linguistics)&amp;action=edit&amp;section=7" title="Edit section: Historical effects of stress">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       It is common for stressed and unstressed syllables to behave differently as a language evolves. For example, in the
+       <a href="/wiki/Romance_languages" title="Romance languages">
+        Romance languages
+       </a>
+       , the original Latin
+       <a href="/wiki/Vowel_length" title="Vowel length">
+        short vowels
+       </a>
+       <span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)">
+        /e/
+       </span>
+       and
+       <span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)">
+        /o/
+       </span>
+       have often become
+       <a href="/wiki/Diphthong" title="Diphthong">
+        diphthongs
+       </a>
+       when stressed. Since stress takes part in
+       <a href="/wiki/Verb" title="Verb">
+        verb
+       </a>
+       conjugation, this has produced verbs with
+       <a href="/wiki/Apophony" title="Apophony">
+        vowel alternation
+       </a>
+       in the Romance languages. For example, the
+       <a href="/wiki/Spanish_language" title="Spanish language">
+        Spanish
+       </a>
+       verb
+       <i>
+        volver
+       </i>
+       has the form
+       <i>
+        v
+        <b>
+         o
+        </b>
+        lví
+       </i>
+       in the past tense but
+       <i>
+        v
+        <b>
+         ue
+        </b>
+        lvo
+       </i>
+       in the present tense (see
+       <a href="/wiki/Spanish_irregular_verbs" title="Spanish irregular verbs">
+        Spanish irregular verbs
+       </a>
+       ).
+       <a href="/wiki/Italian_language" title="Italian language">
+        Italian
+       </a>
+       shows the same phenomenon but with
+       <span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)">
+        /o/
+       </span>
+       alternating with
+       <span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)">
+        /uo/
+       </span>
+       instead. This behavior is not confined to verbs; note for example Spanish
+       <i>
+        v
+        <b>
+         ie
+        </b>
+        nto
+       </i>
+       "wind" from Latin
+       <i>
+        v
+        <b>
+         e
+        </b>
+        ntum
+       </i>
+       , or Italian
+       <i>
+        f
+        <b>
+         uo
+        </b>
+        co
+       </i>
+       "fire" from Latin
+       <i>
+        f
+        <b>
+         o
+        </b>
+        cum
+       </i>
+       .
+      </p>
+      <h2>
+       <span id="Stress_.22deafness.22">
+       </span>
+       <span class="mw-headline" id='Stress_"deafness"'>
+        Stress "deafness"
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Stress_(linguistics)&amp;action=edit&amp;section=8" title='Edit section: Stress "deafness"'>
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       An operational definition of word stress may be provided by the stress "deafness" paradigm.
+       <sup class="reference" id="cite_ref-10">
+        <a href="#cite_note-10">
+         [10]
+        </a>
+       </sup>
+       The idea is that if listeners perform poorly on reproducing the presentation order of series of stimuli that minimally differ in the position of phonetic prominence (e.g. [númi]/[numí]), the language doesn't have word stress. The task involves a reproduction of the order of stimuli as a sequence of key strokes, whereby key '1' is associated with one stress location (e.g. [númi]) and key '2' with the other (e.g. [numí]). A trial may be from 2 to 6 stimuli in length. Thus, the order [númi-númi-numí-númi] is to be reproduced as '1121'. It was found that listeners whose native language was French performed significantly worse than Spanish listeners in reproducing the stress patterns by key strokes. The explanation is that Spanish has lexically contrastive stress, as evidenced by the
+       <a href="/wiki/Minimal_pair" title="Minimal pair">
+        minimal pairs
+       </a>
+       like
+       <i>
+        tópo
+       </i>
+       ("mole") and
+       <i>
+        topó
+       </i>
+       (“met”), while in French, stress does not convey lexical information and there is no equivalent of stress minimal pairs as in Spanish.
+      </p>
+      <h2>
+       <span class="mw-headline" id="Spelling_and_notation_for_stress">
+        Spelling and notation for stress
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Stress_(linguistics)&amp;action=edit&amp;section=9" title="Edit section: Spelling and notation for stress">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       The
+       <a href="/wiki/Orthography" title="Orthography">
+        orthographies
+       </a>
+       of some languages include devices for indicating the position of lexical stress. Some examples are listed below:
+      </p>
+      <ul>
+       <li>
+        In
+        <a href="/wiki/Greek_language" title="Greek language">
+         Modern Greek
+        </a>
+        , all
+        <a class="mw-redirect" href="/wiki/Polysyllable" title="Polysyllable">
+         polysyllables
+        </a>
+        are written with an acute accent over the vowel of the stressed syllable. (The acute accent is also used on some
+        <a class="mw-redirect" href="/wiki/Monosyllable" title="Monosyllable">
+         monosyllables
+        </a>
+        in order to distinguish
+        <a href="/wiki/Homograph" title="Homograph">
+         homographs
+        </a>
+        , as in η ("the") and ή ("or"); here the stress of the two words is the same.)
+       </li>
+       <li>
+        In
+        <a href="/wiki/Spanish_language" title="Spanish language">
+         Spanish orthography
+        </a>
+        , stress may be written explicitly with a single acute accent on a vowel. Stressed antepenultimate syllables are always written with this accent mark, as in
+        <i>
+         árabe.
+        </i>
+        If the last syllable is stressed, the accent mark is used if the word ends in the letters
+        <i>
+         n, s,
+        </i>
+        or a vowel, as in
+        <i>
+         está.
+        </i>
+        If the penultimate syllable is stressed, the accent is used if the word ends in any other letter, as in
+        <i>
+         cárcel.
+        </i>
+        That is, if a word is written without an accent mark, the stress is on the penult if the last letter is a vowel,
+        <i>
+         n
+        </i>
+        , or
+        <i>
+         s
+        </i>
+        , but on the final syllable if the word ends in any other letter. However, as in Greek, the acute accent is also used for some words to distinguish various syntactical uses (e.g.
+        <i>
+         té
+        </i>
+        "tea" vs.
+        <i>
+         te
+        </i>
+        a form of the pronoun
+        <i>
+         tú
+        </i>
+        ;
+        <i>
+         dónde
+        </i>
+        "where" as a pronoun or wh-complement,
+        <i>
+         donde
+        </i>
+        "where" as an adverb). For more information, see
+        <a href="/wiki/Stress_in_Spanish" title="Stress in Spanish">
+         Stress in Spanish
+        </a>
+        .
+       </li>
+       <li>
+        In
+        <a href="/wiki/Portuguese_language" title="Portuguese language">
+         Portuguese
+        </a>
+        ,
+        <a href="/wiki/Portuguese_language#Stress" title="Portuguese language">
+         stress
+        </a>
+        is sometimes indicated explicitly with an acute accent (for
+        <i>
+         i
+        </i>
+        ,
+        <i>
+         u
+        </i>
+        , and open
+        <i>
+         a
+        </i>
+        ,
+        <i>
+         e
+        </i>
+        ,
+        <i>
+         o
+        </i>
+        ), or circumflex (for close
+        <i>
+         a
+        </i>
+        ,
+        <i>
+         e
+        </i>
+        ,
+        <i>
+         o
+        </i>
+        ). The orthography has an
+        <a href="/wiki/Portuguese_orthography#Diacritics" title="Portuguese orthography">
+         extensive set of rules
+        </a>
+        that describe the placement of diacritics, based on the position of the stressed syllable and the surrounding letters.
+       </li>
+       <li>
+        In
+        <a href="/wiki/Italian_language" title="Italian language">
+         Italian
+        </a>
+        , the graphic accent is needed in words ending with an accented vowel, e.g.
+        <i>
+         città
+        </i>
+        , "city", and in some monosyllabic words that might otherwise be confused with other words, like
+        <i>
+         là
+        </i>
+        ("there") and
+        <i>
+         la
+        </i>
+        ("the"). It is optional for it to be written on any vowel if there is a possibility of misunderstanding, such as
+        <i>
+         condomìni
+        </i>
+        ("condominiums") and
+        <i>
+         condòmini
+        </i>
+        ("joint owners"). See
+        <a class="mw-redirect" href="/wiki/Italian_alphabet#Diacritics" title="Italian alphabet">
+         Italian alphabet § Diacritics
+        </a>
+        .
+       </li>
+      </ul>
+      <p>
+       Though not part of normal orthography, a number of devices exist that are used by linguists and others to indicate the position of stress (and
+       <a href="/wiki/Syllabification" title="Syllabification">
+        syllabification
+       </a>
+       in some cases) when it is desirable to do so. Some of these are listed here.
+      </p>
+      <ul>
+       <li>
+        In the
+        <a href="/wiki/International_Phonetic_Alphabet" title="International Phonetic Alphabet">
+         International Phonetic Alphabet
+        </a>
+        (IPA), primary stress is indicated by a high vertical line before the stressed element, secondary stress by a low vertical line. For example,
+        <span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)">
+         [sɪˌlæbəfɪˈkeɪʃən]
+        </span>
+        or
+        <span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)">
+         /sɪˌlæbəfɪˈkeɪʃən/
+        </span>
+        . Extra stress can be indicated by doubling the symbol:
+        <span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)">
+         ˈˈ◌
+        </span>
+        . Most commonly, the stress mark is placed before the beginning of the stressed syllable, where a syllable is definable. However, it is occasionally placed immediately before the vowel.
+        <sup class="reference" id="cite_ref-11">
+         <a href="#cite_note-11">
+          [11]
+         </a>
+        </sup>
+       </li>
+       <li>
+        Linguists frequently mark primary stress with an acute accent over the vowel, and secondary stress by a grave accent. Example:
+        <span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)">
+         [sɪlæ̀bəfɪkéɪʃən]
+        </span>
+        or
+        <span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)">
+         /sɪlæ̀bəfɪkéɪʃən/
+        </span>
+        . This has the advantage that it does not require a decision about syllable boundaries.
+       </li>
+       <li>
+        In English dictionaries that show pronunciation by
+        <a class="mw-redirect" href="/wiki/Respelling" title="Respelling">
+         respelling
+        </a>
+        , stress is typically marked with a
+        <a href="/wiki/Prime_(symbol)" title="Prime (symbol)">
+         prime mark
+        </a>
+        placed after the stressed syllable: /si-lab′-ə-fi-kay′-shən/.
+       </li>
+       <li>
+        In
+        <i>
+         <a href="/wiki/Ad_hoc" title="Ad hoc">
+          ad hoc
+         </a>
+        </i>
+        pronunciation guides, stress is often indicated using a combination of bold text and capital letters. For example, si-
+        <b>
+         lab
+        </b>
+        -if-i-
+        <b>
+         KAY
+        </b>
+        -shun or si-LAB-if-i-KAY-shun
+       </li>
+       <li>
+        In
+        <a href="/wiki/Russian_language" title="Russian language">
+         Russian
+        </a>
+        and
+        <a href="/wiki/Ukrainian_language" title="Ukrainian language">
+         Ukrainian
+        </a>
+        dictionaries, stress is indicated with an
+        <a href="/wiki/Acute_accent" title="Acute accent">
+         acute accent
+        </a>
+        (´) on a syllable's vowel (example: вимовля́ння) or, in other editions, an
+        <a href="/wiki/Apostrophe" title="Apostrophe">
+         apostrophe
+        </a>
+        <sup class="reference" id="cite_ref-12">
+         <a href="#cite_note-12">
+          [12]
+         </a>
+        </sup>
+        just after it (example: гла'сная). Stressing is rare in general texts, but is still used when necessary: compare
+        <i>
+         за́мок
+        </i>
+        (castle) and
+        <i>
+         замо́к
+        </i>
+        (lock). Stress marks are generally used only in materials for foreign learners of the language.
+       </li>
+       <li>
+        In
+        <a href="/wiki/Dutch_language" title="Dutch language">
+         Dutch
+        </a>
+        ,
+        <i>
+         ad hoc
+        </i>
+        indication of stress is usually marked by an acute accent on the vowel (or, in the case of a
+        <a href="/wiki/Diphthong" title="Diphthong">
+         diphthong
+        </a>
+        or double vowel, the first two vowels) of the stressed syllable. Compare
+        <i>
+         achterúítgang
+        </i>
+        (deterioration) and
+        <i>
+         áchteruitgang
+        </i>
+        (back exit).
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="See_also">
+        See also
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Stress_(linguistics)&amp;action=edit&amp;section=10" title="Edit section: See also">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a href="/wiki/Accent_(poetry)" title="Accent (poetry)">
+         Accent (poetry)
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Accent_(music)" title="Accent (music)">
+         Accent (music)
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Foot_(prosody)" title="Foot (prosody)">
+         Foot (prosody)
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Initial-stress-derived_noun" title="Initial-stress-derived noun">
+         Initial-stress-derived noun
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Rhythm" title="Rhythm">
+         Rhythm
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Syllable_weight" title="Syllable weight">
+         Syllable weight
+        </a>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="References">
+        References
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Stress_(linguistics)&amp;action=edit&amp;section=11" title="Edit section: References">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="reflist" style="list-style-type: decimal;">
+       <div class="mw-references-wrap mw-references-columns">
+        <ol class="references">
+         <li id="cite_note-Monrad-1">
+          <span class="mw-cite-backlink">
+           ^
+           <a href="#cite_ref-Monrad_1-0">
+            <sup>
+             <i>
+              <b>
+               a
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-Monrad_1-1">
+            <sup>
+             <i>
+              <b>
+               b
+              </b>
+             </i>
+            </sup>
+           </a>
+          </span>
+          <span class="reference-text">
+           G. H. Monrad-Krohn, "The prosodic quality of speech and its disorders (a brief survey from a neurologist's point of view)",
+           <i>
+            Acta Psychiatrica Scandinavica
+           </i>
+           , vol. 22, issue 3-4, pp. 255-269.
+          </span>
+         </li>
+         <li id="cite_note-2">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-2">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           Kochanski, G., Shih, C., Jing, H.; Quantitative Measurement of Prosodic Strength in Mandarin, Speech Communication 41(4), November 2003,
+           <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+            doi
+           </a>
+           :
+           <a class="external text" href="https://doi.org/10.1016%2FS0167-6393%2803%2900100-6" rel="nofollow">
+            10.1016/S0167-6393(03)00100-6
+           </a>
+          </span>
+         </li>
+         <li id="cite_note-3">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-3">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Mirakyan, Norayr (2016).
+            <a class="external text" href="http://www.ysu.am/files/SSS_BookCollect_3_2016,%20pp.%2091-96.pdf" rel="nofollow">
+             "The Implications of Prosodic Differences Between English and Armenian"
+            </a>
+            <span style="font-size:85%;">
+             (PDF)
+            </span>
+            .
+            <i>
+             Collection of Scientific Articles of YSU SSS
+            </i>
+            . YSU Press.
+            <b>
+             1.3
+            </b>
+            (13): pp. 91–96.
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Collection+of+Scientific+Articles+of+YSU+SSS&amp;rft.atitle=The+Implications+of+Prosodic+Differences+Between+English+and+Armenian&amp;rft.volume=1.3&amp;rft.issue=13&amp;rft.pages=pp.+91-96&amp;rft.date=2016&amp;rft.aulast=Mirakyan&amp;rft.aufirst=Norayr&amp;rft_id=http%3A%2F%2Fwww.ysu.am%2Ffiles%2FSSS_BookCollect_3_2016%2C%2520pp.%252091-96.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStress+%28linguistics%29">
+            <span style="display:none;">
+            </span>
+           </span>
+           <span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">
+            CS1 maint: Extra text (
+            <a href="/wiki/Category:CS1_maint:_Extra_text" title="Category:CS1 maint: Extra text">
+             link
+            </a>
+            )
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-4">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-4">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           San Duanmu (2000),
+           <i>
+            The Phonology of Standard Chinese
+           </i>
+           , Oxford University Press, p. 134.
+          </span>
+         </li>
+         <li id="cite_note-Lad-5">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-Lad_5-0">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           Ladefoged (1975
+           <i>
+            etc.
+           </i>
+           )
+           <i>
+            <a class="mw-redirect" href="/wiki/A_course_in_phonetics" title="A course in phonetics">
+             A course in phonetics
+            </a>
+           </i>
+           § 5.4; (1980)
+           <i>
+            Preliminaries to linguistic phonetics
+           </i>
+           p 83
+          </span>
+         </li>
+         <li id="cite_note-6">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-6">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           M. E. Beckman, Stress and Non-Stress Accent, Dordrecht: Foris (1986)
+           <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+            ISBN
+           </a>
+           <a href="/wiki/Special:BookSources/90-6765-243-1" title="Special:BookSources/90-6765-243-1">
+            90-6765-243-1
+           </a>
+          </span>
+         </li>
+         <li id="cite_note-7">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-7">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           R. Silipo and S. Greenberg, Automatic Transcription of Prosodic Stress for Spontaneous English Discourse, Proceedings of the XIVth International Congress of Phonetic Sciences (ICPhS99), San Francisco, CA, August 1999, pages 2351–2354
+          </span>
+         </li>
+         <li id="cite_note-8">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-8">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           G. Kochanski, E. Grabe, J. Coleman and B. Rosner, Journal of the Acoustical Society of America, volume 118, number 2, pages 1038–1054,
+           <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+            doi
+           </a>
+           :
+           <a class="external text" href="https://doi.org/10.1121%2F1.1923349" rel="nofollow">
+            10.1121/1.1923349
+           </a>
+          </span>
+         </li>
+         <li id="cite_note-9">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-9">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           Iggy Roca,
+           <i>
+            Thematic Structure: Its Role in Grammar
+           </i>
+           , Walter de Gruyter 1992, p. 80.
+          </span>
+         </li>
+         <li id="cite_note-10">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-10">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Dupoux, Emmanuel; Peperkamp, Sharon; Sebastián-Gallés, Núria (2001-09-01).
+            <a class="external text" href="http://scitation.aip.org/content/asa/journal/jasa/110/3/10.1121/1.1380437" rel="nofollow">
+             "A robust method to study stress "deafness
+             <span style="padding-right:0.2em;">
+              "
+             </span>
+             "
+            </a>
+            .
+            <i>
+             The Journal of the Acoustical Society of America
+            </i>
+            .
+            <b>
+             110
+            </b>
+            (3): 1606–1618.
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1121%2F1.1380437" rel="nofollow">
+             10.1121/1.1380437
+            </a>
+            .
+            <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">
+             ISSN
+            </a>
+            <a class="external text" href="//www.worldcat.org/issn/0001-4966" rel="nofollow">
+             0001-4966
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Journal+of+the+Acoustical+Society+of+America&amp;rft.atitle=A+robust+method+to+study+stress+%22deafness%22&amp;rft.volume=110&amp;rft.issue=3&amp;rft.pages=1606-1618&amp;rft.date=2001-09-01&amp;rft_id=info%3Adoi%2F10.1121%2F1.1380437&amp;rft.issn=0001-4966&amp;rft.aulast=Dupoux&amp;rft.aufirst=Emmanuel&amp;rft.au=Peperkamp%2C+Sharon&amp;rft.au=Sebasti%C3%A1n-Gall%C3%A9s%2C+N%C3%BAria&amp;rft_id=http%3A%2F%2Fscitation.aip.org%2Fcontent%2Fasa%2Fjournal%2Fjasa%2F110%2F3%2F10.1121%2F1.1380437&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStress+%28linguistics%29">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-11">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-11">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           Payne, E. M. (2005) "Phonetic variation in Italian consonant gemination",
+           <i>
+            Journal of the International Phonetic Association
+           </i>
+           , 35: 153–181.
+          </span>
+         </li>
+         <li id="cite_note-12">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-12">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation book">
+            Dalʹ, Vladimir Ivanovich (1903).
+            <i>
+             Tolkovyĭ Slovarʹ Zhivogo Velikorusskago I︠a︡zyka
+            </i>
+            . I. A. Boduėna-de-Kurtene (ed.) (3., ispr. i znachitel'no dop. izd ed.). Sankt-Peterburg: Izd. T-va M.O. Vol'f. p. 4.
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Tolkovy%C4%AD+Slovar%CA%B9+Zhivogo+Velikorusskago+I%EF%B8%A0a%EF%B8%A1zyka&amp;rft.place=Sankt-Peterburg&amp;rft.pages=4&amp;rft.edition=3.%2C+ispr.+i+znachitel%27no+dop.+izd&amp;rft.pub=Izd.+T-va+M.O.+Vol%27f&amp;rft.date=1903&amp;rft.aulast=Dal%CA%B9&amp;rft.aufirst=Vladimir+Ivanovich&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStress+%28linguistics%29">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+        </ol>
+       </div>
+      </div>
+      <h2>
+       <span class="mw-headline" id="External_links">
+        External links
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Stress_(linguistics)&amp;action=edit&amp;section=12" title="Edit section: External links">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a class="external text" href="http://www.let.uu.nl/~Rene.Kager/personal/Cambridge-Handbook-2007.pdf" rel="nofollow">
+         Feet and Metrical Stress
+        </a>
+        (The Cambridge Handbook of Phonology)
+       </li>
+       <li>
+        <a class="external text" href="http://linguapress.com/grammar/word-stress.htm" rel="nofollow">
+         Word stress in English
+        </a>
+        The six fundamental rules
+       </li>
+       <li>
+        <a class="external text" href="http://www.wordstress.info/" rel="nofollow">
+         Word Stress rules based on affixation
+        </a>
+       </li>
+      </ul>
+      <div aria-labelledby="Suprasegmentals" class="navbox" role="navigation" style="text-align:left;;padding:3px">
+       <table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tr>
+         <th class="navbox-title" colspan="2" scope="col">
+          <div class="plainlinks hlist navbar mini">
+           <ul>
+            <li class="nv-view">
+             <a href="/wiki/Template:Suprasegmentals" title="Template:Suprasegmentals">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">
+               v
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-talk">
+             <a href="/wiki/Template_talk:Suprasegmentals" title="Template talk:Suprasegmentals">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">
+               t
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-edit">
+             <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Suprasegmentals&amp;action=edit">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">
+               e
+              </abbr>
+             </a>
+            </li>
+           </ul>
+          </div>
+          <div id="Suprasegmentals" style="font-size:114%;margin:0 4em">
+           <a href="/wiki/Suprasegmentals" title="Suprasegmentals">
+            Suprasegmentals
+           </a>
+          </div>
+         </th>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%;background:lavender;">
+          <a href="/wiki/Isochrony" title="Isochrony">
+           Timing
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Syllable" title="Syllable">
+              Syllable
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Mora_(linguistics)" title="Mora (linguistics)">
+              Mora
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Foot_(prosody)" title="Foot (prosody)">
+              Metrical foot
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Vowel_reduction" title="Vowel reduction">
+              Vowel reduction
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%;background:lavender;">
+          <a href="/wiki/Tone_(linguistics)" title="Tone (linguistics)">
+           Tone
+          </a>
+         </th>
+         <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Tone_contour" title="Tone contour">
+              Tone contour
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Pitch_accent" title="Pitch accent">
+              Pitch accent
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Register_(phonology)" title="Register (phonology)">
+              Register
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Downstep" title="Downstep">
+              Downstep
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Upstep" title="Upstep">
+              Upstep
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Downdrift" title="Downdrift">
+              Downdrift
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Tone_terracing" title="Tone terracing">
+              Tone terracing
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Floating_tone" title="Floating tone">
+              Floating tone
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Tone_sandhi" title="Tone sandhi">
+              Tone sandhi
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Tone_letter" title="Tone letter">
+              Tone letter
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%;background:lavender;">
+          <a class="mw-selflink selflink">
+           Stress
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Secondary_stress" title="Secondary stress">
+              Secondary stress
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Vowel_reduction" title="Vowel reduction">
+              Vowel reduction
+             </a>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/Accent_(phonetics)" title="Accent (phonetics)">
+              Accent
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%;background:lavender;">
+          <a href="/wiki/Length_(phonetics)" title="Length (phonetics)">
+           Length
+          </a>
+         </th>
+         <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Chroneme" title="Chroneme">
+              Chroneme
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Gemination" title="Gemination">
+              Gemination
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Vowel_length" title="Vowel length">
+              Vowel length
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Extra-short" title="Extra-short">
+              Extra-short
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%;background:lavender;">
+          <a href="/wiki/Prosody_(linguistics)" title="Prosody (linguistics)">
+           Prosody
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Intonation_(linguistics)" title="Intonation (linguistics)">
+              Intonation
+             </a>
+             (pitch)
+            </li>
+            <li>
+             <a href="/wiki/Pitch_contour" title="Pitch contour">
+              Pitch contour
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Pitch_reset" title="Pitch reset">
+              Pitch reset
+             </a>
+            </li>
+            <li>
+             <a class="mw-selflink selflink">
+              Stress
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Rhythm#Rhythm_in_linguistics" title="Rhythm">
+              Rhythm
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Loudness" title="Loudness">
+              Loudness
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Prosodic_unit" title="Prosodic unit">
+              Prosodic unit
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Pausa" title="Pausa">
+              Pausa
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+       </table>
+      </div>
+      <!-- 
+NewPP limit report
+Parsed by mw1265
+Cached time: 20180124224510
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.292 seconds
+Real time usage: 0.386 seconds
+Preprocessor visited node count: 2391/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 35368/2097152 bytes
+Template argument size: 2500/2097152 bytes
+Highest expansion depth: 17/40
+Expensive parser function count: 1/500
+Lua time usage: 0.122/10.000 seconds
+Lua memory usage: 4.04 MB/50 MB
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  328.625      1 -total
+ 33.64%  110.559      3 Template:Infobox_IPA
+ 31.89%  104.808      3 Template:Infobox_IPA/core1
+ 30.52%  100.299      3 Template:Infobox_IPA/core2
+ 28.84%   94.777      3 Template:Infobox
+ 27.90%   91.676      1 Template:Reflist
+ 15.77%   51.821      1 Template:Citation_needed
+ 14.32%   47.053      1 Template:Fix
+ 11.85%   38.942      2 Template:Cite_journal
+  9.73%   31.972      2 Template:Category_handler
+-->
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:171782-0!canonical and timestamp 20180124224510 and revision id 819838338
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Stress_(linguistics)&amp;oldid=819838338">
+      https://en.wikipedia.org/w/index.php?title=Stress_(linguistics)&amp;oldid=819838338
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Phonetics" title="Category:Phonetics">
+         Phonetics
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Stress_(linguistics)" title="Category:Stress (linguistics)">
+         Stress (linguistics)
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Phonology" title="Category:Phonology">
+         Phonology
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Poetic_rhythm" title="Category:Poetic rhythm">
+         Poetic rhythm
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:CS1_maint:_Extra_text" title="Category:CS1 maint: Extra text">
+         CS1 maint: Extra text
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">
+         All articles with unsourced statements
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_with_unsourced_statements_from_September_2014" title="Category:Articles with unsourced statements from September 2014">
+         Articles with unsourced statements from September 2014
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_which_use_infobox_templates_with_no_data_rows" title="Category:Articles which use infobox templates with no data rows">
+         Articles which use infobox templates with no data rows
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Stress+%28linguistics%29" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Stress+%28linguistics%29" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Stress_(linguistics)" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Stress_(linguistics)" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="collapsible selected" id="ca-view">
+        <span>
+         <a href="/wiki/Stress_(linguistics)">
+          Read
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Stress_(linguistics)&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Stress_(linguistics)&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Stress_(linguistics)" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Stress_(linguistics)" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Stress_(linguistics)&amp;oldid=819838338" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Stress_(linguistics)&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q181767" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Stress_%28linguistics%29&amp;id=819838338" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Stress+%28linguistics%29">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Stress+%28linguistics%29&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Stress_(linguistics)&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+     <h3 id="p-wikibase-otherprojects-label">
+      In other projects
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="wb-otherproject-link wb-otherproject-commons">
+        <a href="https://commons.wikimedia.org/wiki/Category:Stress" hreflang="en">
+         Wikimedia Commons
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-ar">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%86%D8%A8%D8%B1" hreflang="ar" lang="ar" title="نبر – Arabic">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-az">
+        <a class="interlanguage-link-target" href="https://az.wikipedia.org/wiki/Vur%C4%9Fu" hreflang="az" lang="az" title="Vurğu – Azerbaijani">
+         Azərbaycanca
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bn">
+        <a class="interlanguage-link-target" href="https://bn.wikipedia.org/wiki/%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A6%BE%E0%A6%98%E0%A6%BE%E0%A6%A4" hreflang="bn" lang="bn" title="শ্বাসাঘাত – Bangla">
+         বাংলা
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ba">
+        <a class="interlanguage-link-target" href="https://ba.wikipedia.org/wiki/%D0%91%D0%B0%D2%AB%D1%8B%D0%BC" hreflang="ba" lang="ba" title="Баҫым – Bashkir">
+         Башҡортса
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-be">
+        <a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%9D%D0%B0%D1%86%D1%96%D1%81%D0%BA" hreflang="be" lang="be" title="Націск – Belarusian">
+         Беларуская
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-be-x-old">
+        <a class="interlanguage-link-target" href="https://be-x-old.wikipedia.org/wiki/%D0%9D%D0%B0%D1%86%D1%96%D1%81%D0%BA" hreflang="be-x-old" lang="be-x-old" title="Націск – Belarusian (Taraškievica orthography)">
+         Беларуская (тарашкевіца)‎
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bg">
+        <a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%A3%D0%B4%D0%B0%D1%80%D0%B5%D0%BD%D0%B8%D0%B5" hreflang="bg" lang="bg" title="Ударение – Bulgarian">
+         Български
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-br">
+        <a class="interlanguage-link-target" href="https://br.wikipedia.org/wiki/Taol-mouezh" hreflang="br" lang="br" title="Taol-mouezh – Breton">
+         Brezhoneg
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Accent_pros%C3%B2dic" hreflang="ca" lang="ca" title="Accent prosòdic – Catalan">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cv">
+        <a class="interlanguage-link-target" href="https://cv.wikipedia.org/wiki/%D0%9F%D1%83%D1%81%C4%83%D0%BC_(%D1%84%D0%BE%D0%BD%D0%B5%D1%82%D0%B8%D0%BA%D0%B0)" hreflang="cv" lang="cv" title="Пусăм (фонетика) – Chuvash">
+         Чӑвашла
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cs">
+        <a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/P%C5%99%C3%ADzvuk" hreflang="cs" lang="cs" title="Přízvuk – Czech">
+         Čeština
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cy">
+        <a class="interlanguage-link-target" href="https://cy.wikipedia.org/wiki/Acen" hreflang="cy" lang="cy" title="Acen – Welsh">
+         Cymraeg
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-da">
+        <a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Accent_(tryk)" hreflang="da" lang="da" title="Accent (tryk) – Danish">
+         Dansk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Akzent_(Linguistik)" hreflang="de" lang="de" title="Akzent (Linguistik) – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-et">
+        <a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/R%C3%B5hk_(keeleteadus)" hreflang="et" lang="et" title="Rõhk (keeleteadus) – Estonian">
+         Eesti
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-el">
+        <a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%A4%CE%BF%CE%BD%CE%B9%CF%83%CE%BC%CF%8C%CF%82" hreflang="el" lang="el" title="Τονισμός – Greek">
+         Ελληνικά
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Acento_pros%C3%B3dico" hreflang="es" lang="es" title="Acento prosódico – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eo">
+        <a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Akcento" hreflang="eo" lang="eo" title="Akcento – Esperanto">
+         Esperanto
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eu">
+        <a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Azentu" hreflang="eu" lang="eu" title="Azentu – Basque">
+         Euskara
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fa">
+        <a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%AA%DA%A9%DB%8C%D9%87_(%D8%B2%D8%A8%D8%A7%D9%86%E2%80%8C%D8%B4%D9%86%D8%A7%D8%B3%DB%8C)" hreflang="fa" lang="fa" title="تکیه (زبان‌شناسی) – Persian">
+         فارسی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Accent_tonique" hreflang="fr" lang="fr" title="Accent tonique – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fy">
+        <a class="interlanguage-link-target" href="https://fy.wikipedia.org/wiki/Klam_(taalkunde)" hreflang="fy" lang="fy" title="Klam (taalkunde) – Western Frisian">
+         Frysk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-gl">
+        <a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Acento_pros%C3%B3dico" hreflang="gl" lang="gl" title="Acento prosódico – Galician">
+         Galego
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-io">
+        <a class="interlanguage-link-target" href="https://io.wikipedia.org/wiki/Acento" hreflang="io" lang="io" title="Acento – Ido">
+         Ido
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ia">
+        <a class="interlanguage-link-target" href="https://ia.wikipedia.org/wiki/Accento_(linguistica)" hreflang="ia" lang="ia" title="Accento (linguistica) – Interlingua">
+         Interlingua
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-os">
+        <a class="interlanguage-link-target" href="https://os.wikipedia.org/wiki/%D0%A6%D0%B0%D0%B2%D0%B4" hreflang="os" lang="os" title="Цавд – Ossetic">
+         Ирон
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-is">
+        <a class="interlanguage-link-target" href="https://is.wikipedia.org/wiki/%C3%81hersla" hreflang="is" lang="is" title="Áhersla – Icelandic">
+         Íslenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Accento_(linguistica)" hreflang="it" lang="it" title="Accento (linguistica) – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-he">
+        <a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%94%D7%98%D7%A2%D7%9E%D7%94" hreflang="he" lang="he" title="הטעמה – Hebrew">
+         עברית
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-kk">
+        <a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/%D0%95%D0%BA%D0%BF%D1%96%D0%BD" hreflang="kk" lang="kk" title="Екпін – Kazakh">
+         Қазақша
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sw">
+        <a class="interlanguage-link-target" href="https://sw.wikipedia.org/wiki/Mkazo" hreflang="sw" lang="sw" title="Mkazo – Swahili">
+         Kiswahili
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-la">
+        <a class="interlanguage-link-target" href="https://la.wikipedia.org/wiki/Accentus" hreflang="la" lang="la" title="Accentus – Latin">
+         Latina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lt">
+        <a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Kirtis" hreflang="lt" lang="lt" title="Kirtis – Lithuanian">
+         Lietuvių
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hu">
+        <a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Hangs%C3%BAly_(nyelv%C3%A9szet)" hreflang="hu" lang="hu" title="Hangsúly (nyelvészet) – Hungarian">
+         Magyar
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nl">
+        <a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Klemtoon" hreflang="nl" lang="nl" title="Klemtoon – Dutch">
+         Nederlands
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E5%BC%B7%E5%8B%A2" hreflang="ja" lang="ja" title="強勢 – Japanese">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nn">
+        <a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Fonologisk_trykk" hreflang="nn" lang="nn" title="Fonologisk trykk – Norwegian Nynorsk">
+         Norsk nynorsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pa">
+        <a class="interlanguage-link-target" href="https://pa.wikipedia.org/wiki/%E0%A8%A6%E0%A8%AC%E0%A8%BE%E0%A8%85_(%E0%A8%AD%E0%A8%BE%E0%A8%B8%E0%A8%BC%E0%A8%BE_%E0%A8%B5%E0%A8%BF%E0%A8%97%E0%A8%BF%E0%A8%86%E0%A8%A8)" hreflang="pa" lang="pa" title="ਦਬਾਅ (ਭਾਸ਼ਾ ਵਿਗਿਆਨ) – Punjabi">
+         ਪੰਜਾਬੀ
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pl">
+        <a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Akcent_wyrazowy" hreflang="pl" lang="pl" title="Akcent wyrazowy – Polish">
+         Polski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Acento_t%C3%B4nico" hreflang="pt" lang="pt" title="Acento tônico – Portuguese">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-rue">
+        <a class="interlanguage-link-target" href="https://rue.wikipedia.org/wiki/%D0%9F%D1%80%D0%B8%D1%82%D0%B8%D1%81%D0%BA" hreflang="rue" lang="rue" title="Притиск – Rusyn">
+         Русиньскый
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%A3%D0%B4%D0%B0%D1%80%D0%B5%D0%BD%D0%B8%D0%B5" hreflang="ru" lang="ru" title="Ударение – Russian">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-stq">
+        <a class="interlanguage-link-target" href="https://stq.wikipedia.org/wiki/Betoonenge" hreflang="stq" lang="stq" title="Betoonenge – Saterland Frisian">
+         Seeltersk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-scn">
+        <a class="interlanguage-link-target" href="https://scn.wikipedia.org/wiki/Accentu" hreflang="scn" lang="scn" title="Accentu – Sicilian">
+         Sicilianu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sk">
+        <a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Pr%C3%ADzvuk" hreflang="sk" lang="sk" title="Prízvuk – Slovak">
+         Slovenčina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fi">
+        <a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Paino_(kielitiede)" hreflang="fi" lang="fi" title="Paino (kielitiede) – Finnish">
+         Suomi
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sv">
+        <a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Betoning" hreflang="sv" lang="sv" title="Betoning – Swedish">
+         Svenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tr">
+        <a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Vurgu" hreflang="tr" lang="tr" title="Vurgu – Turkish">
+         Türkçe
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uk">
+        <a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%9D%D0%B0%D0%B3%D0%BE%D0%BB%D0%BE%D1%81" hreflang="uk" lang="uk" title="Наголос – Ukrainian">
+         Українська
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fiu-vro">
+        <a class="interlanguage-link-target" href="https://fiu-vro.wikipedia.org/wiki/Ras%C3%B5hus_(keeletiid%C3%BCs)" hreflang="fiu-vro" lang="fiu-vro" title="Rasõhus (keeletiidüs) – Võro">
+         Võro
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-wa">
+        <a class="interlanguage-link-target" href="https://wa.wikipedia.org/wiki/Accint_tonike" hreflang="wa" lang="wa" title="Accint tonike – Walloon">
+         Walon
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E8%BC%95%E9%87%8D%E8%AE%80" hreflang="zh" lang="zh" title="輕重讀 – Chinese">
+         中文
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q181767#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 11 January 2018, at 15:16.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Stress_(linguistics)&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.292","walltime":"0.386","ppvisitednodes":{"value":2391,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":35368,"limit":2097152},"templateargumentsize":{"value":2500,"limit":2097152},"expansiondepth":{"value":17,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  328.625      1 -total"," 33.64%  110.559      3 Template:Infobox_IPA"," 31.89%  104.808      3 Template:Infobox_IPA/core1"," 30.52%  100.299      3 Template:Infobox_IPA/core2"," 28.84%   94.777      3 Template:Infobox"," 27.90%   91.676      1 Template:Reflist"," 15.77%   51.821      1 Template:Citation_needed"," 14.32%   47.053      1 Template:Fix"," 11.85%   38.942      2 Template:Cite_journal","  9.73%   31.972      2 Template:Category_handler"]},"scribunto":{"limitreport-timeusage":{"value":"0.122","limit":"10.000"},"limitreport-memusage":{"value":4235420,"limit":52428800}},"cachereport":{"origin":"mw1265","timestamp":"20180124224510","ttl":1900800,"transientcontent":false}}});});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":92,"wgHostname":"mw1324"});});
+  </script>
+ </body>
+</html>

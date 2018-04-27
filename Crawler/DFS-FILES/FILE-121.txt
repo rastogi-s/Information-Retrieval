@@ -1,0 +1,1444 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Irish grid reference system - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Irish_grid_reference_system","wgTitle":"Irish grid reference system","wgCurRevisionId":821956146,"wgRevisionId":821956146,"wgArticleId":1090611,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from October 2015","All articles with vague or ambiguous time","Vague or ambiguous time from February 2016","Geography of Ireland","Maps from Ordnance Survey","Geographic coordinate systems","Land surveying systems","Geodesy"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Irish_grid_reference_system","wgRelevantArticleId":1090611,"wgRequestId":"Wm6yRApAIC0AAKbs0usAAACV","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q1672843","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.31.0-wmf.17" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <meta content="https://upload.wikimedia.org/wikipedia/commons/4/4c/Azimutalprojektion-schief_kl-cropped.png" property="og:image"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Irish_grid_reference_system" rel="alternate"/>
+  <link href="/w/index.php?title=Irish_grid_reference_system&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Irish_grid_reference_system&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/Irish_grid_reference_system" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Irish_grid_reference_system rootpage-Irish_grid_reference_system skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Irish grid reference system
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <table class="vertical-navbox nowraplinks plainlist" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+       <tr>
+        <th style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em;padding-bottom:0.4em;">
+         <a href="/wiki/Geodesy" title="Geodesy">
+          Geodesy
+         </a>
+        </th>
+       </tr>
+       <tr>
+        <td style="padding:0.2em 0 0.4em">
+         <a class="image" href="/wiki/File:Azimutalprojektion-schief_kl-cropped.png">
+          <img alt="Azimutalprojektion-schief kl-cropped.png" data-file-height="240" data-file-width="242" height="149" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Azimutalprojektion-schief_kl-cropped.png/150px-Azimutalprojektion-schief_kl-cropped.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Azimutalprojektion-schief_kl-cropped.png/225px-Azimutalprojektion-schief_kl-cropped.png 1.5x, //upload.wikimedia.org/wikipedia/commons/4/4c/Azimutalprojektion-schief_kl-cropped.png 2x" width="150"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <th style="padding:0.1em;background:#c5d5a5;">
+         Fundamentals
+        </th>
+       </tr>
+       <tr>
+        <td style="padding:0 0.1em 0.4em;padding-top:0.2em;padding-bottom:0.7em;">
+         <div class="hlist">
+          <ul>
+           <li>
+            <a href="/wiki/Geodesy" title="Geodesy">
+             Geodesy
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Geodynamics" title="Geodynamics">
+             Geodynamics
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Geomatics" title="Geomatics">
+             Geomatics
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Cartography" title="Cartography">
+             Cartography
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/History_of_geodesy" title="History of geodesy">
+             History
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr>
+        <th style="padding:0.1em;background:#c5d5a5;">
+         Concepts
+        </th>
+       </tr>
+       <tr>
+        <td style="padding:0 0.1em 0.4em;padding-top:0.2em;padding-bottom:0.7em;">
+         <div class="hlist">
+          <ul>
+           <li>
+            <a href="/wiki/Geographical_distance" title="Geographical distance">
+             Geographical distance
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Geoid" title="Geoid">
+             Geoid
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Figure_of_the_Earth" title="Figure of the Earth">
+             Figure of the Earth
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Geodetic_datum" title="Geodetic datum">
+             Geodetic datum
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Geodesic" title="Geodesic">
+             Geodesic
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">
+             Geographic coordinate system
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Horizontal_position_representation" title="Horizontal position representation">
+             Horizontal position representation
+            </a>
+           </li>
+           <li>
+            <span class="nowrap">
+             <a href="/wiki/Latitude" title="Latitude">
+              Latitude
+             </a>
+             /
+             <a href="/wiki/Longitude" title="Longitude">
+              Longitude
+             </a>
+            </span>
+           </li>
+           <li>
+            <a href="/wiki/Map_projection" title="Map projection">
+             Map projection
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Reference_ellipsoid" title="Reference ellipsoid">
+             Reference ellipsoid
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Satellite_geodesy" title="Satellite geodesy">
+             Satellite geodesy
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Spatial_reference_system" title="Spatial reference system">
+             Spatial reference system
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr>
+        <th style="padding:0.1em;background:#c5d5a5;">
+         Technologies
+        </th>
+       </tr>
+       <tr>
+        <td style="padding:0 0.1em 0.4em;padding-top:0.2em;padding-bottom:0.7em;">
+         <ul>
+          <li>
+           <a href="/wiki/Satellite_navigation" title="Satellite navigation">
+            Global Navigation Satellite System (GNSS)
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Global_Positioning_System" title="Global Positioning System">
+            Global Positioning System (GPS)
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/GLONASS" title="GLONASS">
+            GLONASS
+            <span style="font-size:90%;">
+             (Russian)
+            </span>
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/BeiDou_Navigation_Satellite_System" title="BeiDou Navigation Satellite System">
+            BeiDou (BDS)
+            <span style="font-size:90%;">
+             (Chinese)
+            </span>
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Galileo_(satellite_navigation)" title="Galileo (satellite navigation)">
+            Galileo
+            <span style="font-size:90%;">
+             (European)
+            </span>
+           </a>
+          </li>
+          <li>
+           <div style="padding:0.2em 0.4em; line-height:1.2em;">
+            <a href="/wiki/Indian_Regional_Navigation_Satellite_System" title="Indian Regional Navigation Satellite System">
+             Indian Regional Navigation
+             <br/>
+             Satellite System (IRNSS)
+             <span style="font-size:90%;">
+              (India)
+             </span>
+            </a>
+           </div>
+          </li>
+          <li>
+           <a href="/wiki/Quasi-Zenith_Satellite_System" title="Quasi-Zenith Satellite System">
+            Quasi-Zenith Satellite System (QZSS)
+            <span style="font-size:90%;">
+             (Japan)
+            </span>
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Legenda_(satellite_system)" title="Legenda (satellite system)">
+            Legenda (satellite system)
+           </a>
+          </li>
+         </ul>
+        </td>
+       </tr>
+       <tr>
+        <th style="padding:0.1em;background:#c5d5a5;">
+         Standards (
+         <a href="/wiki/History_of_geodesy" title="History of geodesy">
+          History
+         </a>
+         )
+        </th>
+       </tr>
+       <tr>
+        <td style="padding:0 0.1em 0.4em;padding-top:0.2em;padding-bottom:0.7em;">
+         <table class="nowrap" style="width:100%;border-collapse:collapse;border-spacing:0px 0px;border:none;line-height:1.2em;">
+          <tr style="vertical-align:top">
+           <td style="text-align:left;padding-left:0.5em;">
+            <a href="/wiki/Sea_Level_Datum_of_1929" title="Sea Level Datum of 1929">
+             NGVD 29
+            </a>
+           </td>
+           <td style="text-align:right;font-size:90%;padding-right:0.55em;">
+            Sea Level Datum 1929
+           </td>
+          </tr>
+          <tr style="vertical-align:top">
+           <td style="text-align:left;padding-left:0.5em;">
+            <a class="mw-redirect" href="/wiki/OSGB36" title="OSGB36">
+             OSGB36
+            </a>
+           </td>
+           <td style="text-align:right;font-size:90%;padding-right:0.55em;">
+            Ordnance Survey Great Britain 1936
+           </td>
+          </tr>
+          <tr style="vertical-align:top">
+           <td style="text-align:left;padding-left:0.5em;">
+            <a href="/wiki/SK-42_reference_system" title="SK-42 reference system">
+             SK-42
+            </a>
+           </td>
+           <td style="text-align:right;font-size:90%;padding-right:0.55em;">
+            Systema Koordinat 1942 goda
+           </td>
+          </tr>
+          <tr style="vertical-align:top">
+           <td style="text-align:left;padding-left:0.5em;">
+            <a href="/wiki/ED50" title="ED50">
+             ED50
+            </a>
+           </td>
+           <td style="text-align:right;font-size:90%;padding-right:0.55em;">
+            European Datum 1950
+           </td>
+          </tr>
+          <tr style="vertical-align:top">
+           <td style="text-align:left;padding-left:0.5em;">
+            <a href="/wiki/South_American_Datum#SAD69" title="South American Datum">
+             SAD69
+            </a>
+           </td>
+           <td style="text-align:right;font-size:90%;padding-right:0.55em;">
+            South American Datum 1969
+           </td>
+          </tr>
+          <tr style="vertical-align:top">
+           <td style="text-align:left;padding-left:0.5em;">
+            <a href="/wiki/GRS_80" title="GRS 80">
+             GRS 80
+            </a>
+           </td>
+           <td style="text-align:right;font-size:90%;padding-right:0.55em;">
+            Geodetic Reference System 1980
+           </td>
+          </tr>
+          <tr style="vertical-align:top">
+           <td style="text-align:left;padding-left:0.5em;">
+            <a href="/wiki/North_American_Datum#North_American_Datum_of_1983" title="North American Datum">
+             NAD 83
+            </a>
+           </td>
+           <td style="text-align:right;font-size:90%;padding-right:0.55em;">
+            North American Datum 1983
+           </td>
+          </tr>
+          <tr style="vertical-align:top">
+           <td style="text-align:left;padding-left:0.5em;">
+            <a href="/wiki/World_Geodetic_System" title="World Geodetic System">
+             WGS 84
+            </a>
+           </td>
+           <td style="text-align:right;font-size:90%;padding-right:0.55em;">
+            World Geodetic System 1984
+           </td>
+          </tr>
+          <tr style="vertical-align:top">
+           <td style="text-align:left;padding-left:0.5em;">
+            <a href="/wiki/North_American_Vertical_Datum_of_1988" title="North American Vertical Datum of 1988">
+             NAVD 88
+            </a>
+           </td>
+           <td style="text-align:right;font-size:90%;padding-right:0.55em;">
+            N. American Vertical Datum 1988
+           </td>
+          </tr>
+          <tr style="vertical-align:top">
+           <td style="text-align:left;padding-left:0.5em;">
+            <a href="/wiki/European_Terrestrial_Reference_System_1989" title="European Terrestrial Reference System 1989">
+             ETRS89
+            </a>
+           </td>
+           <td style="text-align:right;font-size:90%;padding-right:0.55em;">
+            European Terrestrial Reference
+            <br/>
+            System 1989
+           </td>
+          </tr>
+          <tr style="vertical-align:top">
+           <td style="text-align:left;padding-left:0.5em;">
+            <a href="/wiki/Restrictions_on_geographic_data_in_China" title="Restrictions on geographic data in China">
+             GCJ-02
+            </a>
+           </td>
+           <td style="text-align:right;font-size:90%;padding-right:0.55em;">
+            Chinese obfuscated datum 2002
+           </td>
+          </tr>
+         </table>
+         <ul>
+          <li>
+           <a href="/wiki/International_Terrestrial_Reference_System" title="International Terrestrial Reference System">
+            International Terrestrial Reference System
+           </a>
+          </li>
+          <li>
+           <a class="mw-redirect" href="/wiki/SRID" title="SRID">
+            Spatial Reference System Identifier (SRID)
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Universal_Transverse_Mercator_coordinate_system" title="Universal Transverse Mercator coordinate system">
+            Universal Transverse Mercator (UTM)
+           </a>
+          </li>
+         </ul>
+        </td>
+       </tr>
+       <tr>
+        <td style="text-align:right;font-size:115%">
+         <div class="plainlinks hlist navbar mini">
+          <ul>
+           <li class="nv-view">
+            <a href="/wiki/Template:Geodesy" title="Template:Geodesy">
+             <abbr title="View this template">
+              v
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-talk">
+            <a href="/wiki/Template_talk:Geodesy" title="Template talk:Geodesy">
+             <abbr title="Discuss this template">
+              t
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-edit">
+            <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Geodesy&amp;action=edit">
+             <abbr title="Edit this template">
+              e
+             </abbr>
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+      </table>
+      <p>
+       The
+       <b>
+        Irish grid reference system
+       </b>
+       is a system of geographic
+       <a href="/wiki/Grid_reference" title="Grid reference">
+        grid references
+       </a>
+       commonly
+       <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+        [
+        <i>
+         <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+          <span title="This claim needs references to reliable sources. (October 2015)">
+           citation needed
+          </span>
+         </a>
+        </i>
+        ]
+       </sup>
+       used in
+       <a href="/wiki/Ireland" title="Ireland">
+        Ireland
+       </a>
+       (both
+       <a href="/wiki/Northern_Ireland" title="Northern Ireland">
+        Northern Ireland
+       </a>
+       and the
+       <a href="/wiki/Republic_of_Ireland" title="Republic of Ireland">
+        Republic of Ireland
+       </a>
+       ). The Irish grid partially overlaps the
+       <a class="mw-redirect" href="/wiki/British_national_grid_reference_system" title="British national grid reference system">
+        British grid
+       </a>
+       , and uses a similar co-ordinate system but with a meridian more suited to its westerly location.
+      </p>
+      <p>
+      </p>
+      <div class="toc" id="toc">
+       <div class="toctitle" dir="ltr" lang="en" xml:lang="en">
+        <h2>
+         Contents
+        </h2>
+       </div>
+       <ul>
+        <li class="toclevel-1 tocsection-1">
+         <a href="#Usage">
+          <span class="tocnumber">
+           1
+          </span>
+          <span class="toctext">
+           Usage
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-2">
+         <a href="#Grid_letters">
+          <span class="tocnumber">
+           2
+          </span>
+          <span class="toctext">
+           Grid letters
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-3">
+         <a href="#Eastings_and_northings">
+          <span class="tocnumber">
+           3
+          </span>
+          <span class="toctext">
+           Eastings and northings
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-4">
+         <a href="#Summary_parameters_of_the_Irish_Grid_coordinate_system">
+          <span class="tocnumber">
+           4
+          </span>
+          <span class="toctext">
+           Summary parameters of the Irish Grid coordinate system
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-5">
+         <a href="#Notes">
+          <span class="tocnumber">
+           5
+          </span>
+          <span class="toctext">
+           Notes
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-6">
+         <a href="#References">
+          <span class="tocnumber">
+           6
+          </span>
+          <span class="toctext">
+           References
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-7">
+         <a href="#External_links">
+          <span class="tocnumber">
+           7
+          </span>
+          <span class="toctext">
+           External links
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <p>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Usage">
+        Usage
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Irish_grid_reference_system&amp;action=edit&amp;section=1" title="Edit section: Usage">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       In general, neither
+       <a href="/wiki/Ireland" title="Ireland">
+        Ireland
+       </a>
+       nor
+       <a href="/wiki/Great_Britain" title="Great Britain">
+        Great Britain
+       </a>
+       uses
+       <a href="/wiki/Latitude" title="Latitude">
+        latitude
+       </a>
+       or
+       <a href="/wiki/Longitude" title="Longitude">
+        longitude
+       </a>
+       in describing internal geographic locations. Instead
+       <a href="/wiki/Grid_reference" title="Grid reference">
+        grid reference
+       </a>
+       systems are in common usage.
+      </p>
+      <p>
+       The national grid referencing system was devised by the
+       <a href="/wiki/Ordnance_Survey" title="Ordnance Survey">
+        Ordnance Survey
+       </a>
+       , and is heavily used in their survey data, and in maps (whether published by the
+       <a class="mw-redirect" href="/wiki/Ordnance_Survey_of_Ireland" title="Ordnance Survey of Ireland">
+        Ordnance Survey of Ireland
+       </a>
+       , the
+       <a href="/wiki/Ordnance_Survey_of_Northern_Ireland" title="Ordnance Survey of Northern Ireland">
+        Ordnance Survey of Northern Ireland
+       </a>
+       or commercial map producers) based on those surveys. Additionally grid references are commonly quoted in other publications and data sources, such as guide books or government planning documents.
+      </p>
+      <p>
+       The Ordnance Survey of Ireland has implemented
+       <sup class="noprint Inline-Template" style="white-space:nowrap;">
+        [
+        <i>
+         <a href="/wiki/Wikipedia:Manual_of_Style/Dates_and_numbers#Chronological_items" title="Wikipedia:Manual of Style/Dates and numbers">
+          <span title="The time period mentioned near this tag is ambiguous. (February 2016)">
+           when?
+          </span>
+         </a>
+        </i>
+        ]
+       </sup>
+       a new coordinate system for Ireland called
+       <a href="/wiki/Irish_Transverse_Mercator" title="Irish Transverse Mercator">
+        Irish Transverse Mercator
+       </a>
+       , or ITM, which will initially run in parallel with the existing Irish grid system. In both systems, the true origin is at 53° 30' N,
+       <a href="/wiki/8th_meridian_west" title="8th meridian west">
+        8° W
+       </a>
+       <sup class="reference" id="cite_ref-1">
+        <a href="#cite_note-1">
+         [1]
+        </a>
+       </sup>
+       — a point in
+       <a href="/wiki/Lough_Ree" title="Lough Ree">
+        Lough Ree
+       </a>
+       , close to the western (
+       <a href="/wiki/County_Roscommon" title="County Roscommon">
+        Co. Roscommon
+       </a>
+       ) shore, whose grid reference is
+       <a class="external text" href="http://getamap.ordnancesurvey.co.uk/getamap/frames.htm?mapAction=gaz&amp;gazName=g&amp;gazString=N000500" rel="nofollow">
+        N 000 500
+       </a>
+       .
+      </p>
+      <h2>
+       <span class="mw-headline" id="Grid_letters">
+        Grid letters
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Irish_grid_reference_system&amp;action=edit&amp;section=2" title="Edit section: Grid letters">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:Irish_Grid.svg">
+         <img alt="" class="thumbimage" data-file-height="485" data-file-width="485" height="220" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Irish_Grid.svg/220px-Irish_Grid.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Irish_Grid.svg/330px-Irish_Grid.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Irish_Grid.svg/440px-Irish_Grid.svg.png 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Irish_Grid.svg" title="Enlarge">
+          </a>
+         </div>
+         Irish grid
+        </div>
+       </div>
+      </div>
+      <p>
+       The area of Ireland is divided into 25 squares, measuring 100 by 100 km (62 by 62 mi), each identified by a single letter. The squares are numbered A to Z with I being omitted. Seven of the squares do not actually cover any land in Ireland: A, E, K, P, U, Y and Z.
+      </p>
+      <h2>
+       <span class="mw-headline" id="Eastings_and_northings">
+        Eastings and northings
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Irish_grid_reference_system&amp;action=edit&amp;section=3" title="Edit section: Eastings and northings">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       Within each square, eastings and northings from the origin (south west corner) of the square are given numerically. For example, G0305 means 'square G, 3 km (1.9 mi) east, 5 km (3.1 mi) north'. A location can be indicated to varying resolutions numerically, usually from two digits in each coordinate (for a 1 km (0.62 mi) square) through to five (for a 1 m (3 ft 3 in)) square; the most common usage is the
+       <i>
+        six figure grid reference
+       </i>
+       , employing three digits in each coordinate to determine a 100 m (330 ft) square.
+      </p>
+      <p>
+       Coordinates may also be given relative to the origin of the entire 500 by 500 km (310 by 310 mi) grid (in the format easting, northing). For example, the location of the
+       <a href="/wiki/Spire_of_Dublin" title="Spire of Dublin">
+        Spire of Dublin
+       </a>
+       on
+       <a href="/wiki/O%27Connell_Street" title="O'Connell Street">
+        O'Connell Street
+       </a>
+       may be given as 315904, 234671 as well as O1590434671. Coordinates in this format must never be truncated, because, for example, 31590, 23467 is also a valid location.
+      </p>
+      <h2>
+       <span class="mw-headline" id="Summary_parameters_of_the_Irish_Grid_coordinate_system">
+        Summary parameters of the Irish Grid coordinate system
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Irish_grid_reference_system&amp;action=edit&amp;section=4" title="Edit section: Summary parameters of the Irish Grid coordinate system">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <dl>
+       <dd>
+        Spheroid: Airy Modified,
+       </dd>
+       <dd>
+        Datum: 1965,
+       </dd>
+       <dd>
+        Map projection:
+        <a class="mw-redirect" href="/wiki/Transverse_Mercator" title="Transverse Mercator">
+         Transverse Mercator
+        </a>
+       </dd>
+       <dd>
+        Latitude of Origin: 53°30'00 N
+       </dd>
+       <dd>
+        Longitude of Origin:
+        <a href="/wiki/8th_meridian_west" title="8th meridian west">
+         8°00'00 W
+        </a>
+       </dd>
+       <dd>
+        Scale Factor: 1.000 035
+       </dd>
+       <dd>
+        False Easting: 200000 m
+       </dd>
+       <dd>
+        False Northing: 250000 m
+       </dd>
+      </dl>
+      <h2>
+       <span class="mw-headline" id="Notes">
+        Notes
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Irish_grid_reference_system&amp;action=edit&amp;section=5" title="Edit section: Notes">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="reflist" style="list-style-type: decimal;">
+       <div class="mw-references-wrap">
+        <ol class="references">
+         <li id="cite_note-1">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-1">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <a href="#OSI">
+            OS Ireland
+           </a>
+          </span>
+         </li>
+        </ol>
+       </div>
+      </div>
+      <h2>
+       <span class="mw-headline" id="References">
+        References
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Irish_grid_reference_system&amp;action=edit&amp;section=6" title="Edit section: References">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <cite class="citation web" id="OSI">
+         Leahy, Derek (September 26, 2008).
+         <a class="external text" href="https://web.archive.org/web/20090911204112/http://www.osi.ie/en/alist/reference-information.aspx?article=42177d93-831a-4c6c-8ebf-cef57b55cd93" rel="nofollow">
+          "Irish Grid Reference System"
+         </a>
+         .
+         <i>
+          Ordnance Survey Ireland : 185 years of innovation in mapping
+         </i>
+         . Dublin: Ordnance Survey Ireland. Archived from
+         <a class="external text" href="http://www.osi.ie/en/alist/reference-information.aspx?article=42177d93-831a-4c6c-8ebf-cef57b55cd93" rel="nofollow">
+          the original
+         </a>
+         on September 11, 2009
+         <span class="reference-accessdate">
+          . Retrieved
+          <span class="nowrap">
+           14 August
+          </span>
+          2009
+         </span>
+         .
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Ordnance+Survey+Ireland+%3A+185+years+of+innovation+in+mapping&amp;rft.atitle=Irish+Grid+Reference+System&amp;rft.date=2008-09-26&amp;rft.aulast=Leahy&amp;rft.aufirst=Derek&amp;rft_id=http%3A%2F%2Fwww.osi.ie%2Fen%2Falist%2Freference-information.aspx%3Farticle%3D42177d93-831a-4c6c-8ebf-cef57b55cd93&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIrish+grid+reference+system">
+         <span style="display:none;">
+         </span>
+        </span>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="External_links">
+        External links
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Irish_grid_reference_system&amp;action=edit&amp;section=7" title="Edit section: External links">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a class="external text" href="https://www.osi.ie/wp-content/uploads/2015/04/The-Irish-Grid-A-Description-of-the-Coordinate-Reference-System-Used-in-Ireland.pdf" rel="nofollow">
+         <i>
+          The Irish Grid - A Description of the Co-ordinate Reference System used in Ireland
+         </i>
+        </a>
+        PDF (358kB) on the Irish Grid from OSi.
+       </li>
+       <li>
+        <a class="external text" href="https://www.osi.ie/wp-content/uploads/2015/05/transformations_booklet.pdf" rel="nofollow">
+         PDF (221KB) detailing GPS to Irish Grid conversions
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://www.osni.gov.uk/2.1_the_irish_grid.pdf" rel="nofollow">
+         A detailed (42-page) PDF file including history and map of the Irish grid and its links to Britain
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="https://web.archive.org/web/20070701073911/http://www.asprs.org/resources/grids/03-99-ireland.pdf" rel="nofollow">
+         A two-page article for the American Society for Photogrammetry and Remote Sensing summarising the above.
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="https://web.archive.org/web/20090911204112/http://www.osi.ie/en/alist/reference-information.aspx?article=42177d93-831a-4c6c-8ebf-cef57b55cd93" rel="nofollow">
+         History and overview of the system, from OSI
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="https://www.osi.ie/services/geodetic-services/coordinate-converter/" rel="nofollow">
+         OSI online coordinate converter tool
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://www.gridreference.ie" rel="nofollow">
+         Clickable webmap that shows Irish grid references
+        </a>
+       </li>
+      </ul>
+      <!-- 
+NewPP limit report
+Parsed by mw1289
+Cached time: 20180123161219
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.140 seconds
+Real time usage: 0.196 seconds
+Preprocessor visited node count: 722/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 30774/2097152 bytes
+Template argument size: 2267/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 2/500
+Lua time usage: 0.071/10.000 seconds
+Lua memory usage: 3.79 MB/50 MB
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  171.210      1 -total
+ 29.24%   50.059      1 Template:Geodesy
+ 27.37%   46.858      1 Template:Sidebar
+ 22.85%   39.124      2 Template:Fix
+ 22.01%   37.678      1 Template:Cn
+ 19.20%   32.869      1 Template:Cite_web
+ 18.26%   31.271      7 Template:Convert
+ 14.66%   25.107      4 Template:Category_handler
+  6.38%   10.922      2 Template:Delink
+  5.78%    9.903      1 Template:When
+-->
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:1090611-0!canonical and timestamp 20180123161411 and revision id 821956146
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Irish_grid_reference_system&amp;oldid=821956146">
+      https://en.wikipedia.org/w/index.php?title=Irish_grid_reference_system&amp;oldid=821956146
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Geography_of_Ireland" title="Category:Geography of Ireland">
+         Geography of Ireland
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Maps_from_Ordnance_Survey" title="Category:Maps from Ordnance Survey">
+         Maps from Ordnance Survey
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Geographic_coordinate_systems" title="Category:Geographic coordinate systems">
+         Geographic coordinate systems
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Land_surveying_systems" title="Category:Land surveying systems">
+         Land surveying systems
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Geodesy" title="Category:Geodesy">
+         Geodesy
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">
+         All articles with unsourced statements
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_with_unsourced_statements_from_October_2015" title="Category:Articles with unsourced statements from October 2015">
+         Articles with unsourced statements from October 2015
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:All_articles_with_vague_or_ambiguous_time" title="Category:All articles with vague or ambiguous time">
+         All articles with vague or ambiguous time
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Vague_or_ambiguous_time_from_February_2016" title="Category:Vague or ambiguous time from February 2016">
+         Vague or ambiguous time from February 2016
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Irish+grid+reference+system" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Irish+grid+reference+system" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Irish_grid_reference_system" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Irish_grid_reference_system" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="collapsible selected" id="ca-view">
+        <span>
+         <a href="/wiki/Irish_grid_reference_system">
+          Read
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Irish_grid_reference_system&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Irish_grid_reference_system&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Irish_grid_reference_system" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Irish_grid_reference_system" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Irish_grid_reference_system&amp;oldid=821956146" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Irish_grid_reference_system&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1672843" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Irish_grid_reference_system&amp;id=821956146" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Irish+grid+reference+system">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Irish+grid+reference+system&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Irish_grid_reference_system&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Irish_Grid" hreflang="de" lang="de" title="Irish Grid – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ga">
+        <a class="interlanguage-link-target" href="https://ga.wikipedia.org/wiki/Eangach_thagartha_n%C3%A1isi%C3%BAnta_na_h%C3%89ireann" hreflang="ga" lang="ga" title="Eangach thagartha náisiúnta na hÉireann – Irish">
+         Gaeilge
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-gv">
+        <a class="interlanguage-link-target" href="https://gv.wikipedia.org/wiki/Corys_ingagh_ogheragh_Nerin" hreflang="gv" lang="gv" title="Corys ingagh ogheragh Nerin – Manx">
+         Gaelg
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Irish_grid" hreflang="it" lang="it" title="Irish grid – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%98%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D0%BE%D0%BE%D1%80%D0%B4%D0%B8%D0%BD%D0%B0%D1%82%D0%BD%D0%B0%D1%8F_%D1%81%D0%B5%D1%82%D0%BA%D0%B0" hreflang="ru" lang="ru" title="Ирландская координатная сетка – Russian">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-simple">
+        <a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Irish_national_grid_reference_system" hreflang="simple" lang="simple" title="Irish national grid reference system – Simple English">
+         Simple English
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1672843#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 23 January 2018, at 16:14.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Irish_grid_reference_system&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.140","walltime":"0.196","ppvisitednodes":{"value":722,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":30774,"limit":2097152},"templateargumentsize":{"value":2267,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  171.210      1 -total"," 29.24%   50.059      1 Template:Geodesy"," 27.37%   46.858      1 Template:Sidebar"," 22.85%   39.124      2 Template:Fix"," 22.01%   37.678      1 Template:Cn"," 19.20%   32.869      1 Template:Cite_web"," 18.26%   31.271      7 Template:Convert"," 14.66%   25.107      4 Template:Category_handler","  6.38%   10.922      2 Template:Delink","  5.78%    9.903      1 Template:When"]},"scribunto":{"limitreport-timeusage":{"value":"0.071","limit":"10.000"},"limitreport-memusage":{"value":3973712,"limit":52428800}},"cachereport":{"origin":"mw1289","timestamp":"20180123161219","ttl":1900800,"transientcontent":false}}});});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":68,"wgHostname":"mw1324"});});
+  </script>
+ </body>
+</html>

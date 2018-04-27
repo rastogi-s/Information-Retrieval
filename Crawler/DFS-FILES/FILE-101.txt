@@ -1,0 +1,3939 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Geoid - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Geoid","wgTitle":"Geoid","wgCurRevisionId":821814371,"wgRevisionId":821814371,"wgArticleId":176244,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages with citations lacking titles","Pages with citations having bare URLs","Use dmy dates from February 2013","Articles to be expanded from June 2014","All articles to be expanded","Articles using small message boxes","All articles with unsourced statements","Articles with unsourced statements from June 2014","Gravimetry","Geodesy"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Geoid","wgRelevantArticleId":176244,"wgRequestId":"WnFFnQpAME0AAB@ubsQAAACP","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q185969","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.31.0-wmf.17" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <meta content="https://upload.wikimedia.org/wikipedia/commons/4/4c/Azimutalprojektion-schief_kl-cropped.png" property="og:image"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Geoid" rel="alternate"/>
+  <link href="/w/index.php?title=Geoid&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Geoid&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/Geoid" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Geoid rootpage-Geoid skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Geoid
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <div class="hatnote navigation-not-searchable" role="note">
+       Not to be confused with
+       <a href="/wiki/Geode" title="Geode">
+        geode
+       </a>
+       .
+      </div>
+      <div class="hatnote navigation-not-searchable" role="note">
+       Not to be confused with
+       <a class="mw-redirect" href="/wiki/GEOID" title="GEOID">
+        GEOID
+       </a>
+       , a geocoding scheme.
+      </div>
+      <table class="vertical-navbox nowraplinks plainlist" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+       <tr>
+        <th style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em;padding-bottom:0.4em;">
+         <a href="/wiki/Geodesy" title="Geodesy">
+          Geodesy
+         </a>
+        </th>
+       </tr>
+       <tr>
+        <td style="padding:0.2em 0 0.4em">
+         <a class="image" href="/wiki/File:Azimutalprojektion-schief_kl-cropped.png">
+          <img alt="Azimutalprojektion-schief kl-cropped.png" data-file-height="240" data-file-width="242" height="149" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Azimutalprojektion-schief_kl-cropped.png/150px-Azimutalprojektion-schief_kl-cropped.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Azimutalprojektion-schief_kl-cropped.png/225px-Azimutalprojektion-schief_kl-cropped.png 1.5x, //upload.wikimedia.org/wikipedia/commons/4/4c/Azimutalprojektion-schief_kl-cropped.png 2x" width="150"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <th style="padding:0.1em;background:#c5d5a5;">
+         Fundamentals
+        </th>
+       </tr>
+       <tr>
+        <td style="padding:0 0.1em 0.4em;padding-top:0.2em;padding-bottom:0.7em;">
+         <div class="hlist">
+          <ul>
+           <li>
+            <a href="/wiki/Geodesy" title="Geodesy">
+             Geodesy
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Geodynamics" title="Geodynamics">
+             Geodynamics
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Geomatics" title="Geomatics">
+             Geomatics
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Cartography" title="Cartography">
+             Cartography
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/History_of_geodesy" title="History of geodesy">
+             History
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr>
+        <th style="padding:0.1em;background:#c5d5a5;">
+         Concepts
+        </th>
+       </tr>
+       <tr>
+        <td style="padding:0 0.1em 0.4em;padding-top:0.2em;padding-bottom:0.7em;">
+         <div class="hlist">
+          <ul>
+           <li>
+            <a href="/wiki/Geographical_distance" title="Geographical distance">
+             Geographical distance
+            </a>
+           </li>
+           <li>
+            <a class="mw-selflink selflink">
+             Geoid
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Figure_of_the_Earth" title="Figure of the Earth">
+             Figure of the Earth
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Geodetic_datum" title="Geodetic datum">
+             Geodetic datum
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Geodesic" title="Geodesic">
+             Geodesic
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">
+             Geographic coordinate system
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Horizontal_position_representation" title="Horizontal position representation">
+             Horizontal position representation
+            </a>
+           </li>
+           <li>
+            <span class="nowrap">
+             <a href="/wiki/Latitude" title="Latitude">
+              Latitude
+             </a>
+             /
+             <a href="/wiki/Longitude" title="Longitude">
+              Longitude
+             </a>
+            </span>
+           </li>
+           <li>
+            <a href="/wiki/Map_projection" title="Map projection">
+             Map projection
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Reference_ellipsoid" title="Reference ellipsoid">
+             Reference ellipsoid
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Satellite_geodesy" title="Satellite geodesy">
+             Satellite geodesy
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Spatial_reference_system" title="Spatial reference system">
+             Spatial reference system
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr>
+        <th style="padding:0.1em;background:#c5d5a5;">
+         Technologies
+        </th>
+       </tr>
+       <tr>
+        <td style="padding:0 0.1em 0.4em;padding-top:0.2em;padding-bottom:0.7em;">
+         <ul>
+          <li>
+           <a href="/wiki/Satellite_navigation" title="Satellite navigation">
+            Global Navigation Satellite System (GNSS)
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Global_Positioning_System" title="Global Positioning System">
+            Global Positioning System (GPS)
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/GLONASS" title="GLONASS">
+            GLONASS
+            <span style="font-size:90%;">
+             (Russian)
+            </span>
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/BeiDou_Navigation_Satellite_System" title="BeiDou Navigation Satellite System">
+            BeiDou (BDS)
+            <span style="font-size:90%;">
+             (Chinese)
+            </span>
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Galileo_(satellite_navigation)" title="Galileo (satellite navigation)">
+            Galileo
+            <span style="font-size:90%;">
+             (European)
+            </span>
+           </a>
+          </li>
+          <li>
+           <div style="padding:0.2em 0.4em; line-height:1.2em;">
+            <a href="/wiki/Indian_Regional_Navigation_Satellite_System" title="Indian Regional Navigation Satellite System">
+             Indian Regional Navigation
+             <br/>
+             Satellite System (IRNSS)
+             <span style="font-size:90%;">
+              (India)
+             </span>
+            </a>
+           </div>
+          </li>
+          <li>
+           <a href="/wiki/Quasi-Zenith_Satellite_System" title="Quasi-Zenith Satellite System">
+            Quasi-Zenith Satellite System (QZSS)
+            <span style="font-size:90%;">
+             (Japan)
+            </span>
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Legenda_(satellite_system)" title="Legenda (satellite system)">
+            Legenda (satellite system)
+           </a>
+          </li>
+         </ul>
+        </td>
+       </tr>
+       <tr>
+        <th style="padding:0.1em;background:#c5d5a5;">
+         Standards (
+         <a href="/wiki/History_of_geodesy" title="History of geodesy">
+          History
+         </a>
+         )
+        </th>
+       </tr>
+       <tr>
+        <td style="padding:0 0.1em 0.4em;padding-top:0.2em;padding-bottom:0.7em;">
+         <table class="nowrap" style="width:100%;border-collapse:collapse;border-spacing:0px 0px;border:none;line-height:1.2em;">
+          <tr style="vertical-align:top">
+           <td style="text-align:left;padding-left:0.5em;">
+            <a href="/wiki/Sea_Level_Datum_of_1929" title="Sea Level Datum of 1929">
+             NGVD 29
+            </a>
+           </td>
+           <td style="text-align:right;font-size:90%;padding-right:0.55em;">
+            Sea Level Datum 1929
+           </td>
+          </tr>
+          <tr style="vertical-align:top">
+           <td style="text-align:left;padding-left:0.5em;">
+            <a class="mw-redirect" href="/wiki/OSGB36" title="OSGB36">
+             OSGB36
+            </a>
+           </td>
+           <td style="text-align:right;font-size:90%;padding-right:0.55em;">
+            Ordnance Survey Great Britain 1936
+           </td>
+          </tr>
+          <tr style="vertical-align:top">
+           <td style="text-align:left;padding-left:0.5em;">
+            <a href="/wiki/SK-42_reference_system" title="SK-42 reference system">
+             SK-42
+            </a>
+           </td>
+           <td style="text-align:right;font-size:90%;padding-right:0.55em;">
+            Systema Koordinat 1942 goda
+           </td>
+          </tr>
+          <tr style="vertical-align:top">
+           <td style="text-align:left;padding-left:0.5em;">
+            <a href="/wiki/ED50" title="ED50">
+             ED50
+            </a>
+           </td>
+           <td style="text-align:right;font-size:90%;padding-right:0.55em;">
+            European Datum 1950
+           </td>
+          </tr>
+          <tr style="vertical-align:top">
+           <td style="text-align:left;padding-left:0.5em;">
+            <a href="/wiki/South_American_Datum#SAD69" title="South American Datum">
+             SAD69
+            </a>
+           </td>
+           <td style="text-align:right;font-size:90%;padding-right:0.55em;">
+            South American Datum 1969
+           </td>
+          </tr>
+          <tr style="vertical-align:top">
+           <td style="text-align:left;padding-left:0.5em;">
+            <a href="/wiki/GRS_80" title="GRS 80">
+             GRS 80
+            </a>
+           </td>
+           <td style="text-align:right;font-size:90%;padding-right:0.55em;">
+            Geodetic Reference System 1980
+           </td>
+          </tr>
+          <tr style="vertical-align:top">
+           <td style="text-align:left;padding-left:0.5em;">
+            <a href="/wiki/North_American_Datum#North_American_Datum_of_1983" title="North American Datum">
+             NAD 83
+            </a>
+           </td>
+           <td style="text-align:right;font-size:90%;padding-right:0.55em;">
+            North American Datum 1983
+           </td>
+          </tr>
+          <tr style="vertical-align:top">
+           <td style="text-align:left;padding-left:0.5em;">
+            <a href="/wiki/World_Geodetic_System" title="World Geodetic System">
+             WGS 84
+            </a>
+           </td>
+           <td style="text-align:right;font-size:90%;padding-right:0.55em;">
+            World Geodetic System 1984
+           </td>
+          </tr>
+          <tr style="vertical-align:top">
+           <td style="text-align:left;padding-left:0.5em;">
+            <a href="/wiki/North_American_Vertical_Datum_of_1988" title="North American Vertical Datum of 1988">
+             NAVD 88
+            </a>
+           </td>
+           <td style="text-align:right;font-size:90%;padding-right:0.55em;">
+            N. American Vertical Datum 1988
+           </td>
+          </tr>
+          <tr style="vertical-align:top">
+           <td style="text-align:left;padding-left:0.5em;">
+            <a href="/wiki/European_Terrestrial_Reference_System_1989" title="European Terrestrial Reference System 1989">
+             ETRS89
+            </a>
+           </td>
+           <td style="text-align:right;font-size:90%;padding-right:0.55em;">
+            European Terrestrial Reference
+            <br/>
+            System 1989
+           </td>
+          </tr>
+          <tr style="vertical-align:top">
+           <td style="text-align:left;padding-left:0.5em;">
+            <a href="/wiki/Restrictions_on_geographic_data_in_China" title="Restrictions on geographic data in China">
+             GCJ-02
+            </a>
+           </td>
+           <td style="text-align:right;font-size:90%;padding-right:0.55em;">
+            Chinese obfuscated datum 2002
+           </td>
+          </tr>
+         </table>
+         <ul>
+          <li>
+           <a href="/wiki/International_Terrestrial_Reference_System" title="International Terrestrial Reference System">
+            International Terrestrial Reference System
+           </a>
+          </li>
+          <li>
+           <a class="mw-redirect" href="/wiki/SRID" title="SRID">
+            Spatial Reference System Identifier (SRID)
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Universal_Transverse_Mercator_coordinate_system" title="Universal Transverse Mercator coordinate system">
+            Universal Transverse Mercator (UTM)
+           </a>
+          </li>
+         </ul>
+        </td>
+       </tr>
+       <tr>
+        <td style="text-align:right;font-size:115%">
+         <div class="plainlinks hlist navbar mini">
+          <ul>
+           <li class="nv-view">
+            <a href="/wiki/Template:Geodesy" title="Template:Geodesy">
+             <abbr title="View this template">
+              v
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-talk">
+            <a href="/wiki/Template_talk:Geodesy" title="Template talk:Geodesy">
+             <abbr title="Discuss this template">
+              t
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-edit">
+            <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Geodesy&amp;action=edit">
+             <abbr title="Edit this template">
+              e
+             </abbr>
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+      </table>
+      <p>
+       The
+       <b>
+        geoid
+       </b>
+       is the shape that the surface of the oceans would take under the influence of
+       <a href="/wiki/Gravity_of_Earth" title="Gravity of Earth">
+        Earth's gravity
+       </a>
+       and rotation alone, in the absence of other influences such as winds and tides. This surface is extended through the continents (such as with very narrow hypothetical canals). All points on a geoid surface have the same
+       <a href="/wiki/Effective_potential" title="Effective potential">
+        effective potential
+       </a>
+       (the sum of
+       <a href="/wiki/Gravity" title="Gravity">
+        gravitational
+       </a>
+       potential energy and centrifugal potential energy). The geoid can be defined at any value of gravitational potential such as within the
+       <a href="/wiki/Earth" title="Earth">
+        Earth
+       </a>
+       's crust or far out in space, not just at
+       <a href="/wiki/Sea_level" title="Sea level">
+        sea level
+       </a>
+       . The force of gravity acts everywhere perpendicular to the geoid, meaning that
+       <a href="/wiki/Plumb_bob" title="Plumb bob">
+        plumb lines
+       </a>
+       point perpendicular and
+       <a href="/wiki/Spirit_level" title="Spirit level">
+        water levels
+       </a>
+       parallel to the geoid if only gravity and rotational acceleration were at work.
+      </p>
+      <p>
+       Specifically, the geoid is the
+       <a class="mw-redirect" href="/wiki/Equipotential_surface" title="Equipotential surface">
+        equipotential surface
+       </a>
+       that would coincide with the mean ocean surface of Earth if the oceans and atmosphere were in equilibrium, at rest relative to the rotating Earth,
+       <sup class="reference" id="cite_ref-conrad_1-0">
+        <a href="#cite_note-conrad-1">
+         [1]
+        </a>
+       </sup>
+       and extended through the continents (such as with very narrow canals). According to
+       <a href="/wiki/Carl_Friedrich_Gauss" title="Carl Friedrich Gauss">
+        Gauss
+       </a>
+       , who first described it, it is the "mathematical figure of Earth", a smooth but highly irregular surface whose shape results from the uneven distribution of mass within and on the surface of Earth. It does not correspond to the actual surface of Earth's crust, but to a surface which can only be known through extensive gravitational measurements and calculations. Despite being an important concept for almost two hundred years in the history of
+       <a href="/wiki/Geodesy" title="Geodesy">
+        geodesy
+       </a>
+       and
+       <a href="/wiki/Geophysics" title="Geophysics">
+        geophysics
+       </a>
+       , it has only been defined to high precision since advances in
+       <a href="/wiki/Satellite_geodesy" title="Satellite geodesy">
+        satellite geodesy
+       </a>
+       in the late 20th century. It is often described as the true physical
+       <a href="/wiki/Figure_of_the_Earth" title="Figure of the Earth">
+        figure of the Earth
+       </a>
+       ,
+       <sup class="reference" id="cite_ref-conrad_1-1">
+        <a href="#cite_note-conrad-1">
+         [1]
+        </a>
+       </sup>
+       in contrast to the idealized geometrical figure of a
+       <a href="/wiki/Reference_ellipsoid" title="Reference ellipsoid">
+        reference ellipsoid
+       </a>
+       .
+      </p>
+      <p>
+       The surface of the geoid is higher than the reference ellipsoid wherever there is a positive gravity anomaly (mass excess) and lower than the reference ellipsoid wherever there is a negative gravity anomaly (mass deficit).
+       <sup class="reference" id="cite_ref-2">
+        <a href="#cite_note-2">
+         [2]
+        </a>
+       </sup>
+      </p>
+      <p>
+      </p>
+      <div class="toc" id="toc">
+       <div class="toctitle" dir="ltr" lang="en" xml:lang="en">
+        <h2>
+         Contents
+        </h2>
+       </div>
+       <ul>
+        <li class="toclevel-1 tocsection-1">
+         <a href="#Description">
+          <span class="tocnumber">
+           1
+          </span>
+          <span class="toctext">
+           Description
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-2">
+         <a href="#Simplified_example">
+          <span class="tocnumber">
+           2
+          </span>
+          <span class="toctext">
+           Simplified example
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-3">
+         <a href="#Spherical_harmonics_representation">
+          <span class="tocnumber">
+           3
+          </span>
+          <span class="toctext">
+           Spherical harmonics representation
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-4">
+         <a href="#Precise_geoid">
+          <span class="tocnumber">
+           4
+          </span>
+          <span class="toctext">
+           Precise geoid
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-5">
+         <a href="#Causes_for_geoid_anomalies">
+          <span class="tocnumber">
+           5
+          </span>
+          <span class="toctext">
+           Causes for geoid anomalies
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-6">
+         <a href="#Time-variability">
+          <span class="tocnumber">
+           6
+          </span>
+          <span class="toctext">
+           Time-variability
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-7">
+         <a href="#Celestial_bodies">
+          <span class="tocnumber">
+           7
+          </span>
+          <span class="toctext">
+           Celestial bodies
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-8">
+         <a href="#See_also">
+          <span class="tocnumber">
+           8
+          </span>
+          <span class="toctext">
+           See also
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-9">
+         <a href="#References">
+          <span class="tocnumber">
+           9
+          </span>
+          <span class="toctext">
+           References
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-10">
+         <a href="#External_links">
+          <span class="tocnumber">
+           10
+          </span>
+          <span class="toctext">
+           External links
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <p>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Description">
+        Description
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Geoid&amp;action=edit&amp;section=1" title="Edit section: Description">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:Geoid_height_red_blue_averagebw.png">
+         <img alt="" class="thumbimage" data-file-height="1166" data-file-width="1686" height="152" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/68/Geoid_height_red_blue_averagebw.png/220px-Geoid_height_red_blue_averagebw.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/68/Geoid_height_red_blue_averagebw.png/330px-Geoid_height_red_blue_averagebw.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/68/Geoid_height_red_blue_averagebw.png/440px-Geoid_height_red_blue_averagebw.png 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Geoid_height_red_blue_averagebw.png" title="Enlarge">
+          </a>
+         </div>
+         Map of the
+         <a href="/wiki/Undulation_of_the_geoid" title="Undulation of the geoid">
+          undulation of the geoid
+         </a>
+         , in meters (based on the
+         <a href="/wiki/EGM96" title="EGM96">
+          EGM96
+         </a>
+         gravity model and the
+         <a class="mw-redirect" href="/wiki/WGS84" title="WGS84">
+          WGS84
+         </a>
+         reference ellipsoid).
+         <sup class="reference" id="cite_ref-3">
+          <a href="#cite_note-3">
+           [3]
+          </a>
+         </sup>
+        </div>
+       </div>
+      </div>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:Geoida.svg">
+         <img alt="" class="thumbimage" data-file-height="338" data-file-width="730" height="102" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Geoida.svg/220px-Geoida.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Geoida.svg/330px-Geoida.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/00/Geoida.svg/440px-Geoida.svg.png 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Geoida.svg" title="Enlarge">
+          </a>
+         </div>
+         1. Ocean
+         <br/>
+         2.
+         <a href="/wiki/Reference_ellipsoid" title="Reference ellipsoid">
+          Reference ellipsoid
+         </a>
+         <br/>
+         3. Local
+         <a class="mw-redirect" href="/wiki/Plumb-bob" title="Plumb-bob">
+          plumb line
+         </a>
+         <br/>
+         4. Continent
+         <br/>
+         5. Geoid
+        </div>
+       </div>
+      </div>
+      <p>
+       The geoid surface is irregular, unlike the
+       <a href="/wiki/Reference_ellipsoid" title="Reference ellipsoid">
+        reference ellipsoid
+       </a>
+       which is a mathematical idealized representation of the physical Earth, but considerably smoother than Earth's physical surface. Although the physical Earth has excursions of +8,848 m (
+       <a href="/wiki/Mount_Everest" title="Mount Everest">
+        Mount Everest
+       </a>
+       ) and −429 m (
+       <a href="/wiki/Dead_Sea" title="Dead Sea">
+        Dead Sea
+       </a>
+       ), the geoid's variation ranges from −106 to +85 m, less than 200 m total
+       <sup class="reference" id="cite_ref-4">
+        <a href="#cite_note-4">
+         [4]
+        </a>
+       </sup>
+       compared to a perfect mathematical ellipsoid.
+      </p>
+      <p>
+       If the ocean surface were
+       <a href="/wiki/Isopycnic" title="Isopycnic">
+        isopycnic
+       </a>
+       (of constant density) and undisturbed by tides, currents, or weather, it would closely approximate the geoid. The permanent deviation between the geoid and
+       <a class="mw-redirect" href="/wiki/Mean_sea_level" title="Mean sea level">
+        mean sea level
+       </a>
+       is called
+       <a href="/wiki/Ocean_surface_topography" title="Ocean surface topography">
+        ocean surface topography
+       </a>
+       . If the continental land masses were criss-crossed by a series of tunnels or canals, the sea level in these canals would also very nearly coincide with the geoid. In reality the geoid does not have a physical meaning under the continents, but
+       <a class="mw-redirect" href="/wiki/Geodesist" title="Geodesist">
+        geodesists
+       </a>
+       are able to derive the heights of continental points above this imaginary, yet physically defined, surface by a technique called
+       <a class="mw-redirect" href="/wiki/Spirit_leveling" title="Spirit leveling">
+        spirit leveling
+       </a>
+       .
+      </p>
+      <p>
+       Being an
+       <a class="mw-redirect" href="/wiki/Equipotential_surface" title="Equipotential surface">
+        equipotential surface
+       </a>
+       , the geoid is by definition a surface to which the force of gravity is everywhere perpendicular. This means that when traveling by ship, one does not notice the undulations of the geoid; the local vertical (
+       <a class="mw-redirect" href="/wiki/Plumb-bob" title="Plumb-bob">
+        plumb line
+       </a>
+       ) is always perpendicular to the geoid and the local horizon
+       <a class="mw-redirect" href="/wiki/Tangential_component" title="Tangential component">
+        tangential
+       </a>
+       to it. Likewise, spirit levels will always be parallel to the geoid.
+      </p>
+      <p>
+       On a long voyage, spirit leveling indicates height variations even though the ship is always at sea level (neglecting the effects of tides). This is because GPS
+       <a href="/wiki/Satellite" title="Satellite">
+        satellites
+       </a>
+       , orbiting about the center of gravity of the Earth, can only measure heights relative to a geocentric reference ellipsoid. To obtain one's geoidal height, a raw GPS reading must be corrected. Conversely, height determined by spirit leveling from a tidal measurement station, as in traditional land surveying, will always be geoidal height. Modern GPS receivers have a grid implemented inside where they obtain the geoid (e.g. EGM-96) height over the
+       <a href="/wiki/World_Geodetic_System" title="World Geodetic System">
+        World Geodetic System
+       </a>
+       (WGS) ellipsoid from the current position. Then they are able to correct the height above WGS ellipsoid to the height above
+       <a class="mw-redirect" href="/wiki/WGS84" title="WGS84">
+        WGS84
+       </a>
+       geoid. When height is not zero on a ship, the discrepancy is due to other factors such as ocean tides, atmospheric pressure (meteorological effects) and local
+       <a class="mw-redirect" href="/wiki/Sea_surface_topography" title="Sea surface topography">
+        sea surface topography
+       </a>
+       .
+      </p>
+      <h2>
+       <span class="mw-headline" id="Simplified_example">
+        Simplified example
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Geoid&amp;action=edit&amp;section=2" title="Edit section: Simplified example">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       The gravitational field of the earth is neither perfect nor uniform. A flattened ellipsoid is typically used as the idealized earth, but even if the earth were perfectly spherical, the strength of gravity would not be the same everywhere, because density (and therefore mass) varies throughout the planet. This is due to magma distributions, mountain ranges, deep sea trenches, and so on.
+      </p>
+      <p>
+       If that perfect sphere were then covered in water, the water would not be the same height everywhere. Instead, the water level would be higher or lower depending on the particular strength of gravity in that location.
+      </p>
+      <h2>
+       <span class="mw-headline" id="Spherical_harmonics_representation">
+        Spherical harmonics representation
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Geoid&amp;action=edit&amp;section=3" title="Edit section: Spherical harmonics representation">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       <a class="mw-redirect" href="/wiki/Spherical_harmonic" title="Spherical harmonic">
+        Spherical harmonics
+       </a>
+       are often used to approximate the shape of the geoid. The current best such set of spherical harmonic coefficients is
+       <a href="/wiki/EGM96" title="EGM96">
+        EGM96
+       </a>
+       (Earth Gravity Model 1996),
+       <sup class="reference" id="cite_ref-5">
+        <a href="#cite_note-5">
+         [5]
+        </a>
+       </sup>
+       determined in an international collaborative project led by
+       <a href="/wiki/National_Geospatial-Intelligence_Agency" title="National Geospatial-Intelligence Agency">
+        NIMA
+       </a>
+       . The mathematical description of the non-rotating part of the potential function in this model is:
+       <sup class="reference" id="cite_ref-noaa.gov_6-0">
+        <a href="#cite_note-noaa.gov-6">
+         [6]
+        </a>
+       </sup>
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle V={\frac {GM}{r}}\left(1+{\sum _{n=2}^{n_{\text{max}}}}\left({\frac {a}{r}}\right)^{n}{\sum _{m=0}^{n}}{\overline {P}}_{nm}(\sin \phi )\left[{\overline {C}}_{nm}\cos m\lambda +{\overline {S}}_{nm}\sin m\lambda \right]\right),}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mi>
+               V
+              </mi>
+              <mo>
+               =
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mfrac>
+                <mrow>
+                 <mi>
+                  G
+                 </mi>
+                 <mi>
+                  M
+                 </mi>
+                </mrow>
+                <mi>
+                 r
+                </mi>
+               </mfrac>
+              </mrow>
+              <mrow>
+               <mo>
+                (
+               </mo>
+               <mrow>
+                <mn>
+                 1
+                </mn>
+                <mo>
+                 +
+                </mo>
+                <mrow class="MJX-TeXAtom-ORD">
+                 <munderover>
+                  <mo>
+                   ∑
+                   <!-- ∑ -->
+                  </mo>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mi>
+                    n
+                   </mi>
+                   <mo>
+                    =
+                   </mo>
+                   <mn>
+                    2
+                   </mn>
+                  </mrow>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <msub>
+                    <mi>
+                     n
+                    </mi>
+                    <mrow class="MJX-TeXAtom-ORD">
+                     <mtext>
+                      max
+                     </mtext>
+                    </mrow>
+                   </msub>
+                  </mrow>
+                 </munderover>
+                </mrow>
+                <msup>
+                 <mrow>
+                  <mo>
+                   (
+                  </mo>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mfrac>
+                    <mi>
+                     a
+                    </mi>
+                    <mi>
+                     r
+                    </mi>
+                   </mfrac>
+                  </mrow>
+                  <mo>
+                   )
+                  </mo>
+                 </mrow>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mi>
+                   n
+                  </mi>
+                 </mrow>
+                </msup>
+                <mrow class="MJX-TeXAtom-ORD">
+                 <munderover>
+                  <mo>
+                   ∑
+                   <!-- ∑ -->
+                  </mo>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mi>
+                    m
+                   </mi>
+                   <mo>
+                    =
+                   </mo>
+                   <mn>
+                    0
+                   </mn>
+                  </mrow>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mi>
+                    n
+                   </mi>
+                  </mrow>
+                 </munderover>
+                </mrow>
+                <msub>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mover>
+                   <mi>
+                    P
+                   </mi>
+                   <mo accent="false">
+                    ¯
+                    <!-- ¯ -->
+                   </mo>
+                  </mover>
+                 </mrow>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mi>
+                   n
+                  </mi>
+                  <mi>
+                   m
+                  </mi>
+                 </mrow>
+                </msub>
+                <mo stretchy="false">
+                 (
+                </mo>
+                <mi>
+                 sin
+                </mi>
+                <mo>
+                 ⁡
+                 <!-- ⁡ -->
+                </mo>
+                <mi>
+                 ϕ
+                 <!-- ϕ -->
+                </mi>
+                <mo stretchy="false">
+                 )
+                </mo>
+                <mrow>
+                 <mo>
+                  [
+                 </mo>
+                 <mrow>
+                  <msub>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mover>
+                     <mi>
+                      C
+                     </mi>
+                     <mo accent="false">
+                      ¯
+                      <!-- ¯ -->
+                     </mo>
+                    </mover>
+                   </mrow>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mi>
+                     n
+                    </mi>
+                    <mi>
+                     m
+                    </mi>
+                   </mrow>
+                  </msub>
+                  <mi>
+                   cos
+                  </mi>
+                  <mo>
+                   ⁡
+                   <!-- ⁡ -->
+                  </mo>
+                  <mi>
+                   m
+                  </mi>
+                  <mi>
+                   λ
+                   <!-- λ -->
+                  </mi>
+                  <mo>
+                   +
+                  </mo>
+                  <msub>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mover>
+                     <mi>
+                      S
+                     </mi>
+                     <mo accent="false">
+                      ¯
+                      <!-- ¯ -->
+                     </mo>
+                    </mover>
+                   </mrow>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mi>
+                     n
+                    </mi>
+                    <mi>
+                     m
+                    </mi>
+                   </mrow>
+                  </msub>
+                  <mi>
+                   sin
+                  </mi>
+                  <mo>
+                   ⁡
+                   <!-- ⁡ -->
+                  </mo>
+                  <mi>
+                   m
+                  </mi>
+                  <mi>
+                   λ
+                   <!-- λ -->
+                  </mi>
+                 </mrow>
+                 <mo>
+                  ]
+                 </mo>
+                </mrow>
+               </mrow>
+               <mo>
+                )
+               </mo>
+              </mrow>
+              <mo>
+               ,
+              </mo>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle V={\frac {GM}{r}}\left(1+{\sum _{n=2}^{n_{\text{max}}}}\left({\frac {a}{r}}\right)^{n}{\sum _{m=0}^{n}}{\overline {P}}_{nm}(\sin \phi )\left[{\overline {C}}_{nm}\cos m\lambda +{\overline {S}}_{nm}\sin m\lambda \right]\right),}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="
+V=\frac{GM}{r}\left(1+{\sum_{n=2}^{n_\text{max}}}\left(\frac{a}{r}\right)^n{\sum_{m=0}^n}
+\overline{P}_{nm}(\sin\phi)\left[\overline{C}_{nm}\cos m\lambda+\overline{S}_{nm}\sin m\lambda\right]\right),
+" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9b89c24db57cda0eefb0ebfbca3f5bd031e193fa" style="vertical-align: -3.171ex; width:72.12ex; height:7.509ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:Geoids_sm.jpg">
+         <img alt="" class="thumbimage" data-file-height="216" data-file-width="350" height="136" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/56/Geoids_sm.jpg/220px-Geoids_sm.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/56/Geoids_sm.jpg/330px-Geoids_sm.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/5/56/Geoids_sm.jpg 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Geoids_sm.jpg" title="Enlarge">
+          </a>
+         </div>
+         Three-dimensional visualization of geoid undulations, using
+         <a href="/wiki/Gal_(unit)" title="Gal (unit)">
+          units of gravity
+         </a>
+         .
+        </div>
+       </div>
+      </div>
+      <p>
+       where
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle \phi \ }" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              ϕ
+              <!-- ϕ -->
+             </mi>
+             <mtext>
+             </mtext>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle \phi \ }
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="\phi \ " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f4c7f7052f131b0858274cdd86e38a4119fbb28b" style="vertical-align: -0.671ex; width:1.966ex; height:2.509ex;"/>
+       </span>
+       and
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle \lambda \ }" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              λ
+              <!-- λ -->
+             </mi>
+             <mtext>
+             </mtext>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle \lambda \ }
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="\lambda \ " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7098afc76a9c0a8bc5079e98cf4aad3a4f9face7" style="vertical-align: -0.338ex; width:1.936ex; height:2.176ex;"/>
+       </span>
+       are
+       <i>
+        geocentric
+       </i>
+       (spherical) latitude and longitude respectively,
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle {\overline {P}}_{nm}}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <msub>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mover>
+                <mi>
+                 P
+                </mi>
+                <mo accent="false">
+                 ¯
+                 <!-- ¯ -->
+                </mo>
+               </mover>
+              </mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                n
+               </mi>
+               <mi>
+                m
+               </mi>
+              </mrow>
+             </msub>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle {\overline {P}}_{nm}}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="{\overline {P}}_{nm}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fab56f1b314a3393bb6d12d3145bba66c57a9488" style="vertical-align: -0.671ex; width:4.686ex; height:3.343ex;"/>
+       </span>
+       are the fully normalized
+       <a href="/wiki/Associated_Legendre_polynomials" title="Associated Legendre polynomials">
+        associated Legendre polynomials
+       </a>
+       of degree
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle n\ }" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              n
+             </mi>
+             <mtext>
+             </mtext>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle n\ }
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="n\ " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/81a2f2e76ab2d87f5ed37aeb7018991a8d82b04b" style="vertical-align: -0.338ex; width:1.975ex; height:1.676ex;"/>
+       </span>
+       and order
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle m\ }" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              m
+             </mi>
+             <mtext>
+             </mtext>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle m\ }
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="m\ " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b0f753d46b8449abfe4aab6f5f1058188e46492f" style="vertical-align: -0.338ex; width:2.621ex; height:1.676ex;"/>
+       </span>
+       , and
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle {\overline {C}}_{nm}}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <msub>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mover>
+                <mi>
+                 C
+                </mi>
+                <mo accent="false">
+                 ¯
+                 <!-- ¯ -->
+                </mo>
+               </mover>
+              </mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                n
+               </mi>
+               <mi>
+                m
+               </mi>
+              </mrow>
+             </msub>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle {\overline {C}}_{nm}}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="{\overline {C}}_{nm}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e4e97cffbddbb11fcc71b857809f1eea8b0dfe75" style="vertical-align: -0.671ex; width:4.611ex; height:3.343ex;"/>
+       </span>
+       and
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle {\overline {S}}_{nm}}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <msub>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mover>
+                <mi>
+                 S
+                </mi>
+                <mo accent="false">
+                 ¯
+                 <!-- ¯ -->
+                </mo>
+               </mover>
+              </mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                n
+               </mi>
+               <mi>
+                m
+               </mi>
+              </mrow>
+             </msub>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle {\overline {S}}_{nm}}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="{\overline {S}}_{nm}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fb32df6e72ff0d4c063f42c3688b20af1eee32b5" style="vertical-align: -0.671ex; width:4.324ex; height:3.343ex;"/>
+       </span>
+       are the numerical coefficients of the model based on measured data. Note that the above equation describes the Earth's gravitational
+       <a href="/wiki/Potential" title="Potential">
+        potential
+       </a>
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle V\ }" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              V
+             </mi>
+             <mtext>
+             </mtext>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle V\ }
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="V\ " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6425b77be88d43f9ce49c55f49537b4b3d90c19f" style="vertical-align: -0.338ex; width:2.368ex; height:2.176ex;"/>
+       </span>
+       , not the geoid itself, at location
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle \phi ,\;\lambda ,\;r,\ }" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              ϕ
+              <!-- ϕ -->
+             </mi>
+             <mo>
+              ,
+             </mo>
+             <mspace width="thickmathspace">
+             </mspace>
+             <mi>
+              λ
+              <!-- λ -->
+             </mi>
+             <mo>
+              ,
+             </mo>
+             <mspace width="thickmathspace">
+             </mspace>
+             <mi>
+              r
+             </mi>
+             <mo>
+              ,
+             </mo>
+             <mtext>
+             </mtext>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle \phi ,\;\lambda ,\;r,\ }
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="\phi ,\;\lambda ,\;r,\ " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/85d5a99834a0ef84431850132bd1148acd81c476" style="vertical-align: -0.671ex; width:8.762ex; height:2.509ex;"/>
+       </span>
+       the co-ordinate
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle r\ }" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              r
+             </mi>
+             <mtext>
+             </mtext>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle r\ }
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="r\ " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/eb18f8bc1b4c5e03654f8e8cfc73581142a80742" style="vertical-align: -0.338ex; width:1.629ex; height:1.676ex;"/>
+       </span>
+       being the
+       <i>
+        geocentric radius
+       </i>
+       , i.e., distance from the Earth's centre. The geoid is a particular
+       <sup class="reference" id="cite_ref-noaa.gov_6-1">
+        <a href="#cite_note-noaa.gov-6">
+         [6]
+        </a>
+       </sup>
+       <a href="/wiki/Equipotential" title="Equipotential">
+        equipotential
+       </a>
+       surface, and is somewhat involved to compute. The gradient of this potential also provides a model of the gravitational acceleration. EGM96 contains a full set of coefficients to degree and order 360 (i.e.
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle n_{\text{max}}=360}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <msub>
+              <mi>
+               n
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mtext>
+                max
+               </mtext>
+              </mrow>
+             </msub>
+             <mo>
+              =
+             </mo>
+             <mn>
+              360
+             </mn>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle n_{\text{max}}=360}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="n_{\text{max}}=360" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/40aba2a8c360abb340dc0a310c949cb744bfee23" style="vertical-align: -0.671ex; width:11.272ex; height:2.509ex;"/>
+       </span>
+       ), describing details in the global geoid as small as 55 km (or 110 km, depending on your definition of resolution). The number of coefficients,
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle {\overline {C}}_{nm}}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <msub>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mover>
+                <mi>
+                 C
+                </mi>
+                <mo accent="false">
+                 ¯
+                 <!-- ¯ -->
+                </mo>
+               </mover>
+              </mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                n
+               </mi>
+               <mi>
+                m
+               </mi>
+              </mrow>
+             </msub>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle {\overline {C}}_{nm}}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="{\overline {C}}_{nm}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e4e97cffbddbb11fcc71b857809f1eea8b0dfe75" style="vertical-align: -0.671ex; width:4.611ex; height:3.343ex;"/>
+       </span>
+       and
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle {\overline {S}}_{nm}}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <msub>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mover>
+                <mi>
+                 S
+                </mi>
+                <mo accent="false">
+                 ¯
+                 <!-- ¯ -->
+                </mo>
+               </mover>
+              </mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                n
+               </mi>
+               <mi>
+                m
+               </mi>
+              </mrow>
+             </msub>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle {\overline {S}}_{nm}}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="{\overline {S}}_{nm}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fb32df6e72ff0d4c063f42c3688b20af1eee32b5" style="vertical-align: -0.671ex; width:4.324ex; height:3.343ex;"/>
+       </span>
+       , can be determined by first observing in the equation for V that for a specific value of n there are two coefficients for every value of m except for m = 0. There is only one coefficient when m=0 since
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle \sin(0\lambda )=0}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              sin
+             </mi>
+             <mo>
+              ⁡
+              <!-- ⁡ -->
+             </mo>
+             <mo stretchy="false">
+              (
+             </mo>
+             <mn>
+              0
+             </mn>
+             <mi>
+              λ
+              <!-- λ -->
+             </mi>
+             <mo stretchy="false">
+              )
+             </mo>
+             <mo>
+              =
+             </mo>
+             <mn>
+              0
+             </mn>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle \sin(0\lambda )=0}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="\sin(0\lambda )=0" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/870b18c951bf822a93c8d058c431668c7507235b" style="vertical-align: -0.838ex; width:11.444ex; height:2.843ex;"/>
+       </span>
+       . There are thus (2n+1) coefficients for every value of n. Using these facts and the formula,
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle \sum _{I=1}^{L}I=L(L+1)/2}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <munderover>
+              <mo>
+               ∑
+               <!-- ∑ -->
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                I
+               </mi>
+               <mo>
+                =
+               </mo>
+               <mn>
+                1
+               </mn>
+              </mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                L
+               </mi>
+              </mrow>
+             </munderover>
+             <mi>
+              I
+             </mi>
+             <mo>
+              =
+             </mo>
+             <mi>
+              L
+             </mi>
+             <mo stretchy="false">
+              (
+             </mo>
+             <mi>
+              L
+             </mi>
+             <mo>
+              +
+             </mo>
+             <mn>
+              1
+             </mn>
+             <mo stretchy="false">
+              )
+             </mo>
+             <mrow class="MJX-TeXAtom-ORD">
+              <mo>
+               /
+              </mo>
+             </mrow>
+             <mn>
+              2
+             </mn>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle \sum _{I=1}^{L}I=L(L+1)/2}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="\sum _{I=1}^{L}I=L(L+1)/2" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8741475258fd172e6ca271c108910e8a410d3864" style="vertical-align: -3.005ex; width:19.315ex; height:7.343ex;"/>
+       </span>
+       , it follows that the total number of coefficients is given by
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle \sum _{n=2}^{n_{\text{max}}}(2n+1)=n_{\text{max}}(n_{\text{max}}+1)+n_{\text{max}}-3=130317}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <munderover>
+               <mo>
+                ∑
+                <!-- ∑ -->
+               </mo>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 n
+                </mi>
+                <mo>
+                 =
+                </mo>
+                <mn>
+                 2
+                </mn>
+               </mrow>
+               <mrow class="MJX-TeXAtom-ORD">
+                <msub>
+                 <mi>
+                  n
+                 </mi>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mtext>
+                   max
+                  </mtext>
+                 </mrow>
+                </msub>
+               </mrow>
+              </munderover>
+              <mo stretchy="false">
+               (
+              </mo>
+              <mn>
+               2
+              </mn>
+              <mi>
+               n
+              </mi>
+              <mo>
+               +
+              </mo>
+              <mn>
+               1
+              </mn>
+              <mo stretchy="false">
+               )
+              </mo>
+              <mo>
+               =
+              </mo>
+              <msub>
+               <mi>
+                n
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mtext>
+                 max
+                </mtext>
+               </mrow>
+              </msub>
+              <mo stretchy="false">
+               (
+              </mo>
+              <msub>
+               <mi>
+                n
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mtext>
+                 max
+                </mtext>
+               </mrow>
+              </msub>
+              <mo>
+               +
+              </mo>
+              <mn>
+               1
+              </mn>
+              <mo stretchy="false">
+               )
+              </mo>
+              <mo>
+               +
+              </mo>
+              <msub>
+               <mi>
+                n
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mtext>
+                 max
+                </mtext>
+               </mrow>
+              </msub>
+              <mo>
+               −
+               <!-- − -->
+              </mo>
+              <mn>
+               3
+              </mn>
+              <mo>
+               =
+              </mo>
+              <mn>
+               130317
+              </mn>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle \sum _{n=2}^{n_{\text{max}}}(2n+1)=n_{\text{max}}(n_{\text{max}}+1)+n_{\text{max}}-3=130317}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="\sum _{n=2}^{n_{\text{max}}}(2n+1)=n_{\text{max}}(n_{\text{max}}+1)+n_{\text{max}}-3=130317" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7d8bbb511103012a32dea9bb20a7bd54d5f52294" style="vertical-align: -3.005ex; width:51.888ex; height:7.009ex;"/>
+        </span>
+        using the EGM96 value of
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle n_{\text{max}}=360}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <msub>
+               <mi>
+                n
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mtext>
+                 max
+                </mtext>
+               </mrow>
+              </msub>
+              <mo>
+               =
+              </mo>
+              <mn>
+               360
+              </mn>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle n_{\text{max}}=360}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="n_{\text{max}}=360" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/40aba2a8c360abb340dc0a310c949cb744bfee23" style="vertical-align: -0.671ex; width:11.272ex; height:2.509ex;"/>
+        </span>
+        .
+       </dd>
+      </dl>
+      <p>
+       For many applications the complete series is unnecessarily complex and is truncated after a few (perhaps several dozen) terms.
+      </p>
+      <p>
+       New even higher resolution models are currently under development. For example, many of the authors of EGM96 are working on an updated model
+       <sup class="reference" id="cite_ref-7">
+        <a href="#cite_note-7">
+         [7]
+        </a>
+       </sup>
+       that should incorporate much of the new satellite gravity data (see, e.g.,
+       <a href="/wiki/Gravity_Recovery_and_Climate_Experiment" title="Gravity Recovery and Climate Experiment">
+        GRACE
+       </a>
+       ), and should support up to degree and order 2160 (1/6 of a degree, requiring over 4 million coefficients).
+      </p>
+      <p>
+       <a href="/wiki/National_Geospatial-Intelligence_Agency" title="National Geospatial-Intelligence Agency">
+        NGA
+       </a>
+       has announced the availability of EGM2008, complete to spherical harmonic degree and order 2159, and contains additional coefficients extending to degree 2190 and order 2159.
+       <sup class="reference" id="cite_ref-nga.mil_8-0">
+        <a href="#cite_note-nga.mil-8">
+         [8]
+        </a>
+       </sup>
+       Software and data is on the Earth Gravitational Model 2008 (EGM2008) - WGS 84 Version] page.
+       <sup class="reference" id="cite_ref-nga.mil_8-1">
+        <a href="#cite_note-nga.mil-8">
+         [8]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Precise_geoid">
+        Precise geoid
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Geoid&amp;action=edit&amp;section=4" title="Edit section: Precise geoid">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       The Precise Geoid Solution by
+       <a href="/wiki/Petr_Van%C3%AD%C4%8Dek" title="Petr Vaníček">
+        Vaníček
+       </a>
+       and co-workers improved on the
+       <a class="mw-redirect" href="/wiki/George_Gabriel_Stokes" title="George Gabriel Stokes">
+        Stokesian
+       </a>
+       approach to geoid computation.
+       <sup class="reference" id="cite_ref-9">
+        <a href="#cite_note-9">
+         [9]
+        </a>
+       </sup>
+       Their solution enables millimetre-to-centimetre
+       <a class="mw-redirect" href="/wiki/Accuracy" title="Accuracy">
+        accuracy
+       </a>
+       in geoid
+       <a href="/wiki/Computation" title="Computation">
+        computation
+       </a>
+       , an
+       <a href="/wiki/Order_of_magnitude" title="Order of magnitude">
+        order-of-magnitude
+       </a>
+       improvement from previous classical solutions.
+       <sup class="reference" id="cite_ref-10">
+        <a href="#cite_note-10">
+         [10]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-11">
+        <a href="#cite_note-11">
+         [11]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-12">
+        <a href="#cite_note-12">
+         [12]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-13">
+        <a href="#cite_note-13">
+         [13]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Causes_for_geoid_anomalies">
+        Causes for geoid anomalies
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Geoid&amp;action=edit&amp;section=5" title="Edit section: Causes for geoid anomalies">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:Gravity,_geoid_anomaly_synthetic_cases_with_local_isostasy_2.gif">
+         <img alt="" class="thumbimage" data-file-height="1132" data-file-width="2202" height="113" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Gravity%2C_geoid_anomaly_synthetic_cases_with_local_isostasy_2.gif/220px-Gravity%2C_geoid_anomaly_synthetic_cases_with_local_isostasy_2.gif" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Gravity%2C_geoid_anomaly_synthetic_cases_with_local_isostasy_2.gif/330px-Gravity%2C_geoid_anomaly_synthetic_cases_with_local_isostasy_2.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Gravity%2C_geoid_anomaly_synthetic_cases_with_local_isostasy_2.gif/440px-Gravity%2C_geoid_anomaly_synthetic_cases_with_local_isostasy_2.gif 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Gravity,_geoid_anomaly_synthetic_cases_with_local_isostasy_2.gif" title="Enlarge">
+          </a>
+         </div>
+         <a href="/wiki/Gravity_anomaly" title="Gravity anomaly">
+          Gravity
+         </a>
+         and Geoid anomalies caused by various crustal and lithospheric thickness changes relative to a reference configuration. All settings are under local
+         <a href="/wiki/Isostasy" title="Isostasy">
+          isostatic
+         </a>
+         compensation.
+        </div>
+       </div>
+      </div>
+      <p>
+       Variations in the height of the geoidal surface are related to density anomalous distributions within the Earth. Geoid measures help thus to understand the internal structure of the planet. Synthetic calculations show that the geoidal signature of a thickened crust (for example, in
+       <a class="mw-redirect" href="/wiki/Orogen" title="Orogen">
+        orogenic belts
+       </a>
+       produced by
+       <a href="/wiki/Continental_collision" title="Continental collision">
+        continental collision
+       </a>
+       ) is positive, opposite to what should be expected if the thickening affects the entire
+       <a href="/wiki/Lithosphere" title="Lithosphere">
+        lithosphere
+       </a>
+       .
+      </p>
+      <h2>
+       <span class="mw-headline" id="Time-variability">
+        Time-variability
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Geoid&amp;action=edit&amp;section=6" title="Edit section: Time-variability">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       Recent satellite missions, such as
+       <a href="/wiki/Gravity_Field_and_Steady-State_Ocean_Circulation_Explorer" title="Gravity Field and Steady-State Ocean Circulation Explorer">
+        GOCE
+       </a>
+       and
+       <a href="/wiki/Gravity_Recovery_and_Climate_Experiment" title="Gravity Recovery and Climate Experiment">
+        GRACE
+       </a>
+       , have enabled the study of time-variable geoid signals. The first products based on GOCE satellite data became available online in June 2010, through the European Space Agency (ESA)’s Earth observation user services tools.
+       <sup class="reference" id="cite_ref-14">
+        <a href="#cite_note-14">
+         [14]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-15">
+        <a href="#cite_note-15">
+         [15]
+        </a>
+       </sup>
+       ESA launched the satellite in March 2009 on a mission to map Earth's gravity with unprecedented accuracy and spatial resolution. On 31 March 2011, the new geoid model was unveiled at the Fourth International GOCE User Workshop hosted at the Technische Universität München in Munich, Germany.
+       <sup class="reference" id="cite_ref-16">
+        <a href="#cite_note-16">
+         [16]
+        </a>
+       </sup>
+       Studies using the time-variable geoid computed from GRACE data have provided information on global hydrologic cycles,
+       <sup class="reference" id="cite_ref-17">
+        <a href="#cite_note-17">
+         [17]
+        </a>
+       </sup>
+       mass balances of
+       <a href="/wiki/Ice_sheet" title="Ice sheet">
+        ice sheets
+       </a>
+       ,
+       <sup class="reference" id="cite_ref-18">
+        <a href="#cite_note-18">
+         [18]
+        </a>
+       </sup>
+       and
+       <a class="mw-redirect" href="/wiki/Postglacial_rebound" title="Postglacial rebound">
+        postglacial rebound
+       </a>
+       .
+       <sup class="reference" id="cite_ref-19">
+        <a href="#cite_note-19">
+         [19]
+        </a>
+       </sup>
+       From postglacial rebound measurements, time-variable GRACE data can be used to deduce the
+       <a href="/wiki/Viscosity" title="Viscosity">
+        viscosity
+       </a>
+       of
+       <a class="mw-redirect" href="/wiki/Earth%27s_mantle" title="Earth's mantle">
+        Earth's mantle
+       </a>
+       .
+       <sup class="reference" id="cite_ref-20">
+        <a href="#cite_note-20">
+         [20]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Celestial_bodies">
+        Celestial bodies
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Geoid&amp;action=edit&amp;section=7" title="Edit section: Celestial bodies">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <table class="plainlinks metadata ambox mbox-small-left ambox-content" role="presentation">
+       <tr>
+        <td class="mbox-image">
+         <a class="image" href="/wiki/File:Wiki_letter_w_cropped.svg">
+          <img alt="[icon]" data-file-height="31" data-file-width="44" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/20px-Wiki_letter_w_cropped.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/30px-Wiki_letter_w_cropped.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/40px-Wiki_letter_w_cropped.svg.png 2x" width="20"/>
+         </a>
+        </td>
+        <td class="mbox-text">
+         <div class="mbox-text-span">
+          <b>
+           This section needs expansion
+          </b>
+          .
+          <small>
+           You can help by
+           <a class="external text" href="//en.wikipedia.org/w/index.php?title=Geoid&amp;action=edit&amp;section=">
+            adding to it
+           </a>
+           .
+          </small>
+          <small>
+           <i>
+            (June 2014)
+           </i>
+          </small>
+         </div>
+        </td>
+       </tr>
+      </table>
+      <p>
+       The concept of the geoid has been extended to other
+       <a href="/wiki/Planet" title="Planet">
+        planets
+       </a>
+       and also
+       <a href="/wiki/Natural_satellite" title="Natural satellite">
+        moons
+       </a>
+       ,
+       <sup class="reference" id="cite_ref-21">
+        <a href="#cite_note-21">
+         [21]
+        </a>
+       </sup>
+       as well as
+       <a href="/wiki/Asteroid" title="Asteroid">
+        asteroids
+       </a>
+       .
+       <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+        [
+        <i>
+         <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+          <span title="This claim needs references to reliable sources. (June 2014)">
+           citation needed
+          </span>
+         </a>
+        </i>
+        ]
+       </sup>
+      </p>
+      <p>
+       The geoid of Mars has been measured using flight paths of satellite missions such as
+       <a href="/wiki/Mariner_9" title="Mariner 9">
+        Mariner 9
+       </a>
+       and
+       <a href="/wiki/Viking_program" title="Viking program">
+        Viking
+       </a>
+       . The main departures from the ellipsoid expected of an ideal fluid are from the
+       <a href="/wiki/Tharsis" title="Tharsis">
+        Tharsis
+       </a>
+       volcanic plateau, a continent-size region of elevated terrain, and its antipodes.
+       <sup class="reference" id="cite_ref-Cattermole_22-0">
+        <a href="#cite_note-Cattermole-22">
+         [22]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="See_also">
+        See also
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Geoid&amp;action=edit&amp;section=8" title="Edit section: See also">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a href="/wiki/Geodetic_datum" title="Geodetic datum">
+         Geodetic datum
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Geodesy" title="Geodesy">
+         Geodesy
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Physical_geodesy" title="Physical geodesy">
+         Physical geodesy
+        </a>
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/International_Terrestrial_Reference_Frame" title="International Terrestrial Reference Frame">
+         International Terrestrial Reference Frame
+        </a>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="References">
+        References
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Geoid&amp;action=edit&amp;section=9" title="Edit section: References">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="reflist" style="list-style-type: decimal;">
+       <div class="mw-references-wrap mw-references-columns">
+        <ol class="references">
+         <li id="cite_note-conrad-1">
+          <span class="mw-cite-backlink">
+           ^
+           <a href="#cite_ref-conrad_1-0">
+            <sup>
+             <i>
+              <b>
+               a
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-conrad_1-1">
+            <sup>
+             <i>
+              <b>
+               b
+              </b>
+             </i>
+            </sup>
+           </a>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            Conrad, Clint.
+            <a class="external text" href="http://www.soest.hawaii.edu/GG/FACULTY/conrad/classes/GG612_S11/Lecture_03.pdf" rel="nofollow">
+             "Lecture 3: Earth's figure, gravity, and geoid"
+            </a>
+            <span style="font-size:85%;">
+             (PDF)
+            </span>
+            .
+            <i>
+             GG612 Accelerated Introduction to Geology II, Spring 2012
+            </i>
+            . SOEST - University of Hawaii
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              18 December
+             </span>
+             2016
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=GG612+Accelerated+Introduction+to+Geology+II%2C+Spring+2012&amp;rft.atitle=Lecture+3%3A+Earth%27s+figure%2C+gravity%2C+and+geoid&amp;rft.aulast=Conrad&amp;rft.aufirst=Clint&amp;rft_id=http%3A%2F%2Fwww.soest.hawaii.edu%2FGG%2FFACULTY%2Fconrad%2Fclasses%2FGG612_S11%2FLecture_03.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGeoid">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-2">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-2">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation book">
+            <a href="/wiki/Mary_Fowler" title="Mary Fowler">
+             Fowler, C.M.R.
+            </a>
+            (2005).
+            <i>
+             The Solid Earth; An Introduction to Global Geophysics
+            </i>
+            . United Kingdom:
+            <a href="/wiki/Cambridge_University_Press" title="Cambridge University Press">
+             Cambridge University Press
+            </a>
+            . p. 214.
+            <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+             ISBN
+            </a>
+            <a href="/wiki/Special:BookSources/9780521584098" title="Special:BookSources/9780521584098">
+             9780521584098
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Solid+Earth%3B+An+Introduction+to+Global+Geophysics&amp;rft.place=United+Kingdom&amp;rft.pages=214&amp;rft.pub=Cambridge+University+Press&amp;rft.date=2005&amp;rft.isbn=9780521584098&amp;rft.aulast=Fowler&amp;rft.aufirst=C.M.R.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGeoid">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-3">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-3">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://earth-info.nga.mil/GandG/wgs84/gravitymod/wgs84_180/wgs84_180.html" rel="nofollow">
+             "WGS 84, N=M=180 Earth Gravitational Model"
+            </a>
+            .
+            <i>
+             NGA: Office of Geomatics
+            </i>
+            . National Geospatial-Intelligence Agency
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              17 December
+             </span>
+             2016
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=NGA%3A+Office+of+Geomatics&amp;rft.atitle=WGS+84%2C+N%3DM%3D180+Earth+Gravitational+Model&amp;rft_id=http%3A%2F%2Fearth-info.nga.mil%2FGandG%2Fwgs84%2Fgravitymod%2Fwgs84_180%2Fwgs84_180.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGeoid">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-4">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-4">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <i>
+             GRACE - Gravity Recovery and Climate Experiment
+            </i>
+            .
+            <a href="/wiki/University_of_Texas_at_Austin" title="University of Texas at Austin">
+             University of Texas at Austin
+            </a>
+            <a class="external free" href="http://www2.csr.utexas.edu/grace/gravity/gravity_definition.html" rel="nofollow">
+             http://www2.csr.utexas.edu/grace/gravity/gravity_definition.html
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              22 January
+             </span>
+             2018
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=GRACE+-+Gravity+Recovery+and+Climate+Experiment&amp;rft_id=http%3A%2F%2Fwww2.csr.utexas.edu%2Fgrace%2Fgravity%2Fgravity_definition.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGeoid">
+            <span style="display:none;">
+            </span>
+           </span>
+           <span class="error citation-comment" style="font-size:100%">
+            Missing or empty
+            <code style="color:inherit; border:inherit; padding:inherit;">
+             |title=
+            </code>
+            (
+            <a href="/wiki/Help:CS1_errors#citation_missing_title" title="Help:CS1 errors">
+             help
+            </a>
+            )
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-5">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-5">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://earth-info.nga.mil/GandG/publications/tr8350.2/tr8350_2.html" rel="nofollow">
+             "DoD World Geodetic System 1984"
+            </a>
+            .
+            <i>
+             NGA: Office of Geomatics
+            </i>
+            . National Geospatial-Intelligence Agency
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              16 December
+             </span>
+             2016
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=NGA%3A+Office+of+Geomatics&amp;rft.atitle=DoD+World+Geodetic+System+1984&amp;rft_id=http%3A%2F%2Fearth-info.nga.mil%2FGandG%2Fpublications%2Ftr8350.2%2Ftr8350_2.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGeoid">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-noaa.gov-6">
+          <span class="mw-cite-backlink">
+           ^
+           <a href="#cite_ref-noaa.gov_6-0">
+            <sup>
+             <i>
+              <b>
+               a
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-noaa.gov_6-1">
+            <sup>
+             <i>
+              <b>
+               b
+              </b>
+             </i>
+            </sup>
+           </a>
+          </span>
+          <span class="reference-text">
+           <cite class="citation book">
+            Smith, Dru A. (1998). "There is no such thing as "The" EGM96 geoid: Subtle points on the use of a global geopotential model".
+            <a class="external text" href="http://www.ngs.noaa.gov/PUBS_LIB/EGM96_GEOID_PAPER/egm96_geoid_paper.html" rel="nofollow">
+             <i>
+              IGeS Bulletin No. 8
+             </i>
+            </a>
+            . Milan, Italy: International Geoid Service. pp. 17–28
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              16 December
+             </span>
+             2016
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=There+is+no+such+thing+as+%22The%22+EGM96+geoid%3A++Subtle+points+on+the+use+of+a+global+geopotential+model&amp;rft.btitle=IGeS+Bulletin+No.+8&amp;rft.place=Milan%2C+Italy&amp;rft.pages=17-28&amp;rft.pub=International+Geoid+Service&amp;rft.date=1998&amp;rft.aulast=Smith&amp;rft.aufirst=Dru+A.&amp;rft_id=http%3A%2F%2Fwww.ngs.noaa.gov%2FPUBS_LIB%2FEGM96_GEOID_PAPER%2Fegm96_geoid_paper.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGeoid">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-7">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-7">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           Pavlis, N.K., S.A. Holmes. S. Kenyon, D. Schmit, R. Trimmer, "Gravitational potential expansion to degree 2160",
+           <i>
+            IAG International Symposium, gravity, geoid and Space Mission GGSM2004
+           </i>
+           , Porto, Portugal, 2004.
+          </span>
+         </li>
+         <li id="cite_note-nga.mil-8">
+          <span class="mw-cite-backlink">
+           ^
+           <a href="#cite_ref-nga.mil_8-0">
+            <sup>
+             <i>
+              <b>
+               a
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-nga.mil_8-1">
+            <sup>
+             <i>
+              <b>
+               b
+              </b>
+             </i>
+            </sup>
+           </a>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://earth-info.nga.mil/GandG/wgs84/gravitymod/egm2008/index.html" rel="nofollow">
+             "Earth Gravitational Model 2008 (EGM2008)"
+            </a>
+            .
+            <i>
+             nga.mil
+            </i>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=nga.mil&amp;rft.atitle=Earth+Gravitational+Model+2008+%28EGM2008%29&amp;rft_id=http%3A%2F%2Fearth-info.nga.mil%2FGandG%2Fwgs84%2Fgravitymod%2Fegm2008%2Findex.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGeoid">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-9">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-9">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www2.unb.ca/gge/Research/GRL/GeodesyGroup/SHGeo.html" rel="nofollow">
+             "UNB Precise Geoid Determination Package"
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              2 October
+             </span>
+             2007
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=UNB+Precise+Geoid+Determination+Package&amp;rft_id=http%3A%2F%2Fwww2.unb.ca%2Fgge%2FResearch%2FGRL%2FGeodesyGroup%2FSHGeo.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGeoid">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-10">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-10">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Vaníček, P.; Kleusberg, A. (1987). "The Canadian geoid-Stokesian approach".
+            <i>
+             Manuscripta Geodaetica
+            </i>
+            .
+            <b>
+             12
+            </b>
+            (2): 86–98.
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Manuscripta+Geodaetica&amp;rft.atitle=The+Canadian+geoid-Stokesian+approach&amp;rft.volume=12&amp;rft.issue=2&amp;rft.pages=86-98&amp;rft.date=1987&amp;rft.aulast=Van%C3%AD%C4%8Dek&amp;rft.aufirst=P.&amp;rft.au=Kleusberg%2C+A.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGeoid">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-11">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-11">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Vaníček, P.; Martinec, Z. (1994).
+            <a class="external text" href="http://gge.unb.ca/Personnel/Vanicek/StokesHelmert.pdf" rel="nofollow">
+             "Compilation of a precise regional geoid"
+            </a>
+            <span style="font-size:85%;">
+             (PDF)
+            </span>
+            .
+            <i>
+             Manuscripta Geodaetica
+            </i>
+            .
+            <b>
+             19
+            </b>
+            : 119–128.
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Manuscripta+Geodaetica&amp;rft.atitle=Compilation+of+a+precise+regional+geoid&amp;rft.volume=19&amp;rft.pages=119-128&amp;rft.date=1994&amp;rft.aulast=Van%C3%AD%C4%8Dek&amp;rft.aufirst=P.&amp;rft.au=Martinec%2C+Z.&amp;rft_id=http%3A%2F%2Fgge.unb.ca%2FPersonnel%2FVanicek%2FStokesHelmert.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGeoid">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-12">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-12">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation report">
+            P., Vaníček; A., Kleusberg; Z., Martinec; W., Sun; P., Ong; M., Najafi; P., Vajda; L., Harrie; P., Tomasek; B., ter Horst.
+            <a class="external text" href="http://gge.unb.ca/Personnel/Vanicek/GeoidReport950327.pdf" rel="nofollow">
+             Compilation of a Precise Regional Geoid
+            </a>
+            <span style="font-size:85%;">
+             (PDF)
+            </span>
+            (Report). Department of Geodesy and Geomatics Engineering, University of New Brunswick. 184
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              22 December
+             </span>
+             2016
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=report&amp;rft.btitle=Compilation+of+a+Precise+Regional+Geoid&amp;rft.pub=Department+of+Geodesy+and+Geomatics+Engineering%2C+University+of+New+Brunswick&amp;rft.aulast=P.&amp;rft.aufirst=Van%C3%AD%C4%8Dek&amp;rft.au=A.%2C+Kleusberg&amp;rft.au=Z.%2C+Martinec&amp;rft.au=W.%2C+Sun&amp;rft.au=P.%2C+Ong&amp;rft.au=M.%2C+Najafi&amp;rft.au=P.%2C+Vajda&amp;rft.au=L.%2C+Harrie&amp;rft.au=P.%2C+Tomasek&amp;rft.au=B.%2C+ter+Horst&amp;rft_id=http%3A%2F%2Fgge.unb.ca%2FPersonnel%2FVanicek%2FGeoidReport950327.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGeoid">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-13">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-13">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation book">
+            Kopeikin, Sergei; Efroimsky, Michael; Kaplan, George (2009).
+            <i>
+             Relativistic celestial mechanics of the solar system
+            </i>
+            . Weinheim:
+            <a href="/wiki/Wiley-VCH" title="Wiley-VCH">
+             Wiley-VCH
+            </a>
+            . p. 704.
+            <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+             ISBN
+            </a>
+            <a href="/wiki/Special:BookSources/9783527408566" title="Special:BookSources/9783527408566">
+             9783527408566
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Relativistic+celestial+mechanics+of+the+solar+system&amp;rft.place=Weinheim&amp;rft.pages=704&amp;rft.pub=Wiley-VCH&amp;rft.date=2009&amp;rft.isbn=9783527408566&amp;rft.aulast=Kopeikin&amp;rft.aufirst=Sergei&amp;rft.au=Efroimsky%2C+Michael&amp;rft.au=Kaplan%2C+George&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGeoid">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-14">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-14">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.esa.int/SPECIALS/GOCE/SEMB1EPK2AG_1.html" rel="nofollow">
+             "ESA makes first GOCE dataset available"
+            </a>
+            .
+            <i>
+             GOCE
+            </i>
+            .
+            <a href="/wiki/European_Space_Agency" title="European Space Agency">
+             European Space Agency
+            </a>
+            . 9 June 2010
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              22 December
+             </span>
+             2016
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=GOCE&amp;rft.atitle=ESA+makes+first+GOCE+dataset+available&amp;rft.date=2010-06-09&amp;rft_id=http%3A%2F%2Fwww.esa.int%2FSPECIALS%2FGOCE%2FSEMB1EPK2AG_1.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGeoid">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-15">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-15">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.esa.int/SPECIALS/GOCE/SEMY0FOZVAG_0.html" rel="nofollow">
+             "GOCE giving new insights into Earth's gravity"
+            </a>
+            .
+            <i>
+             GOCE
+            </i>
+            . European Space Agency. 29 June 2010
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              22 December
+             </span>
+             2016
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=GOCE&amp;rft.atitle=GOCE+giving+new+insights+into+Earth%E2%80%99s+gravity&amp;rft.date=2010-06-29&amp;rft_id=http%3A%2F%2Fwww.esa.int%2FSPECIALS%2FGOCE%2FSEMY0FOZVAG_0.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGeoid">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-16">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-16">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.esa.int/esaCP/SEM1AK6UPLG_index_0.html" rel="nofollow">
+             "Earth's gravity revealed in unprecedented detail"
+            </a>
+            .
+            <i>
+             GOCE
+            </i>
+            . European Space Agency. 31 March 2011
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              22 December
+             </span>
+             2016
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=GOCE&amp;rft.atitle=Earth%27s+gravity+revealed+in+unprecedented+detail&amp;rft.date=2011-03-31&amp;rft_id=http%3A%2F%2Fwww.esa.int%2FesaCP%2FSEM1AK6UPLG_index_0.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGeoid">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-17">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-17">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Schmidt, R; Schwintzer, P; Flechtner, F; Reigber, C; Guntner, A; Doll, P; Ramillien, G; Cazenave, A; et al. (2006). "GRACE observations of changes in continental water storage".
+            <i>
+             Global and Planetary Change
+            </i>
+            .
+            <b>
+             50
+            </b>
+            : 112.
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/2006GPC....50..112S" rel="nofollow">
+             2006GPC....50..112S
+            </a>
+            .
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1016%2Fj.gloplacha.2004.11.018" rel="nofollow">
+             10.1016/j.gloplacha.2004.11.018
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Global+and+Planetary+Change&amp;rft.atitle=GRACE+observations+of+changes+in+continental+water+storage&amp;rft.volume=50&amp;rft.pages=112&amp;rft.date=2006&amp;rft_id=info%3Adoi%2F10.1016%2Fj.gloplacha.2004.11.018&amp;rft_id=info%3Abibcode%2F2006GPC....50..112S&amp;rft.aulast=Schmidt&amp;rft.aufirst=R&amp;rft.au=Schwintzer%2C+P&amp;rft.au=Flechtner%2C+F&amp;rft.au=Reigber%2C+C&amp;rft.au=Guntner%2C+A&amp;rft.au=Doll%2C+P&amp;rft.au=Ramillien%2C+G&amp;rft.au=Cazenave%2C+A&amp;rft.au=Petrovic%2C+S&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGeoid">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-18">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-18">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Ramillien, G; Lombard, A; Cazenave, A; Ivins, E; Llubes, M; Remy, F; Biancale, R (2006). "Interannual variations of the mass balance of the Antarctica and Greenland ice sheets from GRACE".
+            <i>
+             Global and Planetary Change
+            </i>
+            .
+            <b>
+             53
+            </b>
+            (3): 198.
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/2006GPC....53..198R" rel="nofollow">
+             2006GPC....53..198R
+            </a>
+            .
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1016%2Fj.gloplacha.2006.06.003" rel="nofollow">
+             10.1016/j.gloplacha.2006.06.003
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Global+and+Planetary+Change&amp;rft.atitle=Interannual+variations+of+the+mass+balance+of+the+Antarctica+and+Greenland+ice+sheets+from+GRACE&amp;rft.volume=53&amp;rft.issue=3&amp;rft.pages=198&amp;rft.date=2006&amp;rft_id=info%3Adoi%2F10.1016%2Fj.gloplacha.2006.06.003&amp;rft_id=info%3Abibcode%2F2006GPC....53..198R&amp;rft.aulast=Ramillien&amp;rft.aufirst=G&amp;rft.au=Lombard%2C+A&amp;rft.au=Cazenave%2C+A&amp;rft.au=Ivins%2C+E&amp;rft.au=Llubes%2C+M&amp;rft.au=Remy%2C+F&amp;rft.au=Biancale%2C+R&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGeoid">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-19">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-19">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Vanderwal, W; Wu, P; Sideris, M; Shum, C (2008). "Use of GRACE determined secular gravity rates for glacial isostatic adjustment studies in North-America".
+            <i>
+             Journal of Geodynamics
+            </i>
+            .
+            <b>
+             46
+            </b>
+            (3–5): 144.
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/2008JGeo...46..144V" rel="nofollow">
+             2008JGeo...46..144V
+            </a>
+            .
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1016%2Fj.jog.2008.03.007" rel="nofollow">
+             10.1016/j.jog.2008.03.007
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Geodynamics&amp;rft.atitle=Use+of+GRACE+determined+secular+gravity+rates+for+glacial+isostatic+adjustment+studies+in+North-America&amp;rft.volume=46&amp;rft.issue=3%E2%80%935&amp;rft.pages=144&amp;rft.date=2008&amp;rft_id=info%3Adoi%2F10.1016%2Fj.jog.2008.03.007&amp;rft_id=info%3Abibcode%2F2008JGeo...46..144V&amp;rft.aulast=Vanderwal&amp;rft.aufirst=W&amp;rft.au=Wu%2C+P&amp;rft.au=Sideris%2C+M&amp;rft.au=Shum%2C+C&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGeoid">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-20">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-20">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Paulson, Archie; Zhong, Shijie; Wahr, John (2007). "Inference of mantle viscosity from GRACE and relative sea level data".
+            <i>
+             <a href="/wiki/Geophysical_Journal_International" title="Geophysical Journal International">
+              Geophysical Journal International
+             </a>
+            </i>
+            .
+            <b>
+             171
+            </b>
+            (2): 497.
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/2007GeoJI.171..497P" rel="nofollow">
+             2007GeoJI.171..497P
+            </a>
+            .
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1111%2Fj.1365-246X.2007.03556.x" rel="nofollow">
+             10.1111/j.1365-246X.2007.03556.x
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Geophysical+Journal+International&amp;rft.atitle=Inference+of+mantle+viscosity+from+GRACE+and+relative+sea+level+data&amp;rft.volume=171&amp;rft.issue=2&amp;rft.pages=497&amp;rft.date=2007&amp;rft_id=info%3Adoi%2F10.1111%2Fj.1365-246X.2007.03556.x&amp;rft_id=info%3Abibcode%2F2007GeoJI.171..497P&amp;rft.aulast=Paulson&amp;rft.aufirst=Archie&amp;rft.au=Zhong%2C+Shijie&amp;rft.au=Wahr%2C+John&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGeoid">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-21">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-21">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation book">
+            Wieczorek, M. A. (2007). "Gravity and Topography of the Terrestrial Planets".
+            <i>
+             Treatise on Geophysics
+            </i>
+            . p. 165.
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1016%2FB978-044452748-6.00156-5" rel="nofollow">
+             10.1016/B978-044452748-6.00156-5
+            </a>
+            .
+            <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+             ISBN
+            </a>
+            <a href="/wiki/Special:BookSources/9780444527486" title="Special:BookSources/9780444527486">
+             9780444527486
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Gravity+and+Topography+of+the+Terrestrial+Planets&amp;rft.btitle=Treatise+on+Geophysics&amp;rft.pages=165&amp;rft.date=2007&amp;rft_id=info%3Adoi%2F10.1016%2FB978-044452748-6.00156-5&amp;rft.isbn=9780444527486&amp;rft.aulast=Wieczorek&amp;rft.aufirst=M.+A.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGeoid">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-Cattermole-22">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-Cattermole_22-0">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation book">
+            Cattermole, Peter (1992).
+            <i>
+             Mars The story of the Red Planet
+            </i>
+            . Dordrecht:
+            <a class="mw-redirect" href="/wiki/Springer_Netherlands" title="Springer Netherlands">
+             Springer Netherlands
+            </a>
+            . p. 185.
+            <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+             ISBN
+            </a>
+            <a href="/wiki/Special:BookSources/9789401123068" title="Special:BookSources/9789401123068">
+             9789401123068
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Mars+The+story+of+the+Red+Planet&amp;rft.place=Dordrecht&amp;rft.pages=185&amp;rft.pub=Springer+Netherlands&amp;rft.date=1992&amp;rft.isbn=9789401123068&amp;rft.aulast=Cattermole&amp;rft.aufirst=Peter&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGeoid">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+        </ol>
+       </div>
+      </div>
+      <h2>
+       <span class="mw-headline" id="External_links">
+        External links
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Geoid&amp;action=edit&amp;section=10" title="Edit section: External links">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+       <tr>
+        <td class="mbox-image">
+         <img alt="" class="noviewer" data-file-height="391" data-file-width="391" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/40px-Wiktionary-logo-en-v2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/60px-Wiktionary-logo-en-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/80px-Wiktionary-logo-en-v2.svg.png 2x" width="40"/>
+        </td>
+        <td class="mbox-text plainlist">
+         Look up
+         <i>
+          <b>
+           <a class="extiw" href="https://en.wiktionary.org/wiki/Special:Search/geoid" title="wiktionary:Special:Search/geoid">
+            geoid
+           </a>
+          </b>
+         </i>
+         in Wiktionary, the free dictionary.
+        </td>
+       </tr>
+      </table>
+      <ul>
+       <li>
+        <a class="external text" href="http://earth-info.nga.mil/GandG/wgs84/index.html" rel="nofollow">
+         Main NGA (was NIMA) page on Earth gravity models
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://www.iges.polimi.it" rel="nofollow">
+         International Geoid Service (IGeS)
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://cddis.gsfc.nasa.gov/926/egm96/egm96.html" rel="nofollow">
+         EGM96 NASA GSFC Earth gravity model
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://earth-info.nga.mil/GandG/wgs84/gravitymod/egm2008/index.html" rel="nofollow">
+         Earth Gravitational Model 2008 (EGM2008, Released in July 2008)
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://www.ngs.noaa.gov/GEOID/" rel="nofollow">
+         NOAA Geoid webpage
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://geographiclib.sourceforge.net" rel="nofollow">
+         GeographicLib
+        </a>
+        provides a utility GeoidEval (with source code) to evaluate the geoid height for the EGM84,
+        <a href="/wiki/EGM96" title="EGM96">
+         EGM96
+        </a>
+        , and EGM2008 earth gravity models. Here is an
+        <a class="external text" href="http://geographiclib.sourceforge.net/cgi-bin/GeoidEval" rel="nofollow">
+         online version of GeoidEval
+        </a>
+        .
+       </li>
+       <li>
+        <a class="external text" href="http://www.kiamehr.ir/geoid.htm" rel="nofollow">
+         Kiamehr's Geoid Home Page
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="https://sites.google.com/site/maltapplication/home" rel="nofollow">
+         A free windows calculator which yields, among other calculation, the height difference between EGM96 geoid and mean sea level at every point on earth
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="https://web.archive.org/web/20110113002553/http://www.fugro-gravmag.com/resources/Technical%20Papers/Li_Goetze_Geophysics_2001.pdf" rel="nofollow">
+         Geoid tutorial from Li and Gotze
+        </a>
+        (964KB pdf file)
+       </li>
+       <li>
+        <a class="external text" href="https://web.archive.org/web/20160304084208/http://www.csr.utexas.edu/grace/gravity/gravity_definition.html" rel="nofollow">
+         Geoid tutorial at GRACE website
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="https://web.archive.org/web/20081001095040/http://www.infra.kth.se/geo/geollab.htm" rel="nofollow">
+         Precise Geoid Determination Based on the Least-Squares Modification of Stokes’ Formula
+        </a>
+        (PhD Thesis PDF)
+       </li>
+       <li>
+        <a class="external text" href="https://web.archive.org/web/20140405091253/http://www.surveying.org/home.htm" rel="nofollow">
+         View EGM2008, EGM96 and EGM84 on Google Maps
+        </a>
+       </li>
+       <li>
+        <cite class="citation journal">
+         H. Moritz (2011). "A contemporary perspective of geoid structure".
+         <i>
+          Journal of Geodetic Science
+         </i>
+         . Versita.
+         <b>
+          1
+         </b>
+         (March): 82–87.
+         <a href="/wiki/Bibcode" title="Bibcode">
+          Bibcode
+         </a>
+         :
+         <a class="external text" href="http://adsabs.harvard.edu/abs/2011JGeoS...1...82M" rel="nofollow">
+          2011JGeoS...1...82M
+         </a>
+         .
+         <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+          doi
+         </a>
+         :
+         <a class="external text" href="//doi.org/10.2478%2Fv10156-010-0010-7" rel="nofollow">
+          10.2478/v10156-010-0010-7
+         </a>
+         .
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Geodetic+Science&amp;rft.atitle=A+contemporary+perspective+of+geoid+structure&amp;rft.volume=1&amp;rft.issue=March&amp;rft.pages=82-87&amp;rft.date=2011&amp;rft_id=info%3Adoi%2F10.2478%2Fv10156-010-0010-7&amp;rft_id=info%3Abibcode%2F2011JGeoS...1...82M&amp;rft.au=H.+Moritz&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGeoid">
+         <span style="display:none;">
+         </span>
+        </span>
+       </li>
+      </ul>
+      <!-- 
+NewPP limit report
+Parsed by mw1265
+Cached time: 20180123013736
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.332 seconds
+Real time usage: 0.462 seconds
+Preprocessor visited node count: 1792/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 67058/2097152 bytes
+Template argument size: 2021/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 3/500
+Lua time usage: 0.153/10.000 seconds
+Lua memory usage: 5.17 MB/50 MB
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  354.229      1 -total
+ 43.19%  153.001      1 Template:Reflist
+ 18.49%   65.509      9 Template:Cite_web
+ 11.61%   41.125      1 Template:Geodesy
+ 10.46%   37.068      1 Template:Sidebar
+ 10.01%   35.456      1 Template:Distinguish
+  9.56%   33.875      1 Template:Expand_section
+  9.18%   32.529      7 Template:Cite_journal
+  9.17%   32.468      1 Template:Citation_needed
+  8.63%   30.556      1 Template:Ambox
+-->
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:176244-0!canonical!math=5 and timestamp 20180123013736 and revision id 821814371
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Geoid&amp;oldid=821814371">
+      https://en.wikipedia.org/w/index.php?title=Geoid&amp;oldid=821814371
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Gravimetry" title="Category:Gravimetry">
+         Gravimetry
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Geodesy" title="Category:Geodesy">
+         Geodesy
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:Pages_with_citations_lacking_titles" title="Category:Pages with citations lacking titles">
+         Pages with citations lacking titles
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Pages_with_citations_having_bare_URLs" title="Category:Pages with citations having bare URLs">
+         Pages with citations having bare URLs
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Use_dmy_dates_from_February_2013" title="Category:Use dmy dates from February 2013">
+         Use dmy dates from February 2013
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_to_be_expanded_from_June_2014" title="Category:Articles to be expanded from June 2014">
+         Articles to be expanded from June 2014
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:All_articles_to_be_expanded" title="Category:All articles to be expanded">
+         All articles to be expanded
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_using_small_message_boxes" title="Category:Articles using small message boxes">
+         Articles using small message boxes
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">
+         All articles with unsourced statements
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_with_unsourced_statements_from_June_2014" title="Category:Articles with unsourced statements from June 2014">
+         Articles with unsourced statements from June 2014
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Geoid" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Geoid" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Geoid" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Geoid" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="collapsible selected" id="ca-view">
+        <span>
+         <a href="/wiki/Geoid">
+          Read
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Geoid&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Geoid&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Geoid" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Geoid" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Geoid&amp;oldid=821814371" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Geoid&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q185969" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Geoid&amp;id=821814371" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Geoid">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Geoid&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Geoid&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-ar">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%85%D8%AC%D8%B3%D9%85_%D8%A3%D8%B1%D8%B6%D9%8A" hreflang="ar" lang="ar" title="مجسم أرضي – Arabic">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ast">
+        <a class="interlanguage-link-target" href="https://ast.wikipedia.org/wiki/Xeoide" hreflang="ast" lang="ast" title="Xeoide – Asturian">
+         Asturianu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-be">
+        <a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%93%D0%B5%D0%BE%D1%96%D0%B4" hreflang="be" lang="be" title="Геоід – Belarusian">
+         Беларуская
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-be-x-old">
+        <a class="interlanguage-link-target" href="https://be-x-old.wikipedia.org/wiki/%D0%93%D0%B5%D0%BE%D1%96%D0%B4" hreflang="be-x-old" lang="be-x-old" title="Геоід – Belarusian (Taraškievica orthography)">
+         Беларуская (тарашкевіца)‎
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bg">
+        <a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%93%D0%B5%D0%BE%D0%B8%D0%B4" hreflang="bg" lang="bg" title="Геоид – Bulgarian">
+         Български
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Geoide" hreflang="ca" lang="ca" title="Geoide – Catalan">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cs">
+        <a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Geoid" hreflang="cs" lang="cs" title="Geoid – Czech">
+         Čeština
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-da">
+        <a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Geoide" hreflang="da" lang="da" title="Geoide – Danish">
+         Dansk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Geoid" hreflang="de" lang="de" title="Geoid – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-et">
+        <a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Geoid" hreflang="et" lang="et" title="Geoid – Estonian">
+         Eesti
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-el">
+        <a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%93%CE%B5%CF%89%CE%B5%CE%B9%CE%B4%CE%AD%CF%82" hreflang="el" lang="el" title="Γεωειδές – Greek">
+         Ελληνικά
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Geoide" hreflang="es" lang="es" title="Geoide – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eo">
+        <a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Geoido" hreflang="eo" lang="eo" title="Geoido – Esperanto">
+         Esperanto
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fa">
+        <a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%B2%D9%85%DB%8C%D9%86%E2%80%8C%D9%88%D8%A7%D8%B1%D9%87" hreflang="fa" lang="fa" title="زمین‌واره – Persian">
+         فارسی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/G%C3%A9o%C3%AFde" hreflang="fr" lang="fr" title="Géoïde – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ko">
+        <a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%A7%80%EC%98%A4%EC%9D%B4%EB%93%9C" hreflang="ko" lang="ko" title="지오이드 – Korean">
+         한국어
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hy">
+        <a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D4%B3%D5%A5%D5%B8%D5%AB%D5%A4" hreflang="hy" lang="hy" title="Գեոիդ – Armenian">
+         Հայերեն
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hr">
+        <a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Geoid" hreflang="hr" lang="hr" title="Geoid – Croatian">
+         Hrvatski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-id">
+        <a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Geoid" hreflang="id" lang="id" title="Geoid – Indonesian">
+         Bahasa Indonesia
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Geoide" hreflang="it" lang="it" title="Geoide – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-he">
+        <a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%92%D7%90%D7%95%D7%90%D7%99%D7%93" hreflang="he" lang="he" title="גאואיד – Hebrew">
+         עברית
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ka">
+        <a class="interlanguage-link-target" href="https://ka.wikipedia.org/wiki/%E1%83%92%E1%83%94%E1%83%9D%E1%83%98%E1%83%93%E1%83%98" hreflang="ka" lang="ka" title="გეოიდი – Georgian">
+         ქართული
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-kk">
+        <a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/%D0%93%D0%B5%D0%BE%D0%B8%D0%B4" hreflang="kk" lang="kk" title="Геоид – Kazakh">
+         Қазақша
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ky">
+        <a class="interlanguage-link-target" href="https://ky.wikipedia.org/wiki/%D0%93%D0%B5%D0%BE%D0%B8%D0%B4" hreflang="ky" lang="ky" title="Геоид – Kyrgyz">
+         Кыргызча
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lb">
+        <a class="interlanguage-link-target" href="https://lb.wikipedia.org/wiki/Geoid" hreflang="lb" lang="lb" title="Geoid – Luxembourgish">
+         Lëtzebuergesch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hu">
+        <a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Geoid" hreflang="hu" lang="hu" title="Geoid – Hungarian">
+         Magyar
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nl">
+        <a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Geo%C3%AFde" hreflang="nl" lang="nl" title="Geoïde – Dutch">
+         Nederlands
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%AA%E3%82%A4%E3%83%89" hreflang="ja" lang="ja" title="ジオイド – Japanese">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-no">
+        <a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Geoide" hreflang="no" lang="no" title="Geoide – Norwegian">
+         Norsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nn">
+        <a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Geoide" hreflang="nn" lang="nn" title="Geoide – Norwegian Nynorsk">
+         Norsk nynorsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uz">
+        <a class="interlanguage-link-target" href="https://uz.wikipedia.org/wiki/Geoid" hreflang="uz" lang="uz" title="Geoid – Uzbek">
+         Oʻzbekcha/ўзбекча
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pl">
+        <a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Geoida" hreflang="pl" lang="pl" title="Geoida – Polish">
+         Polski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Geoide" hreflang="pt" lang="pt" title="Geoide – Portuguese">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ro">
+        <a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Geoid" hreflang="ro" lang="ro" title="Geoid – Romanian">
+         Română
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%93%D0%B5%D0%BE%D0%B8%D0%B4" hreflang="ru" lang="ru" title="Геоид – Russian">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sq">
+        <a class="interlanguage-link-target" href="https://sq.wikipedia.org/wiki/Gjeoidi" hreflang="sq" lang="sq" title="Gjeoidi – Albanian">
+         Shqip
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-simple">
+        <a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Geoid" hreflang="simple" lang="simple" title="Geoid – Simple English">
+         Simple English
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sk">
+        <a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Geoid" hreflang="sk" lang="sk" title="Geoid – Slovak">
+         Slovenčina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sl">
+        <a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Geoid" hreflang="sl" lang="sl" title="Geoid – Slovenian">
+         Slovenščina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sr">
+        <a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%93%D0%B5%D0%BE%D0%B8%D0%B4" hreflang="sr" lang="sr" title="Геоид – Serbian">
+         Српски / srpski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sh">
+        <a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Geoid" hreflang="sh" lang="sh" title="Geoid – Serbo-Croatian">
+         Srpskohrvatski / српскохрватски
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fi">
+        <a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Geoidi" hreflang="fi" lang="fi" title="Geoidi – Finnish">
+         Suomi
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sv">
+        <a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Geoid" hreflang="sv" lang="sv" title="Geoid – Swedish">
+         Svenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ta">
+        <a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%AA%E0%AF%82%E0%AE%AE%E0%AE%BF%E0%AE%B5%E0%AE%9F%E0%AE%BF%E0%AE%B5%E0%AE%AE%E0%AF%8D" hreflang="ta" lang="ta" title="பூமிவடிவம் – Tamil">
+         தமிழ்
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-th">
+        <a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B8%88%E0%B8%B5%E0%B8%AD%E0%B8%AD%E0%B8%A2%E0%B8%94%E0%B9%8C" hreflang="th" lang="th" title="จีออยด์ – Thai">
+         ไทย
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tr">
+        <a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Geoit" hreflang="tr" lang="tr" title="Geoit – Turkish">
+         Türkçe
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uk">
+        <a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%93%D0%B5%D0%BE%D1%97%D0%B4" hreflang="uk" lang="uk" title="Геоїд – Ukrainian">
+         Українська
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-vi">
+        <a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/Geoid" hreflang="vi" lang="vi" title="Geoid – Vietnamese">
+         Tiếng Việt
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh-yue">
+        <a class="interlanguage-link-target" href="https://zh-yue.wikipedia.org/wiki/%E5%A4%A7%E5%9C%B0%E6%B0%B4%E6%BA%96%E9%9D%A2" hreflang="zh-yue" lang="zh-yue" title="大地水準面 – Cantonese">
+         粵語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%9C%B0%E6%B0%B4%E5%87%86%E9%9D%A2" hreflang="zh" lang="zh" title="大地水准面 – Chinese">
+         中文
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q185969#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 22 January 2018, at 20:07.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Geoid&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.332","walltime":"0.462","ppvisitednodes":{"value":1792,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":67058,"limit":2097152},"templateargumentsize":{"value":2021,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  354.229      1 -total"," 43.19%  153.001      1 Template:Reflist"," 18.49%   65.509      9 Template:Cite_web"," 11.61%   41.125      1 Template:Geodesy"," 10.46%   37.068      1 Template:Sidebar"," 10.01%   35.456      1 Template:Distinguish","  9.56%   33.875      1 Template:Expand_section","  9.18%   32.529      7 Template:Cite_journal","  9.17%   32.468      1 Template:Citation_needed","  8.63%   30.556      1 Template:Ambox"]},"scribunto":{"limitreport-timeusage":{"value":"0.153","limit":"10.000"},"limitreport-memusage":{"value":5418171,"limit":52428800}},"cachereport":{"origin":"mw1265","timestamp":"20180123013736","ttl":1900800,"transientcontent":false}}});});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":82,"wgHostname":"mw1242"});});
+  </script>
+ </body>
+</html>

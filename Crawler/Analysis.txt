@@ -1,0 +1,53 @@
+Crawling using DFS 5.0% complete
+Crawling using DFS 10.0% complete
+Crawling using DFS 15.0% complete
+Crawling using DFS 20.0% complete
+Crawling using DFS 25.0% complete
+Crawling using DFS 30.0% complete
+Crawling using DFS 35.0% complete
+Crawling using DFS 40.0% complete
+Crawling using DFS 45.0% complete
+Crawling using DFS 50.0% complete
+Crawling using DFS 55.0% complete
+Crawling using DFS 60.0% complete
+Crawling using DFS 65.0% complete
+Crawling using DFS 70.0% complete
+Crawling using DFS 75.0% complete
+Crawling using DFS 80.0% complete
+Crawling using DFS 85.0% complete
+Crawling using DFS 90.0% complete
+Crawling using DFS 95.0% complete
+Crawling using DFS 100.0% complete
+******** Starting Crawling using BFS *********
+Crawling using BFS 5.0% complete
+Crawling using BFS 10.0% complete
+Crawling using BFS 15.0% complete
+Crawling using BFS 20.0% complete
+Crawling using BFS 25.0% complete
+Crawling using BFS 30.0% complete
+Crawling using BFS 35.0% complete
+Crawling using BFS 40.0% complete
+Crawling using BFS 45.0% complete
+Crawling using BFS 50.0% complete
+Crawling using BFS 55.0% complete
+Crawling using BFS 60.0% complete
+Crawling using BFS 65.0% complete
+Crawling using BFS 70.0% complete
+Crawling using BFS 75.0% complete
+Crawling using BFS 80.0% complete
+Crawling using BFS 85.0% complete
+Crawling using BFS 90.0% complete
+Crawling using BFS 95.0% complete
+Crawling using BFS 100.0% complete
+*****************************************************
+Runtime Analysis:
+URLs crawled in DFS Crawl: 1000
+Execution time for DFS Crawl : 1697.95299983 seconds
+URLs crawled in BFS Crawl: 1000
+Execution time for BFS Crawl : 1673.64499998 seconds
+URLs Overlap: 31
+URL Overlap Percentage :3.1 %
+*****************************************************
+Coverage Analysis:
+Topic coverage in case of DFS: 3
+Topic coverage in case of BFS: 563

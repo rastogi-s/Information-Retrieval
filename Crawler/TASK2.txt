@@ -1,0 +1,37 @@
+############################################################################################################
+#########################################      TASK-2      #################################################
+############################################################################################################
+
+ Focused Crawling
+
+		> Perform two one crawling round following Breadth First Search Algorithm.
+		> Crawler should take two inputs URL and list of keywords to be matched with anchor text or the URL
+		> KeyWords to be matched : ['lunar', 'moon'].(should handle all variations such as “Moon_landing”,
+		  “Moonlit”,“Lunar”, “honeymoons”, “LUNAR”, etc )
+		> Starting seed : "https://en.wikipedia.org/wiki/Solar_eclipse"
+		> Crawling depth : Max = 6.
+		> Maximum unique URLS to be crawled = 1000.
+		> Generate one file which contain the lists of Unique URLs for BFS crawl.
+		> Description of the handling of the keyword variations.
+ 
+ DESCRIPTION OF HANDLING OF KEYWORD VARIATIONS:
+     
+   > convert the given URLs and anchor text to unicode : utf-8.
+   > convert each URL and anchor text to lower case
+   > check occurrence of both the keywords as substrings in the URL or anchor text.
+   
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+

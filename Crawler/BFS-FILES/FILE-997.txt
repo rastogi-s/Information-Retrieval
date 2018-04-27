@@ -1,0 +1,4457 @@
+https://en.wikipedia.org/wiki/Magnetic_reconnection
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Magnetic reconnection - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Magnetic_reconnection","wgTitle":"Magnetic reconnection","wgCurRevisionId":817053811,"wgRevisionId":817053811,"wgArticleId":1166647,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia introduction cleanup from March 2015","All pages needing cleanup","Articles covered by WikiProject Wikify from March 2015","All articles covered by WikiProject Wikify","All articles with unsourced statements","Articles with unsourced statements from January 2012","Articles containing video clips","Plasma physics","Stellar phenomena","Solar phenomena"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Magnetic_reconnection","wgRelevantArticleId":1166647,"wgRequestId":"WnWrygpAME4AABsCnDoAAACQ","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q287506","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","ext.tmh.thumbnail.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","ext.math.scripts","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","mw.TMHGalleryHook.js","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.tmh.thumbnail.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.31.0-wmf.17" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <meta content="https://upload.wikimedia.org/wikipedia/commons/2/24/Reconnection.gif" property="og:image"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Magnetic_reconnection" rel="alternate"/>
+  <link href="/w/index.php?title=Magnetic_reconnection&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Magnetic_reconnection&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/Magnetic_reconnection" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Magnetic_reconnection rootpage-Magnetic_reconnection skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Magnetic reconnection
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <table class="plainlinks metadata ambox ambox-style ambox-lead_too_long" role="presentation">
+       <tr>
+        <td class="mbox-image">
+         <div style="width:52px">
+          <img alt="" data-file-height="48" data-file-width="48" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/60px-Edit-clear.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/80px-Edit-clear.svg.png 2x" width="40"/>
+         </div>
+        </td>
+        <td class="mbox-text">
+         <div class="mbox-text-span">
+          This article's
+          <b>
+           <a href="/wiki/Wikipedia:Manual_of_Style/Lead_section" title="Wikipedia:Manual of Style/Lead section">
+            lead section
+           </a>
+           may be too long for the length of the article
+          </b>
+          .
+          <span class="hide-when-compact">
+           Please help by moving some material from it into the body of the article. Please read the
+           <a href="/wiki/Wikipedia:Manual_of_Style/Layout" title="Wikipedia:Manual of Style/Layout">
+            layout guide
+           </a>
+           and
+           <a href="/wiki/Wikipedia:Manual_of_Style/Lead_section#Length" title="Wikipedia:Manual of Style/Lead section">
+            lead section guidelines
+           </a>
+           to ensure the section will still be inclusive of all essential details. Please discuss this issue on the article's
+           <a href="/wiki/Talk:Magnetic_reconnection" title="Talk:Magnetic reconnection">
+            talk page
+           </a>
+           .
+          </span>
+          <small>
+           <i>
+            (March 2015)
+           </i>
+          </small>
+         </div>
+        </td>
+       </tr>
+      </table>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:382px;">
+        <a class="image" href="/wiki/File:Reconnection.gif">
+         <img alt="" class="thumbimage" data-file-height="400" data-file-width="550" height="276" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Reconnection.gif/380px-Reconnection.gif" srcset="//upload.wikimedia.org/wikipedia/commons/2/24/Reconnection.gif 1.5x" width="380"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Reconnection.gif" title="Enlarge">
+          </a>
+         </div>
+         Magnetic reconnection: This view is a cross-section through four magnetic domains undergoing separator reconnection. Two separatrices (see text) divide space into four magnetic domains with a separator at the center of the figure. Field lines (and associated plasma) flow inward from above and below the separator, reconnect, and spring outward horizontally. A current sheet (as shown) may be present but is not required for reconnection to occur. This process is not well understood: once started, it proceeds many orders of magnitude faster than predicted by standard models.
+        </div>
+       </div>
+      </div>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:382px;">
+        <div class="PopUpMediaTransform" id="mwe_player_0" style="width:380px;" videopayload='&lt;div class="mediaContainer" style="width:854px"&gt;&lt;video id="mwe_player_1" poster="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/SDO_Observes_a_Reconnection_Event.ogv/854px--SDO_Observes_a_Reconnection_Event.ogv.jpg" controls="" preload="none" autoplay="" style="width:854px;height:480px" class="kskin" data-durationhint="101.49439909297" data-startoffset="0" data-mwtitle="SDO_Observes_a_Reconnection_Event.ogv" data-mwprovider="wikimediacommons"&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/a/a0/SDO_Observes_a_Reconnection_Event.ogv" type="video/ogg; codecs=&amp;quot;theora, vorbis&amp;quot;" data-title="Original Ogg file, 1,280 × 720 (957 kbps)" data-shorttitle="Ogg source" data-width="1280" data-height="720" data-bandwidth="956873" data-framerate="29.97"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/a/a0/SDO_Observes_a_Reconnection_Event.ogv/SDO_Observes_a_Reconnection_Event.ogv.480p.webm" type="video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;" data-title="SD WebM (480P)" data-shorttitle="WebM 480P" data-transcodekey="480p.webm" data-width="854" data-height="480" data-bandwidth="1019520" data-framerate="29.97"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/a/a0/SDO_Observes_a_Reconnection_Event.ogv/SDO_Observes_a_Reconnection_Event.ogv.720p.webm" type="video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;" data-title="HD WebM (720P)" data-shorttitle="WebM 720P" data-transcodekey="720p.webm" data-width="1280" data-height="720" data-bandwidth="1720416" data-framerate="29.97"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/a/a0/SDO_Observes_a_Reconnection_Event.ogv/SDO_Observes_a_Reconnection_Event.ogv.160p.webm" type="video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;" data-title="Low bandwidth WebM (160P)" data-shorttitle="WebM 160P" data-transcodekey="160p.webm" data-width="284" data-height="160" data-bandwidth="208624" data-framerate="29.97"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/a/a0/SDO_Observes_a_Reconnection_Event.ogv/SDO_Observes_a_Reconnection_Event.ogv.240p.webm" type="video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;" data-title="Small WebM (240P)" data-shorttitle="WebM 240P" data-transcodekey="240p.webm" data-width="426" data-height="240" data-bandwidth="299936" data-framerate="29.97"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/a/a0/SDO_Observes_a_Reconnection_Event.ogv/SDO_Observes_a_Reconnection_Event.ogv.360p.webm" type="video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;" data-title="WebM (360P)" data-shorttitle="WebM 360P" data-transcodekey="360p.webm" data-width="640" data-height="360" data-bandwidth="540112" data-framerate="29.97"/&gt;&lt;/video&gt;&lt;/div&gt;'>
+         <img alt="File:SDO Observes a Reconnection Event.ogv" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/SDO_Observes_a_Reconnection_Event.ogv/380px--SDO_Observes_a_Reconnection_Event.ogv.jpg" style="width:380px;height:214px"/>
+         <a href="//upload.wikimedia.org/wikipedia/commons/a/a0/SDO_Observes_a_Reconnection_Event.ogv" target="new" title="Play media">
+          <span class="play-btn-large">
+           <span class="mw-tmh-playtext">
+            Play media
+           </span>
+          </span>
+         </a>
+        </div>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:SDO_Observes_a_Reconnection_Event.ogv" title="Enlarge">
+          </a>
+         </div>
+         A magnetic reconnection event on the
+         <a href="/wiki/Sun" title="Sun">
+          sun
+         </a>
+         .
+        </div>
+       </div>
+      </div>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:382px;">
+        <div class="PopUpMediaTransform" id="mwe_player_2" style="width:380px;" videopayload='&lt;div class="mediaContainer" style="width:816px"&gt;&lt;video id="mwe_player_3" poster="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Quad-flare.ogv/816px--Quad-flare.ogv.jpg" controls="" preload="none" autoplay="" style="width:816px;height:480px" class="kskin" data-durationhint="3.6" data-startoffset="0" data-mwtitle="Quad-flare.ogv" data-mwprovider="wikimediacommons"&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/0/0f/Quad-flare.ogv" type="video/ogg; codecs=&amp;quot;theora&amp;quot;" data-title="Original Ogg file, 1,041 × 612 (952 kbps)" data-shorttitle="Ogg source" data-width="1041" data-height="612" data-bandwidth="952109" data-framerate="10"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/0/0f/Quad-flare.ogv/Quad-flare.ogv.480p.webm" type="video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;" data-title="SD WebM (480P)" data-shorttitle="WebM 480P" data-transcodekey="480p.webm" data-width="816" data-height="480" data-bandwidth="1024896" data-framerate="10"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/0/0f/Quad-flare.ogv/Quad-flare.ogv.160p.webm" type="video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;" data-title="Low bandwidth WebM (160P)" data-shorttitle="WebM 160P" data-transcodekey="160p.webm" data-width="272" data-height="160" data-bandwidth="125928" data-framerate="10"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/0/0f/Quad-flare.ogv/Quad-flare.ogv.240p.webm" type="video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;" data-title="Small WebM (240P)" data-shorttitle="WebM 240P" data-transcodekey="240p.webm" data-width="408" data-height="240" data-bandwidth="252784" data-framerate="10"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/0/0f/Quad-flare.ogv/Quad-flare.ogv.360p.webm" type="video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;" data-title="WebM (360P)" data-shorttitle="WebM 360P" data-transcodekey="360p.webm" data-width="612" data-height="360" data-bandwidth="499448" data-framerate="10"/&gt;&lt;/video&gt;&lt;/div&gt;'>
+         <img alt="File:Quad-flare.ogv" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Quad-flare.ogv/380px--Quad-flare.ogv.jpg" style="width:380px;height:223px"/>
+         <a href="//upload.wikimedia.org/wikipedia/commons/0/0f/Quad-flare.ogv" target="new" title="Play media">
+          <span class="play-btn-large">
+           <span class="mw-tmh-playtext">
+            Play media
+           </span>
+          </span>
+         </a>
+        </div>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Quad-flare.ogv" title="Enlarge">
+          </a>
+         </div>
+         The evolution of magnetic reconnection during a
+         <a href="/wiki/Solar_flare" title="Solar flare">
+          solar flare
+         </a>
+         .
+         <sup class="reference" id="cite_ref-1">
+          <a href="#cite_note-1">
+           [1]
+          </a>
+         </sup>
+        </div>
+       </div>
+      </div>
+      <p>
+       <b>
+        Magnetic reconnection
+       </b>
+       is a physical process in highly conducting
+       <a href="/wiki/Plasma_(physics)" title="Plasma (physics)">
+        plasmas
+       </a>
+       in which the magnetic
+       <a href="/wiki/Topology" title="Topology">
+        topology
+       </a>
+       is rearranged and magnetic energy is converted to
+       <a href="/wiki/Kinetic_energy" title="Kinetic energy">
+        kinetic energy
+       </a>
+       ,
+       <a href="/wiki/Thermal_energy" title="Thermal energy">
+        thermal energy
+       </a>
+       , and
+       <a href="/wiki/Particle_acceleration" title="Particle acceleration">
+        particle acceleration
+       </a>
+       . Magnetic reconnection occurs on timescales intermediate between slow resistive diffusion of the
+       <a href="/wiki/Magnetic_field" title="Magnetic field">
+        magnetic field
+       </a>
+       and fast
+       <a href="/wiki/Alfv%C3%A9n_wave" title="Alfvén wave">
+        Alfvénic
+       </a>
+       timescales.
+      </p>
+      <p>
+       The qualitative description of the reconnection process is such that magnetic field lines from different
+       <a href="/wiki/Magnetic_domain" title="Magnetic domain">
+        magnetic domains
+       </a>
+       (defined by the field line connectivity) are spliced to one another, changing their patterns of connectivity with respect to the sources. It is a violation of an approximate conservation law in plasma physics, called the
+       <a class="mw-redirect" href="/wiki/Alfv%C3%A9n%27s_Theorem" title="Alfvén's Theorem">
+        Alfvén's Theorem
+       </a>
+       , and can concentrate mechanical or magnetic energy in both space and time.
+       <a href="/wiki/Solar_flare" title="Solar flare">
+        Solar flares
+       </a>
+       , the largest explosions in the
+       <a href="/wiki/Solar_System" title="Solar System">
+        Solar System
+       </a>
+       , may involve the reconnection of large systems of magnetic flux on the
+       <a href="/wiki/Sun" title="Sun">
+        Sun
+       </a>
+       , releasing, in minutes, energy that has been stored in the magnetic field over a period of hours to days. Magnetic reconnection in
+       <a href="/wiki/Earth" title="Earth">
+        Earth
+       </a>
+       's
+       <a href="/wiki/Magnetosphere" title="Magnetosphere">
+        magnetosphere
+       </a>
+       is one of the mechanisms responsible for the
+       <a class="mw-redirect" href="/wiki/Aurora_(astronomy)" title="Aurora (astronomy)">
+        aurora
+       </a>
+       , and it is important to the science of controlled
+       <a href="/wiki/Nuclear_fusion" title="Nuclear fusion">
+        nuclear fusion
+       </a>
+       because it is one mechanism preventing
+       <a class="mw-redirect" href="/wiki/Magnetic_confinement" title="Magnetic confinement">
+        magnetic confinement
+       </a>
+       of the fusion fuel.
+      </p>
+      <p>
+       In an electrically conductive
+       <a href="/wiki/Plasma_(physics)" title="Plasma (physics)">
+        plasma
+       </a>
+       , magnetic field lines are grouped into 'domains'— bundles of field lines that connect from a particular place to another particular place, and that are topologically distinct from other field lines nearby. This topology is approximately preserved even when the magnetic field itself is strongly distorted by the presence of variable currents or motion of magnetic sources, because effects that might otherwise change the magnetic topology instead induce
+       <a href="/wiki/Eddy_current" title="Eddy current">
+        eddy currents
+       </a>
+       in the plasma; the eddy currents have the effect of canceling out the topological change.
+      </p>
+      <p>
+       In two dimensions, the most common type of magnetic reconnection is
+       <b>
+        separator reconnection
+       </b>
+       , in which four separate magnetic domains exchange magnetic field lines. Domains in a magnetic plasma are separated by
+       <i>
+        <a class="mw-redirect" href="/wiki/Separatrix_(Math)" title="Separatrix (Math)">
+         separatrix
+        </a>
+        surfaces
+       </i>
+       : curved surfaces in space that divide different bundles of flux. Field lines on one side of the separatrix all terminate at a particular magnetic pole, while field lines on the other side all terminate at a different pole of similar sign. Since each field line generally begins at a north magnetic pole and ends at a south magnetic pole, the most general way of dividing simple flux systems involves four domains separated by two separatrices: one separatrix surface divides the flux into two bundles, each of which shares a south pole, and the other separatrix surface divides the flux into two bundles, each of which shares a north pole. The intersection of the separatrices forms a
+       <i>
+        separator
+       </i>
+       , a single line that is at the boundary of the four separate domains. In separator reconnection, field lines enter the separator from two of the domains, and are spliced one to the other, exiting the separator in the other two domains (see the figure).
+      </p>
+      <p>
+       According to simple resistive
+       <a href="/wiki/Magnetohydrodynamics" title="Magnetohydrodynamics">
+        magnetohydrodynamics
+       </a>
+       (MHD) theory, reconnection happens because the plasma's
+       <a class="mw-redirect" href="/wiki/Resistivity" title="Resistivity">
+        electrical resistivity
+       </a>
+       near the boundary layer opposes the
+       <a class="mw-redirect" href="/wiki/Current_(electricity)" title="Current (electricity)">
+        currents
+       </a>
+       necessary to sustain the change in the magnetic field. The need for such a current can be seen from one of
+       <a href="/wiki/Maxwell%27s_equations" title="Maxwell's equations">
+        Maxwell's equations
+       </a>
+       ,
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle \nabla \times \mathbf {B} =\mu \mathbf {J} +\mu \epsilon {\frac {\partial \mathbf {E} }{\partial t}}.}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mi mathvariant="normal">
+               ∇
+               <!-- ∇ -->
+              </mi>
+              <mo>
+               ×
+               <!-- × -->
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi mathvariant="bold">
+                B
+               </mi>
+              </mrow>
+              <mo>
+               =
+              </mo>
+              <mi>
+               μ
+               <!-- μ -->
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi mathvariant="bold">
+                J
+               </mi>
+              </mrow>
+              <mo>
+               +
+              </mo>
+              <mi>
+               μ
+               <!-- μ -->
+              </mi>
+              <mi>
+               ϵ
+               <!-- ϵ -->
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mfrac>
+                <mrow>
+                 <mi mathvariant="normal">
+                  ∂
+                  <!-- ∂ -->
+                 </mi>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mi mathvariant="bold">
+                   E
+                  </mi>
+                 </mrow>
+                </mrow>
+                <mrow>
+                 <mi mathvariant="normal">
+                  ∂
+                  <!-- ∂ -->
+                 </mi>
+                 <mi>
+                  t
+                 </mi>
+                </mrow>
+               </mfrac>
+              </mrow>
+              <mo>
+               .
+              </mo>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle \nabla \times \mathbf {B} =\mu \mathbf {J} +\mu \epsilon {\frac {\partial \mathbf {E} }{\partial t}}.}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="\nabla \times {\mathbf  {B}}=\mu {\mathbf  {J}}+\mu \epsilon {\frac  {\partial {\mathbf  {E}}}{\partial t}}." aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0b8bce9702ac054dc4561b30a4ac643a52ce8d8f" style="vertical-align: -2.005ex; width:22.303ex; height:5.509ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       The resistivity of the current layer allows
+       <a href="/wiki/Magnetic_flux" title="Magnetic flux">
+        magnetic flux
+       </a>
+       from either side to diffuse through the current layer, cancelling outflux from the other side of the boundary. When this happens, the plasma is pulled out by
+       <a href="/wiki/Magnetic_tension_force" title="Magnetic tension force">
+        magnetic tension
+       </a>
+       along the direction of the magnetic field lines. The resulting drop in pressure pulls more plasma and magnetic flux into the central region, yielding a self-sustaining process.
+      </p>
+      <p>
+       A current problem in plasma
+       <a href="/wiki/Physics" title="Physics">
+        physics
+       </a>
+       is that observed reconnection happens much faster than predicted by MHD in high
+       <a href="/wiki/Lundquist_number" title="Lundquist number">
+        Lundquist number
+       </a>
+       plasmas: solar flares, for example, proceed 13-14 orders of magnitude faster than a naive calculation would suggest, and several orders of magnitude faster than current theoretical models that include turbulence and kinetic effects. One possible mechanism to explain the discrepancy is that the electromagnetic
+       <a href="/wiki/Turbulence" title="Turbulence">
+        turbulence
+       </a>
+       in the boundary layer is sufficiently strong to scatter electrons, raising the plasma's local resistivity. This would allow the magnetic flux to diffuse faster.
+      </p>
+      <p>
+      </p>
+      <div class="toc" id="toc">
+       <div class="toctitle" dir="ltr" lang="en" xml:lang="en">
+        <h2>
+         Contents
+        </h2>
+       </div>
+       <ul>
+        <li class="toclevel-1 tocsection-1">
+         <a href="#Theoretical_descriptions_of_magnetic_reconnection">
+          <span class="tocnumber">
+           1
+          </span>
+          <span class="toctext">
+           Theoretical descriptions of magnetic reconnection
+          </span>
+         </a>
+         <ul>
+          <li class="toclevel-2 tocsection-2">
+           <a href="#Sweet–Parker_model">
+            <span class="tocnumber">
+             1.1
+            </span>
+            <span class="toctext">
+             Sweet–Parker model
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-3">
+           <a href="#Petschek_model">
+            <span class="tocnumber">
+             1.2
+            </span>
+            <span class="toctext">
+             Petschek model
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-4">
+           <a href="#Collisionless_reconnection">
+            <span class="tocnumber">
+             1.3
+            </span>
+            <span class="toctext">
+             Collisionless reconnection
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-5">
+           <a href="#Anomalous_resistivity_and_Bohm_diffusion">
+            <span class="tocnumber">
+             1.4
+            </span>
+            <span class="toctext">
+             Anomalous resistivity and Bohm diffusion
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-6">
+           <a href="#Stochastic_reconnection">
+            <span class="tocnumber">
+             1.5
+            </span>
+            <span class="toctext">
+             Stochastic reconnection
+            </span>
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="toclevel-1 tocsection-7">
+         <a href="#Observations_of_magnetic_reconnection_in_nature_and_the_laboratory">
+          <span class="tocnumber">
+           2
+          </span>
+          <span class="toctext">
+           Observations of magnetic reconnection in nature and the laboratory
+          </span>
+         </a>
+         <ul>
+          <li class="toclevel-2 tocsection-8">
+           <a href="#Solar_atmosphere">
+            <span class="tocnumber">
+             2.1
+            </span>
+            <span class="toctext">
+             Solar atmosphere
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-9">
+           <a href="#Earth's_magnetosphere">
+            <span class="tocnumber">
+             2.2
+            </span>
+            <span class="toctext">
+             Earth's magnetosphere
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-10">
+           <a href="#Laboratory_plasma_experiments">
+            <span class="tocnumber">
+             2.3
+            </span>
+            <span class="toctext">
+             Laboratory plasma experiments
+            </span>
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="toclevel-1 tocsection-11">
+         <a href="#See_also">
+          <span class="tocnumber">
+           3
+          </span>
+          <span class="toctext">
+           See also
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-12">
+         <a href="#Notes">
+          <span class="tocnumber">
+           4
+          </span>
+          <span class="toctext">
+           Notes
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-13">
+         <a href="#References">
+          <span class="tocnumber">
+           5
+          </span>
+          <span class="toctext">
+           References
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-14">
+         <a href="#External_links">
+          <span class="tocnumber">
+           6
+          </span>
+          <span class="toctext">
+           External links
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <p>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Theoretical_descriptions_of_magnetic_reconnection">
+        Theoretical descriptions of magnetic reconnection
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Magnetic_reconnection&amp;action=edit&amp;section=1" title="Edit section: Theoretical descriptions of magnetic reconnection">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <h3>
+       <span id="Sweet.E2.80.93Parker_model">
+       </span>
+       <span class="mw-headline" id="Sweet–Parker_model">
+        Sweet–Parker model
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Magnetic_reconnection&amp;action=edit&amp;section=2" title="Edit section: Sweet–Parker model">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       At a conference in 1956, Peter Sweet pointed out that by pushing two plasmas with oppositely directed magnetic fields together, resistive diffusion is able to occur on a length scale much shorter than a typical equilibrium length scale.
+       <sup class="reference" id="cite_ref-2">
+        <a href="#cite_note-2">
+         [2]
+        </a>
+       </sup>
+       <a href="/wiki/Eugene_Parker" title="Eugene Parker">
+        Eugene Parker
+       </a>
+       was in attendance at this conference and developed scaling relations for this model during his return travel.
+       <sup class="reference" id="cite_ref-3">
+        <a href="#cite_note-3">
+         [3]
+        </a>
+       </sup>
+      </p>
+      <p>
+       The Sweet-Parker model describes time-independent magnetic reconnection in the resistive MHD framework when the reconnecting magnetic fields are antiparallel (oppositely directed) and effects related to viscosity and compressibility are unimportant. The ideal
+       <a href="/wiki/Ohm%27s_law" title="Ohm's law">
+        Ohm's law
+       </a>
+       then yields the relation
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle E_{y}=v_{in}B_{in}}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <msub>
+               <mi>
+                E
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 y
+                </mi>
+               </mrow>
+              </msub>
+              <mo>
+               =
+              </mo>
+              <msub>
+               <mi>
+                v
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 i
+                </mi>
+                <mi>
+                 n
+                </mi>
+               </mrow>
+              </msub>
+              <msub>
+               <mi>
+                B
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 i
+                </mi>
+                <mi>
+                 n
+                </mi>
+               </mrow>
+              </msub>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle E_{y}=v_{in}B_{in}}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="{\displaystyle E_{y}=v_{in}B_{in}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3a7c20f1c0b5502cb7819225f5837946ede465ad" style="vertical-align: -1.005ex; width:12.326ex; height:2.843ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       where
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle E_{y}}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <msub>
+              <mi>
+               E
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                y
+               </mi>
+              </mrow>
+             </msub>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle E_{y}}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="E_{y}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ff71d8c6b39b429ae113e95c77c0016bd4aa62ed" style="vertical-align: -1.005ex; width:2.765ex; height:2.843ex;"/>
+       </span>
+       is the out-of-plane electric field,
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle v_{in}}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <msub>
+              <mi>
+               v
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                i
+               </mi>
+               <mi>
+                n
+               </mi>
+              </mrow>
+             </msub>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle v_{in}}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="{\displaystyle v_{in}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/008c85e06e306a0f06cd3daa095af44fe5b49589" style="vertical-align: -0.671ex; width:2.914ex; height:2.009ex;"/>
+       </span>
+       is the characteristic inflow velocity, and
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle B_{in}}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <msub>
+              <mi>
+               B
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                i
+               </mi>
+               <mi>
+                n
+               </mi>
+              </mrow>
+             </msub>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle B_{in}}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="B_{{in}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a9997cc12fa9a4e3fc4b2604c5c39806eb31b12a" style="vertical-align: -0.671ex; width:3.55ex; height:2.509ex;"/>
+       </span>
+       is the characteristic upstream magnetic field strength. By neglecting displacement current, the low-frequency Ampere's law,
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle \mathbf {J} ={\frac {\nabla \times \mathbf {B} }{\mu _{0}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mrow class="MJX-TeXAtom-ORD">
+              <mi mathvariant="bold">
+               J
+              </mi>
+             </mrow>
+             <mo>
+              =
+             </mo>
+             <mrow class="MJX-TeXAtom-ORD">
+              <mfrac>
+               <mrow>
+                <mi mathvariant="normal">
+                 ∇
+                 <!-- ∇ -->
+                </mi>
+                <mo>
+                 ×
+                 <!-- × -->
+                </mo>
+                <mrow class="MJX-TeXAtom-ORD">
+                 <mi mathvariant="bold">
+                  B
+                 </mi>
+                </mrow>
+               </mrow>
+               <msub>
+                <mi>
+                 μ
+                 <!-- μ -->
+                </mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                 <mn>
+                  0
+                 </mn>
+                </mrow>
+               </msub>
+              </mfrac>
+             </mrow>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle \mathbf {J} ={\frac {\nabla \times \mathbf {B} }{\mu _{0}}}}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="{\mathbf  {J}}={\frac  {\nabla \times {\mathbf  {B}}}{\mu _{0}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a1b117f3b3296bab162d568dec36a19d399dcf89" style="vertical-align: -2.338ex; width:11.993ex; height:5.843ex;"/>
+       </span>
+       , gives the relation
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle J_{y}\sim {\frac {B_{in}}{\mu _{0}\delta }},}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <msub>
+               <mi>
+                J
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 y
+                </mi>
+               </mrow>
+              </msub>
+              <mo>
+               ∼
+               <!-- ∼ -->
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mfrac>
+                <msub>
+                 <mi>
+                  B
+                 </mi>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mi>
+                   i
+                  </mi>
+                  <mi>
+                   n
+                  </mi>
+                 </mrow>
+                </msub>
+                <mrow>
+                 <msub>
+                  <mi>
+                   μ
+                   <!-- μ -->
+                  </mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mn>
+                    0
+                   </mn>
+                  </mrow>
+                 </msub>
+                 <mi>
+                  δ
+                  <!-- δ -->
+                 </mi>
+                </mrow>
+               </mfrac>
+              </mrow>
+              <mo>
+               ,
+              </mo>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle J_{y}\sim {\frac {B_{in}}{\mu _{0}\delta }},}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="J_{y}\sim {\frac  {B_{{in}}}{\mu _{0}\delta }}," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/15ae5e7c735ce88801097eff37090478e0dec571" style="vertical-align: -2.505ex; width:10.471ex; height:5.843ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       where
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle \delta }" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              δ
+              <!-- δ -->
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle \delta }
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="\delta " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c5321cfa797202b3e1f8620663ff43c4660ea03a" style="vertical-align: -0.338ex; width:1.049ex; height:2.343ex;"/>
+       </span>
+       is the current sheet half-thickness. This relation uses that the magnetic field reverses over a distance of
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle \sim 2\delta }" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mo>
+              ∼
+              <!-- ∼ -->
+             </mo>
+             <mn>
+              2
+             </mn>
+             <mi>
+              δ
+              <!-- δ -->
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle \sim 2\delta }
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="\sim 2\delta " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b98d191261143918e4533fa0250560250aeeeb1d" style="vertical-align: -0.338ex; width:4.664ex; height:2.343ex;"/>
+       </span>
+       . By matching the ideal electric field outside of the layer with the resistive electric field
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle \mathbf {E} ={\frac {1}{\sigma }}\mathbf {J} }" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mrow class="MJX-TeXAtom-ORD">
+              <mi mathvariant="bold">
+               E
+              </mi>
+             </mrow>
+             <mo>
+              =
+             </mo>
+             <mrow class="MJX-TeXAtom-ORD">
+              <mfrac>
+               <mn>
+                1
+               </mn>
+               <mi>
+                σ
+                <!-- σ -->
+               </mi>
+              </mfrac>
+             </mrow>
+             <mrow class="MJX-TeXAtom-ORD">
+              <mi mathvariant="bold">
+               J
+              </mi>
+             </mrow>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle \mathbf {E} ={\frac {1}{\sigma }}\mathbf {J} }
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="{\displaystyle \mathbf {E} ={\frac {1}{\sigma }}\mathbf {J} }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c88a568a0425846525e34fb921613ce2e3955389" style="vertical-align: -1.838ex; width:8.402ex; height:5.176ex;"/>
+       </span>
+       inside the layer (using
+       <a href="/wiki/Ohm%27s_law" title="Ohm's law">
+        Ohm's law
+       </a>
+       ), we find that
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle v_{in}={\frac {E_{y}}{B_{in}}}\sim {\frac {1}{\mu _{0}\sigma \delta }}={\frac {\eta }{\delta }},}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <msub>
+               <mi>
+                v
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 i
+                </mi>
+                <mi>
+                 n
+                </mi>
+               </mrow>
+              </msub>
+              <mo>
+               =
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mfrac>
+                <msub>
+                 <mi>
+                  E
+                 </mi>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mi>
+                   y
+                  </mi>
+                 </mrow>
+                </msub>
+                <msub>
+                 <mi>
+                  B
+                 </mi>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mi>
+                   i
+                  </mi>
+                  <mi>
+                   n
+                  </mi>
+                 </mrow>
+                </msub>
+               </mfrac>
+              </mrow>
+              <mo>
+               ∼
+               <!-- ∼ -->
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mfrac>
+                <mn>
+                 1
+                </mn>
+                <mrow>
+                 <msub>
+                  <mi>
+                   μ
+                   <!-- μ -->
+                  </mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mn>
+                    0
+                   </mn>
+                  </mrow>
+                 </msub>
+                 <mi>
+                  σ
+                  <!-- σ -->
+                 </mi>
+                 <mi>
+                  δ
+                  <!-- δ -->
+                 </mi>
+                </mrow>
+               </mfrac>
+              </mrow>
+              <mo>
+               =
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mfrac>
+                <mi>
+                 η
+                 <!-- η -->
+                </mi>
+                <mi>
+                 δ
+                 <!-- δ -->
+                </mi>
+               </mfrac>
+              </mrow>
+              <mo>
+               ,
+              </mo>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle v_{in}={\frac {E_{y}}{B_{in}}}\sim {\frac {1}{\mu _{0}\sigma \delta }}={\frac {\eta }{\delta }},}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="{\displaystyle v_{in}={\frac {E_{y}}{B_{in}}}\sim {\frac {1}{\mu _{0}\sigma \delta }}={\frac {\eta }{\delta }},}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7284889bf81c1a1a64880c3415ad527c98851910" style="vertical-align: -2.505ex; width:24.918ex; height:6.176ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       where
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle \eta }" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              η
+              <!-- η -->
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle \eta }
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="\eta " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e4d701857cf5fbec133eebaf94deadf722537f64" style="vertical-align: -0.838ex; width:1.169ex; height:2.176ex;"/>
+       </span>
+       is the
+       <a href="/wiki/Magnetic_diffusivity" title="Magnetic diffusivity">
+        magnetic diffusivity
+       </a>
+       . When the inflow density is comparable to the outflow density, conservation of mass yields the relationship
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle v_{in}L\sim v_{out}\delta ,}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <msub>
+               <mi>
+                v
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 i
+                </mi>
+                <mi>
+                 n
+                </mi>
+               </mrow>
+              </msub>
+              <mi>
+               L
+              </mi>
+              <mo>
+               ∼
+               <!-- ∼ -->
+              </mo>
+              <msub>
+               <mi>
+                v
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 o
+                </mi>
+                <mi>
+                 u
+                </mi>
+                <mi>
+                 t
+                </mi>
+               </mrow>
+              </msub>
+              <mi>
+               δ
+               <!-- δ -->
+              </mi>
+              <mo>
+               ,
+              </mo>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle v_{in}L\sim v_{out}\delta ,}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="{\displaystyle v_{in}L\sim v_{out}\delta ,}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d5f0e587745ec43e5f6666f9dc4971596dbe0651" style="vertical-align: -0.671ex; width:12.981ex; height:2.676ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       where
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle L}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              L
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle L}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="L" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/103168b86f781fe6e9a4a87b8ea1cebe0ad4ede8" style="vertical-align: -0.338ex; width:1.583ex; height:2.176ex;"/>
+       </span>
+       is the half-length of the current sheet and
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle v_{out}}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <msub>
+              <mi>
+               v
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                o
+               </mi>
+               <mi>
+                u
+               </mi>
+               <mi>
+                t
+               </mi>
+              </mrow>
+             </msub>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle v_{out}}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="{\displaystyle v_{out}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b73195d285fdb0a2423e98ac22dc2f7438446de1" style="vertical-align: -0.671ex; width:3.691ex; height:2.009ex;"/>
+       </span>
+       is the outflow velocity. The left and right hand sides of the above relation represent the mass flux into the layer and out of the layer, respectively. Equating the upstream magnetic pressure with the downstream
+       <a href="/wiki/Dynamic_pressure" title="Dynamic pressure">
+        dynamic pressure
+       </a>
+       gives
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle {\frac {B_{in}^{2}}{2\mu _{0}}}\sim {\frac {\rho v_{out}^{2}}{2}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mrow class="MJX-TeXAtom-ORD">
+               <mfrac>
+                <msubsup>
+                 <mi>
+                  B
+                 </mi>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mi>
+                   i
+                  </mi>
+                  <mi>
+                   n
+                  </mi>
+                 </mrow>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mn>
+                   2
+                  </mn>
+                 </mrow>
+                </msubsup>
+                <mrow>
+                 <mn>
+                  2
+                 </mn>
+                 <msub>
+                  <mi>
+                   μ
+                   <!-- μ -->
+                  </mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mn>
+                    0
+                   </mn>
+                  </mrow>
+                 </msub>
+                </mrow>
+               </mfrac>
+              </mrow>
+              <mo>
+               ∼
+               <!-- ∼ -->
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mfrac>
+                <mrow>
+                 <mi>
+                  ρ
+                  <!-- ρ -->
+                 </mi>
+                 <msubsup>
+                  <mi>
+                   v
+                  </mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mi>
+                    o
+                   </mi>
+                   <mi>
+                    u
+                   </mi>
+                   <mi>
+                    t
+                   </mi>
+                  </mrow>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mn>
+                    2
+                   </mn>
+                  </mrow>
+                 </msubsup>
+                </mrow>
+                <mn>
+                 2
+                </mn>
+               </mfrac>
+              </mrow>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle {\frac {B_{in}^{2}}{2\mu _{0}}}\sim {\frac {\rho v_{out}^{2}}{2}}}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="{\displaystyle {\frac {B_{in}^{2}}{2\mu _{0}}}\sim {\frac {\rho v_{out}^{2}}{2}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d3af8ab0aaa9ac9acd5c1ea9a04927f6073af87e" style="vertical-align: -2.338ex; width:13.282ex; height:6.343ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       where
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle \rho }" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              ρ
+              <!-- ρ -->
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle \rho }
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="\rho " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1f7d439671d1289b6a816e6af7a304be40608d64" style="vertical-align: -0.838ex; width:1.202ex; height:2.176ex;"/>
+       </span>
+       is the mass density of the plasma. Solving for the outflow velocity then gives
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle v_{out}\sim {\frac {B_{in}}{\sqrt {\mu _{0}\rho }}}\equiv v_{A}}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <msub>
+               <mi>
+                v
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 o
+                </mi>
+                <mi>
+                 u
+                </mi>
+                <mi>
+                 t
+                </mi>
+               </mrow>
+              </msub>
+              <mo>
+               ∼
+               <!-- ∼ -->
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mfrac>
+                <msub>
+                 <mi>
+                  B
+                 </mi>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mi>
+                   i
+                  </mi>
+                  <mi>
+                   n
+                  </mi>
+                 </mrow>
+                </msub>
+                <msqrt>
+                 <msub>
+                  <mi>
+                   μ
+                   <!-- μ -->
+                  </mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mn>
+                    0
+                   </mn>
+                  </mrow>
+                 </msub>
+                 <mi>
+                  ρ
+                  <!-- ρ -->
+                 </mi>
+                </msqrt>
+               </mfrac>
+              </mrow>
+              <mo>
+               ≡
+               <!-- ≡ -->
+              </mo>
+              <msub>
+               <mi>
+                v
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 A
+                </mi>
+               </mrow>
+              </msub>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle v_{out}\sim {\frac {B_{in}}{\sqrt {\mu _{0}\rho }}}\equiv v_{A}}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="{\displaystyle v_{out}\sim {\frac {B_{in}}{\sqrt {\mu _{0}\rho }}}\equiv v_{A}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/99c98fcefae50caa448a1041ea933682d7eb8bb0" style="vertical-align: -2.838ex; width:18.91ex; height:6.176ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       where
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle v_{A}}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <msub>
+              <mi>
+               v
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                A
+               </mi>
+              </mrow>
+             </msub>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle v_{A}}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="v_{A}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0f585e9372b4451aa77b0b527ed67358ba23bb9b" style="vertical-align: -0.671ex; width:2.592ex; height:2.009ex;"/>
+       </span>
+       is the
+       <a href="/wiki/Alfv%C3%A9n_wave" title="Alfvén wave">
+        Alfvén velocity
+       </a>
+       . With the above relations, the dimensionless reconnection rate
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle R}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              R
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle R}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="R" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4b0bfb3769bf24d80e15374dc37b0441e2616e33" style="vertical-align: -0.338ex; width:1.764ex; height:2.176ex;"/>
+       </span>
+       can then be written in two forms, the first in terms of
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle (\eta ,\delta ,v_{A})}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mo stretchy="false">
+              (
+             </mo>
+             <mi>
+              η
+              <!-- η -->
+             </mi>
+             <mo>
+              ,
+             </mo>
+             <mi>
+              δ
+              <!-- δ -->
+             </mi>
+             <mo>
+              ,
+             </mo>
+             <msub>
+              <mi>
+               v
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                A
+               </mi>
+              </mrow>
+             </msub>
+             <mo stretchy="false">
+              )
+             </mo>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle (\eta ,\delta ,v_{A})}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="{\displaystyle (\eta ,\delta ,v_{A})}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7ec7082d2b79616a49efd8ed015db8ff5dbcdf68" style="vertical-align: -0.838ex; width:8.688ex; height:2.843ex;"/>
+       </span>
+       using the result earlier derived from Ohm's law, the second in terms of
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle (\delta ,L)}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mo stretchy="false">
+              (
+             </mo>
+             <mi>
+              δ
+              <!-- δ -->
+             </mi>
+             <mo>
+              ,
+             </mo>
+             <mi>
+              L
+             </mi>
+             <mo stretchy="false">
+              )
+             </mo>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle (\delta ,L)}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="{\displaystyle (\delta ,L)}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c290d30353400fcdd9c3c8eea75414029d872b59" style="vertical-align: -0.838ex; width:5.475ex; height:2.843ex;"/>
+       </span>
+       from the conservation of mass as
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle R={\frac {v_{in}}{v_{out}}}\sim {\frac {\eta }{v_{A}\delta }}\sim {\frac {\delta }{L}}.}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mi>
+               R
+              </mi>
+              <mo>
+               =
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mfrac>
+                <msub>
+                 <mi>
+                  v
+                 </mi>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mi>
+                   i
+                  </mi>
+                  <mi>
+                   n
+                  </mi>
+                 </mrow>
+                </msub>
+                <msub>
+                 <mi>
+                  v
+                 </mi>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mi>
+                   o
+                  </mi>
+                  <mi>
+                   u
+                  </mi>
+                  <mi>
+                   t
+                  </mi>
+                 </mrow>
+                </msub>
+               </mfrac>
+              </mrow>
+              <mo>
+               ∼
+               <!-- ∼ -->
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mfrac>
+                <mi>
+                 η
+                 <!-- η -->
+                </mi>
+                <mrow>
+                 <msub>
+                  <mi>
+                   v
+                  </mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mi>
+                    A
+                   </mi>
+                  </mrow>
+                 </msub>
+                 <mi>
+                  δ
+                  <!-- δ -->
+                 </mi>
+                </mrow>
+               </mfrac>
+              </mrow>
+              <mo>
+               ∼
+               <!-- ∼ -->
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mfrac>
+                <mi>
+                 δ
+                 <!-- δ -->
+                </mi>
+                <mi>
+                 L
+                </mi>
+               </mfrac>
+              </mrow>
+              <mo>
+               .
+              </mo>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle R={\frac {v_{in}}{v_{out}}}\sim {\frac {\eta }{v_{A}\delta }}\sim {\frac {\delta }{L}}.}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="{\displaystyle R={\frac {v_{in}}{v_{out}}}\sim {\frac {\eta }{v_{A}\delta }}\sim {\frac {\delta }{L}}.}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0c4399e9bcd9b55246d2cd1ae122db7eb047cf80" style="vertical-align: -2.338ex; width:23.13ex; height:5.843ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       Since the dimensionless
+       <a href="/wiki/Lundquist_number" title="Lundquist number">
+        Lundquist number
+       </a>
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle S}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              S
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle S}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="S" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4611d85173cd3b508e67077d4a1252c9c05abca2" style="vertical-align: -0.338ex; width:1.499ex; height:2.176ex;"/>
+       </span>
+       is given by
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle S\equiv {\frac {Lv_{A}}{\eta }},}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mi>
+               S
+              </mi>
+              <mo>
+               ≡
+               <!-- ≡ -->
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mfrac>
+                <mrow>
+                 <mi>
+                  L
+                 </mi>
+                 <msub>
+                  <mi>
+                   v
+                  </mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mi>
+                    A
+                   </mi>
+                  </mrow>
+                 </msub>
+                </mrow>
+                <mi>
+                 η
+                 <!-- η -->
+                </mi>
+               </mfrac>
+              </mrow>
+              <mo>
+               ,
+              </mo>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle S\equiv {\frac {Lv_{A}}{\eta }},}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="{\displaystyle S\equiv {\frac {Lv_{A}}{\eta }},}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5e8f6846ac10c7ede960f5899a1500540d2fa466" style="vertical-align: -2.338ex; width:10.256ex; height:5.843ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       the two different expressions of
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle R}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              R
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle R}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="R" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4b0bfb3769bf24d80e15374dc37b0441e2616e33" style="vertical-align: -0.338ex; width:1.764ex; height:2.176ex;"/>
+       </span>
+       are multiplied by each other and then square-rooted, giving a simple relation between the reconnection rate
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle R}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              R
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle R}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="R" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4b0bfb3769bf24d80e15374dc37b0441e2616e33" style="vertical-align: -0.338ex; width:1.764ex; height:2.176ex;"/>
+       </span>
+       and the Lundquist number
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle S}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              S
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle S}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="S" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4611d85173cd3b508e67077d4a1252c9c05abca2" style="vertical-align: -0.338ex; width:1.499ex; height:2.176ex;"/>
+       </span>
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle R~\sim {\sqrt {\frac {\eta }{v_{A}L}}}={\frac {1}{S^{1/2}}}.}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mi>
+               R
+              </mi>
+              <mtext>
+              </mtext>
+              <mo>
+               ∼
+               <!-- ∼ -->
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <msqrt>
+                <mfrac>
+                 <mi>
+                  η
+                  <!-- η -->
+                 </mi>
+                 <mrow>
+                  <msub>
+                   <mi>
+                    v
+                   </mi>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mi>
+                     A
+                    </mi>
+                   </mrow>
+                  </msub>
+                  <mi>
+                   L
+                  </mi>
+                 </mrow>
+                </mfrac>
+               </msqrt>
+              </mrow>
+              <mo>
+               =
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mfrac>
+                <mn>
+                 1
+                </mn>
+                <msup>
+                 <mi>
+                  S
+                 </mi>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mn>
+                   1
+                  </mn>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mo>
+                    /
+                   </mo>
+                  </mrow>
+                  <mn>
+                   2
+                  </mn>
+                 </mrow>
+                </msup>
+               </mfrac>
+              </mrow>
+              <mo>
+               .
+              </mo>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle R~\sim {\sqrt {\frac {\eta }{v_{A}L}}}={\frac {1}{S^{1/2}}}.}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="{\displaystyle R~\sim {\sqrt {\frac {\eta }{v_{A}L}}}={\frac {1}{S^{1/2}}}.}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4b2bb82afd6b6205d4e9d7028dc061266519cb6e" style="vertical-align: -2.671ex; width:21.58ex; height:6.176ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       Sweet-Parker reconnection allows for reconnection rates much faster than global diffusion, but is not able to explain the fast reconnection rates observed in solar flares, the Earth's magnetosphere, and laboratory plasmas. Additionally, Sweet-Parker reconnection neglects three-dimensional effects, collisionless physics, time-dependent effects, viscosity, compressibility, and downstream pressure. Numerical simulations of two-dimensional magnetic reconnection typically show agreement with this model.
+       <sup class="reference" id="cite_ref-4">
+        <a href="#cite_note-4">
+         [4]
+        </a>
+       </sup>
+       Results from the Magnetic Reconnection Experiment (MRX) of collisional reconnection show agreement with a generalized Sweet-Parker model which incorporates compressibility, downstream pressure, and anomalous resistivity.
+       <sup class="reference" id="cite_ref-5">
+        <a href="#cite_note-5">
+         [5]
+        </a>
+       </sup>
+      </p>
+      <h3>
+       <span class="mw-headline" id="Petschek_model">
+        Petschek model
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Magnetic_reconnection&amp;action=edit&amp;section=3" title="Edit section: Petschek model">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       One of the reasons why Sweet-Parker reconnection is slow is that the aspect ratio of the reconnection layer is very large in high Lundquist number plasmas. The inflow velocity, and thus the reconnection rate, must then be very small. In 1964, Harry Petschek proposed a mechanism where the inflow and outflow regions are separated by stationary slow mode shocks.
+       <sup class="reference" id="cite_ref-6">
+        <a href="#cite_note-6">
+         [6]
+        </a>
+       </sup>
+       The aspect ratio of the diffusion region is then of order unity and the maximum reconnection rate becomes
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle {\frac {v_{in}}{v_{A}}}\approx {\frac {\pi }{8\ln S}}.}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mrow class="MJX-TeXAtom-ORD">
+               <mfrac>
+                <msub>
+                 <mi>
+                  v
+                 </mi>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mi>
+                   i
+                  </mi>
+                  <mi>
+                   n
+                  </mi>
+                 </mrow>
+                </msub>
+                <msub>
+                 <mi>
+                  v
+                 </mi>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mi>
+                   A
+                  </mi>
+                 </mrow>
+                </msub>
+               </mfrac>
+              </mrow>
+              <mo>
+               ≈
+               <!-- ≈ -->
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mfrac>
+                <mi>
+                 π
+                 <!-- π -->
+                </mi>
+                <mrow>
+                 <mn>
+                  8
+                 </mn>
+                 <mi>
+                  ln
+                 </mi>
+                 <mo>
+                  ⁡
+                  <!-- ⁡ -->
+                 </mo>
+                 <mi>
+                  S
+                 </mi>
+                </mrow>
+               </mfrac>
+              </mrow>
+              <mo>
+               .
+              </mo>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle {\frac {v_{in}}{v_{A}}}\approx {\frac {\pi }{8\ln S}}.}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="{\displaystyle {\frac {v_{in}}{v_{A}}}\approx {\frac {\pi }{8\ln S}}.}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fb67bc107e92b63fda3801bc58e1e0ca9f43e45e" style="vertical-align: -2.171ex; width:13.706ex; height:5.009ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       This expression allows fast reconnection almost independent of the Lundquist number.
+      </p>
+      <p>
+       Simulations of resistive MHD reconnection with uniform resistivity showed the development of elongated current sheets in agreement with the Sweet-Parker model rather than the Petschek model. When a localized anomalously large resistivity is used, however, Petschek reconnection can be realized in resistive MHD simulations. Because the use of an anomalous resistivity is only appropriate when the particle mean free path is large compared to the reconnection layer, it is likely that other collisionless effects become important before Petschek reconnection can be realized.
+      </p>
+      <h3>
+       <span class="mw-headline" id="Collisionless_reconnection">
+        Collisionless reconnection
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Magnetic_reconnection&amp;action=edit&amp;section=4" title="Edit section: Collisionless reconnection">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       On length scales shorter than the ion inertial length
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle c/\omega _{pi}}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              c
+             </mi>
+             <mrow class="MJX-TeXAtom-ORD">
+              <mo>
+               /
+              </mo>
+             </mrow>
+             <msub>
+              <mi>
+               ω
+               <!-- ω -->
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                p
+               </mi>
+               <mi>
+                i
+               </mi>
+              </mrow>
+             </msub>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle c/\omega _{pi}}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="c/\omega _{{pi}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/54e484f652083dd88db1281bee96b0f194e4e14e" style="vertical-align: -1.005ex; width:5.242ex; height:3.009ex;"/>
+       </span>
+       (where
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle \omega _{pi}\equiv {\sqrt {\frac {n_{i}Z^{2}e^{2}}{\epsilon _{0}m_{i}}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <msub>
+              <mi>
+               ω
+               <!-- ω -->
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                p
+               </mi>
+               <mi>
+                i
+               </mi>
+              </mrow>
+             </msub>
+             <mo>
+              ≡
+              <!-- ≡ -->
+             </mo>
+             <mrow class="MJX-TeXAtom-ORD">
+              <msqrt>
+               <mfrac>
+                <mrow>
+                 <msub>
+                  <mi>
+                   n
+                  </mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mi>
+                    i
+                   </mi>
+                  </mrow>
+                 </msub>
+                 <msup>
+                  <mi>
+                   Z
+                  </mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mn>
+                    2
+                   </mn>
+                  </mrow>
+                 </msup>
+                 <msup>
+                  <mi>
+                   e
+                  </mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mn>
+                    2
+                   </mn>
+                  </mrow>
+                 </msup>
+                </mrow>
+                <mrow>
+                 <msub>
+                  <mi>
+                   ϵ
+                   <!-- ϵ -->
+                  </mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mn>
+                    0
+                   </mn>
+                  </mrow>
+                 </msub>
+                 <msub>
+                  <mi>
+                   m
+                  </mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mi>
+                    i
+                   </mi>
+                  </mrow>
+                 </msub>
+                </mrow>
+               </mfrac>
+              </msqrt>
+             </mrow>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle \omega _{pi}\equiv {\sqrt {\frac {n_{i}Z^{2}e^{2}}{\epsilon _{0}m_{i}}}}}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="\omega _{{pi}}\equiv {\sqrt  {{\frac  {n_{i}Z^{2}e^{2}}{\epsilon _{0}m_{i}}}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/37afdb0816c97664975e4db8ea7e007ab63fceff" style="vertical-align: -3.171ex; width:16.425ex; height:7.676ex;"/>
+       </span>
+       is the ion plasma frequency),
+       <a href="/wiki/Ion" title="Ion">
+        ions
+       </a>
+       decouple from electrons and the magnetic field becomes frozen into the electron fluid rather than the bulk plasma. On these scales the
+       <a href="/wiki/Hall_effect" title="Hall effect">
+        Hall effect
+       </a>
+       becomes important. Two-fluid simulations show the formation of an X-point geometry rather than the double Y-point geometry characteristic of resistive reconnection. The
+       <a href="/wiki/Electron" title="Electron">
+        electrons
+       </a>
+       are then accelerated to very high speeds by
+       <a href="/wiki/Electromagnetic_electron_wave" title="Electromagnetic electron wave">
+        Whistler waves
+       </a>
+       . Because the ions can move through a wider "bottleneck" near the current layer and because the electrons are moving much faster in Hall MHD than in
+       <a href="/wiki/Magnetohydrodynamics" title="Magnetohydrodynamics">
+        standard MHD
+       </a>
+       , reconnection may proceed more quickly. Two-fluid/collisionless reconnection is particularly important in the Earth's magnetosphere.
+      </p>
+      <h3>
+       <span class="mw-headline" id="Anomalous_resistivity_and_Bohm_diffusion">
+        Anomalous resistivity and Bohm diffusion
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Magnetic_reconnection&amp;action=edit&amp;section=5" title="Edit section: Anomalous resistivity and Bohm diffusion">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       In the Sweet-Parker model, the common assumption is that the
+       <a href="/wiki/Magnetic_diffusivity" title="Magnetic diffusivity">
+        magnetic diffusivity
+       </a>
+       is constant. This can be estimated using the equation of motion for an electron with mass
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle m}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              m
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle m}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="m" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0a07d98bb302f3856cbabc47b2b9016692e3f7bc" style="vertical-align: -0.338ex; width:2.04ex; height:1.676ex;"/>
+       </span>
+       and electric charge
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle e}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              e
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle e}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="e" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/cd253103f0876afc68ebead27a5aa9867d927467" style="vertical-align: -0.338ex; width:1.083ex; height:1.676ex;"/>
+       </span>
+       :
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle {d{\mathbf {v} } \over dt}={e \over m}{\mathbf {E} }-\nu {\mathbf {v} },}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mrow class="MJX-TeXAtom-ORD">
+               <mfrac>
+                <mrow>
+                 <mi>
+                  d
+                 </mi>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mi mathvariant="bold">
+                    v
+                   </mi>
+                  </mrow>
+                 </mrow>
+                </mrow>
+                <mrow>
+                 <mi>
+                  d
+                 </mi>
+                 <mi>
+                  t
+                 </mi>
+                </mrow>
+               </mfrac>
+              </mrow>
+              <mo>
+               =
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mfrac>
+                <mi>
+                 e
+                </mi>
+                <mi>
+                 m
+                </mi>
+               </mfrac>
+              </mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi mathvariant="bold">
+                 E
+                </mi>
+               </mrow>
+              </mrow>
+              <mo>
+               −
+               <!-- − -->
+              </mo>
+              <mi>
+               ν
+               <!-- ν -->
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi mathvariant="bold">
+                 v
+                </mi>
+               </mrow>
+              </mrow>
+              <mo>
+               ,
+              </mo>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle {d{\mathbf {v} } \over dt}={e \over m}{\mathbf {E} }-\nu {\mathbf {v} },}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="{d{{\mathbf  {v}}} \over dt}={e \over m}{{\mathbf  {E}}}-\nu {{\mathbf  {v}}}," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/00e817025459fed0d37f5d8b6ff843533be41278" style="vertical-align: -2.005ex; width:17.325ex; height:5.509ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       where
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle \nu }" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              ν
+              <!-- ν -->
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle \nu }
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="\nu " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c15bbbb971240cf328aba572178f091684585468" style="vertical-align: -0.338ex; width:1.232ex; height:1.676ex;"/>
+       </span>
+       is the collision frequency. Since in the steady state,
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle d{\mathbf {v} }/dt=0}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              d
+             </mi>
+             <mrow class="MJX-TeXAtom-ORD">
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi mathvariant="bold">
+                v
+               </mi>
+              </mrow>
+             </mrow>
+             <mrow class="MJX-TeXAtom-ORD">
+              <mo>
+               /
+              </mo>
+             </mrow>
+             <mi>
+              d
+             </mi>
+             <mi>
+              t
+             </mi>
+             <mo>
+              =
+             </mo>
+             <mn>
+              0
+             </mn>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle d{\mathbf {v} }/dt=0}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="d{{\mathbf  {v}}}/dt=0" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/86dfb3c22db81fe12ef28ac2e99c9f24314306fb" style="vertical-align: -0.838ex; width:10.106ex; height:2.843ex;"/>
+       </span>
+       , then the above equation along with the definition of electric current,
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle {\mathbf {J} }=en{\mathbf {v} }}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mrow class="MJX-TeXAtom-ORD">
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi mathvariant="bold">
+                J
+               </mi>
+              </mrow>
+             </mrow>
+             <mo>
+              =
+             </mo>
+             <mi>
+              e
+             </mi>
+             <mi>
+              n
+             </mi>
+             <mrow class="MJX-TeXAtom-ORD">
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi mathvariant="bold">
+                v
+               </mi>
+              </mrow>
+             </mrow>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle {\mathbf {J} }=en{\mathbf {v} }}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="{{\mathbf  {J}}}=en{{\mathbf  {v}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d2ca305623087dda90b8f757132fdbbc22556267" style="vertical-align: -0.338ex; width:8.368ex; height:2.176ex;"/>
+       </span>
+       , where
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle n}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              n
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle n}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="n" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a601995d55609f2d9f5e233e36fbe9ea26011b3b" style="vertical-align: -0.338ex; width:1.395ex; height:1.676ex;"/>
+       </span>
+       is the electron number density, yields
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle \eta =\nu {c^{2} \over \omega _{pi}^{2}}.}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mi>
+               η
+               <!-- η -->
+              </mi>
+              <mo>
+               =
+              </mo>
+              <mi>
+               ν
+               <!-- ν -->
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mfrac>
+                <msup>
+                 <mi>
+                  c
+                 </mi>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mn>
+                   2
+                  </mn>
+                 </mrow>
+                </msup>
+                <msubsup>
+                 <mi>
+                  ω
+                  <!-- ω -->
+                 </mi>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mi>
+                   p
+                  </mi>
+                  <mi>
+                   i
+                  </mi>
+                 </mrow>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mn>
+                   2
+                  </mn>
+                 </mrow>
+                </msubsup>
+               </mfrac>
+              </mrow>
+              <mo>
+               .
+              </mo>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle \eta =\nu {c^{2} \over \omega _{pi}^{2}}.}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="\eta =\nu {c^{2} \over \omega _{{pi}}^{2}}." aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f10f6a72c78d11b4d30a9f97e80d3147ad7bba3b" style="vertical-align: -3.171ex; width:10.055ex; height:7.009ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       Nevertheless, if the drift velocity of electrons exceeds the thermal velocity of plasma, a steady state cannot be achieved and magnetic diffusivity should be much larger than what is given in the above. This is called anomalous resistivity,
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle \eta _{anom}}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <msub>
+              <mi>
+               η
+               <!-- η -->
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                a
+               </mi>
+               <mi>
+                n
+               </mi>
+               <mi>
+                o
+               </mi>
+               <mi>
+                m
+               </mi>
+              </mrow>
+             </msub>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle \eta _{anom}}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="\eta _{{anom}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c6a43b4802a7cfb5b7d5ae7f256c18564c709a9c" style="vertical-align: -0.838ex; width:5.484ex; height:2.176ex;"/>
+       </span>
+       , which can enhance the reconnection rate in the Sweet-Parker model by a factor of
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle \eta _{anom}/\eta }" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <msub>
+              <mi>
+               η
+               <!-- η -->
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                a
+               </mi>
+               <mi>
+                n
+               </mi>
+               <mi>
+                o
+               </mi>
+               <mi>
+                m
+               </mi>
+              </mrow>
+             </msub>
+             <mrow class="MJX-TeXAtom-ORD">
+              <mo>
+               /
+              </mo>
+             </mrow>
+             <mi>
+              η
+              <!-- η -->
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle \eta _{anom}/\eta }
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="\eta _{{anom}}/\eta " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7af25d88e3f32c72173fbe25290c1dc0c1502f78" style="vertical-align: -0.838ex; width:7.816ex; height:2.843ex;"/>
+       </span>
+       .
+      </p>
+      <p>
+       Another proposed mechanism is known as the Bohm diffusion across the magnetic field. This replaces the Ohmic resistivity with
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle v_{A}^{2}(mc/eB)}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <msubsup>
+              <mi>
+               v
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                A
+               </mi>
+              </mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mn>
+                2
+               </mn>
+              </mrow>
+             </msubsup>
+             <mo stretchy="false">
+              (
+             </mo>
+             <mi>
+              m
+             </mi>
+             <mi>
+              c
+             </mi>
+             <mrow class="MJX-TeXAtom-ORD">
+              <mo>
+               /
+              </mo>
+             </mrow>
+             <mi>
+              e
+             </mi>
+             <mi>
+              B
+             </mi>
+             <mo stretchy="false">
+              )
+             </mo>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle v_{A}^{2}(mc/eB)}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="{\displaystyle v_{A}^{2}(mc/eB)}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2806990c63f225b8a3e89be86880c430caa20bd0" style="vertical-align: -1.005ex; width:11.459ex; height:3.176ex;"/>
+       </span>
+       , however, its effect, similar to the anomalous resistivity, is still too small compared with the observations.
+       <sup class="reference" id="cite_ref-7">
+        <a href="#cite_note-7">
+         [7]
+        </a>
+       </sup>
+      </p>
+      <h3>
+       <span class="mw-headline" id="Stochastic_reconnection">
+        Stochastic reconnection
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Magnetic_reconnection&amp;action=edit&amp;section=6" title="Edit section: Stochastic reconnection">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       Lazarian and
+       <a href="/wiki/Ethan_Vishniac" title="Ethan Vishniac">
+        Vishniac
+       </a>
+       (1999) considered the magnetic reconnection in the presence of a random component of magnetic field in a totally ionized and inviscid plasma assuming that the resistive effects could be described with an Ohmic resistivity.
+       <sup class="reference" id="cite_ref-8">
+        <a href="#cite_note-8">
+         [8]
+        </a>
+       </sup>
+       For the turbulent flow in the reconnection region a model for magnetohydrodynamic turbulence should be used such as the model developed by Goldreich and Sridhar in 1995.
+       <sup class="reference" id="cite_ref-9">
+        <a href="#cite_note-9">
+         [9]
+        </a>
+       </sup>
+       One can imagine that within small scales of the turbulent flow, the Sweet-Parker model is applicable. Lazarian and Vishniac showed that, in general, this cannot affect the final result. In fact, their model is independent of small scale physics which determines the local reconnection rate. According to this model, for a current sheet of the length
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle L}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              L
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle L}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="L" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/103168b86f781fe6e9a4a87b8ea1cebe0ad4ede8" style="vertical-align: -0.338ex; width:1.583ex; height:2.176ex;"/>
+       </span>
+       , the upper limit for reconnection velocity is given by
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle v=v_{turb}\;min{\Big [}{\Big (}{L \over l}{\Big )}^{1/2},{\Big (}{l \over L}{\Big )}^{1/2}{\Big ]},}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mi>
+               v
+              </mi>
+              <mo>
+               =
+              </mo>
+              <msub>
+               <mi>
+                v
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 t
+                </mi>
+                <mi>
+                 u
+                </mi>
+                <mi>
+                 r
+                </mi>
+                <mi>
+                 b
+                </mi>
+               </mrow>
+              </msub>
+              <mspace width="thickmathspace">
+              </mspace>
+              <mi>
+               m
+              </mi>
+              <mi>
+               i
+              </mi>
+              <mi>
+               n
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mrow class="MJX-TeXAtom-ORD">
+                <mo maxsize="1.623em" minsize="1.623em">
+                 [
+                </mo>
+               </mrow>
+              </mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mrow class="MJX-TeXAtom-ORD">
+                <mo maxsize="1.623em" minsize="1.623em">
+                 (
+                </mo>
+               </mrow>
+              </mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mfrac>
+                <mi>
+                 L
+                </mi>
+                <mi>
+                 l
+                </mi>
+               </mfrac>
+              </mrow>
+              <msup>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mrow class="MJX-TeXAtom-ORD">
+                 <mo maxsize="1.623em" minsize="1.623em">
+                  )
+                 </mo>
+                </mrow>
+               </mrow>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mn>
+                 1
+                </mn>
+                <mrow class="MJX-TeXAtom-ORD">
+                 <mo>
+                  /
+                 </mo>
+                </mrow>
+                <mn>
+                 2
+                </mn>
+               </mrow>
+              </msup>
+              <mo>
+               ,
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mrow class="MJX-TeXAtom-ORD">
+                <mo maxsize="1.623em" minsize="1.623em">
+                 (
+                </mo>
+               </mrow>
+              </mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mfrac>
+                <mi>
+                 l
+                </mi>
+                <mi>
+                 L
+                </mi>
+               </mfrac>
+              </mrow>
+              <msup>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mrow class="MJX-TeXAtom-ORD">
+                 <mo maxsize="1.623em" minsize="1.623em">
+                  )
+                 </mo>
+                </mrow>
+               </mrow>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mn>
+                 1
+                </mn>
+                <mrow class="MJX-TeXAtom-ORD">
+                 <mo>
+                  /
+                 </mo>
+                </mrow>
+                <mn>
+                 2
+                </mn>
+               </mrow>
+              </msup>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mrow class="MJX-TeXAtom-ORD">
+                <mo maxsize="1.623em" minsize="1.623em">
+                 ]
+                </mo>
+               </mrow>
+              </mrow>
+              <mo>
+               ,
+              </mo>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle v=v_{turb}\;min{\Big [}{\Big (}{L \over l}{\Big )}^{1/2},{\Big (}{l \over L}{\Big )}^{1/2}{\Big ]},}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="{\displaystyle v=v_{turb}\;min{\Big [}{\Big (}{L \over l}{\Big )}^{1/2},{\Big (}{l \over L}{\Big )}^{1/2}{\Big ]},}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c25204bdd7171a490f16078c4c655e43cb4ccb2c" style="vertical-align: -2.005ex; width:33.11ex; height:5.509ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       where
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle v_{turb}=v_{l}^{2}/v_{A}}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <msub>
+              <mi>
+               v
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                t
+               </mi>
+               <mi>
+                u
+               </mi>
+               <mi>
+                r
+               </mi>
+               <mi>
+                b
+               </mi>
+              </mrow>
+             </msub>
+             <mo>
+              =
+             </mo>
+             <msubsup>
+              <mi>
+               v
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                l
+               </mi>
+              </mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mn>
+                2
+               </mn>
+              </mrow>
+             </msubsup>
+             <mrow class="MJX-TeXAtom-ORD">
+              <mo>
+               /
+              </mo>
+             </mrow>
+             <msub>
+              <mi>
+               v
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                A
+               </mi>
+              </mrow>
+             </msub>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle v_{turb}=v_{l}^{2}/v_{A}}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="{\displaystyle v_{turb}=v_{l}^{2}/v_{A}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d948d8dfe221293bc24eb414f439972663c8021e" style="vertical-align: -1.005ex; width:13.376ex; height:3.176ex;"/>
+       </span>
+       . Here
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle l}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              l
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle l}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="l" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/829091f745070b9eb97a80244129025440a1cfac" style="vertical-align: -0.338ex; width:0.693ex; height:2.176ex;"/>
+       </span>
+       , and
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle v_{l}}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <msub>
+              <mi>
+               v
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                l
+               </mi>
+              </mrow>
+             </msub>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle v_{l}}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="v_{l}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/54a884b53183fb1fe1f28f778d3aeeb5a99a224a" style="vertical-align: -0.671ex; width:1.85ex; height:2.009ex;"/>
+       </span>
+       are turbulence injection length scale and velocity respectively and
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle v_{A}}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <msub>
+              <mi>
+               v
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                A
+               </mi>
+              </mrow>
+             </msub>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle v_{A}}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="{\displaystyle v_{A}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0f585e9372b4451aa77b0b527ed67358ba23bb9b" style="vertical-align: -0.671ex; width:2.592ex; height:2.009ex;"/>
+       </span>
+       is the Alfvén velocity. This model has been successfully tested by numerical simulations.
+       <sup class="reference" id="cite_ref-10">
+        <a href="#cite_note-10">
+         [10]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-11">
+        <a href="#cite_note-11">
+         [11]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Observations_of_magnetic_reconnection_in_nature_and_the_laboratory">
+        Observations of magnetic reconnection in nature and the laboratory
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Magnetic_reconnection&amp;action=edit&amp;section=7" title="Edit section: Observations of magnetic reconnection in nature and the laboratory">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <h3>
+       <span class="mw-headline" id="Solar_atmosphere">
+        Solar atmosphere
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Magnetic_reconnection&amp;action=edit&amp;section=8" title="Edit section: Solar atmosphere">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       Magnetic reconnection occurs during
+       <a href="/wiki/Solar_flare" title="Solar flare">
+        solar flares
+       </a>
+       ,
+       <a href="/wiki/Coronal_mass_ejection" title="Coronal mass ejection">
+        coronal mass ejections
+       </a>
+       , and many other events in the solar atmosphere. The observational evidence for solar flares includes observations of inflows/outflows, downflowing loops, and changes in the magnetic topology. In the past, observations of the solar atmosphere were done using remote imaging; consequently, the magnetic fields were inferred or extrapolated rather than observed directly. However, the first direct observations of solar magnetic reconnection were gathered in 2012 (and released in 2013) by the
+       <a href="/wiki/High_Resolution_Coronal_Imager" title="High Resolution Coronal Imager">
+        High Resolution Coronal Imager
+       </a>
+       .
+       <sup class="reference" id="cite_ref-12">
+        <a href="#cite_note-12">
+         [12]
+        </a>
+       </sup>
+      </p>
+      <h3>
+       <span id="Earth.27s_magnetosphere">
+       </span>
+       <span class="mw-headline" id="Earth's_magnetosphere">
+        Earth's magnetosphere
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Magnetic_reconnection&amp;action=edit&amp;section=9" title="Edit section: Earth's magnetosphere">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       Now, for the first time,
+       <a class="external text" href="http://clusterlaunch.esa.int/science-e/www/area/index.cfm?fareaid=8" rel="nofollow">
+        new measurements from the Cluster mission
+       </a>
+       can determine unambiguously the scale sizes of magnetic reconnection in the Earth's
+       <a href="/wiki/Magnetosphere" title="Magnetosphere">
+        magnetosphere
+       </a>
+       , both on the dayside
+       <a href="/wiki/Magnetopause" title="Magnetopause">
+        magnetopause
+       </a>
+       and in the
+       <a class="mw-redirect" href="/wiki/Magnetotail" title="Magnetotail">
+        magnetotail
+       </a>
+       .
+       <a class="mw-redirect" href="/wiki/Cluster_mission" title="Cluster mission">
+        Cluster
+       </a>
+       is a four-spacecraft mission, with the four spacecraft in a tetrahedron arrangement, to separate spatial from temporal changes as the suite flies through space. Cluster has now also unambiguously discovered 'reverse reconnection' near the polar cusps. 'Dayside reconnection' allows interconnection of the Earth's magnetic field with that of the Sun (the
+       <a class="mw-redirect" href="/wiki/Interplanetary_Magnetic_Field" title="Interplanetary Magnetic Field">
+        Interplanetary Magnetic Field
+       </a>
+       ), allowing particle and energy entry into the Earth's vicinity. Tail reconnection allows release of energy stored in the Earth's magnetic tail, injecting particles deep into the magnetosphere, causing auroral
+       <a href="/wiki/Substorm" title="Substorm">
+        substorms
+       </a>
+       . 'Reverse reconnection' is reconnection of Earth's tail magnetic fields with northward Interplanetary Magnetic Fields, causing sunward convection in the Earth's
+       <a href="/wiki/Ionosphere" title="Ionosphere">
+        ionosphere
+       </a>
+       . The
+       <a href="/wiki/Magnetospheric_Multiscale_Mission" title="Magnetospheric Multiscale Mission">
+        Magnetospheric Multiscale Mission
+       </a>
+       , launched on 13 March 2015, is improving on Cluster results by having a tighter constellation of spacecraft, allowing finer spatial measurements and finer time detail. In this way the behavior of the electrical currents in the electron diffusion region will be better understood.
+      </p>
+      <p>
+       On 26 February 2008,
+       <a href="/wiki/THEMIS" title="THEMIS">
+        THEMIS
+       </a>
+       probes were able to determine, for the first time, the triggering event for the onset of magnetospheric substorms.
+       <sup class="reference" id="cite_ref-13">
+        <a href="#cite_note-13">
+         [13]
+        </a>
+       </sup>
+       Two of the five probes, positioned approximately one third the distance to the Moon, measured events suggesting a magnetic reconnection event 96 seconds prior to Auroral intensification.
+       <sup class="reference" id="cite_ref-14">
+        <a href="#cite_note-14">
+         [14]
+        </a>
+       </sup>
+       Dr. Vassilis Angelopoulos of the University of California, Los Angeles, who is the principal investigator for the THEMIS mission, claimed, "Our data show clearly and for the first time that magnetic reconnection is the trigger.".
+       <sup class="reference" id="cite_ref-15">
+        <a href="#cite_note-15">
+         [15]
+        </a>
+       </sup>
+      </p>
+      <h3>
+       <span class="mw-headline" id="Laboratory_plasma_experiments">
+        Laboratory plasma experiments
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Magnetic_reconnection&amp;action=edit&amp;section=10" title="Edit section: Laboratory plasma experiments">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       The process of magnetic reconnection has been studied in detail by dedicated laboratory experiments, such as the Magnetic Reconnection Experiment (MRX) at Princeton Plasma Physics Laboratory (PPPL). Experiments such as these have confirmed many aspects of magnetic reconnection, including the Sweet-Parker model in regimes where this model is applicable.
+       <sup class="reference" id="cite_ref-16">
+        <a href="#cite_note-16">
+         [16]
+        </a>
+       </sup>
+      </p>
+      <p>
+       The confinement of plasma in devices such as
+       <a href="/wiki/Tokamak" title="Tokamak">
+        tokamaks
+       </a>
+       ,
+       <a href="/wiki/Spherical_tokamak" title="Spherical tokamak">
+        spherical tokamaks
+       </a>
+       , and
+       <a href="/wiki/Reversed_field_pinch" title="Reversed field pinch">
+        reversed field pinches
+       </a>
+       requires the presence of closed magnetic flux surfaces. By changing the magnetic topology, magnetic reconnection degrades confinement by disrupting these closed flux surfaces, allowing the hot central plasma to mix with cooler plasma closer to the wall.
+       <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+        [
+        <i>
+         <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+          <span title="This claim needs references to reliable sources. (January 2012)">
+           citation needed
+          </span>
+         </a>
+        </i>
+        ]
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="See_also">
+        See also
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Magnetic_reconnection&amp;action=edit&amp;section=11" title="Edit section: See also">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a href="/wiki/Current_sheet" title="Current sheet">
+         Current sheet
+        </a>
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/Solar_corona" title="Solar corona">
+         Solar corona
+        </a>
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/List_of_plasma_(physics)_articles" title="List of plasma (physics) articles">
+         List of plasma (physics) articles
+        </a>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="Notes">
+        Notes
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Magnetic_reconnection&amp;action=edit&amp;section=12" title="Edit section: Notes">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="reflist" style="list-style-type: decimal;">
+       <div class="mw-references-wrap mw-references-columns">
+        <ol class="references">
+         <li id="cite_note-1">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-1">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           Zhu et al., 2016, ApJ, 821, L29,
+           <a class="external free" href="http://iopscience.iop.org/article/10.3847/2041-8205/821/2/L29" rel="nofollow">
+            http://iopscience.iop.org/article/10.3847/2041-8205/821/2/L29
+           </a>
+          </span>
+         </li>
+         <li id="cite_note-2">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-2">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           Sweet, P. A., The Neutral Point Theory of Solar Flares, in IAU Symposium 6, Electromagnetic Phenomena in Cosmical Physics, ed. B. Lehnert (Dordrecht: Kluwer), 123, 1958
+          </span>
+         </li>
+         <li id="cite_note-3">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-3">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           Parker, E. N., Sweet's Mechanism for Merging Magnetic Fields in Conducting Fluids, J. Geophys. Res., 62, 509, 1957
+          </span>
+         </li>
+         <li id="cite_note-4">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-4">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           Biskamp, D., Magnetic reconnection via current sheets, Physics of Fluids, 29, 1520, 1986
+          </span>
+         </li>
+         <li id="cite_note-5">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-5">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           Ji, H., M. Yamada, S. Hsu, R. Kulsrud, T. Carter, &amp; S. Zaharia, Magnetic reconnection with Sweet-Parker characteristics in two-dimensional laboratory plasmas, Physics of Plasmas, 6, 1743, 1999
+          </span>
+         </li>
+         <li id="cite_note-6">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-6">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           Petschek, H. E., Magnetic Field Annihilation, in The Physics of Solar Flares, Proceedings of the AAS-NASA Symposium held 28–30 October 1963 at the Goddard Space Flight Center, Greenbelt, MD, p. 425, 1964
+          </span>
+         </li>
+         <li id="cite_note-7">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-7">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation book">
+            Parker, E. G. (1979).
+            <i>
+             Cosmical Magnetic Fields
+            </i>
+            . Oxford:
+            <a href="/wiki/Oxford_University_Press" title="Oxford University Press">
+             Oxford University Press
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Cosmical+Magnetic+Fields&amp;rft.place=Oxford&amp;rft.pub=Oxford+University+Press&amp;rft.date=1979&amp;rft.aulast=Parker&amp;rft.aufirst=E.+G.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMagnetic+reconnection">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-8">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-8">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Lazarian, Alex; Vishniac, Ethan (1999). "Reconnection in a Weakly Stochastic Field".
+            <i>
+             The Astrophysical Journal
+            </i>
+            .
+            <b>
+             517
+            </b>
+            : 700–718.
+            <a href="/wiki/ArXiv" title="ArXiv">
+             arXiv
+            </a>
+            :
+            <span class="plainlinks">
+             <a class="external text" href="//arxiv.org/abs/astro-ph/9811037" rel="nofollow">
+              astro-ph/9811037
+             </a>
+             <img alt="Freely accessible" data-file-height="813" data-file-width="512" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" title="Freely accessible" width="9"/>
+            </span>
+            .
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/1999ApJ...517..700L" rel="nofollow">
+             1999ApJ...517..700L
+            </a>
+            .
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1086%2F307233" rel="nofollow">
+             10.1086/307233
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Astrophysical+Journal&amp;rft.atitle=Reconnection+in+a+Weakly+Stochastic+Field&amp;rft.volume=517&amp;rft.pages=700-718&amp;rft.date=1999&amp;rft_id=info%3Aarxiv%2Fastro-ph%2F9811037&amp;rft_id=info%3Adoi%2F10.1086%2F307233&amp;rft_id=info%3Abibcode%2F1999ApJ...517..700L&amp;rft.aulast=Lazarian&amp;rft.aufirst=Alex&amp;rft.au=Vishniac%2C+Ethan&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMagnetic+reconnection">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-9">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-9">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Goldreich, P.; Sridhar, S. (1995). "Toward a theory of interstellar turbulence. 2: Strong alfvenic turbulence".
+            <i>
+             The Astrophysical Journal
+            </i>
+            .
+            <b>
+             438
+            </b>
+            : 763.
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/1995ApJ...438..763G" rel="nofollow">
+             1995ApJ...438..763G
+            </a>
+            .
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1086%2F175121" rel="nofollow">
+             10.1086/175121
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Astrophysical+Journal&amp;rft.atitle=Toward+a+theory+of+interstellar+turbulence.+2%3A+Strong+alfvenic+turbulence&amp;rft.volume=438&amp;rft.pages=763&amp;rft.date=1995&amp;rft_id=info%3Adoi%2F10.1086%2F175121&amp;rft_id=info%3Abibcode%2F1995ApJ...438..763G&amp;rft.aulast=Goldreich&amp;rft.aufirst=P.&amp;rft.au=Sridhar%2C+S.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMagnetic+reconnection">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-10">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-10">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Kowal, G.; Lazarian, A.; Vishniac, E.; Otmianowska-Mazur, K. (2009). "NUMERICAL TESTS OF FAST RECONNECTION IN WEAKLY STOCHASTIC MAGNETIC FIELDS".
+            <i>
+             The Astrophysical Journal
+            </i>
+            .
+            <b>
+             700
+            </b>
+            : 63.
+            <a href="/wiki/ArXiv" title="ArXiv">
+             arXiv
+            </a>
+            :
+            <span class="plainlinks">
+             <a class="external text" href="//arxiv.org/abs/0903.2052" rel="nofollow">
+              0903.2052
+             </a>
+             <img alt="Freely accessible" data-file-height="813" data-file-width="512" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" title="Freely accessible" width="9"/>
+            </span>
+            .
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/2009ApJ...700...63K" rel="nofollow">
+             2009ApJ...700...63K
+            </a>
+            .
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1088%2F0004-637X%2F700%2F1%2F63" rel="nofollow">
+             10.1088/0004-637X/700/1/63
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Astrophysical+Journal&amp;rft.atitle=NUMERICAL+TESTS+OF+FAST+RECONNECTION+IN+WEAKLY+STOCHASTIC+MAGNETIC+FIELDS&amp;rft.volume=700&amp;rft.pages=63&amp;rft.date=2009&amp;rft_id=info%3Aarxiv%2F0903.2052&amp;rft_id=info%3Adoi%2F10.1088%2F0004-637X%2F700%2F1%2F63&amp;rft_id=info%3Abibcode%2F2009ApJ...700...63K&amp;rft.aulast=Kowal&amp;rft.aufirst=G.&amp;rft.au=Lazarian%2C+A.&amp;rft.au=Vishniac%2C+E.&amp;rft.au=Otmianowska-Mazur%2C+K.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMagnetic+reconnection">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-11">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-11">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Kowal, G; Lazarian, A.; Vishniac, E.; Otmianowska-Mazur, K. (2012). "Reconnection studies under different types of turbulence driving".
+            <i>
+             Nonlinear Processes in Geophysics
+            </i>
+            .
+            <b>
+             19
+            </b>
+            : 297–314.
+            <a href="/wiki/ArXiv" title="ArXiv">
+             arXiv
+            </a>
+            :
+            <span class="plainlinks">
+             <a class="external text" href="//arxiv.org/abs/1203.2971" rel="nofollow">
+              1203.2971
+             </a>
+             <img alt="Freely accessible" data-file-height="813" data-file-width="512" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" title="Freely accessible" width="9"/>
+            </span>
+            .
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/2012NPGeo..19..297K" rel="nofollow">
+             2012NPGeo..19..297K
+            </a>
+            .
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.5194%2Fnpg-19-297-2012" rel="nofollow">
+             10.5194/npg-19-297-2012
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Nonlinear+Processes+in+Geophysics&amp;rft.atitle=Reconnection+studies+under+different+types+of+turbulence+driving&amp;rft.volume=19&amp;rft.pages=297-314&amp;rft.date=2012&amp;rft_id=info%3Aarxiv%2F1203.2971&amp;rft_id=info%3Adoi%2F10.5194%2Fnpg-19-297-2012&amp;rft_id=info%3Abibcode%2F2012NPGeo..19..297K&amp;rft.aulast=Kowal&amp;rft.aufirst=G&amp;rft.au=Lazarian%2C+A.&amp;rft.au=Vishniac%2C+E.&amp;rft.au=Otmianowska-Mazur%2C+K.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMagnetic+reconnection">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-12">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-12">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.azonano.com/news.aspx?newsID=26419" rel="nofollow">
+             "High-Resolution Coronal Imager Photographs the Sun in UV Light at 19.3nm Wavelength"
+            </a>
+            . AZonano.com. January 24, 2013
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              February 9,
+             </span>
+             2013
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=High-Resolution+Coronal+Imager+Photographs+the+Sun+in+UV+Light+at+19.3nm+Wavelength&amp;rft.pub=AZonano.com&amp;rft.date=2013-01-24&amp;rft_id=http%3A%2F%2Fwww.azonano.com%2Fnews.aspx%3FnewsID%3D26419&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMagnetic+reconnection">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-13">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-13">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.nasa.gov/mission_pages/themis/auroras/themis_power.html" rel="nofollow">
+             "THEMIS Satellites Discover What Triggers Eruptions of the Northern Lights"
+            </a>
+            .
+            <i>
+             NASA
+            </i>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=NASA&amp;rft.atitle=THEMIS+Satellites+Discover+What+Triggers+Eruptions+of+the+Northern+Lights&amp;rft_id=http%3A%2F%2Fwww.nasa.gov%2Fmission_pages%2Fthemis%2Fauroras%2Fthemis_power.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMagnetic+reconnection">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-14">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-14">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Vassilis Angelopoulos.
+            <a class="external text" href="http://www.sciencemag.org/cgi/content/abstract/1160495" rel="nofollow">
+             "Tail Reconnection Triggering Substorm Onset"
+            </a>
+            .
+            <i>
+             Science
+            </i>
+            .
+            <b>
+             321
+            </b>
+            : 931–935.
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/2008Sci...321..931A" rel="nofollow">
+             2008Sci...321..931A
+            </a>
+            .
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1126%2Fscience.1160495" rel="nofollow">
+             10.1126/science.1160495
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Science&amp;rft.atitle=Tail+Reconnection+Triggering+Substorm+Onset&amp;rft.volume=321&amp;rft.pages=931-935&amp;rft_id=info%3Adoi%2F10.1126%2Fscience.1160495&amp;rft_id=info%3Abibcode%2F2008Sci...321..931A&amp;rft.au=Vassilis+Angelopoulos&amp;rft_id=http%3A%2F%2Fwww.sciencemag.org%2Fcgi%2Fcontent%2Fabstract%2F1160495&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMagnetic+reconnection">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-15">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-15">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.space.com/scienceastronomy/080724-themis-aurora-mystery.html" rel="nofollow">
+             "Secret of Colorful Auroras Revealed"
+            </a>
+            .
+            <i>
+             Space.com
+            </i>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Space.com&amp;rft.atitle=Secret+of+Colorful+Auroras+Revealed&amp;rft_id=http%3A%2F%2Fwww.space.com%2Fscienceastronomy%2F080724-themis-aurora-mystery.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMagnetic+reconnection">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-16">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-16">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Ji, H.; et al. (May 1999). "Magnetic reconnection with Sweet-Parker characteristics in two-dimensional laboratory plasmas".
+            <i>
+             Physics of Plasmas
+            </i>
+            .
+            <b>
+             6
+            </b>
+            (5): 1743.
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/1999PhPl....6.1743J" rel="nofollow">
+             1999PhPl....6.1743J
+            </a>
+            .
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1063%2F1.873432" rel="nofollow">
+             10.1063/1.873432
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Physics+of+Plasmas&amp;rft.atitle=Magnetic+reconnection+with+Sweet-Parker+characteristics+in+two-dimensional+laboratory+plasmas&amp;rft.volume=6&amp;rft.issue=5&amp;rft.pages=1743&amp;rft.date=1999-05&amp;rft_id=info%3Adoi%2F10.1063%2F1.873432&amp;rft_id=info%3Abibcode%2F1999PhPl....6.1743J&amp;rft.aulast=Ji&amp;rft.aufirst=H.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMagnetic+reconnection">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+        </ol>
+       </div>
+      </div>
+      <h2>
+       <span class="mw-headline" id="References">
+        References
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Magnetic_reconnection&amp;action=edit&amp;section=13" title="Edit section: References">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        Eric Priest, Terry Forbes,
+        <i>
+         Magnetic Reconnection
+        </i>
+        , Cambridge University Press 2000,
+        <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+         ISBN
+        </a>
+        <a href="/wiki/Special:BookSources/0-521-48179-1" title="Special:BookSources/0-521-48179-1">
+         0-521-48179-1
+        </a>
+        ,
+        <a class="external text" href="http://assets.cambridge.org/0521481791/sample/0521481791WSN01.pdf" rel="nofollow">
+         contents and sample chapter online
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://www.space.com/businesstechnology/080206-tw-magnetic-reconnection.html" rel="nofollow">
+         Discoveries about magnetic reconnection in space could unlock fusion power
+        </a>
+        , Space.com,
+        <i>
+         6 February 2008
+        </i>
+       </li>
+       <li>
+        <a class="external text" href="http://mms.space.swri.edu" rel="nofollow">
+         Nasa MMS-SMART mission
+        </a>
+        , The Magnetospheric Multiscale (MMS) mission, Solving Magnetospheric Acceleration, Reconnection, and Turbulence. Due for launch in 2014.
+       </li>
+       <li>
+        <a class="external text" href="http://clusterlaunch.esa.int/science-e/www/area/index.cfm?fareaid=8" rel="nofollow">
+         Cluster spacecraft science results
+        </a>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="External_links">
+        External links
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Magnetic_reconnection&amp;action=edit&amp;section=14" title="Edit section: External links">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a class="external text" href="http://solar-center.stanford.edu/magnetism/magnetismsun.html" rel="nofollow">
+         Magnetism on the Sun
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://mrx.pppl.gov/" rel="nofollow">
+         Magnetic Reconnection Experiment (MRX)
+        </a>
+       </li>
+      </ul>
+      <!-- 
+NewPP limit report
+Parsed by mw1248
+Cached time: 20180201210433
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.252 seconds
+Real time usage: 0.746 seconds
+Preprocessor visited node count: 1255/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 24713/2097152 bytes
+Template argument size: 983/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 3/500
+Lua time usage: 0.085/10.000 seconds
+Lua memory usage: 3.33 MB/50 MB
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  205.450      1 -total
+ 55.76%  114.549      1 Template:Reflist
+ 18.15%   37.283      1 Template:Lead_too_long
+ 17.19%   35.313      6 Template:Cite_journal
+ 14.47%   29.728      1 Template:Cite_book
+ 11.88%   24.408      1 Template:Ambox
+ 11.20%   23.016      1 Template:ISBN
+  9.45%   19.418      1 Template:Citation_needed
+  8.39%   17.235      1 Template:Fix
+  7.17%   14.729      3 Template:Cite_web
+-->
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:1166647-0!canonical!math=5 and timestamp 20180201210432 and revision id 817053811
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Magnetic_reconnection&amp;oldid=817053811">
+      https://en.wikipedia.org/w/index.php?title=Magnetic_reconnection&amp;oldid=817053811
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Plasma_physics" title="Category:Plasma physics">
+         Plasma physics
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Stellar_phenomena" title="Category:Stellar phenomena">
+         Stellar phenomena
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Solar_phenomena" title="Category:Solar phenomena">
+         Solar phenomena
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:Wikipedia_introduction_cleanup_from_March_2015" title="Category:Wikipedia introduction cleanup from March 2015">
+         Wikipedia introduction cleanup from March 2015
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:All_pages_needing_cleanup" title="Category:All pages needing cleanup">
+         All pages needing cleanup
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_covered_by_WikiProject_Wikify_from_March_2015" title="Category:Articles covered by WikiProject Wikify from March 2015">
+         Articles covered by WikiProject Wikify from March 2015
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:All_articles_covered_by_WikiProject_Wikify" title="Category:All articles covered by WikiProject Wikify">
+         All articles covered by WikiProject Wikify
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">
+         All articles with unsourced statements
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_with_unsourced_statements_from_January_2012" title="Category:Articles with unsourced statements from January 2012">
+         Articles with unsourced statements from January 2012
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_containing_video_clips" title="Category:Articles containing video clips">
+         Articles containing video clips
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Magnetic+reconnection" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Magnetic+reconnection" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Magnetic_reconnection" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Magnetic_reconnection" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="collapsible selected" id="ca-view">
+        <span>
+         <a href="/wiki/Magnetic_reconnection">
+          Read
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Magnetic_reconnection&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Magnetic_reconnection&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Magnetic_reconnection" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Magnetic_reconnection" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Magnetic_reconnection&amp;oldid=817053811" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Magnetic_reconnection&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q287506" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Magnetic_reconnection&amp;id=817053811" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Magnetic+reconnection">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Magnetic+reconnection&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Magnetic_reconnection&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-ar">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%A5%D8%B9%D8%A7%D8%AF%D8%A9_%D8%A7%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84_%D8%A7%D9%84%D9%85%D8%BA%D9%86%D8%A7%D8%B7%D9%8A%D8%B3%D9%8A" hreflang="ar" lang="ar" title="إعادة الاتصال المغناطيسي – Arabic">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Reconnexi%C3%B3_magn%C3%A8tica" hreflang="ca" lang="ca" title="Reconnexió magnètica – Catalan">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Rekonnexion" hreflang="de" lang="de" title="Rekonnexion – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-et">
+        <a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Magnetiline_%C3%BCmber%C3%BChendamine" hreflang="et" lang="et" title="Magnetiline ümberühendamine – Estonian">
+         Eesti
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Reconnexion_magn%C3%A9tique" hreflang="fr" lang="fr" title="Reconnexion magnétique – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ko">
+        <a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%9E%90%EA%B8%B0_%EC%9E%AC%EA%B2%B0%ED%95%A9" hreflang="ko" lang="ko" title="자기 재결합 – Korean">
+         한국어
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Riconnessione_magnetica" hreflang="it" lang="it" title="Riconnessione magnetica – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E7%A3%81%E6%B0%97%E3%83%AA%E3%82%B3%E3%83%8D%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3" hreflang="ja" lang="ja" title="磁気リコネクション – Japanese">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-no">
+        <a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Magnetisk_omkobling" hreflang="no" lang="no" title="Magnetisk omkobling – Norwegian">
+         Norsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pl">
+        <a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Rekoneksja_magnetyczna" hreflang="pl" lang="pl" title="Rekoneksja magnetyczna – Polish">
+         Polski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Reconex%C3%A3o_magn%C3%A9tica" hreflang="pt" lang="pt" title="Reconexão magnética – Portuguese">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%B3%D0%BD%D0%B8%D1%82%D0%BD%D0%BE%D0%B5_%D0%BF%D0%B5%D1%80%D0%B5%D1%81%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5" hreflang="ru" lang="ru" title="Магнитное пересоединение – Russian">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sv">
+        <a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Magnetisk_rekonnektion" hreflang="sv" lang="sv" title="Magnetisk rekonnektion – Swedish">
+         Svenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uk">
+        <a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%9C%D0%B0%D0%B3%D0%BD%D1%96%D1%82%D0%BD%D0%B5_%D0%BF%D0%B5%D1%80%D0%B5%D0%B7%27%D1%94%D0%B4%D0%BD%D0%B0%D0%BD%D0%BD%D1%8F" hreflang="uk" lang="uk" title="Магнітне перез'єднання – Ukrainian">
+         Українська
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E7%A3%81%E9%87%8D%E8%81%94" hreflang="zh" lang="zh" title="磁重联 – Chinese">
+         中文
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q287506#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 25 December 2017, at 19:53.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Magnetic_reconnection&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.252","walltime":"0.746","ppvisitednodes":{"value":1255,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":24713,"limit":2097152},"templateargumentsize":{"value":983,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  205.450      1 -total"," 55.76%  114.549      1 Template:Reflist"," 18.15%   37.283      1 Template:Lead_too_long"," 17.19%   35.313      6 Template:Cite_journal"," 14.47%   29.728      1 Template:Cite_book"," 11.88%   24.408      1 Template:Ambox"," 11.20%   23.016      1 Template:ISBN","  9.45%   19.418      1 Template:Citation_needed","  8.39%   17.235      1 Template:Fix","  7.17%   14.729      3 Template:Cite_web"]},"scribunto":{"limitreport-timeusage":{"value":"0.085","limit":"10.000"},"limitreport-memusage":{"value":3493950,"limit":52428800}},"cachereport":{"origin":"mw1248","timestamp":"20180201210433","ttl":1900800,"transientcontent":false}}});});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":97,"wgHostname":"mw1243"});});
+  </script>
+ </body>
+</html>

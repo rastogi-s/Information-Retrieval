@@ -1,0 +1,2351 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Military Grid Reference System - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Military_Grid_Reference_System","wgTitle":"Military Grid Reference System","wgCurRevisionId":819354278,"wgRevisionId":819354278,"wgArticleId":1516323,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with Spanish-language external links","Geographic coordinate systems","Military cartography","Geodesy"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Military_Grid_Reference_System","wgRelevantArticleId":1516323,"wgRequestId":"WnKOLQpAIC0AADEn0MYAAAAQ","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q1922471","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.31.0-wmf.17" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <meta content="https://upload.wikimedia.org/wikipedia/commons/4/4c/Azimutalprojektion-schief_kl-cropped.png" property="og:image"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Military_Grid_Reference_System" rel="alternate"/>
+  <link href="/w/index.php?title=Military_Grid_Reference_System&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Military_Grid_Reference_System&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/Military_Grid_Reference_System" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Military_Grid_Reference_System rootpage-Military_Grid_Reference_System skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Military Grid Reference System
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <table class="vertical-navbox nowraplinks plainlist" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+       <tr>
+        <th style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em;padding-bottom:0.4em;">
+         <a href="/wiki/Geodesy" title="Geodesy">
+          Geodesy
+         </a>
+        </th>
+       </tr>
+       <tr>
+        <td style="padding:0.2em 0 0.4em">
+         <a class="image" href="/wiki/File:Azimutalprojektion-schief_kl-cropped.png">
+          <img alt="Azimutalprojektion-schief kl-cropped.png" data-file-height="240" data-file-width="242" height="149" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Azimutalprojektion-schief_kl-cropped.png/150px-Azimutalprojektion-schief_kl-cropped.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Azimutalprojektion-schief_kl-cropped.png/225px-Azimutalprojektion-schief_kl-cropped.png 1.5x, //upload.wikimedia.org/wikipedia/commons/4/4c/Azimutalprojektion-schief_kl-cropped.png 2x" width="150"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <th style="padding:0.1em;background:#c5d5a5;">
+         Fundamentals
+        </th>
+       </tr>
+       <tr>
+        <td style="padding:0 0.1em 0.4em;padding-top:0.2em;padding-bottom:0.7em;">
+         <div class="hlist">
+          <ul>
+           <li>
+            <a href="/wiki/Geodesy" title="Geodesy">
+             Geodesy
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Geodynamics" title="Geodynamics">
+             Geodynamics
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Geomatics" title="Geomatics">
+             Geomatics
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Cartography" title="Cartography">
+             Cartography
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/History_of_geodesy" title="History of geodesy">
+             History
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr>
+        <th style="padding:0.1em;background:#c5d5a5;">
+         Concepts
+        </th>
+       </tr>
+       <tr>
+        <td style="padding:0 0.1em 0.4em;padding-top:0.2em;padding-bottom:0.7em;">
+         <div class="hlist">
+          <ul>
+           <li>
+            <a href="/wiki/Geographical_distance" title="Geographical distance">
+             Geographical distance
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Geoid" title="Geoid">
+             Geoid
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Figure_of_the_Earth" title="Figure of the Earth">
+             Figure of the Earth
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Geodetic_datum" title="Geodetic datum">
+             Geodetic datum
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Geodesic" title="Geodesic">
+             Geodesic
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">
+             Geographic coordinate system
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Horizontal_position_representation" title="Horizontal position representation">
+             Horizontal position representation
+            </a>
+           </li>
+           <li>
+            <span class="nowrap">
+             <a href="/wiki/Latitude" title="Latitude">
+              Latitude
+             </a>
+             /
+             <a href="/wiki/Longitude" title="Longitude">
+              Longitude
+             </a>
+            </span>
+           </li>
+           <li>
+            <a href="/wiki/Map_projection" title="Map projection">
+             Map projection
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Reference_ellipsoid" title="Reference ellipsoid">
+             Reference ellipsoid
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Satellite_geodesy" title="Satellite geodesy">
+             Satellite geodesy
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Spatial_reference_system" title="Spatial reference system">
+             Spatial reference system
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr>
+        <th style="padding:0.1em;background:#c5d5a5;">
+         Technologies
+        </th>
+       </tr>
+       <tr>
+        <td style="padding:0 0.1em 0.4em;padding-top:0.2em;padding-bottom:0.7em;">
+         <ul>
+          <li>
+           <a href="/wiki/Satellite_navigation" title="Satellite navigation">
+            Global Navigation Satellite System (GNSS)
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Global_Positioning_System" title="Global Positioning System">
+            Global Positioning System (GPS)
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/GLONASS" title="GLONASS">
+            GLONASS
+            <span style="font-size:90%;">
+             (Russian)
+            </span>
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/BeiDou_Navigation_Satellite_System" title="BeiDou Navigation Satellite System">
+            BeiDou (BDS)
+            <span style="font-size:90%;">
+             (Chinese)
+            </span>
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Galileo_(satellite_navigation)" title="Galileo (satellite navigation)">
+            Galileo
+            <span style="font-size:90%;">
+             (European)
+            </span>
+           </a>
+          </li>
+          <li>
+           <div style="padding:0.2em 0.4em; line-height:1.2em;">
+            <a href="/wiki/Indian_Regional_Navigation_Satellite_System" title="Indian Regional Navigation Satellite System">
+             Indian Regional Navigation
+             <br/>
+             Satellite System (IRNSS)
+             <span style="font-size:90%;">
+              (India)
+             </span>
+            </a>
+           </div>
+          </li>
+          <li>
+           <a href="/wiki/Quasi-Zenith_Satellite_System" title="Quasi-Zenith Satellite System">
+            Quasi-Zenith Satellite System (QZSS)
+            <span style="font-size:90%;">
+             (Japan)
+            </span>
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Legenda_(satellite_system)" title="Legenda (satellite system)">
+            Legenda (satellite system)
+           </a>
+          </li>
+         </ul>
+        </td>
+       </tr>
+       <tr>
+        <th style="padding:0.1em;background:#c5d5a5;">
+         Standards (
+         <a href="/wiki/History_of_geodesy" title="History of geodesy">
+          History
+         </a>
+         )
+        </th>
+       </tr>
+       <tr>
+        <td style="padding:0 0.1em 0.4em;padding-top:0.2em;padding-bottom:0.7em;">
+         <table class="nowrap" style="width:100%;border-collapse:collapse;border-spacing:0px 0px;border:none;line-height:1.2em;">
+          <tr style="vertical-align:top">
+           <td style="text-align:left;padding-left:0.5em;">
+            <a href="/wiki/Sea_Level_Datum_of_1929" title="Sea Level Datum of 1929">
+             NGVD 29
+            </a>
+           </td>
+           <td style="text-align:right;font-size:90%;padding-right:0.55em;">
+            Sea Level Datum 1929
+           </td>
+          </tr>
+          <tr style="vertical-align:top">
+           <td style="text-align:left;padding-left:0.5em;">
+            <a class="mw-redirect" href="/wiki/OSGB36" title="OSGB36">
+             OSGB36
+            </a>
+           </td>
+           <td style="text-align:right;font-size:90%;padding-right:0.55em;">
+            Ordnance Survey Great Britain 1936
+           </td>
+          </tr>
+          <tr style="vertical-align:top">
+           <td style="text-align:left;padding-left:0.5em;">
+            <a href="/wiki/SK-42_reference_system" title="SK-42 reference system">
+             SK-42
+            </a>
+           </td>
+           <td style="text-align:right;font-size:90%;padding-right:0.55em;">
+            Systema Koordinat 1942 goda
+           </td>
+          </tr>
+          <tr style="vertical-align:top">
+           <td style="text-align:left;padding-left:0.5em;">
+            <a href="/wiki/ED50" title="ED50">
+             ED50
+            </a>
+           </td>
+           <td style="text-align:right;font-size:90%;padding-right:0.55em;">
+            European Datum 1950
+           </td>
+          </tr>
+          <tr style="vertical-align:top">
+           <td style="text-align:left;padding-left:0.5em;">
+            <a href="/wiki/South_American_Datum#SAD69" title="South American Datum">
+             SAD69
+            </a>
+           </td>
+           <td style="text-align:right;font-size:90%;padding-right:0.55em;">
+            South American Datum 1969
+           </td>
+          </tr>
+          <tr style="vertical-align:top">
+           <td style="text-align:left;padding-left:0.5em;">
+            <a href="/wiki/GRS_80" title="GRS 80">
+             GRS 80
+            </a>
+           </td>
+           <td style="text-align:right;font-size:90%;padding-right:0.55em;">
+            Geodetic Reference System 1980
+           </td>
+          </tr>
+          <tr style="vertical-align:top">
+           <td style="text-align:left;padding-left:0.5em;">
+            <a href="/wiki/North_American_Datum#North_American_Datum_of_1983" title="North American Datum">
+             NAD 83
+            </a>
+           </td>
+           <td style="text-align:right;font-size:90%;padding-right:0.55em;">
+            North American Datum 1983
+           </td>
+          </tr>
+          <tr style="vertical-align:top">
+           <td style="text-align:left;padding-left:0.5em;">
+            <a href="/wiki/World_Geodetic_System" title="World Geodetic System">
+             WGS 84
+            </a>
+           </td>
+           <td style="text-align:right;font-size:90%;padding-right:0.55em;">
+            World Geodetic System 1984
+           </td>
+          </tr>
+          <tr style="vertical-align:top">
+           <td style="text-align:left;padding-left:0.5em;">
+            <a href="/wiki/North_American_Vertical_Datum_of_1988" title="North American Vertical Datum of 1988">
+             NAVD 88
+            </a>
+           </td>
+           <td style="text-align:right;font-size:90%;padding-right:0.55em;">
+            N. American Vertical Datum 1988
+           </td>
+          </tr>
+          <tr style="vertical-align:top">
+           <td style="text-align:left;padding-left:0.5em;">
+            <a href="/wiki/European_Terrestrial_Reference_System_1989" title="European Terrestrial Reference System 1989">
+             ETRS89
+            </a>
+           </td>
+           <td style="text-align:right;font-size:90%;padding-right:0.55em;">
+            European Terrestrial Reference
+            <br/>
+            System 1989
+           </td>
+          </tr>
+          <tr style="vertical-align:top">
+           <td style="text-align:left;padding-left:0.5em;">
+            <a href="/wiki/Restrictions_on_geographic_data_in_China" title="Restrictions on geographic data in China">
+             GCJ-02
+            </a>
+           </td>
+           <td style="text-align:right;font-size:90%;padding-right:0.55em;">
+            Chinese obfuscated datum 2002
+           </td>
+          </tr>
+         </table>
+         <ul>
+          <li>
+           <a href="/wiki/International_Terrestrial_Reference_System" title="International Terrestrial Reference System">
+            International Terrestrial Reference System
+           </a>
+          </li>
+          <li>
+           <a class="mw-redirect" href="/wiki/SRID" title="SRID">
+            Spatial Reference System Identifier (SRID)
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Universal_Transverse_Mercator_coordinate_system" title="Universal Transverse Mercator coordinate system">
+            Universal Transverse Mercator (UTM)
+           </a>
+          </li>
+         </ul>
+        </td>
+       </tr>
+       <tr>
+        <td style="text-align:right;font-size:115%">
+         <div class="plainlinks hlist navbar mini">
+          <ul>
+           <li class="nv-view">
+            <a href="/wiki/Template:Geodesy" title="Template:Geodesy">
+             <abbr title="View this template">
+              v
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-talk">
+            <a href="/wiki/Template_talk:Geodesy" title="Template talk:Geodesy">
+             <abbr title="Discuss this template">
+              t
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-edit">
+            <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Geodesy&amp;action=edit">
+             <abbr title="Edit this template">
+              e
+             </abbr>
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+      </table>
+      <p>
+       The
+       <b>
+        Military Grid Reference System
+       </b>
+       (
+       <b>
+        MGRS
+       </b>
+       )
+       <sup class="reference" id="cite_ref-DMA8358_1_Chapter3_1-0">
+        <a href="#cite_note-DMA8358_1_Chapter3-1">
+         [1]
+        </a>
+       </sup>
+       is the geocoordinate standard used by
+       <a href="/wiki/NATO" title="NATO">
+        NATO
+       </a>
+       militaries for locating points on the earth. The MGRS is derived from the
+       <a href="/wiki/Universal_Transverse_Mercator_coordinate_system" title="Universal Transverse Mercator coordinate system">
+        Universal Transverse Mercator (UTM)
+       </a>
+       grid system and the
+       <a class="mw-redirect" href="/wiki/Universal_Polar_Stereographic" title="Universal Polar Stereographic">
+        universal polar stereographic (UPS)
+       </a>
+       grid system, but uses a different labeling convention. The MGRS is used for the entire earth.
+      </p>
+      <p>
+       An example of an
+       <i>
+        MGRS coordinate
+       </i>
+       , or
+       <i>
+        grid reference
+       </i>
+       , would be
+       <a class="external text" href="https://tools.wmflabs.org/geohack/geohack.php?pagename=Military_Grid_Reference_System&amp;params=21_18_34.0_N_157_55_0.7_W_&amp;language=en">
+        4QFJ12345678
+       </a>
+       , which consists of three parts:
+      </p>
+      <ul>
+       <li>
+        4Q (grid zone designator, GZD)
+       </li>
+       <li>
+        FJ (the 100,000-meter square identifier)
+       </li>
+       <li>
+        12345678 (numerical location;
+        <a href="/wiki/Easting_and_northing" title="Easting and northing">
+         easting
+        </a>
+        is 1234 and
+        <a href="/wiki/Easting_and_northing" title="Easting and northing">
+         northing
+        </a>
+        is 5678, in this case specifying a location with 10 m resolution)
+       </li>
+      </ul>
+      <p>
+       An MGRS grid reference is a point reference system. When the term 'grid square' is used, it can refer to a square with a side length of 10 km (6 mi), 1 km, 100 m (328 ft), 10 m or 1 m, depending on the precision of the coordinates provided. (In some cases, squares adjacent to a Grid Zone Junction (GZJ) are clipped, so polygon is a better descriptor of these areas.) The number of digits in the numerical location must be even: 0, 2, 4, 6, 8 or 10, depending on the desired precision. When changing precision levels, it is important to
+       <a class="mw-redirect" href="/wiki/Truncate" title="Truncate">
+        truncate
+       </a>
+       rather than
+       <a href="/wiki/Rounding" title="Rounding">
+        round
+       </a>
+       the easting and northing values to ensure the more precise polygon will remain within the boundaries of the less precise polygon. Related to this is the primacy of the southwest corner of the polygon being the labeling point for an entire polygon. In instances where the polygon is not a square and has been clipped by a grid zone junction, the polygon keeps the label of the southwest corner as if it had not been clipped.
+      </p>
+      <ul>
+       <li>
+        4Q .....................GZD only, precision level 6° × 8° (in most cases)
+       </li>
+       <li>
+        4QFJ ...................GZD and 100 km Grid Square ID, precision level 100 km
+       </li>
+       <li>
+        4QFJ 1 6 ...............precision level 10 km
+       </li>
+       <li>
+        4QFJ 12 67 .............precision level 1 km
+       </li>
+       <li>
+        4QFJ 123 678 ...........precision level 100 m
+       </li>
+       <li>
+        4QFJ 1234 6789 .........precision level 10 m
+       </li>
+       <li>
+        4QFJ 12345 67890 .......precision level 1 m
+       </li>
+      </ul>
+      <p>
+      </p>
+      <div class="toc" id="toc">
+       <div class="toctitle" dir="ltr" lang="en" xml:lang="en">
+        <h2>
+         Contents
+        </h2>
+       </div>
+       <ul>
+        <li class="toclevel-1 tocsection-1">
+         <a href="#Grid_zone_designation">
+          <span class="tocnumber">
+           1
+          </span>
+          <span class="toctext">
+           Grid zone designation
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-2">
+         <a href="#100,000-meter_square_identification">
+          <span class="tocnumber">
+           2
+          </span>
+          <span class="toctext">
+           100,000-meter square identification
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-3">
+         <a href="#Numerical_location">
+          <span class="tocnumber">
+           3
+          </span>
+          <span class="toctext">
+           Numerical location
+          </span>
+         </a>
+         <ul>
+          <li class="toclevel-2 tocsection-4">
+           <a href="#Truncate,_don't_round">
+            <span class="tocnumber">
+             3.1
+            </span>
+            <span class="toctext">
+             Truncate, don't round
+            </span>
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="toclevel-1 tocsection-5">
+         <a href="#Squares_that_cross_a_latitude_band_boundary">
+          <span class="tocnumber">
+           4
+          </span>
+          <span class="toctext">
+           Squares that cross a latitude band boundary
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-6">
+         <a href="#Polar_regions">
+          <span class="tocnumber">
+           5
+          </span>
+          <span class="toctext">
+           Polar regions
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-7">
+         <a href="#See_also">
+          <span class="tocnumber">
+           6
+          </span>
+          <span class="toctext">
+           See also
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-8">
+         <a href="#References">
+          <span class="tocnumber">
+           7
+          </span>
+          <span class="toctext">
+           References
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-9">
+         <a href="#External_links">
+          <span class="tocnumber">
+           8
+          </span>
+          <span class="toctext">
+           External links
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <p>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Grid_zone_designation">
+        Grid zone designation
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Military_Grid_Reference_System&amp;action=edit&amp;section=1" title="Edit section: Grid zone designation">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       The first part of an MGRS coordinate is the
+       <i>
+        grid-zone designation
+       </i>
+       . The 6° wide UTM zones, numbered 1–60, are intersected by latitude bands that are normally 8° high, lettered C–X (omitting I and O). The northmost latitude band, X, is 12° high. The intersection of a UTM zone and a latitude band is (normally) a 6° × 8° polygon called a
+       <i>
+        grid zone
+       </i>
+       , whose
+       <i>
+        designation
+       </i>
+       in MGRS is formed by the zone number (one or two digits – the number for zones 1 to 9 is just a single digit, according to the example in DMA TM 8358.1, Section 3-2,
+       <sup class="reference" id="cite_ref-DMA8358_1_Chapter3_1-1">
+        <a href="#cite_note-DMA8358_1_Chapter3-1">
+         [1]
+        </a>
+       </sup>
+       Figure 7), followed by the latitude band letter (uppercase). This same notation is used in both UTM and MGRS, i.e. the UTM grid reference system; the article on
+       <a class="mw-redirect" href="/wiki/Universal_Transverse_Mercator" title="Universal Transverse Mercator">
+        Universal Transverse Mercator
+       </a>
+       shows many maps of these grid zones, including the irregularities for Svalbard and southwest Norway.
+      </p>
+      <p>
+       As Figure 1 illustrates, Honolulu is in grid zone 4Q.
+      </p>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:MGRSgridOriginSchemeAA.png">
+         <img alt="" class="thumbimage" data-file-height="1309" data-file-width="1895" height="152" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/MGRSgridOriginSchemeAA.png/220px-MGRSgridOriginSchemeAA.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/MGRSgridOriginSchemeAA.png/330px-MGRSgridOriginSchemeAA.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f9/MGRSgridOriginSchemeAA.png/440px-MGRSgridOriginSchemeAA.png 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:MGRSgridOriginSchemeAA.png" title="Enlarge">
+          </a>
+         </div>
+         Figure 1. The origin of the MGRS grid, in the Pacific. Honolulu is in 4QFJ.
+        </div>
+       </div>
+      </div>
+      <h2>
+       <span id="100.2C000-meter_square_identification">
+       </span>
+       <span class="mw-headline" id="100,000-meter_square_identification">
+        100,000-meter square identification
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Military_Grid_Reference_System&amp;action=edit&amp;section=2" title="Edit section: 100,000-meter square identification">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       The second part of an MGRS coordinate is the
+       <i>
+        100,000-meter square identification
+       </i>
+       . Each UTM zone is divided into 100,000 meter squares, so that their corners have UTM-coordinates that are multiples of 100,000 meters. The
+       <i>
+        identification
+       </i>
+       consists of a column letter (A–Z, omitting I and O) followed by a row letter (A–V, omitting I and O).
+      </p>
+      <p>
+       Near the equator, the columns of UTM zone 1 have the letters A–H, the columns of UTM zone 2 have the letters J–R (omitting O), and the columns of UTM zone 3 have the letters S–Z. At zone 4, the column letters start over from A, and so on around the world.
+      </p>
+      <p>
+       For the row letters, there are actually two alternative lettering schemes within MGRS:
+      </p>
+      <ul>
+       <li>
+        In the
+        <i>
+         AA scheme
+        </i>
+        ,
+        <sup class="reference" id="cite_ref-MGRS_Final_Guidance_2-0">
+         <a href="#cite_note-MGRS_Final_Guidance-2">
+          [2]
+         </a>
+        </sup>
+        also known as
+        <i>
+         MGRS-New
+        </i>
+        ,
+        <sup class="reference" id="cite_ref-Military_Map_Reading_201_3-0">
+         <a href="#cite_note-Military_Map_Reading_201-3">
+          [3]
+         </a>
+        </sup>
+        which is used for
+        <a class="mw-redirect" href="/wiki/WGS84" title="WGS84">
+         WGS84
+        </a>
+        and some other modern
+        <a class="mw-redirect" href="/wiki/Datum_(geodesy)" title="Datum (geodesy)">
+         geodetic datums
+        </a>
+        , the letter for the first row – just north of the equator – is A in odd-numbered zones, and F in even-numbered zones, as shown in figure 1. Note that the westmost square in this row, in zone 1, has identification AA.
+       </li>
+       <li>
+        In the alternative
+        <i>
+         AL scheme
+        </i>
+        ,
+        <sup class="reference" id="cite_ref-MGRS_Final_Guidance_2-1">
+         <a href="#cite_note-MGRS_Final_Guidance-2">
+          [2]
+         </a>
+        </sup>
+        also known as
+        <i>
+         MGRS-Old
+        </i>
+        ,
+        <sup class="reference" id="cite_ref-Military_Map_Reading_201_3-1">
+         <a href="#cite_note-Military_Map_Reading_201-3">
+          [3]
+         </a>
+        </sup>
+        which is used for some older
+        <a class="mw-redirect" href="/wiki/Datum_(geodesy)" title="Datum (geodesy)">
+         geodetic datums
+        </a>
+        , the row letters are shifted 10 steps in the alphabet. This means that the letter for the first row is L in odd-numbered zones and R in even-numbered zones. The westmost square in the first row, in zone 1, has identification AL.
+       </li>
+      </ul>
+      <p>
+       If an MGRS coordinate is complete (with both a grid zone designation and a 100,000 meter square identification), and is valid in one lettering scheme, then it is usually invalid in the other scheme, which will have no such 100,000 meter square in the grid zone. (Latitude band X is the exception to this rule.) Therefore, a position reported in a modern
+       <a class="mw-redirect" href="/wiki/Datum_(geodesy)" title="Datum (geodesy)">
+        datum
+       </a>
+       usually can not be misunderstood as using an old datum, and vice versa – provided the datums use different MGRS lettering schemes.
+      </p>
+      <p>
+       In the map (figure 1), which uses the AA scheme, we see that Honolulu is in grid zone 4Q, and square FJ. To give the position of Honolulu with 100 km resolution, we write 4QFJ.
+      </p>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:MGRSgridHawaiiSchemeAARealigned.png">
+         <img alt="" class="thumbimage" data-file-height="634" data-file-width="991" height="141" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/MGRSgridHawaiiSchemeAARealigned.png/220px-MGRSgridHawaiiSchemeAARealigned.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/MGRSgridHawaiiSchemeAARealigned.png/330px-MGRSgridHawaiiSchemeAARealigned.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a5/MGRSgridHawaiiSchemeAARealigned.png/440px-MGRSgridHawaiiSchemeAARealigned.png 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:MGRSgridHawaiiSchemeAARealigned.png" title="Enlarge">
+          </a>
+         </div>
+         Figure 2. The MGRS grid around Hawaii. Honolulu is in the 10 km square that is called 4QFJ15.
+        </div>
+       </div>
+      </div>
+      <h2>
+       <span class="mw-headline" id="Numerical_location">
+        Numerical location
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Military_Grid_Reference_System&amp;action=edit&amp;section=3" title="Edit section: Numerical location">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       The third part of an MGRS coordinate is the
+       <i>
+        numerical location
+       </i>
+       within a 100,000 meter square, given as
+       <i>
+        n
+       </i>
+       +
+       <i>
+        n
+       </i>
+       digits, where
+       <i>
+        n
+       </i>
+       is 1, 2, 3, 4, or 5. If 5 + 5 digits is used, the first 5 digits give the easting in meters, measured from the left edge of the square, and the last 5 digits give the northing in meters, measured from the bottom edge of the square. The resolution in this case is 1 meter, so the MGRS coordinate would represent a 1-meter square, where the easting and northing are measured to its southwest corner. If a resolution of 10 meters is enough, the final digit of the easting and northing can be dropped, so that only 4 + 4 digits are used, representing a 10-meter square. If a 100-meter resolution is enough, 3 + 3 digits suffice; if a 1 km resolution is enough, 2 + 2 digits suffice; if 10 km resolution is enough, 1 + 1 digits suffice. 10 meter resolution (4 + 4 digits) is sufficient for many purposes, and is the NATO standard for specifying coordinates.
+      </p>
+      <p>
+       If we zoom in on Hawaii (figure 2), we see that the square that contains Honolulu, if we use 10 km resolution, would be written 4QFJ15.
+      </p>
+      <p>
+       If the grid zone or 100,000-meter square are clear from context, they can be dropped, and only the numerical location is specified. For example:
+      </p>
+      <ul>
+       <li>
+        If every position being located is within the same grid zone, only the 100,000-meter square and numerical location are specified.
+       </li>
+       <li>
+        If every position being located is within the same grid zone and 100,000-meter square, only the numerical location is specified.
+       </li>
+       <li>
+        However, even if every position being located is within a small area, but the area overlaps multiple 100,000-meter squares or grid zones, the entire grid reference is required.
+       </li>
+      </ul>
+      <p>
+       One always reads map coordinates from west to east first (easting), then from south to north (northing). Common mnemonics include "in the house, up the stairs", "left-to-right, bottom-to-top" and "Read Right Up".
+      </p>
+      <h3>
+       <span id="Truncate.2C_don.27t_round">
+       </span>
+       <span class="mw-headline" id="Truncate,_don't_round">
+        Truncate, don't round
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Military_Grid_Reference_System&amp;action=edit&amp;section=4" title="Edit section: Truncate, don't round">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       As mentioned above, when converting UTM coordinates to an MGRS grid reference, or when abbreviating an MGRS grid reference to lower precision, one should
+       <i>
+        truncate
+       </i>
+       the coordinates, not round. This has been controversial in the past, since the oldest specification, TM8358.1,
+       <sup class="reference" id="cite_ref-DMA8358_1_Chapter3_1-2">
+        <a href="#cite_note-DMA8358_1_Chapter3-1">
+         [1]
+        </a>
+       </sup>
+       used rounding, as did GEOTRANS
+       <sup class="reference" id="cite_ref-Geotrans_4-0">
+        <a href="#cite_note-Geotrans-4">
+         [4]
+        </a>
+       </sup>
+       before version 3.0. However, truncation is used in GEOTRANS since version 3.0, and in NGA Military Map Reading 201
+       <sup class="reference" id="cite_ref-Military_Map_Reading_201_3-2">
+        <a href="#cite_note-Military_Map_Reading_201-3">
+         [3]
+        </a>
+       </sup>
+       (page 5) and in the US Army Field Manual 3-25.26.
+       <sup class="reference" id="cite_ref-Field_Manual_3_25_26_5-0">
+        <a href="#cite_note-Field_Manual_3_25_26-5">
+         [5]
+        </a>
+       </sup>
+       The civilian version of MGRS,
+       <a class="mw-redirect" href="/wiki/USNG" title="USNG">
+        USNG
+       </a>
+       , also uses truncation.
+       <sup class="reference" id="cite_ref-Cavell_6-0">
+        <a href="#cite_note-Cavell-6">
+         [6]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Squares_that_cross_a_latitude_band_boundary">
+        Squares that cross a latitude band boundary
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Military_Grid_Reference_System&amp;action=edit&amp;section=5" title="Edit section: Squares that cross a latitude band boundary">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       The boundaries of the latitude bands are parallel circles (dashed black lines in figure 1), which do not coincide with the boundaries of the 100,000-meter squares (blue lines in figure 1). For example, at the boundary between grid zones 1P and 1Q, we find a 100,000-meter square BT, of which about two thirds is south of latitude 16° and therefore in grid zone 1P, while one third is north of 16° and therefore in 1Q. So, an MGRS grid reference for a position in BT should begin with 1PBT in the south part of BT, and with 1QBT in the north part of BT. At least, this is possible if the precision of the grid reference is enough to place the denoted area completely inside either 1P or 1Q.
+      </p>
+      <p>
+       But an MGRS grid reference can denote an area that crosses a latitude band boundary. For example, when describing the entire square BT, should it be called 1PBT or 1QBT? Or when describing the 1000-meter square BT8569, should it be called 1PBT8569 or 1QBT8569? In these cases, software that interprets an MGRS grid reference should accept both of the possible latitude band letters. A practical motivation was given in the release notes for GEOTRANS,
+       <sup class="reference" id="cite_ref-Geotrans_4-1">
+        <a href="#cite_note-Geotrans-4">
+         [4]
+        </a>
+       </sup>
+       Release 2.0.2, 1999:
+      </p>
+      <blockquote>
+       <p>
+        The MGRS module was changed to make the final latitude check on MGRS to UTM conversions sensitive to the precision of the input MGRS coordinate string. The lower the input precision, the more "slop" is allowed in the final check on the latitude zone letter. This is to handle an issue raised by some F-16 pilots, who truncate MGRS strings that they receive from the Army. This truncation can put them on the wrong side of a latitude zone boundary, causing the truncated MGRS string to be considered invalid. The correction causes truncated strings to be considered valid if any part of the square which they denote lies within the latitude zone specified by the third letter of the string.
+       </p>
+      </blockquote>
+      <h2>
+       <span class="mw-headline" id="Polar_regions">
+        Polar regions
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Military_Grid_Reference_System&amp;action=edit&amp;section=6" title="Edit section: Polar regions">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:MGRSgridSouthPole.png">
+         <img alt="" class="thumbimage" data-file-height="1104" data-file-width="1469" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/MGRSgridSouthPole.png/220px-MGRSgridSouthPole.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/MGRSgridSouthPole.png/330px-MGRSgridSouthPole.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8f/MGRSgridSouthPole.png/440px-MGRSgridSouthPole.png 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:MGRSgridSouthPole.png" title="Enlarge">
+          </a>
+         </div>
+         Figure 3. The MGRS grid around the South Pole.
+        </div>
+       </div>
+      </div>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:MGRSgridNorthPole.png">
+         <img alt="" class="thumbimage" data-file-height="1372" data-file-width="1846" height="164" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/MGRSgridNorthPole.png/220px-MGRSgridNorthPole.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/MGRSgridNorthPole.png/330px-MGRSgridNorthPole.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bf/MGRSgridNorthPole.png/440px-MGRSgridNorthPole.png 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:MGRSgridNorthPole.png" title="Enlarge">
+          </a>
+         </div>
+         Figure 4. The MGRS grid around the North Pole.
+        </div>
+       </div>
+      </div>
+      <p>
+       In the polar regions, a different convention is used.
+       <sup class="reference" id="cite_ref-Appendix_B_7-0">
+        <a href="#cite_note-Appendix_B-7">
+         [7]
+        </a>
+       </sup>
+       South of 80°S, UPS South (
+       <a class="mw-redirect" href="/wiki/Universal_Polar_Stereographic" title="Universal Polar Stereographic">
+        Universal Polar Stereographic
+       </a>
+       ) is used instead of a UTM projection. The west half-circle forms a grid zone with designation A; the east half-circle forms one with designation B; see figure 3. North of 84°N, UPS North is used, and the west half-circle is Y, the east one is Z; see figure 4. Since the letters A, B, Y, and Z are not used for any latitude bands of UTM, their presence in an MGRS coordinate, with the omission of a zone number, indicates that the coordinates are in the UPS system.
+      </p>
+      <p>
+       The lettering scheme for 100,000 m squares is slightly different in the polar regions. The column letters use a more restricted alphabet, going from A to Z but omitting D, E, I, M, N, O, V, W; the columns are arranged so that the rightmost column in grid zone A and Y has column letter Z, and the next column in grid zone B or Z starts over with column letter A. The row letters go from A to Z, omitting I and O. The restricted column alphabet for UPS ensures that no UPS square will be adjacent to a UTM square with the same identification.
+      </p>
+      <p>
+       In the polar regions, there is only one version of the lettering scheme.
+       <sup class="reference" id="cite_ref-Appendix_B_7-1">
+        <a href="#cite_note-Appendix_B-7">
+         [7]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="See_also">
+        See also
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Military_Grid_Reference_System&amp;action=edit&amp;section=7" title="Edit section: See also">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       There are other geographic naming systems of this alphanumeric kind:
+      </p>
+      <ul>
+       <li>
+        <a href="/wiki/Global_Area_Reference_System" title="Global Area Reference System">
+         Global Area Reference System
+        </a>
+        (GARS) has been adopted by the
+        <a href="/wiki/National_Geospatial-Intelligence_Agency" title="National Geospatial-Intelligence Agency">
+         National Geospatial-Intelligence Agency
+        </a>
+        for use across the
+        <a href="/wiki/United_States_Department_of_Defense" title="United States Department of Defense">
+         Department of Defense
+        </a>
+        for certain applications. GARS defines areas of 30x30, 15x15, and no smaller than 5x5 minutes of latitude and longitude.
+       </li>
+       <li>
+        <a href="/wiki/Ordnance_Survey_National_Grid" title="Ordnance Survey National Grid">
+         Ordnance Survey National Grid
+        </a>
+        is another Transverse Mercator system designed for locations in the British Isles
+       </li>
+       <li>
+        <a class="new" href="/w/index.php?title=Irish_Transfer_Mercator&amp;action=edit&amp;redlink=1" title="Irish Transfer Mercator (page does not exist)">
+         Irish Transfer Mercator
+        </a>
+        has replaced the
+        <a href="/wiki/Irish_grid_reference_system" title="Irish grid reference system">
+         Irish grid reference system
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/United_States_National_Grid" title="United States National Grid">
+         United States National Grid
+        </a>
+        (USNG), developed by the
+        <a href="/wiki/Federal_Geographic_Data_Committee" title="Federal Geographic Data Committee">
+         Federal Geographic Data Committee
+        </a>
+        .
+       </li>
+       <li>
+        <a href="/wiki/World_Geographic_Reference_System" title="World Geographic Reference System">
+         World Geographic Reference System
+        </a>
+        (GEOREF) has been used for air navigation, but is rarely seen today.
+       </li>
+       <li>
+        <a href="/wiki/Maidenhead_Locator_System" title="Maidenhead Locator System">
+         Maidenhead Locator System
+        </a>
+        is used by amateur radio operators.
+       </li>
+       <li>
+        A modification of the Military Grid Reference System is used by the
+        <a class="external text" href="https://www.luomus.fi/en/grids-mapping-atlas-florae-europaeae" rel="nofollow">
+         Atlas Florae Europaeae
+        </a>
+        for mapping the distribution of
+        <a class="mw-redirect" href="/wiki/Vascular_plants" title="Vascular plants">
+         vascular plants
+        </a>
+        in Europe.
+       </li>
+       <li>
+        <a href="/wiki/Natural_Area_Code" title="Natural Area Code">
+         Natural Area Code
+        </a>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="References">
+        References
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Military_Grid_Reference_System&amp;action=edit&amp;section=8" title="Edit section: References">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="reflist" style="list-style-type: decimal;">
+       <div class="mw-references-wrap">
+        <ol class="references">
+         <li id="cite_note-DMA8358_1_Chapter3-1">
+          <span class="mw-cite-backlink">
+           ^
+           <a href="#cite_ref-DMA8358_1_Chapter3_1-0">
+            <sup>
+             <i>
+              <b>
+               a
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-DMA8358_1_Chapter3_1-1">
+            <sup>
+             <i>
+              <b>
+               b
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-DMA8358_1_Chapter3_1-2">
+            <sup>
+             <i>
+              <b>
+               c
+              </b>
+             </i>
+            </sup>
+           </a>
+          </span>
+          <span class="reference-text">
+           <a class="external text" href="http://earth-info.nga.mil/GandG/publications/tm8358.1/tr83581b.html#ZZ26" rel="nofollow">
+            DMA Technical Manual 8358.1, Chapter 3.
+           </a>
+           Datums, Ellipsoids, Grids, and Grid Reference Systems
+          </span>
+         </li>
+         <li id="cite_note-MGRS_Final_Guidance-2">
+          <span class="mw-cite-backlink">
+           ^
+           <a href="#cite_ref-MGRS_Final_Guidance_2-0">
+            <sup>
+             <i>
+              <b>
+               a
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-MGRS_Final_Guidance_2-1">
+            <sup>
+             <i>
+              <b>
+               b
+              </b>
+             </i>
+            </sup>
+           </a>
+          </span>
+          <span class="reference-text">
+           <a class="external text" href="http://earth-info.nga.mil/GandG/coordsys/MGRS_Final_Guidance.doc" rel="nofollow">
+            NGA Guidance for the Military Grid Reference System (MGRS).
+           </a>
+          </span>
+         </li>
+         <li id="cite_note-Military_Map_Reading_201-3">
+          <span class="mw-cite-backlink">
+           ^
+           <a href="#cite_ref-Military_Map_Reading_201_3-0">
+            <sup>
+             <i>
+              <b>
+               a
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-Military_Map_Reading_201_3-1">
+            <sup>
+             <i>
+              <b>
+               b
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-Military_Map_Reading_201_3-2">
+            <sup>
+             <i>
+              <b>
+               c
+              </b>
+             </i>
+            </sup>
+           </a>
+          </span>
+          <span class="reference-text">
+           <a class="external text" href="http://earth-info.nga.mil/GandG/coordsys/mmr201.pdf" rel="nofollow">
+            Military Map Reading 201
+           </a>
+           , published by
+           <a href="/wiki/National_Geospatial-Intelligence_Agency" title="National Geospatial-Intelligence Agency">
+            NGA
+           </a>
+          </span>
+         </li>
+         <li id="cite_note-Geotrans-4">
+          <span class="mw-cite-backlink">
+           ^
+           <a href="#cite_ref-Geotrans_4-0">
+            <sup>
+             <i>
+              <b>
+               a
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-Geotrans_4-1">
+            <sup>
+             <i>
+              <b>
+               b
+              </b>
+             </i>
+            </sup>
+           </a>
+          </span>
+          <span class="reference-text">
+           <a class="external text" href="http://earth-info.nga.mil/GandG/geotrans/index.html" rel="nofollow">
+            GEOTRANS
+           </a>
+           Geographic Translator software and source code from the US National Geospatial-Intelligence Agency.
+          </span>
+         </li>
+         <li id="cite_note-Field_Manual_3_25_26-5">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-Field_Manual_3_25_26_5-0">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <a class="external text" href="http://www.globalsecurity.org/military/library/policy/army/fm/3-25-26/index.html" rel="nofollow">
+            Map Reading and Land Navigation
+           </a>
+           , U.S. Army Field Manual No. 3-25.26 (see section 4-6).
+          </span>
+         </li>
+         <li id="cite_note-Cavell-6">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-Cavell_6-0">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           J. Anthony Cavell,
+           <a class="external text" href="http://www.amerisurv.com/PDF/TheAmericanSurveyor_USNationalGrid-Cavell_June2005.pdf" rel="nofollow">
+            USNG: Getting it right the first time
+           </a>
+           .
+           <i>
+            The American Surveyor,
+           </i>
+           June 2005.
+          </span>
+         </li>
+         <li id="cite_note-Appendix_B-7">
+          <span class="mw-cite-backlink">
+           ^
+           <a href="#cite_ref-Appendix_B_7-0">
+            <sup>
+             <i>
+              <b>
+               a
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-Appendix_B_7-1">
+            <sup>
+             <i>
+              <b>
+               b
+              </b>
+             </i>
+            </sup>
+           </a>
+          </span>
+          <span class="reference-text">
+           <a class="external text" href="http://earth-info.nga.mil/GandG/publications/tm8358.1/tr83581f.html" rel="nofollow">
+            DMA Technical Manual 8358.1, Appendix B.
+           </a>
+           Datums, Ellipsoids, Grids, and Grid Reference Systems.
+          </span>
+         </li>
+        </ol>
+       </div>
+      </div>
+      <h2>
+       <span class="mw-headline" id="External_links">
+        External links
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Military_Grid_Reference_System&amp;action=edit&amp;section=9" title="Edit section: External links">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+       <tr>
+        <td class="mbox-image">
+         <img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/>
+        </td>
+        <td class="mbox-text plainlist">
+         Wikimedia Commons has media related to
+         <i>
+          <b>
+           <a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Military_Grid_Reference_System" title="commons:Category:Military Grid Reference System">
+            Military Grid Reference System
+           </a>
+          </b>
+         </i>
+         .
+        </td>
+       </tr>
+      </table>
+      <ul>
+       <li>
+        <a class="external text" href="http://www.colorado.edu/geography/gcraft/notes/coordsys/coordsys_f.html" rel="nofollow">
+         A list of coordinate systems
+        </a>
+        – by Prof. Peter H. Dana at the Univ. of Colorado
+       </li>
+       <li>
+        <a class="external text" href="http://earth-info.nga.mil/GandG/coordsys/grids/referencesys.html" rel="nofollow">
+         Grids and Reference Systems
+        </a>
+        , by
+        <a href="/wiki/National_Geospatial-Intelligence_Agency" title="National Geospatial-Intelligence Agency">
+         NGA
+        </a>
+        .
+       </li>
+       <li>
+        <a class="external text" href="http://geographiclib.sourceforge.net" rel="nofollow">
+         GeographicLib
+        </a>
+        provides a utility GeoConvert (with source code) for conversions between geographic,
+        <a class="mw-redirect" href="/wiki/Universal_Transverse_Mercator" title="Universal Transverse Mercator">
+         UTM
+        </a>
+        ,
+        <a class="mw-redirect" href="/wiki/Universal_Polar_Stereographic" title="Universal Polar Stereographic">
+         UPS
+        </a>
+        , and MGRS. Here is an
+        <a class="external text" href="http://geographiclib.sourceforge.net/cgi-bin/GeoConvert" rel="nofollow">
+         online version of GeoConvert
+        </a>
+        .
+       </li>
+       <li>
+        Army Study Guide:
+        <a class="external text" href="http://www.armystudyguide.com/content/Prep_For_Basic_Training/Prep_for_basic_land_navigation/locate-a-point-using-the-.shtml" rel="nofollow">
+         Locate a point using the US Army Military Grid Reference System (MGRS)
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://www.maps.pixelis.es/" rel="nofollow">
+         Web application to locate GPS coordinates in MGRS, UTM, DMS and decimal format
+        </a>
+        <span class="languageicon">
+         (in Spanish)
+        </span>
+       </li>
+       <li>
+        <a class="external text" href="http://www.mappingsupport.com/p/gmap4.php?usng=4QFJ12345678&amp;z=7&amp;t=t1" rel="nofollow">
+         Gmap4
+        </a>
+        , an enhanced Google map viewer with a MGRS grid and more.
+       </li>
+      </ul>
+      <div style="clear:both;">
+      </div>
+      <div aria-labelledby="Geocoding_systems" class="navbox" role="navigation" style="padding:3px">
+       <table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tr>
+         <th class="navbox-title" colspan="2" scope="col">
+          <div class="plainlinks hlist navbar mini">
+           <ul>
+            <li class="nv-view">
+             <a href="/wiki/Template:Geocoding-systems" title="Template:Geocoding-systems">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">
+               v
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-talk">
+             <a class="new" href="/w/index.php?title=Template_talk:Geocoding-systems&amp;action=edit&amp;redlink=1" title="Template talk:Geocoding-systems (page does not exist)">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">
+               t
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-edit">
+             <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Geocoding-systems&amp;action=edit">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">
+               e
+              </abbr>
+             </a>
+            </li>
+           </ul>
+          </div>
+          <div id="Geocoding_systems" style="font-size:114%;margin:0 4em">
+           <a href="/wiki/List_of_geocoding_systems" title="List of geocoding systems">
+            Geocoding systems
+           </a>
+          </div>
+         </th>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          Administrative codes
+         </th>
+         <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Hierarchical_administrative_subdivision_codes" title="Hierarchical administrative subdivision codes">
+              HASC
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Nomenclature_of_Territorial_Units_for_Statistics" title="Nomenclature of Territorial Units for Statistics">
+              NUTS
+             </a>
+             (EU)
+            </li>
+            <li>
+             <a href="/wiki/ONS_coding_system" title="ONS coding system">
+              ONS
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/MARC_standards" title="MARC standards">
+              MARC country codes
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Standard_Geographical_Classification_code_(Canada)" title="Standard Geographical Classification code (Canada)">
+              SGC codes
+             </a>
+             (Canada)
+            </li>
+            <li>
+             <a href="/wiki/UN_M.49" title="UN M.49">
+              UN M.49
+             </a>
+             (UN)
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          Airport codes
+         </th>
+         <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a class="mw-redirect" href="/wiki/International_Air_Transport_Association_airport_code" title="International Air Transport Association airport code">
+              IATA airport code
+             </a>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/International_Civil_Aviation_Organization_airport_code" title="International Civil Aviation Organization airport code">
+              ICAO airport code
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          Country codes
+         </th>
+         <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Country_code_top-level_domain" title="Country code top-level domain">
+              IANA country code
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/ISO_3166-1" title="ISO 3166-1">
+              ISO 3166-1
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/ISO_3166-1_alpha-2" title="ISO 3166-1 alpha-2">
+                alpha-2
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/ISO_3166-1_alpha-3" title="ISO 3166-1 alpha-3">
+                alpha-3
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/ISO_3166-1_numeric" title="ISO 3166-1 numeric">
+                numeric
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/List_of_IOC_country_codes" title="List of IOC country codes">
+              IOC country code
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/List_of_FIFA_country_codes" title="List of FIFA country codes">
+              FIFA country code
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          Geodesic
+          <br/>
+          place codes
+         </th>
+         <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+          </div>
+          <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+           <tr>
+            <th class="navbox-group" scope="row" style="width:1%">
+             Global
+            </th>
+            <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <a href="/wiki/Geohash" title="Geohash">
+                 Geohash
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Geohash-36" title="Geohash-36">
+                 Geohash-36
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/World_Geographic_Reference_System" title="World Geographic Reference System">
+                 GEOREF
+                </a>
+               </li>
+               <li>
+                Geotude
+               </li>
+               <li>
+                SALB
+               </li>
+               <li>
+                <a href="/wiki/Marsden_square" title="Marsden square">
+                 Marsden square
+                </a>
+               </li>
+               <li>
+                <a class="mw-selflink selflink">
+                 Military Grid Reference System
+                </a>
+               </li>
+               <li>
+                Munich Orientation Convention
+               </li>
+               <li>
+                <a href="/wiki/Natural_Area_Code" title="Natural Area Code">
+                 Natural Area Code
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Open_Location_Code" title="Open Location Code">
+                 Open Location Code
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/QDGC" title="QDGC">
+                 QDGC
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/UN/LOCODE" title="UN/LOCODE">
+                 UN/LOCODE
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Universal_Transverse_Mercator_coordinate_system" title="Universal Transverse Mercator coordinate system">
+                 UTM
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/What3words" title="What3words">
+                 what3words
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/World_Meteorological_Organization_squares" title="World Meteorological Organization squares">
+                 WMO squares
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+           <tr>
+            <th class="navbox-group" scope="row" style="width:1%">
+             North America
+            </th>
+            <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <a href="/wiki/List_of_FIPS_country_codes" title="List of FIPS country codes">
+                 FIPS country code
+                </a>
+                (FIPS 10-4)
+               </li>
+               <li>
+                <a href="/wiki/Federal_Information_Processing_Standards" title="Federal Information Processing Standards">
+                 FIPS place code
+                </a>
+                (FIPS 55)
+               </li>
+               <li>
+                <a href="/wiki/FIPS_county_code" title="FIPS county code">
+                 FIPS county code
+                </a>
+                (FIPS 6-4)
+               </li>
+               <li>
+                <a href="/wiki/Federal_Information_Processing_Standard_state_code" title="Federal Information Processing Standard state code">
+                 FIPS state code
+                </a>
+                (FIPS 5-2)
+               </li>
+               <li>
+                <a href="/wiki/Standard_Geographical_Classification_code_(Canada)" title="Standard Geographical Classification code (Canada)">
+                 SGC codes
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+          </table>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          <a href="/wiki/Postal_code" title="Postal code">
+           Postal codes
+          </a>
+         </th>
+         <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Natural_Area_Code" title="Natural Area Code">
+              Natural Area Code
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Postal_Index_Number" title="Postal Index Number">
+              Postal Index Number
+             </a>
+             (India)
+            </li>
+            <li>
+             <a href="/wiki/ZIP_Code" title="ZIP Code">
+              ZIP Code
+             </a>
+             (United States)
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          Telephony
+         </th>
+         <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/List_of_ITU_letter_codes" title="List of ITU letter codes">
+              ITU-R country codes
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/List_of_country_calling_codes" title="List of country calling codes">
+              ITU-T country calling codes
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Mobile_country_code" title="Mobile country code">
+              ITU-T mobile calling codes
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          Radio broadcasting
+         </th>
+         <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Maidenhead_Locator_System" title="Maidenhead Locator System">
+              Maidenhead Locator System
+             </a>
+            </li>
+            <li>
+             Historical :
+             <a href="/wiki/QRA_locator" title="QRA locator">
+              QRA locator
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          Sport
+         </th>
+         <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/List_of_IOC_country_codes" title="List of IOC country codes">
+              IOC country codes
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/List_of_FIFA_country_codes" title="List of FIFA country codes">
+              FIFA country codes
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+       </table>
+      </div>
+      <!-- 
+NewPP limit report
+Parsed by mw1321
+Cached time: 20180115223947
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.192 seconds
+Real time usage: 0.262 seconds
+Preprocessor visited node count: 741/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 47204/2097152 bytes
+Template argument size: 1714/2097152 bytes
+Highest expansion depth: 10/40
+Expensive parser function count: 1/500
+Lua time usage: 0.064/10.000 seconds
+Lua memory usage: 2.7 MB/50 MB
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  199.041      1 -total
+ 24.41%   48.589      1 Template:Geodesy
+ 22.86%   45.496      1 Template:Sidebar
+ 20.34%   40.482      2 Template:Convert
+ 15.49%   30.828      1 Template:Es_icon
+ 14.96%   29.778      1 Template:Link_language
+ 14.18%   28.231      1 Template:Commonscat
+  9.77%   19.444      1 Template:Category_handler
+  7.63%   15.191      1 Template:Geocoding-systems
+  7.53%   14.992      2 Template:Navbox
+-->
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:1516323-0!canonical and timestamp 20180115223946 and revision id 819354278
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Military_Grid_Reference_System&amp;oldid=819354278">
+      https://en.wikipedia.org/w/index.php?title=Military_Grid_Reference_System&amp;oldid=819354278
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Geographic_coordinate_systems" title="Category:Geographic coordinate systems">
+         Geographic coordinate systems
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Military_cartography" title="Category:Military cartography">
+         Military cartography
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Geodesy" title="Category:Geodesy">
+         Geodesy
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:Articles_with_Spanish-language_external_links" title="Category:Articles with Spanish-language external links">
+         Articles with Spanish-language external links
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Military+Grid+Reference+System" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Military+Grid+Reference+System" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Military_Grid_Reference_System" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Military_Grid_Reference_System" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="collapsible selected" id="ca-view">
+        <span>
+         <a href="/wiki/Military_Grid_Reference_System">
+          Read
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Military_Grid_Reference_System&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Military_Grid_Reference_System&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Military_Grid_Reference_System" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Military_Grid_Reference_System" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Military_Grid_Reference_System&amp;oldid=819354278" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Military_Grid_Reference_System&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1922471" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Military_Grid_Reference_System&amp;id=819354278" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Military+Grid+Reference+System">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Military+Grid+Reference+System&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Military_Grid_Reference_System&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+     <h3 id="p-wikibase-otherprojects-label">
+      In other projects
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="wb-otherproject-link wb-otherproject-commons">
+        <a href="https://commons.wikimedia.org/wiki/Category:Military_Grid_Reference_System" hreflang="en">
+         Wikimedia Commons
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-cs">
+        <a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/MGRS" hreflang="cs" lang="cs" title="MGRS – Czech">
+         Čeština
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/UTM-Referenzsystem" hreflang="de" lang="de" title="UTM-Referenzsystem – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Syst%C3%A8me_de_r%C3%A9f%C3%A9rence_de_carroyage_militaire" hreflang="fr" lang="fr" title="Système de référence de carroyage militaire – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-id">
+        <a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Military_grid_reference_system" hreflang="id" lang="id" title="Military grid reference system – Indonesian">
+         Bahasa Indonesia
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nl">
+        <a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Military_grid_reference_system" hreflang="nl" lang="nl" title="Military grid reference system – Dutch">
+         Nederlands
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-no">
+        <a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Military_grid_reference_system" hreflang="no" lang="no" title="Military grid reference system – Norwegian">
+         Norsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fi">
+        <a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/MGRS" hreflang="fi" lang="fi" title="MGRS – Finnish">
+         Suomi
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sv">
+        <a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Military_Grid_Reference_System" hreflang="sv" lang="sv" title="Military Grid Reference System – Swedish">
+         Svenska
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1922471#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 8 January 2018, at 22:33.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Military_Grid_Reference_System&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.192","walltime":"0.262","ppvisitednodes":{"value":741,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":47204,"limit":2097152},"templateargumentsize":{"value":1714,"limit":2097152},"expansiondepth":{"value":10,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  199.041      1 -total"," 24.41%   48.589      1 Template:Geodesy"," 22.86%   45.496      1 Template:Sidebar"," 20.34%   40.482      2 Template:Convert"," 15.49%   30.828      1 Template:Es_icon"," 14.96%   29.778      1 Template:Link_language"," 14.18%   28.231      1 Template:Commonscat","  9.77%   19.444      1 Template:Category_handler","  7.63%   15.191      1 Template:Geocoding-systems","  7.53%   14.992      2 Template:Navbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.064","limit":"10.000"},"limitreport-memusage":{"value":2830932,"limit":52428800}},"cachereport":{"origin":"mw1321","timestamp":"20180115223947","ttl":1900800,"transientcontent":false}}});});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":86,"wgHostname":"mw1324"});});
+  </script>
+ </body>
+</html>

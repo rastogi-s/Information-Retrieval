@@ -1,0 +1,1765 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   North American Datum - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"North_American_Datum","wgTitle":"North American Datum","wgCurRevisionId":822865008,"wgRevisionId":822865008,"wgArticleId":5576472,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from September 2010","All articles needing additional references","Use dmy dates from September 2010","Geodetic datums","Map projections"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"North_American_Datum","wgRelevantArticleId":5576472,"wgRequestId":"WnFTyQpAICAAAJxA8XMAAACJ","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"NAD83","wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgInternalRedirectTargetUrl":"/wiki/North_American_Datum#North_American_Datum_of_1983","wgWikibaseItemId":"Q993433","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["mediawiki.action.view.redirect","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.31.0-wmf.17" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <meta content="https://upload.wikimedia.org/wikipedia/commons/9/92/Meade_Ranch_triangulation_station_ca._1940.jpg" property="og:image"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/North_American_Datum#North_American_Datum_of_1983" rel="alternate"/>
+  <link href="/w/index.php?title=North_American_Datum&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=North_American_Datum&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/North_American_Datum#North_American_Datum_of_1983" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-North_American_Datum rootpage-North_American_Datum skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    North American Datum
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+     <span class="mw-redirectedfrom">
+      (Redirected from
+      <a class="mw-redirect" href="/w/index.php?title=NAD83&amp;redirect=no" title="NAD83">
+       NAD83
+      </a>
+      )
+     </span>
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+       <tr>
+        <td class="mbox-image">
+         <div style="width:52px">
+          <a class="image" href="/wiki/File:Question_book-new.svg">
+           <img alt="" data-file-height="399" data-file-width="512" height="39" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" width="50"/>
+          </a>
+         </div>
+        </td>
+        <td class="mbox-text">
+         <div class="mbox-text-span">
+          This article
+          <b>
+           needs additional citations for
+           <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">
+            verification
+           </a>
+          </b>
+          .
+          <span class="hide-when-compact">
+           Please help
+           <a class="external text" href="//en.wikipedia.org/w/index.php?title=North_American_Datum&amp;action=edit">
+            improve this article
+           </a>
+           by
+           <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">
+            adding citations to reliable sources
+           </a>
+           . Unsourced material may be challenged and removed.
+          </span>
+          <small>
+           <i>
+            (September 2010)
+           </i>
+          </small>
+          <small class="hide-when-compact">
+           <i>
+            (
+            <a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">
+             Learn how and when to remove this template message
+            </a>
+            )
+           </i>
+          </small>
+         </div>
+        </td>
+       </tr>
+      </table>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:Meade_Ranch_triangulation_station_ca._1940.jpg">
+         <img alt="" class="thumbimage" data-file-height="880" data-file-width="808" height="240" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Meade_Ranch_triangulation_station_ca._1940.jpg/220px-Meade_Ranch_triangulation_station_ca._1940.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Meade_Ranch_triangulation_station_ca._1940.jpg/330px-Meade_Ranch_triangulation_station_ca._1940.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/92/Meade_Ranch_triangulation_station_ca._1940.jpg/440px-Meade_Ranch_triangulation_station_ca._1940.jpg 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Meade_Ranch_triangulation_station_ca._1940.jpg" title="Enlarge">
+          </a>
+         </div>
+         <a href="/wiki/Meades_Ranch_Triangulation_Station" title="Meades Ranch Triangulation Station">
+          Meades Ranch Triangulation Station
+         </a>
+         , fundamental station for the North American Datum of 1927
+        </div>
+       </div>
+      </div>
+      <table class="vertical-navbox nowraplinks plainlist" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+       <tr>
+        <th style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em;padding-bottom:0.4em;">
+         <a href="/wiki/Geodesy" title="Geodesy">
+          Geodesy
+         </a>
+        </th>
+       </tr>
+       <tr>
+        <td style="padding:0.2em 0 0.4em">
+         <a class="image" href="/wiki/File:Azimutalprojektion-schief_kl-cropped.png">
+          <img alt="Azimutalprojektion-schief kl-cropped.png" data-file-height="240" data-file-width="242" height="149" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Azimutalprojektion-schief_kl-cropped.png/150px-Azimutalprojektion-schief_kl-cropped.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Azimutalprojektion-schief_kl-cropped.png/225px-Azimutalprojektion-schief_kl-cropped.png 1.5x, //upload.wikimedia.org/wikipedia/commons/4/4c/Azimutalprojektion-schief_kl-cropped.png 2x" width="150"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <th style="padding:0.1em;background:#c5d5a5;">
+         Fundamentals
+        </th>
+       </tr>
+       <tr>
+        <td style="padding:0 0.1em 0.4em;padding-top:0.2em;padding-bottom:0.7em;">
+         <div class="hlist">
+          <ul>
+           <li>
+            <a href="/wiki/Geodesy" title="Geodesy">
+             Geodesy
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Geodynamics" title="Geodynamics">
+             Geodynamics
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Geomatics" title="Geomatics">
+             Geomatics
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Cartography" title="Cartography">
+             Cartography
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/History_of_geodesy" title="History of geodesy">
+             History
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr>
+        <th style="padding:0.1em;background:#c5d5a5;">
+         Concepts
+        </th>
+       </tr>
+       <tr>
+        <td style="padding:0 0.1em 0.4em;padding-top:0.2em;padding-bottom:0.7em;">
+         <div class="hlist">
+          <ul>
+           <li>
+            <a href="/wiki/Geographical_distance" title="Geographical distance">
+             Geographical distance
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Geoid" title="Geoid">
+             Geoid
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Figure_of_the_Earth" title="Figure of the Earth">
+             Figure of the Earth
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Geodetic_datum" title="Geodetic datum">
+             Geodetic datum
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Geodesic" title="Geodesic">
+             Geodesic
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">
+             Geographic coordinate system
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Horizontal_position_representation" title="Horizontal position representation">
+             Horizontal position representation
+            </a>
+           </li>
+           <li>
+            <span class="nowrap">
+             <a href="/wiki/Latitude" title="Latitude">
+              Latitude
+             </a>
+             /
+             <a href="/wiki/Longitude" title="Longitude">
+              Longitude
+             </a>
+            </span>
+           </li>
+           <li>
+            <a href="/wiki/Map_projection" title="Map projection">
+             Map projection
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Reference_ellipsoid" title="Reference ellipsoid">
+             Reference ellipsoid
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Satellite_geodesy" title="Satellite geodesy">
+             Satellite geodesy
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Spatial_reference_system" title="Spatial reference system">
+             Spatial reference system
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr>
+        <th style="padding:0.1em;background:#c5d5a5;">
+         Technologies
+        </th>
+       </tr>
+       <tr>
+        <td style="padding:0 0.1em 0.4em;padding-top:0.2em;padding-bottom:0.7em;">
+         <ul>
+          <li>
+           <a href="/wiki/Satellite_navigation" title="Satellite navigation">
+            Global Navigation Satellite System (GNSS)
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Global_Positioning_System" title="Global Positioning System">
+            Global Positioning System (GPS)
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/GLONASS" title="GLONASS">
+            GLONASS
+            <span style="font-size:90%;">
+             (Russian)
+            </span>
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/BeiDou_Navigation_Satellite_System" title="BeiDou Navigation Satellite System">
+            BeiDou (BDS)
+            <span style="font-size:90%;">
+             (Chinese)
+            </span>
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Galileo_(satellite_navigation)" title="Galileo (satellite navigation)">
+            Galileo
+            <span style="font-size:90%;">
+             (European)
+            </span>
+           </a>
+          </li>
+          <li>
+           <div style="padding:0.2em 0.4em; line-height:1.2em;">
+            <a href="/wiki/Indian_Regional_Navigation_Satellite_System" title="Indian Regional Navigation Satellite System">
+             Indian Regional Navigation
+             <br/>
+             Satellite System (IRNSS)
+             <span style="font-size:90%;">
+              (India)
+             </span>
+            </a>
+           </div>
+          </li>
+          <li>
+           <a href="/wiki/Quasi-Zenith_Satellite_System" title="Quasi-Zenith Satellite System">
+            Quasi-Zenith Satellite System (QZSS)
+            <span style="font-size:90%;">
+             (Japan)
+            </span>
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Legenda_(satellite_system)" title="Legenda (satellite system)">
+            Legenda (satellite system)
+           </a>
+          </li>
+         </ul>
+        </td>
+       </tr>
+       <tr>
+        <th style="padding:0.1em;background:#c5d5a5;">
+         Standards (
+         <a href="/wiki/History_of_geodesy" title="History of geodesy">
+          History
+         </a>
+         )
+        </th>
+       </tr>
+       <tr>
+        <td style="padding:0 0.1em 0.4em;padding-top:0.2em;padding-bottom:0.7em;">
+         <table class="nowrap" style="width:100%;border-collapse:collapse;border-spacing:0px 0px;border:none;line-height:1.2em;">
+          <tr style="vertical-align:top">
+           <td style="text-align:left;padding-left:0.5em;">
+            <a href="/wiki/Sea_Level_Datum_of_1929" title="Sea Level Datum of 1929">
+             NGVD 29
+            </a>
+           </td>
+           <td style="text-align:right;font-size:90%;padding-right:0.55em;">
+            Sea Level Datum 1929
+           </td>
+          </tr>
+          <tr style="vertical-align:top">
+           <td style="text-align:left;padding-left:0.5em;">
+            <a class="mw-redirect" href="/wiki/OSGB36" title="OSGB36">
+             OSGB36
+            </a>
+           </td>
+           <td style="text-align:right;font-size:90%;padding-right:0.55em;">
+            Ordnance Survey Great Britain 1936
+           </td>
+          </tr>
+          <tr style="vertical-align:top">
+           <td style="text-align:left;padding-left:0.5em;">
+            <a href="/wiki/SK-42_reference_system" title="SK-42 reference system">
+             SK-42
+            </a>
+           </td>
+           <td style="text-align:right;font-size:90%;padding-right:0.55em;">
+            Systema Koordinat 1942 goda
+           </td>
+          </tr>
+          <tr style="vertical-align:top">
+           <td style="text-align:left;padding-left:0.5em;">
+            <a href="/wiki/ED50" title="ED50">
+             ED50
+            </a>
+           </td>
+           <td style="text-align:right;font-size:90%;padding-right:0.55em;">
+            European Datum 1950
+           </td>
+          </tr>
+          <tr style="vertical-align:top">
+           <td style="text-align:left;padding-left:0.5em;">
+            <a href="/wiki/South_American_Datum#SAD69" title="South American Datum">
+             SAD69
+            </a>
+           </td>
+           <td style="text-align:right;font-size:90%;padding-right:0.55em;">
+            South American Datum 1969
+           </td>
+          </tr>
+          <tr style="vertical-align:top">
+           <td style="text-align:left;padding-left:0.5em;">
+            <a href="/wiki/GRS_80" title="GRS 80">
+             GRS 80
+            </a>
+           </td>
+           <td style="text-align:right;font-size:90%;padding-right:0.55em;">
+            Geodetic Reference System 1980
+           </td>
+          </tr>
+          <tr style="vertical-align:top">
+           <td style="text-align:left;padding-left:0.5em;">
+            <a href="/wiki/North_American_Datum#North_American_Datum_of_1983" title="North American Datum">
+             NAD 83
+            </a>
+           </td>
+           <td style="text-align:right;font-size:90%;padding-right:0.55em;">
+            North American Datum 1983
+           </td>
+          </tr>
+          <tr style="vertical-align:top">
+           <td style="text-align:left;padding-left:0.5em;">
+            <a href="/wiki/World_Geodetic_System" title="World Geodetic System">
+             WGS 84
+            </a>
+           </td>
+           <td style="text-align:right;font-size:90%;padding-right:0.55em;">
+            World Geodetic System 1984
+           </td>
+          </tr>
+          <tr style="vertical-align:top">
+           <td style="text-align:left;padding-left:0.5em;">
+            <a href="/wiki/North_American_Vertical_Datum_of_1988" title="North American Vertical Datum of 1988">
+             NAVD 88
+            </a>
+           </td>
+           <td style="text-align:right;font-size:90%;padding-right:0.55em;">
+            N. American Vertical Datum 1988
+           </td>
+          </tr>
+          <tr style="vertical-align:top">
+           <td style="text-align:left;padding-left:0.5em;">
+            <a href="/wiki/European_Terrestrial_Reference_System_1989" title="European Terrestrial Reference System 1989">
+             ETRS89
+            </a>
+           </td>
+           <td style="text-align:right;font-size:90%;padding-right:0.55em;">
+            European Terrestrial Reference
+            <br/>
+            System 1989
+           </td>
+          </tr>
+          <tr style="vertical-align:top">
+           <td style="text-align:left;padding-left:0.5em;">
+            <a href="/wiki/Restrictions_on_geographic_data_in_China" title="Restrictions on geographic data in China">
+             GCJ-02
+            </a>
+           </td>
+           <td style="text-align:right;font-size:90%;padding-right:0.55em;">
+            Chinese obfuscated datum 2002
+           </td>
+          </tr>
+         </table>
+         <ul>
+          <li>
+           <a href="/wiki/International_Terrestrial_Reference_System" title="International Terrestrial Reference System">
+            International Terrestrial Reference System
+           </a>
+          </li>
+          <li>
+           <a class="mw-redirect" href="/wiki/SRID" title="SRID">
+            Spatial Reference System Identifier (SRID)
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Universal_Transverse_Mercator_coordinate_system" title="Universal Transverse Mercator coordinate system">
+            Universal Transverse Mercator (UTM)
+           </a>
+          </li>
+         </ul>
+        </td>
+       </tr>
+       <tr>
+        <td style="text-align:right;font-size:115%">
+         <div class="plainlinks hlist navbar mini">
+          <ul>
+           <li class="nv-view">
+            <a href="/wiki/Template:Geodesy" title="Template:Geodesy">
+             <abbr title="View this template">
+              v
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-talk">
+            <a href="/wiki/Template_talk:Geodesy" title="Template talk:Geodesy">
+             <abbr title="Discuss this template">
+              t
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-edit">
+            <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Geodesy&amp;action=edit">
+             <abbr title="Edit this template">
+              e
+             </abbr>
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+      </table>
+      <p>
+       The
+       <b>
+        North American Datum
+       </b>
+       (
+       <b>
+        NAD
+       </b>
+       ) is the
+       <a class="mw-redirect" href="/wiki/Datum_(geodesy)" title="Datum (geodesy)">
+        datum
+       </a>
+       now used to define the
+       <a href="/wiki/Geodesy" title="Geodesy">
+        geodetic
+       </a>
+       network in North America. A datum is a formal description of the shape of the Earth along with an "anchor" point for the coordinate system. In
+       <a href="/wiki/Surveying" title="Surveying">
+        surveying
+       </a>
+       ,
+       <a href="/wiki/Cartography" title="Cartography">
+        cartography
+       </a>
+       , and
+       <a href="/wiki/Land-use_planning" title="Land-use planning">
+        land-use planning
+       </a>
+       , two North American Datums are in use: the North American Datum of 1927 (NAD 27) and the North American Datum of 1983 (NAD 83). Both are
+       <a class="mw-redirect" href="/wiki/Geodetic_reference_system" title="Geodetic reference system">
+        geodetic reference systems
+       </a>
+       based on slightly different assumptions and measurements.
+      </p>
+      <p>
+      </p>
+      <div class="toc" id="toc">
+       <div class="toctitle" dir="ltr" lang="en" xml:lang="en">
+        <h2>
+         Contents
+        </h2>
+       </div>
+       <ul>
+        <li class="toclevel-1 tocsection-1">
+         <a href="#First_North_American_Datum">
+          <span class="tocnumber">
+           1
+          </span>
+          <span class="toctext">
+           First North American Datum
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-2">
+         <a href="#North_American_Datum_of_1927">
+          <span class="tocnumber">
+           2
+          </span>
+          <span class="toctext">
+           North American Datum of 1927
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-3">
+         <a href="#North_American_Datum_of_1983">
+          <span class="tocnumber">
+           3
+          </span>
+          <span class="toctext">
+           North American Datum of 1983
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-4">
+         <a href="#Comparing_NAD_27_to_NAD_83">
+          <span class="tocnumber">
+           4
+          </span>
+          <span class="toctext">
+           Comparing NAD 27 to NAD 83
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-5">
+         <a href="#North_American_Datum_1983_and_WGS_84">
+          <span class="tocnumber">
+           5
+          </span>
+          <span class="toctext">
+           North American Datum 1983 and WGS 84
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-6">
+         <a href="#Latest_version_of_North_American_Datum">
+          <span class="tocnumber">
+           6
+          </span>
+          <span class="toctext">
+           Latest version of North American Datum
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-7">
+         <a href="#See_also">
+          <span class="tocnumber">
+           7
+          </span>
+          <span class="toctext">
+           See also
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-8">
+         <a href="#References">
+          <span class="tocnumber">
+           8
+          </span>
+          <span class="toctext">
+           References
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-9">
+         <a href="#External_links">
+          <span class="tocnumber">
+           9
+          </span>
+          <span class="toctext">
+           External links
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <p>
+      </p>
+      <h2>
+       <span class="mw-headline" id="First_North_American_Datum">
+        First North American Datum
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=North_American_Datum&amp;action=edit&amp;section=1" title="Edit section: First North American Datum">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       In 1901 the
+       <a href="/wiki/U.S._National_Geodetic_Survey" title="U.S. National Geodetic Survey">
+        United States Coast and Geodetic Survey
+       </a>
+       adopted a national horizontal datum called the United States Standard Datum, based on the
+       <a href="/wiki/Alexander_Ross_Clarke" title="Alexander Ross Clarke">
+        Clarke
+       </a>
+       <a href="/wiki/Earth_ellipsoid#Historical_Earth_ellipsoids" title="Earth ellipsoid">
+        Ellipsoid
+       </a>
+       of 1866. It was fitted to data previously collected for regional datums, which by that time had begun to overlap. In 1913, Canada and Mexico adopted that datum, so it was also renamed the North American Datum.
+       <sup class="reference" id="cite_ref-1">
+        <a href="#cite_note-1">
+         [1]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-2">
+        <a href="#cite_note-2">
+         [2]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="North_American_Datum_of_1927">
+        North American Datum of 1927
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=North_American_Datum&amp;action=edit&amp;section=2" title="Edit section: North American Datum of 1927">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       As more data were gathered, discrepancies appeared, so the datum was recomputed in 1927, using the same spheroid and origin as its predecessor.
+      </p>
+      <p>
+       The North American Datum of 1927 (NAD 27) was based on surveys of the entire continent from a common reference point that was chosen in 1901, because it was as near the center of the contiguous United States as could be calculated: It was based on a
+       <a href="/wiki/Triangulation_station" title="Triangulation station">
+        triangulation station
+       </a>
+       at the junction of the transcontinental triangulation arc of 1899 on the
+       <a href="/wiki/39th_parallel_north" title="39th parallel north">
+        39th parallel north
+       </a>
+       and the triangulation arc along the
+       <a href="/wiki/98th_meridian_west" title="98th meridian west">
+        98th meridian west
+       </a>
+       that was near the
+       <a href="/wiki/Geographic_center_of_the_contiguous_United_States" title="Geographic center of the contiguous United States">
+        geographic center of the contiguous United States
+       </a>
+       .
+       <sup class="reference" id="cite_ref-3">
+        <a href="#cite_note-3">
+         [3]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-4">
+        <a href="#cite_note-4">
+         [4]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-5">
+        <a href="#cite_note-5">
+         [5]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-6">
+        <a href="#cite_note-6">
+         [6]
+        </a>
+       </sup>
+       The datum declares the
+       <a href="/wiki/Meades_Ranch_Triangulation_Station" title="Meades Ranch Triangulation Station">
+        Meades Ranch Triangulation Station
+       </a>
+       to be 39°13′26.686″ north latitude, 98°32′30.506″ west longitude (
+       <a class="external text" href="http://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=kg0640" rel="nofollow">
+        NGS data
+       </a>
+       ). NAD 27 is oriented by declaring the
+       <a href="/wiki/Azimuth" title="Azimuth">
+        azimuth
+       </a>
+       from Meades Ranch to
+       <a class="external text" href="http://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=kg0648" rel="nofollow">
+        Waldo
+       </a>
+       to be 255°28′14.52″ from north. The latitude and longitude of every other point in North America is then based on its distance and direction from Meades Ranch: If a point was X meters in azimuth Y degrees from Meades Ranch, measured on the
+       <a href="/wiki/Alexander_Ross_Clarke" title="Alexander Ross Clarke">
+        Clarke
+       </a>
+       <a href="/wiki/Earth_ellipsoid#Historical_Earth_ellipsoids" title="Earth ellipsoid">
+        Ellipsoid
+       </a>
+       of 1866, then its latitude and longitude on that ellipsoid were defined and could be calculated.
+      </p>
+      <table border="1" cellspacing="0" style="text-align:center" width="cellpadding=3">
+       <tr>
+        <td bgcolor="#E0E0E0" height="24" style="line-height:1.4" width="96">
+         <b>
+          Ellipsoid
+         </b>
+        </td>
+        <td bgcolor="#E0E0E0" width="128">
+         <b>
+          Semimajor axis†
+         </b>
+        </td>
+        <td bgcolor="#E0E0E0" width="144">
+         <b>
+          Semiminor axis†
+         </b>
+        </td>
+        <td bgcolor="#E0E0E0" width="144">
+         <b>
+          Inverse flattening††
+         </b>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         Clarke 1866
+        </td>
+        <td>
+         6,378,206.4 m
+        </td>
+        <td>
+         6,356,583.8 m
+        </td>
+        <td>
+         294.978698214
+        </td>
+       </tr>
+      </table>
+      <p>
+       †By definition. ††Calculated.
+      </p>
+      <p>
+       These are the defining dimensions for NAD 27, but Clarke actually defined his 1866
+       <a href="/wiki/Spheroid" title="Spheroid">
+        spheroid
+       </a>
+       as
+       <i>
+        a
+       </i>
+       = 20,926,062 British feet,
+       <i>
+        b
+       </i>
+       = 20,855,121 British feet. The conversion to meters uses Clarke's 1865 inch-meter ratio of 39.370432. (The length of a foot or meter at the time could not practically be benchmarked to better than about 0.02 mm.)
+       <sup class="reference" id="cite_ref-7">
+        <a href="#cite_note-7">
+         [7]
+        </a>
+       </sup>
+      </p>
+      <p>
+       Most
+       <a href="/wiki/United_States_Geological_Survey" title="United States Geological Survey">
+        USGS
+       </a>
+       topographic maps were published in NAD 27 and many major projects by the United States Army Corps of Engineers and other agencies were defined in NAD 27, so the datum remains important, despite more refined datums being available.
+      </p>
+      <h2>
+       <span class="mw-headline" id="North_American_Datum_of_1983">
+        North American Datum of 1983
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=North_American_Datum&amp;action=edit&amp;section=3" title="Edit section: North American Datum of 1983">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       Because Earth deviates significantly from a perfect
+       <a href="/wiki/Reference_ellipsoid" title="Reference ellipsoid">
+        ellipsoid
+       </a>
+       , the ellipsoid that best approximates its shape varies region by region across the world. Clarke 1866, and North American Datum of 1927 with it, were surveyed to best suit North America as a whole. Likewise, historically, most regions of the world used ellipsoids measured locally to best suit the vagaries of Earth's shape in their respective locales. While ensuring the most accuracy locally, this practice makes integrating and disseminating information across regions troublesome.
+      </p>
+      <p>
+       As
+       <a href="/wiki/Satellite" title="Satellite">
+        satellite
+       </a>
+       geodesy and
+       <a href="/wiki/Remote_sensing" title="Remote sensing">
+        remote sensing
+       </a>
+       technology reached high precision and were made available for
+       <a href="/wiki/Civilian" title="Civilian">
+        civilian
+       </a>
+       applications, it became feasible to acquire information referred to a single global ellipsoid. This is because satellites naturally deal with Earth as a monolithic body. Therefore, the
+       <a href="/wiki/GRS_80" title="GRS 80">
+        GRS 80
+       </a>
+       ellipsoid was developed for best approximating the Earth as a whole, and it became the foundation for the North American Datum of 1983. Though GRS 80 and its close relative,
+       <a href="/wiki/World_Geodetic_System" title="World Geodetic System">
+        WGS 84
+       </a>
+       , are generally not the best fit for any given region, a need for the closest fit largely evaporates when a global survey is combined with computers, databases, and software able to compensate for local conditions.
+      </p>
+      <table border="1" cellspacing="0" style="text-align:center" width="cellpadding=3">
+       <tr>
+        <td bgcolor="#E0E0E0" height="24" style="line-height:1.4" width="96">
+         <b>
+          Ellipsoid
+         </b>
+        </td>
+        <td bgcolor="#E0E0E0" width="128">
+         <b>
+          Semimajor axis†
+         </b>
+        </td>
+        <td bgcolor="#E0E0E0" width="144">
+         <b>
+          Semiminor axis††
+         </b>
+        </td>
+        <td bgcolor="#E0E0E0" width="144">
+         <b>
+          Inverse flattening††
+         </b>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         GRS 80
+        </td>
+        <td>
+         6,378,137 m
+        </td>
+        <td>
+         6,356,752.3141 m
+        </td>
+        <td>
+         298.257222101
+        </td>
+       </tr>
+      </table>
+      <p>
+       †By definition. ††Calculated.
+      </p>
+      <h2>
+       <span class="mw-headline" id="Comparing_NAD_27_to_NAD_83">
+        Comparing NAD 27 to NAD 83
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=North_American_Datum&amp;action=edit&amp;section=4" title="Edit section: Comparing NAD 27 to NAD 83">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:Datum_Shift_Between_NAD27_and_NAD83.png">
+         <img alt="" class="thumbimage" data-file-height="581" data-file-width="1115" height="115" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Datum_Shift_Between_NAD27_and_NAD83.png/220px-Datum_Shift_Between_NAD27_and_NAD83.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Datum_Shift_Between_NAD27_and_NAD83.png/330px-Datum_Shift_Between_NAD27_and_NAD83.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/Datum_Shift_Between_NAD27_and_NAD83.png/440px-Datum_Shift_Between_NAD27_and_NAD83.png 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Datum_Shift_Between_NAD27_and_NAD83.png" title="Enlarge">
+          </a>
+         </div>
+         Datum Shift Between NAD 27 and NAD 83
+        </div>
+       </div>
+      </div>
+      <p>
+       A point having a given latitude and longitude in NAD 27 may be displaced on the order of many tens of meters from another point having the identical latitude and longitude in NAD 83, so it is important to specify the datum along with the coordinates. The North American Datum of 1927 is defined by the latitude and longitude of an initial point (
+       <a href="/wiki/Meades_Ranch_Triangulation_Station" title="Meades Ranch Triangulation Station">
+        Meades Ranch Triangulation Station
+       </a>
+       in Kansas), the direction of a line between this point and a specified second point, and two dimensions that define the spheroid. The North American Datum of 1983 is based on a newer defined spheroid (GRS 80); it is an Earth-centered (or "
+       <a href="/wiki/Geocentric_model" title="Geocentric model">
+        geocentric
+       </a>
+       ") datum having no initial point or initial direction.
+      </p>
+      <p>
+       <a class="mw-redirect" href="/wiki/NOAA" title="NOAA">
+        NOAA
+       </a>
+       provides a converter between the two systems.
+       <sup class="reference" id="cite_ref-8">
+        <a href="#cite_note-8">
+         [8]
+        </a>
+       </sup>
+       The practical impact is that if you use current GPS device set to work in NAD 83 or WGS 84 to navigate to NAD 27 coordinates (as from a topo map) in Seattle, you would be off by about 95 meters (not far enough west), and you'd be about 47 meters off in Miami (not far enough north-northeast), whereas you would be much closer for points near Chicago.
+      </p>
+      <h2>
+       <span class="mw-headline" id="North_American_Datum_1983_and_WGS_84">
+        North American Datum 1983 and WGS 84
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=North_American_Datum&amp;action=edit&amp;section=5" title="Edit section: North American Datum 1983 and WGS 84">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       The initial definition of NAD 83(1986) was intended to match GRS 80 and WGS 84, so many older publications indicate no difference. Subsequent measurements found a difference on the order of a meter over much of the United States. Each datum has undergone refinements with more accurate and later measurements.
+      </p>
+      <p>
+       NAD 83 is defined to remain constant over time for points on the
+       <a href="/wiki/North_American_Plate" title="North American Plate">
+        North American Plate
+       </a>
+       , whereas WGS 84 is defined with respect to the average of stations all over the world. Thus the two systems naturally diverge over time. For much of the United States the relative rate is on the order of 1 to 2 cm per year. Hawaii and the coastal portions of central and southern California west of the
+       <a href="/wiki/San_Andreas_Fault" title="San Andreas Fault">
+        San Andreas Fault
+       </a>
+       are not on the North American plate, so their divergence rate differs.
+      </p>
+      <h2>
+       <span class="mw-headline" id="Latest_version_of_North_American_Datum">
+        Latest version of North American Datum
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=North_American_Datum&amp;action=edit&amp;section=6" title="Edit section: Latest version of North American Datum">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       The United States National Spatial Reference System NAD 83(2011/MA11/PA11) epoch 2010.00, is a refinement of the NAD 83 datum using data from a network of very accurate GPS receivers at Continuously Operating Reference Stations (CORS).
+      </p>
+      <h2>
+       <span class="mw-headline" id="See_also">
+        See also
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=North_American_Datum&amp;action=edit&amp;section=7" title="Edit section: See also">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a href="/wiki/North_American_Vertical_Datum_of_1988" title="North American Vertical Datum of 1988">
+         North American Vertical Datum of 1988
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/World_Geodetic_System" title="World Geodetic System">
+         World Geodetic System
+        </a>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="References">
+        References
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=North_American_Datum&amp;action=edit&amp;section=8" title="Edit section: References">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="reflist" style="list-style-type: decimal;">
+       <div class="mw-references-wrap">
+        <ol class="references">
+         <li id="cite_note-1">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-1">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           Shalowitz, USC&amp;GS Field Engineers Bulletin, December 1938
+          </span>
+         </li>
+         <li id="cite_note-2">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-2">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           Craig, Cindy (October 2013)
+           <a class="external text" href="http://archives.profsurv.com/magazine/article.aspx?i=71429" rel="nofollow">
+            "Where Theory Meets Practice: United States Standard Datum"
+           </a>
+           <i>
+            Professional Surveyor Magazine
+           </i>
+           Frederick, Maryland
+          </span>
+         </li>
+         <li id="cite_note-3">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-3">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           US Coast &amp; Geodetic Survey,
+           <a class="external text" href="http://docs.lib.noaa.gov/rescue/cgs_specpubs/QB275U35no701921.pdf" rel="nofollow">
+            "Triangulation in Kansas"
+           </a>
+           ,
+           <i>
+            Special Publication No. 70
+           </i>
+           (1921)
+          </span>
+         </li>
+         <li id="cite_note-4">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-4">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           Bulletin of the National Research Council, Issues 77-80, p. 230
+          </span>
+         </li>
+         <li id="cite_note-5">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-5">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           Van Zandt, Boundaries of the United States and the several states, p. 265
+          </span>
+         </li>
+         <li id="cite_note-6">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-6">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           Walter H. Schoewe,
+           <a class="external text" href="https://www.jstor.org/stable/pdfplus/3625750.pdf" rel="nofollow">
+            "Kansas and the geodetic datum of North America"
+           </a>
+           ,
+           <i>
+            Transactions of the Kansas Academy of Science
+           </i>
+           51 (1948) 117–124, www.jstor.org
+          </span>
+         </li>
+         <li id="cite_note-7">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-7">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           Cardarelli, Francois
+           <i>
+            Encydopaedia of scientific units, weights, and measures: their SI equivalences and origins
+           </i>
+           , Springer-Verlag London Limited 2003,
+           <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+            ISBN
+           </a>
+           <a href="/wiki/Special:BookSources/1-85233-682-X" title="Special:BookSources/1-85233-682-X">
+            1-85233-682-X
+           </a>
+           , page 5, table 2.1, data from Giacomo, P.,
+           <i>
+            Du platine a la lumiere
+           </i>
+           , Bull. Bur. Nat. Metrologie, 102 (1995) 5–14.
+          </span>
+         </li>
+         <li id="cite_note-8">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-8">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <a class="external text" href="http://www.ngs.noaa.gov/cgi-bin/nadcon.prl" rel="nofollow">
+            NOAA's NAD 27 vs. NAD 83 converter
+           </a>
+          </span>
+         </li>
+        </ol>
+       </div>
+      </div>
+      <h2>
+       <span class="mw-headline" id="External_links">
+        External links
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=North_American_Datum&amp;action=edit&amp;section=9" title="Edit section: External links">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a class="external text" href="http://geodesy.noaa.gov/CORS/coords.shtml" rel="nofollow">
+         NOAA-NGS-coordinates CORS-active network
+        </a>
+        - explanation of NAD 83(2011/MA11/PA11) epoch 2010.00
+       </li>
+       <li>
+        <a class="external text" href="http://geodesy.noaa.gov/web/surveys/NA2011/" rel="nofollow">
+         NOAA-NGS-coordinates passive network
+        </a>
+        - explanation of most recent adjustment of passive network
+       </li>
+       <li>
+        <a class="external text" href="http://www.ngs.noaa.gov/TOOLS/Nadcon/Nadcon.html" rel="nofollow">
+         NADCON
+        </a>
+        – a free utility for Microsoft Windows to convert between NAD 27 and NAD 83
+       </li>
+       <li>
+        <a class="external text" href="http://www.ngs.noaa.gov/cgi-bin/nadcon.prl" rel="nofollow">
+         nadcon.prl
+        </a>
+        – a web-based utility for NADCON
+       </li>
+       <li>
+        <a class="external text" href="http://h-e.com/sites/h-e.com/files/tech_docs/de_sbe94.pdf" rel="nofollow">
+         NAD 83: What Is It and Why You Should Care by Dane E. Ericksen, P.E., Hammett &amp; Edison, Inc., Consulting Engineers. 1994 SBE National Convention and World Media Expo.
+        </a>
+       </li>
+      </ul>
+      <!-- 
+NewPP limit report
+Parsed by mw1289
+Cached time: 20180128232420
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.136 seconds
+Real time usage: 0.189 seconds
+Preprocessor visited node count: 810/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 29816/2097152 bytes
+Template argument size: 1848/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 2/500
+Lua time usage: 0.035/10.000 seconds
+Lua memory usage: 1.39 MB/50 MB
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  153.753      1 -total
+ 37.91%   58.288      1 Template:Refimprove
+ 29.30%   45.048      1 Template:Reflist
+ 21.42%   32.934      1 Template:Ambox
+ 20.77%   31.932      1 Template:Geodesy
+ 19.59%   30.121      1 Template:ISBN
+ 19.07%   29.328      1 Template:Sidebar
+  9.32%   14.328      1 Template:Catalog_lookup_link
+  8.17%   12.567      1 Template:Use_dmy_dates
+  6.63%   10.194      1 Template:DMCA
+-->
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:5576472-0!canonical and timestamp 20180128232424 and revision id 822865008
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=North_American_Datum&amp;oldid=822865008#North_American_Datum_of_1983">
+      https://en.wikipedia.org/w/index.php?title=North_American_Datum&amp;oldid=822865008#North_American_Datum_of_1983
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Geodetic_datums" title="Category:Geodetic datums">
+         Geodetic datums
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Map_projections" title="Category:Map projections">
+         Map projections
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:Articles_needing_additional_references_from_September_2010" title="Category:Articles needing additional references from September 2010">
+         Articles needing additional references from September 2010
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">
+         All articles needing additional references
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Use_dmy_dates_from_September_2010" title="Category:Use dmy dates from September 2010">
+         Use dmy dates from September 2010
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=North+American+Datum" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=North+American+Datum" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/North_American_Datum" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:North_American_Datum" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="collapsible selected" id="ca-view">
+        <span>
+         <a href="/wiki/North_American_Datum">
+          Read
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=North_American_Datum&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=North_American_Datum&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/North_American_Datum" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/North_American_Datum" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=North_American_Datum&amp;oldid=822865008" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=North_American_Datum&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q993433" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=North_American_Datum&amp;id=822865008" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=North+American+Datum">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:ElectronPdf&amp;page=North+American+Datum&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=North_American_Datum&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+     <h3 id="p-wikibase-otherprojects-label">
+      In other projects
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="wb-otherproject-link wb-otherproject-commons">
+        <a href="https://commons.wikimedia.org/wiki/Category:United_States_National_Geodetic_Survey_markers" hreflang="en">
+         Wikimedia Commons
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/North_American_Datum" hreflang="de" lang="de" title="North American Datum – German">
+         Deutsch
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q993433#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 28 January 2018, at 23:24.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=North_American_Datum&amp;mobileaction=toggle_view_mobile#North_American_Datum_of_1983">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.136","walltime":"0.189","ppvisitednodes":{"value":810,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":29816,"limit":2097152},"templateargumentsize":{"value":1848,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  153.753      1 -total"," 37.91%   58.288      1 Template:Refimprove"," 29.30%   45.048      1 Template:Reflist"," 21.42%   32.934      1 Template:Ambox"," 20.77%   31.932      1 Template:Geodesy"," 19.59%   30.121      1 Template:ISBN"," 19.07%   29.328      1 Template:Sidebar","  9.32%   14.328      1 Template:Catalog_lookup_link","  8.17%   12.567      1 Template:Use_dmy_dates","  6.63%   10.194      1 Template:DMCA"]},"scribunto":{"limitreport-timeusage":{"value":"0.035","limit":"10.000"},"limitreport-memusage":{"value":1462124,"limit":52428800}},"cachereport":{"origin":"mw1289","timestamp":"20180128232420","ttl":1900800,"transientcontent":false}}});});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":85,"wgHostname":"mw1330"});});
+  </script>
+ </body>
+</html>

@@ -1,0 +1,2653 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   KStars - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"KStars","wgTitle":"KStars","wgCurRevisionId":816863297,"wgRevisionId":816863297,"wgArticleId":49326,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","All articles with dead external links","Articles with dead external links from December 2017","Articles with permanently dead external links","KDE software","Astronomy software","Free astronomy software","Planetarium software for Linux","KDE Education Project","Science education software","Free educational software","Software that uses Qt","Science software","Linux software","Free and open-source software"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"KStars","wgRelevantArticleId":49326,"wgRequestId":"WnO8JQpAADkAAHozMMAAAAAY","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q280386","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.31.0-wmf.17" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <meta content="https://upload.wikimedia.org/wikipedia/commons/2/29/KStars.png" property="og:image"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/KStars" rel="alternate"/>
+  <link href="/w/index.php?title=KStars&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=KStars&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/KStars" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-KStars rootpage-KStars skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    KStars
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <table class="infobox vevent" style="width:22em">
+       <caption class="summary">
+        KStars
+       </caption>
+       <tr>
+        <td colspan="2" style="text-align:center">
+         <a class="image" href="/wiki/File:KStars_icon_oxygen_hicolor.svg">
+          <img alt="KStars icon oxygen hicolor.svg" data-file-height="128" data-file-width="110" height="64" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/KStars_icon_oxygen_hicolor.svg/55px-KStars_icon_oxygen_hicolor.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/KStars_icon_oxygen_hicolor.svg/82px-KStars_icon_oxygen_hicolor.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0f/KStars_icon_oxygen_hicolor.svg/110px-KStars_icon_oxygen_hicolor.svg.png 2x" width="55"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td colspan="2" style="text-align:center">
+         <a class="image" href="/wiki/File:KStars.png" title="Screenshot of KStars showing the night sky from Tbilisi, Georgia">
+          <img alt="Screenshot of KStars showing the night sky from Tbilisi, Georgia" data-file-height="760" data-file-width="926" height="246" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/KStars.png/300px-KStars.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/KStars.png/450px-KStars.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/29/KStars.png/600px-KStars.png 2x" width="300"/>
+         </a>
+         <div>
+          Screenshot of KStars showing the night sky from
+          <a href="/wiki/Tbilisi" title="Tbilisi">
+           Tbilisi
+          </a>
+          ,
+          <a href="/wiki/Georgia_(country)" title="Georgia (country)">
+           Georgia
+          </a>
+         </div>
+        </td>
+       </tr>
+       <tr>
+        <th scope="row" style="white-space: nowrap;">
+         <a href="/wiki/Software_developer" title="Software developer">
+          Developer(s)
+         </a>
+        </th>
+        <td>
+         KDE developers
+        </td>
+       </tr>
+       <tr style="display: none;">
+        <td colspan="2" style="text-align:center">
+        </td>
+       </tr>
+       <tr>
+        <th scope="row" style="white-space: nowrap;">
+         <a href="/wiki/Software_release_life_cycle" title="Software release life cycle">
+          Stable release
+         </a>
+        </th>
+        <td>
+         <div style="margin:0px;">
+          2.8.9 / 16 December 2017
+          <span class="noprint">
+           ; 48 days ago
+          </span>
+          <span style="display:none">
+           (
+           <span class="bday dtstart published updated">
+            2017-12-16
+           </span>
+           )
+          </span>
+         </div>
+        </td>
+       </tr>
+       <tr style="display:none">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th scope="row" style="white-space: nowrap;">
+         <a href="/wiki/Repository_(version_control)" title="Repository (version control)">
+          Repository
+         </a>
+        </th>
+        <td>
+         <div class="plainlist">
+          <ul>
+           <li>
+            <a class="external free" href="https://projects.kde.org/projects/kde/kdeedu/kstars/repository" rel="nofollow">
+             https://projects.kde.org/projects/kde/kdeedu/kstars/repository
+            </a>
+           </li>
+          </ul>
+         </div>
+         <a href="https://www.wikidata.org/wiki/Q280386#P1324" title="Edit this at Wikidata">
+          <img alt="Edit this at Wikidata" data-file-height="600" data-file-width="600" height="10" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-Blue_pencil.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/15px-Blue_pencil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png 2x" style="vertical-align: text-top" width="10"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <th scope="row" style="white-space: nowrap;">
+         <a href="/wiki/Operating_system" title="Operating system">
+          Operating system
+         </a>
+        </th>
+        <td>
+         <a href="/wiki/Unix-like" title="Unix-like">
+          Unix-like
+         </a>
+         ,
+         <a class="mw-redirect" href="/wiki/Windows" title="Windows">
+          Windows
+         </a>
+         ,
+         <a href="/wiki/Android_(operating_system)" title="Android (operating system)">
+          Android
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <th scope="row" style="white-space: nowrap;">
+         <a href="/wiki/Computing_platform" title="Computing platform">
+          Platform
+         </a>
+        </th>
+        <td>
+         <a href="/wiki/KDE" title="KDE">
+          KDE
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <th scope="row" style="white-space: nowrap;">
+         <a href="/wiki/Software_categories#Broad_categories" title="Software categories">
+          Type
+         </a>
+        </th>
+        <td>
+         <a href="/wiki/Educational_software" title="Educational software">
+          Educational software
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <th scope="row" style="white-space: nowrap;">
+         <a href="/wiki/Software_license" title="Software license">
+          License
+         </a>
+        </th>
+        <td>
+         <a class="mw-redirect" href="/wiki/GPLv2" title="GPLv2">
+          GPLv2
+         </a>
+         <sup class="reference" id="cite_ref-1">
+          <a href="#cite_note-1">
+           [1]
+          </a>
+         </sup>
+        </td>
+       </tr>
+       <tr>
+        <th scope="row" style="white-space: nowrap;">
+         Website
+        </th>
+        <td>
+         <a class="external free" href="http://edu.kde.org/kstars/" rel="nofollow">
+          http://edu.kde.org/kstars/
+         </a>
+        </td>
+       </tr>
+      </table>
+      <p>
+       <b>
+        KStars
+       </b>
+       is a
+       <a href="/wiki/Free_software" title="Free software">
+        freely licensed
+       </a>
+       <a href="/wiki/Planetarium" title="Planetarium">
+        planetarium
+       </a>
+       program using the
+       <a class="mw-redirect" href="/wiki/KDE_Platform" title="KDE Platform">
+        KDE Platform
+       </a>
+       . It can be used on most
+       <a href="/wiki/Unix-like" title="Unix-like">
+        Unix-like
+       </a>
+       computer
+       <a href="/wiki/Operating_system" title="Operating system">
+        operating systems
+       </a>
+       , as well as on the
+       <a href="/wiki/Microsoft_Windows" title="Microsoft Windows">
+        Microsoft Windows
+       </a>
+       platform using 'KDE for Windows'.
+       <sup class="reference" id="cite_ref-2">
+        <a href="#cite_note-2">
+         [2]
+        </a>
+       </sup>
+       It provides an accurate graphical representation of the night sky, from any location on Earth, at any date and time. The display includes up to 100 million
+       <a href="/wiki/Star" title="Star">
+        stars
+       </a>
+       (with additional addons), 13,000
+       <a class="mw-redirect" href="/wiki/Deep_sky_object" title="Deep sky object">
+        deep sky objects
+       </a>
+       ,
+       <a href="/wiki/Constellation" title="Constellation">
+        constellations
+       </a>
+       from different cultures, all 8 planets, the
+       <a href="/wiki/Sun" title="Sun">
+        Sun
+       </a>
+       and
+       <a href="/wiki/Moon" title="Moon">
+        Moon
+       </a>
+       , and thousands of
+       <a href="/wiki/Comet" title="Comet">
+        comets
+       </a>
+       and
+       <a href="/wiki/Asteroid" title="Asteroid">
+        asteroids
+       </a>
+       . It has features to appeal to users of all levels, from informative hypertext articles about astronomy, to robust control of
+       <a href="/wiki/Telescope" title="Telescope">
+        telescopes
+       </a>
+       and
+       <a href="/wiki/Charge-coupled_device" title="Charge-coupled device">
+        CCD
+       </a>
+       cameras, and logging of observations of specific objects.
+      </p>
+      <p>
+       KStars supports adjustable simulation speeds in order to view phenomena that happen over long timescales. For astronomical calculations, Astrocalculator can be used to predict conjunctions, and perform many common astronomical calculations. The following tools are included:
+      </p>
+      <ul>
+       <li>
+        Observation planner
+       </li>
+       <li>
+        Sky calendar tool
+       </li>
+       <li>
+        Script Builder
+       </li>
+       <li>
+        Solar System
+       </li>
+       <li>
+        Jupiter Moons
+       </li>
+       <li>
+        Flags: Custom flags superimposed on the sky map.
+       </li>
+       <li>
+        FOV editor to calculate field of view of equipment and display them.
+       </li>
+       <li>
+        Altitude vs. Time tool to plot altitude vs. time graphs for any object.
+       </li>
+       <li>
+        High quality print outs for sky charts.
+       </li>
+       <li>
+        Ekos is an astrophotography suite, a complete astrophotography solution that can control all
+        <a href="/wiki/Instrument_Neutral_Distributed_Interface" title="Instrument Neutral Distributed Interface">
+         INDI
+        </a>
+        devices including numerous telescopes, CCDs,
+        <a class="mw-redirect" href="/wiki/DSLR" title="DSLR">
+         DSLRs
+        </a>
+        , focusers, filters, and a lot more. Ekos supports highly accurate tracking using online and offline
+        <a href="/wiki/Astrometry" title="Astrometry">
+         astrometry
+        </a>
+        solver, auto-focus and auto-guiding capabilities, and capture of single or multiple images using the powerful built in sequence manager.
+       </li>
+      </ul>
+      <p>
+       KStars has been packaged by many Linux/BSD distributions, including
+       <a href="/wiki/Red_Hat_Linux" title="Red Hat Linux">
+        Red Hat Linux
+       </a>
+       ,
+       <a href="/wiki/OpenSUSE" title="OpenSUSE">
+        OpenSUSE
+       </a>
+       ,
+       <a href="/wiki/Mandriva_Linux" title="Mandriva Linux">
+        Mandriva Linux
+       </a>
+       , and
+       <a href="/wiki/Debian" title="Debian">
+        Debian GNU/Linux
+       </a>
+       . Some distributions package KStars as a separate application, some just provide a
+       <a class="mw-redirect" href="/wiki/Kdeedu" title="Kdeedu">
+        kdeedu
+       </a>
+       package, which includes KStars. KStars is distributed with the
+       <a href="/wiki/KDE_Software_Compilation" title="KDE Software Compilation">
+        KDE Software Compilation
+       </a>
+       as part of the kdeedu "Edutainment" module.
+      </p>
+      <p>
+       KStars participated in
+       <a href="/wiki/Google_Summer_of_Code" title="Google Summer of Code">
+        Google Summer of Code
+       </a>
+       in 2008,
+       <sup class="reference" id="cite_ref-3">
+        <a href="#cite_note-3">
+         [3]
+        </a>
+       </sup>
+       2009,
+       <sup class="reference" id="cite_ref-4">
+        <a href="#cite_note-4">
+         [4]
+        </a>
+       </sup>
+       2010,
+       <sup class="reference" id="cite_ref-5">
+        <a href="#cite_note-5">
+         [5]
+        </a>
+       </sup>
+       2011
+       <sup class="reference" id="cite_ref-6">
+        <a href="#cite_note-6">
+         [6]
+        </a>
+       </sup>
+       2012,
+       <sup class="reference" id="cite_ref-7">
+        <a href="#cite_note-7">
+         [7]
+        </a>
+       </sup>
+       2015
+       <sup class="reference" id="cite_ref-8">
+        <a href="#cite_note-8">
+         [8]
+        </a>
+       </sup>
+       and 2016.
+       <sup class="reference" id="cite_ref-9">
+        <a href="#cite_note-9">
+         [9]
+        </a>
+       </sup>
+       It has also participated in the first run of
+       <a class="mw-redirect" href="/wiki/ESA" title="ESA">
+        ESA
+       </a>
+       's Summer of Code in Space in 2011.
+       <sup class="reference" id="cite_ref-10">
+        <a href="#cite_note-10">
+         [10]
+        </a>
+       </sup>
+      </p>
+      <p>
+       It has been identified as one of the three best "Linux stargazing apps" in a Linux.com review.
+       <sup class="reference" id="cite_ref-11">
+        <a href="#cite_note-11">
+         [11]
+        </a>
+       </sup>
+      </p>
+      <p>
+       The latest version of KStars is 2.8.9 which included additional support for guide star images, drift errors, and RMS values.
+       <sup class="reference" id="cite_ref-12">
+        <a href="#cite_note-12">
+         [12]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="See_also">
+        See also
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=KStars&amp;action=edit&amp;section=1" title="Edit section: See also">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+       <ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+        <li style="display:table-row">
+         <span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center">
+          <img alt="" class="noviewer" data-file-height="512" data-file-width="512" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Free_and_open-source_software_logo_%282009%29.svg/28px-Free_and_open-source_software_logo_%282009%29.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Free_and_open-source_software_logo_%282009%29.svg/42px-Free_and_open-source_software_logo_%282009%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/31/Free_and_open-source_software_logo_%282009%29.svg/56px-Free_and_open-source_software_logo_%282009%29.svg.png 2x" width="28"/>
+         </span>
+         <span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle">
+          <a class="mw-redirect" href="/wiki/Portal:Free_software" title="Portal:Free software">
+           Free software portal
+          </a>
+         </span>
+        </li>
+        <li style="display:table-row">
+         <span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center">
+          <img alt="" class="noviewer" data-file-height="3864" data-file-width="3864" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Crab_Nebula.jpg/28px-Crab_Nebula.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Crab_Nebula.jpg/42px-Crab_Nebula.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/00/Crab_Nebula.jpg/56px-Crab_Nebula.jpg 2x" width="28"/>
+         </span>
+         <span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle">
+          <a href="/wiki/Portal:Astronomy" title="Portal:Astronomy">
+           Astronomy portal
+          </a>
+         </span>
+        </li>
+       </ul>
+      </div>
+      <ul>
+       <li>
+        <a href="/wiki/Cartes_du_Ciel" title="Cartes du Ciel">
+         Cartes du Ciel
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Celestia" title="Celestia">
+         Celestia
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Digital_Universe_Atlas" title="Digital Universe Atlas">
+         Digital Universe Atlas
+        </a>
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/Google_Mars" title="Google Mars">
+         Google Mars
+        </a>
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/Google_Moon" title="Google Moon">
+         Google Moon
+        </a>
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/Google_Sky" title="Google Sky">
+         Google Sky
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/HNSKY" title="HNSKY">
+         Hallo Northern Sky (HN Sky)
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/NASA_World_Wind" title="NASA World Wind">
+         NASA World Wind
+        </a>
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/RedShift_(planetarium_software)" title="RedShift (planetarium software)">
+         RedShift
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Skyglobe" title="Skyglobe">
+         Skyglobe
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Starry_Night_(planetarium_software)" title="Starry Night (planetarium software)">
+         Starry Night
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Stellarium_(software)" title="Stellarium (software)">
+         Stellarium
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/TheSky_(astronomy_software)" title="TheSky (astronomy software)">
+         TheSky
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Universe_Sandbox" title="Universe Sandbox">
+         Universe Sandbox
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/WinStars" title="WinStars">
+         WinStars
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/WorldWide_Telescope" title="WorldWide Telescope">
+         WorldWide Telescope
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/XEphem" title="XEphem">
+         XEphem
+        </a>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="References">
+        References
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=KStars&amp;action=edit&amp;section=2" title="Edit section: References">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="reflist" style="list-style-type: decimal;">
+       <div class="mw-references-wrap mw-references-columns">
+        <ol class="references">
+         <li id="cite_note-1">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-1">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="https://quickgit.kde.org/?p=kstars.git&amp;a=blob&amp;h=37ba36f164a71f65475dffa725f300b42afba1f9&amp;hb=928d184b449fb07f02957fce321de629355b65a3&amp;f=COPYING" rel="nofollow">
+             "KDE QuickGit"
+            </a>
+            .
+            <i>
+             kstars.git
+            </i>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=kstars.git&amp;rft.atitle=KDE+QuickGit&amp;rft_id=https%3A%2F%2Fquickgit.kde.org%2F%3Fp%3Dkstars.git%26a%3Dblob%26h%3D37ba36f164a71f65475dffa725f300b42afba1f9%26hb%3D928d184b449fb07f02957fce321de629355b65a3%26f%3DCOPYING&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AKStars">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-2">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-2">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://edu.kde.org/kstars/" rel="nofollow">
+             "KStars"
+            </a>
+            . The KDE Education Project
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              23 June
+             </span>
+             2012
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=KStars&amp;rft.pub=The+KDE+Education+Project&amp;rft_id=http%3A%2F%2Fedu.kde.org%2Fkstars%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AKStars">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-3">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-3">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <a class="external text" href="http://code.google.com/soc/soc_map2008.kml" rel="nofollow">
+            List of 2008's successful participants
+           </a>
+           <a class="external text" href="https://web.archive.org/web/20111223192743/http://code.google.com/soc/soc_map2008.kml" rel="nofollow">
+            Archived
+           </a>
+           2011-12-23 at the
+           <a href="/wiki/Wayback_Machine" title="Wayback Machine">
+            Wayback Machine
+           </a>
+           ., Google Summer of Code,
+           <a class="mw-redirect" href="/wiki/KML" title="KML">
+            KML
+           </a>
+           file
+          </span>
+         </li>
+         <li id="cite_note-4">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-4">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <a class="external text" href="http://www.google-melange.com/gsoc/list_projects/google/gsoc2009" rel="nofollow">
+            Google Summer of Code 2009 Accepted Projects
+           </a>
+           <a class="external text" href="https://web.archive.org/web/20110401111125/http://www.google-melange.com/gsoc/list_projects/google/gsoc2009" rel="nofollow">
+            Archived
+           </a>
+           2011-04-01 at the
+           <a href="/wiki/Wayback_Machine" title="Wayback Machine">
+            Wayback Machine
+           </a>
+           ., accessed 2011-04-23
+          </span>
+         </li>
+         <li id="cite_note-5">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-5">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <a class="external text" href="http://www.google-melange.com/gsoc/list_projects/google/gsoc2010" rel="nofollow">
+            Google Summer of Code 2010 Accepted Projects
+           </a>
+           <a class="external text" href="https://web.archive.org/web/20110401111128/http://www.google-melange.com/gsoc/list_projects/google/gsoc2010" rel="nofollow">
+            Archived
+           </a>
+           2011-04-01 at the
+           <a href="/wiki/Wayback_Machine" title="Wayback Machine">
+            Wayback Machine
+           </a>
+           ., accessed 2011-04-23
+          </span>
+         </li>
+         <li id="cite_note-6">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-6">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.google-melange.com/gsoc/projects/list/google/gsoc2011" rel="nofollow">
+             "GSoC 2011 - Accepted Projects"
+            </a>
+            . Google, Inc
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              23 June
+             </span>
+             2012
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=GSoC+2011+-+Accepted+Projects&amp;rft.pub=Google%2C+Inc.&amp;rft_id=http%3A%2F%2Fwww.google-melange.com%2Fgsoc%2Fprojects%2Flist%2Fgoogle%2Fgsoc2011&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AKStars">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-7">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-7">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.google-melange.com/gsoc/projects/list/google/gsoc2012" rel="nofollow">
+             "GSoC 2012 - Accepted Projects"
+            </a>
+            . Google, Inc
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              23 June
+             </span>
+             2012
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=GSoC+2012+-+Accepted+Projects&amp;rft.pub=Google%2C+Inc.&amp;rft_id=http%3A%2F%2Fwww.google-melange.com%2Fgsoc%2Fprojects%2Flist%2Fgoogle%2Fgsoc2012&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AKStars">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-8">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-8">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.google-melange.com/gsoc/projects/list/google/gsoc2015" rel="nofollow">
+             "GSoC 2015 - Accepted Projects"
+            </a>
+            . Google, Inc
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              6 December
+             </span>
+             2015
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=GSoC+2015+-+Accepted+Projects&amp;rft.pub=Google%2C+Inc.&amp;rft_id=http%3A%2F%2Fwww.google-melange.com%2Fgsoc%2Fprojects%2Flist%2Fgoogle%2Fgsoc2015&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AKStars">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-9">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-9">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="https://summerofcode.withgoogle.com/projects/" rel="nofollow">
+             "GSoC 2016 - Accepted Projects"
+            </a>
+            . Google, Inc
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              27 August
+             </span>
+             2016
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=GSoC+2016+-+Accepted+Projects&amp;rft.pub=Google%2C+Inc.&amp;rft_id=https%3A%2F%2Fsummerofcode.withgoogle.com%2Fprojects%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AKStars">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-10">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-10">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <a class="external text" href="http://sophia.estec.esa.int/socis2011/?q=node/13" rel="nofollow">
+            Selected mentoring organizations
+           </a>
+           <a class="external text" href="https://web.archive.org/web/20110723113441/http://sophia.estec.esa.int/socis2011/?q=node%2F13" rel="nofollow">
+            Archived
+           </a>
+           2011-07-23 at the
+           <a href="/wiki/Wayback_Machine" title="Wayback Machine">
+            Wayback Machine
+           </a>
+           ., ESA Summer of Code in Space 2011. Accessed 2011-07-29.
+          </span>
+         </li>
+         <li id="cite_note-11">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-11">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.linux.com/learn/tutorials/475400-explore-the-universe-the-three-best-linux-stargazing-apps" rel="nofollow">
+             "Explore the Universe: The Three Best Linux Stargazing Apps"
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Explore+the+Universe%3A+The+Three+Best+Linux+Stargazing+Apps&amp;rft_id=http%3A%2F%2Fwww.linux.com%2Flearn%2Ftutorials%2F475400-explore-the-universe-the-three-best-linux-stargazing-apps&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AKStars">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-12">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-12">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            Mutlaq, Jasem (2017-12-16).
+            <a class="external text" href="http://knro.blogspot.com/2017/12/kstars-289-is-released.html" rel="nofollow">
+             "Jasem's Ekosphere: KStars 2.8.9 is released!"
+            </a>
+            .
+            <i>
+             Jasem's Ekosphere
+            </i>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              2017-12-24
+             </span>
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Jasem%27s+Ekosphere&amp;rft.atitle=Jasem%27s+Ekosphere%3A+KStars+2.8.9+is+released%21&amp;rft.date=2017-12-16&amp;rft.aulast=Mutlaq&amp;rft.aufirst=Jasem&amp;rft_id=http%3A%2F%2Fknro.blogspot.com%2F2017%2F12%2Fkstars-289-is-released.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AKStars">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+        </ol>
+       </div>
+      </div>
+      <h2>
+       <span class="mw-headline" id="External_links">
+        External links
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=KStars&amp;action=edit&amp;section=3" title="Edit section: External links">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+       <tr>
+        <td class="mbox-image">
+         <img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/>
+        </td>
+        <td class="mbox-text plainlist">
+         Wikimedia Commons has media related to
+         <i>
+          <b>
+           <a class="extiw" href="https://commons.wikimedia.org/wiki/KStars" title="commons:KStars">
+            KStars
+           </a>
+          </b>
+         </i>
+         .
+        </td>
+       </tr>
+      </table>
+      <ul>
+       <li>
+        <a class="external text" href="http://edu.kde.org/kstars/" rel="nofollow">
+         Official website
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://mpcreader.sourceforge.net/" rel="nofollow">
+         MPC Elements for Comets and Minor Planets in KStars
+        </a>
+       </li>
+       <li>
+        Download
+        <a class="external text" href="ftp://ftp.kde.org/pub/kde/stable" rel="nofollow">
+         source code
+        </a>
+        <sup class="noprint Inline-Template">
+         <span style="white-space: nowrap;">
+          [
+          <i>
+           <a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot">
+            <span title=" Dead link since December 2017">
+             permanent dead link
+            </span>
+           </a>
+          </i>
+          ]
+         </span>
+        </sup>
+        and
+        <a class="external text" href="http://download.kde.org/stable/kdewin/installer" rel="nofollow">
+         Windows
+        </a>
+        and
+        <a class="external text" href="http://pdb.finkproject.org/pdb/package.php/kstars4-mac" rel="nofollow">
+         Mac
+        </a>
+        versions
+       </li>
+      </ul>
+      <div aria-labelledby="KDE" class="navbox" role="navigation" style="padding:3px">
+       <table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tr>
+         <th class="navbox-title" colspan="3" scope="col">
+          <div class="plainlinks hlist navbar mini">
+           <ul>
+            <li class="nv-view">
+             <a href="/wiki/Template:KDE" title="Template:KDE">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">
+               v
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-talk">
+             <a href="/wiki/Template_talk:KDE" title="Template talk:KDE">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">
+               t
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-edit">
+             <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:KDE&amp;action=edit">
+              <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">
+               e
+              </abbr>
+             </a>
+            </li>
+           </ul>
+          </div>
+          <div id="KDE" style="font-size:114%;margin:0 4em">
+           <a href="/wiki/KDE" title="KDE">
+            KDE
+           </a>
+          </div>
+         </th>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          <a href="/wiki/KDE_Software_Compilation" title="KDE Software Compilation">
+           Software
+           <br/>
+           Compilation
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/K_Desktop_Environment_1" title="K Desktop Environment 1">
+              KDE 1
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/K_Desktop_Environment_2" title="K Desktop Environment 2">
+              KDE 2
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/K_Desktop_Environment_3" title="K Desktop Environment 3">
+              KDE 3
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/KDE_Software_Compilation_4" title="KDE Software Compilation 4">
+              KDE SC 4
+             </a>
+            </li>
+            <li>
+             <b>
+              <a href="/wiki/KDE_Software_Compilation#Post-fourth_series" title="KDE Software Compilation">
+               Post-fourth series
+              </a>
+             </b>
+             <ul>
+              <li>
+               <a class="mw-redirect" href="/wiki/KDE_Frameworks_5" title="KDE Frameworks 5">
+                KDE Frameworks 5
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/KDE_Plasma_5" title="KDE Plasma 5">
+                KDE Plasma 5
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/KDE_Applications" title="KDE Applications">
+                KDE Applications
+               </a>
+              </li>
+             </ul>
+            </li>
+           </ul>
+          </div>
+         </td>
+         <td class="navbox-image" rowspan="5" style="width:1px;padding:0px 0px 0px 2px">
+          <div>
+           <a class="image" href="/wiki/File:KDE_logo.svg">
+            <img alt="KDE logo.svg" data-file-height="128" data-file-width="128" height="60" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/KDE_logo.svg/60px-KDE_logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/KDE_logo.svg/90px-KDE_logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8d/KDE_logo.svg/120px-KDE_logo.svg.png 2x" width="60"/>
+           </a>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          <a href="/wiki/List_of_KDE_applications" title="List of KDE applications">
+           Applications
+           <br/>
+           by KDE
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;padding:0;">
+          <div style="padding:0em 0.25em">
+          </div>
+          <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+           <tr>
+            <th class="navbox-group" scope="row" style="width:1%">
+             Development
+            </th>
+            <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <a href="/wiki/Cervisia" title="Cervisia">
+                 Cervisia
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/KDevelop" title="KDevelop">
+                 KDevelop
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/KImageMapEditor" title="KImageMapEditor">
+                 KImageMapEditor
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Kompare" title="Kompare">
+                 Kompare
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Quanta_Plus" title="Quanta Plus">
+                 Quanta Plus
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Umbrello_UML_Modeller" title="Umbrello UML Modeller">
+                 Umbrello
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+           <tr>
+            <th class="navbox-group" scope="row" style="width:1%">
+             <a href="/wiki/KDE_Education_Project" title="KDE Education Project">
+              Education
+             </a>
+            </th>
+            <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <a href="/wiki/Cantor_(software)" title="Cantor (software)">
+                 Cantor
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/GCompris" title="GCompris">
+                 GCompris
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/KAlgebra" title="KAlgebra">
+                 KAlgebra
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Kanagram" title="Kanagram">
+                 Kanagram
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/KBibTeX" title="KBibTeX">
+                 KBibTeX
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/KGeography" title="KGeography">
+                 KGeography
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/KHangMan" title="KHangMan">
+                 KHangMan
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Kig_(software)" title="Kig (software)">
+                 Kig
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Kiten_(program)" title="Kiten (program)">
+                 Kiten
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/KLettres" title="KLettres">
+                 KLettres
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/KmPlot" title="KmPlot">
+                 KmPlot
+                </a>
+               </li>
+               <li>
+                <a class="mw-selflink selflink">
+                 KStars
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Kst_(software)" title="Kst (software)">
+                 kst
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/KTouch" title="KTouch">
+                 KTouch
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/KTurtle" title="KTurtle">
+                 KTurtle
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/KWordQuiz" title="KWordQuiz">
+                 KWordQuiz
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/LabPlot" title="LabPlot">
+                 LabPlot
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Marble_(software)" title="Marble (software)">
+                 Marble
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/RKWard" title="RKWard">
+                 RKWard
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Step_(software)" title="Step (software)">
+                 Step
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+           <tr>
+            <th class="navbox-group" scope="row" style="width:1%">
+             Graphics
+            </th>
+            <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <a href="/wiki/DigiKam" title="DigiKam">
+                 digiKam
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Gwenview" title="Gwenview">
+                 Gwenview
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Karbon_(software)" title="Karbon (software)">
+                 Karbon
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/KColorEdit" title="KColorEdit">
+                 KColorEdit
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/KolourPaint" title="KolourPaint">
+                 KolourPaint
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/KPhotoAlbum" title="KPhotoAlbum">
+                 KPhotoAlbum
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Krita" title="Krita">
+                 Krita
+                </a>
+               </li>
+               <li>
+                <a class="mw-redirect" href="/wiki/Spectacle_(software)" title="Spectacle (software)">
+                 Spectacle
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Skanlite" title="Skanlite">
+                 Skanlite
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+           <tr>
+            <th class="navbox-group" scope="row" style="width:1%">
+             Internet
+            </th>
+            <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <a href="/wiki/KGet" title="KGet">
+                 KGet
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/KMLDonkey" title="KMLDonkey">
+                 KMLDonkey
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Konqueror" title="Konqueror">
+                 Konqueror
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Kontact" title="Kontact">
+                 Kontact
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Konversation" title="Konversation">
+                 Konversation
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Kopete" title="Kopete">
+                 Kopete
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/KTorrent" title="KTorrent">
+                 KTorrent
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Rekonq" title="Rekonq">
+                 Rekonq
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+           <tr>
+            <th class="navbox-group" scope="row" style="width:1%">
+             Multimedia
+            </th>
+            <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <a href="/wiki/Amarok_(software)" title="Amarok (software)">
+                 Amarok
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Dragon_Player" title="Dragon Player">
+                 Dragon Player
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/JuK" title="JuK">
+                 JuK
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/K3b" title="K3b">
+                 K3b
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Kaffeine" title="Kaffeine">
+                 Kaffeine
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Kdenlive" title="Kdenlive">
+                 Kdenlive
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+           <tr>
+            <th class="navbox-group" scope="row" style="width:1%">
+             Office
+            </th>
+            <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <a href="/wiki/Okular" title="Okular">
+                 Okular
+                </a>
+               </li>
+               <li>
+                <b>
+                 <a href="/wiki/Calligra_Suite" title="Calligra Suite">
+                  Calligra Suite
+                 </a>
+                </b>
+                <ul>
+                 <li>
+                  <a href="/wiki/Calligra_Words" title="Calligra Words">
+                   Words
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/wiki/Calligra_Sheets" title="Calligra Sheets">
+                   Sheets
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/wiki/Calligra_Stage" title="Calligra Stage">
+                   Stage
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/wiki/Calligra_Flow" title="Calligra Flow">
+                   Flow
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/wiki/Karbon_(software)" title="Karbon (software)">
+                   Karbon
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/wiki/Krita" title="Krita">
+                   Krita
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/wiki/Kexi" title="Kexi">
+                   Kexi
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/wiki/Calligra_Plan" title="Calligra Plan">
+                   Plan
+                  </a>
+                 </li>
+                </ul>
+               </li>
+               <li>
+                <a href="/wiki/Kile" title="Kile">
+                 Kile
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/KMyMoney" title="KMyMoney">
+                 KMyMoney
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Kontact" title="Kontact">
+                 Kontact
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/KPilot" title="KPilot">
+                 KPilot
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Tellico" title="Tellico">
+                 Tellico
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Trojit%C3%A1" title="Trojitá">
+                 Trojitá
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+           <tr>
+            <th class="navbox-group" scope="row" style="width:1%">
+             System
+            </th>
+            <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <a href="/wiki/Dolphin_(file_manager)" title="Dolphin (file manager)">
+                 Dolphin
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/KDE_Partition_Manager" title="KDE Partition Manager">
+                 KDE Partition Manager
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/KDE_System_Guard" title="KDE System Guard">
+                 KDE System Guard
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Kinfocenter" title="Kinfocenter">
+                 KInfoCenter
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Konsole" title="Konsole">
+                 Konsole
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Yakuake" title="Yakuake">
+                 Yakuake
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+           <tr>
+            <th class="navbox-group" scope="row" style="width:1%">
+             Utilities
+            </th>
+            <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <a href="/wiki/Ark_(software)" title="Ark (software)">
+                 Ark
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Filelight" title="Filelight">
+                 Filelight
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/KAlarm" title="KAlarm">
+                 KAlarm
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Kate_(text_editor)" title="Kate (text editor)">
+                 Kate
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/KCalc" title="KCalc">
+                 KCalc
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/KGPG" title="KGPG">
+                 KGPG
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Klipper" title="Klipper">
+                 Klipper
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Krusader" title="Krusader">
+                 Krusader
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/KRename" title="KRename">
+                 KRename
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/KWallet" title="KWallet">
+                 KWallet
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/KWrite" title="KWrite">
+                 KWrite
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+          </table>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          <a class="mw-redirect" href="/wiki/KDE_Platform" title="KDE Platform">
+           Platform
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+          </div>
+          <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+           <tr>
+            <th class="navbox-group" scope="row" style="width:1%">
+             User interface
+            </th>
+            <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+             <div style="padding:0em 0.25em">
+             </div>
+             <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+              <tr>
+               <th class="navbox-group" scope="row" style="width:1%">
+                Current
+               </th>
+               <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                <div style="padding:0em 0.25em">
+                 <ul>
+                  <li>
+                   <a href="/wiki/KWin" title="KWin">
+                    KWin
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/KDE_Plasma_5" title="KDE Plasma 5">
+                    KDE Plasma 5
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Oxygen_Project" title="Oxygen Project">
+                    Oxygen Project
+                   </a>
+                  </li>
+                 </ul>
+                </div>
+               </td>
+              </tr>
+              <tr>
+               <th class="navbox-group" scope="row" style="width:1%">
+                Discontinued
+               </th>
+               <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                <div style="padding:0em 0.25em">
+                 <ul>
+                  <li>
+                   <a href="/wiki/KDesktop" title="KDesktop">
+                    KDesktop
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/Kicker_(KDE)" title="Kicker (KDE)">
+                    Kicker
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/SuperKaramba" title="SuperKaramba">
+                    SuperKaramba
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/KDE_Plasma_4" title="KDE Plasma 4">
+                    KDE Plasma 4
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/KSnapshot" title="KSnapshot">
+                    KSnapshot
+                   </a>
+                  </li>
+                  <li>
+                   <a class="extiw" href="https://commons.wikimedia.org/wiki/Crystal_Clear" title="commons:Crystal Clear">
+                    Crystal Project
+                   </a>
+                  </li>
+                 </ul>
+                </div>
+               </td>
+              </tr>
+             </table>
+            </td>
+           </tr>
+           <tr>
+            <th class="navbox-group" scope="row" style="width:1%">
+             Current
+            </th>
+            <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <a href="/wiki/KWin" title="KWin">
+                 KWin
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Simple_Desktop_Display_Manager" title="Simple Desktop Display Manager">
+                 SDDM
+                </a>
+                (5–)
+               </li>
+               <li>
+                <a href="/wiki/Qt_(software)" title="Qt (software)">
+                 Qt
+                </a>
+               </li>
+               <li>
+                <a class="mw-redirect" href="/wiki/KDE_Frameworks_5" title="KDE Frameworks 5">
+                 KDE Frameworks 5
+                </a>
+                (5–)
+                <ul>
+                 <li>
+                  <a href="/wiki/Akonadi" title="Akonadi">
+                   Akonadi
+                  </a>
+                 </li>
+                 <li>
+                  <a class="mw-redirect" href="/wiki/Flake_(KDE)" title="Flake (KDE)">
+                   Flake
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/wiki/KJS_(software)" title="KJS (software)">
+                   KJS
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/wiki/KHTML" title="KHTML">
+                   KHTML
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/wiki/KIO" title="KIO">
+                   KIO
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/wiki/ThreadWeaver" title="ThreadWeaver">
+                   ThreadWeaver
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/wiki/KDE_Image_Plugin_Interface" title="KDE Image Plugin Interface">
+                   KIPI
+                  </a>
+                 </li>
+                 <li>
+                  <a class="mw-redirect" href="/wiki/KParts" title="KParts">
+                   KParts
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/wiki/Kross_(software)" title="Kross (software)">
+                   Kross
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/wiki/Phonon_(software)" title="Phonon (software)">
+                   Phonon
+                  </a>
+                 </li>
+                 <li>
+                  <a class="mw-redirect" href="/wiki/Solid_(software)" title="Solid (software)">
+                   Solid
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/wiki/Sonnet_(software)" title="Sonnet (software)">
+                   Sonnet
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/wiki/XMLGUI" title="XMLGUI">
+                   XMLGUI
+                  </a>
+                 </li>
+                </ul>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+           <tr>
+            <th class="navbox-group" scope="row" style="width:1%">
+             Discontinued
+            </th>
+            <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                KDElibs (–3)
+               </li>
+               <li>
+                <a href="/wiki/DCOP" title="DCOP">
+                 DCOP
+                </a>
+                (3)
+               </li>
+               <li>
+                <a href="/wiki/KDE_Platform_4" title="KDE Platform 4">
+                 KDE Platform 4
+                </a>
+                (4)
+               </li>
+               <li>
+                <a href="/wiki/KDE_Display_Manager" title="KDE Display Manager">
+                 KDM
+                </a>
+                (–4)
+               </li>
+               <li>
+                <a class="mw-redirect" href="/wiki/NEPOMUK_(framework)" title="NEPOMUK (framework)">
+                 NEPOMUK
+                </a>
+                (4.13)
+               </li>
+               <li>
+                <a href="/wiki/Strigi" title="Strigi">
+                 Strigi
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+           <tr>
+            <th class="navbox-group" scope="row" style="width:1%">
+             <a href="/wiki/Freedesktop.org" title="Freedesktop.org">
+              freedesktop.org
+             </a>
+             <br/>
+             <small>
+              (shared)
+             </small>
+            </th>
+            <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <a href="/wiki/AppStream" title="AppStream">
+                 AppStream
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/D-Bus" title="D-Bus">
+                 D-Bus
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/GStreamer" title="GStreamer">
+                 GStreamer
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/NetworkManager" title="NetworkManager">
+                 NetworkManager
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Poppler_(software)" title="Poppler (software)">
+                 Poppler
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Wayland_(display_server_protocol)" title="Wayland (display server protocol)">
+                 Wayland
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/X.Org_Server" title="X.Org Server">
+                 X.Org Server
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/PulseAudio" title="PulseAudio">
+                 PulseAudio
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+          </table>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          Community
+         </th>
+         <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/KDE_e.V." title="KDE e.V.">
+              KDE e.V.
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Akademy" title="Akademy">
+              Akademy
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/KDE_Dot_News" title="KDE Dot News">
+              KDE.News
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Konqi" title="Konqi">
+              Konqi
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="width:1%">
+          People
+         </th>
+         <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Matthias_Kalle_Dalheimer" title="Matthias Kalle Dalheimer">
+              Matthias Kalle Dalheimer
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Matthias_Ettrich" title="Matthias Ettrich">
+              Matthias Ettrich
+             </a>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/Adriaan_de_Groot_(Software_developer)" title="Adriaan de Groot (Software developer)">
+              Adriaan de Groot
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Frank_Karlitschek" title="Frank Karlitschek">
+              Frank Karlitschek
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Celeste_Lyn_Paul" title="Celeste Lyn Paul">
+              Celeste Lyn Paul
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Nuno_Pinheiro_(artist)" title="Nuno Pinheiro (artist)">
+              Nuno Pinheiro
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Cornelius_Schumacher" title="Cornelius Schumacher">
+              Cornelius Schumacher
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/David_Vignoni" title="David Vignoni">
+              David Vignoni
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <td class="navbox-abovebelow hlist" colspan="3">
+          <div>
+           <ul>
+            <li>
+             <b>
+              <img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/>
+              <a href="/wiki/Category:KDE" title="Category:KDE">
+               Category
+              </a>
+             </b>
+            </li>
+            <li>
+             <b>
+              <img alt="Project page" data-file-height="185" data-file-width="180" height="16" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Symbol_information_vote.svg/16px-Symbol_information_vote.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Symbol_information_vote.svg/23px-Symbol_information_vote.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Symbol_information_vote.svg/31px-Symbol_information_vote.svg.png 2x" title="Project page" width="16"/>
+              <a href="/wiki/Wikipedia:WikiProject_KDE" title="Wikipedia:WikiProject KDE">
+               Project
+              </a>
+             </b>
+            </li>
+            <li>
+             <b>
+              <img alt="Commons page" data-file-height="1376" data-file-width="1024" height="16" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" title="Commons page" width="12"/>
+              <a class="extiw" href="https://commons.wikimedia.org/wiki/KDE" title="commons:KDE">
+               Commons
+              </a>
+             </b>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+       </table>
+      </div>
+      <!-- 
+NewPP limit report
+Parsed by mw1332
+Cached time: 20180202010014
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.280 seconds
+Real time usage: 0.363 seconds
+Preprocessor visited node count: 1456/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 71672/2097152 bytes
+Template argument size: 2201/2097152 bytes
+Highest expansion depth: 25/40
+Expensive parser function count: 3/500
+Lua time usage: 0.128/10.000 seconds
+Lua memory usage: 4.7 MB/50 MB
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  306.059      1 -total
+ 54.81%  167.757      2 Template:Infobox
+ 45.43%  139.043      1 Template:Infobox_software
+ 26.94%   82.453      1 Template:Reflist
+ 19.04%   58.277      8 Template:Cite_web
+ 14.44%   44.199      1 Template:Infobox_software/simple
+ 10.02%   30.664      4 Template:Navbox
+  9.44%   28.887      1 Template:Dead_link
+  8.81%   26.952      1 Template:Start_date_and_age
+  8.60%   26.324      1 Template:KDE
+-->
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:49326-0!canonical and timestamp 20180202010014 and revision id 816863297
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=KStars&amp;oldid=816863297">
+      https://en.wikipedia.org/w/index.php?title=KStars&amp;oldid=816863297
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:KDE_software" title="Category:KDE software">
+         KDE software
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Astronomy_software" title="Category:Astronomy software">
+         Astronomy software
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Free_astronomy_software" title="Category:Free astronomy software">
+         Free astronomy software
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Planetarium_software_for_Linux" title="Category:Planetarium software for Linux">
+         Planetarium software for Linux
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:KDE_Education_Project" title="Category:KDE Education Project">
+         KDE Education Project
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Science_education_software" title="Category:Science education software">
+         Science education software
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Free_educational_software" title="Category:Free educational software">
+         Free educational software
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Software_that_uses_Qt" title="Category:Software that uses Qt">
+         Software that uses Qt
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Science_software" title="Category:Science software">
+         Science software
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Linux_software" title="Category:Linux software">
+         Linux software
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Free_and_open-source_software" title="Category:Free and open-source software">
+         Free and open-source software
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">
+         Webarchive template wayback links
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">
+         All articles with dead external links
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_with_dead_external_links_from_December_2017" title="Category:Articles with dead external links from December 2017">
+         Articles with dead external links from December 2017
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_with_permanently_dead_external_links" title="Category:Articles with permanently dead external links">
+         Articles with permanently dead external links
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=KStars" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=KStars" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/KStars" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:KStars" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="collapsible selected" id="ca-view">
+        <span>
+         <a href="/wiki/KStars">
+          Read
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=KStars&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=KStars&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/KStars" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/KStars" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=KStars&amp;oldid=816863297" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=KStars&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q280386" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=KStars&amp;id=816863297" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=KStars">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:ElectronPdf&amp;page=KStars&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=KStars&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+     <h3 id="p-wikibase-otherprojects-label">
+      In other projects
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="wb-otherproject-link wb-otherproject-commons">
+        <a href="https://commons.wikimedia.org/wiki/Category:KStars" hreflang="en">
+         Wikimedia Commons
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-ast">
+        <a class="interlanguage-link-target" href="https://ast.wikipedia.org/wiki/KStars" hreflang="ast" lang="ast" title="KStars – Asturian">
+         Asturianu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-be">
+        <a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/KStars" hreflang="be" lang="be" title="KStars – Belarusian">
+         Беларуская
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/KStars" hreflang="ca" lang="ca" title="KStars – Catalan">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-da">
+        <a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/KStars" hreflang="da" lang="da" title="KStars – Danish">
+         Dansk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/KStars" hreflang="de" lang="de" title="KStars – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/KStars" hreflang="es" lang="es" title="KStars – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fa">
+        <a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%DA%A9%DB%8C%E2%80%8C%D8%A7%D8%B3%D8%AA%D8%A7%D8%B1%D8%B2" hreflang="fa" lang="fa" title="کی‌استارز – Persian">
+         فارسی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/KStars" hreflang="fr" lang="fr" title="KStars – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/KStars" hreflang="it" lang="it" title="KStars – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hu">
+        <a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/KStars" hreflang="hu" lang="hu" title="KStars – Hungarian">
+         Magyar
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ml">
+        <a class="interlanguage-link-target" href="https://ml.wikipedia.org/wiki/%E0%B4%95%E0%B5%86%E0%B4%B8%E0%B5%8D%E0%B4%B1%E0%B5%8D%E0%B4%B1%E0%B4%BE%E0%B5%BC%E0%B4%B8%E0%B5%8D" hreflang="ml" lang="ml" title="കെസ്റ്റാർസ് – Malayalam">
+         മലയാളം
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nl">
+        <a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/KStars" hreflang="nl" lang="nl" title="KStars – Dutch">
+         Nederlands
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/KStars" hreflang="ja" lang="ja" title="KStars – Japanese">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pl">
+        <a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/KStars" hreflang="pl" lang="pl" title="KStars – Polish">
+         Polski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/KStars" hreflang="pt" lang="pt" title="KStars – Portuguese">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/KStars" hreflang="ru" lang="ru" title="KStars – Russian">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tr">
+        <a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/KStars" hreflang="tr" lang="tr" title="KStars – Turkish">
+         Türkçe
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uk">
+        <a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/KStars" hreflang="uk" lang="uk" title="KStars – Ukrainian">
+         Українська
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/KStars" hreflang="zh" lang="zh" title="KStars – Chinese">
+         中文
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q280386#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 24 December 2017, at 06:32.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=KStars&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.280","walltime":"0.363","ppvisitednodes":{"value":1456,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":71672,"limit":2097152},"templateargumentsize":{"value":2201,"limit":2097152},"expansiondepth":{"value":25,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  306.059      1 -total"," 54.81%  167.757      2 Template:Infobox"," 45.43%  139.043      1 Template:Infobox_software"," 26.94%   82.453      1 Template:Reflist"," 19.04%   58.277      8 Template:Cite_web"," 14.44%   44.199      1 Template:Infobox_software/simple"," 10.02%   30.664      4 Template:Navbox","  9.44%   28.887      1 Template:Dead_link","  8.81%   26.952      1 Template:Start_date_and_age","  8.60%   26.324      1 Template:KDE"]},"scribunto":{"limitreport-timeusage":{"value":"0.128","limit":"10.000"},"limitreport-memusage":{"value":4928507,"limit":52428800}},"cachereport":{"origin":"mw1332","timestamp":"20180202010014","ttl":1900800,"transientcontent":false}}});});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":89,"wgHostname":"mw1262"});});
+  </script>
+ </body>
+</html>

@@ -1,0 +1,1726 @@
+https://en.wikipedia.org/wiki/Steady_state
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Steady state - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Steady_state","wgTitle":"Steady state","wgCurRevisionId":823608797,"wgRevisionId":823608797,"wgArticleId":1326107,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia articles incorporating text from the Federal Standard 1037C","Wikipedia articles incorporating text from MIL-STD-188","Pages using div col with deprecated parameters","Systems theory"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Steady_state","wgRelevantArticleId":1326107,"wgRequestId":"WnQixwpAAEEAABBaT4MAAACX","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q5788637","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.31.0-wmf.17" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Steady_state" rel="alternate"/>
+  <link href="/w/index.php?title=Steady_state&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Steady_state&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/Steady_state" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Steady_state rootpage-Steady_state skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Steady state
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <div class="hatnote navigation-not-searchable" role="note">
+       For other uses, see
+       <a class="mw-disambig" href="/wiki/Steady_state_(disambiguation)" title="Steady state (disambiguation)">
+        Steady state (disambiguation)
+       </a>
+       .
+      </div>
+      <p>
+       In
+       <a href="/wiki/Systems_theory" title="Systems theory">
+        systems theory
+       </a>
+       , a
+       <a href="/wiki/System" title="System">
+        system
+       </a>
+       or a
+       <a href="/wiki/Process_theory" title="Process theory">
+        process
+       </a>
+       is in a
+       <b>
+        steady state
+       </b>
+       if the variables (called
+       <a href="/wiki/State_variable" title="State variable">
+        state variables
+       </a>
+       ) which define the behavior of the system or the process are unchanging in time.
+       <sup class="reference" id="cite_ref-:0_1-0">
+        <a href="#cite_note-:0-1">
+         [1]
+        </a>
+       </sup>
+       In
+       <a class="mw-redirect" href="/wiki/Continuous_time" title="Continuous time">
+        continuous time
+       </a>
+       , this means that for those properties
+       <i>
+        p
+       </i>
+       of the system, the
+       <a href="/wiki/Partial_derivative" title="Partial derivative">
+        partial derivative
+       </a>
+       with respect to time is zero and remains so:
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle {\frac {\partial p}{\partial t}}=0\quad {\text{for all }}t.}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mrow class="MJX-TeXAtom-ORD">
+               <mfrac>
+                <mrow>
+                 <mi mathvariant="normal">
+                  ∂
+                  <!-- ∂ -->
+                 </mi>
+                 <mi>
+                  p
+                 </mi>
+                </mrow>
+                <mrow>
+                 <mi mathvariant="normal">
+                  ∂
+                  <!-- ∂ -->
+                 </mi>
+                 <mi>
+                  t
+                 </mi>
+                </mrow>
+               </mfrac>
+              </mrow>
+              <mo>
+               =
+              </mo>
+              <mn>
+               0
+              </mn>
+              <mspace width="1em">
+              </mspace>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mtext>
+                for all
+               </mtext>
+              </mrow>
+              <mi>
+               t
+              </mi>
+              <mo>
+               .
+              </mo>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle {\frac {\partial p}{\partial t}}=0\quad {\text{for all }}t.}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="{\displaystyle {\frac {\partial p}{\partial t}}=0\quad {\text{for all }}t.}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/eb89935a16a49cbe3ef86c073a0ec4cbd394e01c" style="vertical-align: -2.005ex; width:17.797ex; height:5.509ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       In
+       <a class="mw-redirect" href="/wiki/Discrete_time" title="Discrete time">
+        discrete time
+       </a>
+       , it means that the
+       <a class="mw-redirect" href="/wiki/First_difference" title="First difference">
+        first difference
+       </a>
+       of each property is zero and remains so:
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle p_{t}-p_{t-1}=0\quad {\text{for all }}t.}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <msub>
+               <mi>
+                p
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 t
+                </mi>
+               </mrow>
+              </msub>
+              <mo>
+               −
+               <!-- − -->
+              </mo>
+              <msub>
+               <mi>
+                p
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 t
+                </mi>
+                <mo>
+                 −
+                 <!-- − -->
+                </mo>
+                <mn>
+                 1
+                </mn>
+               </mrow>
+              </msub>
+              <mo>
+               =
+              </mo>
+              <mn>
+               0
+              </mn>
+              <mspace width="1em">
+              </mspace>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mtext>
+                for all
+               </mtext>
+              </mrow>
+              <mi>
+               t
+              </mi>
+              <mo>
+               .
+              </mo>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle p_{t}-p_{t-1}=0\quad {\text{for all }}t.}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="{\displaystyle p_{t}-p_{t-1}=0\quad {\text{for all }}t.}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/691fef91625bfe2e73e64b4e32260f8d583e859f" style="vertical-align: -0.671ex; margin-left: -0.089ex; width:23.494ex; height:2.509ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       The concept of a steady state has relevance in many fields, in particular
+       <a href="/wiki/Thermodynamics" title="Thermodynamics">
+        thermodynamics
+       </a>
+       ,
+       <a class="mw-redirect" href="/wiki/Steady_state_economy" title="Steady state economy">
+        economics
+       </a>
+       , and
+       <a href="/wiki/Engineering" title="Engineering">
+        engineering
+       </a>
+       . If a system is in a steady state, then the recently observed behavior of the system will continue into the future.
+       <sup class="reference" id="cite_ref-:0_1-1">
+        <a href="#cite_note-:0-1">
+         [1]
+        </a>
+       </sup>
+       In
+       <a href="/wiki/Stochastic" title="Stochastic">
+        stochastic
+       </a>
+       systems, the probabilities that various states will be repeated will remain constant. See for example
+       <a href="/wiki/Linear_difference_equation#Conversion_to_homogeneous_form" title="Linear difference equation">
+        Linear difference equation#Conversion to homogeneous form
+       </a>
+       for the derivation of the steady state.
+      </p>
+      <p>
+       In many systems, a steady state is not achieved until some time after the system is started or initiated. This initial situation is often identified as a
+       <a href="/wiki/Transient_state" title="Transient state">
+        transient state
+       </a>
+       , start-up or warm-up period.
+       <sup class="reference" id="cite_ref-:0_1-2">
+        <a href="#cite_note-:0-1">
+         [1]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-Ricardo_Antunes_2-0">
+        <a href="#cite_note-Ricardo_Antunes-2">
+         [2]
+        </a>
+       </sup>
+       For example, while the flow of
+       <a href="/wiki/Fluid" title="Fluid">
+        fluid
+       </a>
+       through a tube or electricity through a network could be in a steady state because there is a constant flow of fluid or electricity, a tank being drained or filled with fluid is a system in transient state, because its volume of fluid changes with time.
+      </p>
+      <p>
+       Often, a steady state is approached
+       <a class="mw-redirect" href="/wiki/Asymptotically" title="Asymptotically">
+        asymptotically
+       </a>
+       . An unstable system is one that diverges from the steady state. See for example
+       <a href="/wiki/Linear_difference_equation#Stability" title="Linear difference equation">
+        Linear difference equation#Stability
+       </a>
+       .
+      </p>
+      <p>
+       In
+       <a href="/wiki/Chemistry" title="Chemistry">
+        chemistry
+       </a>
+       , a steady state is a more general situation than
+       <a href="/wiki/Dynamic_equilibrium" title="Dynamic equilibrium">
+        dynamic equilibrium
+       </a>
+       . While a dynamic equilibrium occurs when two or more
+       <a href="/wiki/Reversible_reaction" title="Reversible reaction">
+        reversible processes
+       </a>
+       occur at the same rate, and such a system can be said to be in a steady state, a system that is in a steady state may not necessarily be in a state of dynamic equilibrium, because some of the processes involved are not reversible.
+      </p>
+      <p>
+      </p>
+      <div class="toc" id="toc">
+       <div class="toctitle" dir="ltr" lang="en" xml:lang="en">
+        <h2>
+         Contents
+        </h2>
+       </div>
+       <ul>
+        <li class="toclevel-1 tocsection-1">
+         <a href="#Applications">
+          <span class="tocnumber">
+           1
+          </span>
+          <span class="toctext">
+           Applications
+          </span>
+         </a>
+         <ul>
+          <li class="toclevel-2 tocsection-2">
+           <a href="#Economics">
+            <span class="tocnumber">
+             1.1
+            </span>
+            <span class="toctext">
+             Economics
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-3">
+           <a href="#Electronics">
+            <span class="tocnumber">
+             1.2
+            </span>
+            <span class="toctext">
+             Electronics
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-4">
+           <a href="#Chemical_engineering">
+            <span class="tocnumber">
+             1.3
+            </span>
+            <span class="toctext">
+             Chemical engineering
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-5">
+           <a href="#Electrical_engineering">
+            <span class="tocnumber">
+             1.4
+            </span>
+            <span class="toctext">
+             Electrical engineering
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-6">
+           <a href="#Mechanical_engineering">
+            <span class="tocnumber">
+             1.5
+            </span>
+            <span class="toctext">
+             Mechanical engineering
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-7">
+           <a href="#Physiology">
+            <span class="tocnumber">
+             1.6
+            </span>
+            <span class="toctext">
+             Physiology
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-8">
+           <a href="#Fiber_optics">
+            <span class="tocnumber">
+             1.7
+            </span>
+            <span class="toctext">
+             Fiber optics
+            </span>
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="toclevel-1 tocsection-9">
+         <a href="#See_also">
+          <span class="tocnumber">
+           2
+          </span>
+          <span class="toctext">
+           See also
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-10">
+         <a href="#References">
+          <span class="tocnumber">
+           3
+          </span>
+          <span class="toctext">
+           References
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <p>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Applications">
+        Applications
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Steady_state&amp;action=edit&amp;section=1" title="Edit section: Applications">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <h3>
+       <span class="mw-headline" id="Economics">
+        Economics
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Steady_state&amp;action=edit&amp;section=2" title="Edit section: Economics">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <div class="hatnote navigation-not-searchable" role="note">
+       Main article:
+       <a class="mw-redirect" href="/wiki/Steady_state_economy" title="Steady state economy">
+        Steady state economy
+       </a>
+      </div>
+      <p>
+       A
+       <i>
+        steady state economy
+       </i>
+       is an economy (especially a national economy but possibly that of a city, a region, or the world) of stable size featuring a stable population and stable
+       <a href="/wiki/Consumption_(economics)" title="Consumption (economics)">
+        consumption
+       </a>
+       that remain at or below
+       <a href="/wiki/Carrying_capacity" title="Carrying capacity">
+        carrying capacity
+       </a>
+       . In the
+       <a href="/wiki/Economic_growth" title="Economic growth">
+        economic growth
+       </a>
+       model of
+       <a href="/wiki/Robert_Solow" title="Robert Solow">
+        Robert Solow
+       </a>
+       and
+       <a href="/wiki/Trevor_Swan" title="Trevor Swan">
+        Trevor Swan
+       </a>
+       , the steady state occurs when gross
+       <a href="/wiki/Investment_(macroeconomics)" title="Investment (macroeconomics)">
+        investment
+       </a>
+       in
+       <a href="/wiki/Physical_capital" title="Physical capital">
+        physical capital
+       </a>
+       equals
+       <a href="/wiki/Depreciation_(economics)" title="Depreciation (economics)">
+        depreciation
+       </a>
+       and the economy reaches
+       <a href="/wiki/Economic_equilibrium" title="Economic equilibrium">
+        economic equilibrium
+       </a>
+       , which may occur during a period of growth.
+      </p>
+      <h3>
+       <span class="mw-headline" id="Electronics">
+        Electronics
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Steady_state&amp;action=edit&amp;section=3" title="Edit section: Electronics">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <div class="hatnote navigation-not-searchable" role="note">
+       Main article:
+       <a href="/wiki/Steady_state_(electronics)" title="Steady state (electronics)">
+        Steady state (electronics)
+       </a>
+      </div>
+      <p>
+       In electronics,
+       <i>
+        steady state
+       </i>
+       is an equilibrium condition of a circuit or network that occurs as the effects of
+       <a class="mw-redirect" href="/wiki/Transient_(electricity)" title="Transient (electricity)">
+        transients
+       </a>
+       are no longer important.
+      </p>
+      <p>
+       Steady state determination is an important topic, because many design specifications of electronic systems are given in terms of the steady-state characteristics. Periodic steady-state solution is also a prerequisite for small signal dynamic modeling. Steady-state analysis is therefore an indispensable component of the design process.
+      </p>
+      <p>
+       In some cases, it is useful to consider
+       <a href="/wiki/Constant_envelope" title="Constant envelope">
+        constant envelope
+       </a>
+       vibration—vibration that never settles down to motionlessness, but continues to move at constant amplitude—a kind of steady-state condition.
+      </p>
+      <h3>
+       <span class="mw-headline" id="Chemical_engineering">
+        Chemical engineering
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Steady_state&amp;action=edit&amp;section=4" title="Edit section: Chemical engineering">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <div class="hatnote navigation-not-searchable" role="note">
+       Main articles:
+       <a href="/wiki/Steady_state_(chemistry)" title="Steady state (chemistry)">
+        Steady state (chemistry)
+       </a>
+       and
+       <a href="/wiki/Steady_state_(biochemistry)" title="Steady state (biochemistry)">
+        Steady state (biochemistry)
+       </a>
+      </div>
+      <p>
+       In
+       <a href="/wiki/Chemistry" title="Chemistry">
+        chemistry
+       </a>
+       ,
+       <a href="/wiki/Thermodynamics" title="Thermodynamics">
+        thermodynamics
+       </a>
+       , and other
+       <a href="/wiki/Chemical_engineering" title="Chemical engineering">
+        chemical engineering
+       </a>
+       , a
+       <i>
+        steady state
+       </i>
+       is a situation in which all
+       <a class="mw-redirect" href="/wiki/Thermodynamic_variable" title="Thermodynamic variable">
+        state variables
+       </a>
+       are constant in spite of ongoing processes that strive to change them. For an entire system to be at steady state, i.e. for all state variables of a system to be constant, there must be a flow through the system (compare
+       <a href="/wiki/Mass_balance" title="Mass balance">
+        mass balance
+       </a>
+       ). One of the simplest examples of such a system is the case of a bathtub with the tap open but without the bottom plug: after a certain time the water flows in and out at the same rate, so the water level (the state variable being Volume) stabilizes and the system is at steady state. Of course the Volume stabilizing inside the tub depends on the size of the tub, the diameter of the exit hole and the flowrate of water in. Since the tub can overflow, eventually a steady state can be reached where the water flowing in equals the overflow plus the water out through the drain.
+      </p>
+      <p>
+       A steady state flow process requires conditions at all points in an apparatus remain constant as time changes. There must be no accumulation of mass or energy over the time period of interest. The same mass flow rate will remain constant in the flow path through each element of the system.
+       <sup class="reference" id="cite_ref-3">
+        <a href="#cite_note-3">
+         [3]
+        </a>
+       </sup>
+       Thermodynamic properties may vary from point to point, but will remain unchanged at any given point.
+       <sup class="reference" id="cite_ref-4">
+        <a href="#cite_note-4">
+         [4]
+        </a>
+       </sup>
+      </p>
+      <h3>
+       <span class="mw-headline" id="Electrical_engineering">
+        Electrical engineering
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Steady_state&amp;action=edit&amp;section=5" title="Edit section: Electrical engineering">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <div class="hatnote navigation-not-searchable" role="note">
+       Main article:
+       <a href="/wiki/Steady_state_(electronics)" title="Steady state (electronics)">
+        Steady state (electronics)
+       </a>
+      </div>
+      <p>
+       Sinusoidal Steady State Analysis is a method for analyzing
+       <a href="/wiki/Alternating_current" title="Alternating current">
+        alternating current
+       </a>
+       circuits using the same techniques as for solving DC circuits.
+       <sup class="reference" id="cite_ref-5">
+        <a href="#cite_note-5">
+         [5]
+        </a>
+       </sup>
+      </p>
+      <p>
+       The ability of an electrical machine or
+       <a href="/wiki/Electric_power_system" title="Electric power system">
+        power system
+       </a>
+       to regain its original/previous state is called Steady State Stability.
+       <sup class="reference" id="cite_ref-6">
+        <a href="#cite_note-6">
+         [6]
+        </a>
+       </sup>
+      </p>
+      <p>
+       The stability of a system refers to the ability of a system to return to its steady state when subjected to a disturbance. As mentioned before, power is generated by synchronous generators that operate in synchronism with the rest of the system. A generator is synchronized with a bus when both of them have same
+       <a href="/wiki/Frequency" title="Frequency">
+        frequency
+       </a>
+       ,
+       <a href="/wiki/Voltage" title="Voltage">
+        voltage
+       </a>
+       and
+       <a href="/wiki/Polyphase_system" title="Polyphase system">
+        phase sequence
+       </a>
+       . We can thus define the power system stability as the ability of the power system to return to steady state without losing synchronicity. Usually power system stability is categorized into
+       <b>
+        Steady State, Transient and Dynamic Stability
+       </b>
+      </p>
+      <p>
+       Steady State Stability studies are restricted to small and gradual changes in the system operating conditions. In this we basically concentrate on restricting the bus voltages close to their nominal values. We also ensure that phase angles between two buses are not too large and check for the overloading of the power equipment and transmission lines. These checks are usually done using power flow studies.
+      </p>
+      <p>
+       Transient Stability involves the study of the power system following a major disturbance. Following a large disturbance in the synchronous alternator the machine power (load) angle changes due to sudden acceleration of the rotor shaft. The objective of the transient stability study is to ascertain whether the load angle returns to a steady value following the clearance of the disturbance.
+      </p>
+      <p>
+       The ability of a power system to maintain stability under continuous small disturbances is investigated under the name of Dynamic Stability (also known as small-signal stability). These small disturbances occur due random fluctuations in loads and generation levels. In an interconnected power system, these random variations can lead catastrophic failure as this may force the rotor angle to increase steadily.
+      </p>
+      <h3>
+       <span class="mw-headline" id="Mechanical_engineering">
+        Mechanical engineering
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Steady_state&amp;action=edit&amp;section=6" title="Edit section: Mechanical engineering">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       When a periodic force is applied to a mechanical system, it will typically reach steady state after going through some transient behavior. This is often observed in
+       <a href="/wiki/Vibration" title="Vibration">
+        vibrating
+       </a>
+       systems, such as a
+       <a href="/wiki/Pendulum_clock" title="Pendulum clock">
+        clock pendulum
+       </a>
+       , but can happen with any type of
+       <a class="mw-redirect mw-disambig" href="/wiki/Stability_(disambiguation)#Engineering" title="Stability (disambiguation)">
+        stable
+       </a>
+       or semi-stable dynamic system. The length of the transient state will depend on the initial conditions of the system. Given certain initial conditions a system may be in steady state from the beginning.
+      </p>
+      <h3>
+       <span class="mw-headline" id="Physiology">
+        Physiology
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Steady_state&amp;action=edit&amp;section=7" title="Edit section: Physiology">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <div class="hatnote navigation-not-searchable" role="note">
+       Main article:
+       <a href="/wiki/Homeostasis" title="Homeostasis">
+        Homeostasis
+       </a>
+      </div>
+      <p>
+       <b>
+        Homeostasis
+       </b>
+       (from
+       <a href="/wiki/Ancient_Greek" title="Ancient Greek">
+        Greek
+       </a>
+       ὅμοιος,
+       <i>
+        hómoios
+       </i>
+       , "similar" and στάσις,
+       <i>
+        stásis
+       </i>
+       , "standing still") is the property of a system that regulates its internal environment and tends to maintain a stable, constant condition. Typically used to refer to a living
+       <a href="/wiki/Organism" title="Organism">
+        organism
+       </a>
+       , the concept came from that of
+       <a class="mw-redirect" href="/wiki/Milieu_interieur" title="Milieu interieur">
+        milieu interieur
+       </a>
+       that was created by
+       <a href="/wiki/Claude_Bernard" title="Claude Bernard">
+        Claude Bernard
+       </a>
+       and published in 1865. Multiple dynamic equilibrium adjustment and regulation mechanisms make homeostasis possible.
+      </p>
+      <h3>
+       <span class="mw-headline" id="Fiber_optics">
+        Fiber optics
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Steady_state&amp;action=edit&amp;section=8" title="Edit section: Fiber optics">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       In
+       <a class="mw-redirect" href="/wiki/Fiber_optics" title="Fiber optics">
+        fiber optics
+       </a>
+       , "steady state" is a synonym for
+       <a href="/wiki/Equilibrium_mode_distribution" title="Equilibrium mode distribution">
+        equilibrium mode distribution
+       </a>
+       .
+       <sup class="reference" id="cite_ref-7">
+        <a href="#cite_note-7">
+         [7]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="See_also">
+        See also
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Steady_state&amp;action=edit&amp;section=9" title="Edit section: See also">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="div-col columns column-width" style="-moz-column-width: 15em; -webkit-column-width: 15em; column-width: 15em;">
+       <ul>
+        <li>
+         <a href="/wiki/Attractor" title="Attractor">
+          Attractor
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Carrying_capacity" title="Carrying capacity">
+          Carrying capacity
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Control_theory" title="Control theory">
+          Control theory
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Dynamical_system" title="Dynamical system">
+          Dynamical system
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Ecological_footprint" title="Ecological footprint">
+          Ecological footprint
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Economic_growth" title="Economic growth">
+          Economic growth
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Engine_test_stand" title="Engine test stand">
+          Engine test stand
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/List_of_types_of_equilibrium" title="List of types of equilibrium">
+          List of types of equilibrium
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Evolutionary_economics" title="Evolutionary economics">
+          Evolutionary economics
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Growth_curve_(statistics)" title="Growth curve (statistics)">
+          Growth curve
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Herman_Daly" title="Herman Daly">
+          Herman Daly
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Homeostasis" title="Homeostasis">
+          Homeostasis
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Limit_cycle" title="Limit cycle">
+          Limit cycle
+         </a>
+        </li>
+        <li>
+         <a class="mw-redirect" href="/wiki/Limits_to_Growth" title="Limits to Growth">
+          Limits to Growth
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Population_dynamics" title="Population dynamics">
+          Population dynamics
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Simulation" title="Simulation">
+          Simulation
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/State_function" title="State function">
+          State function
+         </a>
+        </li>
+        <li>
+         <a class="mw-redirect" href="/wiki/Steady_state_economy" title="Steady state economy">
+          Steady state economy
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Steady_State_theory" title="Steady State theory">
+          Steady State theory
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Systems_theory" title="Systems theory">
+          Systems theory
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Thermodynamic_equilibrium" title="Thermodynamic equilibrium">
+          Thermodynamic equilibrium
+         </a>
+        </li>
+       </ul>
+      </div>
+      <h2>
+       <span class="mw-headline" id="References">
+        References
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Steady_state&amp;action=edit&amp;section=10" title="Edit section: References">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+       <ol class="references">
+        <li id="cite_note-:0-1">
+         <span class="mw-cite-backlink">
+          ^
+          <a href="#cite_ref-:0_1-0">
+           <sup>
+            <i>
+             <b>
+              a
+             </b>
+            </i>
+           </sup>
+          </a>
+          <a href="#cite_ref-:0_1-1">
+           <sup>
+            <i>
+             <b>
+              b
+             </b>
+            </i>
+           </sup>
+          </a>
+          <a href="#cite_ref-:0_1-2">
+           <sup>
+            <i>
+             <b>
+              c
+             </b>
+            </i>
+           </sup>
+          </a>
+         </span>
+         <span class="reference-text">
+          <cite class="citation book">
+           Gagniuc, Paul A. (2017).
+           <i>
+            Markov Chains: From Theory to Implementation and Experimentation
+           </i>
+           . USA, NJ: John Wiley &amp; Sons. pp. 46–59.
+           <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+            ISBN
+           </a>
+           <a href="/wiki/Special:BookSources/978-1-119-38755-8" title="Special:BookSources/978-1-119-38755-8">
+            978-1-119-38755-8
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Markov+Chains%3A+From+Theory+to+Implementation+and+Experimentation&amp;rft.place=USA%2C+NJ&amp;rft.pages=46-59&amp;rft.pub=John+Wiley+%26+Sons&amp;rft.date=2017&amp;rft.isbn=978-1-119-38755-8&amp;rft.aulast=Gagniuc&amp;rft.aufirst=Paul+A.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASteady+state">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-Ricardo_Antunes-2">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-Ricardo_Antunes_2-0">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation journal">
+           Antunes, Ricardo; González, Vicente; Walsh, Kenneth (July 2015).
+           <a class="external text" href="https://www.researchgate.net/publication/280721552_Identification_of_Repetitive_Processes_at_Steady-_and_Unsteady-state_Transfer_Function" rel="nofollow">
+            "Identification of Repetitive Processes at Steady- and Unsteady-state: Transfer Function"
+           </a>
+           (Proc. 23rd Ann. Conf. of the Int’l. Group for Lean Construction).
+           <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+            doi
+           </a>
+           :
+           <a class="external text" href="//doi.org/10.13140%2FRG.2.1.4193.7364" rel="nofollow">
+            10.13140/RG.2.1.4193.7364
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Identification+of+Repetitive+Processes+at+Steady-+and+Unsteady-state%3A+Transfer+Function&amp;rft.issue=Proc.+23rd+Ann.+Conf.+of+the+Int%E2%80%99l.+Group+for+Lean+Construction&amp;rft.date=2015-07&amp;rft_id=info%3Adoi%2F10.13140%2FRG.2.1.4193.7364&amp;rft.aulast=Antunes&amp;rft.aufirst=Ricardo&amp;rft.au=Gonz%C3%A1lez%2C+Vicente&amp;rft.au=Walsh%2C+Kenneth&amp;rft_id=https%3A%2F%2Fwww.researchgate.net%2Fpublication%2F280721552_Identification_of_Repetitive_Processes_at_Steady-_and_Unsteady-state_Transfer_Function&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASteady+state">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-3">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-3">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation book">
+           Smith, J. M.; Van Ness, H. C. (1959).
+           <i>
+            Introduction to Chemical Engineering Thermodynamics
+           </i>
+           (2nd ed.). McGraw-Hill. p. 34.
+           <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+            ISBN
+           </a>
+           <a href="/wiki/Special:BookSources/0-070-49486-X" title="Special:BookSources/0-070-49486-X">
+            0-070-49486-X
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Introduction+to+Chemical+Engineering+Thermodynamics&amp;rft.pages=34&amp;rft.edition=2nd&amp;rft.pub=McGraw-Hill&amp;rft.date=1959&amp;rft.isbn=0-070-49486-X&amp;rft.aulast=Smith&amp;rft.aufirst=J.+M.&amp;rft.au=Van+Ness%2C+H.+C.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASteady+state">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-4">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-4">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation book">
+           Zemansky, M. W.; Van Ness, H. C. (1966).
+           <i>
+            Basic Engineering Thermodynamics
+           </i>
+           . McGraw-Hill. p. 244.
+           <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+            ISBN
+           </a>
+           <a href="/wiki/Special:BookSources/0-070-72805-4" title="Special:BookSources/0-070-72805-4">
+            0-070-72805-4
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Basic+Engineering+Thermodynamics&amp;rft.pages=244&amp;rft.pub=McGraw-Hill&amp;rft.date=1966&amp;rft.isbn=0-070-72805-4&amp;rft.aulast=Zemansky&amp;rft.aufirst=M.+W.&amp;rft.au=Van+Ness%2C+H.+C.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASteady+state">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-5">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-5">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <a class="external autonumber" href="https://www.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-ac-analysis-intro1" rel="nofollow">
+           [1]
+          </a>
+         </span>
+        </li>
+        <li id="cite_note-6">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-6">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <a class="external text" href="http://nptel.iitm.ac.in/courses/Webcourse-contents/IIT-KANPUR/power-system/chapter_9/9_1.html#steady" rel="nofollow">
+           Power System Analysis
+          </a>
+         </span>
+        </li>
+        <li id="cite_note-7">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-7">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <img alt="" data-file-height="196" data-file-width="196" height="12" src="//upload.wikimedia.org/wikipedia/en/thumb/6/62/PD-icon.svg/12px-PD-icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/6/62/PD-icon.svg/18px-PD-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/6/62/PD-icon.svg/24px-PD-icon.svg.png 2x" width="12"/>
+          This article incorporates
+          <a href="/wiki/Copyright_status_of_work_by_the_U.S._government" title="Copyright status of work by the U.S. government">
+           public domain material
+          </a>
+          from the
+          <a href="/wiki/General_Services_Administration" title="General Services Administration">
+           General Services Administration
+          </a>
+          document
+          <a class="external text" href="http://www.its.bldrdoc.gov/fs-1037/fs-1037c.htm" rel="nofollow">
+           "Federal Standard 1037C"
+          </a>
+          (in support of
+          <a href="/wiki/MIL-STD-188" title="MIL-STD-188">
+           MIL-STD-188
+          </a>
+          ).
+         </span>
+        </li>
+       </ol>
+      </div>
+      <!-- 
+NewPP limit report
+Parsed by mw1282
+Cached time: 20180202083056
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.104 seconds
+Real time usage: 0.172 seconds
+Preprocessor visited node count: 611/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 11184/2097152 bytes
+Template argument size: 703/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 1/500
+Lua time usage: 0.042/10.000 seconds
+Lua memory usage: 2.44 MB/50 MB
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  114.343      1 -total
+ 59.67%   68.224      1 Template:Reflist
+ 30.49%   34.861      3 Template:Cite_book
+ 20.42%   23.346      1 Template:Other_uses2
+  9.05%   10.347      1 Template:Cite_journal
+  8.59%    9.822      1 Template:FS1037C_MS188
+  7.52%    8.595      5 Template:Main
+  7.38%    8.442      1 Template:Include-USGov
+  6.59%    7.530      1 Template:Div_col
+  4.48%    5.119      2 Template:If_empty
+-->
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:1326107-0!canonical!math=5 and timestamp 20180202083057 and revision id 823608797
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Steady_state&amp;oldid=823608797">
+      https://en.wikipedia.org/w/index.php?title=Steady_state&amp;oldid=823608797
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Systems_theory" title="Category:Systems theory">
+         Systems theory
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:Wikipedia_articles_incorporating_text_from_the_Federal_Standard_1037C" title="Category:Wikipedia articles incorporating text from the Federal Standard 1037C">
+         Wikipedia articles incorporating text from the Federal Standard 1037C
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Wikipedia_articles_incorporating_text_from_MIL-STD-188" title="Category:Wikipedia articles incorporating text from MIL-STD-188">
+         Wikipedia articles incorporating text from MIL-STD-188
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Pages_using_div_col_with_deprecated_parameters" title="Category:Pages using div col with deprecated parameters">
+         Pages using div col with deprecated parameters
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Steady+state" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Steady+state" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Steady_state" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Steady_state" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="collapsible selected" id="ca-view">
+        <span>
+         <a href="/wiki/Steady_state">
+          Read
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Steady_state&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Steady_state&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Steady_state" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Steady_state" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Steady_state&amp;oldid=823608797" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Steady_state&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q5788637" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Steady_state&amp;id=823608797" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Steady+state">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Steady+state&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Steady_state&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-af">
+        <a class="interlanguage-link-target" href="https://af.wikipedia.org/wiki/Gestadigde_toestand" hreflang="af" lang="af" title="Gestadigde toestand – Afrikaans">
+         Afrikaans
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ar">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%AD%D8%A7%D9%84%D8%A9_%D8%AB%D8%A7%D8%A8%D8%AA%D8%A9" hreflang="ar" lang="ar" title="حالة ثابتة – Arabic">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Estat_estacionari" hreflang="ca" lang="ca" title="Estat estacionari – Catalan">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Station%C3%A4rer_Vorgang" hreflang="de" lang="de" title="Stationärer Vorgang – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Estado_estacionario" hreflang="es" lang="es" title="Estado estacionario – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fa">
+        <a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%AD%D8%A7%D9%84%D8%AA_%D8%AF%D8%A7%DB%8C%D9%85%DB%8C" hreflang="fa" lang="fa" title="حالت دایمی – Persian">
+         فارسی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/%C3%89tat_stationnaire" hreflang="fr" lang="fr" title="État stationnaire – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hi">
+        <a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE%E0%A4%88_%E0%A4%85%E0%A4%B5%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE" hreflang="hi" lang="hi" title="स्थाई अवस्था – Hindi">
+         हिन्दी
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hr">
+        <a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Stacionarno_stanje" hreflang="hr" lang="hr" title="Stacionarno stanje – Croatian">
+         Hrvatski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-id">
+        <a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Keadaan_tunak" hreflang="id" lang="id" title="Keadaan tunak – Indonesian">
+         Bahasa Indonesia
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E5%AE%9A%E5%B8%B8%E7%8A%B6%E6%85%8B" hreflang="ja" lang="ja" title="定常状態 – Japanese">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-no">
+        <a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Steady_state" hreflang="no" lang="no" title="Steady state – Norwegian">
+         Norsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pl">
+        <a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Stan_ustalony" hreflang="pl" lang="pl" title="Stan ustalony – Polish">
+         Polski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Estado_estacion%C3%A1rio" hreflang="pt" lang="pt" title="Estado estacionário – Portuguese">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D1%80%D0%BD%D0%BE%D0%B5_%D1%81%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D0%B5_(%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0)" hreflang="ru" lang="ru" title="Стационарное состояние (математика) – Russian">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uk">
+        <a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%A1%D1%82%D0%B0%D1%86%D1%96%D0%BE%D0%BD%D0%B0%D1%80%D0%BD%D0%B8%D0%B9_%D1%81%D1%82%D0%B0%D0%BD_%D0%B4%D0%B8%D1%81%D0%B8%D0%BF%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D1%97_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B8" hreflang="uk" lang="uk" title="Стаціонарний стан дисипативної системи – Ukrainian">
+         Українська
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q5788637#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 2 February 2018, at 08:30.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Steady_state&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.104","walltime":"0.172","ppvisitednodes":{"value":611,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":11184,"limit":2097152},"templateargumentsize":{"value":703,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  114.343      1 -total"," 59.67%   68.224      1 Template:Reflist"," 30.49%   34.861      3 Template:Cite_book"," 20.42%   23.346      1 Template:Other_uses2","  9.05%   10.347      1 Template:Cite_journal","  8.59%    9.822      1 Template:FS1037C_MS188","  7.52%    8.595      5 Template:Main","  7.38%    8.442      1 Template:Include-USGov","  6.59%    7.530      1 Template:Div_col","  4.48%    5.119      2 Template:If_empty"]},"scribunto":{"limitreport-timeusage":{"value":"0.042","limit":"10.000"},"limitreport-memusage":{"value":2556180,"limit":52428800}},"cachereport":{"origin":"mw1282","timestamp":"20180202083056","ttl":1900800,"transientcontent":false}}});});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":64,"wgHostname":"mw1270"});});
+  </script>
+ </body>
+</html>
