@@ -12,13 +12,13 @@
 		     below format
 		     D1	D2 D3 D4
 		     D2	D5 D6 
-		     D3 D7 D8
-		     where D1 is webpage docID and each line in the graph indicates the in-link relationship.
-		     which means D1 has three incoming links from D2, D3, D4.
-		> B. Use the same steps as in A to construct a graph G2 from the previously crawled data 
-             using DFS algorithm.
-        > C. Generate a brief report on simple statistics over graphs G1 and G2, the number of 
-             pages with no in-links, the number of pages with no out-links(sinks). 
+		     D3 D7 D8 
+		     where D1 is webpage docID and each line in the graph indicates the in-link 
+		     relationship which means D1 has three incoming links from D2, D3, D4.
+		> B. Use the same steps as in A to construct a graph G2 from the previously crawled 
+		     data using DFS algorithm.
+		> C. Generate a brief report on simple statistics over graphs G1 and G2, the number of 
+		     pages with no in-links, the number of pages with no out-links(sinks). 
 		  
  Task 2: Link Analysis: Implementations
 
@@ -38,13 +38,13 @@
 			    cons of using the in-link count as an alternative to PageRank 
 			    (address at least 2	pros and 2 cons).
 
-####################################################################################################
+##################################################################################################
 
  DELIVERABLES:
 
 		> Source Code : PageRank.py(for page rank implementation) and GraphGeneration.py
 		               (for graph generation)
-		> README.txt  : Details of the tasks, deliverables, setup or installation guide, 
+		> README.txt  : Details of the tasks, deliverables, setup or installation guide,
 		                steps to run the program.
 		> Two text files : Graph_BFS.txt, Graph_DFS.txt containing graphs generated from 
 		                   crawled links usinG BFS and DFS as Crawling algorithms.
@@ -62,7 +62,7 @@
 		> Task2-C.txt : Detail report on the result obtained from comparison of each PageRanking
 		                run.  
 		
-############################################################################################################	
+###################################################################################################
 
  INSTALLATION GUIDE:
 
@@ -75,19 +75,19 @@
 		       3. After successful installation. 
 		       4. Run Command : 'pip install requests'
 		       
-#############################################################################################################
+####################################################################################################
 
 
  STEPS TO RUN PROGRAM:
 
 		> Open Command Prompt in Windows
-		> Run the program using the commands: 'python GraphGeneration.py' (To crawl and generate G1(BFS) and  
-		  G2(DFS) graphs in files Graph_BFS.txt and Graph_DFS.txt
-		> Navigate to the desired directory where the files PageRank.py is placed along with the Graph_BFS.txt 
-		  and Graph_DFS.txt
+		> Run the program using the commands: 'python GraphGeneration.py' (To crawl and generate G1(BFS) 
+		  and G2(DFS) graphs in files Graph_BFS.txt and Graph_DFS.txt
+		> Navigate to the desired directory where the files PageRank.py is placed along with the 
+		  Graph_BFS.txt and Graph_DFS.txt
 		> Run the program using the commands: 'python PageRank.py'
 		     
-#############################################################################################################
+#####################################################################################################
 
 RESULTS:
         > After running the command 'python GraphGeneration.py'
