@@ -1,0 +1,5424 @@
+https://en.wikipedia.org/wiki/Debye_length
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Debye length - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Debye_length","wgTitle":"Debye length","wgCurRevisionId":813205101,"wgRevisionId":813205101,"wgArticleId":1158235,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Electricity","Colloidal chemistry","Plasma physics","Electrochemistry","Length","Peter Debye"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Debye_length","wgRelevantArticleId":1158235,"wgRequestId":"WqWGFgpAIC8AABb@xLcAAACX","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q898268","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.math.styles":"ready","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.math.scripts","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.31.0-wmf.24" name="generator"/>
+  <meta content="origin" name="referrer"/>
+  <meta content="origin-when-crossorigin" name="referrer"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Debye_length" rel="alternate"/>
+  <link href="/w/index.php?title=Debye_length&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Debye_length&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/Debye_length" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Debye_length rootpage-Debye_length skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Debye length
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <p>
+       In
+       <a href="/wiki/Plasma_(physics)" title="Plasma (physics)">
+        plasmas
+       </a>
+       and
+       <a href="/wiki/Electrolyte" title="Electrolyte">
+        electrolytes
+       </a>
+       , the
+       <b>
+        Debye length
+       </b>
+       (also called
+       <b>
+        Debye radius
+       </b>
+       ), named after the Dutch physicist and physical chemist
+       <a href="/wiki/Peter_Debye" title="Peter Debye">
+        Peter Debye
+       </a>
+       , is a measure of a charge carrier's net electrostatic effect in solution and how far its electrostatic effect persists. A
+       <b>
+        Debye sphere
+       </b>
+       is a volume whose radius is the Debye length. With each Debye length, charges are increasingly
+       <a href="/wiki/Electric-field_screening" title="Electric-field screening">
+        electrically screened
+       </a>
+       . Every Debye‐length
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle \lambda _{D}}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <msub>
+              <mi>
+               λ
+               <!-- λ -->
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                D
+               </mi>
+              </mrow>
+             </msub>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle \lambda _{D}}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="\lambda _{D}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f2e5040a1dc6a5145caa1ed08a9bd0fd5587b684" style="vertical-align: -0.671ex; width:2.948ex; height:2.509ex;"/>
+       </span>
+       , the electric potential will decrease in magnitude by 1/e. Debye length is an important parameter in
+       <a class="mw-redirect" href="/wiki/Plasma_physics" title="Plasma physics">
+        plasma physics
+       </a>
+       ,
+       <a class="mw-redirect" href="/wiki/Electrolytes" title="Electrolytes">
+        electrolytes
+       </a>
+       , and
+       <a class="mw-redirect" href="/wiki/Colloids" title="Colloids">
+        colloids
+       </a>
+       (
+       <a href="/wiki/DLVO_theory" title="DLVO theory">
+        DLVO theory
+       </a>
+       ). The corresponding Debye screening wave vector
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle k_{D}=1/\lambda _{D}}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <msub>
+              <mi>
+               k
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                D
+               </mi>
+              </mrow>
+             </msub>
+             <mo>
+              =
+             </mo>
+             <mn>
+              1
+             </mn>
+             <mrow class="MJX-TeXAtom-ORD">
+              <mo>
+               /
+              </mo>
+             </mrow>
+             <msub>
+              <mi>
+               λ
+               <!-- λ -->
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                D
+               </mi>
+              </mrow>
+             </msub>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle k_{D}=1/\lambda _{D}}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="{\displaystyle k_{D}=1/\lambda _{D}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/28b8371d90819fab2d4ff4387601535ea56de32c" style="vertical-align: -0.838ex; width:11.176ex; height:2.843ex;"/>
+       </span>
+       for particles of density
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle n}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              n
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle n}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="n" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a601995d55609f2d9f5e233e36fbe9ea26011b3b" style="vertical-align: -0.338ex; width:1.395ex; height:1.676ex;"/>
+       </span>
+       , charge
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle q}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              q
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle q}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="q" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/06809d64fa7c817ffc7e323f85997f783dbdf71d" style="vertical-align: -0.671ex; width:1.07ex; height:2.009ex;"/>
+       </span>
+       at a temperature
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle T}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              T
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle T}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="T" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ec7200acd984a1d3a3d7dc455e262fbe54f7f6e0" style="vertical-align: -0.338ex; width:1.636ex; height:2.176ex;"/>
+       </span>
+       is given by
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle :k_{D}^{2}=4\pi nq^{2}/k_{B}T}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mo>
+              :
+             </mo>
+             <msubsup>
+              <mi>
+               k
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                D
+               </mi>
+              </mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mn>
+                2
+               </mn>
+              </mrow>
+             </msubsup>
+             <mo>
+              =
+             </mo>
+             <mn>
+              4
+             </mn>
+             <mi>
+              π
+              <!-- π -->
+             </mi>
+             <mi>
+              n
+             </mi>
+             <msup>
+              <mi>
+               q
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mn>
+                2
+               </mn>
+              </mrow>
+             </msup>
+             <mrow class="MJX-TeXAtom-ORD">
+              <mo>
+               /
+              </mo>
+             </mrow>
+             <msub>
+              <mi>
+               k
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                B
+               </mi>
+              </mrow>
+             </msub>
+             <mi>
+              T
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle :k_{D}^{2}=4\pi nq^{2}/k_{B}T}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="{\displaystyle :k_{D}^{2}=4\pi nq^{2}/k_{B}T}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/98a0c1776b9564b0e3951eeec887a443c47fd885" style="vertical-align: -1.005ex; width:18.707ex; height:3.343ex;"/>
+       </span>
+       in Gaussian units. Expressions in MKS units will be given below. The analogous quantities at very low temperatures (
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle T\to 0}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              T
+             </mi>
+             <mo stretchy="false">
+              →
+              <!-- → -->
+             </mo>
+             <mn>
+              0
+             </mn>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle T\to 0}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="{\displaystyle T\to 0}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/172072bf793764a685a01bd2624d24a01852b15f" style="vertical-align: -0.338ex; width:6.413ex; height:2.176ex;"/>
+       </span>
+       ) are known as the
+       <a href="/wiki/Thomas%E2%80%93Fermi_screening" title="Thomas–Fermi screening">
+        Thomas-Fermi length
+       </a>
+       and the Thomas-Fermi wave vector. They are of interest in describing the behaviour of electrons in metals at room temperature.
+      </p>
+      <p>
+      </p>
+      <div class="toc" id="toc">
+       <div class="toctitle" dir="ltr" lang="en" xml:lang="en">
+        <h2>
+         Contents
+        </h2>
+       </div>
+       <ul>
+        <li class="toclevel-1 tocsection-1">
+         <a href="#Physical_origin">
+          <span class="tocnumber">
+           1
+          </span>
+          <span class="toctext">
+           Physical origin
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-2">
+         <a href="#Typical_values">
+          <span class="tocnumber">
+           2
+          </span>
+          <span class="toctext">
+           Typical values
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-3">
+         <a href="#In_a_plasma">
+          <span class="tocnumber">
+           3
+          </span>
+          <span class="toctext">
+           In a plasma
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-4">
+         <a href="#In_an_electrolyte_solution">
+          <span class="tocnumber">
+           4
+          </span>
+          <span class="toctext">
+           In an electrolyte solution
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-5">
+         <a href="#In_semiconductors">
+          <span class="tocnumber">
+           5
+          </span>
+          <span class="toctext">
+           In semiconductors
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-6">
+         <a href="#See_also">
+          <span class="tocnumber">
+           6
+          </span>
+          <span class="toctext">
+           See also
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-7">
+         <a href="#References">
+          <span class="tocnumber">
+           7
+          </span>
+          <span class="toctext">
+           References
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-8">
+         <a href="#Further_reading">
+          <span class="tocnumber">
+           8
+          </span>
+          <span class="toctext">
+           Further reading
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <p>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Physical_origin">
+        Physical origin
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Debye_length&amp;action=edit&amp;section=1" title="Edit section: Physical origin">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       The Debye length arises naturally in the thermodynamic description of large systems of mobile charges. In a system of
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle N}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              N
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle N}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="N" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f5e3890c981ae85503089652feb48b191b57aae3" style="vertical-align: -0.338ex; width:2.064ex; height:2.176ex;"/>
+       </span>
+       different species of charges, the
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle j}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              j
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle j}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="j" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2f461e54f5c093e92a55547b9764291390f0b5d0" style="vertical-align: -0.671ex; margin-left: -0.027ex; width:0.985ex; height:2.509ex;"/>
+       </span>
+       -th species carries charge
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle q_{j}}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <msub>
+              <mi>
+               q
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                j
+               </mi>
+              </mrow>
+             </msub>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle q_{j}}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="q_{j}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e0d567ac2d170501680d2efa4c1d71d6a8569ef1" style="vertical-align: -1.005ex; width:1.947ex; height:2.343ex;"/>
+       </span>
+       and has
+       <a href="/wiki/Concentration" title="Concentration">
+        concentration
+       </a>
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle n_{j}(\mathbf {r} )}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <msub>
+              <mi>
+               n
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                j
+               </mi>
+              </mrow>
+             </msub>
+             <mo stretchy="false">
+              (
+             </mo>
+             <mrow class="MJX-TeXAtom-ORD">
+              <mi mathvariant="bold">
+               r
+              </mi>
+             </mrow>
+             <mo stretchy="false">
+              )
+             </mo>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle n_{j}(\mathbf {r} )}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="n_{j}(\mathbf {r} )" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f2aa46d063612bf51f90d9f6902809251d59acef" style="vertical-align: -1.005ex; width:5.216ex; height:3.009ex;"/>
+       </span>
+       at position
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle \mathbf {r} }" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mrow class="MJX-TeXAtom-ORD">
+              <mi mathvariant="bold">
+               r
+              </mi>
+             </mrow>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle \mathbf {r} }
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="\mathbf {r} " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/eca0f46511c4c986c48b254073732c0bd98ae0c1" style="vertical-align: -0.338ex; width:1.102ex; height:1.676ex;"/>
+       </span>
+       . According to the so-called "primitive model", these charges are distributed in a continuous medium that is characterized only by its
+       <a class="mw-redirect" href="/wiki/Relative_static_permittivity" title="Relative static permittivity">
+        relative static permittivity
+       </a>
+       ,
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle \varepsilon _{r}}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <msub>
+              <mi>
+               ε
+               <!-- ε -->
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                r
+               </mi>
+              </mrow>
+             </msub>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle \varepsilon _{r}}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="\varepsilon _{r}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/287bce0849b56661bbaebca9942dfe3a6cadc21c" style="vertical-align: -0.671ex; width:2.057ex; height:2.009ex;"/>
+       </span>
+       . This distribution of charges within this medium gives rise to an
+       <a href="/wiki/Electric_potential" title="Electric potential">
+        electric potential
+       </a>
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle \Phi (\mathbf {r} )}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi mathvariant="normal">
+              Φ
+              <!-- Φ -->
+             </mi>
+             <mo stretchy="false">
+              (
+             </mo>
+             <mrow class="MJX-TeXAtom-ORD">
+              <mi mathvariant="bold">
+               r
+              </mi>
+             </mrow>
+             <mo stretchy="false">
+              )
+             </mo>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle \Phi (\mathbf {r} )}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="\Phi (\mathbf {r} )" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0aae204acbbf8529f6aebad36b0968d6eb4d8658" style="vertical-align: -0.838ex; width:4.589ex; height:2.843ex;"/>
+       </span>
+       that satisfies
+       <a href="/wiki/Poisson%27s_equation" title="Poisson's equation">
+        Poisson's equation
+       </a>
+       :
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle \varepsilon \nabla ^{2}\Phi (\mathbf {r} )=-\,\sum _{j=1}^{N}q_{j}\,n_{j}(\mathbf {r} )-\rho _{E}(\mathbf {r} )}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mi>
+               ε
+               <!-- ε -->
+              </mi>
+              <msup>
+               <mi mathvariant="normal">
+                ∇
+                <!-- ∇ -->
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mn>
+                 2
+                </mn>
+               </mrow>
+              </msup>
+              <mi mathvariant="normal">
+               Φ
+               <!-- Φ -->
+              </mi>
+              <mo stretchy="false">
+               (
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi mathvariant="bold">
+                r
+               </mi>
+              </mrow>
+              <mo stretchy="false">
+               )
+              </mo>
+              <mo>
+               =
+              </mo>
+              <mo>
+               −
+               <!-- − -->
+              </mo>
+              <mspace width="thinmathspace">
+              </mspace>
+              <munderover>
+               <mo>
+                ∑
+                <!-- ∑ -->
+               </mo>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 j
+                </mi>
+                <mo>
+                 =
+                </mo>
+                <mn>
+                 1
+                </mn>
+               </mrow>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 N
+                </mi>
+               </mrow>
+              </munderover>
+              <msub>
+               <mi>
+                q
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 j
+                </mi>
+               </mrow>
+              </msub>
+              <mspace width="thinmathspace">
+              </mspace>
+              <msub>
+               <mi>
+                n
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 j
+                </mi>
+               </mrow>
+              </msub>
+              <mo stretchy="false">
+               (
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi mathvariant="bold">
+                r
+               </mi>
+              </mrow>
+              <mo stretchy="false">
+               )
+              </mo>
+              <mo>
+               −
+               <!-- − -->
+              </mo>
+              <msub>
+               <mi>
+                ρ
+                <!-- ρ -->
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 E
+                </mi>
+               </mrow>
+              </msub>
+              <mo stretchy="false">
+               (
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi mathvariant="bold">
+                r
+               </mi>
+              </mrow>
+              <mo stretchy="false">
+               )
+              </mo>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle \varepsilon \nabla ^{2}\Phi (\mathbf {r} )=-\,\sum _{j=1}^{N}q_{j}\,n_{j}(\mathbf {r} )-\rho _{E}(\mathbf {r} )}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="\varepsilon \nabla ^{2}\Phi (\mathbf {r} )=-\,\sum _{j=1}^{N}q_{j}\,n_{j}(\mathbf {r} )-\rho _{E}(\mathbf {r} )" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7e24c1a565c0e9f30b4af2260617d16ddbdb4187" style="vertical-align: -3.338ex; width:34.077ex; height:7.676ex;"/>
+        </span>
+        ,
+       </dd>
+      </dl>
+      <p>
+       where
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle \varepsilon \equiv \varepsilon _{r}\varepsilon _{0}}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              ε
+              <!-- ε -->
+             </mi>
+             <mo>
+              ≡
+              <!-- ≡ -->
+             </mo>
+             <msub>
+              <mi>
+               ε
+               <!-- ε -->
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                r
+               </mi>
+              </mrow>
+             </msub>
+             <msub>
+              <mi>
+               ε
+               <!-- ε -->
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mn>
+                0
+               </mn>
+              </mrow>
+             </msub>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle \varepsilon \equiv \varepsilon _{r}\varepsilon _{0}}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="\varepsilon \equiv \varepsilon _{r}\varepsilon _{0}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f6ad4682f285316198fb80cea35c3f85a338d025" style="vertical-align: -0.671ex; width:8.377ex; height:2.009ex;"/>
+       </span>
+       ,
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle \varepsilon _{0}}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <msub>
+              <mi>
+               ε
+               <!-- ε -->
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mn>
+                0
+               </mn>
+              </mrow>
+             </msub>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle \varepsilon _{0}}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="\varepsilon _{0}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/acb0a8377db20e42274444cb181d51b5532b5844" style="vertical-align: -0.671ex; width:2.138ex; height:2.009ex;"/>
+       </span>
+       is the
+       <a class="mw-redirect" href="/wiki/Electric_constant" title="Electric constant">
+        electric constant
+       </a>
+       , and
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle \rho _{E}}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <msub>
+              <mi>
+               ρ
+               <!-- ρ -->
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                E
+               </mi>
+              </mrow>
+             </msub>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle \rho _{E}}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="\rho _{E}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/cea77f3e3b1a2495a67ef34878a23aac5260531c" style="vertical-align: -0.838ex; width:2.69ex; height:2.176ex;"/>
+       </span>
+       is a charge density external (logically, not spatially) to the medium.
+      </p>
+      <p>
+       The mobile charges not only establish
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle \Phi (\mathbf {r} )}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi mathvariant="normal">
+              Φ
+              <!-- Φ -->
+             </mi>
+             <mo stretchy="false">
+              (
+             </mo>
+             <mrow class="MJX-TeXAtom-ORD">
+              <mi mathvariant="bold">
+               r
+              </mi>
+             </mrow>
+             <mo stretchy="false">
+              )
+             </mo>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle \Phi (\mathbf {r} )}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="\Phi (\mathbf {r} )" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0aae204acbbf8529f6aebad36b0968d6eb4d8658" style="vertical-align: -0.838ex; width:4.589ex; height:2.843ex;"/>
+       </span>
+       but also move in response to the associated
+       <a href="/wiki/Coulomb%27s_law" title="Coulomb's law">
+        Coulomb force
+       </a>
+       ,
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle -q_{j}\,\nabla \Phi (\mathbf {r} )}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mo>
+              −
+              <!-- − -->
+             </mo>
+             <msub>
+              <mi>
+               q
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                j
+               </mi>
+              </mrow>
+             </msub>
+             <mspace width="thinmathspace">
+             </mspace>
+             <mi mathvariant="normal">
+              ∇
+              <!-- ∇ -->
+             </mi>
+             <mi mathvariant="normal">
+              Φ
+              <!-- Φ -->
+             </mi>
+             <mo stretchy="false">
+              (
+             </mo>
+             <mrow class="MJX-TeXAtom-ORD">
+              <mi mathvariant="bold">
+               r
+              </mi>
+             </mrow>
+             <mo stretchy="false">
+              )
+             </mo>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle -q_{j}\,\nabla \Phi (\mathbf {r} )}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="-q_{j}\,\nabla \Phi (\mathbf {r} )" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c5c6a797044f431d15a9c3a44962c3621ef6d808" style="vertical-align: -1.005ex; width:10.667ex; height:3.009ex;"/>
+       </span>
+       . If we further assume the system to be in
+       <a href="/wiki/Thermodynamic_equilibrium" title="Thermodynamic equilibrium">
+        thermodynamic equilibrium
+       </a>
+       with a
+       <a class="mw-redirect" href="/wiki/Heat_bath" title="Heat bath">
+        heat bath
+       </a>
+       at
+       <a class="mw-redirect" href="/wiki/Absolute_temperature" title="Absolute temperature">
+        absolute temperature
+       </a>
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle T}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              T
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle T}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="T" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ec7200acd984a1d3a3d7dc455e262fbe54f7f6e0" style="vertical-align: -0.338ex; width:1.636ex; height:2.176ex;"/>
+       </span>
+       , then the concentrations of discrete charges,
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle n_{j}(\mathbf {r} )}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <msub>
+              <mi>
+               n
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                j
+               </mi>
+              </mrow>
+             </msub>
+             <mo stretchy="false">
+              (
+             </mo>
+             <mrow class="MJX-TeXAtom-ORD">
+              <mi mathvariant="bold">
+               r
+              </mi>
+             </mrow>
+             <mo stretchy="false">
+              )
+             </mo>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle n_{j}(\mathbf {r} )}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="n_{j}(\mathbf {r} )" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f2aa46d063612bf51f90d9f6902809251d59acef" style="vertical-align: -1.005ex; width:5.216ex; height:3.009ex;"/>
+       </span>
+       , may be considered to be thermodynamic (ensemble) averages and the associated
+       <a href="/wiki/Electric_potential" title="Electric potential">
+        electric potential
+       </a>
+       to be a thermodynamic
+       <a href="/wiki/Mean_field_theory" title="Mean field theory">
+        mean field
+       </a>
+       . With these assumptions, the concentration of the
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle j}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              j
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle j}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="j" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2f461e54f5c093e92a55547b9764291390f0b5d0" style="vertical-align: -0.671ex; margin-left: -0.027ex; width:0.985ex; height:2.509ex;"/>
+       </span>
+       -th charge species is described by the
+       <a href="/wiki/Boltzmann_distribution" title="Boltzmann distribution">
+        Boltzmann distribution
+       </a>
+       ,
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle n_{j}(\mathbf {r} )=n_{j}^{0}\,\exp \left(-{\frac {q_{j}\,\Phi (\mathbf {r} )}{k_{B}T}}\right)}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <msub>
+               <mi>
+                n
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 j
+                </mi>
+               </mrow>
+              </msub>
+              <mo stretchy="false">
+               (
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi mathvariant="bold">
+                r
+               </mi>
+              </mrow>
+              <mo stretchy="false">
+               )
+              </mo>
+              <mo>
+               =
+              </mo>
+              <msubsup>
+               <mi>
+                n
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 j
+                </mi>
+               </mrow>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mn>
+                 0
+                </mn>
+               </mrow>
+              </msubsup>
+              <mspace width="thinmathspace">
+              </mspace>
+              <mi>
+               exp
+              </mi>
+              <mo>
+               ⁡
+               <!-- ⁡ -->
+              </mo>
+              <mrow>
+               <mo>
+                (
+               </mo>
+               <mrow>
+                <mo>
+                 −
+                 <!-- − -->
+                </mo>
+                <mrow class="MJX-TeXAtom-ORD">
+                 <mfrac>
+                  <mrow>
+                   <msub>
+                    <mi>
+                     q
+                    </mi>
+                    <mrow class="MJX-TeXAtom-ORD">
+                     <mi>
+                      j
+                     </mi>
+                    </mrow>
+                   </msub>
+                   <mspace width="thinmathspace">
+                   </mspace>
+                   <mi mathvariant="normal">
+                    Φ
+                    <!-- Φ -->
+                   </mi>
+                   <mo stretchy="false">
+                    (
+                   </mo>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mi mathvariant="bold">
+                     r
+                    </mi>
+                   </mrow>
+                   <mo stretchy="false">
+                    )
+                   </mo>
+                  </mrow>
+                  <mrow>
+                   <msub>
+                    <mi>
+                     k
+                    </mi>
+                    <mrow class="MJX-TeXAtom-ORD">
+                     <mi>
+                      B
+                     </mi>
+                    </mrow>
+                   </msub>
+                   <mi>
+                    T
+                   </mi>
+                  </mrow>
+                 </mfrac>
+                </mrow>
+               </mrow>
+               <mo>
+                )
+               </mo>
+              </mrow>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle n_{j}(\mathbf {r} )=n_{j}^{0}\,\exp \left(-{\frac {q_{j}\,\Phi (\mathbf {r} )}{k_{B}T}}\right)}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="n_{j}(\mathbf {r} )=n_{j}^{0}\,\exp \left(-{\frac {q_{j}\,\Phi (\mathbf {r} )}{k_{B}T}}\right)" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2bcb7545b8f57f2b4afb2d432096a927e13df4d1" style="vertical-align: -2.505ex; width:28.079ex; height:6.343ex;"/>
+        </span>
+        ,
+       </dd>
+      </dl>
+      <p>
+       where
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle k_{B}}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <msub>
+              <mi>
+               k
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                B
+               </mi>
+              </mrow>
+             </msub>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle k_{B}}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="k_{B}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/70f38f7b73e53fd7b5d9ca64bec3a1438cc0eade" style="vertical-align: -0.671ex; width:2.691ex; height:2.509ex;"/>
+       </span>
+       is
+       <a class="mw-redirect" href="/wiki/Boltzmann%27s_constant" title="Boltzmann's constant">
+        Boltzmann's constant
+       </a>
+       and where
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle n_{j}^{0}}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <msubsup>
+              <mi>
+               n
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                j
+               </mi>
+              </mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mn>
+                0
+               </mn>
+              </mrow>
+             </msubsup>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle n_{j}^{0}}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="n_{j}^{0}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1ae17e64d39dbf6bce8679749acfb97ecc621788" style="vertical-align: -1.338ex; width:2.449ex; height:3.509ex;"/>
+       </span>
+       is the mean concentration of charges of species
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle j}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              j
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle j}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="j" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2f461e54f5c093e92a55547b9764291390f0b5d0" style="vertical-align: -0.671ex; margin-left: -0.027ex; width:0.985ex; height:2.509ex;"/>
+       </span>
+       .
+      </p>
+      <p>
+       Identifying the instantaneous concentrations and potential in the Poisson equation with their mean-field counterparts in Boltzmann's distribution yields the
+       <a href="/wiki/Poisson%E2%80%93Boltzmann_equation" title="Poisson–Boltzmann equation">
+        Poisson–Boltzmann equation
+       </a>
+       :
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle \varepsilon \nabla ^{2}\Phi (\mathbf {r} )=-\,\sum _{j=1}^{N}q_{j}n_{j}^{0}\,\exp \left(-{\frac {q_{j}\,\Phi (\mathbf {r} )}{k_{B}T}}\right)-\rho _{E}(\mathbf {r} )}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mi>
+               ε
+               <!-- ε -->
+              </mi>
+              <msup>
+               <mi mathvariant="normal">
+                ∇
+                <!-- ∇ -->
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mn>
+                 2
+                </mn>
+               </mrow>
+              </msup>
+              <mi mathvariant="normal">
+               Φ
+               <!-- Φ -->
+              </mi>
+              <mo stretchy="false">
+               (
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi mathvariant="bold">
+                r
+               </mi>
+              </mrow>
+              <mo stretchy="false">
+               )
+              </mo>
+              <mo>
+               =
+              </mo>
+              <mo>
+               −
+               <!-- − -->
+              </mo>
+              <mspace width="thinmathspace">
+              </mspace>
+              <munderover>
+               <mo>
+                ∑
+                <!-- ∑ -->
+               </mo>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 j
+                </mi>
+                <mo>
+                 =
+                </mo>
+                <mn>
+                 1
+                </mn>
+               </mrow>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 N
+                </mi>
+               </mrow>
+              </munderover>
+              <msub>
+               <mi>
+                q
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 j
+                </mi>
+               </mrow>
+              </msub>
+              <msubsup>
+               <mi>
+                n
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 j
+                </mi>
+               </mrow>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mn>
+                 0
+                </mn>
+               </mrow>
+              </msubsup>
+              <mspace width="thinmathspace">
+              </mspace>
+              <mi>
+               exp
+              </mi>
+              <mo>
+               ⁡
+               <!-- ⁡ -->
+              </mo>
+              <mrow>
+               <mo>
+                (
+               </mo>
+               <mrow>
+                <mo>
+                 −
+                 <!-- − -->
+                </mo>
+                <mrow class="MJX-TeXAtom-ORD">
+                 <mfrac>
+                  <mrow>
+                   <msub>
+                    <mi>
+                     q
+                    </mi>
+                    <mrow class="MJX-TeXAtom-ORD">
+                     <mi>
+                      j
+                     </mi>
+                    </mrow>
+                   </msub>
+                   <mspace width="thinmathspace">
+                   </mspace>
+                   <mi mathvariant="normal">
+                    Φ
+                    <!-- Φ -->
+                   </mi>
+                   <mo stretchy="false">
+                    (
+                   </mo>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mi mathvariant="bold">
+                     r
+                    </mi>
+                   </mrow>
+                   <mo stretchy="false">
+                    )
+                   </mo>
+                  </mrow>
+                  <mrow>
+                   <msub>
+                    <mi>
+                     k
+                    </mi>
+                    <mrow class="MJX-TeXAtom-ORD">
+                     <mi>
+                      B
+                     </mi>
+                    </mrow>
+                   </msub>
+                   <mi>
+                    T
+                   </mi>
+                  </mrow>
+                 </mfrac>
+                </mrow>
+               </mrow>
+               <mo>
+                )
+               </mo>
+              </mrow>
+              <mo>
+               −
+               <!-- − -->
+              </mo>
+              <msub>
+               <mi>
+                ρ
+                <!-- ρ -->
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 E
+                </mi>
+               </mrow>
+              </msub>
+              <mo stretchy="false">
+               (
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi mathvariant="bold">
+                r
+               </mi>
+              </mrow>
+              <mo stretchy="false">
+               )
+              </mo>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle \varepsilon \nabla ^{2}\Phi (\mathbf {r} )=-\,\sum _{j=1}^{N}q_{j}n_{j}^{0}\,\exp \left(-{\frac {q_{j}\,\Phi (\mathbf {r} )}{k_{B}T}}\right)-\rho _{E}(\mathbf {r} )}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="\varepsilon \nabla ^{2}\Phi (\mathbf {r} )=-\,\sum _{j=1}^{N}q_{j}n_{j}^{0}\,\exp \left(-{\frac {q_{j}\,\Phi (\mathbf {r} )}{k_{B}T}}\right)-\rho _{E}(\mathbf {r} )" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a456bb296f3d2b18090d7c21188842dc3bc224f1" style="vertical-align: -3.338ex; width:48.238ex; height:7.676ex;"/>
+        </span>
+        .
+       </dd>
+      </dl>
+      <p>
+       Solutions to this nonlinear equation are known for some simple systems. Solutions for more general systems may be obtained in the high-temperature (weak coupling) limit,
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle q_{j}\,\Phi (\mathbf {r} )\ll k_{B}T}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <msub>
+              <mi>
+               q
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                j
+               </mi>
+              </mrow>
+             </msub>
+             <mspace width="thinmathspace">
+             </mspace>
+             <mi mathvariant="normal">
+              Φ
+              <!-- Φ -->
+             </mi>
+             <mo stretchy="false">
+              (
+             </mo>
+             <mrow class="MJX-TeXAtom-ORD">
+              <mi mathvariant="bold">
+               r
+              </mi>
+             </mrow>
+             <mo stretchy="false">
+              )
+             </mo>
+             <mo>
+              ≪
+              <!-- ≪ -->
+             </mo>
+             <msub>
+              <mi>
+               k
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                B
+               </mi>
+              </mrow>
+             </msub>
+             <mi>
+              T
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle q_{j}\,\Phi (\mathbf {r} )\ll k_{B}T}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="q_{j}\,\Phi (\mathbf {r} )\ll k_{B}T" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3b58ddbafc10f3d914e75aeefc0f6622d0b20290" style="vertical-align: -1.005ex; width:14.864ex; height:3.009ex;"/>
+       </span>
+       , by
+       <a class="mw-redirect" href="/wiki/Taylor_expansion" title="Taylor expansion">
+        Taylor expanding
+       </a>
+       the exponential:
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle \exp \left(-{\frac {q_{j}\,\Phi (\mathbf {r} )}{k_{B}T}}\right)\approx 1-{\frac {q_{j}\,\Phi (\mathbf {r} )}{k_{B}T}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mi>
+               exp
+              </mi>
+              <mo>
+               ⁡
+               <!-- ⁡ -->
+              </mo>
+              <mrow>
+               <mo>
+                (
+               </mo>
+               <mrow>
+                <mo>
+                 −
+                 <!-- − -->
+                </mo>
+                <mrow class="MJX-TeXAtom-ORD">
+                 <mfrac>
+                  <mrow>
+                   <msub>
+                    <mi>
+                     q
+                    </mi>
+                    <mrow class="MJX-TeXAtom-ORD">
+                     <mi>
+                      j
+                     </mi>
+                    </mrow>
+                   </msub>
+                   <mspace width="thinmathspace">
+                   </mspace>
+                   <mi mathvariant="normal">
+                    Φ
+                    <!-- Φ -->
+                   </mi>
+                   <mo stretchy="false">
+                    (
+                   </mo>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mi mathvariant="bold">
+                     r
+                    </mi>
+                   </mrow>
+                   <mo stretchy="false">
+                    )
+                   </mo>
+                  </mrow>
+                  <mrow>
+                   <msub>
+                    <mi>
+                     k
+                    </mi>
+                    <mrow class="MJX-TeXAtom-ORD">
+                     <mi>
+                      B
+                     </mi>
+                    </mrow>
+                   </msub>
+                   <mi>
+                    T
+                   </mi>
+                  </mrow>
+                 </mfrac>
+                </mrow>
+               </mrow>
+               <mo>
+                )
+               </mo>
+              </mrow>
+              <mo>
+               ≈
+               <!-- ≈ -->
+              </mo>
+              <mn>
+               1
+              </mn>
+              <mo>
+               −
+               <!-- − -->
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mfrac>
+                <mrow>
+                 <msub>
+                  <mi>
+                   q
+                  </mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mi>
+                    j
+                   </mi>
+                  </mrow>
+                 </msub>
+                 <mspace width="thinmathspace">
+                 </mspace>
+                 <mi mathvariant="normal">
+                  Φ
+                  <!-- Φ -->
+                 </mi>
+                 <mo stretchy="false">
+                  (
+                 </mo>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mi mathvariant="bold">
+                   r
+                  </mi>
+                 </mrow>
+                 <mo stretchy="false">
+                  )
+                 </mo>
+                </mrow>
+                <mrow>
+                 <msub>
+                  <mi>
+                   k
+                  </mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mi>
+                    B
+                   </mi>
+                  </mrow>
+                 </msub>
+                 <mi>
+                  T
+                 </mi>
+                </mrow>
+               </mfrac>
+              </mrow>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle \exp \left(-{\frac {q_{j}\,\Phi (\mathbf {r} )}{k_{B}T}}\right)\approx 1-{\frac {q_{j}\,\Phi (\mathbf {r} )}{k_{B}T}}}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="\exp \left(-{\frac {q_{j}\,\Phi (\mathbf {r} )}{k_{B}T}}\right)\approx 1-{\frac {q_{j}\,\Phi (\mathbf {r} )}{k_{B}T}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/aa01477923e6cbaec1570f9b3bb394209757cbf9" style="vertical-align: -2.505ex; width:31.402ex; height:6.343ex;"/>
+        </span>
+        .
+       </dd>
+      </dl>
+      <p>
+       This approximation yields the linearized Poisson-Boltzmann equation
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle \varepsilon \nabla ^{2}\Phi (\mathbf {r} )=\left(\sum _{j=1}^{N}{\frac {n_{j}^{0}\,q_{j}^{2}}{k_{B}T}}\right)\,\Phi (\mathbf {r} )-\,\sum _{j=1}^{N}n_{j}^{0}q_{j}-\rho _{E}(\mathbf {r} )}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mi>
+               ε
+               <!-- ε -->
+              </mi>
+              <msup>
+               <mi mathvariant="normal">
+                ∇
+                <!-- ∇ -->
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mn>
+                 2
+                </mn>
+               </mrow>
+              </msup>
+              <mi mathvariant="normal">
+               Φ
+               <!-- Φ -->
+              </mi>
+              <mo stretchy="false">
+               (
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi mathvariant="bold">
+                r
+               </mi>
+              </mrow>
+              <mo stretchy="false">
+               )
+              </mo>
+              <mo>
+               =
+              </mo>
+              <mrow>
+               <mo>
+                (
+               </mo>
+               <mrow>
+                <munderover>
+                 <mo>
+                  ∑
+                  <!-- ∑ -->
+                 </mo>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mi>
+                   j
+                  </mi>
+                  <mo>
+                   =
+                  </mo>
+                  <mn>
+                   1
+                  </mn>
+                 </mrow>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mi>
+                   N
+                  </mi>
+                 </mrow>
+                </munderover>
+                <mrow class="MJX-TeXAtom-ORD">
+                 <mfrac>
+                  <mrow>
+                   <msubsup>
+                    <mi>
+                     n
+                    </mi>
+                    <mrow class="MJX-TeXAtom-ORD">
+                     <mi>
+                      j
+                     </mi>
+                    </mrow>
+                    <mrow class="MJX-TeXAtom-ORD">
+                     <mn>
+                      0
+                     </mn>
+                    </mrow>
+                   </msubsup>
+                   <mspace width="thinmathspace">
+                   </mspace>
+                   <msubsup>
+                    <mi>
+                     q
+                    </mi>
+                    <mrow class="MJX-TeXAtom-ORD">
+                     <mi>
+                      j
+                     </mi>
+                    </mrow>
+                    <mrow class="MJX-TeXAtom-ORD">
+                     <mn>
+                      2
+                     </mn>
+                    </mrow>
+                   </msubsup>
+                  </mrow>
+                  <mrow>
+                   <msub>
+                    <mi>
+                     k
+                    </mi>
+                    <mrow class="MJX-TeXAtom-ORD">
+                     <mi>
+                      B
+                     </mi>
+                    </mrow>
+                   </msub>
+                   <mi>
+                    T
+                   </mi>
+                  </mrow>
+                 </mfrac>
+                </mrow>
+               </mrow>
+               <mo>
+                )
+               </mo>
+              </mrow>
+              <mspace width="thinmathspace">
+              </mspace>
+              <mi mathvariant="normal">
+               Φ
+               <!-- Φ -->
+              </mi>
+              <mo stretchy="false">
+               (
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi mathvariant="bold">
+                r
+               </mi>
+              </mrow>
+              <mo stretchy="false">
+               )
+              </mo>
+              <mo>
+               −
+               <!-- − -->
+              </mo>
+              <mspace width="thinmathspace">
+              </mspace>
+              <munderover>
+               <mo>
+                ∑
+                <!-- ∑ -->
+               </mo>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 j
+                </mi>
+                <mo>
+                 =
+                </mo>
+                <mn>
+                 1
+                </mn>
+               </mrow>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 N
+                </mi>
+               </mrow>
+              </munderover>
+              <msubsup>
+               <mi>
+                n
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 j
+                </mi>
+               </mrow>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mn>
+                 0
+                </mn>
+               </mrow>
+              </msubsup>
+              <msub>
+               <mi>
+                q
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 j
+                </mi>
+               </mrow>
+              </msub>
+              <mo>
+               −
+               <!-- − -->
+              </mo>
+              <msub>
+               <mi>
+                ρ
+                <!-- ρ -->
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 E
+                </mi>
+               </mrow>
+              </msub>
+              <mo stretchy="false">
+               (
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi mathvariant="bold">
+                r
+               </mi>
+              </mrow>
+              <mo stretchy="false">
+               )
+              </mo>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle \varepsilon \nabla ^{2}\Phi (\mathbf {r} )=\left(\sum _{j=1}^{N}{\frac {n_{j}^{0}\,q_{j}^{2}}{k_{B}T}}\right)\,\Phi (\mathbf {r} )-\,\sum _{j=1}^{N}n_{j}^{0}q_{j}-\rho _{E}(\mathbf {r} )}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="\varepsilon \nabla ^{2}\Phi (\mathbf {r} )=\left(\sum _{j=1}^{N}{\frac {n_{j}^{0}\,q_{j}^{2}}{k_{B}T}}\right)\,\Phi (\mathbf {r} )-\,\sum _{j=1}^{N}n_{j}^{0}q_{j}-\rho _{E}(\mathbf {r} )" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3251d73554068ebf11657e7df6ce81f1362c8f83" style="vertical-align: -3.338ex; width:50.161ex; height:7.843ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       which also is known as the
+       <a href="/wiki/Debye%E2%80%93H%C3%BCckel_equation" title="Debye–Hückel equation">
+        Debye–Hückel equation
+       </a>
+       :
+       <sup class="reference" id="cite_ref-Kirby_1-0">
+        <a href="#cite_note-Kirby-1">
+         [1]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-DLi_2-0">
+        <a href="#cite_note-DLi-2">
+         [2]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-Clemmow_3-0">
+        <a href="#cite_note-Clemmow-3">
+         [3]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-Robinson_4-0">
+        <a href="#cite_note-Robinson-4">
+         [4]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-Brydges_5-0">
+        <a href="#cite_note-Brydges-5">
+         [5]
+        </a>
+       </sup>
+       The second term on the right-hand side vanishes for systems that are electrically neutral. The term in parentheses divided by
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle \varepsilon }" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              ε
+              <!-- ε -->
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle \varepsilon }
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="\varepsilon " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a30c89172e5b88edbd45d3e2772c7f5e562e5173" style="vertical-align: -0.338ex; width:1.083ex; height:1.676ex;"/>
+       </span>
+       , has the units of an inverse length squared and by
+       <a href="/wiki/Dimensional_analysis" title="Dimensional analysis">
+        dimensional analysis
+       </a>
+       leads to the definition of the characteristic length scale
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle \lambda _{D}=\left({\frac {\varepsilon \,k_{B}T}{\sum _{j=1}^{N}n_{j}^{0}\,q_{j}^{2}}}\right)^{1/2}}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <msub>
+               <mi>
+                λ
+                <!-- λ -->
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 D
+                </mi>
+               </mrow>
+              </msub>
+              <mo>
+               =
+              </mo>
+              <msup>
+               <mrow>
+                <mo>
+                 (
+                </mo>
+                <mrow class="MJX-TeXAtom-ORD">
+                 <mfrac>
+                  <mrow>
+                   <mi>
+                    ε
+                    <!-- ε -->
+                   </mi>
+                   <mspace width="thinmathspace">
+                   </mspace>
+                   <msub>
+                    <mi>
+                     k
+                    </mi>
+                    <mrow class="MJX-TeXAtom-ORD">
+                     <mi>
+                      B
+                     </mi>
+                    </mrow>
+                   </msub>
+                   <mi>
+                    T
+                   </mi>
+                  </mrow>
+                  <mrow>
+                   <munderover>
+                    <mo>
+                     ∑
+                     <!-- ∑ -->
+                    </mo>
+                    <mrow class="MJX-TeXAtom-ORD">
+                     <mi>
+                      j
+                     </mi>
+                     <mo>
+                      =
+                     </mo>
+                     <mn>
+                      1
+                     </mn>
+                    </mrow>
+                    <mrow class="MJX-TeXAtom-ORD">
+                     <mi>
+                      N
+                     </mi>
+                    </mrow>
+                   </munderover>
+                   <msubsup>
+                    <mi>
+                     n
+                    </mi>
+                    <mrow class="MJX-TeXAtom-ORD">
+                     <mi>
+                      j
+                     </mi>
+                    </mrow>
+                    <mrow class="MJX-TeXAtom-ORD">
+                     <mn>
+                      0
+                     </mn>
+                    </mrow>
+                   </msubsup>
+                   <mspace width="thinmathspace">
+                   </mspace>
+                   <msubsup>
+                    <mi>
+                     q
+                    </mi>
+                    <mrow class="MJX-TeXAtom-ORD">
+                     <mi>
+                      j
+                     </mi>
+                    </mrow>
+                    <mrow class="MJX-TeXAtom-ORD">
+                     <mn>
+                      2
+                     </mn>
+                    </mrow>
+                   </msubsup>
+                  </mrow>
+                 </mfrac>
+                </mrow>
+                <mo>
+                 )
+                </mo>
+               </mrow>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mn>
+                 1
+                </mn>
+                <mrow class="MJX-TeXAtom-ORD">
+                 <mo>
+                  /
+                 </mo>
+                </mrow>
+                <mn>
+                 2
+                </mn>
+               </mrow>
+              </msup>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle \lambda _{D}=\left({\frac {\varepsilon \,k_{B}T}{\sum _{j=1}^{N}n_{j}^{0}\,q_{j}^{2}}}\right)^{1/2}}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="\lambda _{D}=\left({\frac {\varepsilon \,k_{B}T}{\sum _{j=1}^{N}n_{j}^{0}\,q_{j}^{2}}}\right)^{1/2}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ac897e10ef49618307a00a49df43afc331f7c334" style="vertical-align: -3.505ex; width:24.469ex; height:8.843ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       that commonly is referred to as the Debye–Hückel length. As the only characteristic length scale in the Debye–Hückel equation,
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle \lambda _{D}}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <msub>
+              <mi>
+               λ
+               <!-- λ -->
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                D
+               </mi>
+              </mrow>
+             </msub>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle \lambda _{D}}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="\lambda _{D}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f2e5040a1dc6a5145caa1ed08a9bd0fd5587b684" style="vertical-align: -0.671ex; width:2.948ex; height:2.509ex;"/>
+       </span>
+       sets the scale for variations in the potential and in the concentrations of charged species. All charged species contribute to the Debye–Hückel length in the same way, regardless of the sign of their charges. For an electrically neutral system, the Poisson equation becomes
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle \nabla ^{2}\Phi (\mathbf {r} )=\lambda _{D}^{-2}\Phi (\mathbf {r} )-{\frac {\rho _{E}(\mathbf {r} )}{\varepsilon }}}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <msup>
+               <mi mathvariant="normal">
+                ∇
+                <!-- ∇ -->
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mn>
+                 2
+                </mn>
+               </mrow>
+              </msup>
+              <mi mathvariant="normal">
+               Φ
+               <!-- Φ -->
+              </mi>
+              <mo stretchy="false">
+               (
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi mathvariant="bold">
+                r
+               </mi>
+              </mrow>
+              <mo stretchy="false">
+               )
+              </mo>
+              <mo>
+               =
+              </mo>
+              <msubsup>
+               <mi>
+                λ
+                <!-- λ -->
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 D
+                </mi>
+               </mrow>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mo>
+                 −
+                 <!-- − -->
+                </mo>
+                <mn>
+                 2
+                </mn>
+               </mrow>
+              </msubsup>
+              <mi mathvariant="normal">
+               Φ
+               <!-- Φ -->
+              </mi>
+              <mo stretchy="false">
+               (
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi mathvariant="bold">
+                r
+               </mi>
+              </mrow>
+              <mo stretchy="false">
+               )
+              </mo>
+              <mo>
+               −
+               <!-- − -->
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mfrac>
+                <mrow>
+                 <msub>
+                  <mi>
+                   ρ
+                   <!-- ρ -->
+                  </mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mi>
+                    E
+                   </mi>
+                  </mrow>
+                 </msub>
+                 <mo stretchy="false">
+                  (
+                 </mo>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mi mathvariant="bold">
+                   r
+                  </mi>
+                 </mrow>
+                 <mo stretchy="false">
+                  )
+                 </mo>
+                </mrow>
+                <mi>
+                 ε
+                 <!-- ε -->
+                </mi>
+               </mfrac>
+              </mrow>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle \nabla ^{2}\Phi (\mathbf {r} )=\lambda _{D}^{-2}\Phi (\mathbf {r} )-{\frac {\rho _{E}(\mathbf {r} )}{\varepsilon }}}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="\nabla ^{2}\Phi (\mathbf {r} )=\lambda _{D}^{-2}\Phi (\mathbf {r} )-{\frac {\rho _{E}(\mathbf {r} )}{\varepsilon }}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/13c8b8df105fd0233c7c8353fb997cc01f398d94" style="vertical-align: -1.838ex; width:28.233ex; height:5.676ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       To illustrate Debye screening, the potential produced by an external point charge
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle \rho _{E}=Q\delta (\mathbf {r} )}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <msub>
+              <mi>
+               ρ
+               <!-- ρ -->
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                E
+               </mi>
+              </mrow>
+             </msub>
+             <mo>
+              =
+             </mo>
+             <mi>
+              Q
+             </mi>
+             <mi>
+              δ
+              <!-- δ -->
+             </mi>
+             <mo stretchy="false">
+              (
+             </mo>
+             <mrow class="MJX-TeXAtom-ORD">
+              <mi mathvariant="bold">
+               r
+              </mi>
+             </mrow>
+             <mo stretchy="false">
+              )
+             </mo>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle \rho _{E}=Q\delta (\mathbf {r} )}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="\rho _{E}=Q\delta (\mathbf {r} )" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8484755c840c45d340e4e0f288ec08eceac45d13" style="vertical-align: -0.838ex; width:11.587ex; height:2.843ex;"/>
+       </span>
+       is
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle \Phi (\mathbf {r} )={\frac {Q}{4\pi \varepsilon r}}e^{-r/\lambda _{D}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mi mathvariant="normal">
+               Φ
+               <!-- Φ -->
+              </mi>
+              <mo stretchy="false">
+               (
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi mathvariant="bold">
+                r
+               </mi>
+              </mrow>
+              <mo stretchy="false">
+               )
+              </mo>
+              <mo>
+               =
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mfrac>
+                <mi>
+                 Q
+                </mi>
+                <mrow>
+                 <mn>
+                  4
+                 </mn>
+                 <mi>
+                  π
+                  <!-- π -->
+                 </mi>
+                 <mi>
+                  ε
+                  <!-- ε -->
+                 </mi>
+                 <mi>
+                  r
+                 </mi>
+                </mrow>
+               </mfrac>
+              </mrow>
+              <msup>
+               <mi>
+                e
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mo>
+                 −
+                 <!-- − -->
+                </mo>
+                <mi>
+                 r
+                </mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                 <mo>
+                  /
+                 </mo>
+                </mrow>
+                <msub>
+                 <mi>
+                  λ
+                  <!-- λ -->
+                 </mi>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mi>
+                   D
+                  </mi>
+                 </mrow>
+                </msub>
+               </mrow>
+              </msup>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle \Phi (\mathbf {r} )={\frac {Q}{4\pi \varepsilon r}}e^{-r/\lambda _{D}}}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="\Phi (\mathbf {r} )={\frac {Q}{4\pi \varepsilon r}}e^{-r/\lambda _{D}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/99d4c10bb62f407e6241b2131d6ca73eadbc25c1" style="vertical-align: -2.005ex; width:19.536ex; height:5.509ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       The bare Coulomb potential is exponentially screened by the medium, over a distance of the Debye length.
+      </p>
+      <p>
+       The Debye–Hückel length may be expressed in terms of the
+       <a href="/wiki/Bjerrum_length" title="Bjerrum length">
+        Bjerrum length
+       </a>
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle \lambda _{B}}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <msub>
+              <mi>
+               λ
+               <!-- λ -->
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                B
+               </mi>
+              </mrow>
+             </msub>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle \lambda _{B}}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="\lambda _{B}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fdd311fe1d407d5c51537b4b7fa8063053c7958f" style="vertical-align: -0.671ex; width:2.835ex; height:2.509ex;"/>
+       </span>
+       as
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle \lambda _{D}=\left(4\pi \,\lambda _{B}\,\sum _{j=1}^{N}n_{j}^{0}\,z_{j}^{2}\right)^{-1/2}}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <msub>
+               <mi>
+                λ
+                <!-- λ -->
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 D
+                </mi>
+               </mrow>
+              </msub>
+              <mo>
+               =
+              </mo>
+              <msup>
+               <mrow>
+                <mo>
+                 (
+                </mo>
+                <mrow>
+                 <mn>
+                  4
+                 </mn>
+                 <mi>
+                  π
+                  <!-- π -->
+                 </mi>
+                 <mspace width="thinmathspace">
+                 </mspace>
+                 <msub>
+                  <mi>
+                   λ
+                   <!-- λ -->
+                  </mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mi>
+                    B
+                   </mi>
+                  </mrow>
+                 </msub>
+                 <mspace width="thinmathspace">
+                 </mspace>
+                 <munderover>
+                  <mo>
+                   ∑
+                   <!-- ∑ -->
+                  </mo>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mi>
+                    j
+                   </mi>
+                   <mo>
+                    =
+                   </mo>
+                   <mn>
+                    1
+                   </mn>
+                  </mrow>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mi>
+                    N
+                   </mi>
+                  </mrow>
+                 </munderover>
+                 <msubsup>
+                  <mi>
+                   n
+                  </mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mi>
+                    j
+                   </mi>
+                  </mrow>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mn>
+                    0
+                   </mn>
+                  </mrow>
+                 </msubsup>
+                 <mspace width="thinmathspace">
+                 </mspace>
+                 <msubsup>
+                  <mi>
+                   z
+                  </mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mi>
+                    j
+                   </mi>
+                  </mrow>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mn>
+                    2
+                   </mn>
+                  </mrow>
+                 </msubsup>
+                </mrow>
+                <mo>
+                 )
+                </mo>
+               </mrow>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mo>
+                 −
+                 <!-- − -->
+                </mo>
+                <mn>
+                 1
+                </mn>
+                <mrow class="MJX-TeXAtom-ORD">
+                 <mo>
+                  /
+                 </mo>
+                </mrow>
+                <mn>
+                 2
+                </mn>
+               </mrow>
+              </msup>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle \lambda _{D}=\left(4\pi \,\lambda _{B}\,\sum _{j=1}^{N}n_{j}^{0}\,z_{j}^{2}\right)^{-1/2}}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="\lambda _{D}=\left(4\pi \,\lambda _{B}\,\sum _{j=1}^{N}n_{j}^{0}\,z_{j}^{2}\right)^{-1/2}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/80b526ce2315b5575403dda85fc3e007d31c9271" style="vertical-align: -3.338ex; width:28.918ex; height:8.176ex;"/>
+        </span>
+        ,
+       </dd>
+      </dl>
+      <p>
+       where
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle z_{j}=q_{j}/e}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <msub>
+              <mi>
+               z
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                j
+               </mi>
+              </mrow>
+             </msub>
+             <mo>
+              =
+             </mo>
+             <msub>
+              <mi>
+               q
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                j
+               </mi>
+              </mrow>
+             </msub>
+             <mrow class="MJX-TeXAtom-ORD">
+              <mo>
+               /
+              </mo>
+             </mrow>
+             <mi>
+              e
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle z_{j}=q_{j}/e}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="z_{j}=q_{j}/e" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e12b48b6f738e3b6f40fb298d15be23476ebd231" style="vertical-align: -1.005ex; width:9.282ex; height:3.009ex;"/>
+       </span>
+       is the integer
+       <a href="/wiki/Charge_number" title="Charge number">
+        charge number
+       </a>
+       that relates the charge on the
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle j}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              j
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle j}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="j" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2f461e54f5c093e92a55547b9764291390f0b5d0" style="vertical-align: -0.671ex; margin-left: -0.027ex; width:0.985ex; height:2.509ex;"/>
+       </span>
+       -th ionic species to the
+       <a href="/wiki/Elementary_charge" title="Elementary charge">
+        elementary charge
+       </a>
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle e}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              e
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle e}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="e" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/cd253103f0876afc68ebead27a5aa9867d927467" style="vertical-align: -0.338ex; width:1.083ex; height:1.676ex;"/>
+       </span>
+       .
+      </p>
+      <h2>
+       <span class="mw-headline" id="Typical_values">
+        Typical values
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Debye_length&amp;action=edit&amp;section=2" title="Edit section: Typical values">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       In space plasmas where the electron density is relatively low, the Debye length may reach macroscopic values, such as in the magnetosphere, solar wind, interstellar medium and intergalactic medium (see table):
+      </p>
+      <table class="wikitable" style="margin: 1em auto">
+       <tr>
+        <th>
+         Plasma
+        </th>
+        <th>
+         Density
+         <br/>
+         <span style="font-weight:normal;">
+          <i>
+           n
+          </i>
+          <sub>
+           e
+          </sub>
+          (m
+          <sup>
+           −3
+          </sup>
+          )
+         </span>
+        </th>
+        <th>
+         Electron temperature
+         <br/>
+         <span style="font-weight:normal;">
+          <i>
+           T
+          </i>
+          (K)
+         </span>
+        </th>
+        <th>
+         Magnetic field
+         <br/>
+         <span style="font-weight:normal;">
+          <i>
+           B
+          </i>
+          (T)
+         </span>
+        </th>
+        <th>
+         Debye length
+         <br/>
+         <span style="font-weight:normal;">
+          <i>
+           λ
+          </i>
+          <sub>
+           D
+          </sub>
+          (m)
+         </span>
+        </th>
+       </tr>
+       <tr align="center">
+        <th style="text-align:left">
+         Solar core
+        </th>
+        <td>
+         10
+         <sup>
+          32
+         </sup>
+        </td>
+        <td>
+         10
+         <sup>
+          7
+         </sup>
+        </td>
+        <td>
+         --
+        </td>
+        <td>
+         10
+         <sup>
+          −11
+         </sup>
+        </td>
+       </tr>
+       <tr align="center">
+        <th style="text-align:left">
+         <a href="/wiki/Tokamak" title="Tokamak">
+          Tokamak
+         </a>
+        </th>
+        <td>
+         10
+         <sup>
+          20
+         </sup>
+        </td>
+        <td>
+         10
+         <sup>
+          8
+         </sup>
+        </td>
+        <td>
+         10
+        </td>
+        <td>
+         10
+         <sup>
+          −4
+         </sup>
+        </td>
+       </tr>
+       <tr align="center">
+        <th style="text-align:left">
+         Gas discharge
+        </th>
+        <td>
+         10
+         <sup>
+          16
+         </sup>
+        </td>
+        <td>
+         10
+         <sup>
+          4
+         </sup>
+        </td>
+        <td>
+         --
+        </td>
+        <td>
+         10
+         <sup>
+          −4
+         </sup>
+        </td>
+       </tr>
+       <tr align="center">
+        <th style="text-align:left">
+         Ionosphere
+        </th>
+        <td>
+         10
+         <sup>
+          12
+         </sup>
+        </td>
+        <td>
+         10
+         <sup>
+          3
+         </sup>
+        </td>
+        <td>
+         10
+         <sup>
+          −5
+         </sup>
+        </td>
+        <td>
+         10
+         <sup>
+          −3
+         </sup>
+        </td>
+       </tr>
+       <tr align="center">
+        <th style="text-align:left">
+         Magnetosphere
+        </th>
+        <td>
+         10
+         <sup>
+          7
+         </sup>
+        </td>
+        <td>
+         10
+         <sup>
+          7
+         </sup>
+        </td>
+        <td>
+         10
+         <sup>
+          −8
+         </sup>
+        </td>
+        <td>
+         10
+         <sup>
+          2
+         </sup>
+        </td>
+       </tr>
+       <tr align="center">
+        <th style="text-align:left">
+         Solar wind
+        </th>
+        <td>
+         10
+         <sup>
+          6
+         </sup>
+        </td>
+        <td>
+         10
+         <sup>
+          5
+         </sup>
+        </td>
+        <td>
+         10
+         <sup>
+          −9
+         </sup>
+        </td>
+        <td>
+         10
+        </td>
+       </tr>
+       <tr align="center">
+        <th style="text-align:left">
+         Interstellar medium
+        </th>
+        <td>
+         10
+         <sup>
+          5
+         </sup>
+        </td>
+        <td>
+         10
+         <sup>
+          4
+         </sup>
+        </td>
+        <td>
+         10
+         <sup>
+          −10
+         </sup>
+        </td>
+        <td>
+         10
+        </td>
+       </tr>
+       <tr align="center">
+        <th style="text-align:left">
+         Intergalactic medium
+        </th>
+        <td>
+         1
+        </td>
+        <td>
+         10
+         <sup>
+          6
+         </sup>
+        </td>
+        <td>
+         --
+        </td>
+        <td>
+         10
+         <sup>
+          5
+         </sup>
+        </td>
+       </tr>
+       <tr>
+        <td colspan="5" style="background:#fff; border-color:#aaa #fff #fff #fff; text-align:center">
+         Source: Chapter 20:
+         <i>
+          The Particle Kinetics of Plasma
+         </i>
+         <sup class="reference" id="cite_ref-6">
+          <a href="#cite_note-6">
+           [6]
+          </a>
+         </sup>
+        </td>
+       </tr>
+      </table>
+      <p>
+       <a href="/wiki/Hannes_Alfv%C3%A9n" title="Hannes Alfvén">
+        Hannes Alfvén
+       </a>
+       pointed out that: "In a low density plasma, localized space charge regions may build up large potential drops over distances of the order of some tens of the Debye lengths. Such regions have been called
+       <i>
+        electric double layers
+       </i>
+       . An electric
+       <a class="mw-redirect" href="/wiki/Double_layer_(plasma)" title="Double layer (plasma)">
+        double layer
+       </a>
+       is the simplest space charge distribution that gives a potential drop in the layer and a vanishing electric field on each side of the layer. In the laboratory, double layers have been studied for half a century, but their importance in cosmic plasmas has not been generally recognized."
+       <sup class="reference" id="cite_ref-7">
+        <a href="#cite_note-7">
+         [7]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="In_a_plasma">
+        In a plasma
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Debye_length&amp;action=edit&amp;section=3" title="Edit section: In a plasma">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       In a non-isothermic plasma, the temperatures for electrons and heavy species may differ while the background medium may be treated as the vacuum (
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle \varepsilon _{r}=1}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <msub>
+              <mi>
+               ε
+               <!-- ε -->
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                r
+               </mi>
+              </mrow>
+             </msub>
+             <mo>
+              =
+             </mo>
+             <mn>
+              1
+             </mn>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle \varepsilon _{r}=1}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="\varepsilon _{r}=1" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/128a55a26c8f519fce25dee99cbdc4ada7808e11" style="vertical-align: -0.671ex; width:6.318ex; height:2.509ex;"/>
+       </span>
+       ), and the Debye length is
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle \lambda _{D}={\sqrt {\frac {\varepsilon _{0}k_{B}/q_{e}^{2}}{n_{e}/T_{e}+\sum _{j}z_{j}^{2}n_{j}/T_{i}}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <msub>
+               <mi>
+                λ
+                <!-- λ -->
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 D
+                </mi>
+               </mrow>
+              </msub>
+              <mo>
+               =
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <msqrt>
+                <mfrac>
+                 <mrow>
+                  <msub>
+                   <mi>
+                    ε
+                    <!-- ε -->
+                   </mi>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mn>
+                     0
+                    </mn>
+                   </mrow>
+                  </msub>
+                  <msub>
+                   <mi>
+                    k
+                   </mi>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mi>
+                     B
+                    </mi>
+                   </mrow>
+                  </msub>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mo>
+                    /
+                   </mo>
+                  </mrow>
+                  <msubsup>
+                   <mi>
+                    q
+                   </mi>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mi>
+                     e
+                    </mi>
+                   </mrow>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mn>
+                     2
+                    </mn>
+                   </mrow>
+                  </msubsup>
+                 </mrow>
+                 <mrow>
+                  <msub>
+                   <mi>
+                    n
+                   </mi>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mi>
+                     e
+                    </mi>
+                   </mrow>
+                  </msub>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mo>
+                    /
+                   </mo>
+                  </mrow>
+                  <msub>
+                   <mi>
+                    T
+                   </mi>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mi>
+                     e
+                    </mi>
+                   </mrow>
+                  </msub>
+                  <mo>
+                   +
+                  </mo>
+                  <munder>
+                   <mo>
+                    ∑
+                    <!-- ∑ -->
+                   </mo>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mi>
+                     j
+                    </mi>
+                   </mrow>
+                  </munder>
+                  <msubsup>
+                   <mi>
+                    z
+                   </mi>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mi>
+                     j
+                    </mi>
+                   </mrow>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mn>
+                     2
+                    </mn>
+                   </mrow>
+                  </msubsup>
+                  <msub>
+                   <mi>
+                    n
+                   </mi>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mi>
+                     j
+                    </mi>
+                   </mrow>
+                  </msub>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mo>
+                    /
+                   </mo>
+                  </mrow>
+                  <msub>
+                   <mi>
+                    T
+                   </mi>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mi>
+                     i
+                    </mi>
+                   </mrow>
+                  </msub>
+                 </mrow>
+                </mfrac>
+               </msqrt>
+              </mrow>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle \lambda _{D}={\sqrt {\frac {\varepsilon _{0}k_{B}/q_{e}^{2}}{n_{e}/T_{e}+\sum _{j}z_{j}^{2}n_{j}/T_{i}}}}}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="{\displaystyle \lambda _{D}={\sqrt {\frac {\varepsilon _{0}k_{B}/q_{e}^{2}}{n_{e}/T_{e}+\sum _{j}z_{j}^{2}n_{j}/T_{i}}}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ea2a40bb0aecdd192eda643f8d8af1d6b7dc9d69" style="vertical-align: -3.171ex; width:29.608ex; height:7.843ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       where
+      </p>
+      <dl>
+       <dd>
+        λ
+        <sub>
+         <i>
+          D
+         </i>
+        </sub>
+        is the Debye length,
+       </dd>
+       <dd>
+        ε
+        <sub>
+         0
+        </sub>
+        is the
+        <a class="mw-redirect" href="/wiki/Permittivity_of_free_space" title="Permittivity of free space">
+         permittivity of free space
+        </a>
+        ,
+       </dd>
+       <dd>
+        <i>
+         k
+        </i>
+        <sub>
+         <i>
+          B
+         </i>
+        </sub>
+        is the
+        <a href="/wiki/Boltzmann_constant" title="Boltzmann constant">
+         Boltzmann constant
+        </a>
+        ,
+       </dd>
+       <dd>
+        <i>
+         q
+        </i>
+        <sub>
+         <i>
+          e
+         </i>
+        </sub>
+        is the
+        <a href="/wiki/Elementary_charge" title="Elementary charge">
+         charge of an electron
+        </a>
+        ,
+       </dd>
+       <dd>
+        <i>
+         T
+         <sub>
+          e
+         </sub>
+        </i>
+        and
+        <i>
+         T
+         <sub>
+          i
+         </sub>
+        </i>
+        are the temperatures of the electrons and ions, respectively,
+       </dd>
+       <dd>
+        <i>
+         n
+         <sub>
+          e
+         </sub>
+        </i>
+        is the density of electrons,
+       </dd>
+       <dd>
+        <i>
+         n
+         <sub>
+          j
+         </sub>
+        </i>
+        is the density of atomic species
+        <i>
+         j
+        </i>
+        , with positive
+        <a href="/wiki/Ion" title="Ion">
+         ionic
+        </a>
+        charge
+        <i>
+         z
+         <sub>
+          j
+         </sub>
+         q
+        </i>
+        <sub>
+         <i>
+          e
+         </i>
+        </sub>
+       </dd>
+      </dl>
+      <p>
+       Even in quasineutral cold plasma, where ion contribution virtully seems to be larger due to lower ion temperature, the ion term is actually often dropped, giving
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle \lambda _{D}={\sqrt {\frac {\varepsilon _{0}k_{B}T_{e}}{n_{e}q_{e}^{2}}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <msub>
+               <mi>
+                λ
+                <!-- λ -->
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 D
+                </mi>
+               </mrow>
+              </msub>
+              <mo>
+               =
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <msqrt>
+                <mfrac>
+                 <mrow>
+                  <msub>
+                   <mi>
+                    ε
+                    <!-- ε -->
+                   </mi>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mn>
+                     0
+                    </mn>
+                   </mrow>
+                  </msub>
+                  <msub>
+                   <mi>
+                    k
+                   </mi>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mi>
+                     B
+                    </mi>
+                   </mrow>
+                  </msub>
+                  <msub>
+                   <mi>
+                    T
+                   </mi>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mi>
+                     e
+                    </mi>
+                   </mrow>
+                  </msub>
+                 </mrow>
+                 <mrow>
+                  <msub>
+                   <mi>
+                    n
+                   </mi>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mi>
+                     e
+                    </mi>
+                   </mrow>
+                  </msub>
+                  <msubsup>
+                   <mi>
+                    q
+                   </mi>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mi>
+                     e
+                    </mi>
+                   </mrow>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mn>
+                     2
+                    </mn>
+                   </mrow>
+                  </msubsup>
+                 </mrow>
+                </mfrac>
+               </msqrt>
+              </mrow>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle \lambda _{D}={\sqrt {\frac {\varepsilon _{0}k_{B}T_{e}}{n_{e}q_{e}^{2}}}}}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="\lambda _{D}={\sqrt {\frac {\varepsilon _{0}k_{B}T_{e}}{n_{e}q_{e}^{2}}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a69dd298196098d90ae68d180086f37f0d8a90d5" style="vertical-align: -3.338ex; width:16.391ex; height:7.509ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       although this is only valid when the mobility of ions is negligible compared to the process's timescale.
+       <sup class="reference" id="cite_ref-8">
+        <a href="#cite_note-8">
+         [8]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="In_an_electrolyte_solution">
+        In an electrolyte solution
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Debye_length&amp;action=edit&amp;section=4" title="Edit section: In an electrolyte solution">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       In an
+       <a href="/wiki/Electrolyte" title="Electrolyte">
+        electrolyte
+       </a>
+       or a
+       <a class="mw-redirect" href="/wiki/Colloids" title="Colloids">
+        colloidal suspension
+       </a>
+       , the Debye length
+       <sup class="reference" id="cite_ref-9">
+        <a href="#cite_note-9">
+         [9]
+        </a>
+       </sup>
+       for a monovalent electrolyte is usually denoted with symbol
+       <i>
+        κ
+       </i>
+       <sup>
+        −1
+       </sup>
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle \kappa ^{-1}={\sqrt {\frac {\varepsilon _{r}\varepsilon _{0}k_{B}T}{2N_{A}e^{2}I}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <msup>
+               <mi>
+                κ
+                <!-- κ -->
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mo>
+                 −
+                 <!-- − -->
+                </mo>
+                <mn>
+                 1
+                </mn>
+               </mrow>
+              </msup>
+              <mo>
+               =
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <msqrt>
+                <mfrac>
+                 <mrow>
+                  <msub>
+                   <mi>
+                    ε
+                    <!-- ε -->
+                   </mi>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mi>
+                     r
+                    </mi>
+                   </mrow>
+                  </msub>
+                  <msub>
+                   <mi>
+                    ε
+                    <!-- ε -->
+                   </mi>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mn>
+                     0
+                    </mn>
+                   </mrow>
+                  </msub>
+                  <msub>
+                   <mi>
+                    k
+                   </mi>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mi>
+                     B
+                    </mi>
+                   </mrow>
+                  </msub>
+                  <mi>
+                   T
+                  </mi>
+                 </mrow>
+                 <mrow>
+                  <mn>
+                   2
+                  </mn>
+                  <msub>
+                   <mi>
+                    N
+                   </mi>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mi>
+                     A
+                    </mi>
+                   </mrow>
+                  </msub>
+                  <msup>
+                   <mi>
+                    e
+                   </mi>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mn>
+                     2
+                    </mn>
+                   </mrow>
+                  </msup>
+                  <mi>
+                   I
+                  </mi>
+                 </mrow>
+                </mfrac>
+               </msqrt>
+              </mrow>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle \kappa ^{-1}={\sqrt {\frac {\varepsilon _{r}\varepsilon _{0}k_{B}T}{2N_{A}e^{2}I}}}}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="\kappa ^{-1}={\sqrt {\frac {\varepsilon _{r}\varepsilon _{0}k_{B}T}{2N_{A}e^{2}I}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b0dae5fd219a23d3f03752c8db1ec64617ef629c" style="vertical-align: -3.338ex; width:18.452ex; height:7.676ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       where
+      </p>
+      <dl>
+       <dd>
+        <i>
+         I
+        </i>
+        is the
+        <a href="/wiki/Ionic_strength" title="Ionic strength">
+         ionic strength
+        </a>
+        of the electrolyte, and here the unit should be mole/m
+        <sup>
+         3
+        </sup>
+        , even though
+        <i>
+         I
+        </i>
+        is commonly found in mol per kg of solvent,
+       </dd>
+       <dd>
+        ε
+        <sub>
+         0
+        </sub>
+        is the
+        <a href="/wiki/Vacuum_permittivity" title="Vacuum permittivity">
+         permittivity of free space
+        </a>
+        ,
+       </dd>
+       <dd>
+        ε
+        <sub>
+         r
+        </sub>
+        is the
+        <a class="mw-redirect" href="/wiki/Relative_static_permittivity" title="Relative static permittivity">
+         dielectric constant
+        </a>
+        ,
+       </dd>
+       <dd>
+        <i>
+         k
+        </i>
+        <sub>
+         B
+        </sub>
+        is the
+        <a href="/wiki/Boltzmann_constant" title="Boltzmann constant">
+         Boltzmann constant
+        </a>
+        ,
+       </dd>
+       <dd>
+        <i>
+         T
+        </i>
+        is the absolute temperature in
+        <a href="/wiki/Kelvin" title="Kelvin">
+         kelvins
+        </a>
+        ,
+       </dd>
+       <dd>
+        <i>
+         N
+         <sub>
+          A
+         </sub>
+        </i>
+        is the
+        <a class="mw-redirect" href="/wiki/Avogadro_number" title="Avogadro number">
+         Avogadro number
+        </a>
+        .
+       </dd>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle e}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mi>
+               e
+              </mi>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle e}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="e" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/cd253103f0876afc68ebead27a5aa9867d927467" style="vertical-align: -0.338ex; width:1.083ex; height:1.676ex;"/>
+        </span>
+        is the
+        <a href="/wiki/Elementary_charge" title="Elementary charge">
+         elementary charge
+        </a>
+        ,
+       </dd>
+      </dl>
+      <p>
+       or, for a symmetric monovalent electrolyte,
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle \kappa ^{-1}={\sqrt {\frac {\varepsilon _{r}\varepsilon _{0}RT}{2F^{2}C_{0}}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <msup>
+               <mi>
+                κ
+                <!-- κ -->
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mo>
+                 −
+                 <!-- − -->
+                </mo>
+                <mn>
+                 1
+                </mn>
+               </mrow>
+              </msup>
+              <mo>
+               =
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <msqrt>
+                <mfrac>
+                 <mrow>
+                  <msub>
+                   <mi>
+                    ε
+                    <!-- ε -->
+                   </mi>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mi>
+                     r
+                    </mi>
+                   </mrow>
+                  </msub>
+                  <msub>
+                   <mi>
+                    ε
+                    <!-- ε -->
+                   </mi>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mn>
+                     0
+                    </mn>
+                   </mrow>
+                  </msub>
+                  <mi>
+                   R
+                  </mi>
+                  <mi>
+                   T
+                  </mi>
+                 </mrow>
+                 <mrow>
+                  <mn>
+                   2
+                  </mn>
+                  <msup>
+                   <mi>
+                    F
+                   </mi>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mn>
+                     2
+                    </mn>
+                   </mrow>
+                  </msup>
+                  <msub>
+                   <mi>
+                    C
+                   </mi>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mn>
+                     0
+                    </mn>
+                   </mrow>
+                  </msub>
+                 </mrow>
+                </mfrac>
+               </msqrt>
+              </mrow>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle \kappa ^{-1}={\sqrt {\frac {\varepsilon _{r}\varepsilon _{0}RT}{2F^{2}C_{0}}}}}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="\kappa ^{-1}={\sqrt {\frac {\varepsilon _{r}\varepsilon _{0}RT}{2F^{2}C_{0}}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e7fa3c70155769b30b33af49bf183431b04f9a66" style="vertical-align: -3.338ex; width:17.525ex; height:7.676ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       where
+      </p>
+      <dl>
+       <dd>
+        <i>
+         R
+        </i>
+        is the
+        <a href="/wiki/Gas_constant" title="Gas constant">
+         gas constant
+        </a>
+        ,
+       </dd>
+       <dd>
+        <i>
+         F
+        </i>
+        is the
+        <a href="/wiki/Faraday_constant" title="Faraday constant">
+         Faraday constant
+        </a>
+        ,
+       </dd>
+       <dd>
+        <i>
+         C
+        </i>
+        <sub>
+         0
+        </sub>
+        is the molar concentration of the electrolyte.
+       </dd>
+      </dl>
+      <p>
+       Alternatively,
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle \kappa ^{-1}={\frac {1}{\sqrt {8\pi \lambda _{B}N_{A}I}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <msup>
+               <mi>
+                κ
+                <!-- κ -->
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mo>
+                 −
+                 <!-- − -->
+                </mo>
+                <mn>
+                 1
+                </mn>
+               </mrow>
+              </msup>
+              <mo>
+               =
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mfrac>
+                <mn>
+                 1
+                </mn>
+                <msqrt>
+                 <mn>
+                  8
+                 </mn>
+                 <mi>
+                  π
+                  <!-- π -->
+                 </mi>
+                 <msub>
+                  <mi>
+                   λ
+                   <!-- λ -->
+                  </mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mi>
+                    B
+                   </mi>
+                  </mrow>
+                 </msub>
+                 <msub>
+                  <mi>
+                   N
+                  </mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mi>
+                    A
+                   </mi>
+                  </mrow>
+                 </msub>
+                 <mi>
+                  I
+                 </mi>
+                </msqrt>
+               </mfrac>
+              </mrow>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle \kappa ^{-1}={\frac {1}{\sqrt {8\pi \lambda _{B}N_{A}I}}}}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="\kappa ^{-1}={\frac {1}{\sqrt {8\pi \lambda _{B}N_{A}I}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c508c3795864bfbb02ddd334b99278adf7226324" style="vertical-align: -3.171ex; width:19.762ex; height:6.509ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       where
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle \lambda _{B}}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <msub>
+               <mi>
+                λ
+                <!-- λ -->
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 B
+                </mi>
+               </mrow>
+              </msub>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle \lambda _{B}}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="\lambda _{B}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fdd311fe1d407d5c51537b4b7fa8063053c7958f" style="vertical-align: -0.671ex; width:2.835ex; height:2.509ex;"/>
+        </span>
+        is the
+        <a href="/wiki/Bjerrum_length" title="Bjerrum length">
+         Bjerrum length
+        </a>
+        of the medium.
+       </dd>
+      </dl>
+      <p>
+       For water at room temperature,
+       <i>
+        λ
+       </i>
+       <sub>
+        B
+       </sub>
+       ≈ 0.7 nm.
+      </p>
+      <p>
+       At room temperature (25 °C), one can consider in water the relation:
+       <sup class="reference" id="cite_ref-10">
+        <a href="#cite_note-10">
+         [10]
+        </a>
+       </sup>
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle \kappa ^{-1}(\mathrm {nm} )={\frac {0.304}{\sqrt {I(\mathrm {M} )}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <msup>
+               <mi>
+                κ
+                <!-- κ -->
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mo>
+                 −
+                 <!-- − -->
+                </mo>
+                <mn>
+                 1
+                </mn>
+               </mrow>
+              </msup>
+              <mo stretchy="false">
+               (
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi mathvariant="normal">
+                n
+               </mi>
+               <mi mathvariant="normal">
+                m
+               </mi>
+              </mrow>
+              <mo stretchy="false">
+               )
+              </mo>
+              <mo>
+               =
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mfrac>
+                <mn>
+                 0.304
+                </mn>
+                <msqrt>
+                 <mi>
+                  I
+                 </mi>
+                 <mo stretchy="false">
+                  (
+                 </mo>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mi mathvariant="normal">
+                   M
+                  </mi>
+                 </mrow>
+                 <mo stretchy="false">
+                  )
+                 </mo>
+                </msqrt>
+               </mfrac>
+              </mrow>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle \kappa ^{-1}(\mathrm {nm} )={\frac {0.304}{\sqrt {I(\mathrm {M} )}}}}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="\kappa ^{-1}(\mathrm {nm} )={\frac {0.304}{\sqrt {I(\mathrm {M} )}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e390da48c79c145184c7f4739cc9ddf9149e4e0b" style="vertical-align: -3.171ex; width:20.08ex; height:6.509ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       where
+      </p>
+      <dl>
+       <dd>
+        <i>
+         κ
+        </i>
+        <sup>
+         −1
+        </sup>
+        is expressed in
+        <a class="mw-redirect" href="/wiki/Nanometer" title="Nanometer">
+         nanometers
+        </a>
+        (nm)
+       </dd>
+       <dd>
+        <i>
+         I
+        </i>
+        is the
+        <a href="/wiki/Ionic_strength" title="Ionic strength">
+         ionic strength
+        </a>
+        expressed in
+        <a href="/wiki/Molar_concentration" title="Molar concentration">
+         molar
+        </a>
+        (M or mol/L)
+       </dd>
+      </dl>
+      <h2>
+       <span class="mw-headline" id="In_semiconductors">
+        In semiconductors
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Debye_length&amp;action=edit&amp;section=5" title="Edit section: In semiconductors">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       The Debye length has become increasingly significant in the modeling of solid state devices as improvements in lithographic technologies have enabled smaller geometries.
+       <sup class="reference" id="cite_ref-11">
+        <a href="#cite_note-11">
+         [11]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-12">
+        <a href="#cite_note-12">
+         [12]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-13">
+        <a href="#cite_note-13">
+         [13]
+        </a>
+       </sup>
+      </p>
+      <p>
+       The Debye length of
+       <a href="/wiki/Semiconductor" title="Semiconductor">
+        semiconductors
+       </a>
+       is given:
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle {\mathit {L}}_{D}={\sqrt {\frac {\varepsilon k_{B}T}{q^{2}N_{d}}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <msub>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mrow class="MJX-TeXAtom-ORD">
+                 <mi class="MJX-tex-mathit" mathvariant="italic">
+                  L
+                 </mi>
+                </mrow>
+               </mrow>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 D
+                </mi>
+               </mrow>
+              </msub>
+              <mo>
+               =
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <msqrt>
+                <mfrac>
+                 <mrow>
+                  <mi>
+                   ε
+                   <!-- ε -->
+                  </mi>
+                  <msub>
+                   <mi>
+                    k
+                   </mi>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mi>
+                     B
+                    </mi>
+                   </mrow>
+                  </msub>
+                  <mi>
+                   T
+                  </mi>
+                 </mrow>
+                 <mrow>
+                  <msup>
+                   <mi>
+                    q
+                   </mi>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mn>
+                     2
+                    </mn>
+                   </mrow>
+                  </msup>
+                  <msub>
+                   <mi>
+                    N
+                   </mi>
+                   <mrow class="MJX-TeXAtom-ORD">
+                    <mi>
+                     d
+                    </mi>
+                   </mrow>
+                  </msub>
+                 </mrow>
+                </mfrac>
+               </msqrt>
+              </mrow>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle {\mathit {L}}_{D}={\sqrt {\frac {\varepsilon k_{B}T}{q^{2}N_{d}}}}}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="{\mathit {L}}_{D}={\sqrt {\frac {\varepsilon k_{B}T}{q^{2}N_{d}}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/028e487e7a563cba23e85ea05ac3b6004247187f" style="vertical-align: -3.338ex; width:14.719ex; height:7.676ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       where
+      </p>
+      <dl>
+       <dd>
+        <i>
+         ε
+        </i>
+        is the dielectric constant,
+       </dd>
+       <dd>
+        <i>
+         k
+        </i>
+        <sub>
+         B
+        </sub>
+        is the Boltzmann's constant,
+       </dd>
+       <dd>
+        <i>
+         T
+        </i>
+        is the absolute temperature in kelvins,
+       </dd>
+       <dd>
+        <i>
+         q
+        </i>
+        is the elementary charge, and
+       </dd>
+       <dd>
+        <i>
+         N
+         <sub>
+          d
+         </sub>
+        </i>
+        is the density of dopants (either donors or acceptors).
+       </dd>
+      </dl>
+      <p>
+       When doping profiles exceed the Debye length, majority carriers no longer behave according to the distribution of the dopants. Instead, a measure of the profile of the doping gradients provides an "effective" profile that better matches the profile of the majority carrier density.
+      </p>
+      <p>
+       In the context of solids, the Debye length is also called the
+       <a class="mw-redirect" href="/wiki/Thomas%E2%80%93Fermi_screening_length" title="Thomas–Fermi screening length">
+        Thomas–Fermi screening length
+       </a>
+       .
+      </p>
+      <h2>
+       <span class="mw-headline" id="See_also">
+        See also
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Debye_length&amp;action=edit&amp;section=6" title="Edit section: See also">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a href="/wiki/Debye%E2%80%93Falkenhagen_effect" title="Debye–Falkenhagen effect">
+         Debye–Falkenhagen effect
+        </a>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="References">
+        References
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Debye_length&amp;action=edit&amp;section=7" title="Edit section: References">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="mw-references-wrap mw-references-columns">
+       <ol class="references">
+        <li id="cite_note-Kirby-1">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-Kirby_1-0">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation book">
+           Kirby BJ.
+           <a class="external text" href="http://www.kirbyresearch.com/textbook" rel="nofollow">
+            <i>
+             Micro- and Nanoscale Fluid Mechanics: Transport in Microfluidic Devices
+            </i>
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Micro-+and+Nanoscale+Fluid+Mechanics%3A+Transport+in+Microfluidic+Devices&amp;rft.au=Kirby+BJ.&amp;rft_id=http%3A%2F%2Fwww.kirbyresearch.com%2Ftextbook&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADebye+length">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-DLi-2">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-DLi_2-0">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation book">
+           Li D (2004).
+           <i>
+            Electrokinetics in Microfluidics
+           </i>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Electrokinetics+in+Microfluidics&amp;rft.date=2004&amp;rft.au=Li+D&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADebye+length">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-Clemmow-3">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-Clemmow_3-0">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation book">
+           PC Clemmow &amp; JP Dougherty (1969).
+           <a class="external text" href="https://books.google.com/books?id=SBNNzUrTjecC&amp;pg=PP1&amp;dq=particles+plasmas+inauthor:Clemmow#PPA236,M1" rel="nofollow">
+            <i>
+             Electrodynamics of particles and plasmas
+            </i>
+           </a>
+           . Redwood City CA:
+           <a href="/wiki/Addison-Wesley" title="Addison-Wesley">
+            Addison-Wesley
+           </a>
+           . pp. § 7.6.7, p. 236 ff.
+           <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+            ISBN
+           </a>
+           <a href="/wiki/Special:BookSources/0-201-47986-9" title="Special:BookSources/0-201-47986-9">
+            0-201-47986-9
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Electrodynamics+of+particles+and+plasmas&amp;rft.place=Redwood+City+CA&amp;rft.pages=%C2%A7-7.6.7%2C+p.+236+ff.&amp;rft.pub=Addison-Wesley&amp;rft.date=1969&amp;rft.isbn=0-201-47986-9&amp;rft.au=PC+Clemmow+%26+JP+Dougherty&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DSBNNzUrTjecC%26pg%3DPP1%26dq%3Dparticles%2Bplasmas%2Binauthor%3AClemmow%23PPA236%2CM1&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADebye+length">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-Robinson-4">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-Robinson_4-0">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation book">
+           RA Robinson &amp;RH Stokes (2002).
+           <a class="external text" href="https://books.google.com/books?id=6ZVkqm-J9GkC&amp;pg=PR3#PPA76,M1" rel="nofollow">
+            <i>
+             Electrolyte solutions
+            </i>
+           </a>
+           . Mineola, NY:
+           <a href="/wiki/Dover_Publications" title="Dover Publications">
+            Dover Publications
+           </a>
+           . p. 76.
+           <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+            ISBN
+           </a>
+           <a href="/wiki/Special:BookSources/0-486-42225-9" title="Special:BookSources/0-486-42225-9">
+            0-486-42225-9
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Electrolyte+solutions&amp;rft.place=Mineola%2C+NY&amp;rft.pages=76&amp;rft.pub=Dover+Publications&amp;rft.date=2002&amp;rft.isbn=0-486-42225-9&amp;rft.au=RA+Robinson+%26RH+Stokes&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D6ZVkqm-J9GkC%26pg%3DPR3%23PPA76%2CM1&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADebye+length">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-Brydges-5">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-Brydges_5-0">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          See
+          <cite class="citation journal">
+           Brydges, David C.; Martin, Ph. A. (1999). "Coulomb Systems at Low Density: A Review".
+           <i>
+            Journal of Statistical Physics
+           </i>
+           .
+           <b>
+            96
+           </b>
+           (5/6): 1163–1330.
+           <a href="/wiki/ArXiv" title="ArXiv">
+            arXiv
+           </a>
+           :
+           <span class="plainlinks">
+            <a class="external text" href="//arxiv.org/abs/cond-mat/9904122" rel="nofollow">
+             cond-mat/9904122
+            </a>
+            <img alt="Freely accessible" data-file-height="813" data-file-width="512" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" title="Freely accessible" width="9"/>
+           </span>
+           .
+           <a href="/wiki/Bibcode" title="Bibcode">
+            Bibcode
+           </a>
+           :
+           <a class="external text" href="http://adsabs.harvard.edu/abs/1999JSP....96.1163B" rel="nofollow">
+            1999JSP....96.1163B
+           </a>
+           .
+           <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+            doi
+           </a>
+           :
+           <a class="external text" href="//doi.org/10.1023%2FA%3A1004600603161" rel="nofollow">
+            10.1023/A:1004600603161
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Statistical+Physics&amp;rft.atitle=Coulomb+Systems+at+Low+Density%3A+A+Review&amp;rft.volume=96&amp;rft.issue=5%2F6&amp;rft.pages=1163-1330&amp;rft.date=1999&amp;rft_id=info%3Aarxiv%2Fcond-mat%2F9904122&amp;rft_id=info%3Adoi%2F10.1023%2FA%3A1004600603161&amp;rft_id=info%3Abibcode%2F1999JSP....96.1163B&amp;rft.aulast=Brydges&amp;rft.aufirst=David+C.&amp;rft.au=Martin%2C+Ph.+A.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADebye+length">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-6">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-6">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation web">
+           Kip Thorne (2012).
+           <a class="external text" href="http://www.pmaweb.caltech.edu/Courses/ph136/yr2012/1220.1.K.pdf" rel="nofollow">
+            "The Particle Kinetics of Plasma"
+           </a>
+           <span style="font-size:85%;">
+            (PDF)
+           </span>
+           <span class="reference-accessdate">
+            . Retrieved
+            <span class="nowrap">
+             September 7,
+            </span>
+            2017
+           </span>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Particle+Kinetics+of+Plasma&amp;rft.date=2012&amp;rft.au=Kip+Thorne&amp;rft_id=http%3A%2F%2Fwww.pmaweb.caltech.edu%2FCourses%2Fph136%2Fyr2012%2F1220.1.K.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADebye+length">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-7">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-7">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          Hannes Alfvèn - Cosmic Plasma vol. 82 (1981) (D. Reidel Publishing Company 2012), II.6. Electric Double Layers, II.6.1. General Properties of Electric Double Layers, p. 29
+          <a class="external text" href="https://books.google.ca/books?id=gAnvCAAAQBAJ&amp;printsec=frontcover#v=onepage&amp;q&amp;f=false" rel="nofollow">
+           books.google.ca/books?id=gAnvCAAAQBAJ
+          </a>
+         </span>
+        </li>
+        <li id="cite_note-8">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-8">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          I. H. Hutchinson
+          <i>
+           Principles of plasma diagnostics
+          </i>
+          <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+           ISBN
+          </a>
+          <a href="/wiki/Special:BookSources/0-521-38583-0" title="Special:BookSources/0-521-38583-0">
+           0-521-38583-0
+          </a>
+         </span>
+        </li>
+        <li id="cite_note-9">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-9">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          Russel, W.B., Saville, D.A. and Schowalter, W. R.
+          <i>
+           Colloidal Dispersions
+          </i>
+          , Cambridge University Press, 1989
+         </span>
+        </li>
+        <li id="cite_note-10">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-10">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          Israelachvili, J.,
+          <i>
+           Intermolecular and Surface Forces
+          </i>
+          , Academic Press Inc., 1985,
+          <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+           ISBN
+          </a>
+          <a href="/wiki/Special:BookSources/0-12-375181-0" title="Special:BookSources/0-12-375181-0">
+           0-12-375181-0
+          </a>
+         </span>
+        </li>
+        <li id="cite_note-11">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-11">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation journal">
+           Stern, Eric; Robin Wagner; Fred J. Sigworth; Ronald Breaker; Tarek M. Fahmy; Mark A. Reed (2007-11-01).
+           <a class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC2713684" rel="nofollow">
+            "Importance of the Debye Screening Length on Nanowire Field Effect Transistor Sensors"
+           </a>
+           .
+           <i>
+            Nano Letters
+           </i>
+           .
+           <b>
+            7
+           </b>
+           (11): 3405–3409.
+           <a href="/wiki/Bibcode" title="Bibcode">
+            Bibcode
+           </a>
+           :
+           <a class="external text" href="http://adsabs.harvard.edu/abs/2007NanoL...7.3405S" rel="nofollow">
+            2007NanoL...7.3405S
+           </a>
+           .
+           <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+            doi
+           </a>
+           :
+           <a class="external text" href="//doi.org/10.1021%2Fnl071792z" rel="nofollow">
+            10.1021/nl071792z
+           </a>
+           .
+           <a href="/wiki/PubMed_Central" title="PubMed Central">
+            PMC
+           </a>
+           <span class="plainlinks">
+            <a class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC2713684" rel="nofollow">
+             2713684
+            </a>
+            <img alt="Freely accessible" data-file-height="813" data-file-width="512" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" title="Freely accessible" width="9"/>
+           </span>
+           .
+           <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">
+            PMID
+           </a>
+           <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/17914853" rel="nofollow">
+            17914853
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Nano+Letters&amp;rft.atitle=Importance+of+the+Debye+Screening+Length+on+Nanowire+Field+Effect+Transistor+Sensors&amp;rft.volume=7&amp;rft.issue=11&amp;rft.pages=3405-3409&amp;rft.date=2007-11-01&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC2713684&amp;rft_id=info%3Apmid%2F17914853&amp;rft_id=info%3Adoi%2F10.1021%2Fnl071792z&amp;rft_id=info%3Abibcode%2F2007NanoL...7.3405S&amp;rft.aulast=Stern&amp;rft.aufirst=Eric&amp;rft.au=Robin+Wagner&amp;rft.au=Fred+J.+Sigworth&amp;rft.au=Ronald+Breaker&amp;rft.au=Tarek+M.+Fahmy&amp;rft.au=Mark+A.+Reed&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC2713684&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADebye+length">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-12">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-12">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation journal">
+           Guo, Lingjie; Effendi Leobandung; Stephen Y. Chou (199). "A room-temperature silicon single-electron metal–oxide–semiconductor memory with nanoscale floating-gate and ultranarrow channel".
+           <i>
+            Applied Physics Letters
+           </i>
+           .
+           <b>
+            70
+           </b>
+           (7): 850.
+           <a href="/wiki/Bibcode" title="Bibcode">
+            Bibcode
+           </a>
+           :
+           <a class="external text" href="http://adsabs.harvard.edu/abs/1997ApPhL..70..850G" rel="nofollow">
+            1997ApPhL..70..850G
+           </a>
+           .
+           <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+            doi
+           </a>
+           :
+           <a class="external text" href="//doi.org/10.1063%2F1.118236" rel="nofollow">
+            10.1063/1.118236
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Applied+Physics+Letters&amp;rft.atitle=A+room-temperature+silicon+single-electron+metal%E2%80%93oxide%E2%80%93semiconductor+memory+with+nanoscale+floating-gate+and+ultranarrow+channel&amp;rft.volume=70&amp;rft.issue=7&amp;rft.pages=850&amp;rft.date=199&amp;rft_id=info%3Adoi%2F10.1063%2F1.118236&amp;rft_id=info%3Abibcode%2F1997ApPhL..70..850G&amp;rft.aulast=Guo&amp;rft.aufirst=Lingjie&amp;rft.au=Effendi+Leobandung&amp;rft.au=Stephen+Y.+Chou&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADebye+length">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+        <li id="cite_note-13">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-13">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          <cite class="citation journal">
+           Tiwari, Sandip; Farhan Rana; Kevin Chan; Leathen Shi; Hussein Hanafi (1996). "Single charge and confinement effects in nano-crystal memories".
+           <i>
+            Applied Physics Letters
+           </i>
+           .
+           <b>
+            69
+           </b>
+           (9): 1232.
+           <a href="/wiki/Bibcode" title="Bibcode">
+            Bibcode
+           </a>
+           :
+           <a class="external text" href="http://adsabs.harvard.edu/abs/1996ApPhL..69.1232T" rel="nofollow">
+            1996ApPhL..69.1232T
+           </a>
+           .
+           <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+            doi
+           </a>
+           :
+           <a class="external text" href="//doi.org/10.1063%2F1.117421" rel="nofollow">
+            10.1063/1.117421
+           </a>
+           .
+          </cite>
+          <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Applied+Physics+Letters&amp;rft.atitle=Single+charge+and+confinement+effects+in+nano-crystal+memories&amp;rft.volume=69&amp;rft.issue=9&amp;rft.pages=1232&amp;rft.date=1996&amp;rft_id=info%3Adoi%2F10.1063%2F1.117421&amp;rft_id=info%3Abibcode%2F1996ApPhL..69.1232T&amp;rft.aulast=Tiwari&amp;rft.aufirst=Sandip&amp;rft.au=Farhan+Rana&amp;rft.au=Kevin+Chan&amp;rft.au=Leathen+Shi&amp;rft.au=Hussein+Hanafi&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADebye+length">
+           <span style="display:none;">
+           </span>
+          </span>
+         </span>
+        </li>
+       </ol>
+      </div>
+      <h2>
+       <span class="mw-headline" id="Further_reading">
+        Further reading
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Debye_length&amp;action=edit&amp;section=8" title="Edit section: Further reading">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <cite class="citation book">
+         Goldston &amp; Rutherford (1997).
+         <i>
+          Introduction to Plasma Physics
+         </i>
+         . Philadelphia:
+         <a class="mw-redirect" href="/wiki/Institute_of_Physics_Publishing" title="Institute of Physics Publishing">
+          Institute of Physics Publishing
+         </a>
+         .
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Introduction+to+Plasma+Physics&amp;rft.place=Philadelphia&amp;rft.pub=Institute+of+Physics+Publishing&amp;rft.date=1997&amp;rft.au=Goldston+%26+Rutherford&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADebye+length">
+         <span style="display:none;">
+         </span>
+        </span>
+       </li>
+       <li>
+        <cite class="citation book">
+         Lyklema (1993).
+         <i>
+          Fundamentals of Interface and Colloid Science
+         </i>
+         . NY:
+         <a href="/wiki/Academic_Press" title="Academic Press">
+          Academic Press
+         </a>
+         .
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Fundamentals+of+Interface+and+Colloid+Science&amp;rft.place=NY&amp;rft.pub=Academic+Press&amp;rft.date=1993&amp;rft.au=Lyklema&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADebye+length">
+         <span style="display:none;">
+         </span>
+        </span>
+       </li>
+      </ul>
+      <!-- 
+NewPP limit report
+Parsed by mw1249
+Cached time: 20180311185156
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.228 seconds
+Real time usage: 0.356 seconds
+Preprocessor visited node count: 1240/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 20386/2097152 bytes
+Template argument size: 876/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 15878/5000000 bytes
+Lua time usage: 0.071/10.000 seconds
+Lua memory usage: 2.92 MB/50 MB
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  164.266      1 -total
+ 43.56%   71.549      6 Template:Cite_book
+ 21.95%   36.062      2 Template:ISBN
+ 14.14%   23.227      4 Template:Cite_journal
+  8.04%   13.211      2 Template:Catalog_lookup_link
+  4.49%    7.374      2 Template:Error-small
+  4.05%    6.654      1 Template:Cite_web
+  3.03%    4.985      6 Template:Yesno-no
+  1.92%    3.146      6 Template:Yesno
+  1.56%    2.561     12 Template:Trim
+-->
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:1158235-0!canonical!math=5 and timestamp 20180311185155 and revision id 813205101
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Debye_length&amp;oldid=813205101">
+      https://en.wikipedia.org/w/index.php?title=Debye_length&amp;oldid=813205101
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Electricity" title="Category:Electricity">
+         Electricity
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Colloidal_chemistry" title="Category:Colloidal chemistry">
+         Colloidal chemistry
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Plasma_physics" title="Category:Plasma physics">
+         Plasma physics
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Electrochemistry" title="Category:Electrochemistry">
+         Electrochemistry
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Length" title="Category:Length">
+         Length
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Peter_Debye" title="Category:Peter Debye">
+         Peter Debye
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Debye+length" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Debye+length" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Debye_length" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Debye_length" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="collapsible selected" id="ca-view">
+        <span>
+         <a href="/wiki/Debye_length">
+          Read
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Debye_length&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Debye_length&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Debye_length" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Debye_length" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Debye_length&amp;oldid=813205101" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Debye_length&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q898268" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Debye_length&amp;id=813205101" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Debye+length">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Debye+length&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Debye_length&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-ar">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%B7%D9%88%D9%84_%D8%AF%D9%8A%D8%A8%D8%A7%D9%8A" hreflang="ar" lang="ar" title="طول ديباي – Arabic">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cs">
+        <a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Debyeova_st%C3%ADnic%C3%AD_d%C3%A9lka" hreflang="cs" lang="cs" title="Debyeova stínicí délka – Czech">
+         Čeština
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Debye-L%C3%A4nge" hreflang="de" lang="de" title="Debye-Länge – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-et">
+        <a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Debye_raadius" hreflang="et" lang="et" title="Debye raadius – Estonian">
+         Eesti
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Longitud_de_Debye" hreflang="es" lang="es" title="Longitud de Debye – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fa">
+        <a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%B7%D9%88%D9%84_%D8%AF%D8%A8%D8%A7%DB%8C" hreflang="fa" lang="fa" title="طول دبای – Persian">
+         فارسی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Longueur_de_Debye" hreflang="fr" lang="fr" title="Longueur de Debye – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hr">
+        <a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Debyeva_duljina" hreflang="hr" lang="hr" title="Debyeva duljina – Croatian">
+         Hrvatski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Lunghezza_di_Debye" hreflang="it" lang="it" title="Lunghezza di Debye – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-he">
+        <a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%90%D7%95%D7%A8%D7%9A_%D7%93%D7%91%D7%99%D7%99" hreflang="he" lang="he" title="אורך דביי – Hebrew">
+         עברית
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nl">
+        <a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Debyelengte" hreflang="nl" lang="nl" title="Debyelengte – Dutch">
+         Nederlands
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%90%E3%82%A4%E9%95%B7" hreflang="ja" lang="ja" title="デバイ長 – Japanese">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pl">
+        <a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/D%C5%82ugo%C5%9B%C4%87_Debye%E2%80%99a" hreflang="pl" lang="pl" title="Długość Debye’a – Polish">
+         Polski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Comprimento_de_Debye" hreflang="pt" lang="pt" title="Comprimento de Debye – Portuguese">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%94%D0%B5%D0%B1%D0%B0%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%B4%D0%BB%D0%B8%D0%BD%D0%B0" hreflang="ru" lang="ru" title="Дебаевская длина – Russian">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sh">
+        <a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Debyeva_duljina" hreflang="sh" lang="sh" title="Debyeva duljina – Serbo-Croatian">
+         Srpskohrvatski / српскохрватски
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uk">
+        <a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B4%D1%96%D1%83%D1%81_%D0%94%D0%B5%D0%B1%D0%B0%D1%8F" hreflang="uk" lang="uk" title="Радіус Дебая – Ukrainian">
+         Українська
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%BE%B7%E6%8B%9C%E9%95%BF%E5%BA%A6" hreflang="zh" lang="zh" title="德拜长度 – Chinese">
+         中文
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q898268#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 2 December 2017, at 11:52.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Debye_length&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.228","walltime":"0.356","ppvisitednodes":{"value":1240,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":20386,"limit":2097152},"templateargumentsize":{"value":876,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":15878,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  164.266      1 -total"," 43.56%   71.549      6 Template:Cite_book"," 21.95%   36.062      2 Template:ISBN"," 14.14%   23.227      4 Template:Cite_journal","  8.04%   13.211      2 Template:Catalog_lookup_link","  4.49%    7.374      2 Template:Error-small","  4.05%    6.654      1 Template:Cite_web","  3.03%    4.985      6 Template:Yesno-no","  1.92%    3.146      6 Template:Yesno","  1.56%    2.561     12 Template:Trim"]},"scribunto":{"limitreport-timeusage":{"value":"0.071","limit":"10.000"},"limitreport-memusage":{"value":3065261,"limit":52428800}},"cachereport":{"origin":"mw1249","timestamp":"20180311185156","ttl":1900800,"transientcontent":false}}});});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":1121,"wgHostname":"mw1326"});});
+  </script>
+ </body>
+</html>

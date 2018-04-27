@@ -1,0 +1,128 @@
+############################################################################################################
+####################################  HOMEWORK 3 : Task 3-C   ##############################################
+############################################################################################################
+
+>>>>>>>>>>>>> Stoplist Unigram <<<<<<<<<<<<<<<<
+
+   TERM        |      TERM FREQUENCY
+----------------------------------------
+1.   the       |         126914
+2.   of        |         64445
+3.   and       |         44559
+4.   in        |         38183
+5.   a         |         32814
+6.   to        |         29769
+7.   is        |         19789
+8.   as        |         12660
+9.   by        |         11792
+10.  on        |         11067
+11.  for       |         10944
+12.   was      |         10372
+13.   with     |         10229
+14.   that     |         9940
+15.   from     |         8844
+16.   are      |         7974
+17.   at       |         7218
+18.   it       |         7210
+19.   an       |         6651
+20.   or       |         6098
+21.   edit     |         6012
+22.   be       |         5933
+23.   this     |         5773
+24.   which    |         5574
+25.   were     |         4388
+26.   its      |         4176
+27.   have     |         3842
+28.   has      |         3831
+29.   also     |         3696
+   
+   
+ Terms removed from the stop list
+   
+   solar     |         7429
+   eclipse   |         5107
+   moon      |         4444
+
+The cutoff selected for the unigram stoplist was 32 in which some topically relevant words mention above was removed.
+Stoplist must contain function words that are very frequent and which add no or little meaning to the context, such as determiners(
+a, an, the, this, that etc.), conjunctions (and, or. also etc.) , prepositions (of, to, by etc.) and auxiliary verbs( is,are etc).
+We should not include any topical words, which if included in the stoplist may not give better results during query processing.
+So in our case though the words like solar, eclipse, moon are very frequent and if removed can save a lot of space, we do not 
+include them in our list.
+Thus cutoff value was chosen as 32 as after that topically relevant words were more frequent.
+Size of stoplist for unigram= 29 
+   
+   
+>>>>>>>>>>>>> Stoplist Bi-gram  <<<<<<<<<<<<<<<<<
+ 
+   TERM         |      TERM FREQUENCY
+---------------------------------------- 
+1.  of the      |         20106
+2.  in the      |         10370
+3.  to the      |         5988
+4.  and the     |         5042
+5.  on the      |         3560
+6.  by the      |         3292
+7.  from the    |         2994
+8.  with the    |         2726
+9.  is the      |         2404
+10. as the      |         2301
+11. for the     |         2195
+12. of a        |         2151
+13. as a        |         2151
+14. at the      |         2099
+15. in a        |         2032
+16. is a        |         1977
+17. it is       |         1910
+18. to be       |         1788
+19. such as     |         1773
+20. that the    |         1618
+21. when the    |         1498
+22. during the  |         1270
+23. the same    |         1261
+24. can be      |         1241
+25. with a      |         1218
+   
+   
+	Terms removed from the list   
+   
+   the moon      |         3125
+   the sun       |         3092   
+   solar eclipse |         2967 
+   the moons     |         1228
+    
+The cutoff selected for the bi-gram stoplist was 29 in which some topically relevant words mention above was removed. 
+Mostly those frequent bi-grams were included in the list that adds no or very little meaning to the context.   
+For the similar reasons as in unigrams the cutoff list for bigrams was chosen as 29, after which topically relevant bigrams
+were more frequent.
+Size of stoplist for bigram =25
+ 
+>>>>>>>>>>>>> Stoplist Trigram  <<<<<<<<<<<<<<<<<
+
+
+   TERM         |      TERM FREQUENCY
+----------------------------------------
+
+1. one of the   |         784
+2. as well as   |         594
+3. part of the  |         574
+
+
+
+     Terms removed from the list   
+   
+   solar eclipse of      |         1036
+   of the sun            |         973   
+   solar eclipse occurs  |         763 
+   of the moon           |         758
+   eclipse occurs when   |         725
+   edit main article     |         619
+   of solar eclipses     |         598
+   of the moons          |         541
+    
+   
+The cutoff selected for the trigram stoplist was 11 in which most of the topically relevant words mentioned above was removed.
+Selection of a cutoff value for trigrams were difficult as from the start trigrams that can be topically relevant were frequent.
+So after careful scrutinization the cutoff value was decided to be 11 but in between those 11 many topically relevant phrases 
+were removed which are mentioned above.
+Size of stoplist for trigram =3  

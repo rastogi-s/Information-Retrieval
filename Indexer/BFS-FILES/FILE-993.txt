@@ -1,0 +1,3539 @@
+https://en.wikipedia.org/wiki/Coronal_radiative_losses
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Coronal radiative losses - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Coronal_radiative_losses","wgTitle":"Coronal radiative losses","wgCurRevisionId":808566927,"wgRevisionId":808566927,"wgArticleId":29820802,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: Multiple names: authors list","Wikipedia articles that are too technical from March 2011","All articles that are too technical","Articles needing expert attention from March 2011","All articles needing expert attention","Sun","Emission spectroscopy","Plasma physics","X-ray astronomy"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Coronal_radiative_losses","wgRelevantArticleId":29820802,"wgRequestId":"WqYPeQpAICIAAJwEj@IAAACA","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q3899734","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.cite.a11y","ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.31.0-wmf.24" name="generator"/>
+  <meta content="origin" name="referrer"/>
+  <meta content="origin-when-crossorigin" name="referrer"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <meta content="https://upload.wikimedia.org/wikipedia/commons/a/a0/Latest_xrt_soft_x-ray.gif" property="og:image"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Coronal_radiative_losses" rel="alternate"/>
+  <link href="/w/index.php?title=Coronal_radiative_losses&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Coronal_radiative_losses&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/Coronal_radiative_losses" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Coronal_radiative_losses rootpage-Coronal_radiative_losses skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Coronal radiative losses
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <table class="plainlinks metadata ambox ambox-style ambox-technical" role="presentation">
+       <tr>
+        <td class="mbox-image">
+         <div style="width:52px">
+          <img alt="" data-file-height="48" data-file-width="48" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/60px-Edit-clear.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/80px-Edit-clear.svg.png 2x" width="40"/>
+         </div>
+        </td>
+        <td class="mbox-text">
+         <div class="mbox-text-span">
+          This article
+          <b>
+           may be too technical for most readers to understand
+          </b>
+          . Please
+          <a class="external text" href="//en.wikipedia.org/w/index.php?title=Coronal_radiative_losses&amp;action=edit">
+           help improve it
+          </a>
+          to
+          <a href="/wiki/Wikipedia:Make_technical_articles_understandable" title="Wikipedia:Make technical articles understandable">
+           make it understandable to non-experts
+          </a>
+          , without removing the technical details.
+          <small>
+           <i>
+            (March 2011)
+           </i>
+          </small>
+          <small class="hide-when-compact">
+           <i>
+            (
+            <a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">
+             Learn how and when to remove this template message
+            </a>
+            )
+           </i>
+          </small>
+         </div>
+        </td>
+       </tr>
+      </table>
+      <p>
+       In
+       <a href="/wiki/Astronomy" title="Astronomy">
+        astronomy
+       </a>
+       and in
+       <a href="/wiki/Astrophysics" title="Astrophysics">
+        astrophysics
+       </a>
+       , for
+       <b>
+        radiative losses of the solar corona
+       </b>
+       , it is meant the
+       <a href="/wiki/Energy_flux" title="Energy flux">
+        energy flux
+       </a>
+       irradiated from the external
+       <a href="/wiki/Atmosphere" title="Atmosphere">
+        atmosphere
+       </a>
+       of the
+       <a href="/wiki/Sun" title="Sun">
+        Sun
+       </a>
+       (traditionally divided into
+       <a href="/wiki/Chromosphere" title="Chromosphere">
+        chromosphere
+       </a>
+       ,
+       <a href="/wiki/Solar_transition_region" title="Solar transition region">
+        transition region
+       </a>
+       and
+       <a href="/wiki/Corona" title="Corona">
+        corona
+       </a>
+       ), and, in particular, the processes of production of the
+       <a href="/wiki/Radiation" title="Radiation">
+        radiation
+       </a>
+       coming from the solar corona and transition region, where the plasma is optically-thin. On the contrary, in the chromosphere, where the temperature decreases from the photospheric value of 6000 K to the minimum of 4400 K, the
+       <a href="/wiki/Optical_depth" title="Optical depth">
+        optical depth
+       </a>
+       is about 1, and the radiation is thermal.
+      </p>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:322px;">
+        <a class="image" href="/wiki/File:Latest_xrt_soft_x-ray.gif">
+         <img alt="" class="thumbimage" data-file-height="1024" data-file-width="1024" height="320" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Latest_xrt_soft_x-ray.gif/320px-Latest_xrt_soft_x-ray.gif" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Latest_xrt_soft_x-ray.gif/480px-Latest_xrt_soft_x-ray.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Latest_xrt_soft_x-ray.gif/640px-Latest_xrt_soft_x-ray.gif 2x" width="320"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Latest_xrt_soft_x-ray.gif" title="Enlarge">
+          </a>
+         </div>
+         The Sun in the soft X-rays as seen by the
+         <a href="/wiki/Hinode" title="Hinode">
+          Hinode
+         </a>
+         X-ray Telescope (XRT) on 15 Oct 2009.
+        </div>
+       </div>
+      </div>
+      <p>
+       The
+       <a href="/wiki/Corona" title="Corona">
+        corona
+       </a>
+       extends much further than a solar radius from the
+       <a href="/wiki/Photosphere" title="Photosphere">
+        photosphere
+       </a>
+       and looks very complex and inhomogeneous in the
+       <a class="mw-redirect" href="/wiki/X-rays" title="X-rays">
+        X-rays
+       </a>
+       images taken by satellites (see the figure on the right taken by the XRT on board
+       <a href="/wiki/Hinode" title="Hinode">
+        Hinode
+       </a>
+       ). The structure and dynamics of the
+       <a href="/wiki/Corona" title="Corona">
+        corona
+       </a>
+       are dominated by the
+       <a class="mw-redirect" href="/wiki/Solar_magnetic_field" title="Solar magnetic field">
+        solar magnetic field
+       </a>
+       . There are strong evidences that even the heating mechanism, responsible for its high temperature of million degrees, is linked to the magnetic field of the
+       <a href="/wiki/Sun" title="Sun">
+        Sun
+       </a>
+       .
+      </p>
+      <p>
+       The
+       <a href="/wiki/Energy_flux" title="Energy flux">
+        energy flux
+       </a>
+       irradiated from the corona changes in
+       <a class="new" href="/w/index.php?title=Stellar_active_region&amp;action=edit&amp;redlink=1" title="Stellar active region (page does not exist)">
+        active regions
+       </a>
+       , in the quiet Sun and in
+       <a class="mw-redirect" href="/wiki/Coronal_holes" title="Coronal holes">
+        coronal holes
+       </a>
+       ; actually, part of the energy is irradiated outwards, but approximately the same amount of the energy flux is conducted back towards the
+       <a href="/wiki/Chromosphere" title="Chromosphere">
+        chromosphere
+       </a>
+       , through the steep
+       <a href="/wiki/Solar_transition_region" title="Solar transition region">
+        transition region
+       </a>
+       . In active regions the energy flux is about 10
+       <sup>
+        7
+       </sup>
+       erg cm
+       <sup>
+        −2
+       </sup>
+       sec
+       <sup>
+        −1
+       </sup>
+       , in the quiet Sun it is roughly 8 10
+       <sup>
+        5
+       </sup>
+       – 10
+       <sup>
+        6
+       </sup>
+       erg cm
+       <sup>
+        −2
+       </sup>
+       sec
+       <sup>
+        −1
+       </sup>
+       , and in coronal holes 5 10
+       <sup>
+        5
+       </sup>
+       - 8 10
+       <sup>
+        5
+       </sup>
+       erg cm
+       <sup>
+        −2
+       </sup>
+       sec
+       <sup>
+        −1
+       </sup>
+       , including the losses due to the solar wind.
+       <sup class="reference" id="cite_ref-1">
+        <a href="#cite_note-1">
+         [1]
+        </a>
+       </sup>
+       The required power is a small fraction of the total flux irradiated from the Sun, but this energy is enough to maintain the plasma at the temperature of million degrees, since the density is very low and the processes of radiation are different from those occurring in the photosphere, as it is shown in detail in the next section.
+      </p>
+      <p>
+      </p>
+      <div class="toc" id="toc">
+       <div class="toctitle" dir="ltr" lang="en" xml:lang="en">
+        <h2>
+         Contents
+        </h2>
+       </div>
+       <ul>
+        <li class="toclevel-1 tocsection-1">
+         <a href="#Processes_of_radiation_of_the_solar_corona">
+          <span class="tocnumber">
+           1
+          </span>
+          <span class="toctext">
+           Processes of radiation of the solar corona
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-2">
+         <a href="#Optically-thin_plasma_emission">
+          <span class="tocnumber">
+           2
+          </span>
+          <span class="toctext">
+           Optically-thin plasma emission
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-3">
+         <a href="#Other_related_articles">
+          <span class="tocnumber">
+           3
+          </span>
+          <span class="toctext">
+           Other related articles
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-4">
+         <a href="#References">
+          <span class="tocnumber">
+           4
+          </span>
+          <span class="toctext">
+           References
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-5">
+         <a href="#Bibliography">
+          <span class="tocnumber">
+           5
+          </span>
+          <span class="toctext">
+           Bibliography
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <p>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Processes_of_radiation_of_the_solar_corona">
+        Processes of radiation of the solar corona
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Coronal_radiative_losses&amp;action=edit&amp;section=1" title="Edit section: Processes of radiation of the solar corona">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:322px;">
+        <a class="image" href="/wiki/File:EffectiveTemperature_300dpi_e_it.png">
+         <img alt="" class="thumbimage" data-file-height="2200" data-file-width="3000" height="235" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/EffectiveTemperature_300dpi_e_it.png/320px-EffectiveTemperature_300dpi_e_it.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/EffectiveTemperature_300dpi_e_it.png/480px-EffectiveTemperature_300dpi_e_it.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9c/EffectiveTemperature_300dpi_e_it.png/640px-EffectiveTemperature_300dpi_e_it.png 2x" width="320"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:EffectiveTemperature_300dpi_e_it.png" title="Enlarge">
+          </a>
+         </div>
+         The
+         <a href="/wiki/Effective_temperature" title="Effective temperature">
+          effective temperature
+         </a>
+         of the Sun. The grey area represents the
+         <a class="mw-redirect" href="/wiki/Blackbody_radiation" title="Blackbody radiation">
+          blackbody radiation
+         </a>
+         with the same radiative flux of the solar spectrum (yellow area).
+        </div>
+       </div>
+      </div>
+      <p>
+       The electromagnetic waves coming from the solar
+       <a href="/wiki/Corona" title="Corona">
+        corona
+       </a>
+       are emitted mainly in the
+       <a class="mw-redirect" href="/wiki/X-rays" title="X-rays">
+        X-rays
+       </a>
+       . This radiation is not visible from the Earth because it is filtered by the atmosphere. Before the first rocket missions, the corona could be observed only in white light during the eclipses, while in the last fifty years the solar corona has been photographed in the EUV and X-rays by many satellites (
+       <a href="/wiki/Pioneer_program" title="Pioneer program">
+        Pioneer
+       </a>
+       5, 6, 7, 8, 9,
+       <a href="/wiki/Helios" title="Helios">
+        Helios
+       </a>
+       ,
+       <a href="/wiki/Skylab" title="Skylab">
+        Skylab
+       </a>
+       ,
+       <a href="/wiki/Solar_Maximum_Mission" title="Solar Maximum Mission">
+        SMM
+       </a>
+       ,
+       <a href="/wiki/NIXT" title="NIXT">
+        NIXT
+       </a>
+       ,
+       <a href="/wiki/Yohkoh" title="Yohkoh">
+        Yohkoh
+       </a>
+       ,
+       <a href="/wiki/Solar_and_Heliospheric_Observatory" title="Solar and Heliospheric Observatory">
+        SOHO
+       </a>
+       ,
+       <a href="/wiki/TRACE" title="TRACE">
+        TRACE
+       </a>
+       ,
+       <a href="/wiki/Hinode" title="Hinode">
+        Hinode
+       </a>
+       ).
+      </p>
+      <p>
+       The emitting plasma is almost completely ionized and very light, its density is about 10
+       <sup>
+        −16
+       </sup>
+       - 10
+       <sup>
+        −14
+       </sup>
+       g/cm
+       <sup>
+        3
+       </sup>
+       . Particles are so isolated that almost all the
+       <a class="mw-redirect" href="/wiki/Photons" title="Photons">
+        photons
+       </a>
+       can leave the
+       <a href="/wiki/Sun" title="Sun">
+        Sun
+       </a>
+       's surface without interacting with the matter above the
+       <a href="/wiki/Photosphere" title="Photosphere">
+        photosphere
+       </a>
+       : in other words, the corona is transparent to the radiation and the emission of the
+       <a href="/wiki/Plasma_(physics)" title="Plasma (physics)">
+        plasma
+       </a>
+       is optically-thin. The Sun's atmosphere is not the unique example of
+       <a class="mw-redirect" href="/wiki/Astronomical_X-ray_source" title="Astronomical X-ray source">
+        X-ray source
+       </a>
+       , since hot plasmas are present wherever in the Universe: from stellar coronae to thin
+       <a href="/wiki/Galactic_halo" title="Galactic halo">
+        galactic halos
+       </a>
+       . These stellar environments are the subject of the
+       <a href="/wiki/X-ray_astronomy" title="X-ray astronomy">
+        X-ray astronomy
+       </a>
+       .
+      </p>
+      <p>
+       In an optically-thin plasma the matter is not in thermodynamical equilibrium with the radiation, because collisions between particles and photons are very rare, and, as a matter of fact, the square root mean velocity of photons, electrons, protons and ions is not the same: we should define a temperature for each of these particle populations. The result is that the
+       <a href="/wiki/Emission_spectrum" title="Emission spectrum">
+        emission spectrum
+       </a>
+       does not fit the spectral distribution of a
+       <a class="mw-redirect" href="/wiki/Blackbody_radiation" title="Blackbody radiation">
+        blackbody radiation
+       </a>
+       , but it depends only on those collisional processes which occur in a very rarefied plasma.
+      </p>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:322px;">
+        <a class="image" href="/wiki/File:FraunhoferLinesDiagram.jpg">
+         <img alt="" class="thumbimage" data-file-height="165" data-file-width="381" height="139" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/FraunhoferLinesDiagram.jpg/320px-FraunhoferLinesDiagram.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/9/9f/FraunhoferLinesDiagram.jpg 1.5x" width="320"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:FraunhoferLinesDiagram.jpg" title="Enlarge">
+          </a>
+         </div>
+         <a href="/wiki/Fraunhofer_lines" title="Fraunhofer lines">
+          Fraunhofer lines
+         </a>
+         in the solar spectrum.
+        </div>
+       </div>
+      </div>
+      <p>
+       While the
+       <a href="/wiki/Fraunhofer_lines" title="Fraunhofer lines">
+        Fraunhofer lines
+       </a>
+       coming from the
+       <a href="/wiki/Photosphere" title="Photosphere">
+        photosphere
+       </a>
+       are
+       <a class="mw-redirect" href="/wiki/Absorption_lines" title="Absorption lines">
+        absorption lines
+       </a>
+       , principally emitted from ions which absorb photons of the same frequency of the transition to an upper energy level, coronal lines are
+       <a class="mw-redirect" href="/wiki/Emission_lines" title="Emission lines">
+        emission lines
+       </a>
+       produced by metal ions which had been excited to a superior state by collisional processes. Many spectral lines are emitted by highly ionized atoms, like calcium and iron, which have lost most of their external electrons; these emission lines can be formed only at certain temperatures, and therefore their individuation in solar
+       <a href="/wiki/Spectrum" title="Spectrum">
+        spectra
+       </a>
+       is sufficient to determine the temperature of the emitting plasma.
+      </p>
+      <p>
+       Some of these spectral lines can be forbidden on the Earth: in fact, collisions between particles can excite ions to metastable states; in a dense gas these ions immediately collide with other particles and so they de-excite with an allowed transition to an intermediate level, while in the corona it is more probable that this ion remains in its metastable state, until it encounters a photon of the same frequency of the forbidden transition to the lower state. This photon induces the ion to emit with the same frequency by
+       <a href="/wiki/Stimulated_emission" title="Stimulated emission">
+        stimulated emission
+       </a>
+       . Forbidden transitions from metastable states are often called as satellite lines.
+      </p>
+      <p>
+       The
+       <a href="/wiki/Spectroscopy" title="Spectroscopy">
+        Spectroscopy
+       </a>
+       of the corona allows the determination of many physical parameters of the emitting plasma. Comparing the
+       <a href="/wiki/Luminous_intensity" title="Luminous intensity">
+        intensity
+       </a>
+       in lines of different ions of the same element, temperature and density can be measured with a good approximation: the different states of ionization are regulated by the
+       <a class="mw-redirect" href="/wiki/Saha_equation" title="Saha equation">
+        Saha equation
+       </a>
+       . The
+       <a class="mw-redirect" href="/wiki/Doppler_shift" title="Doppler shift">
+        Doppler shift
+       </a>
+       gives a good measurement of the velocities along the
+       <a href="/wiki/Line-of-sight_propagation" title="Line-of-sight propagation">
+        line of sight
+       </a>
+       but not in the perpendicular plane. The
+       <a class="mw-redirect" href="/wiki/Line_width" title="Line width">
+        line width
+       </a>
+       should depend on the
+       <a href="/wiki/Maxwell%E2%80%93Boltzmann_distribution" title="Maxwell–Boltzmann distribution">
+        Maxwell–Boltzmann distribution
+       </a>
+       of velocities at the temperature of line formation (thermal line broadening), while it is often larger than predicted. The widening can be due to
+       <a class="mw-redirect" href="/wiki/Pressure_broadening" title="Pressure broadening">
+        pressure broadening
+       </a>
+       , when collisions between particles are frequent, or it can be due to
+       <a href="/wiki/Turbulence" title="Turbulence">
+        turbulence
+       </a>
+       : in this case the line width can be used to estimate the macroscopic velocity also on the Sun's surface, but with a great uncertainty. The magnetic field can be measured thanks to the line splitting due to the
+       <a href="/wiki/Zeeman_effect" title="Zeeman effect">
+        Zeeman effect
+       </a>
+       .
+      </p>
+      <h2>
+       <span class="mw-headline" id="Optically-thin_plasma_emission">
+        Optically-thin plasma emission
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Coronal_radiative_losses&amp;action=edit&amp;section=2" title="Edit section: Optically-thin plasma emission">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       The most important processes of radiation for an optically-thin plasma
+       <sup class="reference" id="cite_ref-2">
+        <a href="#cite_note-2">
+         [2]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-3">
+        <a href="#cite_note-3">
+         [3]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-4">
+        <a href="#cite_note-4">
+         [4]
+        </a>
+       </sup>
+       are
+      </p>
+      <ul>
+       <li>
+        the emission in resonance lines of ionized metals (bound-bound emission);
+       </li>
+       <li>
+        the radiative recombinations (free-bound radiation) due to the most abundant coronal ions;
+       </li>
+       <li>
+        for very high temperatures above 10 MK, the
+        <a href="/wiki/Bremsstrahlung" title="Bremsstrahlung">
+         bremsstrahlung
+        </a>
+        (free-free emission).
+       </li>
+      </ul>
+      <p>
+       Therefore, the radiative flux can be expressed as the sum of three terms:
+      </p>
+      <p>
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle L_{r}=n_{e}\sum n_{l}C_{lk}h\nu _{lk}+L_{rec}+L_{brems}}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <msub>
+              <mi>
+               L
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                r
+               </mi>
+              </mrow>
+             </msub>
+             <mo>
+              =
+             </mo>
+             <msub>
+              <mi>
+               n
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                e
+               </mi>
+              </mrow>
+             </msub>
+             <mo>
+              ∑
+              <!-- ∑ -->
+             </mo>
+             <msub>
+              <mi>
+               n
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                l
+               </mi>
+              </mrow>
+             </msub>
+             <msub>
+              <mi>
+               C
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                l
+               </mi>
+               <mi>
+                k
+               </mi>
+              </mrow>
+             </msub>
+             <mi>
+              h
+             </mi>
+             <msub>
+              <mi>
+               ν
+               <!-- ν -->
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                l
+               </mi>
+               <mi>
+                k
+               </mi>
+              </mrow>
+             </msub>
+             <mo>
+              +
+             </mo>
+             <msub>
+              <mi>
+               L
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                r
+               </mi>
+               <mi>
+                e
+               </mi>
+               <mi>
+                c
+               </mi>
+              </mrow>
+             </msub>
+             <mo>
+              +
+             </mo>
+             <msub>
+              <mi>
+               L
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                b
+               </mi>
+               <mi>
+                r
+               </mi>
+               <mi>
+                e
+               </mi>
+               <mi>
+                m
+               </mi>
+               <mi>
+                s
+               </mi>
+              </mrow>
+             </msub>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle L_{r}=n_{e}\sum n_{l}C_{lk}h\nu _{lk}+L_{rec}+L_{brems}}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="L_{r}=n_{e}\sum n_{l}C_{{lk}}h\nu _{{lk}}+L_{{rec}}+L_{{brems}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/76c4e1977d362aa46af34cff0bc1b411ebb69d70" style="vertical-align: -1.338ex; width:37.559ex; height:3.843ex;"/>
+       </span>
+      </p>
+      <p>
+       where
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle n_{e}}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <msub>
+              <mi>
+               n
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                e
+               </mi>
+              </mrow>
+             </msub>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle n_{e}}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="n_{e}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5e21303faca6e2167f4ecbf2a75aed982e817035" style="vertical-align: -0.671ex; width:2.393ex; height:2.009ex;"/>
+       </span>
+       is the number of
+       <a class="mw-redirect" href="/wiki/Electrons" title="Electrons">
+        electrons
+       </a>
+       per unit volume,
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle n_{k}}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <msub>
+              <mi>
+               n
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                k
+               </mi>
+              </mrow>
+             </msub>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle n_{k}}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="n_{k}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4b18f35b25d18a03f414bb9510599938e94c4768" style="vertical-align: -0.671ex; width:2.483ex; height:2.009ex;"/>
+       </span>
+       the
+       <a href="/wiki/Ion" title="Ion">
+        ion
+       </a>
+       number density,
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle h}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              h
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle h}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="h" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b26be3e694314bc90c3215047e4a2010c6ee184a" style="vertical-align: -0.338ex; width:1.339ex; height:2.176ex;"/>
+       </span>
+       the
+       <a href="/wiki/Planck_constant" title="Planck constant">
+        Planck constant
+       </a>
+       ,
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle \nu }" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              ν
+              <!-- ν -->
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle \nu }
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="\nu " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c15bbbb971240cf328aba572178f091684585468" style="vertical-align: -0.338ex; width:1.232ex; height:1.676ex;"/>
+       </span>
+       the frequency of the emitted radiation corresponding to the energy jump
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle h\nu }" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              h
+             </mi>
+             <mi>
+              ν
+              <!-- ν -->
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle h\nu }
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="h\nu " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3cc23768f43b26085f80e1882a94b31d24abd653" style="vertical-align: -0.338ex; width:2.571ex; height:2.176ex;"/>
+       </span>
+       ,
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle C_{lk}}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <msub>
+              <mi>
+               C
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                l
+               </mi>
+               <mi>
+                k
+               </mi>
+              </mrow>
+             </msub>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle C_{lk}}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="C_{{lk}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7724e4802fcf4d2eddb5270bd5b26a2660564414" style="vertical-align: -0.671ex; width:3.241ex; height:2.509ex;"/>
+       </span>
+       the coefficient of collisional de-excitation relative to the ion transition,
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle L_{rec}}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <msub>
+              <mi>
+               L
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                r
+               </mi>
+               <mi>
+                e
+               </mi>
+               <mi>
+                c
+               </mi>
+              </mrow>
+             </msub>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle L_{rec}}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="L_{{rec}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3b767696ae5946fdfc9a105513d3a0f0cc4c0f00" style="vertical-align: -0.671ex; width:4.035ex; height:2.509ex;"/>
+       </span>
+       the radiative losses for
+       <a href="/wiki/Plasma_recombination" title="Plasma recombination">
+        plasma recombination
+       </a>
+       and
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle L_{brems}}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <msub>
+              <mi>
+               L
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                b
+               </mi>
+               <mi>
+                r
+               </mi>
+               <mi>
+                e
+               </mi>
+               <mi>
+                m
+               </mi>
+               <mi>
+                s
+               </mi>
+              </mrow>
+             </msub>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle L_{brems}}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="L_{{brems}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5119b3de80be8d152efd82ee910ef5daa88a273c" style="vertical-align: -0.671ex; width:6.242ex; height:2.509ex;"/>
+       </span>
+       the
+       <a href="/wiki/Bremsstrahlung" title="Bremsstrahlung">
+        bremsstrahlung
+       </a>
+       contribution.
+      </p>
+      <p>
+       The first term is due to the emission in every single
+       <a href="/wiki/Spectral_line" title="Spectral line">
+        spectral line
+       </a>
+       . With a good approximation, the number of occupied states at the superior level
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle n_{u}}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <msub>
+              <mi>
+               n
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                u
+               </mi>
+              </mrow>
+             </msub>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle n_{u}}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="n_{u}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a3404e7204063d3c768180cfc388868d278bbe72" style="vertical-align: -0.671ex; width:2.567ex; height:2.009ex;"/>
+       </span>
+       and the number of states at the inferior energy level
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle n_{l}}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <msub>
+              <mi>
+               n
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                l
+               </mi>
+              </mrow>
+             </msub>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle n_{l}}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="n_{l}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/99c0d834a6b3423aafc5780d141a1d4ccf853b18" style="vertical-align: -0.671ex; width:2.117ex; height:2.009ex;"/>
+       </span>
+       are given by the equilibrium between collisional excitation and
+       <a href="/wiki/Spontaneous_emission" title="Spontaneous emission">
+        spontaneous emission
+       </a>
+      </p>
+      <p>
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle n_{l}n_{e}C_{lu}=n_{u}A_{ul}}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <msub>
+              <mi>
+               n
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                l
+               </mi>
+              </mrow>
+             </msub>
+             <msub>
+              <mi>
+               n
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                e
+               </mi>
+              </mrow>
+             </msub>
+             <msub>
+              <mi>
+               C
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                l
+               </mi>
+               <mi>
+                u
+               </mi>
+              </mrow>
+             </msub>
+             <mo>
+              =
+             </mo>
+             <msub>
+              <mi>
+               n
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                u
+               </mi>
+              </mrow>
+             </msub>
+             <msub>
+              <mi>
+               A
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                u
+               </mi>
+               <mi>
+                l
+               </mi>
+              </mrow>
+             </msub>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle n_{l}n_{e}C_{lu}=n_{u}A_{ul}}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="n_{l}n_{e}C_{{lu}}=n_{u}A_{{ul}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/578a4baca0e065aaac7cf4915319948a5c6e2825" style="vertical-align: -0.671ex; width:16.906ex; height:2.509ex;"/>
+       </span>
+      </p>
+      <p>
+       where
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle A_{lu}}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <msub>
+              <mi>
+               A
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                l
+               </mi>
+               <mi>
+                u
+               </mi>
+              </mrow>
+             </msub>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle A_{lu}}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="A_{{lu}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1377ffb87fa403a7c0ab73cd2d6d4841f3226a2d" style="vertical-align: -0.671ex; width:3.406ex; height:2.509ex;"/>
+       </span>
+       is the transition probability of spontaneous emission.
+      </p>
+      <p>
+       The second term
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle L_{rec}}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <msub>
+              <mi>
+               L
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                r
+               </mi>
+               <mi>
+                e
+               </mi>
+               <mi>
+                c
+               </mi>
+              </mrow>
+             </msub>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle L_{rec}}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="L_{{rec}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3b767696ae5946fdfc9a105513d3a0f0cc4c0f00" style="vertical-align: -0.671ex; width:4.035ex; height:2.509ex;"/>
+       </span>
+       is calculated as the energy emitted per unit volume and time when free electrons are captured from ions to recombinate into neutral atoms (dielectronic capture).
+      </p>
+      <p>
+       The third term
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle L_{brems}}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <msub>
+              <mi>
+               L
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                b
+               </mi>
+               <mi>
+                r
+               </mi>
+               <mi>
+                e
+               </mi>
+               <mi>
+                m
+               </mi>
+               <mi>
+                s
+               </mi>
+              </mrow>
+             </msub>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle L_{brems}}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="L_{{brems}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5119b3de80be8d152efd82ee910ef5daa88a273c" style="vertical-align: -0.671ex; width:6.242ex; height:2.509ex;"/>
+       </span>
+       is due to the electron scattering by protons and ions because of the
+       <a class="mw-redirect" href="/wiki/Coulomb_force" title="Coulomb force">
+        Coulomb force
+       </a>
+       : every accelerated charge emits radiation according to classical elettrodynamics. This effect gives an appreciable contribution to the continuum spectrum only at the highest temperatures, above 10 MK.
+      </p>
+      <p>
+       Taking into account all the dominant radiation processes, including satellite lines from metastable states, the emission of an optically-thin plasma can be expressed more simply as
+      </p>
+      <p>
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle L_{r}=n_{e}n_{H}P(T)~~{W~m^{-3}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <msub>
+              <mi>
+               L
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                r
+               </mi>
+              </mrow>
+             </msub>
+             <mo>
+              =
+             </mo>
+             <msub>
+              <mi>
+               n
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                e
+               </mi>
+              </mrow>
+             </msub>
+             <msub>
+              <mi>
+               n
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                H
+               </mi>
+              </mrow>
+             </msub>
+             <mi>
+              P
+             </mi>
+             <mo stretchy="false">
+              (
+             </mo>
+             <mi>
+              T
+             </mi>
+             <mo stretchy="false">
+              )
+             </mo>
+             <mtext>
+             </mtext>
+             <mtext>
+             </mtext>
+             <mrow class="MJX-TeXAtom-ORD">
+              <mi>
+               W
+              </mi>
+              <mtext>
+              </mtext>
+              <msup>
+               <mi>
+                m
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mo>
+                 −
+                 <!-- − -->
+                </mo>
+                <mn>
+                 3
+                </mn>
+               </mrow>
+              </msup>
+             </mrow>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle L_{r}=n_{e}n_{H}P(T)~~{W~m^{-3}}}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="L_{{r}}=n_{{e}}n_{{H}}P(T)~~{W~m^{{-3}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1048834ce9f8f4b0bba5c3a05ffb6e28bc9732ab" style="vertical-align: -0.838ex; width:24.876ex; height:3.176ex;"/>
+       </span>
+      </p>
+      <p>
+       where
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle P(T)}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              P
+             </mi>
+             <mo stretchy="false">
+              (
+             </mo>
+             <mi>
+              T
+             </mi>
+             <mo stretchy="false">
+              )
+             </mo>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle P(T)}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="P(T)" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/bbe23eeabf3ea0fa52aee5b90d31d972acd9dc65" style="vertical-align: -0.838ex; width:5.191ex; height:2.843ex;"/>
+       </span>
+       depends only on the temperature. In fact, all the radiation mechanisms require collisional processes and basically depend on the squared density (
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle n_{e}=n_{H}}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <msub>
+              <mi>
+               n
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                e
+               </mi>
+              </mrow>
+             </msub>
+             <mo>
+              =
+             </mo>
+             <msub>
+              <mi>
+               n
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                H
+               </mi>
+              </mrow>
+             </msub>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle n_{e}=n_{H}}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="n_{{e}}=n_{{H}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/07f27c08d7e3e683e4ed3acefda593a78cbb66e6" style="vertical-align: -0.671ex; width:8.578ex; height:2.009ex;"/>
+       </span>
+       ). The integral of the squared density along the line of sight is called emission measure and is often used in
+       <a href="/wiki/X-ray_astronomy" title="X-ray astronomy">
+        X-ray astronomy
+       </a>
+       . The function
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle P(T)}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              P
+             </mi>
+             <mo stretchy="false">
+              (
+             </mo>
+             <mi>
+              T
+             </mi>
+             <mo stretchy="false">
+              )
+             </mo>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle P(T)}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="P(T)" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/bbe23eeabf3ea0fa52aee5b90d31d972acd9dc65" style="vertical-align: -0.838ex; width:5.191ex; height:2.843ex;"/>
+       </span>
+       has been modeled by many authors but many discrepancies are still in these calculations: differences derive essentially on the spectral lines they include in their models and on the atomic parameters they use.
+      </p>
+      <p>
+       In order to calculate the radiative flux from an optically-thin plasma, it can be used the linear fitting applied to some model calculations by Rosner et al. (1978) .
+       <sup class="reference" id="cite_ref-5">
+        <a href="#cite_note-5">
+         [5]
+        </a>
+       </sup>
+       In c.g.s. unit, in erg cm
+       <sup>
+        3
+       </sup>
+       s
+       <sup>
+        −1
+       </sup>
+       , the function P(T) can be approximated as:
+      </p>
+      <p>
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle P(T)\approx 10^{-21.85}~~~~~~~~~~~(10^{4.3}&lt;T&lt;10^{4.6}K)}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              P
+             </mi>
+             <mo stretchy="false">
+              (
+             </mo>
+             <mi>
+              T
+             </mi>
+             <mo stretchy="false">
+              )
+             </mo>
+             <mo>
+              ≈
+              <!-- ≈ -->
+             </mo>
+             <msup>
+              <mn>
+               10
+              </mn>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mo>
+                −
+                <!-- − -->
+               </mo>
+               <mn>
+                21.85
+               </mn>
+              </mrow>
+             </msup>
+             <mtext>
+             </mtext>
+             <mtext>
+             </mtext>
+             <mtext>
+             </mtext>
+             <mtext>
+             </mtext>
+             <mtext>
+             </mtext>
+             <mtext>
+             </mtext>
+             <mtext>
+             </mtext>
+             <mtext>
+             </mtext>
+             <mtext>
+             </mtext>
+             <mtext>
+             </mtext>
+             <mtext>
+             </mtext>
+             <mo stretchy="false">
+              (
+             </mo>
+             <msup>
+              <mn>
+               10
+              </mn>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mn>
+                4.3
+               </mn>
+              </mrow>
+             </msup>
+             <mo>
+              &lt;
+             </mo>
+             <mi>
+              T
+             </mi>
+             <mo>
+              &lt;
+             </mo>
+             <msup>
+              <mn>
+               10
+              </mn>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mn>
+                4.6
+               </mn>
+              </mrow>
+             </msup>
+             <mi>
+              K
+             </mi>
+             <mo stretchy="false">
+              )
+             </mo>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle P(T)\approx 10^{-21.85}~~~~~~~~~~~(10^{4.3}&lt;T&lt;10^{4.6}K)}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="P(T)\approx 10^{{-21.85}}~~~~~~~~~~~(10^{{4.3}}&lt;T&lt;10^{{4.6}}K)" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2541eddbfe39c85c938ed84b51864b8b8c62e91f" style="vertical-align: -0.838ex; width:43.283ex; height:3.176ex;"/>
+       </span>
+      </p>
+      <p>
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle P(T)\approx 10^{-31}~T^{2}~~~~~~~~~(10^{4.6}&lt;T&lt;10^{4.9}K)}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              P
+             </mi>
+             <mo stretchy="false">
+              (
+             </mo>
+             <mi>
+              T
+             </mi>
+             <mo stretchy="false">
+              )
+             </mo>
+             <mo>
+              ≈
+              <!-- ≈ -->
+             </mo>
+             <msup>
+              <mn>
+               10
+              </mn>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mo>
+                −
+                <!-- − -->
+               </mo>
+               <mn>
+                31
+               </mn>
+              </mrow>
+             </msup>
+             <mtext>
+             </mtext>
+             <msup>
+              <mi>
+               T
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mn>
+                2
+               </mn>
+              </mrow>
+             </msup>
+             <mtext>
+             </mtext>
+             <mtext>
+             </mtext>
+             <mtext>
+             </mtext>
+             <mtext>
+             </mtext>
+             <mtext>
+             </mtext>
+             <mtext>
+             </mtext>
+             <mtext>
+             </mtext>
+             <mtext>
+             </mtext>
+             <mtext>
+             </mtext>
+             <mo stretchy="false">
+              (
+             </mo>
+             <msup>
+              <mn>
+               10
+              </mn>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mn>
+                4.6
+               </mn>
+              </mrow>
+             </msup>
+             <mo>
+              &lt;
+             </mo>
+             <mi>
+              T
+             </mi>
+             <mo>
+              &lt;
+             </mo>
+             <msup>
+              <mn>
+               10
+              </mn>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mn>
+                4.9
+               </mn>
+              </mrow>
+             </msup>
+             <mi>
+              K
+             </mi>
+             <mo stretchy="false">
+              )
+             </mo>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle P(T)\approx 10^{-31}~T^{2}~~~~~~~~~(10^{4.6}&lt;T&lt;10^{4.9}K)}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="P(T)\approx 10^{{-31}}~T^{{2}}~~~~~~~~~(10^{{4.6}}&lt;T&lt;10^{{4.9}}K)" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/397597b2b6e3930e8c4f8a73e702fad03950fb50" style="vertical-align: -0.838ex; width:43.375ex; height:3.176ex;"/>
+       </span>
+      </p>
+      <p>
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle P(T)\approx 10^{-21.2}~~~~~~~~~~~~(10^{4.9}&lt;T&lt;10^{5.4}K)}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              P
+             </mi>
+             <mo stretchy="false">
+              (
+             </mo>
+             <mi>
+              T
+             </mi>
+             <mo stretchy="false">
+              )
+             </mo>
+             <mo>
+              ≈
+              <!-- ≈ -->
+             </mo>
+             <msup>
+              <mn>
+               10
+              </mn>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mo>
+                −
+                <!-- − -->
+               </mo>
+               <mn>
+                21.2
+               </mn>
+              </mrow>
+             </msup>
+             <mtext>
+             </mtext>
+             <mtext>
+             </mtext>
+             <mtext>
+             </mtext>
+             <mtext>
+             </mtext>
+             <mtext>
+             </mtext>
+             <mtext>
+             </mtext>
+             <mtext>
+             </mtext>
+             <mtext>
+             </mtext>
+             <mtext>
+             </mtext>
+             <mtext>
+             </mtext>
+             <mtext>
+             </mtext>
+             <mtext>
+             </mtext>
+             <mo stretchy="false">
+              (
+             </mo>
+             <msup>
+              <mn>
+               10
+              </mn>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mn>
+                4.9
+               </mn>
+              </mrow>
+             </msup>
+             <mo>
+              &lt;
+             </mo>
+             <mi>
+              T
+             </mi>
+             <mo>
+              &lt;
+             </mo>
+             <msup>
+              <mn>
+               10
+              </mn>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mn>
+                5.4
+               </mn>
+              </mrow>
+             </msup>
+             <mi>
+              K
+             </mi>
+             <mo stretchy="false">
+              )
+             </mo>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle P(T)\approx 10^{-21.2}~~~~~~~~~~~~(10^{4.9}&lt;T&lt;10^{5.4}K)}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="P(T)\approx 10^{{-21.2}}~~~~~~~~~~~~(10^{{4.9}}&lt;T&lt;10^{{5.4}}K)" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/84be7b20cf7b72507044c326d98e2f94f0e718e0" style="vertical-align: -0.838ex; width:43.042ex; height:3.176ex;"/>
+       </span>
+      </p>
+      <p>
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle P(T)\approx 10^{-10.4}~T^{-2}~~~~~~(10^{5.4}&lt;T&lt;10^{5.75}K)}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              P
+             </mi>
+             <mo stretchy="false">
+              (
+             </mo>
+             <mi>
+              T
+             </mi>
+             <mo stretchy="false">
+              )
+             </mo>
+             <mo>
+              ≈
+              <!-- ≈ -->
+             </mo>
+             <msup>
+              <mn>
+               10
+              </mn>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mo>
+                −
+                <!-- − -->
+               </mo>
+               <mn>
+                10.4
+               </mn>
+              </mrow>
+             </msup>
+             <mtext>
+             </mtext>
+             <msup>
+              <mi>
+               T
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mo>
+                −
+                <!-- − -->
+               </mo>
+               <mn>
+                2
+               </mn>
+              </mrow>
+             </msup>
+             <mtext>
+             </mtext>
+             <mtext>
+             </mtext>
+             <mtext>
+             </mtext>
+             <mtext>
+             </mtext>
+             <mtext>
+             </mtext>
+             <mtext>
+             </mtext>
+             <mo stretchy="false">
+              (
+             </mo>
+             <msup>
+              <mn>
+               10
+              </mn>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mn>
+                5.4
+               </mn>
+              </mrow>
+             </msup>
+             <mo>
+              &lt;
+             </mo>
+             <mi>
+              T
+             </mi>
+             <mo>
+              &lt;
+             </mo>
+             <msup>
+              <mn>
+               10
+              </mn>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mn>
+                5.75
+               </mn>
+              </mrow>
+             </msup>
+             <mi>
+              K
+             </mi>
+             <mo stretchy="false">
+              )
+             </mo>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle P(T)\approx 10^{-10.4}~T^{-2}~~~~~~(10^{5.4}&lt;T&lt;10^{5.75}K)}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="P(T)\approx 10^{{-10.4}}~T^{{-2}}~~~~~~(10^{{5.4}}&lt;T&lt;10^{{5.75}}K)" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3a4c28bb83694e499f027283b493c4a8015cf5ce" style="vertical-align: -0.838ex; width:45.013ex; height:3.176ex;"/>
+       </span>
+      </p>
+      <p>
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle P(T)\approx 10^{-21.94}~~~~~~~~~~~(10^{5.75}&lt;T&lt;10^{6.3}K)}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              P
+             </mi>
+             <mo stretchy="false">
+              (
+             </mo>
+             <mi>
+              T
+             </mi>
+             <mo stretchy="false">
+              )
+             </mo>
+             <mo>
+              ≈
+              <!-- ≈ -->
+             </mo>
+             <msup>
+              <mn>
+               10
+              </mn>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mo>
+                −
+                <!-- − -->
+               </mo>
+               <mn>
+                21.94
+               </mn>
+              </mrow>
+             </msup>
+             <mtext>
+             </mtext>
+             <mtext>
+             </mtext>
+             <mtext>
+             </mtext>
+             <mtext>
+             </mtext>
+             <mtext>
+             </mtext>
+             <mtext>
+             </mtext>
+             <mtext>
+             </mtext>
+             <mtext>
+             </mtext>
+             <mtext>
+             </mtext>
+             <mtext>
+             </mtext>
+             <mtext>
+             </mtext>
+             <mo stretchy="false">
+              (
+             </mo>
+             <msup>
+              <mn>
+               10
+              </mn>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mn>
+                5.75
+               </mn>
+              </mrow>
+             </msup>
+             <mo>
+              &lt;
+             </mo>
+             <mi>
+              T
+             </mi>
+             <mo>
+              &lt;
+             </mo>
+             <msup>
+              <mn>
+               10
+              </mn>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mn>
+                6.3
+               </mn>
+              </mrow>
+             </msup>
+             <mi>
+              K
+             </mi>
+             <mo stretchy="false">
+              )
+             </mo>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle P(T)\approx 10^{-21.94}~~~~~~~~~~~(10^{5.75}&lt;T&lt;10^{6.3}K)}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="P(T)\approx 10^{{-21.94}}~~~~~~~~~~~(10^{{5.75}}&lt;T&lt;10^{{6.3}}K)" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/981a38aee7c09ab1e6b28b11ff73a6b0f07a9ef7" style="vertical-align: -0.838ex; width:44.105ex; height:3.176ex;"/>
+       </span>
+      </p>
+      <p>
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle P(T)\approx 10^{-17.73}~T^{-2/3}~~~(10^{6.3}&lt;T&lt;10^{7}K)}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              P
+             </mi>
+             <mo stretchy="false">
+              (
+             </mo>
+             <mi>
+              T
+             </mi>
+             <mo stretchy="false">
+              )
+             </mo>
+             <mo>
+              ≈
+              <!-- ≈ -->
+             </mo>
+             <msup>
+              <mn>
+               10
+              </mn>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mo>
+                −
+                <!-- − -->
+               </mo>
+               <mn>
+                17.73
+               </mn>
+              </mrow>
+             </msup>
+             <mtext>
+             </mtext>
+             <msup>
+              <mi>
+               T
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mo>
+                −
+                <!-- − -->
+               </mo>
+               <mn>
+                2
+               </mn>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mo>
+                 /
+                </mo>
+               </mrow>
+               <mn>
+                3
+               </mn>
+              </mrow>
+             </msup>
+             <mtext>
+             </mtext>
+             <mtext>
+             </mtext>
+             <mtext>
+             </mtext>
+             <mo stretchy="false">
+              (
+             </mo>
+             <msup>
+              <mn>
+               10
+              </mn>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mn>
+                6.3
+               </mn>
+              </mrow>
+             </msup>
+             <mo>
+              &lt;
+             </mo>
+             <mi>
+              T
+             </mi>
+             <mo>
+              &lt;
+             </mo>
+             <msup>
+              <mn>
+               10
+              </mn>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mn>
+                7
+               </mn>
+              </mrow>
+             </msup>
+             <mi>
+              K
+             </mi>
+             <mo stretchy="false">
+              )
+             </mo>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle P(T)\approx 10^{-17.73}~T^{-2/3}~~~(10^{6.3}&lt;T&lt;10^{7}K)}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="P(T)\approx 10^{{-17.73}}~T^{{-2/3}}~~~(10^{{6.3}}&lt;T&lt;10^{{7}}K)" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/605a52f52fac9ec5adadf373419106d6e9bbb997" style="vertical-align: -0.838ex; width:43.636ex; height:3.343ex;"/>
+       </span>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Other_related_articles">
+        Other related articles
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Coronal_radiative_losses&amp;action=edit&amp;section=3" title="Edit section: Other related articles">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div>
+       <table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;">
+        <tr>
+         <td style="text-align: left; vertical-align: top;">
+          <ul>
+           <li>
+            <a class="mw-redirect" href="/wiki/Spectral_lines" title="Spectral lines">
+             Spectral lines
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Spectroscopy" title="Spectroscopy">
+             Spectroscopy
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/Plasma_physics" title="Plasma physics">
+             Plasma physics
+            </a>
+           </li>
+          </ul>
+         </td>
+         <td style="text-align: left; vertical-align: top;">
+          <ul>
+           <li>
+            <a href="/wiki/X-ray_astronomy" title="X-ray astronomy">
+             X-ray astronomy
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sun" title="Sun">
+             Sun
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Corona" title="Corona">
+             Corona
+            </a>
+           </li>
+          </ul>
+         </td>
+         <td style="text-align: left; vertical-align: top;">
+          <ul>
+           <li>
+            <a href="/wiki/Photosphere" title="Photosphere">
+             Photosphere
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Chromosphere" title="Chromosphere">
+             Chromosphere
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Solar_transition_region" title="Solar transition region">
+             Solar transition region
+            </a>
+           </li>
+          </ul>
+         </td>
+         <td style="text-align: left; vertical-align: top;">
+          <ul>
+           <li>
+            <a href="/wiki/Solar_wind" title="Solar wind">
+             Solar wind
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Nanoflares" title="Nanoflares">
+             Nanoflares
+            </a>
+           </li>
+          </ul>
+         </td>
+         <td style="text-align: left; vertical-align: top;">
+         </td>
+        </tr>
+       </table>
+      </div>
+      <h2>
+       <span class="mw-headline" id="References">
+        References
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Coronal_radiative_losses&amp;action=edit&amp;section=4" title="Edit section: References">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="reflist" style="list-style-type: decimal;">
+       <div class="mw-references-wrap">
+        <ol class="references">
+         <li id="cite_note-1">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-1">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Withbroe, George L. (1988). "The temperature structure, mass, and energy flow in the corona and inner solar wind".
+            <i>
+             The Astrophysical Journal
+            </i>
+            .
+            <b>
+             325
+            </b>
+            : 442–467.
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/1988ApJ...325..442W" rel="nofollow">
+             1988ApJ...325..442W
+            </a>
+            .
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1086%2F166015" rel="nofollow">
+             10.1086/166015
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Astrophysical+Journal&amp;rft.atitle=The+temperature+structure%2C+mass%2C+and+energy+flow+in+the+corona+and+inner+solar+wind&amp;rft.volume=325&amp;rft.pages=442-467&amp;rft.date=1988&amp;rft_id=info%3Adoi%2F10.1086%2F166015&amp;rft_id=info%3Abibcode%2F1988ApJ...325..442W&amp;rft.aulast=Withbroe&amp;rft.aufirst=George+L.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoronal+radiative+losses">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-2">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-2">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Landini, M.; Monsignori Fossi, B. (1970). "Computation of solar X-ray emission in the region 1-100 Å for Te from 1 MK to 100 MK".
+            <i>
+             Mem. SAIT
+            </i>
+            .
+            <b>
+             41
+            </b>
+            : 467L.
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/1970MmSAI..41..467L" rel="nofollow">
+             1970MmSAI..41..467L
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Mem.+SAIT&amp;rft.atitle=Computation+of+solar+X-ray+emission+in+the+region+1-100+%C3%85+for+Te+from+1+MK+to+100+MK&amp;rft.volume=41&amp;rft.pages=467L&amp;rft.date=1970&amp;rft_id=info%3Abibcode%2F1970MmSAI..41..467L&amp;rft.au=Landini%2C+M.&amp;rft.au=Monsignori+Fossi%2C+B.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoronal+radiative+losses">
+            <span style="display:none;">
+            </span>
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-3">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-3">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Raymond, J. C.; Smith, B. W., J. C.; Smith, B. W. (1977). "Soft X-ray spectrum of a hot plasma".
+            <i>
+             The Astrophysical Journal Supplement Series
+            </i>
+            .
+            <b>
+             35
+            </b>
+            : 419–439.
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/1977ApJS...35..419R" rel="nofollow">
+             1977ApJS...35..419R
+            </a>
+            .
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1086%2F190486" rel="nofollow">
+             10.1086/190486
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Astrophysical+Journal+Supplement+Series&amp;rft.atitle=Soft+X-ray+spectrum+of+a+hot+plasma&amp;rft.volume=35&amp;rft.pages=419-439&amp;rft.date=1977&amp;rft_id=info%3Adoi%2F10.1086%2F190486&amp;rft_id=info%3Abibcode%2F1977ApJS...35..419R&amp;rft.aulast=Raymond%2C+J.+C.%3B+Smith%2C+B.+W.&amp;rft.aufirst=J.+C.&amp;rft.au=Smith%2C+B.+W.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoronal+radiative+losses">
+            <span style="display:none;">
+            </span>
+           </span>
+           <span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">
+            CS1 maint: Multiple names: authors list (
+            <a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">
+             link
+            </a>
+            )
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-4">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-4">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Gronenschild, E. H. B. M.; Mewe, R. (1978). "Calculated X-radiation from optically thin plasmas. III – Abundance effects on continuum emission".
+            <i>
+             The Astrophysical Journal Supplement Series
+            </i>
+            .
+            <b>
+             32
+            </b>
+            : 283–305.
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/1978A&amp;AS...32..283G" rel="nofollow">
+             1978A&amp;AS...32..283G
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Astrophysical+Journal+Supplement+Series&amp;rft.atitle=Calculated+X-radiation+from+optically+thin+plasmas.+III+%E2%80%93+Abundance+effects+on+continuum+emission&amp;rft.volume=32&amp;rft.pages=283-305&amp;rft.date=1978&amp;rft_id=info%3Abibcode%2F1978A%26AS...32..283G&amp;rft.au=Gronenschild%2C+E.+H.+B.+M.%3B+Mewe%2C+R.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoronal+radiative+losses">
+            <span style="display:none;">
+            </span>
+           </span>
+           <span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">
+            CS1 maint: Multiple names: authors list (
+            <a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">
+             link
+            </a>
+            )
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-5">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-5">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation journal">
+            Rosner, R., Tucker, W.H., Vaiana, G.S., R.; Tucker, W. H.; Vaiana, G. S. (1978). "Dynamics of the quiescent solar corona".
+            <i>
+             The Astrophysical Journal
+            </i>
+            .
+            <b>
+             220
+            </b>
+            : 643–665.
+            <a href="/wiki/Bibcode" title="Bibcode">
+             Bibcode
+            </a>
+            :
+            <a class="external text" href="http://adsabs.harvard.edu/abs/1978ApJ...220..643R" rel="nofollow">
+             1978ApJ...220..643R
+            </a>
+            .
+            <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+             doi
+            </a>
+            :
+            <a class="external text" href="//doi.org/10.1086%2F155949" rel="nofollow">
+             10.1086/155949
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Astrophysical+Journal&amp;rft.atitle=Dynamics+of+the+quiescent+solar+corona&amp;rft.volume=220&amp;rft.pages=643-665&amp;rft.date=1978&amp;rft_id=info%3Adoi%2F10.1086%2F155949&amp;rft_id=info%3Abibcode%2F1978ApJ...220..643R&amp;rft.aulast=Rosner%2C+R.%2C+Tucker%2C+W.H.%2C+Vaiana%2C+G.S.&amp;rft.aufirst=R.&amp;rft.au=Tucker%2C+W.+H.&amp;rft.au=Vaiana%2C+G.+S.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoronal+radiative+losses">
+            <span style="display:none;">
+            </span>
+           </span>
+           <span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">
+            CS1 maint: Multiple names: authors list (
+            <a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">
+             link
+            </a>
+            )
+           </span>
+          </span>
+         </li>
+        </ol>
+       </div>
+      </div>
+      <h2>
+       <span class="mw-headline" id="Bibliography">
+        Bibliography
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Coronal_radiative_losses&amp;action=edit&amp;section=5" title="Edit section: Bibliography">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <cite class="citation journal">
+         Güdel M (2004).
+         <a class="external text" href="https://web.archive.org/web/20110811230835/http://astronomy.sci.ege.edu.tr/~rpekunlu/GBDG/papers/XRayfromStellarCoronae.pdf" rel="nofollow">
+          "X-ray astronomy of stellar coronae"
+         </a>
+         <span style="font-size:85%;">
+          (PDF)
+         </span>
+         .
+         <i>
+          Astron Astrophys Rev
+         </i>
+         .
+         <b>
+          12
+         </b>
+         (2–3): 71–237.
+         <a href="/wiki/ArXiv" title="ArXiv">
+          arXiv
+         </a>
+         :
+         <span class="plainlinks">
+          <a class="external text" href="//arxiv.org/abs/astro-ph/0406661" rel="nofollow">
+           astro-ph/0406661
+          </a>
+          <img alt="Freely accessible" data-file-height="813" data-file-width="512" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" title="Freely accessible" width="9"/>
+         </span>
+         .
+         <a href="/wiki/Bibcode" title="Bibcode">
+          Bibcode
+         </a>
+         :
+         <a class="external text" href="http://adsabs.harvard.edu/abs/2004A&amp;ARv..12...71G" rel="nofollow">
+          2004A&amp;ARv..12...71G
+         </a>
+         .
+         <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+          doi
+         </a>
+         :
+         <a class="external text" href="//doi.org/10.1007%2Fs00159-004-0023-2" rel="nofollow">
+          10.1007/s00159-004-0023-2
+         </a>
+         . Archived from
+         <a class="external text" href="http://astronomy.sci.ege.edu.tr/~rpekunlu/GBDG/papers/XRayfromStellarCoronae.pdf" rel="nofollow">
+          the original
+         </a>
+         <span style="font-size:85%;">
+          (PDF)
+         </span>
+         on 2011-08-11.
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Astron+Astrophys+Rev&amp;rft.atitle=X-ray+astronomy+of+stellar+coronae&amp;rft.volume=12&amp;rft.issue=2%E2%80%933&amp;rft.pages=71-237&amp;rft.date=2004&amp;rft_id=info%3Aarxiv%2Fastro-ph%2F0406661&amp;rft_id=info%3Adoi%2F10.1007%2Fs00159-004-0023-2&amp;rft_id=info%3Abibcode%2F2004A%26ARv..12...71G&amp;rft.au=G%C3%BCdel+M&amp;rft_id=http%3A%2F%2Fastronomy.sci.ege.edu.tr%2F~rpekunlu%2FGBDG%2Fpapers%2FXRayfromStellarCoronae.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoronal+radiative+losses">
+         <span style="display:none;">
+         </span>
+        </span>
+       </li>
+       <li>
+        <cite class="citation book">
+         Tucker W. H. (1977).
+         <i>
+          Radiation processes in Astrophysics
+         </i>
+         .
+         <a href="/wiki/MIT_Press" title="MIT Press">
+          MIT Press
+         </a>
+         .
+         <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+          ISBN
+         </a>
+         <a href="/wiki/Special:BookSources/0262700107" title="Special:BookSources/0262700107">
+          0262700107
+         </a>
+         .
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Radiation+processes+in+Astrophysics&amp;rft.pub=MIT+Press&amp;rft.date=1977&amp;rft.isbn=0262700107&amp;rft.au=Tucker+W.+H.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoronal+radiative+losses">
+         <span style="display:none;">
+         </span>
+        </span>
+       </li>
+      </ul>
+      <div aria-labelledby="The_Sun" class="navbox" role="navigation" style="padding:3px">
+       <table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tr>
+         <th class="navbox-title" colspan="3" scope="col" style="text-align: center;">
+          <div class="plainlinks hlist navbar mini">
+           <ul>
+            <li class="nv-view">
+             <a href="/wiki/Template:The_Sun" title="Template:The Sun">
+              <abbr style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">
+               v
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-talk">
+             <a href="/wiki/Template_talk:The_Sun" title="Template talk:The Sun">
+              <abbr style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">
+               t
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-edit">
+             <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:The_Sun&amp;action=edit">
+              <abbr style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">
+               e
+              </abbr>
+             </a>
+            </li>
+           </ul>
+          </div>
+          <div id="The_Sun" style="font-size:114%;margin:0 4em">
+           <a href="/wiki/Sun" title="Sun">
+            The Sun
+           </a>
+          </div>
+         </th>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          <a href="/wiki/Standard_solar_model" title="Standard solar model">
+           Internal structure
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Solar_core" title="Solar core">
+              Core
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Radiation_zone" title="Radiation zone">
+              Radiation zone
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Tachocline" title="Tachocline">
+              Tachocline
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Convection_zone" title="Convection zone">
+              Convection zone
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+         <td class="navbox-image" rowspan="5" style="width:1px;padding:0px 0px 0px 2px">
+          <div>
+           <div class="floatright">
+            <a class="image" href="/wiki/File:Sun_in_February.jpg">
+             <img alt="Sun in February.jpg" class="thumbborder" data-file-height="2632" data-file-width="2632" height="155" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Sun_in_February.jpg/155px-Sun_in_February.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Sun_in_February.jpg/233px-Sun_in_February.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Sun_in_February.jpg/310px-Sun_in_February.jpg 2x" width="155"/>
+            </a>
+           </div>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          <a href="/wiki/Stellar_atmosphere" title="Stellar atmosphere">
+           Atmosphere
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+          </div>
+          <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+           <tr>
+            <th class="navbox-group" scope="row" style="width:1%;text-align: center;">
+             <a href="/wiki/Photosphere" title="Photosphere">
+              Photosphere
+             </a>
+            </th>
+            <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <a href="/wiki/Supergranulation" title="Supergranulation">
+                 Supergranulation
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Granule_(solar_physics)" title="Granule (solar physics)">
+                 Granule
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Facula" title="Facula">
+                 Faculae
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Sunspot" title="Sunspot">
+                 Sunspot
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+           <tr>
+            <th class="navbox-group" scope="row" style="width:1%;text-align: center;">
+             <a href="/wiki/Chromosphere" title="Chromosphere">
+              Chromosphere
+             </a>
+            </th>
+            <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <a href="/wiki/Plage_(astronomy)" title="Plage (astronomy)">
+                 Plage
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Spicule_(solar_physics)" title="Spicule (solar physics)">
+                 Spicule
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Moreton_wave" title="Moreton wave">
+                 Moreton wave
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+           <tr>
+            <th class="navbox-group" scope="row" style="width:1%;text-align: center;">
+             <a href="/wiki/Corona" title="Corona">
+              Corona
+             </a>
+            </th>
+            <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+             <div style="padding:0em 0.25em">
+              <ul>
+               <li>
+                <a href="/wiki/Solar_transition_region" title="Solar transition region">
+                 Transition region
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Coronal_hole" title="Coronal hole">
+                 Coronal hole
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Coronal_loop" title="Coronal loop">
+                 Coronal loop
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Coronal_mass_ejection" title="Coronal mass ejection">
+                 Coronal mass ejection
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Solar_prominence" title="Solar prominence">
+                 Prominence
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Helmet_streamer" title="Helmet streamer">
+                 Helmet streamer
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Supra-arcade_downflows" title="Supra-arcade downflows">
+                 Supra-arcade downflows
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+          </table>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          <a class="mw-redirect" href="/wiki/Solar_variation" title="Solar variation">
+           Variation
+          </a>
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Solar_cycle" title="Solar cycle">
+              Solar cycle
+             </a>
+             <ul>
+              <li>
+               <a href="/wiki/List_of_solar_cycles" title="List of solar cycles">
+                List of solar cycles
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li>
+             <a href="/wiki/Solar_maximum" title="Solar maximum">
+              Solar maximum
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_minimum" title="Solar minimum">
+              Solar minimum
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Wolf_number" title="Wolf number">
+              Wolf number
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_wind" title="Solar wind">
+              Solar wind
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_flare" title="Solar flare">
+              Flare
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Helioseismology" title="Helioseismology">
+              Helioseismology
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          <a href="/wiki/Heliosphere" title="Heliosphere">
+           Heliosphere
+          </a>
+         </th>
+         <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Heliospheric_current_sheet" title="Heliospheric current sheet">
+              Current sheet
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Heliosphere#Termination_shock" title="Heliosphere">
+              Termination shock
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Heliosphere#Heliosheath" title="Heliosphere">
+              Heliosheath
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Heliosphere#Heliopause" title="Heliosphere">
+              Heliopause
+             </a>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/Bow_shock" title="Bow shock">
+              Bow shock
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <th class="navbox-group" scope="row" style="text-align: center;;width:1%">
+          Related topics
+         </th>
+         <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+          <div style="padding:0em 0.25em">
+           <ul>
+            <li>
+             <a href="/wiki/Heliophysics" title="Heliophysics">
+              Heliophysics
+             </a>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/Solar_activity" title="Solar activity">
+              Solar activity
+             </a>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/Solar_astronomy" title="Solar astronomy">
+              Solar astronomy
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_dynamo" title="Solar dynamo">
+              Solar dynamo
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_eclipse" title="Solar eclipse">
+              Eclipse
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_energy" title="Solar energy">
+              Solar energy
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_neutrino" title="Solar neutrino">
+              Solar neutrino
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_observation" title="Solar observation">
+              Solar observation
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_phenomena" title="Solar phenomena">
+              Solar phenomena
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_physics" title="Solar physics">
+              Solar physics
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_System" title="Solar System">
+              Solar System
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_telescope" title="Solar telescope">
+              Solar telescope
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Solar_time" title="Solar time">
+              Solar time
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Space_weather" title="Space weather">
+              Space weather
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Standard_solar_model" title="Standard solar model">
+              Standard solar model
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Sunlight" title="Sunlight">
+              Radiation
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <td class="navbox-abovebelow" colspan="3" style="text-align: center;">
+          <div>
+           <ul>
+            <li>
+             <a href="/wiki/Stellar_classification" title="Stellar classification">
+              Spectral class
+             </a>
+             :
+             <a href="/wiki/G-type_main-sequence_star" title="G-type main-sequence star">
+              G2V
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+       </table>
+      </div>
+      <div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+       <ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+        <li style="display:table-row">
+         <span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center">
+          <img alt="" class="noviewer" data-file-height="5600" data-file-width="4500" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Solar_system.jpg/22px-Solar_system.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Solar_system.jpg/34px-Solar_system.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/83/Solar_system.jpg/45px-Solar_system.jpg 2x" width="22"/>
+         </span>
+         <span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle">
+          <a href="/wiki/Portal:Solar_System" title="Portal:Solar System">
+           Solar System portal
+          </a>
+         </span>
+        </li>
+        <li style="display:table-row">
+         <span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center">
+          <img alt="" class="noviewer" data-file-height="3864" data-file-width="3864" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Crab_Nebula.jpg/28px-Crab_Nebula.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Crab_Nebula.jpg/42px-Crab_Nebula.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/00/Crab_Nebula.jpg/56px-Crab_Nebula.jpg 2x" width="28"/>
+         </span>
+         <span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle">
+          <a href="/wiki/Portal:Astronomy" title="Portal:Astronomy">
+           Astronomy portal
+          </a>
+         </span>
+        </li>
+        <li style="display:table-row">
+         <span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center">
+          <a class="image" href="/wiki/File:Stylised_atom_with_three_Bohr_model_orbits_and_stylised_nucleus.svg">
+           <img alt="icon" class="noviewer" data-file-height="303" data-file-width="266" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Stylised_atom_with_three_Bohr_model_orbits_and_stylised_nucleus.svg/25px-Stylised_atom_with_three_Bohr_model_orbits_and_stylised_nucleus.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Stylised_atom_with_three_Bohr_model_orbits_and_stylised_nucleus.svg/37px-Stylised_atom_with_three_Bohr_model_orbits_and_stylised_nucleus.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Stylised_atom_with_three_Bohr_model_orbits_and_stylised_nucleus.svg/49px-Stylised_atom_with_three_Bohr_model_orbits_and_stylised_nucleus.svg.png 2x" width="25"/>
+          </a>
+         </span>
+         <span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle">
+          <a href="/wiki/Portal:Physics" title="Portal:Physics">
+           Physics portal
+          </a>
+         </span>
+        </li>
+        <li style="display:table-row">
+         <span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center">
+          <a class="image" href="/wiki/File:He1523a.jpg">
+           <img alt="icon" class="noviewer" data-file-height="207" data-file-width="180" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/He1523a.jpg/24px-He1523a.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/He1523a.jpg/36px-He1523a.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5f/He1523a.jpg/49px-He1523a.jpg 2x" width="24"/>
+          </a>
+         </span>
+         <span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle">
+          <a href="/wiki/Portal:Star" title="Portal:Star">
+           Star portal
+          </a>
+         </span>
+        </li>
+        <li style="display:table-row">
+         <span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center">
+          <img alt="" class="noviewer" data-file-height="2400" data-file-width="3000" height="26" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Earth-moon.jpg/32px-Earth-moon.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Earth-moon.jpg/48px-Earth-moon.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Earth-moon.jpg/64px-Earth-moon.jpg 2x" width="32"/>
+         </span>
+         <span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle">
+          <a href="/wiki/Portal:Space" title="Portal:Space">
+           Space portal
+          </a>
+         </span>
+        </li>
+       </ul>
+      </div>
+      <!-- 
+NewPP limit report
+Parsed by mw1253
+Cached time: 20180311210546
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.184 seconds
+Real time usage: 0.309 seconds
+Preprocessor visited node count: 771/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 40725/2097152 bytes
+Template argument size: 98/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 7584/5000000 bytes
+Lua time usage: 0.071/10.000 seconds
+Lua memory usage: 3.08 MB/50 MB
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  152.263      1 -total
+ 43.17%   65.728      1 Template:Reflist
+ 36.26%   55.207      6 Template:Cite_journal
+ 27.06%   41.200      1 Template:Technical
+ 18.45%   28.086      1 Template:Ambox
+  8.92%   13.587      1 Template:Portal
+  7.97%   12.136      2 Template:Navbox
+  7.93%   12.073      1 Template:The_Sun
+  3.17%    4.834      1 Template:Cite_book
+  1.23%    1.878      1 Template:Main_other
+-->
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:29820802-0!canonical!math=5 and timestamp 20180311210546 and revision id 808566927
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Coronal_radiative_losses&amp;oldid=808566927">
+      https://en.wikipedia.org/w/index.php?title=Coronal_radiative_losses&amp;oldid=808566927
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Sun" title="Category:Sun">
+         Sun
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Emission_spectroscopy" title="Category:Emission spectroscopy">
+         Emission spectroscopy
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Plasma_physics" title="Category:Plasma physics">
+         Plasma physics
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:X-ray_astronomy" title="Category:X-ray astronomy">
+         X-ray astronomy
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">
+         CS1 maint: Multiple names: authors list
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Wikipedia_articles_that_are_too_technical_from_March_2011" title="Category:Wikipedia articles that are too technical from March 2011">
+         Wikipedia articles that are too technical from March 2011
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:All_articles_that_are_too_technical" title="Category:All articles that are too technical">
+         All articles that are too technical
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_needing_expert_attention_from_March_2011" title="Category:Articles needing expert attention from March 2011">
+         Articles needing expert attention from March 2011
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:All_articles_needing_expert_attention" title="Category:All articles needing expert attention">
+         All articles needing expert attention
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Coronal+radiative+losses" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Coronal+radiative+losses" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Coronal_radiative_losses" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Coronal_radiative_losses" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="collapsible selected" id="ca-view">
+        <span>
+         <a href="/wiki/Coronal_radiative_losses">
+          Read
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Coronal_radiative_losses&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Coronal_radiative_losses&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Coronal_radiative_losses" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Coronal_radiative_losses" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Coronal_radiative_losses&amp;oldid=808566927" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Coronal_radiative_losses&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q3899734" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Coronal_radiative_losses&amp;id=808566927" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Coronal+radiative+losses">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Coronal+radiative+losses&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Coronal_radiative_losses&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Perdite_radiative_della_corona_solare" hreflang="it" lang="it" title="Perdite radiative della corona solare – Italian">
+         Italiano
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q3899734#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 3 November 2017, at 17:21.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Coronal_radiative_losses&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.184","walltime":"0.309","ppvisitednodes":{"value":771,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":40725,"limit":2097152},"templateargumentsize":{"value":98,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":7584,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  152.263      1 -total"," 43.17%   65.728      1 Template:Reflist"," 36.26%   55.207      6 Template:Cite_journal"," 27.06%   41.200      1 Template:Technical"," 18.45%   28.086      1 Template:Ambox","  8.92%   13.587      1 Template:Portal","  7.97%   12.136      2 Template:Navbox","  7.93%   12.073      1 Template:The_Sun","  3.17%    4.834      1 Template:Cite_book","  1.23%    1.878      1 Template:Main_other"]},"scribunto":{"limitreport-timeusage":{"value":"0.071","limit":"10.000"},"limitreport-memusage":{"value":3225070,"limit":52428800}},"cachereport":{"origin":"mw1253","timestamp":"20180311210546","ttl":1900800,"transientcontent":false}}});});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":86,"wgHostname":"mw1332"});});
+  </script>
+ </body>
+</html>

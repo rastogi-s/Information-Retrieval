@@ -1,0 +1,1803 @@
+https://en.wikipedia.org/wiki/Differential_rotation
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Differential rotation - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Differential_rotation","wgTitle":"Differential rotation","wgCurRevisionId":801804183,"wgRevisionId":801804183,"wgArticleId":191710,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles lacking sources from December 2009","All articles lacking sources","Co-orbital objects","Astrophysics"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Differential_rotation","wgRelevantArticleId":191710,"wgRequestId":"WqChWwpAAEEAAJI-l1wAAABP","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q59122","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.math.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.31.0-wmf.23" name="generator"/>
+  <meta content="origin" name="referrer"/>
+  <meta content="origin-when-crossorigin" name="referrer"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Differential_rotation" rel="alternate"/>
+  <link href="/w/index.php?title=Differential_rotation&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Differential_rotation&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/Differential_rotation" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Differential_rotation rootpage-Differential_rotation skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Differential rotation
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <table class="plainlinks metadata ambox ambox-content ambox-Unreferenced" role="presentation">
+       <tr>
+        <td class="mbox-image">
+         <div style="width:52px">
+          <a class="image" href="/wiki/File:Question_book-new.svg">
+           <img alt="" data-file-height="399" data-file-width="512" height="39" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" width="50"/>
+          </a>
+         </div>
+        </td>
+        <td class="mbox-text">
+         <div class="mbox-text-span">
+          This article
+          <b>
+           does not
+           <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">
+            cite
+           </a>
+           any
+           <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">
+            sources
+           </a>
+          </b>
+          .
+          <span class="hide-when-compact">
+           Please help
+           <a class="external text" href="//en.wikipedia.org/w/index.php?title=Differential_rotation&amp;action=edit">
+            improve this article
+           </a>
+           by
+           <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">
+            adding citations to reliable sources
+           </a>
+           . Unsourced material may be challenged and
+           <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">
+            removed
+           </a>
+           .
+          </span>
+          <small>
+           <i>
+            (December 2009)
+           </i>
+          </small>
+          <small class="hide-when-compact">
+           <i>
+            (
+            <a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">
+             Learn how and when to remove this template message
+            </a>
+            )
+           </i>
+          </small>
+         </div>
+        </td>
+       </tr>
+      </table>
+      <p>
+       <b>
+        Differential rotation
+       </b>
+       is seen when different parts of a rotating object move with different
+       <a href="/wiki/Angular_velocity" title="Angular velocity">
+        angular velocities
+       </a>
+       (rates of
+       <a href="/wiki/Rotation" title="Rotation">
+        rotation
+       </a>
+       ) at different latitudes and/or depths of the body and/or in time. This indicates that the object is not solid. In fluid objects, such as
+       <a href="/wiki/Accretion_disk" title="Accretion disk">
+        accretion disks
+       </a>
+       , this leads to
+       <a href="/wiki/Shearing_(physics)" title="Shearing (physics)">
+        shearing
+       </a>
+       .
+       <a href="/wiki/Galaxy" title="Galaxy">
+        Galaxies
+       </a>
+       and
+       <a href="/wiki/Protostar" title="Protostar">
+        protostars
+       </a>
+       usually show differential rotation; examples in the
+       <a href="/wiki/Solar_System" title="Solar System">
+        Solar System
+       </a>
+       include the
+       <a href="/wiki/Sun" title="Sun">
+        Sun
+       </a>
+       ,
+       <a href="/wiki/Jupiter" title="Jupiter">
+        Jupiter
+       </a>
+       and
+       <a href="/wiki/Saturn" title="Saturn">
+        Saturn
+       </a>
+       .
+      </p>
+      <p>
+       Around the year 1610,
+       <a href="/wiki/Galileo_Galilei" title="Galileo Galilei">
+        Galileo Galilei
+       </a>
+       observed
+       <a class="mw-redirect" href="/wiki/Sunspots" title="Sunspots">
+        sunspots
+       </a>
+       and calculated the
+       <a href="/wiki/Solar_rotation" title="Solar rotation">
+        rotation of the Sun
+       </a>
+       . In 1630,
+       <a href="/wiki/Christoph_Scheiner" title="Christoph Scheiner">
+        Christoph Scheiner
+       </a>
+       reported that the Sun had different rotational periods at the poles and at the equator, in good agreement with modern values.
+      </p>
+      <p>
+      </p>
+      <div class="toc" id="toc">
+       <div class="toctitle" dir="ltr" lang="en" xml:lang="en">
+        <h2>
+         Contents
+        </h2>
+       </div>
+       <ul>
+        <li class="toclevel-1 tocsection-1">
+         <a href="#The_cause_of_differential_rotation">
+          <span class="tocnumber">
+           1
+          </span>
+          <span class="toctext">
+           The cause of differential rotation
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-2">
+         <a href="#Measuring_differential_rotation">
+          <span class="tocnumber">
+           2
+          </span>
+          <span class="toctext">
+           Measuring differential rotation
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-3">
+         <a href="#Effects_of_differential_rotation">
+          <span class="tocnumber">
+           3
+          </span>
+          <span class="toctext">
+           Effects of differential rotation
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-4">
+         <a href="#Calculating_differential_rotation">
+          <span class="tocnumber">
+           4
+          </span>
+          <span class="toctext">
+           Calculating differential rotation
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-5">
+         <a href="#Differential_rotation_of_the_Sun">
+          <span class="tocnumber">
+           5
+          </span>
+          <span class="toctext">
+           Differential rotation of the Sun
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-6">
+         <a href="#Differential_rotation_of_the_Milky_Way">
+          <span class="tocnumber">
+           6
+          </span>
+          <span class="toctext">
+           Differential rotation of the Milky Way
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-7">
+         <a href="#See_also">
+          <span class="tocnumber">
+           7
+          </span>
+          <span class="toctext">
+           See also
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-8">
+         <a href="#Further_reading">
+          <span class="tocnumber">
+           8
+          </span>
+          <span class="toctext">
+           Further reading
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-9">
+         <a href="#External_links">
+          <span class="tocnumber">
+           9
+          </span>
+          <span class="toctext">
+           External links
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <p>
+      </p>
+      <h2>
+       <span class="mw-headline" id="The_cause_of_differential_rotation">
+        The cause of differential rotation
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Differential_rotation&amp;action=edit&amp;section=1" title="Edit section: The cause of differential rotation">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       Because of the pre-stellar accretion phase, and the conservation of
+       <a href="/wiki/Angular_momentum" title="Angular momentum">
+        angular momentum
+       </a>
+       , rotation is induced. Differential rotation is caused by
+       <a href="/wiki/Convection" title="Convection">
+        convection
+       </a>
+       in stars which is a movement of mass, due to steep temperature gradients from the core outwards. This mass carries a portion of the star’s angular momentum, thus redistributing the angular velocity, possibly even far enough out for the star to lose angular velocity in
+       <a href="/wiki/Stellar_wind" title="Stellar wind">
+        stellar winds
+       </a>
+       . Differential rotation thus depends on temperature differences in adjacent regions.
+      </p>
+      <h2>
+       <span class="mw-headline" id="Measuring_differential_rotation">
+        Measuring differential rotation
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Differential_rotation&amp;action=edit&amp;section=2" title="Edit section: Measuring differential rotation">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       There are many ways to measure and calculate differential rotation in stars to see if different latitudes have different angular velocities. The most obvious being tracking spots on the stellar surface.
+      </p>
+      <p>
+       By doing
+       <a href="/wiki/Helioseismology" title="Helioseismology">
+        helioseismological
+       </a>
+       measurements of solar "p-modes" it is possible to deduce the differential rotation. The Sun has very many acoustic modes that oscillate in the interior simultaneously, and the inversion of their frequencies can yield the rotation of the solar interior. This varies with both depth and (especially) latitude.
+      </p>
+      <p>
+       The broadened shapes of absorption lines in the optical spectrum depend on v
+       <sub>
+        rot
+       </sub>
+       sin(i), where
+       <i>
+        i
+       </i>
+       is the angle between the line of sight and the rotation axis, permitting the study of the rotational velocity’s line-of-sight component v
+       <sub>
+        rot
+       </sub>
+       . This is calculated from
+       <a class="mw-redirect" href="/wiki/Fourier_transforms" title="Fourier transforms">
+        Fourier transforms
+       </a>
+       of the line shapes, using equation (2) below for v
+       <sub>
+        rot
+       </sub>
+       at the equator and poles. See also plot 2. Solar differential rotation is also seen in magnetograms, images showing the strength and location of solar magnetic fields.
+      </p>
+      <h2>
+       <span class="mw-headline" id="Effects_of_differential_rotation">
+        Effects of differential rotation
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Differential_rotation&amp;action=edit&amp;section=3" title="Edit section: Effects of differential rotation">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       Gradients in angular rotation caused by angular momentum redistribution within the convective layers of a star are expected to be a main driver for generating the large-scale magnetic field, through magneto-hydrodynamical (dynamo) mechanisms in the outer envelopes. The interface between these two regions is where angular rotation gradients are strongest and thus where dynamo processes are expected to be most efficient.
+      </p>
+      <p>
+       The inner differential rotation is one part of the mixing processes in stars, mixing the materials and the heat/energy of the stars.
+      </p>
+      <p>
+       Differential rotation affects stellar optical absorption-
+       <a class="mw-redirect" href="/wiki/Line_spectra" title="Line spectra">
+        line spectra
+       </a>
+       through
+       <a href="/wiki/Doppler_broadening" title="Doppler broadening">
+        line broadening
+       </a>
+       caused by lines being differently
+       <a class="mw-redirect" href="/wiki/Doppler-shifted" title="Doppler-shifted">
+        Doppler-shifted
+       </a>
+       across the stellar surface.
+      </p>
+      <p>
+       Solar differential rotation causes shear at the so-called tachocline. This is a region where rotation changes from differential in the convection zone to nearly solid-body rotation in the interior, at 0.71 solar radii from the center.
+      </p>
+      <h2>
+       <span class="mw-headline" id="Calculating_differential_rotation">
+        Calculating differential rotation
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Differential_rotation&amp;action=edit&amp;section=4" title="Edit section: Calculating differential rotation">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       For observed sunspots, the differential rotation can be calculated as:
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle \Omega =\Omega _{0}-\Delta \Omega \sin ^{2}\Psi }" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mi mathvariant="normal">
+               Ω
+               <!-- Ω -->
+              </mi>
+              <mo>
+               =
+              </mo>
+              <msub>
+               <mi mathvariant="normal">
+                Ω
+                <!-- Ω -->
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mn>
+                 0
+                </mn>
+               </mrow>
+              </msub>
+              <mo>
+               −
+               <!-- − -->
+              </mo>
+              <mi mathvariant="normal">
+               Δ
+               <!-- Δ -->
+              </mi>
+              <mi mathvariant="normal">
+               Ω
+               <!-- Ω -->
+              </mi>
+              <msup>
+               <mi>
+                sin
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mn>
+                 2
+                </mn>
+               </mrow>
+              </msup>
+              <mo>
+               ⁡
+               <!-- ⁡ -->
+              </mo>
+              <mi mathvariant="normal">
+               Ψ
+               <!-- Ψ -->
+              </mi>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle \Omega =\Omega _{0}-\Delta \Omega \sin ^{2}\Psi }
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="\Omega =\Omega _{{0}}-\Delta \Omega \sin ^{{2}}\Psi " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2e319d89b89be63744ddebb465aac39328698b8e" style="vertical-align: -0.671ex; width:20.455ex; height:3.009ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       where
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle \Omega _{0}}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <msub>
+              <mi mathvariant="normal">
+               Ω
+               <!-- Ω -->
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mn>
+                0
+               </mn>
+              </mrow>
+             </msub>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle \Omega _{0}}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="\Omega _{0}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d09f58739bf722ad06801001704ea92360f2b96c" style="vertical-align: -0.671ex; width:2.732ex; height:2.509ex;"/>
+       </span>
+       is the rotation rate at the equator, and
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle \Delta \Omega =(\Omega _{0}-\Omega _{\mathrm {pole} })}" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi mathvariant="normal">
+              Δ
+              <!-- Δ -->
+             </mi>
+             <mi mathvariant="normal">
+              Ω
+              <!-- Ω -->
+             </mi>
+             <mo>
+              =
+             </mo>
+             <mo stretchy="false">
+              (
+             </mo>
+             <msub>
+              <mi mathvariant="normal">
+               Ω
+               <!-- Ω -->
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mn>
+                0
+               </mn>
+              </mrow>
+             </msub>
+             <mo>
+              −
+              <!-- − -->
+             </mo>
+             <msub>
+              <mi mathvariant="normal">
+               Ω
+               <!-- Ω -->
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi mathvariant="normal">
+                 p
+                </mi>
+                <mi mathvariant="normal">
+                 o
+                </mi>
+                <mi mathvariant="normal">
+                 l
+                </mi>
+                <mi mathvariant="normal">
+                 e
+                </mi>
+               </mrow>
+              </mrow>
+             </msub>
+             <mo stretchy="false">
+              )
+             </mo>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle \Delta \Omega =(\Omega _{0}-\Omega _{\mathrm {pole} })}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="\Delta \Omega =(\Omega _{{0}}-\Omega _{{\mathrm  {pole}}})" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5f38acdab17fd7d3940a712d1033190b5b6c1a77" style="vertical-align: -1.005ex; width:18.928ex; height:3.009ex;"/>
+       </span>
+       is the difference in angular velocity between pole and equator, called the strength of the rotational shear.
+       <span class="mwe-math-element">
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math alttext="{\displaystyle \Psi }" xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi mathvariant="normal">
+              Ψ
+              <!-- Ψ -->
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle \Psi }
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="\Psi " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f5471531a3fe80741a839bc98d49fae862a6439a" style="vertical-align: -0.338ex; width:1.808ex; height:2.176ex;"/>
+       </span>
+       is the heliographic latitude, measured from the equator.
+      </p>
+      <ul>
+       <li>
+        The reciprocal of the rotational shear
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle {\frac {2\pi }{\Delta \Omega }}}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mrow class="MJX-TeXAtom-ORD">
+               <mfrac>
+                <mrow>
+                 <mn>
+                  2
+                 </mn>
+                 <mi>
+                  π
+                  <!-- π -->
+                 </mi>
+                </mrow>
+                <mrow>
+                 <mi mathvariant="normal">
+                  Δ
+                  <!-- Δ -->
+                 </mi>
+                 <mi mathvariant="normal">
+                  Ω
+                  <!-- Ω -->
+                 </mi>
+                </mrow>
+               </mfrac>
+              </mrow>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle {\frac {2\pi }{\Delta \Omega }}}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="{\frac  {2\pi }{\Delta \Omega }}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/38583e94c37dcd73b1ed66655ee25df5d5d1671a" style="vertical-align: -2.005ex; width:4.45ex; height:5.343ex;"/>
+        </span>
+        is the lap time, i.e. the time it takes for the equator to do a full lap more than the poles.
+       </li>
+       <li>
+        The relative differential rotation rate is the ratio of the rotational shear to the rotation rate at the equator:
+       </li>
+      </ul>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle \alpha ={\frac {\Delta \Omega }{\Omega _{0}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mi>
+               α
+               <!-- α -->
+              </mi>
+              <mo>
+               =
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mfrac>
+                <mrow>
+                 <mi mathvariant="normal">
+                  Δ
+                  <!-- Δ -->
+                 </mi>
+                 <mi mathvariant="normal">
+                  Ω
+                  <!-- Ω -->
+                 </mi>
+                </mrow>
+                <msub>
+                 <mi mathvariant="normal">
+                  Ω
+                  <!-- Ω -->
+                 </mi>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mn>
+                   0
+                  </mn>
+                 </mrow>
+                </msub>
+               </mfrac>
+              </mrow>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle \alpha ={\frac {\Delta \Omega }{\Omega _{0}}}}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="\alpha ={\frac  {\Delta \Omega }{\Omega _{{0}}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/55cdf7c6506977c3c979e05a4013640ad3637ecc" style="vertical-align: -2.338ex; width:9.036ex; height:5.843ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <ul>
+       <li>
+        The Doppler rotation rate in the Sun (measured from Doppler-shifted absorption lines), can be approximated as:
+       </li>
+      </ul>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle {\frac {\Omega }{2\pi }}(451.5-65.3\cos ^{2}\theta -66.7\cos ^{4}\theta )}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mrow class="MJX-TeXAtom-ORD">
+               <mfrac>
+                <mi mathvariant="normal">
+                 Ω
+                 <!-- Ω -->
+                </mi>
+                <mrow>
+                 <mn>
+                  2
+                 </mn>
+                 <mi>
+                  π
+                  <!-- π -->
+                 </mi>
+                </mrow>
+               </mfrac>
+              </mrow>
+              <mo stretchy="false">
+               (
+              </mo>
+              <mn>
+               451.5
+              </mn>
+              <mo>
+               −
+               <!-- − -->
+              </mo>
+              <mn>
+               65.3
+              </mn>
+              <msup>
+               <mi>
+                cos
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mn>
+                 2
+                </mn>
+               </mrow>
+              </msup>
+              <mo>
+               ⁡
+               <!-- ⁡ -->
+              </mo>
+              <mi>
+               θ
+               <!-- θ -->
+              </mi>
+              <mo>
+               −
+               <!-- − -->
+              </mo>
+              <mn>
+               66.7
+              </mn>
+              <msup>
+               <mi>
+                cos
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mn>
+                 4
+                </mn>
+               </mrow>
+              </msup>
+              <mo>
+               ⁡
+               <!-- ⁡ -->
+              </mo>
+              <mi>
+               θ
+               <!-- θ -->
+              </mi>
+              <mo stretchy="false">
+               )
+              </mo>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle {\frac {\Omega }{2\pi }}(451.5-65.3\cos ^{2}\theta -66.7\cos ^{4}\theta )}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="{\frac  {\Omega }{2\pi }}(451.5-65.3\cos ^{{2}}\theta -66.7\cos ^{{4}}\theta )" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e4ef2587f9defa6c6fc4a3d650042f8a3e80baf9" style="vertical-align: -1.838ex; width:36.446ex; height:5.343ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       where θ is the co-latitude (measured from the poles).
+      </p>
+      <h2>
+       <span class="mw-headline" id="Differential_rotation_of_the_Sun">
+        Differential rotation of the Sun
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Differential_rotation&amp;action=edit&amp;section=5" title="Edit section: Differential rotation of the Sun">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:202px;">
+        <a class="image" href="/wiki/File:Tachocline.gif">
+         <img alt="" class="thumbimage" data-file-height="314" data-file-width="297" height="211" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/Tachocline.gif/200px-Tachocline.gif" srcset="//upload.wikimedia.org/wikipedia/commons/8/86/Tachocline.gif 1.5x" width="200"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Tachocline.gif" title="Enlarge">
+          </a>
+         </div>
+         Internal rotation in the Sun, showing differential rotation in the outer convective region and almost uniform rotation in the central radiative region.
+        </div>
+       </div>
+      </div>
+      <div class="hatnote navigation-not-searchable" role="note">
+       See also:
+       <a href="/wiki/Solar_rotation" title="Solar rotation">
+        Solar rotation
+       </a>
+      </div>
+      <p>
+       On the Sun, the study of oscillations revealed that rotation is roughly constant within the whole radiative interior and variable with radius and latitude within the convective envelope. The Sun has an equatorial rotation speed of ~2 km/s; its differential rotation implies that the angular velocity decreases with increased latitude. The poles make one rotation every 34.3 days and the equator every 25.05 days, as measured relative to distant stars (sidereal rotation).
+      </p>
+      <p>
+       The highly turbulent nature of solar convection and anisotropies induced by rotation complicate the dynamics of modeling. Molecular dissipation scales on the Sun are at least six orders of magnitude smaller than the depth of the convective envelope. A direct numerical simulation of solar convection would have to resolve this entire range of scales in each of the three dimensions. Consequently, all solar differential rotation models must involve some approximations regarding momentum and heat transport by turbulent motions that are not explicitly computed. Thus, modeling approaches can be classified as either mean-field models or large-eddy simulations according to the approximations.
+      </p>
+      <h2>
+       <span class="mw-headline" id="Differential_rotation_of_the_Milky_Way">
+        Differential rotation of the Milky Way
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Differential_rotation&amp;action=edit&amp;section=6" title="Edit section: Differential rotation of the Milky Way">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="hatnote navigation-not-searchable" role="note">
+       See also:
+       <a href="/wiki/Milky_Way" title="Milky Way">
+        Milky Way
+       </a>
+       and
+       <a href="/wiki/Oort_constants" title="Oort constants">
+        Oort constants
+       </a>
+      </div>
+      <p>
+       Disk galaxies don't rotate like solid bodies, but rather rotate differentially. The rotation speed as a function of radius is called a rotation curve, and is often interpreted as a measurement of the mass profile of a galaxy, as:
+      </p>
+      <dl>
+       <dd>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle v_{c}(R)={\sqrt {\frac {GM(&lt;R)}{R}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <msub>
+               <mi>
+                v
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 c
+                </mi>
+               </mrow>
+              </msub>
+              <mo stretchy="false">
+               (
+              </mo>
+              <mi>
+               R
+              </mi>
+              <mo stretchy="false">
+               )
+              </mo>
+              <mo>
+               =
+              </mo>
+              <mrow class="MJX-TeXAtom-ORD">
+               <msqrt>
+                <mfrac>
+                 <mrow>
+                  <mi>
+                   G
+                  </mi>
+                  <mi>
+                   M
+                  </mi>
+                  <mo stretchy="false">
+                   (
+                  </mo>
+                  <mo>
+                   &lt;
+                  </mo>
+                  <mi>
+                   R
+                  </mi>
+                  <mo stretchy="false">
+                   )
+                  </mo>
+                 </mrow>
+                 <mi>
+                  R
+                 </mi>
+                </mfrac>
+               </msqrt>
+              </mrow>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle v_{c}(R)={\sqrt {\frac {GM(&lt;R)}{R}}}}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="{\displaystyle v_{c}(R)={\sqrt {\frac {GM(&lt;R)}{R}}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/14e794056a9df0858df126a037d1773d1b29e01e" style="vertical-align: -2.838ex; width:22.199ex; height:7.509ex;"/>
+        </span>
+       </dd>
+      </dl>
+      <p>
+       where
+      </p>
+      <ul>
+       <li>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle v_{c}(R),}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <msub>
+               <mi>
+                v
+               </mi>
+               <mrow class="MJX-TeXAtom-ORD">
+                <mi>
+                 c
+                </mi>
+               </mrow>
+              </msub>
+              <mo stretchy="false">
+               (
+              </mo>
+              <mi>
+               R
+              </mi>
+              <mo stretchy="false">
+               )
+              </mo>
+              <mo>
+               ,
+              </mo>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle v_{c}(R),}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="v_{c}(R)," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f45a3dd9555a9da7a9559cef9ee2b961ac5664f3" style="vertical-align: -0.838ex; width:6.292ex; height:2.843ex;"/>
+        </span>
+        is the rotation speed at radius
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle R}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mi>
+               R
+              </mi>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle R}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="R" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4b0bfb3769bf24d80e15374dc37b0441e2616e33" style="vertical-align: -0.338ex; width:1.764ex; height:2.176ex;"/>
+        </span>
+       </li>
+       <li>
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle M(&lt;R),}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mi>
+               M
+              </mi>
+              <mo stretchy="false">
+               (
+              </mo>
+              <mo>
+               &lt;
+              </mo>
+              <mi>
+               R
+              </mi>
+              <mo stretchy="false">
+               )
+              </mo>
+              <mo>
+               ,
+              </mo>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle M(&lt;R),}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="M(&lt;R)," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/93942548e073e8f14cb7363d28b6a4af715dc210" style="vertical-align: -0.838ex; width:9.116ex; height:2.843ex;"/>
+        </span>
+        is the total mass enclosed within radius
+        <span class="mwe-math-element">
+         <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+          <math alttext="{\displaystyle R}" xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mstyle displaystyle="true" scriptlevel="0">
+              <mi>
+               R
+              </mi>
+             </mstyle>
+            </mrow>
+            <annotation encoding="application/x-tex">
+             {\displaystyle R}
+            </annotation>
+           </semantics>
+          </math>
+         </span>
+         <img alt="R" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4b0bfb3769bf24d80e15374dc37b0441e2616e33" style="vertical-align: -0.338ex; width:1.764ex; height:2.176ex;"/>
+        </span>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="See_also">
+        See also
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Differential_rotation&amp;action=edit&amp;section=7" title="Edit section: See also">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a href="/wiki/Solar_rotation" title="Solar rotation">
+         Solar rotation
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Giovanni_Domenico_Cassini" title="Giovanni Domenico Cassini">
+         Giovanni Cassini
+        </a>
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/Solar_nebula" title="Solar nebula">
+         Solar nebula
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Stellar_rotation" title="Stellar rotation">
+         Stellar rotation
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Sunspot" title="Sunspot">
+         Sunspot
+        </a>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="Further_reading">
+        Further reading
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Differential_rotation&amp;action=edit&amp;section=8" title="Edit section: Further reading">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        Annu. Rev. Astron. Astrophys. 2003. 41:599-643
+        <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+         doi
+        </a>
+        :
+        <a class="external text" href="https://doi.org/10.1146%2Fannurev.astro.41.011802.094848" rel="nofollow">
+         10.1146/annurev.astro.41.011802.094848
+        </a>
+        "
+        <i>
+         The Internal Rotation of the Sun
+        </i>
+        "
+       </li>
+       <li>
+        David F. Gray,
+        <i>
+         Stellar Photospheres; The Observations and Analysis of: Third Edition
+        </i>
+        , chapter 8, Cambridge University Press,
+        <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+         ISBN
+        </a>
+        <a href="/wiki/Special:BookSources/978-0-521-85186-2" title="Special:BookSources/978-0-521-85186-2">
+         978-0-521-85186-2
+        </a>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="External_links">
+        External links
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Differential_rotation&amp;action=edit&amp;section=9" title="Edit section: External links">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a class="external text" href="http://www.astro.physik.uni-goettingen.de/~areiners/DiffRot/interactive.htm" rel="nofollow">
+         http://www.astro.physik.uni-goettingen.de/~areiners/DiffRot/interactive.htm A simulation of the effects of differential rotation on stellar absorption-line profiles by Ansgar Reiners
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://www.aanda.org/index.php?option=article&amp;access=standard&amp;Itemid=129&amp;url=/articles/aa/full/2002/10/aa1929/aa1929.right.html" rel="nofollow">
+         A. Reiners &amp; J. H. M. M. Schmitt: On the feasibility of the detection of differential rotation in stellar absorption profiles, Astronomy &amp; Astrophysics 384, 155-162 (2002) -
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://www.es.ucsc.edu/~glatz/sun_giants.html" rel="nofollow">
+         explanation of increased angular velocity at equatorial latitude due to overshoot of mass arriving from heated core
+        </a>
+       </li>
+      </ul>
+      <!-- 
+NewPP limit report
+Parsed by mw1241
+Cached time: 20180228123253
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.108 seconds
+Real time usage: 0.178 seconds
+Preprocessor visited node count: 463/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 6060/2097152 bytes
+Template argument size: 740/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 1/500
+Lua time usage: 0.026/10.000 seconds
+Lua memory usage: 1.08 MB/50 MB
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  107.127      1 -total
+ 49.69%   53.233      1 Template:Unreferenced
+ 30.72%   32.910      1 Template:Ambox
+ 30.71%   32.899      1 Template:ISBN
+ 14.23%   15.244      1 Template:Catalog_lookup_link
+ 10.68%   11.446      2 Template:See_also
+  7.17%    7.685      1 Template:Doi
+  5.57%    5.962      1 Template:Error-small
+  4.56%    4.890      3 Template:Yesno-no
+  3.82%    4.094      2 Template:Hide_in_print
+-->
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:191710-0!canonical!math=5 and timestamp 20180228123253 and revision id 801804183
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Differential_rotation&amp;oldid=801804183">
+      https://en.wikipedia.org/w/index.php?title=Differential_rotation&amp;oldid=801804183
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Co-orbital_objects" title="Category:Co-orbital objects">
+         Co-orbital objects
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Astrophysics" title="Category:Astrophysics">
+         Astrophysics
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:Articles_lacking_sources_from_December_2009" title="Category:Articles lacking sources from December 2009">
+         Articles lacking sources from December 2009
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:All_articles_lacking_sources" title="Category:All articles lacking sources">
+         All articles lacking sources
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Differential+rotation" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Differential+rotation" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Differential_rotation" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Differential_rotation" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="collapsible selected" id="ca-view">
+        <span>
+         <a href="/wiki/Differential_rotation">
+          Read
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Differential_rotation&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Differential_rotation&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Differential_rotation" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Differential_rotation" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Differential_rotation&amp;oldid=801804183" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Differential_rotation&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q59122" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Differential_rotation&amp;id=801804183" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Differential+rotation">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:ElectronPdf&amp;page=Differential+rotation&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Differential_rotation&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-ar">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%AF%D9%88%D8%B1%D8%A7%D9%86_%D8%AA%D9%81%D8%A7%D8%B6%D9%84%D9%8A" hreflang="ar" lang="ar" title="دوران تفاضلي – Arabic">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Rotaci%C3%B3_diferencial" hreflang="ca" lang="ca" title="Rotació diferencial – Catalan">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cs">
+        <a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Diferenci%C3%A1ln%C3%AD_rotace" hreflang="cs" lang="cs" title="Diferenciální rotace – Czech">
+         Čeština
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-da">
+        <a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Differentiel_rotation" hreflang="da" lang="da" title="Differentiel rotation – Danish">
+         Dansk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Differentielle_Rotation" hreflang="de" lang="de" title="Differentielle Rotation – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-el">
+        <a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%94%CE%B9%CE%B1%CF%86%CE%BF%CF%81%CE%B9%CE%BA%CE%AE_%CF%80%CE%B5%CF%81%CE%B9%CF%83%CF%84%CF%81%CE%BF%CF%86%CE%AE" hreflang="el" lang="el" title="Διαφορική περιστροφή – Greek">
+         Ελληνικά
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Rotaci%C3%B3n_diferencial" hreflang="es" lang="es" title="Rotación diferencial – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Rotation_diff%C3%A9rentielle" hreflang="fr" lang="fr" title="Rotation différentielle – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ko">
+        <a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%B0%A8%EB%93%B1%ED%9A%8C%EC%A0%84" hreflang="ko" lang="ko" title="차등회전 – Korean">
+         한국어
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hr">
+        <a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Diferencijalna_rotacija" hreflang="hr" lang="hr" title="Diferencijalna rotacija – Croatian">
+         Hrvatski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Rotazione_differenziale" hreflang="it" lang="it" title="Rotazione differenziale – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lb">
+        <a class="interlanguage-link-target" href="https://lb.wikipedia.org/wiki/Differentiell_Rotatioun" hreflang="lb" lang="lb" title="Differentiell Rotatioun – Luxembourgish">
+         Lëtzebuergesch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ml">
+        <a class="interlanguage-link-target" href="https://ml.wikipedia.org/wiki/%E0%B4%A1%E0%B4%BF%E0%B4%AB%E0%B5%86%E0%B4%B1%E0%B5%BB%E0%B4%B7%E0%B5%8D%E0%B4%AF%E0%B5%BD_%E0%B4%AD%E0%B5%8D%E0%B4%B0%E0%B4%AE%E0%B4%A3%E0%B4%82" hreflang="ml" lang="ml" title="ഡിഫെറൻഷ്യൽ ഭ്രമണം – Malayalam">
+         മലയാളം
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nl">
+        <a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Differenti%C3%ABle_rotatie" hreflang="nl" lang="nl" title="Differentiële rotatie – Dutch">
+         Nederlands
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E5%B7%AE%E5%8B%95%E5%9B%9E%E8%BB%A2" hreflang="ja" lang="ja" title="差動回転 – Japanese">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-no">
+        <a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Differensiell_rotasjon" hreflang="no" lang="no" title="Differensiell rotasjon – Norwegian">
+         Norsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pl">
+        <a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Rotacja_r%C3%B3%C5%BCnicowa" hreflang="pl" lang="pl" title="Rotacja różnicowa – Polish">
+         Polski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Rota%C3%A7%C3%A3o_diferencial" hreflang="pt" lang="pt" title="Rotação diferencial – Portuguese">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%94%D0%B8%D1%84%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%B2%D1%80%D0%B0%D1%89%D0%B5%D0%BD%D0%B8%D0%B5" hreflang="ru" lang="ru" title="Дифференциальное вращение – Russian">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sk">
+        <a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Diferenci%C3%A1lna_rot%C3%A1cia" hreflang="sk" lang="sk" title="Diferenciálna rotácia – Slovak">
+         Slovenčina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sh">
+        <a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Diferencijalna_rotacija" hreflang="sh" lang="sh" title="Diferencijalna rotacija – Serbo-Croatian">
+         Srpskohrvatski / српскохрватски
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sv">
+        <a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Differentiell_rotation" hreflang="sv" lang="sv" title="Differentiell rotation – Swedish">
+         Svenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E8%BC%83%E5%B7%AE%E8%87%AA%E8%BD%89" hreflang="zh" lang="zh" title="較差自轉 – Chinese">
+         中文
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q59122#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 21 September 2017, at 23:46.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Differential_rotation&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.108","walltime":"0.178","ppvisitednodes":{"value":463,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":6060,"limit":2097152},"templateargumentsize":{"value":740,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  107.127      1 -total"," 49.69%   53.233      1 Template:Unreferenced"," 30.72%   32.910      1 Template:Ambox"," 30.71%   32.899      1 Template:ISBN"," 14.23%   15.244      1 Template:Catalog_lookup_link"," 10.68%   11.446      2 Template:See_also","  7.17%    7.685      1 Template:Doi","  5.57%    5.962      1 Template:Error-small","  4.56%    4.890      3 Template:Yesno-no","  3.82%    4.094      2 Template:Hide_in_print"]},"scribunto":{"limitreport-timeusage":{"value":"0.026","limit":"10.000"},"limitreport-memusage":{"value":1134067,"limit":52428800}},"cachereport":{"origin":"mw1241","timestamp":"20180228123253","ttl":1900800,"transientcontent":false}}});});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":86,"wgHostname":"mw1270"});});
+  </script>
+ </body>
+</html>
