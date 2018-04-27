@@ -1,5 +1,6 @@
 # Information-Retrieval
-Python Code for the following :
+## Python Code for the following :
+
 	1. Crawler 
 	2. Page ranking Algorithm 
 	3. Text Transformation &amp; Inverted Index 
