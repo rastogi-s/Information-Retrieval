@@ -42,8 +42,8 @@
  		
  		
 
-		> Source Code       : GenerateCorpus.py (parsing and tokenization) and Indexer.py 
-							  (generating index)
+		> Source Code       : GenerateCorpus.py (parsing and tokenization) and Indexer.py
+		                      (generating index)
 		> README.txt        : Details of the tasks, deliverables, setup or installation guide,  
 		                      steps to run the program.
 		> Four pickle files : Unigram-index.pickle, Bi-gram-index.pickle, Trigram-index.pickle,
