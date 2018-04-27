@@ -106,6 +106,7 @@ SPECIAL INSTRUCTIONS:
 
 CITATIONS AND REFERENCES:
 
-		> https://en.wikipedia.org/wiki/Okapi_BM25 and in-class study materials was referred for BM25 
-		  implementation
-		> http://lucene.apache.org/ was referred and quoted for Lucene implementation and discussion.
+		> https://en.wikipedia.org/wiki/Okapi_BM25 and in-class study materials was referred for 
+		  BM25 implementation
+		> http://lucene.apache.org/ was referred and quoted for Lucene implementation and 
+		  discussion.
