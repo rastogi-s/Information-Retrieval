@@ -46,21 +46,21 @@
 							  (generating index)
 		> README.txt        : Details of the tasks, deliverables, setup or installation guide,  
 		                      steps to run the program.
-		> Four pickle files : Unigram-index.pickle, Bi-gram-index.pickle, Trigram-index.pickle, 
-							  UnigramPosition-index.pickle containing data structure objects  
-							  holding of unigram inverted index, bigram inverted index, trigram 
-							  inverted index and unigram inverted index with position of each term 
-							  respectively. [Explaination of use of pickle in the assignment mentioned 
-							  below]
+		> Four pickle files : Unigram-index.pickle, Bi-gram-index.pickle, Trigram-index.pickle,
+							  UnigramPosition-index.pickle containing data structure objects
+							  holding of unigram inverted index, bigram inverted index, 
+							  trigram inverted index and unigram inverted index with position 
+							  of each term respectively. [Explaination of use of pickle in the
+							  assignment mentioned below]
 		> Four text files   : Unigram-index.txt, Bi-gram-index.txt, Trigram-index.txt, 
-							  UnigramPosition-index.txt containing textual format of the 
+							  UnigramPosition-index.txt containing textual format of the
 							  unigram inverted index, bigram inverted index, trigram inverted index 
 							  and unigram inverted index with position of each term respectively.
 		> Three text files  : UnigramTfTable.txt, Bi-gramTfTable.txt, TrigramTfTable.txt containing 
 							  the term frequency table for unigram(n=1), bigram(n=2) and trigram(n=3)
 							  respectively.
-		> Three text files  : UnigramDfTable.txt, Bi-gramDfTable.txt, TrigramDfTable.txt containing  
-							  the document frequency table for unigram(n=1), bigram(n=2) and trigram(n=3)
+		> Three text files  : UnigramDfTable.txt, Bi-gramDfTable.txt, TrigramDfTable.txt containing 
+							  the document frequency table for unigram(n=1), bigram(n=2) and trigram(n=3) 
 							  respectively.
 		> One text file     : Stoplist.txt containing the stoplist generated from the indexes -unigram, 
 							  bigram and trigram and a brief discussion on the cutoff selection and 
