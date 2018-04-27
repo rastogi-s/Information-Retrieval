@@ -1,0 +1,206 @@
+############################################################################################################
+######################################### Homework 2  : Task2-C ############################################
+############################################################################################################
+
+
+
+> 1. Re-run the PageRank algorithm using a damping factor d = 0.55. Does that affect the process 
+     and the resulting PageRank with respect to the baseline? Discuss the results.
+	 
+	 Yes, it affects the process and the resulting pageRank with respect to the baseline.Upon running the PageRank Algorithm 
+	 with damping factor d=0.55, there was a huge change in the order or rank of the pages. There was also changes in 
+	 PageRanking score of each page. The pageRank converged just after 7 iterations while it took 15 iterations for baseline. 
+	 We can draw one conclusion from above result is lower damping factor leads to less computation and converges quickly.
+	 
+	 Perplexity values for each round :
+
+		Round 1. 867.62610195
+		Round 2. 853.446360743
+		Round 3. 847.599552526
+		Round 4. 847.359292615
+		Round 5. 847.914244287
+		Round 6. 848.202789654
+		Round 7. 848.365298064
+	 
+	 
+	Further observations are mentioned below: 
+	 
+	Total change in ranking due to change in teleportation factor : 937
+	 
+	************** Top 10 from baseline and  new run of page rank with d=0.55 *****************
+	
+	Left hand side is the baseline data and right hand side the new run data.
+	Note (structure) :('Base line data', 'new data') 
+					  The detailed data(top 50) is also present in the PageRanking_Top50_(All_Variations)_G1.txt file
+	
+	(('Wayback_Machine', 0.023394372319525455), ('International_Standard_Book_Number', 0.016162930302000666))
+	(('International_Standard_Book_Number', 0.021718131638111777), ('Digital_object_identifier', 0.011916023364651175))
+	(('Integrated_Authority_File', 0.01817974199855576), ('Wayback_Machine', 0.011711091049855599))
+	(('Digital_object_identifier', 0.017469385186149076), ('Integrated_Authority_File', 0.010726158402304843))
+	(('Library_of_Congress_Control_Number', 0.013255946844701664), ('Library_of_Congress_Control_Number', 0.008098164273556396))
+	(('Bibcode', 0.00966914026803682), ('Bibcode', 0.006857380996590106))
+	(('PubMed_Identifier', 0.008047483852729366), ('PubMed_Identifier', 0.0052071238998906925))
+	(('National_Diet_Library', 0.0064382738456099506), ('Moon', 0.004703354084877799))
+	(('OCLC', 0.0058656277229957605), ('National_Diet_Library', 0.004408998210504107))
+	(('Astronomy', 0.005743449252027345), ('Earth', 0.004217050302364972))
+	(('Moon', 0.005434573570514229), ('Sun', 0.0041954235062155384))
+	
+	
+	 Observing the change in rank and page rank score of some of the pages.
+		
+	 1. Base Line : Rank 1 ('Wayback_Machine', 0.023394372319525455)
+	    New Run : Rank 3 ('Wayback_Machine', 0.011711091049855599)
+	    In-Link Count of the page :128
+	    Out-Link Count of the page : 0 
+	 
+	 2. Base Line : Rank 2 ('International_Standard_Book_Number', 0.021718131638111777)
+	    New Run : Rank 1 ('International_Standard_Book_Number', 0.016162930302000666)
+	    International_Standard_Book_Number, In-Link Count :347
+	    Out-Link Count of the page : 6 
+	 
+	 3. Base Line : Rank 4 ('Digital_object_identifier', 0.017469385186149076)
+	    New Run : Rank 2 ('Digital_object_identifier', 0.011916023364651175)
+	    Digital_object_identifier, In-Link Count :267
+	    Out-Link Count of the page : 7
+	    
+	   # Conclusion from above result:
+	    
+	    Page rank calculation PR(u) =1-d/N+ d·∑ v∈Bu (PR(v)/Lv)
+	    where Lv = number of out-links from page v , N= number of pages , Bu= set of in-links to page u.
+	    
+	    Earlier, d = 0.85 and 1-d = 0.15 , so random link selection is given less weightage as compared to 
+	    the selection of link from the given in-link pages.
+	    
+	    But in the new run d=0.55 and 1-d=0.45 , which is somewhat uniformly distributed , both will play an equal
+	    role in deciding the page rank.
+	     
+	    Hence, the change in ranking due to change in damping factor.
+	    So the teleportation factor plays an important role in ranking of the pages.
+	    
+	 
+> 2. Re-run the PageRank algorithm in Task2-B for exactly 4 iterations. Discuss the results obtained 
+	 with respect to the baseline.
+	
+	RESULTS: With baseline it takes 15 iterations for pagerank to converge.Obviously convergence cannot be reached in 4 iterations as  
+			 observed in baseline run. But in this run, as per observation there were few pages out of 1000 whose pageranks have been aligned
+			 with the base line only in four iterations but have different PageRank scores as compared to baseline. On the other hand
+			 there are many pages (precisely 884) that have different ranks(baseline v/s new run) among the 1000 pages crawled.
+			 Below data shows the actual difference in ranking after 4 iterations. 
+	
+	
+	Perplexity values for each round :
+	
+	Round 1:741.427365946
+	Round 2:701.421230278
+	Round 3:678.219722365
+	Round 4:676.019352915		
+
+	Change in ranking due to limited iteration : 884
+	
+	We can observe the difference in the score of the pages. 
+
+	
+	************** Top 30 from baseline and  new run of page rank(limited iteration) *****************
+	
+	
+	Note (structure) :('Base line data', 'new data')
+	The detailed data(top 50) is  present in the PageRanking_Top50_(All_Variations)_G1.txt file
+	
+	(('Wayback_Machine', 0.023394372319525455), ('Wayback_Machine', 0.025790755392997727))
+	(('International_Standard_Book_Number', 0.021718131638111777), ('International_Standard_Book_Number', 0.023487231660323897))
+	(('Integrated_Authority_File', 0.01817974199855576), ('Integrated_Authority_File', 0.019862632393021936))
+	(('Digital_object_identifier', 0.017469385186149076), ('Digital_object_identifier', 0.01886327567617736))
+	(('Library_of_Congress_Control_Number', 0.013255946844701664), ('Library_of_Congress_Control_Number', 0.01436232291724461))
+	(('Bibcode', 0.00966914026803682), ('Bibcode', 0.01042048375527225))
+	(('PubMed_Identifier', 0.008047483852729366), ('PubMed_Identifier', 0.008719145912739134))
+	(('National_Diet_Library', 0.0064382738456099506), ('National_Diet_Library', 0.00703052484448197))
+	(('OCLC', 0.0058656277229957605), ('OCLC', 0.006402451340132462))
+	(('Astronomy', 0.005743449252027345), ('Astronomy', 0.006156456992230928))
+	(('Moon', 0.005434573570514229), ('Moon', 0.005760604870989832))
+	(('PubMed_Central', 0.004979092795332112), ('PubMed_Central', 0.005375501787389628))
+	(('Earth', 0.004968837083774273), ('Canada', 0.00527104630391506))
+	(('Sun', 0.004905500546461416), ('Earth', 0.005200855314977276))
+	(('Canada', 0.004810122890804518), ('Sun', 0.005111779169756619))
+	(('ArXiv', 0.004536740578402577), ('ArXiv', 0.0048756266380115725))
+	(('Solar_eclipse', 0.003300473269211303), ('Solar_eclipse', 0.0033469014555729893))
+	(('United_Kingdom', 0.0030530878444060467), ('United_Kingdom', 0.0033411534016359835))
+	(('NASA', 0.0028245598263861712), ('NASA', 0.002909599636824692))
+	(('Solar_System', 0.002610906475756658), ('Solar_System', 0.002782368199562675))
+	(('Eclipse', 0.0025688946775478034), ('Eclipse', 0.002576485453426023))
+	(('France', 0.00201055589859766), ('Russia', 0.002174164111890299))
+	(('Russia', 0.0020003136020155096), ('France', 0.0021706956289009763))
+	(('India', 0.0018874513445159523), ('India', 0.002022477099733332))
+	(('Cyprus', 0.0017881293293524776), ('Cyprus', 0.001971611980473703))
+	(('Turkey', 0.0017483641732323068), ('Turkey', 0.0019202902097172978))
+	(('Corona', 0.001616068988333798), ('Germany', 0.0017601950238066762))
+	(('Cambridge_University_Press', 0.0016093033794361002), ('Cambridge_University_Press', 0.0017298738208080806))
+	(('Germany', 0.0016033043464153448), ('Corona', 0.001683815598683958))
+	(('Star', 0.0015391268386577802), ('Star', 0.0016331356978936458))
+	
+	 Observing the rank and page rank score of some of the pages in new run that was not in same rank as the baseline
+		
+	 1. Base Line : Rank 27 ('Corona', 0.001616068988333798)
+	    New Run : Rank 29 ('Corona', 0.001683815598683958)
+	    In-Link Count of the page :78
+	    Out-Link Count of the page :125 
+	
+	 2. Base Line : Rank 29 ('Germany', 0.0016033043464153448)
+	    New Run : Rank 27 ('Germany', 0.0017601950238066762)
+	    In-Link Count of the page : 50
+	    Out-Link Count of the page :31 
+	    
+	We can conclude from the above result that until the pageRank score converges there will be ambiguity in actual
+	ranks of the pages.
+	
+	 
+> 3. Sort the documents based on their raw in-link count. Compare the top 10 documents in this run 
+	 to those obtained in Task2-B. Discuss the pros and cons of using the in-link count as an alternative
+	 to PageRank (address at least 2 pros and 2 cons).
+	 
+	 PageRank top 10:
+	 # 1. Doc ID :Wayback_Machine, PageRank :0.0233943723195
+	 # 2. Doc ID :International_Standard_Book_Number, PageRank :0.0217181316381
+	 # 3. Doc ID :Integrated_Authority_File, PageRank :0.0181797419986
+	 # 4. Doc ID :Digital_object_identifier, PageRank :0.0174693851861
+	 # 5. Doc ID :Library_of_Congress_Control_Number, PageRank :0.0132559468447
+	 # 6. Doc ID :Bibcode, PageRank :0.00966914026804
+	 # 7. Doc ID :PubMed_Identifier, PageRank :0.00804748385273
+	 # 8. Doc ID :National_Diet_Library, PageRank :0.00643827384561
+	 # 9. Doc ID :OCLC, PageRank :0.005865627723
+	 # 10. Doc ID :Astronomy, PageRank :0.00574344925203
+	 
+	 In-link Count top 10:
+	 
+	 # 1. Doc ID :Solar_eclipse, In-Link Count :681
+	 # 2. Doc ID :Eclipse, In-Link Count :630
+	 # 3. Doc ID :Solar_eclipses_on_the_Moon, In-Link Count :595
+	 # 4. Doc ID :Moon, In-Link Count :558
+	 # 5. Doc ID :Sun, In-Link Count :549
+	 # 6. Doc ID :Transit_(astronomy), In-Link Count :532
+	 # 7. Doc ID :Solar_eclipse_of_August_11,_1999, In-Link Count :530
+	 # 8. Doc ID :Solar_eclipse_of_May_29,_1919, In-Link Count :525
+	 # 9. Doc ID :Solar_eclipse_of_August_21,_2017, In-Link Count :525
+	 # 10. Doc ID :Saros_(astronomy), In-Link Count :525
+	 
+	 As we can see from the above result none of the docID match between the two results.
+	 We observe that in-link count ranking of the crawled(BFS) pages gave the result which is more topical
+	 than the pageRanking algorithm. But this is only useful depending upon the type of crawling , because in 
+	 case of DFS we would get more off topic pages in higher ranks using in-link count.
+	 
+	 Pros and Cons of using in-link as an alternative to pageRank are:
+	 
+	 Pros :
+	  1> Effective and easy to rank pages based on their in-link counts.
+	  2> Require less computation and is very fast as we only consider the in-links
+	  3> Can be manipulated based on type of crawling to get best result (BFS crawl tends to remain near to the topic 
+	     thus having more in-links to important pages )
+	  
+	 Cons :
+	  1> Not reliable i.e. it is susceptible to spam. [ trackback links can be added or links can be added to comment section of popular sites]
+	  2> Cannot segregate ranking based on popularity. for example suppose a page which has less number of in-links 
+	     but a popular WebPage points towards it then it should have much higher ranking than a less popular page with more
+		 in-links.
+	  3> Does not take into consideration about the number of out-links.
+	  4> Depends on the type of crawling as BFS crawl tends to remain near to the topic thus having more in-links to important
+	  	 pages and during DFS crawl it deviates from the topic and have more in-links to off topic pages.
+	  5> Dangling or cyclic nodes are not handled which can mislead the page ranking based on in-link count.
